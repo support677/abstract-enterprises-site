@@ -4141,3 +4141,52 @@ Google PAA, Google PASF / related searches, AnswerThePublic, Bing, DuckDuckGo: *
 - Can the entry panel ring residents' cell phones without an app? — Swiftlane FAQ — https://swiftlane.com/blog/telephone-entry-systems/
 - Why does the strike buzz but the door stays locked? — Brooklyn installer blog — https://www.uasecurity.com/blog1/2026/08/25/brooklyn-intercom-repair-common-problems/
 - EMPTY for PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Yelp (not accessible in build env)
+
+## Greenpoint, Brooklyn — /door-buzzer-installation-greenpoint-brooklyn-ny (factory research, 2026-11-12)
+
+**City record (NYC Open Data, queried November 12, 2026, ZIP 11222)**
+- HPD Housing Maintenance Code Violations dataset, descriptions containing "INTERCOM", ZIP 11222: 199 violations on record since 1996; by year since 2018: 12 (2018), 11 (2019), 13 (2020), 7 (2021), 8 (2022), 5 (2023), 24 (2024), 11 (2025), 24 (2026 through Nov 12) — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- Of the 64 intercom violations written in 11222 since January 1, 2023, 33 were still open and 31 closed or dismissed on Nov 12, 2026 — same dataset
+- Of those 64, only six named an apartment above the third story (three on the 4th floor of one Franklin Street building, one 4th floor on Dupont Street, one 4th floor on Milton Street, one 9th floor on Quay Street); the rest were on floors 1–3 or at the entrance itself — same dataset
+- One Franklin Street building accounts for 23 of the 64 (2024–2026); one second-floor apartment there was cited 12 times between July 2024 and October 23, 2026, the second-floor front apartment 8 more times — same dataset
+- Descriptions name the parts that fail: "RETURN BUZZER IN THE KITCHEN", "BELL/BUZZER INTERCOM IN THE ENTIRE APARTMENT", "INTERCOM RELAY FROM BUILDING FRONT ENTRANCE DOOR" (9th story, Quay Street), "REPLACE WITH NEW THE MISSING INTERCOM PANEL AT BUILDING ENTRANCE" and "BELL-BUZZER INTERCOM SYSTEM NOT ACCESSIBLE TO PUBLIC AT VESTIBULE" (Manhattan Avenue, Feb 2024) — same dataset
+- Milton Street, Sept 17 2026: three apartments cited for broken intercom "FROM BUILDING ENTRANCE TO PROGRAMMABLE CELL PHONE" — a phone-answering system is held to the same repair duty — same dataset
+- A Dupont Street violation (Oct 2025) carries the status "FALSE CERTIFICATION" — HPD found the owner's certified repair was not done — same dataset
+- Streets with intercom violations since 2023: Franklin St, Meeker Ave, Kingsland Ave, Manhattan Ave, Morgan Ave, Eagle St, Milton St, Newel St, Dupont St, Sutton St, Norman Ave, Eckford St, Huron St, Calyer St, Beadel St, Monitor St, Greenpoint Ave, Blue Slip, Quay St — same dataset
+- Self-closing door violations in 11222 (descriptions containing "SELF…CLOS"): 274 (2023), 222 (2024), 284 (2025), 259 (2026 to Nov 12) — same dataset
+- HPD Complaints and Problems dataset, intercom problems, ZIP 11222: 36 (2023), 57 (2024), 28 (2025), 47 (2026 to Nov 12); 23–39 a year 2003–2013, 61 in 2014 — https://data.cityofnewyork.us/resource/ygpa-z7cr.json
+
+**Landmarks rules**
+- Greenpoint Historic District, LP-1248, public hearing May 19 1981, designated September 14 1982 — https://www.nyc.gov/assets/lpc/downloads/pdf/maps/HistoricDistrictMaps/Brooklyn/greenpoint.pdf
+- Designation report: district has "substantial rowhouses built for the owners and managers of nearby businesses and factories, more modest rowhouses and numerous flathouses (walk-up apartment houses) for the factory laborers"; Greenpoint Avenue "notable for the long rows of flathouses with commercial ground floors"; Milton Street "Rope moldings enframe the wooden double entrance doors"; Noble St Nos. 124 and 126 a pair of frame houses — https://s-media.nyc.gov/agencies/lpc/lp/1248.pdf
+- District covers property on Java, Franklin, Kent, Milton, Noble, Calyer, Leonard, Oak, Guernsey streets — https://greenpointers.com/2018/01/02/hist-list-every-official-historic-landmark-greenpoint/
+- LPC Permit Guidebook ch. 11: "Light fixtures and intercom panels must be installed within or adjacent to a door opening"; "An intercom can also be installed on a fence or wall in front of the entranceway"; "A maximum of two light fixtures and one intercom panel can be installed per door opening"; "Design, size, and finish of installations must be compatible with the architecture of the building (i.e., neutral and discreet)" — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+
+**Local voices**
+- r/Greenpoint "Deliveries": resident says delivery people ring their buzzer, then say the package is for another apartment — https://www.reddit.com/r/Greenpoint/comments/1r0ak9l/deliveries/
+- r/Greenpoint "Door ringing at 5 am": "Most drivers will ring multiple apartments at once to get into the building" — https://www.reddit.com/r/Greenpoint/comments/1k55r7j/door_ringing_at_5_am/
+- r/Greenpoint, 239 Banker St thread: "Old intercom systems still installed, a couple neighbors of mine complained about live wires" — https://www.reddit.com/r/Greenpoint/comments/1pnppeo/issues_for_residents_at_239_banker_st/
+- News 12 Brooklyn, Nov 11 2015: police warned Greenpoint residents about a pair caught on camera stealing packages from apartment buildings — https://brooklyn.news12.com/police-urge-greenpoint-residents-to-be-on-the-lookout-for-package-thieves-34780323
+- r/AskNYC: 5-unit Chelsea condo got two quotes "~$8-10K to have a video intercom installed" — https://www.reddit.com/r/AskNYC/comments/xkdsh1/anyone_in_a_small_5_unit_condocoop_recently_get_a/
+- r/AskNYC: tenant considering a newly built 3-unit Brooklyn building with no buzzer and one mailbox — https://www.reddit.com/r/AskNYC/comments/1t74q1e/is_no_buzzer_and_one_mailbox_for_3_apartments/
+- r/AskNYC: 27-unit low-rise whose "buzzer system hasn't been upgraded in decades" asks upgrade cost — https://www.reddit.com/r/AskNYC/comments/196ra0z/cost_to_upgrade_buzzer_system_for_low_ride/
+- r/AskNYC: reply says a basic buzzer unit costs "$20 on Amazon" if wiring is good — https://www.reddit.com/r/AskNYC/comments/buirgq/missing_apartment_buzzer/
+- openigloo tenant reviews exist for Greenpoint buildings (46 Broome St, 56 Driggs Ave, 298 Eckford St, 200 Franklin St) — https://openigloo.com/building/nyc/3067604-3027010030/brooklyn-greenpoint-46-broome-street-11222
+- Google PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Yelp Greenpoint: EMPTY
+
+### Questions people ask — Door Buzzer Installation in Greenpoint
+- How do I stop delivery drivers ringing every apartment to get in? — Reddit — https://www.reddit.com/r/Greenpoint/comments/1k55r7j/door_ringing_at_5_am/
+- What do I do when a driver buzzes me for someone else's package? — Reddit — https://www.reddit.com/r/Greenpoint/comments/1r0ak9l/deliveries/
+- Is it normal for a new 3-unit Brooklyn building to have no buzzer? — Reddit — https://www.reddit.com/r/AskNYC/comments/1t74q1e/is_no_buzzer_and_one_mailbox_for_3_apartments/
+- Is $8–10K for a video intercom in a 5-unit building reasonable? — Reddit — https://www.reddit.com/r/AskNYC/comments/xkdsh1/anyone_in_a_small_5_unit_condocoop_recently_get_a/
+- What does it cost to upgrade an old buzzer in a low-rise? — Reddit — https://www.reddit.com/r/AskNYC/comments/196ra0z/cost_to_upgrade_buzzer_system_for_low_ride/
+- Can I just buy a $20 buzzer unit and swap it myself? — Reddit — https://www.reddit.com/r/AskNYC/comments/buirgq/missing_apartment_buzzer/
+- Is my landlord required to provide a buzzer? — Reddit — https://www.reddit.com/r/nyc/comments/cr3om/my_apartment_building_doesnt_have_any/
+- Do I need Landmarks approval for an intercom panel in a historic district? — LPC guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- Are old intercom wires dangerous / live wires from old systems? — Reddit — https://www.reddit.com/r/Greenpoint/comments/1pnppeo/issues_for_residents_at_239_banker_st/
+- Google PAA — EMPTY
+- Google PASF — EMPTY
+- AnswerThePublic — EMPTY
+- Bing — EMPTY
+- DuckDuckGo — EMPTY
+- Yelp (Greenpoint) — EMPTY
