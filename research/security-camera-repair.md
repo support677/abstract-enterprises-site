@@ -853,3 +853,54 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Is it legal for a shareholder to put a surveillance camera over his door in the co-op hallway? — Habitat Board Talk — https://www.habitatmag.com/Board-Talk/shareholder-installs-surveillance-camera-over-his-door
 - How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
 - How many cameras do you want installed? / What kind of location is this? — HomeAdvisor form — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+## Brownsville, Brooklyn — /security-camera-repair-brownsville-brooklyn-ny (factory research, 2026-11-12)
+
+**NYCHA camera history and condition in Brownsville**
+- Tilden Houses (eight buildings) and Brownsville Houses, across the street from each other, got "dozens" of cameras in a $3.4 million project ($400,000 federal via Sen. Schumer, $2 million from Borough President Marty Markowitz, $1 million from Council Member Darlene Mealy); planned locations: elevators, lobbies, mailbox areas, entrances and exits, some facing the street (NY1, Sept 18 2009) — https://brownsvillepartnership.blogspot.com/2010/01/cameras-to-boost-two-brooklyn-housing.html
+- Same report: about 80 NYCHA complexes citywide had cameras and about 250 did not (2009); quote from Tilden Houses TA president Marie Boone: "you should not have to wonder, 'Should I run down the stairs or should I ride the elevator?'" — https://brownsvillepartnership.blogspot.com/2010/01/cameras-to-boost-two-brooklyn-housing.html
+- Woodson Houses (Brownsville): at a June 2019 Council hearing NYCHA's Raymond Rodriguez said "Unfortunately, there are no cameras to this day over at Woodson"; NYCHA had installed 16,600 cameras across more than 200 developments over two decades, each lasting "about 10 years"; NYCHA could not confirm all were operational — https://brooklyneagle.com/articles/2019/06/07/no-cameras-woodson-houses-nycha
+- April 1 2026: Rep. Hakeem Jeffries announced $250,000 for security upgrades at Carter G. Woodson Houses; Assemblymember Latrice Walker said it includes "the installation of CCTV cameras, at the Woodson Houses"; announced at the Van Dyke II Senior Center ($500,000 roof repairs there) — https://jeffries.house.gov/?p=7701 ; https://brooklyneagle.com/379269/jeffries-secures-1-million-in-federal-funds-for-three-nycha-developments/
+- NYC DOI report (March 26 2025): DOI tried to view the Genetec CCTV cameras at all 63 NYCHA senior buildings; 44 of 63 (about 70%) had cameras that could not be viewed remotely; causes: "outdated or incompatible software or hardware causing login, connection, and data storage issues," camera models without remote viewing, damage; 12 connection errors, 11 non-Genetec cameras inaccessible, 2 stand-alone, 1 damaged fiber, 1 PACT/RAD-managed with no NYCHA access. Rec. 7: inspectors confirm "the security cameras are working, and the cameras' view is not obstructed and/or diminished by lighting issues" — https://www.nyc.gov/assets/doi/reports/pdf/2025/14NYCHASecurityFireReleaseRpt03.26.2025.pdf
+- April 15 2025 Council hearing: NYCHA does most CCTV repair in-house, aims to repair a reported camera "within twenty four to seventy two hours"; common damage is spray paint and cracked housings; about 20,000 cameras; property management supposed to spot-check "every single day" (automated transcript) — https://citymeetings.nyc/meetings/new-york-city-council/2025-04-15-1000-am-committee-on-public-housing/chapter/issues-with-cctv-cameras-at-senior-buildings-and-maintenance-processes/ ; https://citymeetings.nyc/meetings/new-york-city-council/2025-04-15-1000-am-committee-on-public-housing/chapter/discussion-on-frequency-of-security-equipment-checks-at-nycha-developments/
+- NYPD linking NYCHA CCTV through Big Apple Connect (2025): live feed and footage "up to 30 days prior"; NYCHA network more than 20,000 cameras; Langston Hughes Houses in Brownsville was where Big Apple Connect was promoted in Sept 2022 (not confirmed as a linked camera site) — https://nysfocus.com/2025/08/11/eric-adams-nycha-nypd-cameras-surveillance
+- ABC7 (Dec 2021): at least 70 NYCHA campuses, hundreds of buildings, still lacked video surveillance; NYCHA refuses to name them — https://abc7ny.com/post/nycha-public-housing-crime-new-york-city/11312419/
+
+**Private multifamily: cameras, access tech and tenant rights**
+- Atlantic Plaza Towers, Brownsville (nearly 720 households, Nelson Management Group): landlord applied to state HCR in 2018-19 for StoneLock facial-recognition entry; existing security already included "dozens of cameras," fob doors and a guard station; 134 tenants represented by Brooklyn Legal Services; ~350 tenant objections filed — https://www.amny.com/real-estate/biometric-apartment-access-brownsville-1-30520921/
+- The landlord withdrew the application in 2019 — https://citylimits.org/2023/10/20/opinion-biometric-surveillance-has-no-place-in-new-yorkers-homes/
+- Tenant Data Privacy Law (Local Law 63 of 2021) and DHCR approval for service changes in rent-stabilized buildings (silo research) — https://linkedsecurityny.com/services/intercom-systems-installation-ny/
+- Brick Underground: landlords aren't obligated to show tenants footage outside a legal process (silo research) — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+
+**Commercial corridors and camera programs**
+- Operation Safe Shopper (2016): Brooklyn BP Eric Adams gave $2,500 each to five groups including the Pitkin Avenue BID (Brownsville) for security cameras that monitor street activity — https://www.brooklyneagle.com/articles/2016/07/13/security-cameras-coming-to-brooklyn-to-help-investigate-local-crimes/
+- "Every Block Counts" pilot in the 73rd Precinct (Oct 2024) covers Bristol St, Christopher Ave, Dumont Ave, Lott Ave and Mother Gaston Blvd; article does not mention cameras — https://brooklyn.news12.com/every-block-counts-pilot-program-aims-to-reduce-crime-in-73rd-precinct
+- Munchiez Deli, Brownsville (Aug 2020): surveillance video showed a man pretend to pay, place a handgun on the counter, take cigarettes; clerk unhurt — https://abc7ny.com/armed-suspect-pulls-out-gun-steals-cigarettes-from-nyc-deli/6361585/
+- NYPD Connect New York / Fusus registration (silo research) — https://www.nyc.gov/mayors-office/news/2024/05/mayor-adams-new-pilot-program-combat-retail-theft-create-efficiencies-improve
+
+**Power events**
+- Brookdale University Hospital (Brownsville): a Con Edison feed failed Jan 30 (2026), hospital switched to generator; generator failed about 3 a.m. one Saturday, cutting lighting and elevators in parts of the hospital until 9:45 a.m.; Con Edison built a battery energy storage system in Brownsville in 2025 — https://www.bkreader.com/non-profit-community/brooklyns-repeated-power-outages-spark-energy-concerns-11852964
+- Dec 29 2025: 852 Brooklyn customers out (530 by night), mostly weather-related; "When snow melts and mixes with road salt, that water can seep into underground electrical equipment" — https://brooklyn.news12.com/2025/12/30/weather-related-outages-keep-hundreds-of-brooklyn-households-in-the-dark/6jH9bZKGrtGANj6DOZo5qO
+- Brownsville-specific residential outage counts: EMPTY
+
+**Equipment and parts**
+- FCC Report and Order (published Nov 25 2022) bars new authorizations for covered Hikvision and Dahua video surveillance equipment; "This action by the FCC does not affect any authorized products currently in the U.S. market" — https://www.securityindustry.org/2022/11/29/fcc-adopts-new-rules-implementing-the-secure-equipment-act-of-2021/
+- Backblaze 2025 year-end drive stats: annual failure rate 1.36% across its fleet — https://www.storagereview.com/news/backblaze-2025-year-end-drive-stats-annual-afr-falls-to-1-36-as-high-capacity-drives-dominate-fleet
+- HomeAdvisor Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145, low-high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Empty**
+- DOB permits for camera repair in Brownsville (11212/11233): EMPTY
+- LPC: no historic district found in Brownsville; only individual landmark in background research is the Betsy Head Play Center (2008): no camera rule applies to ordinary houses — EMPTY for camera-specific LPC rules
+- 311 complaints about cameras in 11212: EMPTY
+- Reddit threads (r/Brooklyn, r/AskNYC) about camera repair in Brownsville: EMPTY
+- Yelp complaints for camera repair near Brownsville: EMPTY
+
+### Questions people ask — Security Camera Repair in Brownsville
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Nightowl cameras say no signal (after outage) — Reddit r/homedefense — https://red.ks32.dev/r/homedefense/comments/1j7pn95/nightowl_cameras_say_no_signal
+- Camera image incredibly grainy/noisy after power cut — CCTV forum — https://www.cctvforum.com/topic/45776-camera-image-incredibly-grainynoisy-after-power-cut/
+- Camera not connected to NVR after power outage — TP-Link community — https://community.tp-link.com/en/home/forum/topic/679736
+- One camera isn't showing on the TV screen after power outage — JustAnswer — https://www.justanswer.com/computer/ezf3i-call-didn-t-understand-so-given-site-night.html
+- How do I get my landlord to let me look at security camera footage? — Brick Underground — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- Landlord won't fix cameras — BiggerPockets — https://biggerpockets.com/forums/52/topics/878728-landlord-wont-fix-cameras
