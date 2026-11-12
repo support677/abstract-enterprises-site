@@ -955,3 +955,56 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Anyone recommend a certain brand/model? (thinking of Costco cameras) — Reddit-style forum (Brownstoner) — https://www.brownstoner.com/forum/security/security-camera-recommendation
 - How many cameras do you want installed? / What kind of location is this? — HomeAdvisor intake — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
 - How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+## Cypress Hills, Brooklyn — /security-camera-repair-cypress-hills-brooklyn-ny (factory research, 2026-11-12)
+
+**Local incidents where camera footage mattered**
+- Chef Quang Guyanese Chinese Express, near Atlantic Avenue and Crescent Street, Cypress Hills: early May 26, 2026 a person forced open a door, covered his face with a T-shirt, spent about seven minutes inside and left with a safe holding about $100,000 in personal valuables (no cash). News 12 published exclusive surveillance video of the break-in; "another camera captured the person carrying the safe across a parking lot." Investigators released photos (black cap, black jacket, gray pants, apparently with a Citi Bike). The business said it was not the first time it had been targeted; staff called the loss "devastating." Published June 3, 2026 (Edric Robinson) — https://brooklyn.news12.com/100k-safe-stolen-from-cypress-hills-business-investigators-release-photos
+- Same pattern: late May 30, 2026 on Conduit Boulevard in Cypress Hills, about $2,000 taken from a register after a window was broken; May 24 on Jamaica Avenue in Queens, about $900 after a glass door was broken — https://brooklyn.news12.com/100k-safe-stolen-from-cypress-hills-business-investigators-release-photos
+- Smoke shop at 2945 Fulton St., Cypress Hills: Feb. 10 (2026) around 11:35 p.m., gunpoint robbery of the register; suspect fled into the Cleveland Street station at the end of the block; police released photos (white-and-black hooded jacket, black face mask, black gloves). The worker told News 12 the store has since added a buzz-in door and bulletproof glass. Published March 10, 2026 — https://brooklyn.news12.com/police-release-photos-after-gunpoint-robbery-at-cypress-hills-smoke-shop
+
+**Cypress Hills Houses (NYCHA) camera condition**
+- March 10, 2025 City Council Committee on Public Housing: James Elseviera, Tenant Association President of Cypress Hills Houses, testified "all the cameras are spray painted and taped up" and "that one right there is a public safety issue because none of the cameras is working," saying it had been going on "since I believe December 10" and "It's now March" (transcript, may contain errors) — https://citymeetings.nyc/city-council/2025-03-10-1030-am-committee-on-public-housing/chapter/testimony-by-james-elseviera-tenant-association-president-of-cypress-hills-houses
+- Cypress Hills Houses were on the 2014 list of Brooklyn developments getting new security cameras — https://brooklyneagle.com/articles/2014/06/11/cameras-to-go-up-at-tragic-brooklyn-housing-project-among-others/
+- NYCHA fact sheet: CCTV projects may include new cameras and monitors, low-voltage IT lines, connections to IT infrastructure, software upgrades and layered access control; projects typically take about 3 years from planning to end of construction (construction ~16 months); residents are notified of noise, power outages and blocked entryways; drilling or excavation may be needed for cable routing — https://www.nyc.gov/assets/nycha/downloads/pdf/Learn-More-About-NYCHA-CCTV-&-LAC-Replacements.pdf
+- NYCHA Federal Monitor citywide photos show spray-painted, missing, defective and taped-over cameras — https://www.nyc.gov/assets/nycha/downloads/pdf/NYCHA-Monitor-Safety-and-Security-Report-5-25-23.pdf
+- NYS Focus (Oct 2025): NYPD plans to link NYCHA CCTV to its surveillance software via Big Apple Connect (1,900 cameras across 19 more properties; long-term 17,897 across 119 developments). Cypress Hills Houses not named — https://nysfocus.com/2025/10/01/nypd-nycha-surveillance-hearing
+
+**Commercial corridor context for camera work**
+- Cypress Hills Fulton BID: Fulton Street from Van Siclen Avenue to Eldert Lane, 26 blocks; applicant named "improved sanitation, street lighting, public safety, and public space programming as service priorities"; no camera program described — https://www.brooklynbp.nyc.gov/wp-content/uploads/2024/09/CD-5-Cypress-Hills-Fulton-BID-Formation-240266BDK.pdf
+- News 12 (Nov 27, 2024): BID chair Chief Samsair: "With the BID, we're hoping to bring more foot traffic onto the corridor" — https://brooklyn.news12.com/new-business-improvement-district-vows-to-bring-safety-and-sanitation-to-fulton-street
+- (Background pack) SBS CDNA: 25% of merchants named security as top improvement; insufficient lighting under the el — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/n360-cdna-eny-SP.pdf
+
+**Landmarks / permits**
+- The only recent Cypress Hills historic nomination found is the former English Evangelical Lutheran Church of the Reformation, 105 Barbey Street (1908), nominated to the State and National Registers in 2023; Brownstoner notes those listings, unlike LPC local landmarking, do not bring regulatory oversight over private owners — https://www.brownstoner.com/architecture/national-register-nominations-new-york-state-2023-cypress-hills
+- LPC-designated historic district covering Cypress Hills residential blocks: EMPTY (none found)
+- DOB permits for camera repair in Cypress Hills: EMPTY
+- 311 / HPD complaint counts about cameras in 11207/11208: EMPTY
+
+**Common failure causes (manufacturer / forum)**
+- Reolink lists causes of video loss: insufficient power (loose connections, faulty PoE switch or injector, overly long cables, one supply powering too many cameras, damaged power cables), power spikes and interference, weak Wi-Fi/bandwidth or a loose BNC connector, night-vision faults (IR, cut filter), compatibility (recorder can't decode a camera's resolution, mixed brands), cable damage, aging hardware or buggy firmware, IP address conflicts — https://reolink.com/blog/video-loss-on-security-camera/
+- CCTVForum thread: "I've seen a lot of DVRs last 5-7 years" (jhonovich); posters say the hard drive is the most common failure point and that a "dead" DVR is often fixed by replacing only the drive; a failing drive can stop a DVR booting or freeze it on startup — https://www.cctvforum.com/topic/20101-how-long-does-a-dvr-usually-last
+- Lorex help article on DVR/NVR not turning on (power-supply checks) — https://www.lorex.com/blogs/help/dvr-nvr-system-not-turning-on
+
+**Cost benchmarks**
+- HomeAdvisor, Brooklyn surveillance camera install or repair: average $1,416, typical range $680–$2,145, low-high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Footage, police and tenants**
+- Brick Underground: landlords aren't obligated to show tenants footage outside a legal process — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- 75th Precinct, 1000 Sutter Ave, covers East New York and Cypress Hills — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/75th-precinct.page
+
+**Reddit / Yelp**
+- Reddit threads about camera repair in Cypress Hills (r/Brooklyn, r/AskNYC, r/homesecurity): EMPTY
+- Yelp reviews for camera repair in Cypress Hills/11208: EMPTY (search returned only Thumbtack/Angi/HomeAdvisor/MapQuest directories)
+
+### Questions people ask — Security Camera Repair in Cypress Hills
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- How long does a DVR usually last? — CCTVForum — https://www.cctvforum.com/topic/20101-how-long-does-a-dvr-usually-last
+- Why is there video loss on my security camera? — Reolink blog — https://reolink.com/blog/video-loss-on-security-camera/
+- Why is my DVR/NVR system not turning on? — Lorex help — https://www.lorex.com/blogs/help/dvr-nvr-system-not-turning-on
+- Camera image incredibly grainy/noisy after power cut — CCTVForum — https://www.cctvforum.com/topic/45776-camera-image-incredibly-grainynoisy-after-power-cut/
+- Landlord won't fix cameras — what can be done? — BiggerPockets — https://biggerpockets.com/forums/52/topics/878728-landlord-wont-fix-cameras
+- Can tenants install security camera systems? — BiggerPockets — https://www.biggerpockets.com/forums/52/topics/504802-can-tenants-install-security-cameras-systems
+- How do I get my landlord to let me look at security camera footage to identify a package thief? — Brick Underground — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- Is it worth repairing an old DVR or replacing it? — Campus Safety Magazine — https://www.campussafetymagazine.com/cs/don-t-throw-out-the-dvr-with-the-bath-water/
