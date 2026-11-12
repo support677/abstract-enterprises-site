@@ -2515,3 +2515,38 @@ Scope: "Bruckner" has no official borders. Sources describe it as the Soundview-
 - What warranty and post-installation support do you offer? How do you ensure cable testing? How often should cabling be inspected or upgraded? Do I need structured cabling if I already use wireless? — contractor FAQ (Instrata) — https://www.instrata.com/questions-to-ask-before-hiring-structured-cabling-provider-new-york/
 - Warehouse Wi-Fi with metal racks, high ceilings and long aisles — contractor guide — https://unifinerds.com/warehouse-wifi-design-metal-racks-high-ceilings-long-aisles/
 - Questions specific to Bruckner buildings (shopping-center tenant manuals, tower ground-floor offices, Bronx River Avenue warehouses, studio-season networks) are my own, written from the building facts above because the search sources ran out. They were checked against the silo question register.
+
+## Castle Hill, Bronx — /structured-cabling-installation-castle-hill-bronx-ny (factory research, 2026-11-12)
+
+- Provider coverage in ZIP 10473 (FCC data as of Dec 31 2025, via aggregator): Optimum cable 99.87%; Verizon fiber 99.25%; EarthLink fiber 99.25%; Optimum fiber 79.83%; Starry fiber 2.53%; T-Mobile Home Internet fixed wireless 99.75%; Starry fixed wireless 61.27%; Verizon fixed wireless 59.30% — https://bestneighborhood.org/tv-and-internet-10473/
+- Verizon says Fios is available to "all New York City Housing Authority (NYCHA) units across the five boroughs" (relevant to Castle Hill Houses) — https://www.verizon.com/about/node/925735
+- Big Apple Connect (free internet + basic cable for NYCHA residents) extended Sept 29 2025 for three years through June 2028; about 330,000 residents at 220 NYCHA developments; providers Spectrum and Optimum; before the program an estimated 30–40% of NYCHA residents lacked broadband; Mayor Adams: "Internet is not a luxury, it's as a necessity in today's world" — https://www.nyc.gov/mayors-office/news/2025/09/mayor-adams-extends--big-apple-connect--program--continues-to-pr
+- NYCHA house rules: "Tenants may not make holes in or alterations to the door, frame, or walls above and around the door" (camera/doorbell rule); "Residents may not install antennas on the exterior of the building"; "It is prohibited for any person to obstruct, damage, or deface any common area" — https://www.nyc.gov/assets/nycha/downloads/pdf/pp/house-rules-040821.pdf
+- Jamie Towers (620-unit Mitchell-Lama, Soundview/Castle Hill) received $4 million in state funds June 18 2026, presented by Assembly Member Karines Reyes and board president Maxine Breeden; half operating, half capital repairs; priorities steam pipes, roofs, plumbing, boilers; Breeden wants 24-hour security guards reinstated (once four, cut to one, now none); $28 million mortgage due Feb 2027; Reyes called it "a jewel in our community, and we have to preserve it." Breeden: "management works for the board, the board doesn't work for management." Managing agent now Metro Management — https://www.bxtimes.com/jamie-towers-secures-4-million-in-state-funds/ ; https://politicsny.com/2026/06/19/jamie-towers-secures-4-million-in-state-funds-for-repairs-after-years-of-resident-complaints/
+- Castle Hill Library, 947 Castle Hill Avenue: $17 million DDC renovation, 6,183 sq ft, expected completion summer 2027; new computer areas, self-checkout, upgraded technology, "Wi-Fi will be available throughout the 6,183 square foot building"; electric, fire alarm and plumbing replaced; ADA entrance; target LEED Silver; branch opened 1981 — https://www.nyc.gov/site/ddc/about/press-releases/2025/pr-120825-CastleHillLibrary.page
+- Castle Hill BID signed into law May 12 2022: Castle Hill Avenue from Manning Street to the Cross Bronx Expressway, and Westchester Avenue from Olmstead Avenue to just east of Glebe Avenue; first-year budget $300,000; steering chair Tony DeRosa listed security cameras among planned services; "If the small businesses fold, the community falls apart." (Bieder) — https://www.bxtimes.com/castle-hill-bid-signed-into-law/
+- HPD broadband guidance: broadband in units required in all new construction; fiber needs fiber in the street and an accessible basement entry point; in-unit options are shared hotspot, personal hotspot, or wired wall jack — wall jacks give the strongest coverage; FCC banned exclusive revenue-share deals and sale-and-leaseback of inside wiring — https://www.nyc.gov/assets/hpd/downloads/pdfs/services/residential-broadband-installation.pdf
+- NYC low-voltage permit change: Local Law 128 of 2024 (effective Dec 21 2025) adds AC §28-105.4.7 — no electrical permit required for wiring under 50 volts for signaling, communication, alarm and data — https://www.nyc.gov/assets/buildings/local_laws/ll128of2024.pdf
+- Cabling practice (contractor blog): a channel performs at its lowest-rated component (90 m Cat6A + 5 m Cat6 certifies as Cat6); Cat6A bend radius about four times cable diameter; conduit fill below 40%; keep 50 mm from 120V conduit, 150 mm from 208/480V; CMP plenum cable where ceiling is an air return, roughly 20–30% more than CMR; reopening a commercial NYC ceiling runs $150–$400 per drop location — https://unifinerds.com/?p=78398
+- Zerega Industrial Business Zone: Kamco Supply leased about 57,544 sq ft at 1200 Zerega Ave; flex/industrial at 450 Zerega Ave; listings at 1108, 1260, 1261 Zerega — https://bxtimes.com/zerega-industrial-complex-kamco ; https://loopnet.com/Listing/450-Zerega-Ave-Bronx-NY/24358843 ; https://www.commercialsearch.com/commercial-property/us/ny/bronx/1108-zerega-avenue
+- New residential in the area: housing lottery for 1353 Castle Hill Avenue (described as Parkchester) Nov 2025; 1920 Turnbull Avenue broke ground (Soundview) Oct 2026 — https://newyorkyimby.com/2025/11/housing-lottery-launches-for-1353-castle-hill-avenue-in-parkchester-the-bronx.html ; https://newyorkyimby.com/2026/10/1920-turnbull-avenue-breaks-ground-in-soundview-the-bronx.html
+- Reddit threads about cabling in Castle Hill: EMPTY
+- Yelp complaints about cabling contractors in Castle Hill: EMPTY
+- HPD/311 data specific to cabling in Castle Hill: EMPTY
+- LPC: no historic district in Castle Hill: EMPTY (none found)
+
+### Questions people ask — Structured Cabling Installation in Castle Hill
+- Google PAA (verified): EMPTY
+- People Also Search For: EMPTY
+- AnswerThePublic: EMPTY
+- Bing: EMPTY
+- DuckDuckGo: EMPTY
+- Reddit: EMPTY
+- How much does structured cabling cost per drop in NYC? — contractor blog in search results — https://unifinerds.com/?p=78473
+- How much does it cost to wire a new home in NYC? — contractor blog — https://unifinerds.com/cost-to-wire-new-home-nyc/
+- When does Cat6A matter over Cat6? — contractor blog — https://datawiresolutions.com/blog/cat6-vs-cat6a-when-it-matters
+- How do I find a good network installation / cabling company? — contractor blog — https://datawiresolutions.com/blog/find-good-network-installation-cabling-company
+- Am I stuck with my building's internet provider? — consumer guide — https://www.movearoo.com/blog/bulk-internet
+- Can I split internet with my neighbor? — Reddit r/AskNYC (mirror) — https://reddit.birdcat.cafe/r/AskNYC/comments/1jhi41k/how_can_i_split_internet_with_my_neighbor
+- Fios is "available in my building" but I don't have it — what now? — Verizon forum — https://forums.verizon.com/t5/Fios-Internet/FIOS-is-quot-available-in-my-building-quot-but-I-do-not-have-an/m-p/880588
+- Do I need plenum cable above a drop ceiling? — contractor blog — https://unifinerds.com/?p=78398
