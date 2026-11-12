@@ -3463,3 +3463,90 @@ Note: the live web-search budget was used up for this build, and NYC Open Data c
 - How much does it cost to repair a security camera in Brooklyn? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
 - My DVR isn't recording — what's likely wrong? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-bronx
 - Do you need a license to work on security cameras in New York? — vendor FAQ — https://www.security101.com/blog/security-camera-laws-in-new-york-what-you-need-to-know-now
+
+## Wyckoff Heights, Brooklyn — /security-camera-repair-wyckoff-heights-brooklyn-ny (factory research, 2026-11-12)
+
+Note: the live web-search budget for this run was used up before any new search could run, so this pack is assembled only from sources already read and recorded in earlier AESS research files (Wyckoff Heights door-buzzer, intercom and alarm packs; Bushwick, Ridgewood and silo camera-repair packs). Nothing below is new; every live-SERP row is EMPTY.
+
+**Borough line, ZIPs and who asks for footage**
+- Wyckoff Heights straddles Bushwick (Brooklyn) and southwest Ridgewood (Queens); ZIPs 11237 and 11385; the Queens side moved to 11385 effective Jan 13 1980; the Wyckoff Heights Post Office (11237) at 86 Wyckoff Ave opened 1951 — https://en.wikipedia.org/wiki/Wyckoff_Heights,_New_York_City
+- Wyckoff Avenue between Gates Avenue and Eldert Street forms the Brooklyn–Queens border; the Myrtle–Wyckoff Avenues station (L and M) sits on the border — https://en.wikipedia.org/wiki/Myrtle%E2%80%93Wyckoff_Avenues_station
+- Forgotten NY (2008): the L runs under the entire length of Wyckoff Ave; Flushing to Starr largely industrial, lofts with artists and musicians; county line runs down the middle of Wyckoff Ave to George St; 17 streets border both boroughs — https://forgotten-ny.com/2008/05/wyckoff-avenue-where-you-must-paint-fair/
+- Urban Omnibus (2015): a building at Irving Ave & Eldert St is sliced by the border; some houses display two addresses; houses along Cypress Ave turned 90 degrees — https://urbanomnibus.net/2015/01/borderlands-traveling-the-brooklyn-queens-divide/
+- 83rd Precinct (480 Knickerbocker Ave) serves Bushwick — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/83rd-precinct.page
+- 104th Precinct (64-02 Catalpa Ave) covers Ridgewood — https://en.wikipedia.org/wiki/Ridgewood,_Queens
+
+**Building stock that decides where recorders, cables and cameras sit**
+- First buildings were attached wood-frame three- and six-family rows; later construction masonry; 1940s attached single-family homes with alleys and rear garages — https://en.wikipedia.org/wiki/Wyckoff_Heights,_New_York_City
+- Louis Berger & Co. was architect of record for over 5,000 buildings in Ridgewood–Bushwick — https://www.nyc.gov/assets/lpc/downloads/pdf/press/archive/2014/14-06-Ridgewood-Historic-District.pdf
+- Forgotten NY (2016): Wyckoff Ave near Myrtle has "handsome apartments, dating to the 1910s or earlier, with ground floor businesses" — https://forgotten-ny.com/2016/04/wyckoff-avenue-2016-bushwick-ridgewood-part-2/
+- 195 Wyckoff Ave: about 4,275 sq ft, four free-market apartments and one ground-floor retail space — https://www.terracrg.com/listing/wyckoff-ave-free-market-mixed-use-building-bushwick
+- Wy 101 Lofts, 101 Wyckoff Ave: pre-war factory converted into 32 condo units with 12-foot ceilings; Precinct 83 — https://streeteasy.com/building/wy-101-lofts
+- 1974: George Nutman redeveloping the former Schlitz Brewery "in the Wyckoff Heights section of Brooklyn" — https://www.nytimes.com/1974/08/18/archives/renovation-in-brooklyn-long-island-lease-building-planned-news-of.html
+- New York YIMBY (June 2026): three new residential projects between Wyckoff and Irving Avenues near the DeKalb Avenue L station, nearly 150 units, including 316 Stockholm Street, one slated for fall 2027 — https://newyorkyimby.com/2026/06/three-new-residential-projects-coming-to-bushwick-brooklyn.html
+- 287 Wyckoff Ave listing advertises a "virtual doorman" and LATCH smart locks — https://www.apartments.com/wyckoff-avenue-brooklyn-ny-unit-3b/59s3cbq/
+- Wyckoff Ave rental listing: "A convenient video intercom system is also included", two blocks from the DeKalb L and Knickerbocker M — https://www.hlres.com/listings/2784144/rental-bushwick
+
+**City data near the service**
+- HPD intercom violations ZIP 11237, inspections Jan 2023 – Nov 6 2026: 138 (2023: 32, 2024: 33, 2025: 45, 2026: 28); 123 of 138 on the first three floors — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- HPD complaints ZIP 11237 with INTERCOM category: 2021: 67, 2022: 70, 2023: 105, 2024: 102, 2025: 90, 2026 to date: 58 — https://data.cityofnewyork.us/resource/ygpa-z7cr.json
+- HPD self-closing door violations ZIP 11237: 2024: 709, 2025: 601, 2026 to date: 420 — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- DOB permits for camera work in Wyckoff Heights: EMPTY
+- 311 complaints about cameras in 11237/11385: EMPTY
+
+**Power events that hit recorders, PoE switches and cameras**
+- Aug 7 2025: manhole fire in front of 18 Irving Avenue (Irving Ave and Jefferson St) cut power to about 240 customers; witness: "The lights started flickering then there was a very loud pop outside and everything just went dark." — https://brooklyn.news12.com/2025/08/08/manhole-fire-causes-power-outages-in-bushwick/3DLXbMzacKblHn82ccSPsh
+- Feb 2026: hundreds of Con Edison customers in Bushwick lost power; Con Ed: "We had to shut off power temporarily to prevent more extended outages"; most restored by Monday morning — https://www.bkreader.com/non-profit-community/brooklyns-repeated-power-outages-spark-energy-concerns-11852964
+- July 2026 heat wave: Con Edison "reduced voltage in parts of the city to help protect the electric system" — https://brooklyn.news12.com/2026/07/04/brooklyn-outage-tracker-more-than-1700-customers-still-without-power/3EKmUuQLxQ0QiIDYobbh61
+
+**Local incidents where cameras and footage matter**
+- Feb 9 2026: armed men entered two apartments in a building on Myrtle Ave near Stockholm St just after 2:15 a.m. through the front doors; the article does not mention surveillance video — https://brooklyn.news12.com/2-apartments-hit-in-overnight-bushwick-break-ins-1-man-hurt-dog-removed
+- QNS Jan 12 2024: a man broke the lock on the front door of a building complex on Cypress Avenue around 2 p.m. on Jan 8 and removed items from packages inside — https://qns.com/2024/01/man-wanted-stealing-packages-ridgewood-building/
+- Feb 26 2018: Kave Espresso Bar, 1087 Flushing Ave — intruder smashed rear door glass; "Surveillance video from the cafe shows the burglar walking across the empty floor space" — https://brooklynpost.com/man-breaks-kave-espresso-bar-bushwick-nothing-stolen-nypd
+- Reddit r/Bushwick thread title (excerpt only): "Heads up to businesses near Wyckoff Ave & Linden St —shoplifting incident" — https://www.reddit.com/r/Bushwick/comments/1xbzk78/
+- Reddit r/Brooklyn: Bushwick resident asks whether FDNY objects to a camera on a fire escape, to catch a package thief (excerpt) — https://www.reddit.com/r/Brooklyn/comments/12kvmho/mounting_security_camera_on_fire_escape_bushwick/
+- QNS July 7 2026: 104th Precinct had 81 burglaries through July 5 2026 vs 85 a year earlier — https://qns.com/2026/07/burglary-suspect-ridgewood/
+
+**Medical and commercial corridors**
+- Wyckoff Heights Medical Center: ER 24/7; addresses 374 Stockholm St, 110 Wyckoff Ave, 1411 and 1419 Myrtle Ave, 1610 DeKalb Ave (Medical Arts Building) — https://whmcny.org/contact-us/
+- Myrtle Avenue BID runs from Wyckoff Avenue to Fresh Pond Road — https://ridgewood-ny.com/
+- Knickerbocker Ave is a main commercial street; WHMC is Bushwick's primary hospital — https://en.wikipedia.org/wiki/Bushwick,_Brooklyn
+- Maria Hernandez Park: Irving Ave, Knickerbocker Ave between Starr and Suydam — https://www.nycgovparks.org/parks/maria-hernandez-park
+
+**Landmark rules**
+- Queens-side historic districts: Stockholm Street (2000), Ridgewood North (2009), Ridgewood South (2010), Central Ridgewood (2014, 990 buildings); no LPC district found on the Brooklyn side of Wyckoff Heights (not confirmed) — https://www.6sqft.com/ridgewood-gets-its-fourth-historic-district-with-990-buildings/
+- LPC Permit Guidebook ch. 11: no permit for "Ordinary maintenance, repair, and retrofitting of health, safety, and utility equipment"; cameras "must be attached at mortar joints, plain masonry, wood, or metalwork"; no more than two cameras per 25 feet of frontage on small buildings; about ten inches of visible conduit; in-kind replacement needs cut sheets — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+
+**Rules and repair practice**
+- NYS Department of State licenses companies that install or service security systems; owners working on their own property need no license — https://dos.ny.gov/fire-alarm-installer
+- 19 NYCRR 195.2 covers CCTV used for detection or monitoring of intrusion, theft or movement — https://www.kirschenbaumesq.com/article/do-you-need-nys-license-for-video-access-system
+- NY Civil Rights Law §52-c: employers must give written notice of electronic monitoring and post notice — https://www.kelleydrye.com/viewpoints/blogs/labor-days/ny-requires-notice-of-electronic-monitoring-to-employees-are-you-in-compliance
+- Brick Underground: landlords not obligated to share footage outside a legal process; NYC doesn't require buildings to have cameras; attorney Catherine Grad: "I don't think that it's such an arduous duty to impose on the landlord." — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
+- Ring ended "Request for Assistance" Jan 2024; "Law enforcement agencies can still access videos using a search warrant." — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- NYPD camera registration, no cost to businesses — https://www.nyc.gov/mayors-office/news/2024/05/mayor-adams-new-pilot-program-combat-retail-theft-create-efficiencies-improve
+- Reolink: offline causes include tripped breakers, failed PoE port or injector, worn cables and corroded RJ45, moisture/heat/freezing, IP conflicts, firmware mismatch, thick walls weakening Wi-Fi — https://reolink.com/blog/why-does-my-security-camera-keep-going-offline/
+- Impera Security: "Installing or formatting a new hard drive does not recover footage previously lost because of a failed drive"; $250 diagnostic (competitor) — https://www.imperasecurity.com/security-camera-repair
+- Reddit r/SecurityCamera: "Western digital purple or seagate Skyhawks are good. regular HDDs will fail" — https://www.reddit.com/r/SecurityCamera/comments/1g2eiej/repair_or_replace/
+- FCC (~Apr 30 2026) Covered List rulemaking: revoking older device authorizations "explicitly would not affect continued use or operation of already-purchased communications equipment" — https://www.securityinfowatch.com/government/news/55375002/fcc-targets-covered-list-firms-in-telecom-authorization-overhaul
+- HomeAdvisor Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145, low-high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**EMPTY**
+- Wyckoff Heights-specific camera repair news: EMPTY
+- Yelp reviews for camera repair in Wyckoff Heights: EMPTY
+- Reddit threads about camera repair in Wyckoff Heights: EMPTY
+
+### Questions people ask — Security Camera Repair in Wyckoff Heights
+- Google PAA: EMPTY (no live search this run)
+- PASF / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Yelp: EMPTY
+- Can I mount a security camera on my fire escape without FDNY problems? — Reddit (excerpt) — https://www.reddit.com/r/Brooklyn/comments/12kvmho/mounting_security_camera_on_fire_escape_bushwick/
+- How do I get my landlord to look at camera footage after packages are stolen? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
+- Why does my security camera keep going offline? — Reolink — https://reolink.com/blog/why-does-my-security-camera-keep-going-offline/
+- Can you recover missing security camera footage? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
+- Why can I see live cameras but no recordings? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
+- Can the DVR be replaced without replacing all cameras? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
+- Which hard drives hold up in a security recorder? — Reddit — https://www.reddit.com/r/SecurityCamera/comments/1g2eiej/repair_or_replace/
+- How much do security camera installation and repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Do you need a license to service security cameras in New York? — DOS — https://dos.ny.gov/fire-alarm-installer
