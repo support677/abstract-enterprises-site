@@ -78,6 +78,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 
 2026-11-11 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 6 indexed (avycon hudson valley; capture staten island/orange/putnam; geovision queens/dutchess), 0 failed, 2331 queued. Not-indexed URLs were Discovered - currently not indexed or URL is unknown to Google. avycon westchester county returned "Oops! Something went wrong" once, then succeeded on retry. "Quota Exceeded" on the 12th request (lilin brooklyn, Discovered - currently not indexed), which stays QUEUED; next run starts there.
 
+2026-11-11 evening (scheduled, 01:55 UTC Nov 12, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2496 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-12T01:53:08Z, 2934 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2135 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected lilin brooklyn (URL is not on Google; Discovered - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at lilin brooklyn.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-10-29: brand price pages NOT on Google per URL Inspection API (184). Highest-search brands first, NYC areas first. Request these before everything else. -->
