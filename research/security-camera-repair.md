@@ -2834,3 +2834,59 @@ Note: the live search budget for this session was used up before new searches co
 - Will a landlord put in or fix a camera after vandalism? — Reddit — https://www.reddit.com/r/parkslope/comments/18kipch/constant_vandalism/
 - Can building cameras be used to watch tenants? — Reddit — https://www.reddit.com/r/parkslope/comments/1s7fu70/good_apartment_vs_crazy_super/
 - How do I share footage of a car being hit on my block? — Reddit — https://www.reddit.com/r/parkslope/comments/1sf1nu2/if_your_car_was_hit_while_parked_in_front_of/
+
+## Sea Gate, Brooklyn — /security-camera-repair-sea-gate-brooklyn-ny (factory research, 2026-11-12)
+
+**Gate, patrol and who reviews footage**
+- Sea Gate is closed off at West 37th Street's intersections with Surf and Mermaid Avenues by "roadblocks housed by brick and metal gates manned by Sea Gate policemen"; the main entry is Surf Avenue and West 37th Street, the second is West 37th Street and Mermaid Avenue (Without a Badge / NYC City News Service, Ryan Wallerson, May 12 2015) — https://withoutabadge.nycitynewsservice.com/2015/05/12/sea-gate-pd-an-integral-element-of-new-yorks-first-gated-community-2/
+- Same source: "Because of the sand dune, the northeastern corner of Sea Gate is vulnerable to breach. This is one of the most heavily patrolled areas of the community." — same URL
+- Same source: SGPD founded 1899, answers to the Sea Gate Association, funded from dues; officers are retired NYPD and NYS peace officers; arrests are processed at the 60th Precinct — same URL
+- Same source, quote from SGPD Sgt. Jeffery Schneider: "The majority of our effort goes into making sure that the only people inside of the gate are people that are supposed to be here." — same URL
+- Same source, resident Wayne Gibbons (Atlantic Avenue since 1998): the gate check is "invasive by nature, but ineffective due to inconsistency"; "some officers wave people through" — same URL
+- Same source: "sand-bound cul-de-sacs, foreclosed houses and ... sand drifts that made reaches of Sea Gate's high fence, susceptible to breach" — same URL
+- SGA Facebook notice (Oct 25 2024): the association plans "to more actively verify that park users are residents, safeguarding park equipment" at David Sevush Playground and Lindy Park; guests only with a resident 18+ showing Sea Gate ID — https://www.facebook.com/groups/HelpSeagaterecover/posts/27226962316951901/
+- Sea Gate Association office: 3700 Surf Avenue, Brooklyn 11224 (same post; also Yelp listing) — https://m.yelp.com/biz/the-sea-gate-association-brooklyn
+- Lost-pet posts in the community group (Nov 2026) direct residents to call the Sea Gate Police for proof of ownership — same Facebook group
+- THE CITY (Clifford Michel, June 10 2020): lawsuits against SGA; one incident half a mile outside the gate was "captured on surveillance video" — https://www.thecityreporter.nyc/2020/06/10/sea-gate-homeowners-in-uproar-over-payouts-tied-to-private-police-force-misconduct/
+- NYC Comptroller ShotSpotter audit appendix lists NYPD Precinct 60 as covering "Coney Island, Brighton Beach, Sea Gate" — https://comptroller.nyc.gov/reports/audit-report-on-the-new-york-city-police-departments-oversight-of-its-agreement-with-shotspotter-inc-for-the-gunshot-detection-and-location-system/
+- Brooklyn Eagle: a teenager was shot and killed "near the entrance to the Sea Gate gated community" (undated in excerpt) — https://brooklyneagle.com/310403/teen-shot-and-killed-in-coney-island/
+
+**Weather, flooding and power (what knocks cameras out here)**
+- Community group post: "Coney Island's Extreme West End will certainly see Flooding in Sea Gate, Prepare for some power outages. Wind gusts 35-55 mph" — https://www.facebook.com/groups/238664856323355/posts/2786835338172948/
+- CBS New York: hundreds lost power on Coney Island after a transformer went up in flames (date not in excerpt) — https://www.youtube.com/watch?v=NxmVVM3L12U
+- News 12: major flooding on Neptune Avenue in Coney Island created hazardous conditions — https://brooklyn.news12.com/major-flooding-in-coney-island-creates-hazardous-conditions
+- NHS of NYC flood-risk workshop posted to the Sea Gate group (Nov 10 2026): "how not all water intrusion is the same" — https://www.facebook.com/groups/HelpSeagaterecover/posts/27226962316951901/
+- TechPro Security (2026): cameras that stay dark after power returns are usually something upstream: "A tripped GFCI in an outdoor cabinet, a breaker that didn't reset, a failed switch power supply, or a burnt switch will keep a whole group dark while the rest of the system looks normal." — https://techprosecurity.com/security-articles/security-camera-system-installation/what-happens-to-security-cameras-during-a-power-outage/
+
+**Salt air and the camera hardware**
+- AVsion (Yariv Abudy, Sept 1 2026): salt layer "attacks fixings, brackets, screw threads and any exposed connection"; "once corrosion starts around a seal the housing is no longer weatherproof"; salt residue "etches and hazes" the dome "long before the camera itself fails"; specify stainless brackets and fixings, not painted mild steel — https://avsion.com.au/blog/coastal-security-cameras-salt-air/
+- i-PRO (manufacturer): for cameras in a coastal area "we recommend rinsing the unit on a monthly basis"; "Use anti-corrosion screws or apply caulking"; avoid splash zones; use pure water on dome covers — https://i-pro.com/products_and_solutions/us-en/surveillance/learning-and-support/knowledge-base/product-tips/salt-damage-resistance
+- IPVM discussion: "Rust blooms, organic gunk, and salt fog make near-ocean video surveillance tough." — https://ipvm.com/discussions/recommendation-for-salt-water-environment
+- Lifespan: outdoor cameras "typically last three to seven years due to exposure to heat, cold, and moisture" (Thumbtack); NVR/DVR 5–10 years (Honor Security) — https://www.thumbtack.com/k/security-camera-repair/near-me ; https://honorsecurity.com/blog/how-long-do-security-cameras-last/
+- Reddit r/homesecurity on condensation inside an IP camera: "there is really no drying them out" — https://www.reddit.com/r/homesecurity/comments/1amt4n7/condensation_in_ip_camera/
+
+**Pricing (parent page, visible text)**
+- $150 service call applied to the repair; most Brooklyn repairs $150–$1,500; single camera replacement $250–$600; DVR $300–$700; NVR $400–$900; drive swap $200–$450; power supply $150–$400 — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+
+**Empty**
+- DOB permits / HPD / 311 camera data for Sea Gate (11224): EMPTY
+- LPC: Sea Gate is not an LPC historic district in the sources found: EMPTY
+- Sea Gate Association rules text on cameras: EMPTY (PDF query returned nothing on cameras)
+- Reddit threads about Sea Gate cameras: EMPTY (search returned unrelated results)
+- Yelp complaints about camera repair near Sea Gate: EMPTY
+- Google PAA / PASF / AnswerThePublic / Bing / DDG for "security camera repair Sea Gate": EMPTY (not retrievable)
+
+### Questions people ask — Security Camera Repair in Sea Gate
+- Why did my cameras stay offline after the power came back on? — vendor FAQ — https://techprosecurity.com/security-articles/security-camera-system-installation/what-happens-to-security-cameras-during-a-power-outage/
+- Can a power surge damage security cameras or just the recorder? — vendor FAQ — same URL
+- Does a battery backup on the NVR protect the cameras too? — vendor FAQ — same URL
+- How long will a UPS run a security camera system? — vendor FAQ — same URL
+- How do you stop cameras from fogging or condensating? — Reddit — https://www.reddit.com/r/homeautomation/comments/ril8k4/how_do_you_guys_stop_cameras_from_fogging/
+- Condensation in IP camera, can it be dried out? — Reddit — https://www.reddit.com/r/homesecurity/comments/1amt4n7/condensation_in_ip_camera/
+- Cameras near ocean / salt water — recommendations? — IPVM — https://ipvm.com/discussions/recommendation-for-salt-water-environment
+- Cameras for beach houses: salt damage-resistant options? — Facebook Low Voltage Nation — https://www.facebook.com/groups/lowvoltagenation/posts/3676145392675263/
+- What is the life expectancy of a security camera? — Thumbtack FAQ — https://www.thumbtack.com/k/security-camera-repair/near-me
+- How long does it take to repair damaged security cameras? — Facebook group — https://www.facebook.com/groups/1261019949192693/posts/1484233190204700/
+- Why do my security cameras keep going offline? — vendor blog — https://www.innovativesecurity.com/post/why-do-my-business-security-cameras-keep-going-offline-common-causes-fixes
+- After a power outage 3 of my 7 cameras stopped working — Quora — https://www.quora.com/After-a-power-outage-3-of-my-7-cameras-on-my-outside-surveillance-system-stopped-working-They-are-not-connected-to-the-internet-I-tried-unplugging-one-and-plugging-back-in-Any-ideas-what-it-could-be-We-ve-had-power
+- How much does it cost to repair a security camera in Brooklyn? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
