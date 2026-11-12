@@ -3550,3 +3550,77 @@ Note: the live web-search budget for this run was used up before any new search 
 - Which hard drives hold up in a security recorder? — Reddit — https://www.reddit.com/r/SecurityCamera/comments/1g2eiej/repair_or_replace/
 - How much do security camera installation and repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
 - Do you need a license to service security cameras in New York? — DOS — https://dos.ny.gov/fire-alarm-installer
+
+## Sunset Park, Brooklyn — /security-camera-repair-sunset-park-brooklyn-ny (factory research, 2026-11-12)
+
+Note: live web search was not available for this build (search budget exhausted). Every finding below is carried from sourced findings already saved in the site's research files (research/security-camera-repair.md, research/door-buzzer-repair.md, research/cat6-repair.md, research/structured-cabling-installation.md, research/fiber-optic-installation.md, research/intercom-repair.md and the shared Sunset Park background). Nothing new was fetched; anything not already sourced is marked EMPTY.
+
+**Building types, wiring and where recorders live**
+- Most Sunset Park houses are two-story-above-basement bayed row houses built mainly 1892–1910, most originally two-family, brick, many later clad in vinyl siding or Formstone — https://en.wikipedia.org/wiki/Sunset_Park,_Brooklyn
+- Brownstoner forum, Jan 2011: an owner of a private house in Sunset Park asked for a low-profile camera installation; replies pointed to IP cameras over Cat5/5e/6 and said coax for wired systems is "a bit too thick to be hidden around moldings," so it runs through ceilings or walls — https://www.brownstoner.com/forum-archive/2011/01/security-camera-1
+- A Sunset Park electrician's Yelp review: "It was not allowed to cut the concrete to recess the wiring in this building and we had to install electrical wiremold." — https://yelp.com/search?find_desc=Electrical+Contractors&find_loc=Sunset+Park%2C+Brooklyn%2C+NY
+- Fifth Avenue Committee 2020 Sunset Park Housing Report: Sunset Park is the "4th most overcrowded neighborhood in NYC"; homeownership 28.1% (2018); over half of CB7's 45,903 units built before 1939; an increase in illegal basement apartments — https://fifthave.org/wp-content/uploads/2021/07/Sunset-Park-Housing-Study-min.pdf
+- Community Board 7 calls the district's housing the "second oldest housing stock in NYC"; Sunset Park is bifurcated by the Gowanus Expressway; the industrial area is mainly west of Third Avenue; commercial strips on Fifth and Seventh Avenues — https://cbbrooklyn.cityofnewyork.us/cb7/about/
+- LPC 50th Street designation report (2019): the Hamilton Brothers built "25 two-family houses on the south side of 50th Street," each "Containing a separate second-floor apartment that could be rented out" — http://s-media.nyc.gov/agencies/lpc/lp/2623.pdf
+- ABC7, Nov 5 2026: a fire just before 1:40 a.m. at a two-story home on 58th Street killed six people; firefighters rescued two people trapped behind window bars — https://abc7ny.com/post/6-dead-3-alarm-fire-tears-sunset-park-home-brooklyn/20017265/
+- ABC7, Nov 6 2026: complaints said the house's basement had been converted into an apartment and the first and second floors divided into three apartments each; inspectors visited four times and closed the cases "because no one answered the door" — https://abc7ny.com/post/illegal-apartment-complaints-bike-batteries-investigated-fire-kills-6-brooklyn/20019655/
+- Brooklyn Eagle, Mar 2023: the Attorney General settled with landlords operating an illegal single-room occupancy rental business out of a condominium building in Sunset Park — https://brooklyneagle.com/articles/2023/03/09/penalty-from-sunset-park-slumlords-will-go-toward-affordable-housing/
+
+**The waterfront campuses west of Third Avenue**
+- NYCEDC: the Sunset Park District "spans 200 acres of the South Brooklyn waterfront and includes four major industrial campuses—the Brooklyn Army Terminal (BAT), South Brooklyn Marine Terminal (SBMT), MADE Bush Terminal, and the Brooklyn Wholesale Meat Market" — https://edc.nyc/project/sunset-park-district
+- Brooklyn Eagle, Apr 8 2025: Industry City is a "35-acre, 6 million-square-foot mixed-use complex comprising 16 buildings" and has "surpassed 650 businesses" — https://brooklyneagle.com/articles/2025/04/08/industry-city-surpasses-650-businesses/
+- Mann Report, Jan 2026: BAT is 59 acres and 4.1M sq ft with 100+ businesses — https://www.mannpublications.com/mannreport/2026/01/06/building-brooklyns-future-how-the-nycedcs-public-investment-in-sunset-park-is-creating-a-new-model-for-economic-growth/
+- BAT leasing: "Floorplates up to 200,000 square feet for anchor tenants and suites starting at 1,500 square feet" — https://brooklynarmyterminal.com/leasing
+- Liberty View Industrial Plaza, 850 Third Ave: built 1916 as a U.S. Navy supply warehouse, eight stories, 1.3M sq ft; 22 elevators replaced when only three worked — https://elevatorworld.com/news/usa-news/new-york/nyc/old-building-new-purpose/
+- DataVerge at 882 Third Ave runs Industry City's Meet-Me Room (40+ carriers) and a campus dark-fiber network to tenant suites — https://dataverge.com/industry-city/
+- Brooklyn Eagle, Jul 2017: the New York Times reported $50M in Hurricane Sandy damage to Industry City buildings on 36th Street between Second and Third Avenues; about $21M in resiliency work followed (drainage, flood barriers, storm sewers, an elevated substation) — https://brooklyneagle.com/articles/2017/07/24/shelter-from-the-storm-in-sunset-park-flood-proofing-industry-city-and-the-brooklyn-army-terminal/
+- The Drive: the Gowanus Expressway was completed in 1941 on the old Third Avenue el structure, widened to six lanes in the 1960s, and carries "well over 100,000 cars and trucks" daily — https://www.thedrive.com/vintage/2920/the-slow-and-steady-death-of-the-gowanus-expressway
+
+**Power events**
+- Con Edison, June 24 2025: voltage reduced 8 percent "to protect equipment and maintain service as crews make repairs" for 105,800 customers in southwest Brooklyn, naming Sunset Park — https://www.coned.com/en/about-us/media-center/news/2025/06-24/con-edison-asks-customers-in-southwest-brooklyn-to-conserve-energy
+- News 12, June 25 2025: about 2,200 Brooklyn customers had power problems; Sunset Park among the hardest hit; "In some cases, the power isn't fully out—but it's running lower than usual"; streetlights out at major intersections — https://brooklyn.news12.com/2025/06/25/thousands-of-families-experiencing-power-issues-in-southwest-brooklyn/50AaFmoZ1Hp2QwkP9kJqLW
+- Con Edison, July 3 2026: reduced voltage 8 percent in a second Brooklyn area of 106,000 customers listing Bay Ridge, Borough Park, Carroll Gardens, Dyker Heights, Park Slope and Sunset Park; customers asked not to use washers, dryers and microwaves until repairs were done — https://www.coned.com/en/about-us/media-center/news/2026/07-03/con-edison-asks-customers-in-certain-areas-of-queens-brooklyn-to-conserve-energy
+- Security Wholesalers recovery guide: after an outage, "Router/switch/NVR started in the wrong order", "HDD reports an abnormal state", "Time/NTP was lost"; "Repeated power cycling can worsen storage and power faults" — https://www.securitywholesalers.com.au/guides/technical-support-guides/cctv-networking/cctv-recovery-after-power-outage-restart/
+
+**Local incidents where camera footage mattered**
+- Patch: King Mei Supermarket, 5101 Sixth Ave, June 28 2019 about 4 a.m.; "The two thieves were caught on surveillance video removing the locks on the front gates." — https://patch.com/new-york/sunset-park/video-sunset-park-thieves-cut-supermarket-door-open-steal-3k
+- CBS New York, June 2017: a burglary pair hit businesses closed for the night, all between 2:30 and 5 a.m. — https://www.cbsnews.com/newyork/news/sunset-park-brooklyn-burglary-spree-suspects
+- News 12, June 2024: two men forced their way into a business on Second Avenue near 41st Street and took $8,000 from a desk — https://brooklyn.news12.com/suspects-steal-8000-from-sunset-park-business-police-say
+- News 12, July 2026: a man forced his way through the front door of a home at 53rd Street and Eighth Avenue on June 26 and took $10,000 — https://brooklyn.news12.com/man-wanted-for-stealing-10k-in-sunset-park-home-burglary
+- Brooklyn Eagle, Dec 2019: tools worth about $2,730 taken through an unlocked basement window at a 41st Street and Seventh Avenue building — https://brooklyneagle.com/articles/2019/12/27/cop-seek-man-wanted-for-stealing-thousands-of-dollars-worth-of-tools-from-sunset-park-home/
+- Brooklyn Eagle, Nov 2019: items taken from a basement storage area near Third Avenue and 43rd Street — https://brooklyneagle.com/articles/2019/11/13/cops-seek-man-for-burglarizing-sunset-park-home/
+- Informing News: police said the stretch of the waterfront greenway between Caesar's Bay and Sunset Park lacks surveillance cameras — https://informingnews.com/brooklyn-jogger-dies-days-after-waterfront-path-stabbing/
+
+**Rules that touch the repair**
+- LPC designated four Sunset Park historic districts on June 18 2019 (Sunset Park South 54th–59th Sts between Fourth and Fifth Aves; 50th Street; Central Sunset Park 47th–48th Sts and Sixth Ave 47th–49th; Sunset Park North, south side of 44th St Fifth–Seventh) — https://www.nyc.gov/site/lpc/about/pr2019/lpc-designates-four-historic-districts-in-sunset-park.page
+- LPC Permit Guidebook ch. 11: no permit for "Ordinary maintenance, repair, and retrofitting of health, safety, and utility equipment"; new cameras well spaced, at mortar joints or plain masonry, not on decorative surfaces; about ten inches of visible conduit — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- NYS license required to install or maintain security systems including CCTV used for intrusion or theft detection (19 NYCRR 195.2); owner self-install exemption — https://www.kirschenbaumesq.com/article/do-you-need-nys-license-for-video-access-system ; https://dos.ny.gov/fire-alarm-installer
+- Labor Law 203-c: employers must post notice of video monitoring — https://www.lowvoltagenation.com/posts/buffalo-new-york-security-camera-permit-requirements
+- Brick Underground: landlords aren't obligated to show tenants footage outside a legal process — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- Ring ended "Request for Assistance" in Jan 2024; police can still get video with a warrant — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- NYPD retail-theft pilot: free, opt-in live video link; "none of this is mandatory" (72nd Precinct inclusion EMPTY) — https://www.cbsnews.com/newyork/news/nypd-to-fight-rising-retail-theft-with-surveillance-video-monitoring-program-heres-how-it-works/
+- FCC Nov 2022: Hikvision and Dahua barred from new equipment authorization; Dahua said the order "does not affect products that are already authorized" — https://www.securitysales.com/news/fcc-bans-new-equipment-sales-hikvision-dahua/148053/
+- Sunset Park is covered by the 72nd Precinct, 830 Fourth Ave — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/72nd-precinct.page
+
+**Cost benchmarks**
+- HomeAdvisor, Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Empty**
+- DOB permits for camera work in 11220/11232: EMPTY
+- 311 / HPD camera data for 11220/11232: EMPTY (NYC Open Data not reachable)
+- Reddit threads (r/SunsetPark, r/Brooklyn, r/AskNYC) on camera repair in Sunset Park: EMPTY
+- Yelp reviews for camera repair in Sunset Park: EMPTY
+- Local news on camera repair specifically in Sunset Park: EMPTY
+
+### Questions people ask — Security Camera Repair in Sunset Park
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable for this build)
+- Can a house get low-profile cameras with hidden wiring? — Brownstoner forum (Sunset Park) — https://www.brownstoner.com/forum-archive/2011/01/security-camera-1
+- Repair or replace an old camera system? — Reddit — https://www.reddit.com/r/SecurityCamera/comments/1g2eiej/repair_or_replace/
+- Why does my NVR keep beeping? — Reddit — https://www.reddit.com/r/SecurityCamera/comments/1g2eiej/repair_or_replace/
+- How do I check if my security camera system is recording? — vendor guide — https://www.cctvcameraworld.com/guides/is-my-security-camera-system-recording/
+- Why can I see live cameras but no recordings? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
+- Can you fix cameras that stopped working after an internet provider change? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
+- Can existing coaxial wiring be reused? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
+- How much does security camera repair cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- How do I get my landlord to let me look at security camera footage? — Brick Underground — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- Can police get my camera footage? — News 12 — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
