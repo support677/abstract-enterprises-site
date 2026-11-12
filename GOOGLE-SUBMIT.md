@@ -246,21 +246,21 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/geovision-camera-installation-prices-putnam-county | REQUESTED 2026-11-11
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/geovision-camera-installation-prices-dutchess-county | INDEXED 2026-11-11
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/lilin-camera-installation-prices-nyc | REQUESTED 2026-11-11
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/lilin-camera-installation-prices-brooklyn | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/lilin-camera-installation-prices-nassau-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/lilin-camera-installation-prices-rockland-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/lilin-camera-installation-prices-ulster-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/turing-camera-installation-prices-brooklyn | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/turing-camera-installation-prices-queens | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/turing-camera-installation-prices-suffolk-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/turing-camera-installation-prices-rockland-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/tp-link-vigi-camera-installation-prices-manhattan | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/tp-link-vigi-camera-installation-prices-long-island | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/speco-camera-installation-prices-brooklyn | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/speco-camera-installation-prices-queens | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/invid-tech-camera-installation-prices-queens | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/invid-tech-camera-installation-prices-long-island | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/invid-tech-camera-installation-prices-nassau-county | QUEUED
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/lilin-camera-installation-prices-brooklyn | REQUESTED 2026-11-12
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/lilin-camera-installation-prices-nassau-county | REQUESTED 2026-11-12
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/lilin-camera-installation-prices-rockland-county | REQUESTED 2026-11-12
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/lilin-camera-installation-prices-ulster-county | INDEXED 2026-11-12
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/turing-camera-installation-prices-brooklyn | INDEXED 2026-11-12
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/turing-camera-installation-prices-queens | INDEXED 2026-11-12
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/turing-camera-installation-prices-suffolk-county | REQUESTED 2026-11-12
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/turing-camera-installation-prices-rockland-county | REQUESTED 2026-11-12
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/tp-link-vigi-camera-installation-prices-manhattan | REQUESTED 2026-11-12
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/tp-link-vigi-camera-installation-prices-long-island | REQUESTED 2026-11-12
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/speco-camera-installation-prices-brooklyn | REQUESTED 2026-11-12
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/speco-camera-installation-prices-queens | REQUESTED 2026-11-12
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/invid-tech-camera-installation-prices-queens | INDEXED 2026-11-12
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/invid-tech-camera-installation-prices-long-island | REQUESTED 2026-11-12
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/invid-tech-camera-installation-prices-nassau-county | INDEXED 2026-11-12
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/invid-tech-camera-installation-prices-westchester-county | QUEUED
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/gw-security-camera-installation-prices-brooklyn | QUEUED
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/gw-security-camera-installation-prices-hudson-valley | QUEUED
