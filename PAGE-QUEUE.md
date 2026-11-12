@@ -640,7 +640,7 @@ LIVE REBUILD | door-buzzer-repair-crotona-park-east-bronx-ny | Door Buzzer Repai
 LIVE | door-buzzer-repair-east-flatbush-brooklyn-ny | Door Buzzer Repair | East Flatbush, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | door-buzzer-repair-east-tremont-bronx-ny | Door Buzzer Repair | East Tremont, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE REBUILD | door-buzzer-repair-edenwald-bronx-ny | Door Buzzer Repair | Edenwald, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-12T13:11Z max-burn REBUILD | door-buzzer-repair-fieldston-bronx-ny | Door Buzzer Repair | Fieldston, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
+LIVE | door-buzzer-repair-fieldston-bronx-ny | Door Buzzer Repair | Fieldston, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE | door-buzzer-repair-fiske-terrace-brooklyn-ny | Door Buzzer Repair | Fiske Terrace, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | door-buzzer-repair-fordham-bronx-ny | Door Buzzer Repair | Fordham, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE | door-buzzer-repair-fort-greene-brooklyn-ny | Door Buzzer Repair | Fort Greene, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
