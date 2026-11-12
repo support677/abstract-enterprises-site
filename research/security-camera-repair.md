@@ -2545,3 +2545,57 @@ Note: the live search budget for this session was used up before new searches co
 - PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Reddit / Yelp: EMPTY (no searches could run this session)
 - How much do security camera installation and repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
 - How do I get my landlord to let me look at security camera footage? — Brick Underground — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+
+## Prospect Heights, Brooklyn — /security-camera-repair-prospect-heights-brooklyn-ny (factory research, 2026-11-12)
+
+**Local incidents where camera footage mattered**
+- Specific Gravity, a store on Vanderbilt Avenue in Prospect Heights: two women stole jewelry valued at about $6,060 around 5:10 p.m. on a Wednesday; "Surveillance video released by police show the women browsing the store with their wallets out and looking at several pieces of jewelry"; one distracted an employee while the other reached into a display case (News 12 Brooklyn, Oct 28 2025) — https://brooklyn.news12.com/2-women-on-the-run-after-stealing-over-6k-in-jewelry-from-prospect-height-store
+- Residential building at Dean Street and Underhill Avenue: on Sept. 17 (2026) at about 4:45 p.m. a man "entered the location through an open garage door" and took a bicycle valued at about $758, fleeing toward Underhill Avenue; police released images (News 12 Brooklyn, Oct 13 2026) — https://brooklyn.news12.com/residential-building-burglarized-in-prospect-heights
+- Police released surveillance footage of two suspects sought for a string of 19 commercial burglaries across Brooklyn (2026; the Hoodline report in the background pack lists Prospect Heights among the 16 neighborhoods) — https://www.instagram.com/reel/DdSGUQfEqi2/?hl=en
+
+**Construction next door (Pacific Park Phase II)**
+- The Real Deal (Sept 15 2026): under the new MOU, construction of the "$400 million second platform cannot begin until developers have commenced all vertical portions of buildings on the first platform and Site 5, located on solid ground across from the Barclays Center"; "$175 million needed to fully fund the first platform"; plan is "up to 4,600 rentals with 1,242 set aside as affordable units, plus 1,000 condo units" — https://therealdeal.com/new-york/2026/09/15/pacific-parks-next-phase-plan-draws-board-concerns/
+- ESD Phase II MOU (Aug 2026): plan "prioritizes construction on solid ground sites, specifically Site 5 and B6" — https://esd.ny.gov/sites/default/files/media/document/Atlantic-Yards-Phase-II-Final-MOU-August-2026.pdf
+- BrooklynSpeaks: six buildings (B5–B10) are to stand on platforms over the LIRR rail yard between Carlton and Vanderbilt Avenues and Pacific Street and Atlantic Avenue; Site 5 is bounded by Flatbush Avenue, Pacific Street, Fourth Avenue and Atlantic Avenue; Cirrus/LCOR approved October 2025 — https://www.brooklynspeaks.net/atlanticyards
+
+**Landmarks (applies to the Prospect Heights Historic District)**
+- City Record notices show LPC permit applications in the Prospect Heights Historic District (e.g. 299 Park Place rear yard addition, LPC-19-09296; 565A Carlton Avenue signage) — https://a856-cityrecord.nyc.gov/RequestDetail/20170831102 ; https://a856-cityrecord.nyc.gov/RequestDetail/20180419102
+- LPC Permit Guidebook ch. 11 (from silo research): no permit for "Ordinary maintenance, repair, and retrofitting of health, safety, and utility equipment"; cameras no more than two per 25 feet of frontage on small buildings; attach at mortar joints, plain masonry, wood or metalwork, not through cast iron or decorative surfaces; about ten inches of visible conduit — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- No camera-specific LPC application for Prospect Heights found: EMPTY
+
+**Footage, landlords and boards**
+- Brick Underground: attorneys don't recommend boards share footage with residents or view it themselves; a property manager says he will not distribute copies "without a subpoena or court order", and resident requests are "usually not approved unless it's approved by the board specifically, on a case-by-case basis" — https://www.brickunderground.com/blog/2014/06/ask_an_expert_security_camera
+- Brick Underground: if theft is building-wide, tenants can form a tenants' association to collectively ask the landlord — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
+- Brick Underground: landlords increasingly use camera footage in primary-residence cases with rent-stabilized tenants — https://www.brickunderground.com/troubleshooting/landlords-using-surveillance-cameras
+
+**Recorder failure facts**
+- "Running out of storage is the most common reason" cameras stop recording — https://nyetechnicalservices.com/paa/why-do-security-cameras-stop-recording/
+- "Hard drives within NVR/DVR units are typically the first component to require replacement, often between three and five years depending on recording volume." — https://honorsecurity.com/blog/how-long-do-security-cameras-last/
+- Checking recording: open the NVR menu, check the drive status — https://www.cctvcameraworld.com/guides/is-my-security-camera-system-recording/
+
+**Reddit**
+- r/AskNYC: "My building has cameras but our landlord won't check them without a police report." — https://www.reddit.com/r/AskNYC/comments/100v3n5/can_i_put_camera_in_the_lobby_for_package_thieves/
+- r/NYCapartments: "Landlord is saying that the security camera systems are down and that there is nothing they can do about a stolen package." — https://www.reddit.com/r/NYCapartments/comments/1bjwldr/package_stolen_from_lobby_of_building_i_just/
+- r/crownheights (next door): "package theft in large pre-war buildings" — "this is my third important package stolen in 2026, now totaling over $500 in stolen goods. landlord is unhelpful" — https://www.reddit.com/r/crownheights/comments/1txm4uq/package_theft_in_large_prewar_buildings/
+- r/AskNYC: advice to file a police report and tell officers the building has cameras — https://www.reddit.com/r/AskNYC/comments/1bfjfdu/is_there_a_way_to_force_a_landlord_to_show_me_the/
+- r/prospectheights threads on camera repair: EMPTY
+
+**Yelp**
+- Yelp "Security Camera Repair" Brooklyn list (2026) includes MetroCom Security, Security & Camera, Abstract Enterprises Security Systems; Prospect Heights CCTV list shows MetroCom Security, SatComm AVC, Falcon Locksmith, Hyperion Fire and Security — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Brooklyn%2C+NY
+- Yelp complaints specific to camera repair in Prospect Heights: EMPTY
+
+**Power events in Prospect Heights**: EMPTY (no Prospect Heights-specific outage report found)
+**HPD / 311 / DOB camera data for 11238/11217**: EMPTY
+
+### Questions people ask — Security Camera Repair in Prospect Heights
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (live SERP panels not retrievable); questions below are from the pages found
+- Why do security cameras stop recording? — vendor PAA page — https://nyetechnicalservices.com/paa/why-do-security-cameras-stop-recording/
+- How do I check if my security camera system is recording? — guide — https://www.cctvcameraworld.com/guides/is-my-security-camera-system-recording/
+- How long do security cameras last? — guide — https://honorsecurity.com/blog/how-long-do-security-cameras-last/
+- How do I start recording again after the DVR is full? — Quora — https://www.quora.com/How-do-I-start-recording-again-on-a-security-camera-after-the-DVR-is-full
+- How long does it take to repair damaged security cameras? — Facebook group — https://www.facebook.com/groups/1261019949192693/posts/1484233190204700/
+- Can I put a camera in the lobby for package thieves? — Reddit r/AskNYC — https://www.reddit.com/r/AskNYC/comments/100v3n5/can_i_put_camera_in_the_lobby_for_package_thieves/
+- Is there a way to force a landlord to show me the camera feed in the lobby? — Reddit r/AskNYC — https://www.reddit.com/r/AskNYC/comments/1bfjfdu/is_there_a_way_to_force_a_landlord_to_show_me_the/
+- Who's allowed to watch my building's security camera footage? — Brick Underground — https://www.brickunderground.com/blog/2014/06/ask_an_expert_security_camera
+- What can I do about package theft in a large pre-war building? — Reddit r/crownheights — https://www.reddit.com/r/crownheights/comments/1txm4uq/package_theft_in_large_prewar_buildings/
+- Best security camera repair near Prospect Heights? — Yelp — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Brooklyn%2C+NY
