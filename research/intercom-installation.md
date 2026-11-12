@@ -3742,3 +3742,62 @@ Method: web search plus page fetches. Google PAA/PASF, AnswerThePublic, Bing, Du
 - Does an intercom on a landmarked house need LPC approval, and where can it go? — LPC guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
 - Will a phone-line entry panel keep working when Verizon retires copper? — Alarm Grid / WAMC — https://www.alarmgrid.com/blog/2026/10
 - Can a landlord make tenants use an app or fob to get in? — HPD — https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page
+
+## Gravesend, Brooklyn — /intercom-installation-gravesend-brooklyn-ny (factory research, 2026-11-12)
+
+**Building stock that intercom work meets in Gravesend**
+- 2015 Shore Parkway (Gravesend, 11214): built 1962, 17 floors, 160 units; 47 open HPD violations over the past 10 years (9 class C, 30 class B, 8 class A), 0.29 per unit vs NYC average 0.81; no tenant reviews posted — https://openigloo.com/building/nyc/3321110-3069370048/brooklyn-gravesend-2015-shore-parkway-11214
+- Contello Towers #2 Corporation is at 2015 Shore Pkwy Brooklyn, NY 11214 (the co-op behind that tower) — https://www.yelp.com/biz/contello-towers-2-corporation-brooklyn-2
+- Contello Towers, 2740 Cropsey Ave: 321 units, 17 stories, built 1962, amenities listed as "Controlled Access" and "24 Hour Access"; the listing site files it under Gravesend — https://www.apartments.com/building/contello-towers-brooklyn-ny/gq231mw/
+- Contello Towers III, 2652 Cropsey Ave: "a 17-story high-rise in the Gravesend neighborhood of Brooklyn, constructed in 1967" — https://www.homes.com/building/contello-towers-iii-brooklyn-ny/b-j6s6g4yclxf6s/
+- 1935 Shore Parkway (Waterview Towers) co-op listings are filed under Gravesend by Corcoran/Compass; 17-story towers, 325 units total across I and II, built 1959 (Trulia: 1963) — https://corcoran.com/building/gravesend/72049 ; https://www.homes.com/building/waterview-towers-i-and-ii-brooklyn-ny/b-k78k1ypb7sd26/
+- 2661 Shore Parkway (11223): built 1951, 6 floors, 60 units, rent-stabilized, owner/manager listed as Beach Haven Apts — https://www.openigloo.com/building/nyc/3344528-3072330115/brooklyn-gravesend-2679-shore-parkway-11223
+- Fred Trump built in Gravesend, one of several Brooklyn neighborhoods where he "erected thousands of modest row houses and apartment buildings"; his largest projects "were always located near rapid transit" — https://blogs.cornell.edu/tomcamp/2016/02/14/fred-trumps-brooklyn
+- 2610 Ocean Parkway (11223, Gravesend): built 1964, 6 stories, 56 units; a reviewer calls it a "Great coop near Coney Island Hospital" — https://www.openigloo.com/building/nyc/3196062-3072380042/brooklyn-gravesend-2610-ocean-parkway-11223
+- 106 Avenue S (11223): built 1931, 4 floors, 12 units; tenant review May 2022: "The buzzer/intercom does not seem to work for any of the units." — https://www.lucidrents.com/nyc/building/brooklyn/106-avenue-s-brooklyn-ny-11223
+- 2470 W. 1st St., Gravesend: seven-story building with elderly tenants; elevator out from end of June 2026, DOB cease-use order after a June 29 311 complaint; management sign told tenants to call the super for help with groceries and packages; a 70-year-old tenant on the sixth floor could not carry laundry down (CBS, July 13 2026) — https://www.cbsnews.com/newyork/news/gravesend-brooklyn-out-of-service-elevator/
+- Marlboro Houses (NYCHA, Gravesend): 28 buildings, nearly 4,000 residents; only five buildings have accessible ramps; resident Annie Batts: "I have to sit out and wait for somebody to come by and help me put my walk up"; NYCHA says accessibility requests are in final review (News12, Apr 16 2026). Article does not mention intercoms. — https://brooklyn.news12.com/2026/04/16/gravesend-nycha-tenants-demand-ada-accessible-ramps/5VUoMn3vqVThJRKVxuKxaO
+- NYCHA runs its own CCTV and Layered Access Control replacement program for its developments — https://www.nyc.gov/assets/nycha/downloads/pdf/Learn-More-About-NYCHA-CCTV-&-LAC-Replacements.pdf
+
+**City rules and legal duties**
+- Under the state Multiple Dwelling Law, buildings built or converted after 1968 with eight or more units must have a two-way voice intercom linking the front door to each apartment; the city's housing maintenance code also requires a functioning intercom (Habitat, Feb 26 2024) — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- Nancy Kourland (Lasser Law Group): "As a result, the co-op has a legal obligation to repair or replace the intercom." Courts treat intercoms as an essential service; shareholder options include a letter to the board, a 311 complaint, or an HP proceeding in housing court — same URL
+- Case in that article: a sixth-floor shareholder in a 54-unit co-op lost intercom service for about five years after a downstairs neighbor's renovation; the downstairs neighbor may be liable depending on the alteration agreement (Andrew Freedland, Herrick Feinstein) — same URL
+- 1 RCNY 42-01 mounting heights: "No push button device shall be more than six feet from the floor and the speaking and listening device shall be installed to be not less than four feet and not more than five feet from the floor." — https://www.nyc.gov/assets/buildings/rules/1_RCNY_42-01.pdf
+- A non-working intercom or buzzer is a Class B hazardous violation under the Housing Maintenance Code — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- Gravesend HPD intercom violation record (32 violations 2023–2026) already used on AESS door-buzzer Gravesend page — not re-used here as a centerpiece.
+- Gravesend DOB permit data for intercom work: EMPTY
+- LPC: Lady Moody–Van Sicklen House (27 Gravesend Neck Rd) and Old Gravesend Cemetery are individual landmarks; no Gravesend historic district found — EMPTY for district rules
+
+**Religious practice that shapes entry design (Gravesend's Sephardic community, northeast blocks)**
+- Rav Eliezer Melamed, Peninei Halakha (Shabbat ch. 17 §13): a Jew should not press the intercom to ask a guard to unlock the door "since using electricity is prohibited"; better to place the guard's station near the entrance so a resident can knock outside camera range; "a Jew may not stand where his image will be captured on the monitor"; ringing an electric doorbell regularly is discouraged ("doing so regularly belittles Shabbat") — https://ph.yhb.org.il/en/01-17-13/
+- "Smart Shabbos" technology (timers, pre-set automation) spread through Brooklyn Jewish homes (Algemeiner, May 24 2016) — https://www.algemeiner.com/2016/05/24/smart-shabbos-technology-takes-brooklyn-jewish-homes-by-storm/
+
+**Phone-line panels and copper**
+- In 2017 Verizon listed 65 switching centers and thousands of addresses where it would stop offering copper service and stop maintaining copper lines; Verizon spokesperson: "fiber-optic cables are non-metallic, they're immune to many environmental factors"; Sandy saltwater damaged copper citywide (THE CITY, Feb 4 2022) — https://www.thecity.nyc/2022/02/04/verizon-copper-lines-customers-frustration/
+- Guidance pieces on POTS lines going away for intercom panels — https://butterflymx.com/blog/pots-lines-going-away/
+
+**Cost references (national/online, not AESS prices)**
+- HomeAdvisor: "Installing an intercom system costs an average of $2,500, including intercom materials and labor"; normal range $1,200–$8,500; wired substation $200–$600 each; one to two hours per station — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- Swiftlane (2026): small building replacement (one entrance, ~5–20 units) $2,200–$5,000; basic audio $2,175–$3,500; video $4,000–$5,000+; diagnostic visit $150–$400; "Cost scales with door and entrance count, not just unit count"; wiring condition is "the single hardest variable to price nationally" — https://swiftlane.com/blog/apartment-intercom-replacement-cost-in-2026-typical-ranges-what-impacts-price/
+
+**Reddit / Yelp / news**
+- Reddit threads about intercoms in Gravesend: EMPTY (search surfaced none)
+- Yelp 1–3★ reviews of intercom companies near Gravesend: EMPTY
+- Gravesend-specific package-theft-in-lobby news: EMPTY (results were Crown Heights, Flatbush, Woodside)
+
+### Questions people ask — Intercom Installation in Gravesend
+- How much does it cost to install an intercom system in an apartment building in NYC? — PAA-style query / HomeAdvisor, Swiftlane — https://swiftlane.com/blog/apartment-intercom-replacement-cost-in-2026-typical-ranges-what-impacts-price/
+- Is a landlord or co-op legally required to fix a broken intercom? — PASF / Habitat — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- What can a shareholder do if the board won't repair the intercom? — Habitat — same URL
+- Who pays when a neighbor's renovation cut my intercom wire? — Habitat — same URL
+- How long does it take to install an intercom per station? — HomeAdvisor — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- Is a video intercom much more than audio? — Swiftlane — https://swiftlane.com/blog/apartment-intercom-replacement-cost-in-2026-typical-ranges-what-impacts-price/
+- Does it cost more because of the number of doors or the number of apartments? — Swiftlane — same URL
+- How do you replace a phone-only apartment intercom system? — Bing/PASF — https://butterflymx.com/blog/replace-phone-only-apartment-intercom-system/
+- What happens to a phone-line entry panel when copper lines are retired? — PASF — https://butterflymx.com/blog/pots-lines-going-away/
+- What kind of intercom works for a three-family house? — Brownstoner forum title (page not readable) — https://www.brownstoner.com/forum/about-brooklyn/intercom-for-a-three-family
+- Can an intercom or doorbell be used on Shabbat? — Peninei Halakha — https://ph.yhb.org.il/en/01-17-13/
+- How high does the intercom panel have to be mounted in NYC? — 1 RCNY 42-01 — https://www.nyc.gov/assets/buildings/rules/1_RCNY_42-01.pdf
+- The buzzer doesn't work for any unit in our building — who do we call? — lucidrents review — https://www.lucidrents.com/nyc/building/brooklyn/106-avenue-s-brooklyn-ny-11223
+- Answer the Public, Bing and DuckDuckGo question lists for "intercom installation Gravesend": EMPTY
