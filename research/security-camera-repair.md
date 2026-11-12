@@ -3624,3 +3624,90 @@ Note: live web search was not available for this build (search budget exhausted)
 - How much does security camera repair cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
 - How do I get my landlord to let me look at security camera footage? — Brick Underground — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
 - Can police get my camera footage? — News 12 — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+
+## Weeksville, Brooklyn — /security-camera-repair-weeksville-brooklyn-ny (factory research, 2026-11-12)
+
+Note: the live web-search budget for this session was used up before any new search could run, so no new pages were fetched. Every finding below was taken from sources already fetched and saved in the site's research files (door-buzzer-installation, door-buzzer-repair, intercom-installation and alarm-installation Weeksville packs, and the Crown Heights, Ocean Hill, Brownsville and Bedford-Stuyvesant camera repair packs). Anything not found there is marked EMPTY.
+
+**Building stock that decides who owns and repairs a camera system**
+- MapPLUTO, blocks between Atlantic Ave, Eastern Parkway, Troy Ave and Ralph Ave: 2,089 lots with apartments — 1,079 one- and two-family lots (2,033 units), 642 lots with 3–7 apartments (2,485 units), 220 lots with 8–19 apartments (2,383 units), 148 lots with 20+ apartments (7,040 units); 74 lots with 3+ apartments built 2010 or later (1,194 units) — https://data.cityofnewyork.us/resource/64uk-42ks.json
+- Kingsborough Houses (NYCHA): 15.97 acres bounded by Ralph and Rochester Aves, Pacific and Bergen Sts; 16 six-story buildings, 1,148 apartments, finished 1941; Extension for senior citizens 1966 — https://en.wikipedia.org/wiki/Kingsborough_Houses-Kingsborough_Extension
+- Kingsborough visioning summary (HPD/NYCHA, Summer 2019) for the planned senior building: goal to "Improve the safety and security of the immediate surroundings through lighting improvements; video intercom and security cameras; natural surveillance measures; and ground floor activation" — https://www.nyc.gov/assets/hpd/downloads/pdfs/services/appendix-a-kingsborough-visioning-summary.pdf
+- "Weeksvillage": 13-story, 200-unit senior building planned on Bergen St open space at Kingsborough (HPD/HDC/NYCHA + CAMBA Housing Ventures), across the street from the Hunterfly Road houses (Brownstoner, June 28 2023) — https://www.brownstoner.com/development/weeksvillage-senior-affordable-housing-nycha-kingsborough-houses-crown-heights/
+- Weeksville Gardens: two buildings, 4 and 5 stories, 256 apartments, completed April 30 1974, between Pacific and Dean Sts and Schenectady and Troy Aves — https://foursquare.com/v/nycha--weeksville-garden/4e6d63ee483bf1052113a897
+- Weeksville Gardens converted to private management through NYCHA's PACT program in February 2020; NYCHA announced completion of over $400 million in repairs at nine PACT complexes including Weeksville Gardens in 2022 — https://www.brooklynpaper.com/434-million-reno-complete-at-9-nycha-complexes-under-private-management/
+- Weeksville Place (Settlement Housing Fund, HPD program): eight stories, 45 units for seniors, families from shelters and lower-income tenants, Prospect Place and Buffalo Ave, formerly vacant city lot; construction completed early 2025 — https://www.settlementhousingfund.org/weeksville-place/ ; https://thenyhc.org/projects/weeksville-place/
+- 1921 Atlantic Apartments: 199 newly built lottery units (listing also gives 1911 Atlantic Ave), elevator building, lottery ended Jan 4 2023 — https://housingconnect.nyc.gov/PublicWeb/details/3292
+- Brownstoner (2016): "Wood-framed houses were replaced by masonry row houses"; the 1880s grid expansion often ran through homes — https://www.brownstoner.com/history/weeksville-brooklyn-history-heritage-center/
+- 1718 Dean St: 19th-century two-story wood frame, fish-scale shingles, 17 ft wide, about 1,020 sq ft, one family 1897–2001 (Brownstoner, Dec 2018) — https://www.brownstoner.com/real-estate-market/brooklyn-homes-for-sale-crown-heights-1718-dean-street-weeksville-wood-frame/
+- Brownstoner (2025): Atlantic Ave east of Brooklyn Ave runs under the LIRR elevated, with tire and repair shops and garages in one- and two-story taxpayers; "A couple of tall glass and steel apartment buildings have gone up on and near Ralph Avenue" — https://www.brownstoner.com/history/atlantic-avenue-history-architecture-railroad-auto/
+- Example walk-up co-op: 578 Ralph Ave, 17 units, 4 stories, built 1922; example three-family: 167 Schenectady Ave, 3 units, built 1910, "Doorman Virtual" listed; 237 Utica Ave mixed-use building — https://streeteasy.com/building/578-ralph-avenue-brooklyn ; https://streeteasy.com/building/167-schenectady-avenue-brooklyn/garden ; https://streeteasy.com/building/237-utica-avenue-brooklyn/1f
+
+**Landmarks and permits**
+- Hunterfly Road houses (1698–1708 Bergen St) are the one landmark in historic Weeksville (NYC landmark 1970, National Register 1972); Crown Heights North III historic district extends east only to Albany Ave, west of Troy, so most Weeksville blocks appear to sit outside historic districts — check each address — https://en.wikipedia.org/wiki/Weeksville_Heritage_Center ; https://hdc.org/buildings/crown
+- A $4 million restoration of the Hunterfly Road houses began fall 2024 and finished February 2026 — https://www.nyc.gov/mayors-office/news/2026/02/mayor-mamdani-announces-completion-of-weeksville-restoration--pr
+- LPC Permit Guidebook ch. 11 (applies only to designated buildings): no permit for "Ordinary maintenance, repair, and retrofitting of health, safety, and utility equipment"; cameras attach at mortar joints, plain masonry, wood or metalwork, not decorative surfaces; about ten inches of visible conduit — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- NYC Admin Code §28-105.4.7: no electrical permit for wiring under 50 volts for signaling, communication, alarm and data circuits when done by a licensed or qualified person — https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-156361
+- DOB permits for camera repair in Weeksville: EMPTY
+
+**Public housing camera condition (citywide, applies to Kingsborough and the PACT buildings)**
+- NYC DOI (March 26 2025): at 44 of 63 NYCHA senior buildings (about 70%) the Genetec cameras could not be viewed remotely, due to "outdated or incompatible software or hardware causing login, connection, and data storage issues", camera models without remote viewing, and damage — https://www.nyc.gov/assets/doi/reports/pdf/2025/14NYCHASecurityFireReleaseRpt03.26.2025.pdf
+- April 15 2025 Council hearing: NYCHA does most CCTV repair in-house and aims to repair a reported camera "within twenty four to seventy two hours"; common damage is spray paint and cracked housings; about 20,000 cameras — https://citymeetings.nyc/meetings/new-york-city-council/2025-04-15-1000-am-committee-on-public-housing/chapter/issues-with-cctv-cameras-at-senior-buildings-and-maintenance-processes/
+- 2019 Council hearing: NYCHA said its cameras last "about 10 years" — https://brooklyneagle.com/articles/2019/06/07/no-cameras-woodson-houses-nycha
+- NYCHA Federal Monitor photos (citywide): spray-painted, missing, defective and taped-over cameras — https://www.nyc.gov/assets/nycha/downloads/pdf/NYCHA-Monitor-Safety-and-Security-Report-5-25-23.pdf
+- NYC Comptroller 2022 door survey: 36.8% of NYCHA residential entrance doors open, 40.1% of entrance locks broken — https://comptroller.nyc.gov/reports/observations-of-building-doors-in-nycha-developments
+- NYS Focus (Oct 2025): NYPD linking NYCHA CCTV to its software via Big Apple Connect; Kingsborough not named — https://nysfocus.com/2025/10/01/nypd-nycha-surveillance-hearing
+
+**Power events near Weeksville**
+- May 6–7 2025: manhole fire on Albany Ave in Crown Heights, a cellar fire in a home on Lincoln Place between Albany and Troy Aves, Con Edison: "the fire that started in the manhole caused the outages"; about 200 customers out — https://brooklyn.news12.com/2025/05/07/crown-heights-neighborhood-hit-with-2-separate-fires-and-a-power-outage/6bgOyHiEUWNr90P5oXoveO
+- June 2025 heat wave: Con Edison shut off "almost 900 customers temporarily" in Central Brooklyn, citing "an electric problem in Central Brooklyn"; voltage reduction near 1414 Eastern Parkway — https://anash.org/amid-heatwave-crown-heights-power-outage-puts-seniors-at-risk
+- June 11 2026: manhole fires on Fulton St in Bed-Stuy cut power to rows of businesses (north of Weeksville) — https://newjersey.news12.com/power-restored-after-manhole-fires-knock-out-blocks-of-fulton-street
+- Dec 29 2025: snowmelt mixed with road salt "can seep into underground electrical equipment" — https://brooklyn.news12.com/2025/12/30/weather-related-outages-keep-hundreds-of-brooklyn-households-in-the-dark/6jH9bZKGrtGANj6DOZo5qO
+- Weeksville-specific outage counts: EMPTY
+
+**Commercial corridors**
+- SBS Neighborhood 360° Ocean Hill–Weeksville (fieldwork Sept 2023–June 2024): corridors Ralph Ave, Rockaway Ave, Broadway and Fulton St; 560 storefronts, 11.3% vacant; houses of worship 79, salons and barbershops 65, vacant 63, delis and bodegas 52; 83% of merchants rent; safety named by 42% of merchants and 48% of shoppers; poor lighting under the el hurts night-time perceptions — https://nyc.gov/assets/sbs/downloads/pdf/neighborhoods/n360-cdna-oceanhill-weeksville.pdf
+- Utica Avenue is the area's main shopping strip (StreetEasy) — https://streeteasy.com/blog/affordable-weeksville-brooklyn/
+- Berean Missionary Baptist Church, 1635 Bergen St, 1894 church kept as fellowship hall beside a 1961 church; 1920s parsonage — https://www.brownstoner.com/architecture/building-of-the-day-1635-bergen-street/
+- CBS New York (2019 image date): four men carried TVs from a warehouse "on Bergen Street in Crown Heights" at 4:50 a.m. — https://www.cbsnews.com/newyork/news/burglary-suspects-caught-on-video/
+- 77th Precinct, 127 Utica Ave; the precinct "runs from Grand Army Plaza to Ralph Avenue" — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/77th-precinct.page ; https://www.brooklynpaper.com/man-shot-in-crown-heights-early-tuesday/
+- 73rd Precinct covers Brownsville and Ocean Hill; 81st Precinct covers Bed-Stuy — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/73rd-precinct.page
+
+**Footage, law and licensing**
+- Brick Underground: landlords aren't obligated to show tenants footage outside a legal process; attorney Catherine Grad: "I don't think that it's such an arduous duty to impose on the landlord" — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- Ring ended its Request for Assistance tool in Jan 2024; police can still get video with a warrant — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- NYS DOS: a license is required to install or service security systems for others; owners may install on their own property — https://dos.ny.gov/fire-alarm-installer
+- NY Labor Law §203-c: employers must give written notice of electronic monitoring — https://www.lowvoltagenation.com/posts/buffalo-new-york-security-camera-permit-requirements
+- Tenant Data Privacy Law (Local Law 63 of 2021) for smart-entry data — https://linkedsecurityny.com/services/intercom-systems-installation-ny/
+
+**Failure facts and costs**
+- "Hard drives within NVR/DVR units are typically the first component to require replacement, often between three and five years depending on recording volume." — https://honorsecurity.com/blog/how-long-do-security-cameras-last/
+- "Running out of storage is the most common reason" cameras stop recording — https://nyetechnicalservices.com/paa/why-do-security-cameras-stop-recording/
+- After an outage: "Router/switch/NVR started in the wrong order", "HDD reports an abnormal state", "Time/NTP was lost"; "Repeated power cycling can worsen storage and power faults" — https://www.securitywholesalers.com.au/guides/technical-support-guides/cctv-networking/cctv-recovery-after-power-outage-restart/
+- Reolink video-loss causes: insufficient power, faulty PoE switch or injector, overly long cables, loose BNC connector, IR/cut-filter faults, recorder can't decode a camera's resolution, IP conflicts — https://reolink.com/blog/video-loss-on-security-camera/
+- CCTVForum: "I've seen a lot of DVRs last 5-7 years"; a "dead" DVR is often fixed by replacing only the drive — https://www.cctvforum.com/topic/20101-how-long-does-a-dvr-usually-last
+- FCC (Nov 2022) bars new authorizations of covered Hikvision and Dahua equipment; does not affect authorized products already on the U.S. market — https://www.securityindustry.org/2022/11/29/fcc-adopts-new-rules-implementing-the-secure-equipment-act-of-2021/
+- HomeAdvisor Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145, low-high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Reddit (r/crownheights, next door)**
+- "hit & run" — poster: "I have tried to contact businesses / buildings in the area for cameras but have not had much luck" — https://www.reddit.com/r/crownheights/comments/1x040og/hit_run/
+- "man set fire to our building trash can last night" — "we have security cameras set up and got him on cam" — https://www.reddit.com/r/crownheights/comments/1xr1a28/man_set_fire_to_our_building_trash_can_last_night/
+- "Flock camera or normal cctv?" — https://www.reddit.com/r/crownheights/comments/1vqgur9/flock_camera_or_normal_cctv/
+- r/Weeksville threads: EMPTY
+
+**EMPTY**
+- Weeksville-specific local news about camera footage, break-ins or camera repair 2024–2026: EMPTY
+- 311 / HPD / DOB data about cameras in 11213 / 11233: EMPTY
+- Yelp complaints about camera repair near Weeksville: EMPTY
+
+### Questions people ask — Security Camera Repair in Weeksville
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (no search could run this session)
+- How do I get my landlord to let me look at security camera footage? — Brick Underground — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- Does anyone nearby have camera footage of a hit and run? — Reddit — https://www.reddit.com/r/crownheights/comments/1x040og/hit_run/
+- Is that new camera on the block a Flock camera or normal CCTV? — Reddit — https://www.reddit.com/r/crownheights/comments/1vqgur9/flock_camera_or_normal_cctv/
+- How long do security cameras last? — guide — https://honorsecurity.com/blog/how-long-do-security-cameras-last/
+- Why do security cameras stop recording? — vendor PAA page — https://nyetechnicalservices.com/paa/why-do-security-cameras-stop-recording/
+- Why do cameras not come back after a power outage? — vendor guide — https://www.securitywholesalers.com.au/guides/technical-support-guides/cctv-networking/cctv-recovery-after-power-outage-restart/
+- How long does a DVR usually last? — CCTVForum — https://www.cctvforum.com/topic/20101-how-long-does-a-dvr-usually-last
+- Why is there video loss on my security camera? — Reolink — https://reolink.com/blog/video-loss-on-security-camera/
+- How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
