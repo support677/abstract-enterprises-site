@@ -1735,3 +1735,48 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Why are my security cameras not working? — Brinks Home — https://brinkshome.com/smartcenter/why-are-my-security-cameras-not-working
 - What causes video loss on a security camera? — Reolink — https://store.reolink.com/video-loss-on-security-camera/
 - Do I need a permit to prune the street tree in front of my house? — NYC Parks FAQ — https://php1-84.nycgovparks.org/services/forestry/faq
+
+## Greenwood Heights, Brooklyn — /security-camera-repair-greenwood-heights-brooklyn-ny (factory research, 2026-11-12)
+
+**Local incidents where camera footage mattered**
+- Aug 19 2026, about 5:46 p.m.: a man brandished a firearm in front of 218 31st Street in Greenwood Heights and fired a round; police released surveillance images/footage of the man they wanted (dog "Honey" was struck) — https://www.facebook.com/1010wins/videos/gunman-who-opened-fire-striking-7-year-old-dog-in-brooklyn-sought-by-nypd/1360434002964926/ ; https://x.com/NYDailyNews/status/2091181025409790024
+- Brooklyn Eagle (Aug 25 2026): police arrested a 29-year-old suspect; the shot was fired in front of a bronze foundry at 218 31st St. The article does not say how the suspect was identified — https://brooklyneagle.com/411614/police-arrest-suspect-who-aimed-for-man-but-shot-service-dog/
+- Green-Wood vandalism (Aug 2012): surveillance camera showed a man climbing the inside of the fence near Fifth Ave & 25th St about 7 a.m. — https://www.brooklynpaper.com/green-wood-cemetery-vandalism-suspect-caught-on-camera/
+
+**Building conditions that bear on repair**
+- Aug 31 2025 (Sunday night): second-alarm basement fire in an apartment building on 27th Street in Greenwood Heights injured 12 people; spread to the first floor; cause under investigation — https://abc7ny.com/post/greenwood-heights-apartment-basement-fire-injures-6-residents-4-firefighters-2-nypd-officers-brooklyn/17710538/
+- Recorders, PoE switches and power supplies in these houses usually live in the cellar (AESS practice; no source) — EMPTY as sourced fact
+
+**Power events**
+- June 24 2025: Con Edison reduced voltage 8 percent "to protect equipment and maintain service as crews make repairs"; 105,800 customers; named Sunset Park and Park Slope among neighborhoods "in parts, or all"; a second area was "bounded by Prospect Park and Greenwood Cemetery on the north"; asked customers not to use energy-intensive appliances — https://www.coned.com/en/about-us/media-center/news/2025/06-24/con-edison-asks-customers-in-southwest-brooklyn-to-conserve-energy
+
+**Rules (silo-wide, reused)**
+- LPC Permit Guidebook ch. 11: no permit needed for "ordinary maintenance, repair, and retrofitting" of safety equipment; cameras must be well spaced; attach at mortar joints, plain masonry, wood or metalwork — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- 19 NYCRR 195.2: license required for CCTV used for detection/monitoring of intrusion etc.; owner self-install exemption — https://www.kirschenbaumesq.com/article/do-you-need-nys-license-for-video-access-system ; https://dos.ny.gov/fire-alarm-installer
+- Labor Law 203-C: employers must post notice of video monitoring — https://www.lowvoltagenation.com/posts/buffalo-new-york-security-camera-permit-requirements
+- Ring ended "Request for Assistance" Jan 2024; police can still get video with a warrant — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- Brick Underground: landlords not obligated to show tenants footage outside a legal process — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- LPC historic districts inside Greenwood Heights: EMPTY (none found; Weir Greenhouse is an individual landmark per background research)
+- DOB permits / 311 / HPD camera data for 11232: EMPTY
+
+**Repair practice found online**
+- An NVR beeps by default when its hard drive is failing; turning off the beep does not remove the need to replace the drive — https://www.reddit.com/r/SecurityCamera/comments/1g2eiej/repair_or_replace/
+- Checking recording: open the NVR menu, check drive status, use the built-in HDD test — https://www.cctvcameraworld.com/guides/is-my-security-camera-system-recording/
+- Retention: one Reddit user gets about 76 days of recordings; drive lifespan is about power-on hours — https://www.reddit.com/r/Ubiquiti/comments/1g7ezrt/how_long_do_you_guys_keep_your_cameras_footage/
+- HomeAdvisor Brooklyn camera install or repair: average $1,416, typical $680–$2,145 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Empty**
+- Reddit threads specific to Greenwood Heights camera repair: EMPTY
+- Yelp complaints specific to Greenwood Heights camera repair: EMPTY
+
+### Questions people ask — Security Camera Repair in Greenwood Heights
+- Repair or replace? (old camera system) — Reddit — https://www.reddit.com/r/SecurityCamera/comments/1g2eiej/repair_or_replace/
+- Why does my NVR keep beeping? — Reddit — https://www.reddit.com/r/SecurityCamera/comments/1g2eiej/repair_or_replace/
+- How long do you keep your cameras' footage? — Reddit — https://www.reddit.com/r/Ubiquiti/comments/1g7ezrt/how_long_do_you_guys_keep_your_cameras_footage/
+- How do I check if my security camera system is recording? — vendor guide — https://www.cctvcameraworld.com/guides/is-my-security-camera-system-recording/
+- Cameras working but not recording — what's wrong? — vendor page — https://www.imperasecurity.com/security-camera-repair
+- How much does security camera repair cost in NYC? — vendor page — https://www.imperasecurity.com/security-camera-repair
+- What affects DVR, NVR and camera repair cost? — vendor page — https://www.uasecurity.com/dvr-nvr-troubleshooting-nyc.htm
+- How do I get my landlord to let me look at security camera footage? — Brick Underground — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- Can police get my camera footage? — News 12 — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY
