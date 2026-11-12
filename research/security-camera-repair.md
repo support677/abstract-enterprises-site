@@ -2787,3 +2787,50 @@ Note: the live search budget for this session was used up before new searches co
 - How long do security cameras last? — web — https://reolink.com/blog/how-long-do-cameras-last/
 - How often have you had to replace your cameras? — Reddit — https://www.reddit.com/r/reolinkcam/comments/16hkne7/how_often_have_you_had_to_replace_your_cameras/
 - How do I stop package theft at my Prospect Park South home? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-prospect-park-south-brooklyn-ny
+
+## Park Slope, Brooklyn — /security-camera-repair-park-slope-brooklyn-ny (factory research, 2026-11-12)
+
+**Local incidents where camera footage mattered**
+- Facets jewelry store, Park Slope (ABC7, Jan 10 2023): "Surveillance video captured three armed suspects" smashing display cases and taking about 100 engagement rings worth about $2 million; the owner, Irina Sulay, "buzzed one man in and two more followed"; "The smash and grab was caught on the store's many cameras"; about 38 seconds; the AT&T store, the newsstand and another jewelry store in the area had also been robbed; Sulay shared the video on social media hoping for arrests — https://abc7ny.com/post/nyc-crime-brooklyn-jewelry-heist-robbery/12685509/
+- Seventh Avenue newsstand (News 12, Dec 29 2025): "Surveillance footage from Sunday night shows four men in ski masks as they take money from two separate registers. Police say they stole $2,000." The newsstand on 7th Avenue has been open over 60 years, run by the Shabain family; "They brandished a weapon, and they told him 'We have a gun'" (Zack Shabain); no arrests — https://brooklyn.news12.com/4-suspects-sought-in-park-slope-news-stand-armed-robbery
+- 8th Street Mini Market (FOX 5, Sep 13 2026): three-month-old kitten Jabal taken from outside the store early Thursday, per surveillance footage; owner Imad Innab and neighbors shared the security camera footage, flyers, Reddit and social media; owner working with NYPD — https://www.fox5ny.com/news/park-slope-rallies-after-video-shows-couple-stealing-brooklyn-bodega-cat
+- r/parkslope post (excerpt only): "If Your Car Was Hit While Parked In Front of Neergard on 5th Ave Saturday, Here's Footage of The Guy Who Did It" — https://www.reddit.com/r/parkslope/comments/1sf1nu2/if_your_car_was_hit_while_parked_in_front_of/
+
+**Crime data**
+- Patch (Oct 21 2025), NYPD data for Park Slope: most major felonies that month down nearly 7 percent vs a year earlier; felony assaults up 27.3 percent, robberies up 16.7 percent; burglaries fell by half, from eight in October 2024 to four in October 2025 — https://patch.com/new-york/parkslope/assaults-robberies-rise-park-slope-nypd-data
+
+**Power events that hit recorders, switches and cameras**
+- ABC7 (Feb 2 2026): nearly 2,000 Con Edison customers in Boerum Hill and Park Slope without power into a third day; Con Ed said melting snow and salt damaged underground equipment; problems began Friday night with "flickering lights and appliances that cut out unexpectedly", then full loss by the weekend; bodega owner: "no lotto machine working, no EBT, no credit card, nothing is working"; mobile generators brought in — https://abc7ny.com/post/power-outage-thousands-park-slope-boerum-hill-brooklyn-due-melting-snow-salt/18526765/
+- CBS / FOX 5 excerpts: hundreds still without power in Park Slope for a third day; 427 customers out as of 11 a.m. Tuesday; more than 1,900 customers in Park Slope without power since Tuesday — https://www.cbsnews.com/newyork/news/power-outage-coned-brooklyn-park-slope/ ; https://www.fox5ny.com/news/brooklyn-power-outage-leaves-over-1900-without-service-crews-work-overnight
+
+**Flooding at the bottom of the slope (cellar recorders)**
+- Streetsblog (Oct 6 2023): Fourth Avenue "forms the border between Park Slope and Gowanus"; earliest documented flooding 1922; "The avenue sits at the bottom of the hill of Park Slope, so a lot of rainwater pools on the thoroughfare during storms"; Tropical Storm Ophelia (Sept 29 2023) lifted parked cars; DEP $233 million sewer project in three phases, Fourth Avenue north of Seventh Street to Degraw by 2031, full by 2033; DEP models a five-year storm of 1.75 in/hr vs ~2 in/hr in Ophelia and 3.15 in Ida; Root Hill Cafe owner: drain bubbling gave "about 10 minutes" warning, this time "two to three minutes, tops" — https://nyc.streetsblog.org/2023/10/06/after-a-century-of-flooding-on-brooklyns-fourth-avenue-city-says-itll-be-fixed-by-2033
+- NYT (Oct 30 2025, excerpt only): two men died when storm water inundated basements in Brooklyn; Fourth Avenue near Carroll Street on the Park Slope-Gowanus border flooded — https://www.nytimes.com/2025/10/30/nyregion/nyc-floods-brooklyn-basement-death.html
+- r/parkslope (excerpt): "Woke up at 4:30am to our toilet bubbling and water rising at a very fast rate. Got about an inch and a half of water in my basement" — https://www.reddit.com/r/parkslope/comments/xd7fyb/did_anyone_else_have_flooding_in_their_basements/
+- Brick Underground (excerpt): owner of a Park Slope duplex dug out the basement for living space without flood protection — https://www.brickunderground.com/live/inside-stories-basement-flood-park-slope-brooklyn
+
+**Residents on building cameras (Reddit excerpts)**
+- r/parkslope "Constant Vandalism": "I'm pretty confident the landlord wouldn't put in a camera, she's older and wouldn't understand a need for it." — https://www.reddit.com/r/parkslope/comments/18kipch/constant_vandalism/
+- r/parkslope "good apartment vs crazy super": "using building security cameras to micromanage tenants is borderline harassment." — https://www.reddit.com/r/parkslope/comments/1s7fu70/good_apartment_vs_crazy_super/
+
+**Landmark rules (silo research, LPC Permit Guidebook ch. 11)**
+- No permit for "Ordinary maintenance, repair, and retrofitting of health, safety, and utility equipment"; equipment at mortar joints, plain masonry, wood or metalwork, not through cast iron or decorative surfaces; about two cameras per 25 feet of frontage on small buildings; about ten inches of visible conduit — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+
+**Yelp / competitors**
+- Yelp search "Security Camera Repair near Park Slope" lists MetroCom Security, Protector Security & Alarm, BAB Communications (no review text retrieved) — https://m.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Park+Slope%2C+Brooklyn%2C+NY
+- Competitor: "Many Brooklyn service calls are caused by a bad power supply, failed hard drive, loose connector, damaged cable, incorrect recorder setting, network change, router replacement, PoE switch issue or one failed camera." Service calls start at $150 — https://www.uasecurity.com/security-camera-system-repair-brooklyn-new-york.htm
+- Yelp complaints about camera repair in Park Slope: EMPTY
+
+**Empty**
+- DOB permits for camera work in Park Slope: EMPTY
+- 311/HPD camera data for 11215/11217: EMPTY
+
+### Questions people ask — Security Camera Repair in Park Slope
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- Why are my security cameras showing video loss? — vendor FAQ — https://www.uasecurity.com/security-camera-system-repair-brooklyn-new-york.htm
+- Can you fix security camera remote viewing on my phone? — vendor FAQ — https://www.uasecurity.com/security-camera-system-repair-brooklyn-new-york.htm
+- Should I repair or replace my security camera system? — vendor FAQ — https://www.uasecurity.com/security-camera-system-repair-brooklyn-new-york.htm
+- Can you replace one failed camera without replacing the whole system? — vendor FAQ — https://www.uasecurity.com/security-camera-system-repair-brooklyn-new-york.htm
+- Will a landlord put in or fix a camera after vandalism? — Reddit — https://www.reddit.com/r/parkslope/comments/18kipch/constant_vandalism/
+- Can building cameras be used to watch tenants? — Reddit — https://www.reddit.com/r/parkslope/comments/1s7fu70/good_apartment_vs_crazy_super/
+- How do I share footage of a car being hit on my block? — Reddit — https://www.reddit.com/r/parkslope/comments/1sf1nu2/if_your_car_was_hit_while_parked_in_front_of/
