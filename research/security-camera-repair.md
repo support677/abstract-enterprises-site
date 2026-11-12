@@ -2065,3 +2065,51 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Does anyone have camera footage of this incident (hit and run / theft)? — Reddit — https://www.reddit.com/r/Greenpoint/comments/194jh6i/hit_run_0111_615pm_on_morgan_and_nassau/
 - How do I get security footage from a business or daycare? — Reddit — https://www.reddit.com/r/Greenpoint/comments/1pjevc7/need_help_getting_video_security_footage/
 - How much does a security camera service call cost? — competitor FAQ — https://www.cctvoverwatch.com/security-cameras/security-camera-repair-service-palm-beach-county/
+
+## Kensington, Brooklyn — /security-camera-repair-kensington-brooklyn-ny (factory research, 2026-11-12)
+
+**Local incidents where camera footage mattered (not used by the Kensington installation page)**
+- News 12 (published Feb 5, 2025): a man was caught on surveillance video stealing about $15,000 in cash from multiple donation boxes at a synagogue in Kensington (Congregation Agudath Sholom of Flatbush) at around 1 a.m. on Jan. 25; the video shows him walking through the front door, moving through the building, then heading toward Coney Island Avenue. No one was inside; no injuries — https://newjersey.news12.com/man-caught-on-camera-stealing-15k-from-brooklyn-synagogue
+- News 12 Brooklyn (Sep 25, 2025): police searched for a man accused of shoving a 3-year-old girl walking with her mother near McDonald Avenue and Albemarle Road in broad daylight; "Surveillance video shows the suspect walking away from the scene wearing what appeared to be a bright green jacket." Neighbor quote: "He pushed a 3-year-old? I would be very upset. I'm a grandfather. I would break his jaw," Marc Anthony told News 12 — https://brooklyn.news12.com/police-searching-for-man-accused-of-shoving-3-year-old-girl-in-kensington
+- amNY (Oct 15, 2022, tagged 66th Precinct): police released security footage of a suspect they say shot a 30-year-old man sitting inside a parked, unoccupied, off-duty school bus opposite 660 McDonald Avenue at about 11 a.m. on Thursday, Oct. 13 — https://www.amny.com/new-york/brooklyn/cops-seek-suspect-in-brooklyn-school-bus-shooting/
+- News 12 (Aug 2024, already used by the installation page — context only): Kensington resident says packages were stolen for months "and they caught it all on camera" — https://www.facebook.com/News12BK/videos/exclusive-a-kensington-resident-told-news-12-in-an-exclusive-interview-that-thei/334623769744887/
+
+**Power events that hit recorders, PoE switches and cameras**
+- Con Edison, July 3, 2026: reduced voltage by 8 percent and asked customers to conserve energy in an area of Brooklyn listed as "Windsor Terrace, Kensington, Flatbush, Borough Park, Bensonhurst, and Dyker Heights" (122,000 customers), alongside a second area of 106,000 customers (Bay Ridge, Borough Park, Carroll Gardens, Dyker Heights, Park Slope, Sunset Park); customers asked not to use washers, dryers and microwaves until crews completed repairs and to limit air conditioning — https://www.coned.com/en/about-us/media-center/news/2026/07-03/con-edison-asks-customers-in-certain-areas-of-queens-brooklyn-to-conserve-energy
+- CBS New York (Nov 2026): a suspected lightning strike knocked out power to 4,843 Con Ed customers in Brooklyn ZIPs 11226, 11234, 11236, 11210 and 11203; Kensington (11218) NOT named; Con Ed: "We suspect recent lightning strikes in the area may have caused the disruption, but it remains under investigation" — https://www.cbsnews.com/newyork/news/flatbush-brooklyn-power-outage-con-ed/
+
+**Footage, landlords and tenants (Reddit / Brick Underground)**
+- r/AskNYC: "My building has cameras but our landlord won't check them without a police report. Someone keeps stealing our packages..." — https://www.reddit.com/r/AskNYC/comments/100v3n5/can_i_put_camera_in_the_lobby_for_package_thieves/
+- r/Brooklyn: "Some landlords will not allow video doorbell cameras. I had to take mine down." — https://www.reddit.com/r/Brooklyn/comments/1v5vuus/package_theft_from_our_building_is_out_of_control/
+- r/Brooklyn: "Tbh I would try to install your own camera to get footage of them stealing. Send this footage to the building manager and get the police..." — https://www.reddit.com/r/Brooklyn/comments/1j8z12f/package_theft_getting_out_of_hand/
+- r/Bushwick (not Kensington): tenants say the landlord's contractor took their package camera — https://www.reddit.com/r/Bushwick/comments/1ofxzt5/our_good_security_camera_for_our_packages_was/
+- Brick Underground: a tenant could possibly force the landlord to review footage himself by arguing failure to look is negligent if package theft is ongoing — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
+- r/Kensington thread about camera repair: EMPTY
+
+**Equipment life (industry / forum)**
+- Honor Security: NVR and DVR devices can last 5 to 10 years depending on care, maintenance and environment — https://honorsecurity.com/blog/how-long-do-security-cameras-last/
+- IPCamTalk forum: a member with a failing drive every 3–4 months in a smoky office; staff reply: surveillance drives "should last for the warranty period plus one day"; "If you have frequent failures in a system, you should look at temperature and vibration" — https://ipcamtalk.com/threads/how-long-will-the-hdd-last.70183/
+- Techpro Security: nearly every recorder uses a standard 3.5-inch SATA drive — https://techprosecurity.com/security-articles/access-control-security-equipment/hard-drive-replacement/
+- Reolink: cameras go offline from weak Wi-Fi, power interruptions, damaged cables, IP address conflicts or outdated firmware — https://reolink.com/blog/why-does-my-security-camera-keep-going-offline/
+- Ameritechs: full replacement may make more sense when several cameras have already failed — https://www.ameritechs.co/post/do-i-need-to-replace-my-security-cameras-or-just-upgrade-the-recorder
+
+**Yelp**
+- Yelp "Security Camera Installation near Kensington, Brooklyn, NY 11218" lists Abstract Enterprises Security Systems 5.0 and Securitek 4.5 (our own listing; not used as outside evidence) — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Kensington%2C+Brooklyn%2C+NY+11218
+- Yelp complaints about camera repair in Kensington: EMPTY
+
+**Empty**
+- DOB permits for camera repair in Kensington: EMPTY
+- LPC historic district rules inside Kensington: EMPTY (Ocean Parkway is a scenic landmark roadway; no building district found)
+- 311 / HPD camera-related complaint counts for 11218: EMPTY
+
+### Questions people ask — Security Camera Repair in Kensington
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- Why does my security camera keep going offline? — vendor blog/search results — https://reolink.com/blog/why-does-my-security-camera-keep-going-offline/
+- Why do my business security cameras keep going offline? — vendor blog — https://www.innovativesecurity.com/post/why-do-my-business-security-cameras-keep-going-offline-common-causes-fixes
+- Could a DVR break when it's too old? — Reddit r/SecurityCamera — https://www.reddit.com/r/SecurityCamera/comments/13bue9g/newbie_here_could_a_dvr_break_when_its_too_old/
+- How long will the recorder hard drive last? — IPCamTalk — https://ipcamtalk.com/threads/how-long-will-the-hdd-last.70183/
+- How long does a DVR usually last? — CCTVForum — https://www.cctvforum.com/topic/20101-how-long-does-a-dvr-usually-last/
+- Do I need to replace my security cameras or just upgrade the recorder? — vendor blog — https://www.ameritechs.co/post/do-i-need-to-replace-my-security-cameras-or-just-upgrade-the-recorder
+- Can I put a camera in the lobby for package thieves? — Reddit r/AskNYC — https://www.reddit.com/r/AskNYC/comments/100v3n5/can_i_put_camera_in_the_lobby_for_package_thieves/
+- How do I get my landlord to let me look at security camera footage? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
+- Why is my camera showing "no signal" after the DVR restarted? — JustAnswer — https://www.justanswer.com/home-security-systems/fs6o8-video-camera-no-signal-restarted-dvr.html
