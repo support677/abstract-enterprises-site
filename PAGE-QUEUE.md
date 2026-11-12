@@ -343,7 +343,7 @@ LIVE | security-camera-repair-marine-park-brooklyn-ny | Security Camera Repair |
 LIVE | security-camera-repair-midwood-brooklyn-ny | Security Camera Repair | Midwood, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-mill-basin-brooklyn-ny | Security Camera Repair | Mill Basin, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-new-lots-brooklyn-ny | Security Camera Repair | New Lots, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-12T02:06Z max-burn | security-camera-repair-new-utrecht-brooklyn-ny | Security Camera Repair | New Utrecht, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | security-camera-repair-new-utrecht-brooklyn-ny | Security Camera Repair | New Utrecht, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-ocean-hill-brooklyn-ny | Security Camera Repair | Ocean Hill, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T02:06Z max-burn | security-camera-repair-ocean-parkway-brooklyn-ny | Security Camera Repair | Ocean Parkway, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-park-slope-brooklyn-ny | Security Camera Repair | Park Slope, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
