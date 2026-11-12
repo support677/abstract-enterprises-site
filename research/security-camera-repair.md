@@ -1690,3 +1690,48 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Does anyone currently have similar experience with dimming power? — Reddit — https://www.reddit.com/r/Brooklyn/comments/1njqu76/unstable_electricity_in_flatlandsflatbush_area/
 - How many cameras do you want installed? / What kind of location is this? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
 - How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+## Fort Greene, Brooklyn — /security-camera-repair-fort-greene-brooklyn-ny (factory research, 2026-11-12)
+
+**Power events that hit recorders, PoE switches and cameras in Fort Greene**
+- July 3, 2026, 5:45 a.m.: Con Edison asked customers in Williamsburg, Greenpoint, Bedford-Stuyvesant, Fort Greene and Clinton Hill to conserve energy and reduced voltage in the area by 8 percent "to protect equipment and maintain service during repairs"; about 133,000 customers in the primary affected area; asked customers to avoid washers, dryers and microwaves, run one air conditioner, and not charge EVs — https://www.coned.com/en/about-us/media-center/news/2026/07-03/con-edison-asks-customers-in-part-of-northern-brooklyn-to-conserve-energy
+- June 23, 2025, 4:16 p.m.: Con Edison asked customers in Dumbo, Vinegar Hill, Brooklyn Heights, Downtown Brooklyn, Boerum Hill, Red Hook, Carroll Gardens, Cobble Hill, "Fort Green" and Governors Island to conserve energy; 8 percent voltage reduction; about 68,000 customers — https://www.coned.com/en/about-us/media-center/news/2025/06-23/con-edison-asks-customers-in-northwest-brooklyn-to-conserve-energy
+
+**Local incidents where camera footage mattered (Fort Greene / 88th Precinct)**
+- Amin Indian restaurant, DeKalb Avenue near Clermont Avenue (Aug. 14, year not shown): after closing someone smashed the front door, damaged the place and took cases of wine and $25; the suspect was "caught on video surveillance from Elly's Market across the street" — https://www.brooklynpaper.com/its-a-wine-lose-situation-at-amin-indian-again
+- Summer 2008 "burglary row": seven commercial burglaries since May centered on DeKalb Avenue between Carlton and Vanderbilt avenues, restaurants the main targets; 88th Pct Capt. Anthony Tasso: "It's a matter of catching him do it."; Amin's Rubel Ibrahim: "We are always worried about this happening." No cameras mentioned — https://www.brooklynpaper.com/burglary-row-in-fort-greene
+- Myrtle Avenue (Nov. 10–28, year not shown): Castro's Restaurant front door broken and glass bricked about 3 a.m., cash and an e-bike taken; Soco found with door broken open; near Steuben Street and Emerson Place a nearby camera captured a thief reaching into a parked delivery truck for an iPhone, and the victim was able to review it — https://www.brooklynpaper.com/restaurant-robbery-myrtle
+- Brooklyn Paramount (Fort Greene, no year shown): a camera operator's $7,000+ of gear taken from a dressing room after a concert; "Cops said they are reviewing the venue's cameras to identify a suspect." — https://www.brooklynpaper.com/88th-pct-security-is-paramount
+- South Oxford Street, June 10, 2015, about 7 p.m.: a plant thief dug up perennials from a tree pit; recorded by a webcam belonging to Abby Weissman, president of the South Oxford Block Association, who gave the footage to the 88th Precinct; "The alleged thief walks away holding my plant like it was a proud purchase" — https://www.dnainfo.com/new-york/20150615/fort-greene/video-plant-thief-digs-up-steals-2-perennials-from-ft-greene-tree-pit
+- July 2014: surveillance tape used by police to seek a suspect in a Fulton Street apartment burglary ($380 cash, between 4:30 a.m. July 24 and 7:45 a.m. July 25); article does not say where the cameras were — https://bklyner.com/more-footage-emerges-of-fort-greene-burglary-suspect-fortgreene
+- Flatbush Avenue, Fort Greene (July 2025, reported Sept. 19, 2025): "surveillance video" showed a woman hitting and dragging a cat; type of camera not stated — https://brooklyn.news12.com/neighbors-outraged-after-video-shows-cat-being-dragged-hit-in-fort-greene
+- 71 Carlton Avenue (Feb. 18, 2025): a Long Island man accused of filing a fraudulent deed in 2023 for the same Fort Greene house he had illegally transferred before; the DA advises deed-change alerts. No cameras involved — https://brooklyn.news12.com/long-island-man-accused-of-attempting-to-steal-the-same-fort-greene-property-twice
+
+**Public housing and business camera programs**
+- Ingersoll Houses (March 15, 2016): CCTV cameras and exterior/interior lighting being installed under the Mayor's Action Plan for Neighborhood Safety, part of NYCHA's $18M investment in cameras and layered-access doors; Resident Association co-president Darold Burgess: "It's phenomenal to see." — https://bklyner.com/much-needed-lighting-security-cameras-for-ingersoll-houses-fortgreene
+- Operation Safe Shopper (July 12, 2016): Borough President Eric Adams funded $2,500 grants for cameras on commercial strips, including the Myrtle Avenue Revitalization Project LDC; "The stores where the cameras are located will maintain them," and footage is available to the NYPD; MARP's Meredith Phillips Almeida: "We're serious about maintaining an environment where all who live on or visit Myrtle Avenue can feel secure." — https://bklyner.com/operation-safe-shopper-brooklyns-new-eye-crime-fortgreene
+- Myrtle Avenue BID storefront improvement grants cover signage and storefront security gates only ("small matching grants ... signage or storefront security gates"), $105,000+ awarded to date, first come first served; cameras not mentioned — https://myrtleavenue.org/business-services/bid-storefront-improvement-grants/
+
+**Building stock relevant to camera repair**
+- Fulton Greene, 570 Fulton Street (border of Downtown Brooklyn and Fort Greene): 23 stories, 163 rentals, ground-floor retail, cellar level, package lockers (May 2025) — https://www.6sqft.com/new-fort-greene-rental-opens-lottery-for-49-apartments-from-1869-month/
+- 1 Flatbush Avenue at Fulton Street: 19 stories, retail on floors 1–2, about 183 units (2019) — https://www.brownstoner.com/development/brooklyn-tower-1-flatbush-avenue-fort-greene-skyscraper-development-downtown-brooklyn
+
+**Rules that affect this work**
+- NYC Parks: "No work may be performed on or within 50 feet of a street tree without a permit from Parks"; owners can request a no-fee permit to have a tree pruned at their own expense by a licensed arborist; Parks prunes street trees on a neighborhood schedule — https://php1-84.nycgovparks.org/services/forestry/tree-work-permit/tree-work-types
+- LPC Permit Guidebook ch. 11 (applies in the Fort Greene and BAM historic districts): cameras well spaced; no more than two per 25 feet of frontage on small buildings; attach at mortar joints, plain masonry, wood or metalwork, not on decorative surfaces or through cast iron; about ten inches of visible conduit; ordinary maintenance and repair needs no permit — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- HomeAdvisor Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- DOB permits for camera repair in Fort Greene: EMPTY
+- 311 / HPD complaint data specific to cameras in 11205/11217/11238: EMPTY
+
+**Yelp / Reddit**
+- Yelp reviews for camera repair in Fort Greene: EMPTY (search returned only Angi/Thumbtack/HomeAdvisor directory pages)
+- Reddit threads (r/FortGreene, r/Brooklyn, r/AskNYC) about camera repair in Fort Greene: EMPTY
+
+### Questions people ask — Security Camera Repair in Fort Greene
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- How do I get my landlord to let me look at security camera footage to identify a package thief? — Brick Underground — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- My security cameras say lost signal on 5 of them but 1 or 2 still work, how can I repair this? — JustAnswer — https://www.justanswer.com/home-security-systems/8xn23-security-camera-system-message-says-lost-signal.html
+- Why are my security cameras not working? — Brinks Home — https://brinkshome.com/smartcenter/why-are-my-security-cameras-not-working
+- What causes video loss on a security camera? — Reolink — https://store.reolink.com/video-loss-on-security-camera/
+- Do I need a permit to prune the street tree in front of my house? — NYC Parks FAQ — https://php1-84.nycgovparks.org/services/forestry/faq
