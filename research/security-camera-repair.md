@@ -1875,3 +1875,39 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Is my DVR or NVR no longer recording? / Cameras working but not recording — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
 - How much does security camera repair cost in NYC? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
 - Recording stopped? Playback missing? Remote viewing gone? — vendor post — https://www.instagram.com/p/DdZMPX6jRV4/
+
+## Manhattan Beach, Brooklyn — /security-camera-repair-manhattan-beach-brooklyn-ny (factory research, 2026-11-12)
+
+**Cameras, police and local incidents**
+- Brooklyn Paper, Apr 26 2010: "Video has become the bane of thieves throughout Sheepshead Bay and Manhattan Beach, where police say a recent drop in felonies is the result of residents' penchant for pointing cameras just about everywhere." 61st Precinct commander Capt. George Mastrokostas: "In 2009 we identified a lot of bad guys ... [Video] played a key role." Community Affairs Officer Aiesha Grant recalled a Manhattan Beach burglary where the resident "had video cameras throughout his house" and had video of the thief entering. As of April 4 2010 the 61st Precinct had a 19.4 percent drop in crime, the highest in the city — https://www.brooklynpaper.com/cops-cameras-catch-criminals/
+- Bklyner, Aug 14 2014 (Ned Berke): NYPD security cameras mounted on light poles were installed in Manhattan Beach in July 2014 with state funding (program started by Assemblyman Dov Hikind after the 2011 Leiby Kletzky case; Councilman Chaim Deutsch set aside funds for Manhattan Beach); locations West End Avenue, Oriental Boulevard and Shore Boulevard, covering the community's busiest entrances/exits; not monitored in real time; only NYPD personnel can access the footage. Deutsch: "It's not really for the high crime area." Rationale: heavy foot traffic incl. seniors, children and thousands of Kingsborough students daily — https://bklyner.com/manhattan-beach-gets-two-nypd-security-cameras-sheepshead-bay
+- Brooklyn Paper (undated, c. 2007–08): MBNA quality-of-life chair Ron Biondo proposed surveillance cameras at West End Avenue/Oriental Boulevard and Shore Boulevard/Exeter Street; MBCG members had unanswered questions about long-term costs and round-the-clock surveillance. Same article: a scam artist posing as a water inspector entered a 93-year-old Beaumont Street woman's home and left with $300 (June 17); three people arrested trying to break into a home on Hastings Street; a car stolen on West End Avenue; 100+ summonses for after-hours trespassing etc. on the beach and the Shore Boulevard mall. Sgt. Michael Doyle, 61st Pct: "It's not a pattern right now." — https://www.brooklynpaper.com/crime-and-surveillance-manhattan-beach-thievery-revives-plan-for-security-cameras
+- News 12 Brooklyn, Oct 29 2024: around 12:30 a.m., security footage showed a person dropped off in front of the pharmacy at The Wave on West End Avenue, who threw a heavy rock through the glass door; narcotics and other medications stolen; owner estimated damage about $2,000; police did not know how many people were involved — https://brooklyn.news12.com/burglary-involving-a-getaway-car-caught-on-camera-in-manhattan-beach
+- The Wave, 102/104 West End Avenue: 7-story, 48-unit condo by Rybak Development, two levels of parking for 68 cars, 20-foot lobby with a doorman; DOB filings showed commercial uses in a flood-proofed cellar; first move-ins summer 2016 — https://bklyner.com/this-swanky-new-building-in-manhattan-beach-has-units-selling-for-1-6-million-sheepshead-bay ; https://www.apartments.com/building/the-wave-brooklyn-ny/www4zjk/
+- News 12 Brooklyn, Mar 2 2026: robbery pattern across the 60th, 61st, 62nd and 68th precincts; on Feb 21 at about 2:55 p.m. four suspects robbed a 16- and a 14-year-old near Ocean Avenue and Oriental Boulevard; a witness recorded video while following them; victim's mother: "I'm glad he caught it on camera and the videos were passed over to the police department." — https://brooklyn.news12.com/2026/03/02/exclusive-video-manhattan-beach-man-tries-to-stop-group-accused-of-robbing/33tIoGbnSx1FyIQ5Dk1EV3
+- News 12, Jul 7 2008: Manhattan Beach residents "resorting to their own security measures" after a series of muggings and break-ins, four robberies in four days — https://brooklyn.news12.com/manhattan-beach-residents-beef-up-private-security-34794559
+- Brooklyn DA posted a July 19 event in Manhattan Beach Park to enroll vehicles in the NYPD CatGuard (catalytic converter) database — https://www.facebook.com/BrooklynDA/posts/tomorrow-join-us-fri-july-19-from-8-am-10-am-in-manhattan-beach-park-safeguard-y/893715505900765/
+- CBS/WCBS 880, Nov 22 2010: Oriental Boulevard is a mile-long straightaway with three traffic lights; MBCG president Ira Zalcman: "My group has a radar gun." — https://www.cbsnews.com/newyork/news/stories-from-main-street-manhattan-beach-brooklyn
+
+**Institutions and water**
+- Kingsborough Community College, 2001 Oriental Blvd, Brooklyn NY 11235, has its own Office of Public Safety (library room L202) — https://www.kbcc.cuny.edu/campus_security/our_dept.html
+- Council Member Inna Vernikov posted flooding at high tide on Manhattan Beach overlooking Sheepshead Bay; B49 service suspended between Sheepshead Bay/Emmons Ave and Oriental Blvd/Mackenzie St because of flooding — https://www.facebook.com/CouncilwomanInnaVernikov/posts/flooding-on-manhattan-beach-overlooking-sheepshead-bay-right-now-the-water-is-fl/525622529607244/
+- First Street: 42 properties in Manhattan Beach (3.2% of all properties) have flood risk over the next 30 years (model estimate) — https://firststreet.org/neighborhood/manhattan-beach-ny/7603_fsid/flood
+
+**Costs (published)**
+- AESS Brooklyn repair page (own site): $150 service call applied to the repair; connector reterminate or PoE port $150–$350; single camera replacement $250–$600 / $300–$700 with reconfiguration; DVR/NVR replacement $700–$1,500; annual maintenance $250–$400 — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- HomeAdvisor Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Empty**
+- DOB permits / HPD / 311 camera data for 11235: EMPTY
+- LPC historic district in Manhattan Beach: EMPTY (none found; MB Jewish Center is National Register only)
+- Yelp complaints about camera repair near Manhattan Beach: EMPTY
+- Reddit: r/Brooklyn thread "How has the experience in Manhattan Beach been?" (excerpt only: "probably one of the calmer-feeling spots in Brooklyn"); no camera-repair threads found — https://www.reddit.com/r/Brooklyn/comments/1tiage2/how_has_the_experience_in_manhattan_beach_been/
+
+### Questions people ask — Security Camera Repair in Manhattan Beach
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- How much does it cost to fix a CCTV system? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- What's actually in the service call? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- Can the NYPD see the footage from the street cameras on our corner? — derived from Bklyner 2014 — https://bklyner.com/manhattan-beach-gets-two-nypd-security-cameras-sheepshead-bay
+- Is a bystander's phone video enough, or do our house cameras still matter? — derived from News 12 2026 — https://brooklyn.news12.com/2026/03/02/exclusive-video-manhattan-beach-man-tries-to-stop-group-accused-of-robbing/33tIoGbnSx1FyIQ5Dk1EV3
+- How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
