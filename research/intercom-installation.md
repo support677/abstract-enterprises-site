@@ -3801,3 +3801,64 @@ Method: web search plus page fetches. Google PAA/PASF, AnswerThePublic, Bing, Du
 - How high does the intercom panel have to be mounted in NYC? — 1 RCNY 42-01 — https://www.nyc.gov/assets/buildings/rules/1_RCNY_42-01.pdf
 - The buzzer doesn't work for any unit in our building — who do we call? — lucidrents review — https://www.lucidrents.com/nyc/building/brooklyn/106-avenue-s-brooklyn-ny-11223
 - Answer the Public, Bing and DuckDuckGo question lists for "intercom installation Gravesend": EMPTY
+
+## New Utrecht, Brooklyn — /intercom-installation-new-utrecht-brooklyn-ny (factory research, 2026-11-12)
+
+**Building stock seen in StreetEasy building records near the old town center (18th Avenue, 81st–85th Streets)**
+- 8014 18th Avenue: "1925 built", "4 stories", building class "C7 Walk Up Apartments, Over Six Families with Stores", rental building; header says 55 units, description says 61 (page conflicts). No amenities listed. — https://streeteasy.com/building/8014-18-avenue-brooklyn
+- 7603 18th Avenue: "1928 built", "4 stories", class "C7 Walk Up Apartments, Over Six Families with Stores", rental; header 15 units vs. About section 21 units (page conflicts). — https://streeteasy.com/building/7603-18-avenue-brooklyn
+- 1973 81st Street: built 1926, 6 stories, 54 units, class "D4 Elevator Cooperative", co-op with an elevator; no intercom listed. — https://streeteasy.com/building/1973-81-street-brooklyn
+- 1830 84th Street: built 1910, 2 stories, 3 units, class "C0 Three Families" (three-family house on the old town-center street). — https://streeteasy.com/building/1830-84-street-brooklyn
+- 8501 18th Avenue: built 1928, 2 stories, class "S1 Primarily One Family with Store or Office", mixed-use; header 1 unit vs About 2 units. — https://streeteasy.com/building/8501-18-avenue-brooklyn
+- StreetEasy labels all of these "Bensonhurst"; there is no official New Utrecht boundary in listings. — same URLs
+
+**New construction and rezoning (new buildings that will need an intercom from day one)**
+- Feb 25, 2025: permits filed for a four-story, 11-unit building at 1722 84th Street, 39 feet tall, 25,420 sq ft residential and 3,132 sq ft commercial, filed through Hamish Whitefield Architects PC. — https://blog.marketproof.com/new-building-permit-filed-for-1722-84th-street-in-bensonhurst-brooklyn/
+- Marketproof also lists new building permit filings at 1472 67th St, 1672 70th St and 1571 62nd St in Bensonhurst (details not opened). — https://blog.marketproof.com/new-building-permit-filed-for-1472-67th-st-in-bensonhurst-brooklyn/ ; https://blog.marketproof.com/new-building-permit-filed-for-1672-70th-st-in-bensonhurst-brooklyn ; https://blog.marketproof.com/new-building-permit-filed-for-1571-62nd-st-in-bensonhurst-brooklyn
+- Mar 23, 2026: PincusCo reported an owner seeking a city zoning change to develop up to 74 units in Bensonhurst; photo caption names 7502 New Utrecht Avenue (rest of article paywalled). — https://www.pincusco.com/owner-seeks-city-zoning-change-to-develop-74-units-in-bensonhurst/
+- City of Yes ADUs: on Sept 30, 2025 the city launched an application portal for ancillary dwelling units at one- and two-family homes (basement apartments, attic apartments in one-family homes, backyard cottages); ADUs cannot exceed 800 sq ft, must be within 100 feet of the curb, are not allowed in historic districts or low-density residential areas, the owner must live in the main home or the ADU, and owners must "post a sign marking ADU entrances if not visible from the street". — https://www.6sqft.com/nyc-homeowners-can-now-apply-to-build-adus/
+- Basement-apartment legalization pilot: five-year pilot in 15 community districts, authorized until April 2029; the article does not say whether Brooklyn CB11 is included (EMPTY for CB11). — https://www.brownstoner.com/real-estate-market/basement-apartments-pilot-program-legalize
+
+**Who lives here (Community District 11, Bensonhurst & Bath Beach PUMA, 2024)**
+- Population 181,185; median age 41; 54% foreign-born; most common non-English household languages Chinese 30.5%, Spanish 13.6%, Russian 9.01%; homeownership 34.5%; median property value $1.07M. — https://datausa.io/profile/geo/nyc-brooklyn-community-district-11-bensonhurst-bath-beach-puma-ny
+- NYC Health Department 2018 Community Health Profile: "56 percent of the residents living in the Board 11 area were born outside of the U.S." — https://brooklyneagle.com/articles/2019/07/17/majority-of-board-11-residents-were-born-outside-of-u-s/
+
+**City and state rules that bear on intercom installation**
+- MDL §50-a(2): every class A multiple dwelling "erected or converted after January first, nineteen hundred sixty-eight" "containing eight or more apartments shall also be equipped with an intercommunication system" for "voice communication between the occupant of each apartment and a person outside said door". — https://newyork.public.law/laws/n.y._multiple_dwelling_law_section_50-a
+- MDL §50-a(3): pre-1968 class A dwellings must have self-closing, self-locking doors and, where "tenants occupying a majority of all the apartments within the structure request or consent in writing", the intercom; "the costs of providing such doors and intercommunication systems may be recovered by the owner from the tenants". — same URL
+- MDL §50-a(5): an owner who fails to install and maintain the equipment, or anyone who wilfully damages or jams it, "shall be guilty of a misdemeanor". — same URL
+- DHCR, Koumbiadis (Admin. Review Docket QH130037RO, Mar 14, 2003): for a three-apartment building, "there was no legal requirement to provide a buzzer system in a building containing fewer than eight apartments"; rent reduction reversed. — https://www.landlordvtenant.com/article/landlord-neednt-install-operating-buzzer-system
+- 1 RCNY §42-01 (silo research): pre-1968 buildings with 8+ apartments need self-closing/self-locking doors and an intercom; "No push button device shall be more than six feet from the floor and the speaking and listening device shall be installed to be not less than four feet and not more than five feet from the floor"; minimum acceptable system is a bell or buzzer system or a speaking and listening device. — https://www.nyc.gov/assets/buildings/rules/1_RCNY_42-01.pdf
+- Tenant Data Privacy Law (Local Law 63 of 2021): owners of multiple dwellings with smart access (keyless) systems must give tenants a data retention and privacy policy, obtain express consent in writing or through an app, delete authentication data "no later than 90 days after such data has been collected or generated", may not sell data, may not "require use of a smart access system to gain entry to the tenant's dwelling unit". — https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page
+- HPD/DOB violation counts and 311 intercom complaint counts for New Utrecht / ZIP 11214 / 11204: EMPTY (NYC Open Data not reachable for this research)
+- DOB permits for intercom work in New Utrecht: EMPTY
+- LPC: New Utrecht Reformed Church is an individual landmark (background pack); no historic district covering residential blocks found: EMPTY / unverified
+
+**Phone-line panels and copper retirement**
+- Sept 2026: Verizon filed with the FCC to retire copper POTS service; a second filing covered New York among other states (~750,000 customers); on Sept 28, 2026 the FCC paused automatic approval; "The plan to retire copper landlines hasn't been canceled, just delayed." — https://www.alarmgrid.com/blog/2026/10
+- WAMC, Nov 9, 2026: Verizon says the copper lines are about 100 years old; more than half of New York adults use a landline, the highest share of any state (2024 U.S. Chamber of Commerce report). — https://www.wamc.org/podcast/northeastnotebook/2026-11-09/will-vulnerable-northeasterners-be-cut-off-as-verizon-moves-to-phase-out-copper-landlines
+
+**Local news on door security**
+- July 4, 2025 (reported July 18): in Bensonhurst a man offered to help a 71-year-old woman with her walker as she entered her home, then "knocked on the woman's apartment door and told her he was there to fix her leak", had her run the faucet and took $230 and $900 of jewelry. — https://brooklyn.news12.com/man-wanted-for-stealing-71-year-old-womans-money-and-jewelry-in-bensonhurst
+- Mar 27, 2026: News 12 reported a pair of thieves wanted for stealing over $10,000 from a 39-year-old Bensonhurst woman on Feb 28, believed linked to a Brighton Beach theft three days earlier; access method not stated. — https://brooklyn.news12.com/pair-of-thieves-wanted-for-stealing-10k-from-bensonhurst-woman
+- New Utrecht-specific Reddit threads about intercoms: EMPTY
+- Yelp 1–3★ reviews for intercom installers near New Utrecht: EMPTY
+
+**Cost references (national/vendor, for the reality check only)**
+- HomeAdvisor: "Installing an intercom system costs an average of $2,500"; normal range $1,200–$8,500; wired substations $200–$600; about 1 to 2 hours per station; systems last about 20 years. — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- ButterflyMX small-building guide: "For a small apartment building intercom, entrances and controlled doors often matter more than unit count"; wiring reuse "cannot be confirmed from a photo, the age of the building, or the look of a wall station"; "Do not replace a system based on age alone." — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
+
+### Questions people ask — Intercom Installation in New Utrecht
+- Google PAA for "intercom installation New Utrecht": EMPTY
+- Answer the Public: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- How much does it cost to install an intercom system in a small apartment building in Brooklyn? — search query / HomeAdvisor, Swiftlane, ButterflyMX results — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- Can only the apartment stations be replaced and the old panel kept? — ButterflyMX FAQ — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
+- Can an old buzzer be made smart without full replacement? — ButterflyMX FAQ — same URL
+- What is the difference between an electric strike and a magnetic lock? — ButterflyMX FAQ — same URL
+- What should an owner gather before requesting a quote? — ButterflyMX FAQ — same URL
+- How long do intercom systems last? — HomeAdvisor FAQ — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- Does a home need an intercom system? — HomeAdvisor FAQ — same URL
+- Is a landlord required to provide a working intercom in a building with fewer than eight apartments? — search query / DHCR case — https://www.landlordvtenant.com/article/landlord-neednt-install-operating-buzzer-system
+- How do upstairs units in a multi-family house get a video doorbell? — Brownstoner forum thread title (not readable) — https://www.brownstoner.com/forum/general-discussion/video-doorbell-for-upper-levels-of-multi-fam-brownstone
+- What intercom works for a three-family house? — Brownstoner forum thread title (not readable) — https://www.brownstoner.com/forum/about-brooklyn/intercom-for-a-three-family
