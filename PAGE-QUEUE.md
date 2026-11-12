@@ -980,7 +980,7 @@ REBUILD | alarm-installation-soundview-bronx-ny | Alarm Installation | Soundview
 REBUILD | alarm-installation-south-williamsburg-brooklyn-ny | Alarm Installation | South Williamsburg, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | alarm-installation-stuyvesant-heights-brooklyn-ny | Alarm Installation | Stuyvesant Heights, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-repair-bensonhurst-brooklyn-ny | Door Buzzer Repair | Bensonhurst, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-11T23:30Z max-burn REBUILD | door-buzzer-repair-bergen-beach-brooklyn-ny | Door Buzzer Repair | Bergen Beach, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+LIVE | door-buzzer-repair-bergen-beach-brooklyn-ny | Door Buzzer Repair | Bergen Beach, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T23:30Z max-burn REBUILD | door-buzzer-repair-boerum-hill-brooklyn-ny | Door Buzzer Repair | Boerum Hill, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T23:30Z max-burn REBUILD | door-buzzer-repair-brighton-beach-brooklyn-ny | Door Buzzer Repair | Brighton Beach, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T23:30Z max-burn REBUILD | door-buzzer-repair-cobble-hill-brooklyn-ny | Door Buzzer Repair | Cobble Hill, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
