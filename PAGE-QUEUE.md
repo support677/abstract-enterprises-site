@@ -1058,7 +1058,7 @@ LIVE | intercom-installation-bushwick-brooklyn-ny | Intercom Installation | Bush
 LIVE | intercom-installation-carroll-gardens-brooklyn-ny | Intercom Installation | Carroll Gardens, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-city-island-bronx-ny | Intercom Installation | City Island, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | intercom-installation-claremont-bronx-ny | Intercom Installation | Claremont, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-12T11:59Z max-burn REBUILD | intercom-installation-columbia-street-waterfront-brooklyn-ny | Intercom Installation | Columbia Street Waterfront, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | intercom-installation-columbia-street-waterfront-brooklyn-ny | Intercom Installation | Columbia Street Waterfront, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-concourse-bronx-ny | Intercom Installation | Concourse, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | intercom-installation-crotona-park-east-bronx-ny | Intercom Installation | Crotona Park East, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-12T11:59Z max-burn REBUILD | intercom-installation-downtown-brooklyn-ny | Intercom Installation | Downtown, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
