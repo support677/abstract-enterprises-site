@@ -889,3 +889,38 @@ None of these come from verified PAA, PASF, AnswerThePublic, Bing or DuckDuckGo 
 - Bing / DuckDuckGo distinct questions: EMPTY
 - Reddit (r/Brooklyn, r/AskNYC) threads on TV mounting in Marine Park: EMPTY
 - Yelp complaints for TV mounting near Marine Park: EMPTY
+
+## Wyckoff Heights, Brooklyn — /tv-installation-wyckoff-heights-brooklyn-ny (factory research, 2026-11-12)
+
+- HomeAdvisor cost page for Ridgewood NY TV wall mounting: average $280, typical range $134–$500, low-to-high $100–$670; intake asks mount type, mounting surface, special features, wall and ceiling access — https://www.homeadvisor.com/tloc/Ridgewood-NY/TV-Wall-Mount/
+- Angi cost page for Brooklyn NY TV wall mounting: average $280, typical range $172–$376, low-to-high $100–$670 — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount/
+- TaskRabbit Bushwick TV mounting page: "TV mounting in Bushwick starts at $45 per hour and will vary from Tasker to Tasker"; jobs with "cable management or drilling into a facade may require more time"; claims "Taskers can typically mount a TV on any surface"; lists 4,056 featured TV-mounting Taskers in Bushwick — https://www.taskrabbit.com/locations/bushwick/wall-mount-tv
+- Angi "5 Questions to Ask About Mounting a TV": "Typically, it's easier (and less expensive) to mount a TV on drywall or plaster than on brick or concrete"; drywall mount about an hour, brick "several hours"; electrician's new outlet around $300; wire concealment brings totals to around $1,000; VESA numbers of the mount should match or exceed the TV's — https://angi.com/articles/tv-mounting-questions.htm
+- NYC DOB owner electrical requirements: "No installation and modification to any electrical systems can be performed without a permit and a Licensed Master Electrician"; minor work still needs a licensed master electrician and permit but no DOB inspection — https://www.nyc.gov/site/buildings/property-or-business-owner/project-requirements-owner-electrical.page
+- NYC DEP Noise Code fact sheet: "The approved hours of construction are during weekdays between the hours of 7:00 a.m. and 6:00 p.m." — https://www.nyc.gov/assets/dep/downloads/pdf/environment/education/nyc-noise-code-fact-sheet.pdf
+- NYC HPD lead-based paint (Local Law 1 of 2004): owners of buildings built before 1960 must presume lead-based paint (multiple dwellings of 3+ units, and tenant-occupied units in 1–2 family homes); evidence of safe work practices required when "more than two square feet of lead-based paint or paint of an unknown lead content is disturbed" in a unit where a child under six resides — https://www.nyc.gov/site/hpd/services-and-information/lead-based-paint.page
+- StreetEasy blog "How to Hang Things on Brick Walls" (June 12, 2018): mason Michael Russo (Porter Sable): "It's usually easier to drill in mortar than brick", but in older buildings crumbling mortar may be too unstable for a TV, so "drill into the brick, away from the edges"; "If it's a historic landmark, you may want to get permission first from the board or landlord" — https://streeteasy.com/blog/how-to-hang-things-on-brick-walls
+- StreetEasy Talk thread "Mounting TV/hiding wires pre-war building" (about 12 years old): pre-war walls likely "plastered gypsum block"; trenching is "a huge mess. It's the price you pay for solid walls"; one poster: "do not channel and bury a power cord"; others suggest paintable cord covers or running wires under baseboards/moldings — https://streeteasy.com/talk/discussion/38645-mounting-tvhiding-wires-pre-war-building
+- Brick Underground "Realty Bites" (Nov 3, 2022): broker Bill Kowalczuk says a landlord "is within their rights to ban you from hanging items on walls" if the lease says so; Arik Lifshitz (DSA Property Group): "If the hole is larger than the size of a nail, then it's considered damage"; one landlord barred hanging because of lead-paint sealing work, later allowed TV brackets — https://www.brickunderground.com/rent/realty-bites-landlord-doesnt-want-items-hanging-on-walls-leases-repairs-nyc
+- New York YIMBY (June 2026): three projects between Wyckoff and Irving Avenues near the DeKalb Avenue L: 1601 DeKalb Avenue (finished, two nine-story buildings, 127 affordable units), 316 Stockholm Street (four stories, eight rentals, under construction), 917 Hart Street (four stories, seven rentals, nearing completion) — https://newyorkyimby.com/2026/06/three-new-residential-projects-coming-to-bushwick-brooklyn.html
+- Marketproof: new building permit filed May 20, 2026 for 102 Wyckoff Avenue (ZIP 11237): proposed eight stories, 61 feet, 31 residential units plus ground-floor commercial — https://blog.marketproof.com/new-building-permit-filed-for-102-wyckoff-ave-in-bushwick-brooklyn/
+- StreetEasy building record, 70 Wyckoff Avenue Lofts: built 1931, former knitting mill converted to 52 loft-style rentals, four stories, elevator, high ceilings, leasing from 2017 — https://streeteasy.com/building/70-wyckoff-avenue-lofts
+- New York YIMBY (April 2026): Linden Grove, 223 Linden Street between Knickerbocker and Wilson Avenues: 13 stories, modular Passive House, 153 studio and one-bedroom affordable apartments for seniors (46 for formerly homeless older adults), free building-wide internet, community lounge; M at Knickerbocker Ave, L/M at Myrtle–Wyckoff — https://newyorkyimby.com/2026/04/linden-grove-completes-construction-at-223-linden-street-in-bushwick-brooklyn.html
+- BestNeighborhood (FCC Broadband Data Collection as of Dec 31, 2025) for Ridgewood, Queens: Verizon fiber 100%, Spectrum cable 99.95%, T-Mobile Home Internet 99.89%, Optimum cable 10.07% coverage — https://bestneighborhood.org/tv-and-internet-ridgewood-queens-ny/
+- Reddit threads about TV mounting in Wyckoff Heights / Bushwick / Ridgewood: EMPTY (searches returned only marketplace listings)
+- Yelp reviews for TV mounting near Bushwick: EMPTY (search returned marketplace and directory pages only)
+- Local news about TV installation in Wyckoff Heights: EMPTY
+
+### Questions people ask — TV Installation in Wyckoff Heights
+- How much do TV mounting services typically cost? — HomeAdvisor/Angi cost page — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount/
+- What is the surface the TV will be mounted on? — HomeAdvisor intake — https://www.homeadvisor.com/tloc/Ridgewood-NY/TV-Wall-Mount/
+- Please describe the wall and ceiling access. — HomeAdvisor intake — https://www.homeadvisor.com/tloc/Ridgewood-NY/TV-Wall-Mount/
+- Where would you like the TV mounted? — Angi — https://angi.com/articles/tv-mounting-questions.htm
+- How big is the TV? — Angi — https://angi.com/articles/tv-mounting-questions.htm
+- Will you provide the TV mount and other accessories? — Angi — https://angi.com/articles/tv-mounting-questions.htm
+- Would you like any additional services (wire concealment, new outlet, surround sound)? — Angi — https://angi.com/articles/tv-mounting-questions.htm
+- When do you need the TV mounted? — Angi — https://angi.com/articles/tv-mounting-questions.htm
+- How do I mount a TV and hide the wires on a cement-like pre-war wall? — StreetEasy Talk — https://streeteasy.com/talk/discussion/38645-mounting-tvhiding-wires-pre-war-building
+- Can my landlord stop me from hanging things (a TV) on my walls? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-landlord-doesnt-want-items-hanging-on-walls-leases-repairs-nyc
+- Should I drill into the mortar or the brick? — StreetEasy blog — https://streeteasy.com/blog/how-to-hang-things-on-brick-walls
+- Google PAA / PASF / Answer the Public / Bing / DuckDuckGo for "tv installation Wyckoff Heights": EMPTY
