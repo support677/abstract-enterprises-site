@@ -2113,3 +2113,51 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Can I put a camera in the lobby for package thieves? — Reddit r/AskNYC — https://www.reddit.com/r/AskNYC/comments/100v3n5/can_i_put_camera_in_the_lobby_for_package_thieves/
 - How do I get my landlord to let me look at security camera footage? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
 - Why is my camera showing "no signal" after the DVR restarted? — JustAnswer — https://www.justanswer.com/home-security-systems/fs6o8-video-camera-no-signal-restarted-dvr.html
+
+## Mapleton, Brooklyn — /security-camera-repair-mapleton-brooklyn-ny (factory research, 2026-11-12)
+
+**Local incidents where camera footage mattered (Mapleton and the blocks around it)**
+- NYPD Crime Stoppers posted video of a man wanted for a grand larceny in front of 1689 60th St., tagged #Mapleton and #NYPD66pct, on 2/19/20 at 12:30 AM, reward up to $2,500 — https://www.facebook.com/NYPDTips/videos/wanted-for-a-grand-larceny-in-front-of-1689-60th-st-brooklyn-mapleton-nypd66pct-/485052515501571/
+- News 12 Brooklyn (Oct 2 2026): armed robbery just before 2 a.m. at a convenience store near 17th Avenue and 74th Street (Bensonhurst, a short walk south of Mapleton along 17th Ave), "all caught on surveillance video"; manager Ismail Hossain was working alone; footage shows the suspect shoving him and forcing him to open the register; a customer walks up mid-robbery unaware; at least $2,500 taken; suspect had been a customer before; quote "I'm feeling like everyone is coming to rob me" — https://brooklyn.news12.com/2026/10/02/surveillance-video-shows-gunpoint-robbery-at-bensonhurst-convenience-store/2BSO1QBNNm89nTUPqb0MdF
+- News 12 Brooklyn (Nov 11 2026): police released images of four people wanted for a robbery with a machete on a commercial street in Borough Park between Fort Hamilton Parkway and New Utrecht Ave on Nov 7 at about 5:55 p.m.; the 66th Precinct has 82 robberies reported so far this year vs 87 in 2025; citywide robberies down 12.3% (12,834 in 2025 vs 11,252 this year, ten months) — https://brooklyn.news12.com/2026/11/11/police-release-images-of-4-people-wanted-for-violent-robbery-with-machete-in-borough-park/UwL8f2dUAdxVbSZ0Iav0D
+- 5:55 p.m. in November is after dark (Brooklyn sunset Nov 11 2026: 4:41 PM; sunrise 6:37 AM per News 12 weather data) — https://brooklyn.news12.com/2026/11/11/your-daily-brooklyn-weather-forecast/6mO4DaTvI0LiRkUpKXOXQV
+
+**Weather this week**
+- News 12 Storm Watch (Nov 11 2026): nor'easter with 1–2 inches of rain, heaviest 2–8 p.m. Thursday, street flooding possible, gusts 20–30 mph and a few near 35 mph, then temperatures into the 40s by day and upper 30s at night Friday — https://brooklyn.news12.com/2026/11/11/your-daily-brooklyn-weather-forecast/6mO4DaTvI0LiRkUpKXOXQV
+
+**Building stock and construction that changes camera work**
+- YIMBY (Nov 9 2026): updated design for 1490 McDonald Avenue, a mixed-use commercial building YIMBY places in Mapleton; 29,500-sq-ft trapezoidal property bounded by Washington Cemetery to the north, Avenue M to the south and McDonald Avenue to the east; plans filed with DOB — https://newyorkyimby.com/2026/11/updated-design-revealed-for-1490-mcdonald-avenue-in-mapleton-brooklyn.html
+- YIMBY (Jan 2026): permits filed for a ten-story mixed-use building at 1490 McDonald Avenue — https://newyorkyimby.com/2026/01/permits-filed-for-1490-mcdonald-avenue-in-mapleton-brooklyn.html
+- YIMBY (Nov 2024): permits filed for a nine-story community facility building at 4911 19th Avenue in Mapleton — https://newyorkyimby.com/2024/11/permits-filed-for-4911-19th-avenue-in-mapleton-brooklyn.html
+- YIMBY Mapleton tag also lists permits for a five-story office building at 1010 McDonald Avenue — https://newyorkyimby.com/neighborhoods/mapleton
+- Brooklyn Eagle real-estate index snippet: "Mapleton is full of handsome houses — for starters, these are on 63rd Street between..." — https://brooklyneagle.com/real-estate/?e-page-cb033e6=33&page=2
+
+**Landmark rules**
+- No LPC historic district or individual landmark in Mapleton found in search: EMPTY
+
+**City data**
+- DOB permits for camera repair work in Mapleton (11204/11219): EMPTY
+- 311 / HPD complaint counts about cameras in Mapleton: EMPTY
+
+**Competitor pricing and review signals (Brooklyn)**
+- Impera Security's Brooklyn camera repair page: "Standard diagnostic service call: $250, payable upon completion." — https://www.imperasecurity.com/security-camera-repair-brooklyn
+- UA Security's Brooklyn camera repair page quotes a customer: "A real person answers the phone. The owner spent 20 minutes talking to me and helped solve the problem. Repair done within a day." — https://www.uasecurity.com/security-camera-system-repair-brooklyn-new-york.htm
+- Yelp "Security Camera Repair near Borough Park": Eddies Security Systems 5.0 (13 reviews), snippet "Their quality and definition are A+" — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Borough+Park%2C+Brooklyn%2C+NY
+- Yelp "Security Camera Installation near Bensonhurst": Security Camera NY 4.8 (25 reviews) — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Bensonhurst%2C+Brooklyn%2C+NY
+- Yelp 1–3 star complaints about camera repair near Mapleton: EMPTY
+
+**Reddit**
+- r/Brooklyn, r/AskNYC, r/homesecurity threads about camera repair in Mapleton, Bensonhurst or Borough Park: EMPTY (search returned no threads)
+
+### Questions people ask — Security Camera Repair in Mapleton
+- PAA (Google People Also Ask): EMPTY (not retrievable)
+- PASF / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo-only questions: EMPTY
+- Reddit questions: EMPTY
+- Why is my security camera not working all of a sudden? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-nyc
+- How to fix camera no signal error — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-manhattan
+- What does a camera repair diagnostic service call cost in Brooklyn? — competitor page — https://www.imperasecurity.com/security-camera-repair-brooklyn
+- Why is my floodlight cam not turning on with motion? — CNET FAQ — https://www.cnet.com/home/security/best-floodlight-home-security-cameras/
+- Why is my camera taking blurry photos? — Facebook group question — https://www.facebook.com/groups/325949147786166/posts/1168545843526488/
+- Can I connect an old VCR to a surveillance camera DVR via a BNC jack and record on an HDD? — Quora — https://www.quora.com/Can-I-connect-an-old-VCR-to-a-surveillance-camera-DVR-via-a-BNC-jack-and-record-on-an-HDD
