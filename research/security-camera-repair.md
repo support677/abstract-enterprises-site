@@ -3711,3 +3711,90 @@ Note: the live web-search budget for this session was used up before any new sea
 - How long does a DVR usually last? — CCTVForum — https://www.cctvforum.com/topic/20101-how-long-does-a-dvr-usually-last
 - Why is there video loss on my security camera? — Reolink — https://reolink.com/blog/video-loss-on-security-camera/
 - How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+## Windsor Terrace, Brooklyn — /security-camera-repair-windsor-terrace-brooklyn-ny (factory research, 2026-11-12)
+
+Note: live web search was not available for this run (search budget exhausted). Every finding below is carried from sourced entries already saved in the site's research files (research/security-camera-repair.md, door-buzzer-repair.md, door-buzzer-installation.md, security-camera-installation.md, access-control-installation.md, home-security-system-installation.md), each with its original source URL. Anything not found there is marked EMPTY.
+
+**Power events that hit recorders, PoE switches and camera supplies (Windsor Terrace named)**
+- Con Edison, July 3, 2026: reduced voltage by 8 percent and asked customers to conserve energy in an area of Brooklyn listed as "Windsor Terrace, Kensington, Flatbush, Borough Park, Bensonhurst, and Dyker Heights" (122,000 customers), alongside a second area of 106,000 customers (Bay Ridge, Borough Park, Carroll Gardens, Dyker Heights, Park Slope, Sunset Park); customers were asked not to use washers, dryers and microwaves until crews completed repairs and to limit air conditioning — https://www.coned.com/en/about-us/media-center/news/2026/07-03/con-edison-asks-customers-in-certain-areas-of-queens-brooklyn-to-conserve-energy
+- Next door in Park Slope, Feb 2026: nearly 2,000 Con Edison customers in Boerum Hill and Park Slope lost power into a third day after melting snow and salt damaged underground equipment; trouble began with "flickering lights and appliances that cut out unexpectedly" (Windsor Terrace blocks not named) — https://abc7ny.com/post/power-outage-thousands-park-slope-boerum-hill-brooklyn-due-melting-snow-salt/18526765/
+- Installer guidance: cameras that stay dark after power returns are usually something upstream: "A tripped GFCI in an outdoor cabinet, a breaker that didn't reset, a failed switch power supply, or a burnt switch will keep a whole group dark while the rest of the system looks normal." — https://techprosecurity.com/security-articles/security-camera-system-installation/what-happens-to-security-cameras-during-a-power-outage/
+- Installer guidance on surges: some strikes cause latent damage, "a switch port that fails weeks later, intermittent camera reboots, or corrupted NVR storage that only surfaces when you search for footage" — https://edgebusinesssecuritycameras.com/how-to-protect-your-security-cameras-from-lightning
+
+**Crime and incidents where camera footage matters (72nd Precinct covers Windsor Terrace and Sunset Park)**
+- NYPD 72nd Precinct page: 830 4th Avenue, serves Sunset Park and Windsor Terrace — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/72nd-precinct.page
+- NYPD CompStat, 72nd Precinct, 2026 week-44 report, year to date 2026 vs 2025 (precinct-wide): burglary 86 vs 90 (-4.4%), grand larceny 280 vs 298 (-6.0%), grand larceny auto 92 vs 89 (+3.4%), robbery 90 vs 90, petit larceny 645 vs 603 (+7.0%), retail theft 154 vs 178 (-13.5%); burglary -60.4% over 16 years and -91.1% over 33 years — https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-072pct.pdf
+- Hoodline (Sept 2026): 19 commercial burglaries Aug 3–Sept 10, 2026 in 16 Brooklyn neighborhoods including Windsor Terrace, Park Slope and Kensington; two suspects got in by throwing an object through a window — https://hoodline.com/2026/09/two-suspects-hit-19-brooklyn-businesses-in-five-week-smash-and-grab-spree/
+- Bklyner (Nov 30, 2017): 11 commercial burglaries in Windsor Terrace and Kensington along a roughly 2-mile stretch near Ocean Parkway (56th St, Cortelyou Rd, Fort Hamilton Pkwy, Ocean Pkwy, East 4th St, Prospect Ave), entry through windows and crowbarred doors and locks, between about 2 a.m. and 7 p.m. — https://bklyner.com/police-seek-suspect-in-string-of-11-burglaries-in-kensington-windsor-terrace/amp/
+- Brooklyn Paper (Aug 5, 2020): a Kermit Place house was burglarized June 26 and again July 24, 2020; the second time the burglar took a battery camera; 72nd Precinct burglaries were 104 year to date vs 76 the year before — https://www.brooklynpaper.com/repeat-burglar-windsor-terrace-nypd
+- Patch (May 3, 2017): arrest near Windsor Place and Fuller Place of a man checking car door handles — https://patch.com/new-york/windsorterrace/windsor-terrace-cops-warn-car-break-ins
+- Nearby Kensington (Bklyner, July 2014): pharmacy and optical store at 119 Church Avenue entered while closed, about $55,150 taken, "the store's cameras were not working" — https://bklyner.com/kensington-crimes-keep-an-eye-on-your-bank-account-kensington
+- Park Slope Times (Mar 7, 2025): Jan–Feb 2025 mail theft and check washing from USPS blue boxes including outside Ballard Pharmacy on the Park Slope/Windsor Terrace border — https://kelleymacdonald.substack.com/p/mail-theft-check-fraud-in-park-slope-brooklyn
+
+**Building types where camera systems are repaired (listings, not verified on site)**
+- Calder row houses: about 700 houses built 1902–1919 ("Calderville"), two-families with owner duplex plus floor-through rental; Sherman Street from 1908 — https://www.brownstoner.com/real-estate-market/windsor-terrace-brooklyn-homes-for-sale-56-sherman-street-calderville-two-family/
+- 209 Windsor Place (Feb 2026): Calder row, plans 1914; front porch enclosed by the late 1930s per about-1940 tax photos; kitchen steps up to a rear deck door — https://www.brownstoner.com/real-estate-market/windsor-terrace-row-house-209-windsor-place-wood-floors
+- 207 Windsor Place (Apr 2026): 1915 ads promised basement laundry, ornamental parapets and open front porches; porch enclosed around 1940 — https://www.brownstoner.com/real-estate-market/windsor-terrace-house-for-rent-207-windsor-place/
+- 302 Windsor Place: 2 units, 2 floors, built 1910 — https://www.openigloo.com/building/nyc/3121887-3052570032/brooklyn-windsor-terrace-302-windsor-place-11218
+- Park Vanderbilt, 651 Vanderbilt Street (11218; Corcoran files it under Windsor Terrace): seven-story, 148-unit co-op built 1963; in winter 2015 the board replaced an audio intercom with Aiphone video stations and "also added nine cameras and two 16-channel DVRs"; property manager Tom Randazzo: "Park Vanderbilt doesn't have a 24- hour concierge, so the board chose to go with video intercoms"; installer VP Dan Arnold: "By using the existing cable – with the exception of two units – we were able to save $20,000 on the job" — https://www.securitysales.com/access/brooklyn_housing_co_op_upgrades_security_with_video_intercom_system/
+- 135 Prospect Park Southwest: six-story co-op completed 1931 for the Lourose Realty Corporation, designed by Cohn Brothers (pale brick, Gothic arches, crenelated roofline); live-in super and a virtual doorman, courtyard — https://www.brownstoner.com/real-estate-market/condo-co-op-of-the-day/windsor-terrace-brooklyn-apartment-for-sale-135-prospect-park-west-deco-wood-floors
+- The Algonquin, 175 Prospect Park Southwest: 1970 co-op, 4-story walk-up, 27 units, intercom, no doorman — https://cityrealty.com/nyc/windsor-terrace/175-prospect-park-southwest/43704
+- 185 Prospect Park Southwest: post-war elevator co-op, 58 units, live-in superintendent and porter — https://cityrealty.com/nyc/windsor-terrace/185-prospect-park-southwest/43884
+- The Windsor Terrace Apartments, 207 Prospect Park Southwest: 9-story condo completed 1990, 35 units, full-service garage — https://www.cityrealty.com/nyc/windsor-terrace/the-windsor-terrace-apartments-207-prospect-park-southwest/41730
+- 155 Terrace Place: 55 units, 4 floors, built 1990, managed by Habitat Management; tenant reviews "no issues with package/mail theft" and "Package situation is a bit crazy" — https://www.openigloo.com/building/nyc/3121848-3052567501/brooklyn-windsor-terrace-155-terrace-place-11218
+- 101 Ocean Parkway: built 1935, 60 units, 6 floors; tenant: "Package theft used to be a big issue but not so much right now." — https://www.openigloo.com/building/nyc/3124068-3053210001/brooklyn-windsor-terrace-101-ocean-parkway-11218
+- 39 Ocean Parkway: built 1929, 83 units; former tenant advice to owners: "Update to a video intercom for security." — https://openigloo.com/building/nyc/3124032-3053200009/brooklyn-windsor-terrace-39-ocean-parkway-11218
+- 1 Park Point (formerly 11 Ocean Parkway, Machate Circle): 13 stories, 375 rental units, 106 enclosed parking spaces; construction finishing up Aug 2024 — https://newyorkyimby.com/2024/08/1-park-point-wraps-up-construction-in-windsor-terrace-brooklyn.html
+- The Windsor, 23 Ocean Parkway: nine stories, 98 condominiums, part-time attended lobby, package room and a "cyber doorman" (virtual doorman); sales launch June 2026 — https://newyorkyimby.com/2026/06/sales-launch-for-the-windsor-at-23-ocean-parkway-in-windsor-terrace-brooklyn.html
+- Openigloo lists 322 buildings in Windsor Terrace — https://www.openigloo.com/buildings/brooklyn/windsor-terrace
+- New building permit filed Apr 29, 2026 for a 3-story, 6-unit building with commercial space at 1259 Prospect Avenue — https://blog.marketproof.com/new-building-permit-filed-for-1259-prospect-ave-in-windsor-terrace-brooklyn/
+
+**Trees, the park edge and outdoor wear**
+- NYC Parks: a Tree Work Permit is needed to work on or within 50 feet of a street tree; it applies to people, businesses and contractors — https://nyc-business.nyc.gov/nycbusiness/description/tree-work-permit
+- NYC Admin Code §18-129: illegal to remove, kill or damage a street or park tree, intentionally or accidentally — https://www.nycgovparks.org/services/forestry/illegal-tree-work
+- 311 takes tree pruning requests only for specific conditions (blocking a street light, sign, sidewalk; dead branch; hitting a building); "DPR does not accept requests for routine maintenance of street trees." — https://portal.311.nyc.gov/article/?kanumber=KA-01794
+- "Insects and spider webs near infrared lights can appear extremely large and bright at night" (false motion alerts) — https://www.hosafe.com/blog-camera-storage-data-troubleshooting/how-to-reduce-false-motion-alerts-on-outdoor-security-cameras-12006866.html
+- Squirrels chewing camera cables: Reddit advice "Put cables in metal conduit as close to the camera as you can then a mesh cage around the camera and wires" — https://www.reddit.com/r/reolinkcam/comments/1fhrc6r/how_to_stop_squirrels_from_chewing_off_the_power/
+
+**Recorders, drives and storage**
+- "A live camera picture does not prove that usable footage is being recorded"; common causes: failed or uninitialized drive, disabled schedule, full storage with overwrite off, wrong channel settings, clock error; storage example 8 cameras × 2 Mbps × 30 days continuous ≈ 5.18 TB; "Busy sidewalks, trees, headlights and delivery traffic can increase actual recording time" — https://www.uasecurity.com/dvr-nvr-troubleshooting-nyc.htm
+- NVR and DVR devices can last 5 to 10 years depending on care, maintenance and environment — https://honorsecurity.com/blog/how-long-do-security-cameras-last/
+- IPCamTalk: surveillance drives "should last for the warranty period plus one day"; "If you have frequent failures in a system, you should look at temperature and vibration" — https://ipcamtalk.com/threads/how-long-will-the-hdd-last.70183/
+- Integrator rule of thumb: if repair costs exceed 50% of the replacement value of that component, replacement is usually better — https://techprosecurity.com/security-articles/security-camera-system-installation/security-camera-repair-vs-replacement-how-to-decide/
+
+**Rules that touch the work**
+- NYS Department of State license required to install or maintain security or fire alarm systems for others — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+- LPC Permit Guidebook ch. 11: ordinary maintenance and repair of safety equipment needs no permit; equipment at mortar joints, plain masonry, wood or metalwork, not through cast iron or decorative surfaces; about two cameras per 25 feet of frontage on small buildings — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- Only individual landmark found in Windsor Terrace: Engine 240/Battalion 48 firehouse, 1307–1309 Prospect Avenue (LPC 2013); part of the 2012 Park Slope Historic District extension takes in buildings on 15th Street at Bartel-Pritchard Square — https://s-media.nyc.gov/agencies/lpc/lp/2526.pdf ; https://parkslopeciviccouncil.org/issues-and-advocacy/historic-district/historic-district-details/
+- Brick Underground: landlords aren't obligated to show tenants footage outside a legal process; must turn it over on police request or court order; NYC buildings aren't required to have working cameras (attorneys Jennifer Rozen, Catherine Grad) — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
+- Backyard Surveillance law (2017, Assemblyman Edward Braunstein): lets homeowners and renters sue over a neighbor's camera aimed at their backyard if it annoys, alarms, harasses or threatens — https://www.cbsnews.com/newyork/news/backyard-camera-law
+- NYPD retail-theft pilot (May 2024): opt-in, free; businesses can link cameras to NYPD in real time with customizable access times — https://www.cbsnews.com/newyork/news/nypd-to-fight-rising-retail-theft-with-surveillance-video-monitoring-program-heres-how-it-works/
+
+**Cost benchmarks**
+- HomeAdvisor, Brooklyn surveillance camera install or repair: average $1,416, typical range $680–$2,145 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- AESS published Brooklyn repair list (parent page visible text): $150 service call applied to the repair; most repairs $150–$1,500; connector reterminate or PoE port swap $150–$350; single camera replacement $250–$600; drive swap $200–$450; DVR $300–$700; NVR $400–$900; DVR/NVR replacement $700–$1,500 — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+
+**Empty**
+- DOB permits for camera work in Windsor Terrace: EMPTY
+- 311 / HPD camera-related complaint counts for 11215/11218 Windsor Terrace blocks: EMPTY (NYC Open Data not reachable this run)
+- Local news on Windsor Terrace camera repair specifically: EMPTY
+- Reddit r/WindsorTerrace camera repair threads: EMPTY (r/parkslope "What's it like renting in Windsor Terrace?" exists but was not opened)
+- Yelp complaints/praise for camera repair near Windsor Terrace: EMPTY
+
+### Questions people ask — Security Camera Repair in Windsor Terrace
+- Google PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable this run)
+- Why is my security camera live but not recording? — installer FAQ — https://www.uasecurity.com/dvr-nvr-troubleshooting-nyc.htm
+- How do I know if my DVR hard drive failed? — installer FAQ — https://www.uasecurity.com/dvr-nvr-troubleshooting-nyc.htm
+- Why did my cameras stay offline after the power came back on? — vendor FAQ — https://techprosecurity.com/security-articles/security-camera-system-installation/what-happens-to-security-cameras-during-a-power-outage/
+- Does a battery backup on the NVR protect the cameras too? — vendor FAQ — same URL
+- Why do spider webs set off my camera's motion alerts at night? — web — https://www.hosafe.com/blog-camera-storage-data-troubleshooting/how-to-reduce-false-motion-alerts-on-outdoor-security-cameras-12006866.html
+- How do I stop squirrels from chewing the power cables on my cameras? — Reddit — https://www.reddit.com/r/reolinkcam/comments/1fhrc6r/how_to_stop_squirrels_from_chewing_off_the_power/
+- Is it worth repairing a security camera system, or should I replace it? — Reddit / web — https://www.reddit.com/r/SecurityCamera/comments/1msdefr/repair_or_replace_camera_system/
+- How long do security cameras and recorders last? — web — https://honorsecurity.com/blog/how-long-do-security-cameras-last/
+- How do I get my landlord to let me look at security camera footage? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
+- Can I make a neighbor stop pointing a camera at my backyard? — CBS New York — https://www.cbsnews.com/newyork/news/backyard-camera-law
+- Who sees the footage from security cameras in a residential co-op? — CablingInstall / Brick Underground — https://www.cablinginstall.com/ip-security-av/article/16476729/who-sees-the-footage-from-security-cameras-in-a-residential-co-op
+- How much does it cost to repair a security camera in Brooklyn? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- Can you replace one failed camera without replacing the whole system? — vendor FAQ — https://www.uasecurity.com/security-camera-system-repair-brooklyn-new-york.htm
+- Can you fix security camera remote viewing on my phone? — vendor FAQ — https://www.uasecurity.com/security-camera-system-repair-brooklyn-new-york.htm
