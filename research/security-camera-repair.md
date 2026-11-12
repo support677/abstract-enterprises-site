@@ -1595,3 +1595,50 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - How much does security camera repair cost in Brooklyn? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair-brooklyn
 - Our camera caught the truck but not the plate — can it be made to read plates? — Reddit — https://www.reddit.com/r/Brooklyn/comments/1t6i53r/anyone_recognize_this_yellow_truck_suspected/
 - Does anyone have camera video of what happened on Avenue V and Ocean Parkway? — Reddit — https://www.reddit.com/r/Brooklyn/comments/1o6wx87/anyone_knows_who_drives_a_black_2026_acura/
+
+## Fort Hamilton, Brooklyn — /security-camera-repair-fort-hamilton-brooklyn-ny (factory research, 2026-11-12)
+
+**City data and policing**
+- 68th Precinct CompStat, week of Nov 2–8, 2026 (Vol. 33 No. 45): grand larceny auto year to date 150 in 2026 vs 109 in 2025 (+37.6%); 28-day GLA 14 vs 4 (+250%); burglary YTD 65 vs 64 (+1.6%); grand larceny YTD 296 vs 327 (−9.5%); robbery YTD 51 vs 55 (−7.3%); total index crimes YTD 683 vs 694 (−1.59%) — https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-068pct.pdf
+- In 2013 about $200,000 was allocated for three NYPD ARGUS cameras in the 43rd Council District; two went up on 86th Street, at Fifth Avenue and at Fourth Avenue (the northern edge of the Fort Hamilton section); the Fifth Avenue BID hires a local security company to patrol the avenue five days a week and works with the 68th Precinct on graffiti — https://brooklyneagle.com/articles/2014/06/20/another-security-camera-may-come-to-fifth-avenue/
+- Nov 2020: Councilmember Justin Brannan allocated $275,000 for ten NYPD Argus cameras at five sites in the 43rd District (Bay Ridge, Dyker Heights, parts of Bath Beach/Bensonhurst); NYPD guidance: cameras most useful in desolate areas with little nighttime foot traffic; crime in the 62nd and 68th Precincts mostly car break-ins through unlocked vehicles; Brannan: "The NYPD has been able to make arrests in some cases based on camera footage" — https://brooklyneagle.com/articles/2020/11/19/security-cameras-going-up-to-fight-crime-surge/
+- 2018: residents on Fifth Ave between 80th and 81st Streets asked CB10 for an NYPD Argus camera; NYPD decides placement by crime trends; funding comes from elected officials' allocations — https://brooklyneagle.com/articles/2018/03/06/fifth-ave-residents-seek-community-board-10s-help-to-get-security-camera/
+- 68th Precinct community council (Oct 19): Deputy Inspector Andrew Tolson: "Cops can't be on every corner"; precinct asked residents to be "the eyes and ears of the neighborhood" — https://www.brooklynpaper.com/nypd-68th-precinct-debunks-bay-ridge-wave
+
+**Local incidents where cameras mattered**
+- Aug 28, 2026, 3:00–4:30 a.m.: three Bay Ridge restaurants burglarized (Bar Chuzo on Third Ave, Cebu on 88th St, Kettle Black on 87th St); surveillance footage shows a hooded figure with a flashlight searching a basement at 3:30 a.m.; safe broken open; NYPD told nearby restaurants to activate alarms, inspect entry points and add lighting; Brooklyn Roots owner: "Anything that happens on the avenue, there's a group text messages, a bunch of them." — https://abc7ny.com/post/thieves-break-several-restaurants-bay-ridge-overnight/19755070/
+- Sept 2016: Narrows Avenue homeowner's surveillance footage showed a man taking Macy's and Amazon packages off his stoop; 68th Precinct commander: "Be vigilant. Tell the delivery services not to leave packages that haven't been signed for." — https://brooklynreporter.com/2016/09/package-theft-from-ridge-stoop-has-homeowner-wary/
+- Nov 2019: car vandalism (keyed doors, slashed tires) near 87th Street and Shore Road and along Narrows Ave in the mid-80s; no camera footage mentioned — https://brooklyneagle.com/articles/2019/11/11/bay-ridge-residents-fed-up-over-vandalized-vehicles-along-shore-road/
+
+**Power, weather and construction that affect camera systems here**
+- June 25, 2025: about 2,200 Con Edison customers across Brooklyn had power problems; hardest-hit included Bay Ridge and Dyker Heights; Con Ed deliberately lowered voltage in some areas ("lights are very dim"); streetlights out at major intersections — https://brooklyn.news12.com/2025/06/25/thousands-of-families-experiencing-power-issues-in-southwest-brooklyn/50AaFmoZ1Hp2QwkP9kJqLW
+- July 14, 2025: Central Park recorded 2.07 inches of rain in one hour (6:51–7:51 PM), second-highest ever there; NYC Emergency Management: basement and below-grade units "can flood with little or no warning" — https://www.nyc.gov/site/em/about/press-releases/20250715_pr_nycem-City-Responds-To-Hstoric-Rainfall-Event.page
+- Verrazzano-Narrows Bridge Brooklyn ramps: design-build contract Aug 2025 (VNB Construction JV); Belt Parkway ramp reconstruction begins Spring 2026; temporary noise barriers/curtains along Fort Hamilton Parkway; night restrictions 6 p.m.–7 a.m. on jackhammering, impact wrenches, rivet removal; John J. Carty Park closed Summer 2026 to Summer 2029; completion Q4 2029 — https://brooklynreporter.com/2025/11/mta-discusses-reconstruction-work-on-the-verrazzano-narrows-bridge-brooklyn-ramps
+- Fort Hamilton Parkway bridge over the Gowanus Expressway (at 81st St): $36.9 million rehab underway June 2025, completion Summer 2027; deck, steel, bearings replaced; street and underdeck lighting upgraded; parking lane closed throughout — https://www.governor.ny.gov/news/governor-hochul-announces-work-underway-369-million-bridge-rehabilitation-along-fort-hamilton
+
+**Repair knowledge (manufacturer / industry sources)**
+- Reolink: cameras go offline from power problems (loose adapters, tripped breakers, failed PoE port or injector), weak Wi-Fi through thick walls, worn cables and corroded connectors, moisture/heat/freezing damage, IP address conflicts, outdated firmware; aim for at least 2–3 bars of signal — https://reolink.com/blog/why-does-my-security-camera-keep-going-offline/
+- Swann: recorder not recording causes — recording or detection disabled, sensitivity at 0, empty arming schedule ("No color means it won't detect movements"), no or faulty hard drive, failed hardware — https://support.swann.com/hc/en-us/articles/58744108265753
+- HomeAdvisor Brooklyn surveillance install or repair: average $1,416, typical $680–$2,145, low-high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- PoE cameras can reboot when infrared switches on at night because of voltage drop on long runs — https://cctvblog.mataroa.blog/blog/why-your-poe-camera-reboots-when-night-vision-activates-the-voltage-drop-problem-nobody-warns-you-about/
+
+**Empty sources**
+- Google PAA / PASF / AI Overview for "security camera repair Fort Hamilton": EMPTY
+- Reddit (r/bayridge, r/Brooklyn) threads on camera repair in Fort Hamilton: EMPTY
+- Yelp 1–3★ reviews of camera repair near Fort Hamilton: EMPTY
+- HPD / 311 / DOB data specific to camera repair in Fort Hamilton: EMPTY
+
+### Questions people ask — Security Camera Repair in Fort Hamilton
+- Why does my security camera keep going offline? — Bing/Google result title — https://reolink.com/blog/why-does-my-security-camera-keep-going-offline/
+- Is it worth repairing a security camera or replacing it? — Google result titles — https://digital-watchdog.com/posts/Should-You-Upgrade-Your-Existing-Security-Cameras-or-Replace-Them-/
+- How much do security camera installation and repair companies typically cost? — Google result — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Is my NVR or DVR actually recording? — Google result title — https://www.cctvcameraworld.com/guides/is-my-security-camera-system-recording/
+- Why didn't my camera record the event? — Google result title — https://secureitglobal.com/?p=35277
+- Why is my camera picture dark at night? — Google result title — https://support.swann.com/hc/en-us/articles/39979778059417
+- Why does my PoE camera reboot when night vision turns on? — Google result title — https://cctvblog.mataroa.blog/blog/poe-camera-reboots-when-night-vision-activates/
+- Why do cameras keep going offline every night? — Google result title — https://www.trunetto.com/troubleshooting/security-cameras/reolink/reolink-camera-keeps-going-offline-every-night
+- Why won't my CCTV camera switch to night mode? — Google result title — https://learncctv.com/?p=22572
+- How do you maintain security cameras? — Google result title — https://info.verkada.com/surveillance-features/security-camera-maintenance
+- Can out-of-warranty cameras be repaired? — IPVM forum — https://ipvm.com/forums/video-surveillance/topics/does-anybody-have-out-of-warranty-cameras-repaired
+- Reddit questions: EMPTY
+- Yelp complaints/praise: EMPTY
