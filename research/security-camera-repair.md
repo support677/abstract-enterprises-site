@@ -2011,3 +2011,57 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - What to do about repeated package theft in Marine Park, Brooklyn? — Facebook group (excerpt) — https://www.facebook.com/groups/MarineParkBrooklyn/posts/9325021704263433/
 - Can my camera footage serve as evidence if a thief is caught? — Facebook group (excerpt) — https://www.facebook.com/groups/MarineParkBrooklyn/posts/9325021704263433/
 - Did any camera catch the catalytic converter thieves on my block? — News 12 / BNU — https://www.youtube.com/watch?v=ggIsUPcsmZc
+
+## Greenpoint, Brooklyn — /security-camera-repair-greenpoint-brooklyn-ny (factory research, 2026-11-12)
+
+**Local incidents where camera footage mattered**
+- News 12 Brooklyn (Mar 4 2026): two men used a ladder to chip nearly 20 tiles from the Invader "Pizza Invader" mosaic above a pizza shop on Nassau Avenue late at night; "Surveillance video shows the men scaling the side of a building." Police got a call around 1:30 a.m. about the pair banging on a resident's window (35 Nassau Ave named) — https://brooklyn.news12.com/caught-on-camera-2-men-chip-tiles-away-from-pizza-invader-mosaic-in-greenpoint
+- ABC7 (Jul 9 2025): four suspects broke the front door of a retail business at 17 Kent Ave on the Greenpoint–Williamsburg border with a crowbar early Sunday and took over $300,000 in clothing; "Security footage shows four suspects wearing all black." No arrests at publication — https://abc7ny.com/post/police-search-suspects-stole-300k-clothing-greenpoint-williamsburg-border/17024720/
+- Greenpointers (Emma Davey, Apr 22 2026): around 5:15 pm on April 20 a driver rammed a school bus at Morgan and Nassau avenues; "Surveillance footage shows a school bus stopping at the intersection when the driver of a black Mercedes, horn blaring, rams into it from behind." — https://greenpointers.com/2026/04/22/police-searching-for-driver-who-smashed-into-a-school-bus-and-several-parked-cars-in-greenpoint/
+- News 12 Brooklyn (Nov 5 2025): a Manhattan Avenue family says about $13,700 in items, including a broken-open safe, was taken while they were away for a weekend; the article mentions no camera footage — https://brooklyn.news12.com/greenpoint-woman-says-home-was-broken-into-robbed-of-13700-worth-of-items
+- News 12 (Jul 17 2020): "Multiple businesses in Greenpoint were robbed and vandalized Thursday morning"; headline says the burglar was caught on video — https://bronx.news12.com/burglar-caught-on-video-linked-to-multiple-business-robberies-in-greenpoint-42382993
+- Greenpointers (Sept 24 2026, in background pack): Franklin St restaurant back door forced with a crowbar; Greenpoint Ave restaurant entered through a hatch — https://greenpointers.com/2026/09/24/burglary-spree-targets-multiple-greenpoint-restaurants-on-the-same-day/
+
+**Neighbors asking each other for footage (r/Greenpoint)**
+- "if anyone has video footage, photos, or cctv footage that has captured this" — hit and run at Morgan and Nassau, 6:15 pm Jan 11 — https://www.reddit.com/r/Greenpoint/comments/194jh6i/hit_run_0111_615pm_on_morgan_and_nassau/
+- Parked cars on Nassau and Newel: "Happened to me twice. 10k worth of damage both times. Thankfully it was in front of businesses with cameras, so they left notes." — https://www.reddit.com/r/Greenpoint/comments/1w3rl1i/if_youre_parked_on_nassau_and_newel/
+- Hit and run at Diamond and Calyer: "I've already contacted the surrounding businesses for camera footage" — https://www.reddit.com/r/Greenpoint/comments/1vkr9bv/hit_run_corner_of_diamond_and_calyer/
+- Jacket theft at a coffee shop: "The nice shop manager sent me this video footage from the shop's front security cam." — https://www.reddit.com/r/Greenpoint/comments/1x9mov4/jacket_swiper_at_coffee_check/
+- Driggs and Kingsland: "The bodega should have camera footage that could help identify him." — https://www.reddit.com/r/Greenpoint/comments/1vffe40/followed_by_driggs_and_kingsland/
+- Greenpoint Avenue assault thread: "No photo, no CCTV footage." — https://www.reddit.com/r/Greenpoint/comments/1xns4wf/woman_speaks_out_after_assault_at_greenpoint/
+- Package thief on Morgan at 5 a.m.: "We saw it happening, caught the thief and called the police. They never came" — https://www.reddit.com/r/Greenpoint/comments/1xj3y4j/package_thief_on_morgan_this_am_at_5am/
+- Daycare lost-child thread asking how to get security footage — https://www.reddit.com/r/Greenpoint/comments/1pjevc7/need_help_getting_video_security_footage/
+
+**Power and flooding events that hit recorders, switches and cameras**
+- Con Edison (Instagram, Jul 3 2026): "voltage has been reduced by 8% in parts or all of Williamsburg, Greenpoint, Bedford-Stuyvesant, Fort Greene, and Clinton Hill" while crews completed equipment repairs; customers asked to conserve — https://www.instagram.com/p/DaU5qzvEh6y/
+- Hoodline (Jul 2026): over 1,200 Con Edison customers in Brooklyn lost power during an Extreme Heat Warning — https://hoodline.com/2026/07/brooklyn-boils-as-1-200-con-edison-customers-sweat-through-power-outage/
+- r/Greenpoint "Power outages??" thread: resident woke to some lights not working and the fridge off — https://www.reddit.com/r/Greenpoint/comments/1qyahrf/power_outages/
+- News 12 (Oct 30 2025): "Greenpoint roads near Meeker Avenue and Manhattan Avenue saw massive amounts of flooding." — https://brooklyn.news12.com/tracking-storm-conditions-in-greenpoint-and-bushwick
+- News 12 (Oct 31 2025): DEP broke ground on the $1.9 million "Gateway to Greenpoint" project; resident Patrick: "They put a Band-Aid on it after it happens and hope it won't happen again" — https://brooklyn.news12.com/flooding-across-brooklyn-sparks-calls-for-long-term-fixes-in-greenpoint
+- Greenpointers (Apr 25 2025): DEP "Adopt-a-Catch Basin" pilot in Greenpoint to keep grates clear — https://greenpointers.com/2025/04/25/sick-of-street-flooding-apply-to-greenpoints-new-adopt-a-catch-basin-program/
+- Bushwick Daily (Apr 3 2026): NYC Emergency Management warns basement apartment residents in Bushwick, Williamsburg and Greenpoint; Commissioner Christina Farrell: "Flooding can escalate from a nuisance to a life-threatening danger very quickly" — https://bushwickdaily.com/news/nyc-emergency-management-urges-brooklyn-residents-to-prepare-for-flash-floods/
+
+**Rules that affect camera repair here**
+- LPC Permit Guidebook ch. 11 (Greenpoint Historic District, designated 1982, applies): cameras attached at mortar joints, plain masonry, wood or metalwork, not on decorative surfaces; ordinary maintenance and repair of safety equipment needs no permit — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- NYS DOS licensing for installing/servicing security and CCTV systems — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+- Brick Underground: landlords aren't obligated to show tenants footage outside a legal process — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- DOB permits / 311 complaints for cameras in 11222: EMPTY
+
+**Yelp / local providers**
+- Yelp "Security Camera Repair in Brooklyn" lists MetroCom Security, Security & Camera, Abstract Enterprises Security Systems, Super-G — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Brooklyn%2C+NY
+- Yelp "Camera Repair near 11222" returns photo-camera repair shops (film cameras), not CCTV — https://www.yelp.com/search?find_desc=Camera+Repair&find_loc=Greenpoint%2C+Brooklyn%2C+NY+11222
+- Competitor Impera lists a $250 standard diagnostic service call in NYC — https://www.imperasecurity.com/security-camera-repair
+- Yelp complaints about CCTV repair in Greenpoint: EMPTY
+
+### Questions people ask — Security Camera Repair in Greenpoint
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- Why are my security cameras showing offline? — competitor FAQ — https://www.imperasecurity.com/security-camera-repair
+- Why does a camera show live video but the recorder doesn't save footage? — competitor FAQ — https://www.imperasecurity.com/security-camera-repair
+- How to fix camera no signal error — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-manhattan
+- Do security cameras keep recording during a power outage? — blog — https://icameraplus.com/blog/do-security-cameras-keep-recording-during-a-power-outage-2026
+- How do I keep cameras recording during a long power outage? — Reddit — https://www.reddit.com/r/selfhosted/comments/1x9i34h/how_to_keep_security_cameras_recording_during_a/
+- DVR seems dead this morning, continuous beep — what's wrong? — Reddit — https://www.reddit.com/r/homesecurity/comments/119zcg4/dvr_seems_dead_this_morning_continuous_ruggish/
+- If the base station loses power, do cameras record locally? — Reddit — https://www.reddit.com/r/EufyCam/comments/1k5kjtp/if_your_base_loses_power_cameras_are_not_using/
+- Does anyone have camera footage of this incident (hit and run / theft)? — Reddit — https://www.reddit.com/r/Greenpoint/comments/194jh6i/hit_run_0111_615pm_on_morgan_and_nassau/
+- How do I get security footage from a business or daycare? — Reddit — https://www.reddit.com/r/Greenpoint/comments/1pjevc7/need_help_getting_video_security_footage/
+- How much does a security camera service call cost? — competitor FAQ — https://www.cctvoverwatch.com/security-cameras/security-camera-repair-service-palm-beach-county/
