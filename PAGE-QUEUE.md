@@ -925,7 +925,7 @@ BUILDING 2026-11-12T20:57Z max-burn REBUILD | access-control-installation-downto
 BUILDING 2026-11-12T20:57Z max-burn REBUILD | access-control-installation-east-flatbush-brooklyn-ny | Access Control Installation | East Flatbush, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | access-control-installation-east-new-york-brooklyn-ny | Access Control Installation | East New York, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-east-tremont-bronx-ny | Access Control Installation | East Tremont, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | access-control-installation-east-williamsburg-brooklyn-ny | Access Control Installation | East Williamsburg, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T21:11Z max-burn REBUILD | access-control-installation-east-williamsburg-brooklyn-ny | Access Control Installation | East Williamsburg, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-edgewater-park-bronx-ny | Access Control Installation | Edgewater Park, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | access-control-installation-fairmount-bronx-ny | Access Control Installation | Fairmount, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | access-control-installation-flatbush-brooklyn-ny | Access Control Installation | Flatbush, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
