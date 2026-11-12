@@ -2378,3 +2378,48 @@ Note: the live web-search budget for this run was used up before any new search 
 - Do you need a license to install or service security cameras in New York? — vendor FAQ — https://www.security101.com/blog/security-camera-laws-in-new-york-what-you-need-to-know-now
 - Do I need a Landmarks permit to replace a camera on a building in a historic district? — LPC guidebook topic — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
 - How much do security camera installation and repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+## Prospect Lefferts Gardens, Brooklyn — /security-camera-repair-prospect-lefferts-gardens-brooklyn-ny (factory research, 2026-11-12)
+
+**Building stock that shapes camera repair**
+- Prospect-Lefferts Gardens Historic District designated October 9, 1970; the LPC report says the district "centers on the only substantial concentration of urbanistic rowhouses in Flatbush" — https://s-media.nyc.gov/agencies/lpc/lp/1024.pdf
+- The LPC report notes the district, "although primarily a low-rise residential neighborhood," includes one elevator apartment house of 1939 (148-154 Lefferts Avenue) — https://s-media.nyc.gov/agencies/lpc/lp/1024.pdf
+- Historic Districts Council: west of Bedford Avenue the covenant line runs down the middle of a street, "hence the single-family houses to the north side of the street and the six-story apartment buildings on the south"; between Bedford and Rogers Avenues the Lefferts family covenants applied to both sides; the National Register district was expanded in 2017 — https://6tocelebrate.org/neighborhoods/prospect-lefferts-gardens/
+- Historic Districts Council: "Ocean Avenue, a couple blocks west of Lefferts Manor, was mostly built up with six-story apartment buildings capitalizing on the park views" — https://6tocelebrate.org/neighborhoods/prospect-lefferts-gardens/
+- Houses in the district date from the late 19th century to the 1920s, Romanesque Revival to neo-Federal (NYT, 2004) — https://www.nytimes.com/2004/04/04/realestate/if-you-re-thinking-living-prospect-lefferts-gardens-convenient-close-knit-yet.html
+- Housing ranges from limestone rowhouses in the Lefferts Manor Historic District to prewar co-ops — https://www.homes.com/local-guide/brooklyn-ny/prospect-lefferts-gardens-neighborhood/
+- Neighborhood is bordered by Ocean and New York avenues between Clarkson Avenue and Empire Boulevard (WSJ, 2015) — https://www.wsj.com/articles/prospect-lefferts-gardens-gentrifies-1442570400
+- LPC Permit Guidebook ch. 11 (already in research pack): no more than two cameras per 25 feet of frontage on small buildings; attach at mortar joints, plain masonry, wood or metalwork; ordinary maintenance/repair of safety equipment needs no permit — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+
+**Local incidents where building or store camera video mattered**
+- ABC7, Aug 25 2024: a man followed a 25-year-old woman into her building lobby near Ocean and Parkside Avenues around 11 p.m. Thursday and choked her from behind; he "pushed the button to the elevator and waited - clueless as security cameras tracked his every move." Neighbor: "It's crazy because he was literally like five feet behind her in the picture I saw." Resident Carlos Vasquez: "There have been a lot of weird things happening in this building. I've been followed in before myself." — https://abc7ny.com/post/nyc-crime-brooklyn-neighborhood-edge-police-search-man-followed-woman-building-choked/15229897/
+- News 12, July 2026: T-Mobile store at 1037 Nostrand Ave robbed at gunpoint July 12, 2026 (already in pack) — https://brooklyn.news12.com/5k-stolen-from-t-mobile-store-at-gunpoint-in-prospect-lefferts-gardens
+- amNY May 2020: Hawthorne Street lock-popping burglar caught on building video (already in pack) — https://www.amny.com/new-york/brooklyn/brooklyn-burglar-who-pops-locks-faster-than-a-key-haunting-residents-on-one-block/
+- Citizen app: break-in reported at 292 Midwood St., Dec 18, 10:30 p.m. — https://citizen.com/-LU3VxIHXS8LJkMSNnc1
+
+**Police, community board, corridors**
+- PLG is patrolled by the NYPD 71st Precinct at 421 Empire Boulevard — https://en.wikipedia.org/wiki/Prospect_Lefferts_Gardens
+- Brooklyn Community Board 9 serves Crown Heights South, Prospect Lefferts Gardens, Wingate and portions of North Flatbush; Ocean and Washington Avenues are its western border and Clarkson Avenue its southern border; office at 890 Nostrand Avenue — https://www.nyc.gov/site/brooklyncb9/about/maps.page
+- CB9 public safety agendas list liquor licenses on the Flatbush Avenue strip in 11225 (e.g. 665 Flatbush Avenue, 560 Flatbush Avenue, 693 Flatbush Avenue, 49-51 Lincoln Road) — https://www.nyc.gov/assets/brooklyncb9/downloads/pdf/2024/PublicSafetyAgendaFullDocs.pdf
+- CB9 2025 resolution on 73-99 Empire Boulevard rezoning (retail commercial development with parking) — https://www.nyc.gov/assets/brooklyncb9/downloads/pdf/2025/73-99empireboulevardrezoningresolutionofficial.pdf
+
+**Repair practice / competitor pages**
+- Impera Security (NYC): standard diagnostic service call $250, payable on completion (competitor pricing, not AESS) — https://www.imperasecurity.com/security-camera-repair
+- Reddit r/SecurityCamera: "Western digital purple or seagate Skyhawks are good. regular HDDs will fail" in recorders — https://www.reddit.com/r/SecurityCamera/comments/1g2eiej/repair_or_replace/
+- Reddit r/NYCapartments: "Landlord removed all cameras to reduce cost and now packages are getting stolen and experiencing unauthorized entry" — https://www.reddit.com/r/NYCapartments/comments/1qbp1on/landlord_removed_all_cameras_to_reduce_cost_and/
+- Reddit r/AskNYC: tenant asks how to force a landlord to show camera footage; reply: "file a police report. Landlord likely should not show you footage" — https://www.reddit.com/r/AskNYC/comments/1bfjfdu/is_there_a_way_to_force_a_landlord_to_show_me_the/
+- Brick Underground (pack): landlords not obligated to show tenants footage outside legal process — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- HPD violations / 311 complaints for cameras in 11225: EMPTY
+- DOB permits for camera work in PLG: EMPTY
+- PLG power outage news: EMPTY (searches returned only generic Con Ed pages)
+- Yelp complaints specific to camera repair near PLG: EMPTY
+
+### Questions people ask — Security Camera Repair in Prospect Lefferts Gardens
+- PAA: EMPTY (not retrievable); PASF: EMPTY; AnswerThePublic: EMPTY; Bing/DuckDuckGo-only: EMPTY
+- How do I get my landlord to show me the camera footage? — Reddit — https://www.reddit.com/r/AskNYC/comments/1bfjfdu/is_there_a_way_to_force_a_landlord_to_show_me_the/
+- My landlord removed the building cameras — what can tenants do? — Reddit — https://www.reddit.com/r/NYCapartments/comments/1qbp1on/landlord_removed_all_cameras_to_reduce_cost_and/
+- Repair or replace an old camera system? — Reddit — https://www.reddit.com/r/SecurityCamera/comments/1g2eiej/repair_or_replace/
+- Which hard drive should go in a DVR? — Reddit — https://www.reddit.com/r/cctv/comments/1p88wzs/replacing_hard_drive/
+- How much does security camera repair cost in NYC? — competitor FAQ — https://www.imperasecurity.com/security-camera-repair
+- How much recording history do I actually need? — Instagram vendor post — https://www.instagram.com/p/Dewr6TUDZuK/
+- Do you repair systems with cameras offline, blank, or not recording? — competitor FAQ — https://security-systems.nyc/service/security-camera-repair/
