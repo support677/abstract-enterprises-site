@@ -2597,3 +2597,48 @@ Scope: "Bruckner" has no official borders. Sources describe it as the Soundview-
 - DuckDuckGo: EMPTY
 - Reddit: EMPTY
 - Yelp: EMPTY
+
+## Windsor Terrace, Brooklyn — /structured-cabling-installation-windsor-terrace-brooklyn-ny (factory research, 2026-11-12)
+
+- Untapped Cities ranked Windsor Terrace #3 among Brooklyn neighborhoods for internet speed in speed tests recorded May 2016 to April 2017: 90th-percentile average speed 207.14 Mbps, fastest recorded 803.18 Mbps; it attributes the result likely to "wide access to Fios"; providers listed include Charter Spectrum, Verizon and Verizon Fios — https://untappedcities.com/2017/08/22/fun-maps-which-brooklyn-neighborhoods-have-the-best-internet-service/3/
+- BroadbandNow (data valid as of 11/11/2026) says fiber internet is 76.7% available in Brooklyn, while its own table lists Verizon Fios at 65.6% (internal conflict); it lists Optimum cable at 49.5% and Spectrum at 37.7% of Brooklyn, plus Starry at 12.9% — https://broadbandnow.com/New-York/Brooklyn
+- Windsor Terrace Library (Brooklyn Public Library) reopened July 19, 2021 after about two years of renovation: HVAC replaced with a building management system, electrical upgrades with tabletop outlets and USB ports, ceiling and security/fire alarm equipment temporarily removed; a rooftop antenna extends free wireless internet about 300 feet into the neighborhood; current building opened 1969 — https://prodnew.bklynlibrary.org/media/press/windsor-terrace-library
+- 1 Park Point (formerly 11 Ocean Parkway), Machate Circle at the southwest corner of Prospect Park: 13 stories, 145 feet, 375 rental units averaging 798 sq ft, 25% affordable, 5,388 sq ft retail, 18,850 sq ft community space, 106 enclosed parking spaces; developer Focus Property Group (JEMB), architect FXCollaborative; construction wrapping up August 2024 — https://newyorkyimby.com/2024/08/1-park-point-wraps-up-construction-in-windsor-terrace-brooklyn.html
+- Windsor Terrace Bulletin (May 8, 2026): Milk & Honey at One Park Point is open; Amal Pilates open; PS 154 (Windsor Terrace School) built 1908, architect C.B.J. Snyder; Engine 240/Battalion 48 at 1309 Prospect Avenue — https://windsorterracebulletin.substack.com/p/fridays-post-issue-15
+- 135 Prospect Park Southwest: 1929 prewar co-op, six stories, two elevators, central laundry room, full-time superintendent, bike room; unit count inconsistent on the page (60 vs 84) — https://www.corcoran.com/building/windsor-terrace/24006
+- Other prewar co-op buildings on Prospect Park Southwest listed in Windsor Terrace include 185 Prospect Park SW and 175 Prospect Park SW (listing pages only) — https://streeteasy.com/building/185-prospect-park-southwest-brooklyn ; https://miltoncoste.com/for-sale/2br-coop-windsor-terrace-175-prospect-park-apt-4g-rls11032742
+- 702 Greenwood Avenue (Windsor Terrace corner townhouse, Brick Underground, Sept 26, 2018): owners replaced nearly every system over about a decade (plumbing, electrical, water main, sewer); "the whole house and backyard is wired with an Elan music system"; gas, plumbing and electric in place for a possible attic conversion — https://www.brickunderground.com/buy/windsor-terrace-three-bedroom%20townhouse
+- amNY (March 2, 2017) Windsor Terrace businesses: Dub Pies 211 Prospect Park West, Terrace Books 242 Prospect Park West, The Double Windsor 210 Prospect Park West, Della 1238 Prospect Ave, The Adirondack 1241 Prospect Ave, Windsor Place Antiques 1624 10th Ave, Brooklyn Commune 601 Greenwood Ave, Batata Pita Bar 3021 Fort Hamilton Pkwy, Kensington Stables 51 Caton Pl — https://www.amny.com/entertainment/things-to-do/what-to-do-and-eat-in-windsor-terrace-brooklyn-1-13200720/
+- Arrow Linen rezoning (Prospect Avenue) approved by City Council Feb 27, 2025: two 10-story buildings, about 250 units, 100 permanently affordable; The Real Deal (July 11, 2026) headline says the Brooklyn multifamily development site "sits dormant" (article body not retrievable) — https://council.nyc.gov/shahana-hanif/2025/02/27/city-council-votes-to-pass-arrow-linen-rezoning-100-affordable-units-40-affordability-for-windsor-terrace/ ; https://therealdeal.com/new-york/2026/07/11/why-this-brooklyn-multifamily-development-site-sits-dormant/
+- HPD broadband guidance for HPD-financed housing: broadband in units required in all new construction; common-area broadband required for all new construction and some preservation projects; existing wiring must be "in good repair" to be reused; owners owning infrastructure gain control and leverage; FCC bans exclusive revenue-share agreements, graduated revenue share and sale-and-leaseback of inside wiring; ISP must disclose exclusive marketing arrangements — https://www.nyc.gov/assets/hpd/downloads/pdfs/services/residential-broadband-installation.pdf
+- Brooklyn Row House blog (1903 Brooklyn row house): in 1999 the owner installed "fourteen feet of 3″ EMT tubing between the basement ceiling and a second floor closet" and pulled CAT5 that then went unused ("Their tails remain coiled, labeled and attached to nothing"); finished woodwork and insulation blocked new pulls; proposed a ~50-foot route through three rooms with knee walls, window benches, radiator cabinets and cedar paneling; driver for finishing was security cameras; hindsight "I probably should have gone with 4″ EMT" — https://brooklynrowhouse.com/?p=2184
+- Angi: Ethernet installation averages $1,500 nationally, $100 to $5,000 range, most projects $400 to $3,500; $50 to $100 per port plus $60 to $120 per hour labor (national figures, undated) — https://www.angi.com/articles/ethernet-installation-cost.htm
+- UniFi Nerds (NYC, 2026): basic pre-wire $3,500–$8,500, mid-level $8,500–$20,000, high-end $20,000–$45,000+; a "multi-level townhouse with finished areas, limited pathways, and strict scheduling" can cost much more than a simpler build with the same drop count; wiring during construction almost always cheaper than after move-in; quote should cover drop counts and locations, cable type, termination, labeling, as-built map, certification results — https://unifinerds.com/cost-to-wire-new-home-nyc/
+- Verizon Fios boxes on 20-foot poles drew Brooklyn neighbor complaints (2011); Midwood/Fiske Terrace residents objected to a new Fios tower — https://stopthecap.com/2011/08/04/size-queens-verizon-puts-fios-boxes-on-20-foot-poles-in-brooklyn-neighbors-dont-like-them/ ; https://www.cbsnews.com/newyork/news/residents-of-midwood-park-fiske-terrace-balk-at-new-verizon-fios-tower
+- Brownstoner forum thread "Offer broadband to tenants, or not?" — Brooklyn owners debating supplying internet to tenants — https://www.brownstoner.com/forum/about-brooklyn/offer-broadband-to-tenants-or-not
+- Local Law 128 of 2024 / AC §28-105.4.7 (effective Dec 21, 2025): no electrical permit required for wiring under 50 volts for signaling, communication, alarm and data (silo research) — https://www.nyc.gov/assets/buildings/local_laws/ll128of2024.pdf
+- HPD violations / 311 complaints specific to cabling in Windsor Terrace: EMPTY
+- DOB permits specific to low-voltage work in Windsor Terrace: EMPTY
+- Reddit threads about cabling/ethernet in Windsor Terrace: EMPTY (no threads found)
+- Yelp 1–3★ reviews of cabling contractors near Windsor Terrace: EMPTY
+
+### Questions people ask — Structured Cabling Installation in Windsor Terrace
+- Who can install ethernet wiring? — contractor/consumer guide (Angi) — https://angi.com/articles/who-can-install-ethernet-wiring.htm
+- How much does ethernet installation cost? — consumer guide (Angi) — https://www.angi.com/articles/ethernet-installation-cost.htm
+- How do I wire a house for ethernet? — consumer guide (Angi) — https://www.angi.com/articles/how-to-wire-house-ethernet.htm
+- How hard is running ethernet cable through your house? — forum (Slickdeals) — https://slickdeals.net/f/2798927-how-hard-is-running-ethernet-cable-through-your-house?p=38485375
+- What is the average cost to wire a new home in NYC? — FAQ page (UniFi Nerds) — https://unifinerds.com/cost-to-wire-new-home-nyc/
+- Is it cheaper to wire during new construction or after move-in? — FAQ page (UniFi Nerds) — https://unifinerds.com/cost-to-wire-new-home-nyc/
+- Does Cat6A increase the ethernet installation cost a lot? — FAQ page (UniFi Nerds) — https://unifinerds.com/cost-to-wire-new-home-nyc/
+- What should be included in a professional structured cabling quote? — FAQ page (UniFi Nerds) — https://unifinerds.com/cost-to-wire-new-home-nyc/
+- How can I keep costs down without sacrificing performance? — FAQ page (UniFi Nerds) — https://unifinerds.com/cost-to-wire-new-home-nyc/
+- What questions should I ask before hiring a structured cabling provider in New York? — guide (Instrata) — https://www.instrata.com/questions-to-ask-before-hiring-structured-cabling-provider-new-york/
+- Should a landlord offer broadband to tenants, or not? — forum (Brownstoner) — https://www.brownstoner.com/forum/about-brooklyn/offer-broadband-to-tenants-or-not
+- How much do network and router services typically cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Computer-Network-or-Wiring-Install-or-Repair
+- Google PAA: EMPTY
+- People Also Search For: EMPTY
+- AnswerThePublic: EMPTY
+- Bing: EMPTY
+- DuckDuckGo: EMPTY
+- Reddit: EMPTY
+- Yelp: EMPTY
