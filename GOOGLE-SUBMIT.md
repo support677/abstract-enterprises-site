@@ -80,6 +80,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 
 2026-11-11 evening (scheduled, 01:55 UTC Nov 12, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2496 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-12T01:53:08Z, 2934 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2135 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected lilin brooklyn (URL is not on Google; Discovered - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at lilin brooklyn.
 
+2026-11-12 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 10 requested, 5 indexed (lilin ulster; turing brooklyn/queens; invid-tech queens/nassau), 0 failed, 2597 queued. Not-indexed URLs were Discovered - currently not indexed or URL is unknown to Google. "Quota Exceeded" on the 11th request (invid-tech westchester county, Discovered - currently not indexed), which stays QUEUED; next run starts there.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-10-29: brand price pages NOT on Google per URL Inspection API (184). Highest-search brands first, NYC areas first. Request these before everything else. -->
