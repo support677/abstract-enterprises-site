@@ -4168,3 +4168,49 @@ Method: web search plus page fetches. Google PAA/PASF, AnswerThePublic, Bing, Du
 - Bing / DuckDuckGo — EMPTY
 - Reddit — EMPTY
 - Yelp — EMPTY
+
+## Co Op City, Bronx — /intercom-installation-co-op-city-bronx-ny (factory research, 2026-11-12)
+
+**Intercom-specific facts for Co-op City**
+- Co-op City residents moved in starting December 1968 and construction finished in 1973, so every high-rise falls under the state rule for buildings erected after January 1, 1968 (my inference from the dates). — https://www.columbia.edu/~hauben/RNA-House/history/Coop-City.pdf
+- MDL 50-a(2): "Every class A multiple dwelling erected or converted after January first, nineteen hundred sixty-eight containing eight or more apartments shall also be equipped with an intercommunication system." It must be "located at an automatic self-locking door giving public access to the main entrance hall or lobby" and "consist of a device or devices for voice communication between the occupant of each apartment and a person outside said door ... and to permit such apartment occupant to release the locking mechanism of said door from the apartment." — https://www.nysenate.gov/legislation/laws/MDW/50-A
+- MDL 50-a(1): entrances to post-1968 class A dwellings other than the main lobby entrance "shall be equipped with automatic self-closing and self-locking doors and such doors shall be locked at all times except when an attendant shall actually be on duty." — https://www.nysenate.gov/legislation/laws/MDW/50-A
+- MDL 50-a(3) cost recovery from tenants applies only to buildings erected before 1968, not to post-1968 buildings like Co-op City's. — https://www.nysenate.gov/legislation/laws/MDW/50-A
+- 1 RCNY 42-01 mounting heights: "No push button device shall be more than six feet from the floor and the speaking and listening device shall be installed to be not less than four feet and not more than five feet from the floor." — https://www.nyc.gov/assets/buildings/rules/1_RCNY_42-01.pdf
+- Co-op lawyer Nancy Kourland (Lasser Law Group) on a co-op's duty: "As a result, the co-op has a legal obligation to repair or replace the intercom." Andrew Freedland (Herrick Feinstein) says a neighbor who caused damage may be responsible, depending on the lease or alteration agreement. — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- HPD correction periods: Class A 90 days, Class B 30 days, Class C 24 hours; a 2022 Bronx Housing Part decision "recorded a Class B violation for an inoperable bell and return-buzzer system." NYC diagnostic cost $100–$300, component replacement $500–$1,500, limited wiring repair $1,000–$3,000 (Connextivity, cited as directional commercial estimates). — https://butterflymx.com/blog/intercom-repair-nyc
+- Riverbay Triple Core & Tower Lobby Door Modification Project: automatic door operators on the lobby doors; "The contract was awarded for $9,304,658 and was finalized at $9,221,579 and with a $1-million grant received from HPD, the total cost for Riverbay Corporation was $8,221,579." Management was "finalizing the final door arm settings with the manufacturer of the motors that power the doors' automatic features" (Nov 2023). — https://www.coopcity.com/pdf/Management_Report_November_18_2023.pdf
+- May 2012: "The Riverbay Board of Directors has vowed to make installing automatic doors on their lobby" entrances so elderly and disabled residents can get in and out more easily. — https://brooklyn.news12.com/co-op-city-buildings-may-get-automatic-doors-34805859
+- Jan 2026 Riverbay management report lists "Installation of 65 lobby monitors across the high-rise buildings." — https://www.coopcity.com/pdf/Management_Report_31012026.pdf
+- Mar 2025: a convicted rapist was allegedly let into a building on Bellamy Loop though he didn't live there. Resident Clemens Gerard: "People just stand there and wait for you to open the door, they come in right behind you." Management posted signs telling residents not to admit anyone they don't personally know and took a lobby attendant "under advisement." — https://westchester.news12.com/co-op-city-residents-call-for-increased-police-presence-after-rape-of-teen-girl
+- Mar 23, 2026: packages from non-USPS carriers are left all over Co-op City lobbies; resident Toni Faulk: "It's not a 26-story walkup." — https://bronx.news12.com/residents-at-co-op-city-apartment-deal-with-package-delivery-issues
+- Nearby Bronx example: Feb 2025, a Parkchester couple (an amputee veteran and a wheelchair user) said their intercom had been broken for months and medication deliveries and home health aides were missed. — https://bronx.news12.com/parkchester-couple-struggles-with-broken-intercom-system
+- Mitchell-Lama procurement: HCR rule 1728-4.3 requires "PRIOR APPROVAL BY THE DIVISION ... FOR PURCHASES OR CONTRACTS OF $100,000 OR MORE" and notice of intent to solicit bids "NO LESS THAN THIRTY DAYS BEFORE" solicitation. — https://hcr.ny.gov/system/files/documents/2025/05/ml-matters-monthly-newsletter-may-2025_board-meetings-2025-hcr-benchmarking-deadline-ext-and-contract-thresholds.pdf
+- Riverbay posts public bid opportunities (e.g. terrace door repair, lobby modernization rendering) on public bid aggregators. — https://samsearch.co/gov-explore/states/ny/riverbay-corporation
+- DHCR (Castaldo, Nov 3, 2023): a landlord may replace an audio-only intercom with a hard-wired audio-video system that "wouldn't require the use of tenants' landline or cellular telephones." — https://landlordvtenant.com/article/landlord-can-replace-audio-intercom-system-video-intercom-system
+- Industry pricing ranges: "$1,000-$7,000 per door and $5,000-$50,000+ for a full multifamily project"; cloud video intercom monthly fees "$5 to $15 per apartment unit per month, or $30 to $100 per entry door per month." — https://swiftlane.com/blog/apartment-intercom-installation-cost/
+- HPD violations specific to Co-op City intercoms: EMPTY
+- 311 intercom complaints for Co-op City: EMPTY
+- DOB permits for Co-op City intercom work: EMPTY
+- LPC: EMPTY (no designation)
+- Reddit threads about Co-op City intercoms: EMPTY
+- Yelp complaints about intercom installers near Co-op City: EMPTY
+
+### Questions people ask — Intercom Installation in Co Op City
+- Does my NYC building need an intercom? — vendor FAQ (ButterflyMX) — https://butterflymx.com/blog/nyc-intercom-law/
+- Do video intercoms satisfy NYC intercom law? — vendor FAQ (ButterflyMX) — https://butterflymx.com/blog/nyc-intercom-law/
+- Can I withhold rent for a broken intercom? — vendor FAQ (ButterflyMX) — https://butterflymx.com/blog/nyc-intercom-law/
+- How much does an apartment intercom system cost? — vendor FAQ (Swiftlane) — https://swiftlane.com/blog/apartment-intercom-installation-cost/
+- What is the monthly cost of an apartment intercom system? — vendor FAQ (Swiftlane) — https://swiftlane.com/blog/apartment-intercom-installation-cost/
+- Who pays for apartment intercom installation? — vendor FAQ (Swiftlane) — https://swiftlane.com/blog/apartment-intercom-installation-cost/
+- Is a video intercom worth the extra cost? — vendor FAQ (Swiftlane) — https://swiftlane.com/blog/apartment-intercom-installation-cost/
+- Can wireless or mobile intercoms reduce installation cost? — vendor FAQ (Swiftlane) — https://swiftlane.com/blog/apartment-intercom-installation-cost/
+- Who is responsible for repairing the intercom in a co-op? — Habitat — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- Can a landlord replace an audio intercom with a video intercom? — landlordvtenant — https://landlordvtenant.com/article/landlord-can-replace-audio-intercom-system-video-intercom-system
+- Google PAA: EMPTY
+- Google PASF: EMPTY
+- AnswerThePublic: EMPTY
+- Bing: EMPTY
+- DuckDuckGo: EMPTY
+- Reddit: EMPTY
+- Yelp: EMPTY
