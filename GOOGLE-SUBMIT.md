@@ -3352,3 +3352,4 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-12 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-greenpoint-brooklyn-ny | QUEUED
 2026-11-12 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-bay-ridge-brooklyn-ny | QUEUED
 2026-11-12 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-ocean-parkway-brooklyn-ny | QUEUED
+2026-11-12 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-brooklyn-navy-yard-brooklyn-ny | QUEUED
