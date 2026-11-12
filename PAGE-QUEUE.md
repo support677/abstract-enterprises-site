@@ -223,10 +223,10 @@ LIVE | door-buzzer-installation-bensonhurst-brooklyn-ny | Door Buzzer Installati
 LIVE | door-buzzer-installation-bergen-beach-brooklyn-ny | Door Buzzer Installation | Bergen Beach, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-beverley-square-brooklyn-ny | Door Buzzer Installation | Beverley Square, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-boerum-hill-brooklyn-ny | Door Buzzer Installation | Boerum Hill, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-TODO | door-buzzer-installation-borough-park-brooklyn-ny | Door Buzzer Installation | Borough Park, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-TODO | door-buzzer-installation-brighton-beach-brooklyn-ny | Door Buzzer Installation | Brighton Beach, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-TODO | door-buzzer-installation-brooklyn-chinatown-brooklyn-ny | Door Buzzer Installation | Brooklyn Chinatown, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-TODO | door-buzzer-installation-brooklyn-heights-brooklyn-ny | Door Buzzer Installation | Brooklyn Heights, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T03:13Z factory | door-buzzer-installation-borough-park-brooklyn-ny | Door Buzzer Installation | Borough Park, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T03:13Z factory | door-buzzer-installation-brighton-beach-brooklyn-ny | Door Buzzer Installation | Brighton Beach, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T03:13Z factory | door-buzzer-installation-brooklyn-chinatown-brooklyn-ny | Door Buzzer Installation | Brooklyn Chinatown, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T03:13Z factory | door-buzzer-installation-brooklyn-heights-brooklyn-ny | Door Buzzer Installation | Brooklyn Heights, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-brooklyn-navy-yard-brooklyn-ny | Door Buzzer Installation | Brooklyn Navy Yard, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-brownsville-brooklyn-ny | Door Buzzer Installation | Brownsville, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-bushwick-brooklyn-ny | Door Buzzer Installation | Bushwick, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
@@ -245,7 +245,7 @@ LIVE | door-buzzer-installation-downtown-brooklyn-ny | Door Buzzer Installation 
 LIVE | door-buzzer-installation-dumbo-brooklyn-ny | Door Buzzer Installation | DUMBO, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-dyker-heights-brooklyn-ny | Door Buzzer Installation | Dyker Heights, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-east-flatbush-brooklyn-ny | Door Buzzer Installation | East Flatbush, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-TODO | door-buzzer-installation-east-new-york-brooklyn-ny | Door Buzzer Installation | East New York, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T03:13Z factory | door-buzzer-installation-east-new-york-brooklyn-ny | Door Buzzer Installation | East New York, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-east-williamsburg-brooklyn-ny | Door Buzzer Installation | East Williamsburg, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-fiske-terrace-brooklyn-ny | Door Buzzer Installation | Fiske Terrace, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-flatbush-brooklyn-ny | Door Buzzer Installation | Flatbush, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
@@ -320,7 +320,7 @@ LIVE | security-camera-repair-downtown-brooklyn-ny | Security Camera Repair | Do
 LIVE | security-camera-repair-dumbo-brooklyn-ny | Security Camera Repair | DUMBO, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-dyker-heights-brooklyn-ny | Security Camera Repair | Dyker Heights, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-east-flatbush-brooklyn-ny | Security Camera Repair | East Flatbush, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-TODO | security-camera-repair-east-new-york-brooklyn-ny | Security Camera Repair | East New York, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T03:13Z factory | security-camera-repair-east-new-york-brooklyn-ny | Security Camera Repair | East New York, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-east-williamsburg-brooklyn-ny | Security Camera Repair | East Williamsburg, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-fiske-terrace-brooklyn-ny | Security Camera Repair | Fiske Terrace, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-flatbush-brooklyn-ny | Security Camera Repair | Flatbush, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
@@ -373,11 +373,11 @@ LIVE | door-buzzer-repair-cadman-plaza-brooklyn-ny | Door Buzzer Repair | Cadman
 LIVE | door-buzzer-repair-canarsie-brooklyn-ny | Door Buzzer Repair | Canarsie, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-repair-city-line-brooklyn-ny | Door Buzzer Repair | City Line, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-repair-clinton-hill-brooklyn-ny | Door Buzzer Repair | Clinton Hill, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
-REBUILD | door-buzzer-repair-columbia-street-waterfront-brooklyn-ny | Door Buzzer Repair | Columbia Street Waterfront, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
-REBUILD | door-buzzer-repair-crown-heights-brooklyn-ny | Door Buzzer Repair | Crown Heights, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
-REBUILD | door-buzzer-repair-ditmas-park-brooklyn-ny | Door Buzzer Repair | Ditmas Park, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
-REBUILD | door-buzzer-repair-downtown-brooklyn-ny | Door Buzzer Repair | Downtown Brooklyn, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
-REBUILD | door-buzzer-repair-dumbo-brooklyn-ny | Door Buzzer Repair | DUMBO, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T03:13Z factory REBUILD | door-buzzer-repair-columbia-street-waterfront-brooklyn-ny | Door Buzzer Repair | Columbia Street Waterfront, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T03:13Z factory REBUILD | door-buzzer-repair-crown-heights-brooklyn-ny | Door Buzzer Repair | Crown Heights, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T03:13Z factory REBUILD | door-buzzer-repair-ditmas-park-brooklyn-ny | Door Buzzer Repair | Ditmas Park, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T03:13Z factory REBUILD | door-buzzer-repair-downtown-brooklyn-ny | Door Buzzer Repair | Downtown Brooklyn, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T03:13Z factory REBUILD | door-buzzer-repair-dumbo-brooklyn-ny | Door Buzzer Repair | DUMBO, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-repair-east-williamsburg-brooklyn-ny | Door Buzzer Repair | East Williamsburg, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-repair-fulton-ferry-brooklyn-ny | Door Buzzer Repair | Fulton Ferry, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-repair-gravesend-brooklyn-ny | Door Buzzer Repair | Gravesend, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
@@ -1414,7 +1414,7 @@ TODO | eufy-camera-installation-putnam-county | eufy Camera Installation | Putna
 TODO | eufy-camera-installation-dutchess-county | eufy Camera Installation | Dutchess | up /eufy-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | eufy-camera-installation-ulster-county | eufy Camera Installation | Ulster | up /eufy-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | hanwha-camera-installation-manhattan | Hanwha Camera Installation | Manhattan | up /hanwha-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-TODO | hanwha-camera-installation-brooklyn | Hanwha Camera Installation | Brooklyn | up /hanwha-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T03:13Z factory | hanwha-camera-installation-brooklyn | Hanwha Camera Installation | Brooklyn | up /hanwha-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | hanwha-camera-installation-queens | Hanwha Camera Installation | Queens | up /hanwha-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | hanwha-camera-installation-bronx | Hanwha Camera Installation | Bronx | up /hanwha-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | hanwha-camera-installation-staten-island | Hanwha Camera Installation | Staten Island | up /hanwha-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
