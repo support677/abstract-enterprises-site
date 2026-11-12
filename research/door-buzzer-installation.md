@@ -4074,3 +4074,34 @@ Google PAA, Google PASF / related searches, AnswerThePublic, Bing, DuckDuckGo: *
 - Does a landmarked building need approval for a new entry panel? — LPC designations (question framing) — https://www.brownstoner.com/architecture/landmarks-preservation-commission-gowanus-batcave-american-can-aspca-pumping-station
 - Can residents open the building with a phone app and still have fobs as a backup? — Bisnow (Union Channel) — https://www.bisnow.com/news/new-york/multifamily/a-glimpse-of-gowanus-future-from-inside-one-of-its-new-multifamily-buildings-127658
 - How long does a tenant wait after a 311 intercom complaint? — Brick Underground — https://new.brickunderground.com/rent/get-your-landlord-to-fix-that-broken-buzzer
+
+## Gravesend, Brooklyn — /door-buzzer-installation-gravesend-brooklyn-ny (factory research, 2026-11-12)
+
+- NYC Open Data, HPD Housing Maintenance Code Violations (wvxf-dwi5), ZIP 11223 (Gravesend plus Homecrest to its east), description contains "INTERCOM", queried 2026-11-12: 140 violations on record, 111 closed, 29 open — https://data.cityofnewyork.us/resource/wvxf-dwi5.json?$select=violationstatus,count(*)&$group=violationstatus&$where=zip='11223' AND upper(novdescription) like '%INTERCOM%'
+- Same dataset, inspection date from 2023-01-01: 39 intercom violations — 14 in 2023, 4 in 2024, 17 in 2025, 4 in 2026 through early November; 11 still open. All written under § 27-2005 (owner's duty to keep in repair) — https://data.cityofnewyork.us/resource/wvxf-dwi5.json (query: zip 11223, INTERCOM, inspectiondate>=2023-01-01)
+- Of those 39, 17 named an apartment on the 4th story or higher (6 on the 4th, 6 on the 5th, 5 on the 6th); 9 on the 1st story, 6 on the 2nd, 4 on the 3rd, 3 in basement/cellar apartments — elevator apartment buildings dominate, unlike low-rise ZIPs — same query
+- One large apartment building on Ocean Parkway, divided into sections A, B, C and D, accounts for 14 of the 39 (2023–2026); its apartment C61 was cited Sept 2023 and again July 2026, apartment B5 Sept 2024 and Dec 2024 (second one "replace with new the missing intercom system"), apartment A2 June 2025 and again Nov 6 2026 ("in the entire apartment") — same query
+- Other Ocean Parkway buildings cited: an apartment cited twice (Nov and Dec 2023) at another Ocean Parkway building; streets cited include Avenue X (two buildings, one apartment cited Dec 2023 and Nov 2025), Avenue S, Avenue T, Kings Highway (building entrance intercom at the public hall, 2023), Coney Island Avenue, Gravesend Neck Road, East 3rd, 4th and 7th Streets, West 1st, 2nd, 5th, 9th, 10th and 13th Streets — same query
+- Several violations describe telephone-based entry: "intercom system at vestibule to home phone", "tele communication intercom system from the building's vestibule to tenant's tele devices", "from building entrance door to tenant phone" — i.e. buildings where the lobby panel rings residents' phone lines — same query
+- A Gravesend Neck Road building was cited for basement and cellar apartments' intercoms (Sept 2023, Nov 2025 twice) — "BSMT-APT", "CELLAR APT" — same query
+- Typical wording: "from building entrance to return buzzer", "intercom return panel from vestibule", "in the entire apartment", "inoperative intercom system from building front" — same query
+- HPD Complaints and Problems (ygpa-z7cr), post_code 11223, minor_category contains INTERCOM: 28 complaints in 2023, 30 in 2024, 48 in 2025, 28 in 2026 so far (60 in 2019, the peak since 2005) — https://data.cityofnewyork.us/resource/ygpa-z7cr.json?$select=date_extract_y(received_date) as yr,count(*)&$group=yr&$where=post_code='11223' AND upper(minor_category) like '%INTERCOM%'
+- HPD violations in 11223 whose description mentions "SELF-CLOS": 458 in 2023, 503 in 2024, 389 in 2025, 308 in 2026 through early November (mostly apartment/hall doors) — wvxf-dwi5 query
+- Telephone entry over a landline: owner of a 17-unit condo on r/accesscontrol reported the system "using a landline / 'plain old telephone system' to call residents' numbers, line charge from $29 to $75 per month" — https://www.reddit.com/r/accesscontrol/comments/1qetwct/telephone_entry_system_17_unit_condo_building/
+- Swiftlane: telephone entry covers "a basic audio call box on a landline to a cloud-managed video intercom running over LTE or Ethernet"; "POTS and cellular systems ring tenant mobile numbers directly, so residents do not need to download an app" — https://swiftlane.com/blog/telephone-entry-systems/
+- ButterflyMX telephone entry guide: tenant can grant or deny entry directly from a landline telephone or cell phone (Kantech KTES) — https://butterflymx.com/blog/telephone-entry-system/
+- Brooklyn installer blog: common Brooklyn problem "Electric door strike buzzes but the door remains locked" — https://www.uasecurity.com/blog1/2026/08/25/brooklyn-intercom-repair-common-problems/
+- Reddit r/AskNYC: tenant considering a lease in "a newly built 3-unit building in Brooklyn with a first-time landlord" with no buzzer and one mailbox — https://www.reddit.com/r/AskNYC/comments/1t74q1e/is_no_buzzer_and_one_mailbox_for_3_apartments/
+- Reddit r/AskNYC: "my apartment's buzzer system has been out for weeks. This has resulted in missed package deliveries. Other apartments are affected" — https://www.reddit.com/r/AskNYC/comments/aospte/apartment_buzzer_broken_for_weeks/
+- Reddit r/nyc: "There are 24 apartments here and no bell" — is landlord required — https://www.reddit.com/r/nyc/comments/cr3om/my_apartment_building_doesnt_have_any/
+- Marlboro Houses (NYCHA) intercom/door items: EMPTY (only a Facebook group mention, not usable)
+- Google PAA / PASF / Answer the Public / Bing / DuckDuckGo / Yelp for "door buzzer installation Gravesend": EMPTY (not accessible in build env)
+
+### Questions people ask — Door Buzzer Installation in Gravesend
+- Is a landlord required to have a buzzer in a building with no bell at all? — Reddit — https://www.reddit.com/r/nyc/comments/cr3om/my_apartment_building_doesnt_have_any/
+- Is no buzzer and one mailbox normal for a new 3-unit building? — Reddit — https://www.reddit.com/r/AskNYC/comments/1t74q1e/is_no_buzzer_and_one_mailbox_for_3_apartments/
+- My building's buzzer has been out for weeks and packages are missed — what can be done? — Reddit — https://www.reddit.com/r/AskNYC/comments/aospte/apartment_buzzer_broken_for_weeks/
+- What does a telephone entry system cost per month on a landline? — Reddit — https://www.reddit.com/r/accesscontrol/comments/1qetwct/telephone_entry_system_17_unit_condo_building/
+- Can the entry panel ring residents' cell phones without an app? — Swiftlane FAQ — https://swiftlane.com/blog/telephone-entry-systems/
+- Why does the strike buzz but the door stays locked? — Brooklyn installer blog — https://www.uasecurity.com/blog1/2026/08/25/brooklyn-intercom-repair-common-problems/
+- EMPTY for PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Yelp (not accessible in build env)
