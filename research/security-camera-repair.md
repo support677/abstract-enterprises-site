@@ -1143,3 +1143,50 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - What causes my security camera to stop working? — Reolink FAQ — https://reolink.com/blog/security-camera-repair/
 - Can I repair my security camera at home? — Reolink FAQ — https://reolink.com/blog/security-camera-repair/
 - The lobby camera has not been working and packages are being stolen. Is there any action tenants can take? — Brick Underground reader question — https://www.brickunderground.com/rent/stolen-packages-security-camera
+
+## Downtown Brooklyn, Brooklyn — /security-camera-repair-downtown-brooklyn-ny (factory research, 2026-11-12)
+
+**Outages and building systems in Downtown Brooklyn**
+- Aug 23 2025: a contractor struck a high-voltage feeder line and a transformer at 365 Bridge St. caught fire; "Nearly 230 residents in Downtown Brooklyn were left without power Saturday morning"; FDNY had it under control just before 11 a.m.; Con Edison restored power about 5 p.m.; a resident said three of four elevators went out and the remaining one had non-working buttons; 12 FDNY units / 60 firefighters responded — https://brooklyn.news12.com/2025/08/23/transformer-fire-and-power-outage-disrupt-downtown-brooklyn/6hh0GD4Q9IXktHyxSYFaYU
+- June 2 2026: tenants of The Addison, a 26-story Downtown Brooklyn rental (Dermot Company) complained of elevators out for upgrades/modernization, cars dropping and trapping people, and years of brown water that management blamed on nearby construction; no camera complaints reported — https://brooklyn.news12.com/2026/06/02/tenants-in-downtown-brooklyn-luxury-building-demand-answers-over-elevator-issues-discolored-water/4VWqcuU4XDxZf5UNPAhuit
+- Sept 18 2025: the city finished an $8 million streetscape rebuild of Fulton Street between Boerum Place and Flatbush Avenue, "completed in two-block sections over the course of approximately one year" (39 benches, 7,895 perennials, 24,083 sq ft permeable paving); part of a $40 million Downtown Brooklyn public realm investment; release does not mention cameras or lighting — https://www.nyc.gov/mayors-office/news/2025/09/mayor-adams-unveils-greener--revitalized-fulton-mall-following--.html
+
+**Crime and footage in and next to Downtown Brooklyn**
+- Jan 7 2025 (News 12): NYPD zone-based plan for Downtown Brooklyn launched early Dec 2024; retail thefts down 27% and arrests up more than 40% vs same period; overall crime in the 84th Precinct (Downtown Brooklyn) rose nearly 25% in 2024; Fulton Mall business owners said thefts and robberies had become common; Commissioner Tisch: "We're in the process of developing CompStat books based on zones"; a shop owner: "Put more cops on the street, on foot, not in a car," — https://brooklyn.news12.com/nypd-rolls-out-new-data-driven-plan-to-reduce-crime-in-downtown-brooklyn
+- Feb 14 2025 (Gothamist): on Dec 27 around 3 a.m. a man used a circular saw to cut open a locked box on the northbound D/N/R platform at Atlantic Avenue–Barclays Center and took about $60,000 in electronics; "Surveillance video from the station shows a man wearing a black hooded jacket and face mask with a gray backpack" — https://api-prod.gothamist.com/news/nypd-man-stole-60k-worth-of-electronics-from-atlantic-ave-subway-station-using-power-saw
+- Jan 1 2025 shortly after 6 p.m.: four people tried to take a 71-year-old's bag near the Hoyt Street subway station in Downtown Brooklyn; police released four surveillance images and asked the public to contact Crime Stoppers — https://brooklyn.news12.com/surveillance-images-released-of-downtown-brooklyn-attempted-robbery-that-left-71-year-old-victim-hurt
+- News 12 (undated Saturday): a group robbed a store worker at knifepoint in a shop on Fulton Street in Downtown Brooklyn just after 5 p.m.; no footage mentioned (date not given — use only as undated) — https://newyork.news12.com/group-robs-downtown-brooklyn-store-worker-at-knifepoint
+- Brooklyn Paper 84th Precinct blotter (Jan, year not stated in fetch): Front Street Garage in Dumbo, a 2024 BMW X7 and a 2018 Mercedes taken from valet with keys inside; police "reviewing the security footage from the parking lot"; copper wire theft at a construction site at 29 Jay Street, thief "caught on surveillance camera fleeing the site" — https://www.brooklynpaper.com/84th-precinct-dumbo-car-heist
+- Brooklyn Eagle: about twenty phones stolen during a Hot Mulligan concert at the Brooklyn Paramount, Nov. 7 (year not given); no cameras mentioned — https://brooklyneagle.com/353569/20-phones-stolen-during-hot-mulligan-concert-at-brooklyn-paramount/
+
+**Rules that affect camera repair (state and city)**
+- NY Labor Law § 203-c: "No employer may cause a video recording to be made of an employee in a restroom, locker room, or room designated by an employer for employees to change their clothes, unless authorized by court order." and "No video recording made in violation of this section may be used by an employer for any purpose." — https://nysenate.gov/legislation/laws/LAB/203-C
+- NYC Biometric Identifier Information Law (effective July 9, 2021): covers commercial establishments (retail stores, food and drink establishments, places of entertainment); requires "a clear and conspicuous sign near all customer entrances" when biometric identifier information is collected; damages $500–$5,000 per violation; disclosure does not apply to photos/video that "are not analyzed by software or applications" that identify individuals and are not shared except with law enforcement — https://www.troutman.com/insights/new-york-city-enacts-biometrics-law-for-food-and-drink-establishments-entertainment-venues-and-retail-stores/
+- Same law described for consumers: covered = "a place of entertainment, a retail store, or a food and drink establishment" — https://www.pollockcohen.com/media/blog/2023-12-29-new-york-citys-biometric-law-what-consumers-should-know
+- FCC Nov 25 2022 rules on Covered List firms (Hikvision, Dahua) apply to future equipment authorizations; the ban "allows the Chinese companies to continue selling equipment that has already been authorized for sale in the U.S."; article says nothing about repairs or already-installed units — https://www.sdmmag.com/articles/101401-fcc-expands-ban-on-hikvision-dahua-and-other-chinese-firms
+- NYPD Connect New York (May 2024 pilot) integrates participating businesses' cameras with the NYPD for real-time viewing; covers the five boroughs; precinct list and hardware requirements not stated in source — https://politicsny.com/2024/05/16/candid-cameras-nyc-retail-shops-can-start-sharing-security-footage-directly-with-nypd-under-pilot/
+- DOB permits for camera work in Downtown Brooklyn: EMPTY
+- LPC rules specific to camera mounting on Downtown Brooklyn landmarks: EMPTY
+- HPD / 311 camera complaint counts for ZIP 11201/11217: EMPTY
+
+**Buildings**
+- Habitat magazine (Sept 2023), property manager Vikash Shingwani of First Management on co-op/condo theft: "Security cameras are great—we have a couple of them outside the building, one in the vestibule and more in the hallways." — https://habitatmag.com/Archive2/413-September-2023/Thwarting-Theft
+- Downtown Brooklyn-specific reports of a building camera system failing: EMPTY
+
+**Yelp**
+- Yelp 1–3★ reviews for camera repair in Downtown Brooklyn: EMPTY
+
+**Reddit**
+- r/Brooklyn, r/AskNYC threads about camera repair in Downtown Brooklyn: EMPTY
+
+### Questions people ask — Security Camera Repair in Downtown Brooklyn
+
+**PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing-only / DuckDuckGo-only: EMPTY. Reddit: EMPTY. Yelp: EMPTY.** Questions below were seen as titles of web results for related searches.
+- How much do security camera installation & repair companies typically cost? — Bing/web result title (HomeAdvisor) — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- My security cameras say lost signal on 5 of them but 1 or 2 still work, how can I repair this? — web result (JustAnswer) — https://www.justanswer.com/home-security-systems/8xn23-security-camera-system-message-says-lost-signal.html
+- My DVR is making a funny noise and can't receive information from the cameras — web result (JustAnswer) — https://www.justanswer.com/home-security-systems/cgl4a-dvr-making-funny-noise-can-t-system.html
+- DVR beeps at startup, nothing on screen — web result (Amcrest forum) — https://www.amcrest.com/forum/nvrs-dvrs-f19/dvr-beeps-at-startup-nothing-on-screen--t12875.html
+- Why did the hard drive in the security camera DVR get corrupted? — web result (TechRepublic forum) — https://www.techrepublic.com/forums/discussions/why-hdd-in-dvr-of-security-cameras-got-croupted/
+- How do I get my landlord to let me look at security camera footage to identify a package thief? — web result (Brick Underground) — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- FCC ban: future viability of Hikvision systems in the U.S.? — web result (IPCamTalk) — https://ipcamtalk.com/goto/post?id=961616
+- Customers raise questions about facial recognition cameras at a Brooklyn store — web result (News 12) — https://brooklyn.news12.com/customers-raise-questions-about-facial-recognition-at-burlington-coat-factory
