@@ -1327,3 +1327,46 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Can a tenant get the landlord to review footage of a package thief? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
 - Can my business share its cameras with the NYPD? — BK Reader — https://www.bkreader.com/in-other-brooklyn-news/nyc-retailers-to-share-security-footage-directly-with-nypd-in-new-pilot-program-8760232
 - Can video be recovered from a damaged DVR or NVR drive? — data recovery vendors — https://www.gillware.com/?p=690656
+
+## Gowanus, Brooklyn — /security-camera-repair-gowanus-brooklyn-ny (factory research, 2026-11-12)
+
+**Flooding that reaches cellars, studios and recorders (Gowanus specific)**
+- Sept. 29, 2023 rain: about 50 basement artist studios at 540 President Street (near the canal between 3rd and 4th Avenues, incl. Brooklyn Art Cluster) took about half a foot of water; photographer Jan Rattia: "Thankfully, my hard drives and my negatives are okay" but "I lost finished work that was framed in very specific ways from the last 10 years"; painter Ella Hepner: "I had a lot of paintings wrapped in plastic separated with cardboard, and the water had gone through all of that" — https://hyperallergic.com/848139/heavy-rains-flood-dozens-of-artist-studios-in-brooklyn/
+- July 22, 2019: basements flooded at Colony, 274 4th Avenue (between Carroll and 1st Streets — water halfway up the basement stairs) and Taheni Mediterranean Grill, 224 4th Avenue at Union (ankle height); Kitty Hernandez of Colony: "It was a river. We stood in the front and kept sweeping the water out the door"; Taheni's basement pump cleared the water — https://bklyner.com/heavy-rain-floods-4th-avenue-businesses-monday-night
+- BK Reader, July 8 2026: Gowanus resident Josephine Guevarra found two feet of water in her basement during Hurricane Ida: "Everything was gone in the basement" ... "Insurance didn't cover it either"; many Gowanus houses have basement units built before FEMA flood standards; DEP gave out flood kits with sump pumps; combined sewers can back up into toilets and drains; two CSO tanks on the canal expected done in 2029 — https://www.bkreader.com/non-profit-community/as-brooklyn-floods-gowanus-residents-prepare-for-the-worst-12406348
+- Red Hook Star-Revue: May 20, 2026 storm gave Gowanus about six inches of street flooding per FloodNet NYC data; "As little as 0.2 inches" of rain can send raw sewage into the canal; sewers designed for 1.75 in/hr — https://www.star-revue.com/deluge-strikes-brooklyn-but-little-flooding-in-red-hook-and-gowanus/
+- DEP (July 12, 2023): $54 million storm sewer under 3rd Avenue between Carroll and State Streets and cross streets to 4th Ave; 7,118 linear feet of storm sewer, 74 catch basins; Commissioner Rohit Aggarwala: "These drainage improvements proved their worth most recently during the 4th of July rainstorms." — https://www.nyc.gov/site/dep/news/23-032/newly-completed-54-million-storm-sewer-project-alleviates-flooding-3rd-avenue-gowanus-
+- Streetsblog (Oct 6, 2023): DEP $233 million, three-phase sewer upgrade for Fourth Avenue flooding: Phase 1 Seventh Street between Third and Fourth (40% less flooding at Carroll and Fourth), Phase 2 Fourth Ave from Seventh to Degraw by 2031, Phase 3 Third Avenue south of Seventh by 2033; models assume 1.75 in/hr, while Ida dropped 3.15 in/hr — https://nyc.streetsblog.org/2023/10/06/after-a-century-of-flooding-on-brooklyns-fourth-avenue-city-says-itll-be-fixed-by-2033
+- FloodNet street-level ultrasonic flood sensors were first built and deployed in Gowanus (NYU, Sept 2022); Andrea Silverman: "We are essentially designing, building and deploying low cost sensors to measure street level flooding" — https://engineering.nyu.edu/news/nyu-building-ultrasonic-flood-sensor-network-new-yorks-gowanus-neighborhood
+
+**Power events that hit recorders, PoE switches and cameras**
+- Outage beginning Jan 31, 2026 affecting Park Slope, Gowanus and Boerum Hill; Council Member Shahana Hanif letter to Con Edison Feb 1, 2026 (cause not stated on the page) — https://council.nyc.gov/shahana-hanif/power-outage-information
+- Same outage: nearly 2,000 Con Ed customers in Boerum Hill/Park Slope out for days, Con Ed blamed melting snow and salt damaging underground equipment; flickering and partial outages before full loss (sibling research) — https://abc7ny.com/post/power-outage-hundreds-park-slope-boerum-hill-brooklyn-due-melting-snow-salt/18526765/
+
+**Local incidents where cameras mattered**
+- March 2026 (News 12, Mar 18): six luxury cars stolen early Sunday from two Gowanus parking garages — five from a President Street garage (G-Class, BMW, Range Rover, two Audis), one Range Rover from a Sackett Street garage; 911 caller saw four men; police say they "entered through the side door," which News 12 found is reached through the adjacent apartment buildings; a resident: "They have a camera everywhere and people are working 24 hours."; building spokesperson said it had "taken additional security measures and are fully cooperating with law enforcement" — https://brooklyn.news12.com/sources-luxury-car-theft-spree-hits-multiple-gowanus-parking-garages
+- Jan 2015: tools plus a $1,000 security camera stolen from a parole office fit-out on 2nd Ave between 5th St and the canal (neighborhood background pack) — https://www.brooklynpaper.com/crime-hits-gowanus-parole-office-before-it-opens/
+- 76th Precinct (191 Union St) serves "parts of Gowanus" — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/76th-precinct.page
+
+**Building cameras, tenants and landlords**
+- Brick Underground: no city law requires rental buildings to have functioning cameras; attorney Jeffrey Reich: "A landlord that is on notice of criminal activity at a property may be obligated to take reasonable safety precautions" and "Fixing the security camera would certainly be a reasonable action for the landlord to take in this instance"; Michael Wolfe (Midboro Management): "Cameras and signage are a great deterrent" — https://www.brickunderground.com/rent/stolen-packages-security-camera
+- NYCHA (Council Public Housing hearing, Apr 15 2025): DOI found 70% of CCTV cameras at senior buildings inoperable or inaccessible; NYCHA's Lauren Gray: "We go out within twenty four to seventy two hours to repair the camera as quickly as we can"; vandalism "usually ... spray painted on it or they've cracked it open"; "some of our systems are standalone" (Gowanus Houses / Wyckoff Gardens not named) — https://citymeetings.nyc/meetings/new-york-city-council/2025-04-15-1000-am-committee-on-public-housing/chapter/issues-with-cctv-cameras-at-senior-buildings-and-maintenance-processes/
+
+**Cost benchmarks**
+- HomeAdvisor, Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145, low-high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Empty**
+- DOB permits for camera work in Gowanus: EMPTY
+- 311/HPD camera complaint data for 11215/11217/11231: EMPTY
+- LPC: no Gowanus historic district found; individual landmarks only (Coignet Building, Carroll Street Bridge) per background pack
+- Reddit threads (r/Brooklyn, r/AskNYC) on camera repair in Gowanus: EMPTY
+- Yelp reviews for camera repair in Gowanus: EMPTY (search returned only Thumbtack/Angi/HomeAdvisor directories)
+
+### Questions people ask — Security Camera Repair in Gowanus
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- Reddit questions: EMPTY
+- How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- What kind of location is this? / How many cameras do you want installed? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- How do I get my landlord to fix the security camera after packages were stolen? — Brick Underground — https://www.brickunderground.com/rent/stolen-packages-security-camera
+- Security system not recording after power outage — Eufy community — https://community.eufy.com/t/eufy-security-system-not-recording-after-power-outage/3629980
+- Flood light camera stopped working after power outage — Ring community — https://community.ring.com/conversations/ring-security-cameras/flood-light-camera-stopped-working-after-power-outage/66eb68103fcc0a2cf2ab9b59
