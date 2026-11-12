@@ -3188,3 +3188,55 @@ Note: my search tool doesn't show Google's People Also Ask boxes, related search
 - Does an app-based intercom need internet in the building? — DuckDuckGo / installer blog — https://metrocomsecurity.com/butterflymx-vs-traditional-intercom-nyc/
 - What data can a landlord collect from a key fob or app entry system? — Bing — https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page
 - Repair or replace an old intercom? — PAA — https://www.connextivity.com/insights/intercom-repair-replacement-nyc
+
+## Marine Park, Brooklyn — /intercom-installation-marine-park-brooklyn-ny (factory research, 2026-11-12)
+
+**Building stock and entry situations**
+- PLUTO polygon (Gerritsen Ave / Flatbush Ave / Avenue U / Kings Hwy, queried Oct 22 2026 for the door-buzzer silo): 6,050 residential lots / 8,580 homes; one-family 4,232 lots (70.0%), of which A5 attached/semi-detached 1,394; two-family 1,470 lots / 2,940 homes; three-family C0 112 lots (336 homes); store-and-apartment/mixed 209 lots (361 homes); all other apartment classes only 27 lots (711 homes, 8.3%); average year built 1925–1940 in every house class — https://data.cityofnewyork.us/resource/64uk-42ks.json
+- 40 lots with 4+ homes, all on the edges: 3502 Kings Hwy (84 units, 1950, 6 floors), 3626 Kings Hwy (72 u, 1939), 3715 Kings Hwy (66 u, 1938), 1487 E 37 St (41 u, 1925); a row of 1928–30 six-unit walk-ups at 3702–3724 Flatlands Ave; 1950 two-story garden apartments at 2801 Fillmore Ave (52 u) and 3001 Avenue R (8 u); east-side Nostrand Ave 2881 (19 u, 2016) and 2953–2959 (1927 store buildings) — https://data.cityofnewyork.us/resource/64uk-42ks.json
+- openigloo lists 3602 Kings Hwy, Marine Park, as "72 units·6 floors·Built in 1939"; no tenant reviews; 53 open HPD violations (3 C, 32 B, 18 A), no line items shown — https://www.openigloo.com/building/nyc/3209903-3076540014/brooklyn-marine-park-3602-kings-hwy-11234
+- Brooklyn Marine Park Development Co-op, 2220 Burnett St (also 2240/2260/2280 Burnett): built 1952, 264 units, 6 stories; apartments.com amenities "Controlled Access" and "Elevator" — https://www.apartments.com/building/brooklyn-marine-park-development-co-op-brooklyn-ny/13pzny7
+- Same co-op on homes.com: "there are elevators and a video intercom system, which lend a sense of security"; highlights "Virtual Doorman", "Intercom to Front Desk", "Controlled Access", "Secure Lobby"; red-brick, two irregular wings, terra cotta tiling above the lobby doors — https://www.homes.com/building/brooklyn-marine-park-development-co-op-brooklyn-ny/b-r01xflvmf9146/
+- Homes.com Marine Park guide: "most properties are red brick, including bungalow and Tudor Revival rowhomes"; "Along Gerritsen Avenue, a few mid-rise postwar co-ops round out the housing inventory"; renters 27% — https://www.homes.com/building/brooklyn-marine-park-development-co-op-brooklyn-ny/b-r01xflvmf9146/
+- Brick Underground (July 13 2022): mostly one- and two-family detached and semi-detached houses 1910s–1940s; co-ops on the south and western borders; no rental apartment buildings, renters live in two-family houses or above shops in low-rise mixed-use buildings — https://www.brickunderground.com/buy/buy-curious-marine-park-pricing-houses-restaurants-backyards-parking
+- 2125 Ryder St listing: "semi-detached 2-family home consisting of 3 stories plus an attic"; "On the lower level is a 1 bedroom apartment with its own private entrance"; shared driveway — https://bhsusa.com/brooklyn/marine-park/2125-ryder-street/1108956142
+- 2019 Gerritsen Ave listing: "two family brick home in the heart of Marine Park"; "This attached residence ... across three levels"; "The ground level has a separate entrance and features a studio apartment"; built 1955 — https://currentreadvisors.com/ListingDetails/2860358/2019-Gerritsen-Avenue-Marine-Park-Brooklyn-NY-11229
+- Brownstoner (Feb 23 2022): 3615 Avenue T, 1931 brick Tudor in a semi-detached row; basement reached by a staircase from the kitchen or an entrance from the rear yard — https://www.brownstoner.com/real-estate-market/marine-park-brooklyn-homes-for-sale-3615-avenue-t-art-deco-tile-bath-garage-tudor/
+- 3001 Avenue R and 2995 Avenue R: 1950, two floors, 8 apartments each, garden apartments — https://www.pincusco.com/3001-avenue-r ; https://www.cityrealty.com/nyc/marine-park/2995-avenue-r/171967
+- Avenue U mixed use (Facebook group excerpt): "a corner store front with a full basement and 2 - 1 Bedroom units on the top floor" — https://www.facebook.com/groups/MarineParkBrooklyn/posts/25965688086436866/
+- 4017 Avenue U second-floor apartment over storefront — https://streeteasy.com/building/4017-avenue-u-brooklyn/2
+
+**City rules and data**
+- HPD intercom/buzzer/door-bell violations: 39 inside the polygon 2003–2026, 18 of them on the west (CB 15, Madison) side of Nostrand; 21 on the Marine Park side in 23 years: 2953/2951 Nostrand (6), 3702/3718/3820/3824 Flatlands Ave (4), 1544 E 34 St (2), 3821 Kings Hwy (1), 1487 E 37 St (1), single records at 1-to-3-unit addresses; never more than 4 a year — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- 311 BELL/BUZZER/INTERCOM since 2018: 8 on the Marine Park side in nearly 7 years; ZIP 11234 runs 11–16 a year 2020–2026 — https://data.cityofnewyork.us/resource/erm2-nwe9.json
+- MDL §50-a: Class A multiple dwellings erected or converted after Jan 1 1968 with eight or more apartments need an intercom at the self-locking main entrance; pre-1968 buildings once tenants of a majority of apartments request in writing; video not required — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- Non-working intercom or buzzer is a Class B hazardous violation under the Housing Maintenance Code — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- Habitat (Feb 26 2024): Nancy Kourland: "As a result, the co-op has a legal obligation to repair or replace the intercom." — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- LPC: the only designated landmark in Marine Park is the Hendrick I. Lott House, 1940 East 36th Street, individual landmark designated October 3, 1989; no historic district listed — https://hdc.org/borough/marine-park
+- DOB permits for intercom work in Marine Park: EMPTY
+
+**Local news / incidents bearing on entry**
+- Package theft at front doors in the Marine Park Facebook group: "Package stolen from front door on East 31st Street ... This is the second time in a month that packages are stolen from my front porch" (excerpt) — https://www.facebook.com/groups/MarineParkBrooklyn/posts/9325021704263433/
+- Mar 2026 (News 12): four people wanted in a Feb. 23 home burglary near East 34th Street and Avenue N at about 4:30 p.m.; two smart TVs taken — https://brooklyn.news12.com/4-people-wanted-in-home-burglary-in-marine-park
+- Nov 27 2024 (News 12): Holistic Bliss Smoothie and Juices, Marine Park: the owner's camera recorded a man taking the shop's free-book donation cart from outside — https://brooklyn.news12.com/business-owner-thief-steals-cart-offering-free-books-to-the-community-outside-marine-park-store
+- Reddit threads specific to Marine Park intercoms: EMPTY
+
+**Brooklyn-wide installation context**
+- Security Sales (June 15 2016): Park Vanderbilt co-op, Park Slope, 148 apartments, built 1963, replaced audio intercom with Aiphone video; Dan Arnold, Academy: "By using the existing cable – with the exception of two units – we were able to save $20,000 on the job" — https://www.securitysales.com/access/brooklyn_housing_co_op_upgrades_security_with_video_intercom_system/
+- Brownstoner forum "Intercom Reccs": two-family under gut renovation wanting "bell and intercom, no door opener"; reply: wire should be "riser rated and run away from any other electrical wiring", choose equipment first, run wire for a door release anyway — https://www.brownstoner.com/forum/architecture/intercom-reccs/?sort_replies=desc
+- Brownstoner forum "Video doorbell for upper levels of multi-fam brownstone?": owner "can't see out our front door", asks whether battery video doorbell can go over existing buzzer intercom; quote near $3,000 mentioned — https://www.brownstoner.com/forum/general-discussion/video-doorbell-for-upper-levels-of-multi-fam-brownstone/?sort_replies=desc
+- ButterflyMX small-building guide: repair isolated faults; replace when "service calls keep coming back"; "a 10-unit building with one entrance may be a much smaller project than a 10-unit building with several controlled doors" — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
+- Competitors: Yelp complaints/praise for intercom installers near Marine Park: EMPTY
+
+### Questions people ask — Intercom Installation in Marine Park
+- Can a video doorbell go over the existing buzzer intercom for the upper apartments? — Brownstoner forum — https://www.brownstoner.com/forum/general-discussion/video-doorbell-for-upper-levels-of-multi-fam-brownstone/?sort_replies=desc
+- What wire should I run for a bell and intercom during a renovation? — Brownstoner forum — https://www.brownstoner.com/forum/architecture/intercom-reccs/?sort_replies=desc
+- What intercom or doorbell system works for a 3-family home? — BiggerPockets — https://biggerpockets.com/forums/52/topics/734291-intercom-or-doorbell-system-for-3-family-home
+- Can only the apartment stations be replaced? — ButterflyMX FAQ — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
+- Can an old buzzer be made smart without a full replacement? — ButterflyMX FAQ — same URL
+- Electric strike or magnetic lock? — ButterflyMX FAQ — same URL
+- What information should an owner gather before requesting a quote? — ButterflyMX FAQ — same URL
+- Can existing intercom wiring be reused? — ButterflyMX — same URL
+- Does a co-op have to repair the intercom? — Habitat — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- Is a broken buzzer an HPD violation? — Parker FAQ — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Yelp — EMPTY
