@@ -321,15 +321,15 @@ LIVE | security-camera-repair-dumbo-brooklyn-ny | Security Camera Repair | DUMBO
 LIVE | security-camera-repair-dyker-heights-brooklyn-ny | Security Camera Repair | Dyker Heights, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-east-flatbush-brooklyn-ny | Security Camera Repair | East Flatbush, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T18:05Z factory | security-camera-repair-east-new-york-brooklyn-ny | Security Camera Repair | East New York, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-TODO | security-camera-repair-east-williamsburg-brooklyn-ny | Security Camera Repair | East Williamsburg, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-TODO | security-camera-repair-fiske-terrace-brooklyn-ny | Security Camera Repair | Fiske Terrace, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-TODO | security-camera-repair-flatbush-brooklyn-ny | Security Camera Repair | Flatbush, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-TODO | security-camera-repair-flatlands-brooklyn-ny | Security Camera Repair | Flatlands, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-TODO | security-camera-repair-fort-greene-brooklyn-ny | Security Camera Repair | Fort Greene, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-TODO | security-camera-repair-fort-hamilton-brooklyn-ny | Security Camera Repair | Fort Hamilton, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-TODO | security-camera-repair-fulton-ferry-brooklyn-ny | Security Camera Repair | Fulton Ferry, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-TODO | security-camera-repair-gerritsen-beach-brooklyn-ny | Security Camera Repair | Gerritsen Beach, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-TODO | security-camera-repair-gowanus-brooklyn-ny | Security Camera Repair | Gowanus, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T01:28Z max-burn | security-camera-repair-east-williamsburg-brooklyn-ny | Security Camera Repair | East Williamsburg, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T01:28Z max-burn | security-camera-repair-fiske-terrace-brooklyn-ny | Security Camera Repair | Fiske Terrace, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T01:28Z max-burn | security-camera-repair-flatbush-brooklyn-ny | Security Camera Repair | Flatbush, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T01:28Z max-burn | security-camera-repair-flatlands-brooklyn-ny | Security Camera Repair | Flatlands, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T01:28Z max-burn | security-camera-repair-fort-greene-brooklyn-ny | Security Camera Repair | Fort Greene, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T01:28Z max-burn | security-camera-repair-fort-hamilton-brooklyn-ny | Security Camera Repair | Fort Hamilton, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T01:28Z max-burn | security-camera-repair-fulton-ferry-brooklyn-ny | Security Camera Repair | Fulton Ferry, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T01:28Z max-burn | security-camera-repair-gerritsen-beach-brooklyn-ny | Security Camera Repair | Gerritsen Beach, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T01:28Z max-burn | security-camera-repair-gowanus-brooklyn-ny | Security Camera Repair | Gowanus, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 TODO | security-camera-repair-gravesend-brooklyn-ny | Security Camera Repair | Gravesend, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 TODO | security-camera-repair-greenpoint-brooklyn-ny | Security Camera Repair | Greenpoint, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 TODO | security-camera-repair-greenwood-heights-brooklyn-ny | Security Camera Repair | Greenwood Heights, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
@@ -997,10 +997,10 @@ BUILDING 2026-11-12T00:08Z factory REBUILD | door-buzzer-repair-mill-basin-brook
 BUILDING 2026-11-12T00:08Z factory REBUILD | door-buzzer-repair-ocean-parkway-brooklyn-ny | Door Buzzer Repair | Ocean Parkway, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | door-buzzer-repair-park-versailles-bronx-ny | Door Buzzer Repair | Park Versailles, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE | door-buzzer-repair-prospect-heights-brooklyn-ny | Door Buzzer Repair | Prospect Heights, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
-REBUILD | door-buzzer-repair-prospect-park-south-brooklyn-ny | Door Buzzer Repair | Prospect Park South, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T01:28Z max-burn REBUILD | door-buzzer-repair-prospect-park-south-brooklyn-ny | Door Buzzer Repair | Prospect Park South, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | door-buzzer-repair-van-nest-bronx-ny | Door Buzzer Repair | Van Nest, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 REBUILD | door-buzzer-repair-washingtonville-bronx-ny | Door Buzzer Repair | Washingtonville, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
-REBUILD | door-buzzer-repair-windsor-terrace-brooklyn-ny | Door Buzzer Repair | Windsor Terrace, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T01:28Z max-burn REBUILD | door-buzzer-repair-windsor-terrace-brooklyn-ny | Door Buzzer Repair | Windsor Terrace, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-bath-beach-brooklyn-ny | Fire Alarm Installation | Bath Beach, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-baychester-bronx-ny | Fire Alarm Installation | Baychester, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-bedford-stuyvesant-brooklyn-ny | Fire Alarm Installation | Bedford Stuyvesant, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
