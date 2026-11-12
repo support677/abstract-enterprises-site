@@ -3393,3 +3393,4 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-12 | https://www.abstractenterprisessecuritysystems.com/tv-installation-ditmas-park-brooklyn-ny | QUEUED
 2026-11-12 | https://www.abstractenterprisessecuritysystems.com/tv-installation-fiske-terrace-brooklyn-ny | QUEUED
 2026-11-12 | https://www.abstractenterprisessecuritysystems.com/tv-installation-kensington-brooklyn-ny | QUEUED
+2026-11-12 | https://www.abstractenterprisessecuritysystems.com/tv-installation-manhattan-beach-brooklyn-ny | QUEUED

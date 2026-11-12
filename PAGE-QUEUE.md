@@ -885,7 +885,7 @@ LIVE | tv-installation-ditmas-park-brooklyn-ny | TV Installation | Ditmas Park, 
 LIVE | tv-installation-fiske-terrace-brooklyn-ny | TV Installation | Fiske Terrace, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | tv-installation-kensington-brooklyn-ny | TV Installation | Kensington, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-kingsbridge-bronx-ny | TV Installation | Kingsbridge, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-12T14:19Z max-burn REBUILD | tv-installation-manhattan-beach-brooklyn-ny | TV Installation | Manhattan Beach, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | tv-installation-manhattan-beach-brooklyn-ny | TV Installation | Manhattan Beach, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-marine-park-brooklyn-ny | TV Installation | Marine Park, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-morrisania-bronx-ny | TV Installation | Morrisania, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | tv-installation-new-lots-brooklyn-ny | TV Installation | New Lots, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
