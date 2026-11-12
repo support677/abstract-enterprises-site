@@ -3383,3 +3383,83 @@ Live web search was unavailable for this pass (search budget exhausted). Every f
 - Why would cameras show live video but not record? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
 - How much do security camera installation and repair companies typically cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
 - Can an exterior camera's speaker be used to talk to people at the front door of a brownstone? — Brownstoner — https://www.brownstoner.com/interiors-renovation/brooklyn-alarm-system-security-camera-brownstone-boys-working-out-our-security-issues
+
+## Starrett City, Brooklyn — /security-camera-repair-starrett-city-brooklyn-ny (factory research, 2026-11-12)
+
+Note: the live web-search budget was used up for this build, and NYC Open Data could not be reached from the build environment. Every finding below was copied from sourced research already saved in the site's research files (door-buzzer-repair, door-buzzer-installation, intercom-installation, alarm-installation, access-control-installation, security-camera-repair), with the original source URL. Anything that could not be found is marked EMPTY.
+
+**Camera systems the owner runs on the grounds**
+- Spring Creek Towers management letter (Oct 6 2021): "over 30 additional cameras" to be added by the end of 2021; 8MW of permanent backup power installed "to avoid certain outages that we have experienced in the past and recover from other outages much faster"; "New Hallways/New Lobbies" designs being mocked up, installation planned from 2022 "as soon as we have inventory in hand"; building frontages to be replaced, physical work expected mid-2022 — https://springcreeksun.com/community-update/
+- Honeywell press release (Aug 15 2013): $2-million smart-building retrofit at Spring Creek Towers ("46 apartment towers and multiple parking garages, retail centers"); centralized building management system and LAN; new sensors "that alert operators to doors that should not be open"; aging alarm system replaced; passive optical LAN supporting video surveillance and VoIP — https://prnewswire.com/news-releases/honeywell-makes-new-york-apartment-complex-smart-and-efficient-219758581.html
+- One owner and one manager: Rockpoint Group remains owner and Brooksville Company manages the complex (2021) — https://therealdeal.com/new-york/2021/09/29/settlement-housing-fund-revealed-as-buyer-behind-1-8b-starrett-city-deal/
+- The complex's own armed Department of Public Safety; Public Safety office listed at 155 Elmira Loop — https://en.wikipedia.org/wiki/Starrett_City ; https://www.manta.com/c/mm48wv1/spring-creek-towers-public-safety
+- Spring Creek Towers site: 5,881-apartment rental complex; grounds patrolled 24/7 by NYC certified armed peace officers — https://www.springcreektowers.com/
+- A job posting describes an "Access Control Dispatcher" serving residents and visitors of Spring Creek Towers — https://www.ziprecruiter.com/co/Spring-Creek-Towers/Jobs/-in-New-York,NY?id=NzWJnuzyZHNUm_yyifMR+uNnsSw%3D
+- 2018 sale description: 90-person public safety force; 125,000 sf community retail; >$140M capital improvements including power plant upgrades with back-up power — https://www.mannpublications.com/mannabouttown/2018/05/09/brooksville-and-rockpoint-complete-purchase-of-spring-creek-towers-from-starrett-city-associates/
+- Management office listed at 1255 Pennsylvania Ave Ste 1B; Yelp 3.3 (3 reviews); excerpt "intercom stopped working for nearly two months" — https://m.yelp.com/biz/spring-creek-towers-brooklyn
+
+**Power events that hit recorders, switches and cameras**
+- Dec 10 2014, about 8:45 p.m.: more than 1,000 apartments without power; FDNY elevator rescues; residents said it was the second outage that week — https://www.cbsnews.com/newyork/news/spring-creek-towers-complex-loses-power-more-than-1000-apartments-in-the-dark
+- Apr 20 2015: power out from about 9 a.m. to before 12:30 p.m.; failure at the complex's power plant; stairwells dark; emergency lights in one building did not work — https://abc7ny.com/post/power-restored-after-outage-at-brooklyn-apartment-complex-traps-some-in-elevators/671775/ ; residents called it the "third outage in five months" — https://www.cbsnews.com/newyork/news/power-outage-hits-spring-creek-towers-in-brooklyn
+- 2017: FDNY deputy chief: "This is not an unusual occurrence for this complex," ... "We come here once a year for a power problem." — https://abc7ny.com/post/brooklyn-power-outage-prompts-dozens-of-elevator-rescues/2251877/
+- Jul 29 2018 from about 5 a.m.: thousands without power; at least six elevator rescues — https://patch.com/new-york/brownsville/brooklyn-apartment-complex-goes-dark-elevator-rescues-reported
+- October 2023: the 46-building complex was dark for at least an hour on a Tuesday, some people trapped in elevators — https://abc7ny.com/spring-creek-towers-brooklyn-power-outage/13965102/
+- News 12: late-night outage involving 28 buildings — https://bronx.news12.com/fdny-power-restored-to-east-new-york-buildings-following-late-night-outage
+- The central gas-fired heating plant was replaced by 8 modular boiler plants in the 8 section garages ($25M, McGowan Builders); AERCO notes high background NOx from the Belt Parkway, Pennsylvania Avenue and JFK — https://mcgowanbuilders.com/projects/boiler-decentralization-project-spring-creek-towers-starrett-city/description/ ; https://www.aerco.com/resources/case-studies/spring-creek-towers-brooklyn-ny
+
+**Building stock and the places cameras live**
+- 46 buildings of 11 to 20 stories, foursquare design, eight sections (Ardsley, Bethel, Croton, Delmar, Elmira, Freeport, Geneva, Hornell), each with a five-story garage; peninsula on Jamaica Bay between Fresh Creek and Hendrix Creek; Starrett City Boxing in the Hornell Loop garage — https://en.wikipedia.org/wiki/Starrett_City
+- Standalone retail center with second-floor offices; 1279 Pennsylvania Ave ground floor restricted to community-facility users and built out as medical; 1305 Delmar Loop medical space — https://www.cityfeet.com/cont/listing/1279-pennsylvania-brooklyn-ny-11239/cs27663200 ; https://www.cityfeet.com/cont/starrett-city-brooklyn-ny/commercial-properties-for-lease
+- City Fresh Market on Pennsylvania Avenue described as "the only supermarket in Starrett City proper" — https://www.marketreportblog.com/search/label/Brooklyn%20Starrett%20City
+- DOB filings in the Starrett City NTA: 1400 Pennsylvania Ave (PS 346 building) exterior entry doors replaced 2001, accessibility ramps 2018; 1340 Pennsylvania Ave new storefront entrance 2014; 1380 Pennsylvania Ave supermarket renovation 2018; 1540 Van Siclen Ave boxing ring, reception and office 2019 — https://data.cityofnewyork.us/resource/ic3t-wcy2.json?$where=borough='BROOKLYN'%20AND%20gis_nta_name%20like%20'%25Starrett%25'
+- Newer buildings east of Hendrix Creek in ZIP 11239: The Fountains (six buildings, 1,163 apartments, six to nine stories, completed 2021) at 11629 Seaview Ave, 911 Erskine St, 881 Erskine St, 894 Fountain Ave and others; Alafia phase one (576 apartments, ribbon cut Dec 12 2025) — https://newyorkyimby.com/2021/10/the-fountains-affordable-housing-complex-completes-construction-in-east-new-york-brooklyn.html ; https://newyorkyimby.com/2025/12/phase-one-of-alafia-mixed-use-complex-opens-in-east-new-york-brooklyn.html
+- Nehemiah Spring Creek: prefabricated one-, two- and three-family homes; stoops and raised front doors; parking along rear alleys — https://www.nehemiah-spring-creek.com/affordable-housing-success-story-in-east-new-york ; https://www.gorlinarchitects.com/projects/Nehemiah-Spring-Creek
+- Nehemiah Spring Creek's 45 acres were wetland before 1930 and landfill 1930–68 — https://www.nehemiah-spring-creek.com/about
+
+**Police, footage and local incidents**
+- 75th Precinct, 1000 Sutter Ave, covers East New York and Cypress Hills — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/75th-precinct.page
+- 75th Precinct CompStat (week of Oct 12–18 2026): burglary year to date 145 vs 192 the year before (−24.5%) — https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-075pct.pdf
+- amNY, July 2020: Flatbush Optical, 11122 Flatlands Avenue: rear door lock broken at 4:17 a.m., $14,820 in sunglasses taken; NYPD released surveillance video — https://www.amny.com/police-fire/group-of-crooks-swipe-thousands-of-dollars-worth-of-sunglasses-from-brooklyn-optical-store-nypd
+- 75th Precinct community affairs at JASA (Nov 29 2024): impostors posing as delivery, utility or SCT staff; check ID through the peephole; call management to verify — https://springcreeksun.com/nypd-community-affairs-provides-safety-information-to-senior-residents/
+- Brick Underground: landlords aren't obligated to show tenants footage outside a legal process; buildings aren't required to have working cameras (attorney Jennifer Rozen); attorney Catherine Grad: "I don't think that it's such an arduous duty to impose on the landlord" — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- Landlords may place cameras in hallways but not so they "see" into apartments — https://www.brickunderground.com/troubleshooting/landlords-using-surveillance-cameras
+- Habitat (Feb 2023): no NYC law bans hallway doorbell cameras; building rules control — https://www.habitatmag.com/Publication-Content/Board-Operations/2023/2023-February/Video-Doorbells-Present-a-Conundrum-for-Co-op-and-Condo-Boards
+- Ring ended "Request for Assistance" in Jan 2024; police can still get video with a warrant — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- NYPD Connect New York pilot (May 2024): businesses' cameras integrated with NYPD for real-time viewing — https://politicsny.com/2024/05/16/candid-cameras-nyc-retail-shops-can-start-sharing-security-footage-directly-with-nypd-under-pilot/
+- FirstService Residential: footage generally kept 30 to 90 days; requests go to the property manager with reason, timeframe and cameras — https://www.fsresidential.com/new-york/news-events/articles-and-news/security-cameras-best-practices-nyc-condos-co-ops
+- Reddit r/Brooklyn "Just moved to Starett City" (Jul 2025): "Should I trust my packages being left downstairs?" — https://www.reddit.com/r/Brooklyn/comments/1m2ucb0/just_moved_to_starett_city/
+
+**Rules that touch camera repair**
+- NYS license required to install or service security systems; 19 NYCRR 195.2 covers CCTV used for intrusion or theft detection; owners installing on their own property are exempt — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems ; https://dos.ny.gov/fire-alarm-installer
+- NY Labor Law 203-c: notice of workplace video monitoring — https://www.lowvoltagenation.com/posts/buffalo-new-york-security-camera-permit-requirements
+- No general NYC law requires cameras in apartment buildings — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- HCR Mitchell-Lama rent process: capital expenditures appear in the budget the housing company submits; tenants may comment — https://hcr.ny.gov/overview-mitchell-lama-rent-increase-process
+- LPC historic districts covering Starrett City: EMPTY (none found)
+- DOB permits for camera work in Starrett City: EMPTY
+- 311 or HPD data about cameras in 11239: EMPTY
+
+**Pricing**
+- AESS Brooklyn list (parent page): $150 service call credited to the repair; most repairs $150–$1,500; connector or PoE port $150–$350; single camera $250–$600; DVR $300–$700; NVR $400–$900; power supply $150–$400; drive swap $200–$450 — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- HomeAdvisor, Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Empty**
+- News stories about camera failures inside Spring Creek Towers: EMPTY
+- Reddit thread bodies about cameras at Starrett City: EMPTY (excerpts only)
+- Yelp reviews of camera repair companies serving 11239: EMPTY
+
+### Questions people ask — Security Camera Repair in Starrett City
+- PAA (Google People Also Ask): EMPTY (not accessible in build env)
+- PASF / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Should I trust my packages being left downstairs? — Reddit — https://www.reddit.com/r/Brooklyn/comments/1m2ucb0/just_moved_to_starett_city/
+- How do I get my landlord to let me look at security camera footage? — Brick Underground — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- Can my landlord use hallway camera footage against me? — Brick Underground — https://new.brickunderground.com/roommates-landlords/as-landlords-use-security-camera-footage-against-tenants-in-court-heres-how-to-protect-your-privacy
+- Can I put a doorbell camera on my apartment door in the hallway? — Habitat — https://www.habitatmag.com/Publication-Content/Board-Operations/2023/2023-February/Video-Doorbells-Present-a-Conundrum-for-Co-op-and-Condo-Boards
+- Can police get my doorbell camera video without asking? — News 12 — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- Can my store share its cameras with the NYPD? — PoliticsNY — https://politicsny.com/2024/05/16/candid-cameras-nyc-retail-shops-can-start-sharing-security-footage-directly-with-nypd-under-pilot/
+- Who should have access to camera footage in a large building? — FirstService Residential — https://www.fsresidential.com/new-york/news-events/articles-and-news/security-cameras-best-practices-nyc-condos-co-ops
+- Is Starrett City safe? — Reddit — https://www.reddit.com/r/AskNYC/comments/1bljurb/is_starrett_city_safe/
+- How much does it cost to repair a security camera in Brooklyn? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- My DVR isn't recording — what's likely wrong? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-bronx
+- Do you need a license to work on security cameras in New York? — vendor FAQ — https://www.security101.com/blog/security-camera-laws-in-new-york-what-you-need-to-know-now
