@@ -896,7 +896,7 @@ REBUILD | tv-installation-spuyten-duyvil-bronx-ny | TV Installation | Spuyten Du
 REBUILD | tv-installation-throggs-neck-bronx-ny | TV Installation | Throggs Neck, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | tv-installation-unionport-bronx-ny | TV Installation | Unionport, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | tv-installation-wakefield-bronx-ny | TV Installation | Wakefield, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-12T14:35Z max-burn REBUILD | tv-installation-wyckoff-heights-brooklyn-ny | TV Installation | Wyckoff Heights, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | tv-installation-wyckoff-heights-brooklyn-ny | TV Installation | Wyckoff Heights, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-kingsbridge-heights-bronx-ny | TV Installation Kingsbridge | Heights, Bronx | up /tv-installation-kingsbridge-bronx-ny | (646) 490-0629 | GBP Bronx
 
 # REBUILD batch 2026-10-25 (factory): template clones (20%+ phrase overlap with a sibling) that do NOT rank top-20 for their own title keyword (Firecrawl, NYC). Pages that rank were left alone per Anwar.
