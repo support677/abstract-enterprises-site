@@ -855,3 +855,37 @@ None of these come from verified PAA, PASF, AnswerThePublic, Bing or DuckDuckGo 
 - Do you need a license to mount a TV? How do I find a pro? Will mounting damage my wall? — Angi FAQ — https://www.angi.com/articles/how-much-does-it-cost-mount-tv.htm
 - How do I mount a TV outdoors and keep it protected? — MantelMount — https://www.mantelmount.com/blogs/news/how-to-mount-a-tv-outdoors-and-keep-it-protected-all-year-long
 - How do I mount a TV on stucco? — MantelMount — https://mantelmount.com/blogs/news/mounting-tv-on-drywall-stucco-plaster
+
+## Marine Park, Brooklyn — /tv-installation-marine-park-brooklyn-ny (factory research, 2026-11-12)
+- News 12 Brooklyn, article dated March 9, 2026: on February 23 at 4:30 p.m., "Four people entered a home on East 34th Street and Avenue N" in Marine Park and "removed two smart T.V.'s before escaping from the home"; no one was injured; entry method not stated — https://bronx.news12.com/4-people-wanted-in-home-burglary-in-marine-park
+- Brooklyn Paper (year not stated in article): burglary spree in the 63rd Precinct area (Marine Park, Mill Basin, Flatlands, Bergen Beach) on E. 31st and E. 32nd Streets between Avenues K and J; laptops, tablet, bike, phone, car keys and cash taken; no TV mentioned — https://www.brooklynpaper.com/thieves-besiege-two-streets-in-overnight-burglary-spree
+- Brownstoner, Feb 23, 2022: 1931 brick Tudor Revival house at 3615 Avenue T, Marine Park; sunken living room with "beamed and stone-accented ceiling," "glass-fronted built-ins," fireplace appears to have been removed; stone accents continue onto dining room walls ("may make hanging art harder"); lower level with second kitchen, rec room, laundry, second full bath, own entrance from rear yard; garage reached from rear yard — https://www.brownstoner.com/real-estate-market/marine-park-brooklyn-homes-for-sale-3615-avenue-t-art-deco-tile-bath-garage-tudor/
+- Brownstoner (June 3, 2020, from background research): 1920s house at 3622 Avenue R listed with garage and wood-burning fireplace; basement reached by stair off kitchen or from rear yard — https://www.brownstoner.com/real-estate-market/marine-park-brooklyn-homes-for-sale-3622-avenue-r-garage-wood-burning-fireplace-parking/
+- Brownstoner forum "Mount TV above fireplace" (about 12 years old): owner of an old (c.1899) brownstone with "the original plaster wall"; contractor doubted brick behind plaster was deep enough for masonry anchors; BobMarvin: "the fireplaces are on the party walls with no studs, just plaster over brick"; plaster over wood lath on non-party walls is easier; short anchors failed on shelves while longer shields held for decades; mounting over a mantel "is awfully high and invites a sore neck" — https://www.brownstoner.com/forum/about-brooklyn/mount-tv-above-fireplace
+- NYC Department of Buildings: "No installation and modification to any electrical systems can be performed without a permit"; general electrical work "can be performed by a NYC Licensed Master Electrician"; minor replacement and repair work "requires a NYC Licensed Master Electrician and an electrical permit" — https://www.nyc.gov/site/buildings/property-or-business-owner/project-requirements-owner-electrical.page
+- Mike Holt forum: question on NYC acceptance of in-wall TV power adapters ("NYC is on NEC 2008 and these devices were not permitted until NEC 2014" per poster); no answer — https://forums.mikeholt.com/threads/nyc-in-wall-power-adapters-for-flat-screen-tvs.130645/latest
+- CPSC release Feb 3, 2022: 581 tip-over fatalities involving furniture, TVs or appliances since 2000, 472 of them children; "71% of all child fatalities involved a television"; "62% of fatalities of all age groups involved a television"; estimated annual average (2018–2020) of 22,500 emergency-department visits — https://cpsc.gov/Newsroom/News-Releases/2022/CPSC-Injury-and-Fatality-Report-Shows-Despite-Some-Progress-Need-for-TV-and-Furniture-Tip-Over-Prevention-Remains-Strong
+- Angi cost guide ("2025 Data"): national average $254, typical $154–$354; plaster $25–$600+, brick $50–$600+; above-fireplace mount $175–$400; wire concealment can bring total near $1,000; new outlet about $210 — https://www.angi.com/articles/how-much-does-it-cost-mount-tv.htm
+- Angi "5 Questions to Ask About Mounting a TV": drywall/plaster cheaper than brick/concrete; mount VESA numbers should match the TV; drywall mounting about an hour, brick can take several hours — https://angi.com/articles/tv-mounting-questions.htm
+- HomeAdvisor: test temperature at a fireplace mounting spot and avoid above 100°F; typical cost $155–$350 — https://www.homeadvisor.com/r/who-to-hire-mount-tv
+- Taskrabbit Brooklyn page: 4,056 featured TV mounting Taskers in Brooklyn; "starts at $45 per hour"; advises checking with HOA or landlord first; FAQs include brick/concrete walls and over-fireplace — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- Taskrabbit height guide: center of screen typically around 42 inches from floor; fireplace "as low as safely possible above the mantel" with tilting mount — https://www.taskrabbit.com/blog/how-high-to-mount-tv
+- Local Marine Park-specific TV installer reviews, Reddit threads and Yelp pages: EMPTY (searches returned only national marketplaces)
+
+### Questions people ask — TV Installation in Marine Park
+- How much does it cost to mount a TV in Brooklyn? — PAA-style / Taskrabbit FAQ — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- Can I mount my TV on a brick or concrete wall in Brooklyn? — Taskrabbit FAQ — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- Can you mount a TV over your fireplace? — Taskrabbit FAQ / Thumbtack — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- What services are included in TV mounting? — Taskrabbit FAQ — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- Do I need the mantel for support, or will anchors in plaster over brick hold? — Brownstoner forum — https://www.brownstoner.com/forum/about-brooklyn/mount-tv-above-fireplace
+- Is the brick behind old plaster deep enough for masonry anchors? — Brownstoner forum — https://www.brownstoner.com/forum/about-brooklyn/mount-tv-above-fireplace
+- Who should I hire to mount a TV on the wall — handyman, electrician or specialist? — HomeAdvisor — https://www.homeadvisor.com/r/who-to-hire-mount-tv
+- Will you provide the TV mount and accessories? — Angi — https://angi.com/articles/tv-mounting-questions.htm
+- Does mounting a TV damage the wall, and what does repair cost? — Angi — https://www.angi.com/articles/how-much-does-it-cost-mount-tv.htm
+- What is VESA and does my mount fit my TV? — Angi — https://www.angi.com/articles/how-much-does-it-cost-mount-tv.htm
+- How high should a TV be over a fireplace? — Taskrabbit/PASF — https://www.taskrabbit.com/blog/how-high-to-mount-tv
+- Is an in-wall TV power adapter allowed in NYC? — Mike Holt forum — https://forums.mikeholt.com/threads/nyc-in-wall-power-adapters-for-flat-screen-tvs.130645/latest
+- How long does TV mounting take on brick vs drywall? — Angi — https://angi.com/articles/tv-mounting-questions.htm
+- Bing / DuckDuckGo distinct questions: EMPTY
+- Reddit (r/Brooklyn, r/AskNYC) threads on TV mounting in Marine Park: EMPTY
+- Yelp complaints for TV mounting near Marine Park: EMPTY
