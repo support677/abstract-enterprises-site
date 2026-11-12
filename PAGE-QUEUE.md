@@ -1050,7 +1050,7 @@ REBUILD | fire-alarm-installation-westchester-square-bronx-ny | Fire Alarm Insta
 REBUILD | fire-alarm-installation-williamsburg-brooklyn-ny | Fire Alarm Installation | Williamsburg, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-windsor-terrace-brooklyn-ny | Fire Alarm Installation | Windsor Terrace, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-bathgate-bronx-ny | Intercom Installation | Bathgate, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-12T11:36Z max-burn REBUILD | intercom-installation-bay-ridge-brooklyn-ny | Intercom Installation | Bay Ridge, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | intercom-installation-bay-ridge-brooklyn-ny | Intercom Installation | Bay Ridge, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T11:36Z max-burn REBUILD | intercom-installation-beverley-square-brooklyn-ny | Intercom Installation | Beverley Square, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-bronxdale-bronx-ny | Intercom Installation | Bronxdale, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-12T11:36Z max-burn REBUILD | intercom-installation-brooklyn-navy-yard-brooklyn-ny | Intercom Installation | Brooklyn Navy Yard, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
