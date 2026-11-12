@@ -2550,3 +2550,50 @@ Scope: "Bruckner" has no official borders. Sources describe it as the Soundview-
 - Can I split internet with my neighbor? — Reddit r/AskNYC (mirror) — https://reddit.birdcat.cafe/r/AskNYC/comments/1jhi41k/how_can_i_split_internet_with_my_neighbor
 - Fios is "available in my building" but I don't have it — what now? — Verizon forum — https://forums.verizon.com/t5/Fios-Internet/FIOS-is-quot-available-in-my-building-quot-but-I-do-not-have-an/m-p/880588
 - Do I need plenum cable above a drop ceiling? — contractor blog — https://unifinerds.com/?p=78398
+
+## Claremont, Bronx — /structured-cabling-installation-claremont-bronx-ny (factory research, 2026-11-12)
+
+- Big Apple Connect (free NYCHA internet + basic TV): Optimum's Bronx development list names Butler, Webster, Morris I, II, Morrisania, Morrisania Air Rights, Claremont Parkway-Franklin Avenue and Claremont Rehab (Groups 2-5) — the Claremont Village developments and nearby NYCHA sites are on Optimum's list. — https://www.optimum.com/bigappleconnect
+- Big Apple Connect service as Optimum describes it: advertised 500 Mbps; fine print says fiber service up to 500 Mbps down and up, cable-network service up to 500 Mbps down and 20 Mbps up; one free gateway (combined modem and Wi-Fi router) per household; a free Wi-Fi extender only if an Optimum technician recommends one; one set-top box; free standard installation, $0/month, no annual contract. — https://www.optimum.com/bigappleconnect
+- NYC's ACCESS NYC page: Big Apple Connect launched September 2022; provider is Optimum or Spectrum depending on development; no end date stated. — https://access.nyc.gov/programs/big-apple-connect/
+- The Heartwood, 155 E 173rd St "in the Claremont neighborhood": 19-story mixed-use building replacing the 1959 Grand Concourse Library, 113 affordable rent-stabilized units (about 15% for formerly homeless households), a new 17,500 sq ft library, emergency generator for amenity spaces and community room, described as the first Passive House-certified NYPL library; completion date not yet given. — https://www.bxtimes.com/renderings-heartwood-113-apartments-claremont/
+- Same project: developers Settlement Housing Fund and Kalel Companies; architects Bernheimer Architecture and Levenbetts Architects; announced April 2024 under "24 in 24"; developer selection announced November 2025; still needs rezoning, transfer of city property, financing and a temporary library site; existing library on a nearly 8,900 sq ft lot about three blocks from the B and D lines; NYPL's Anthony W. Marx: "a state-of-the-art library and the Bronx with more housing options amid a city-wide shortage". — https://www.6sqft.com/see-plan-to-redevelop-bronx-public-library-with-100-affordable-homes/
+- New construction keeps arriving in and next to Claremont: New York YIMBY reported in October 2026 that "Sol On Park" broke ground at 3728 Park Avenue in Claremont Village (article text could not be retrieved; headline only). — https://newyorkyimby.com/2026/10/sol-on-park-breaks-ground-at-3728-park-avenue-in-claremont-village-the-bronx.html
+- News 12 (March 24, 2023): Bronx Borough President Vanessa Gibson unveiled "Claremont House", a new residential building in Claremont tied to the city's affordable housing push (no units or address in the article). — https://bronx.news12.com/exclusive-bronx-officials-unveil-new-affordable-housing-development-in-claremont
+- Provider data for ZIP 10457 conflicts between sources. ISPReports (FCC BDC data as of Dec 31, 2025; page updated Oct/Nov 2026): Optimum 99.6% (fiber 75.8%, cable 99.6%), Verizon 99.4% (fiber 93.4%), T-Mobile Home Internet 98.9%, Starry 94.4%, fiber coverage 96.0% of homes vs 98.1% Bronx; the page itself is internally inconsistent. — https://ispreports.org/internet-service-providers-10457/
+- InternetProviders.ai for the same ZIP (FCC data, June 2026): Optimum ~98%, Verizon Fios ~65%, AT&T 5G/wireless ~70%, T-Mobile ~44%, Verizon 5G Home ~23%; "confirm availability at your address". — https://www.internetproviders.ai/zip/10457/
+- Fiber into older apartments depends on the landlord: a Verizon community forum thread from a tenant in an older building — landlord would not let the technician drill through the hallway; replies say Verizon still needs a path for the fiber, will not reuse another provider's conduit or touch its coax, and that a landlord present on install day can help choose a routing. — https://forums.verizon.com/t5/Fios-Internet/FiOS-Installation-Questions-Issues-in-an-Older-Apt-Building/m-p/599607
+- Renter with no drilling allowed (forum): wanted "a single line to all three bedrooms as well as two lines to the living room" with drilling "absolutely out of the question"; replies: baseboard/surface raceway, no cable through vent ducts (building rules barred it; plenum rating needed in air spaces). — https://www.badcaps.net/forum/troubleshooting-hardware-devices-and-electronics-theory/troubleshooting-designing-networks/13134-wired-networking-in-an-apartment?p=327930
+- NYC commercial cabling checklists: building rules include "Freight elevator reservations and delivery windows", "Noise restrictions and ceiling access rules", example "the building only allows ceiling work after 6 PM"; common exclusion "Conduit requirements in corridors or shared spaces"; standards ANSI/TIA-568 and ANSI/TIA-606. — https://unifinerds.com/structured-cabling-contractor-nyc-5-questions/
+- Instrata (NY): "building access issues and supply chain disruptions are common in New York projects"; buyer questions on testing, warranty, project plan and timeline. — https://www.instrata.com/questions-to-ask-before-hiring-structured-cabling-provider-new-york/
+- Angi's Bronx page for computer network/wiring install shows a cost average and range for "network & router services" (router-level work, not per-drop cabling) and review praise such as "They work really clean and well." — https://match.angi.com/tloc/Bronx-NY/Computer-Network-or-Wiring-Install-or-Repair/
+- Landmarks: the Clay Avenue Historic District (LPC, designated April 5, 1994; semi-detached row houses by Warren Dickerson plus three Neville & Bagge apartment buildings) lies in historic Morrisania on Clay Avenue near E 165th–166th Sts, just south of Claremont. — https://hdc.org/buildings/clay-avenue-historic-district/ ; https://6tocelebrate.org/?p=4699
+- NYCHA PACT renovations elsewhere in the Bronx (Northwest Bronx scattered sites, June 2025) include free wireless broadband for all residents, lobby doors, intercoms and more than 1,900 cameras — evidence that NYCHA building networks are owner projects; no Claremont development named. — https://www.nyc.gov/site/nycha/about/press/pr-2025/pr-20250624.page
+- Moore Houses / East 152nd St-Courtlandt PACT (May 2026): "Building-wide Wi-Fi will be installed and available for free to all households"; CCTV, intercom and key fob access — again owner-run; Claremont sites not named. — https://www.nyc.gov/assets/nycha/downloads/pdf/pact/bronx/mca-communityplan.pdf
+- Hospital IT: BronxCare's published expansion news (2015) and the 2025 state funding story for SBH (4422 Third Ave, outside Claremont) give no network or IT detail. EMPTY for hospital cabling specifics. — https://politicsny.com/2025/01/30/gov-hochul-announces-140-million-for-upgrades-at-bronx-hospital/
+- DOB permit data, 311 counts and HPD records specific to data cabling in Claremont: EMPTY.
+- Reddit threads about cabling in Claremont: EMPTY (searched r/Bronx/AskNYC via web search; nothing local).
+- Yelp complaints about cabling contractors near Claremont: EMPTY (Yelp not retrievable).
+
+### Questions people ask — Structured Cabling Installation in Claremont
+- Can fiber be brought into an apartment in an older building if the landlord won't allow drilling in the hallway? — Verizon community forum — https://forums.verizon.com/t5/Fios-Internet/FiOS-Installation-Questions-Issues-in-an-Older-Apt-Building/m-p/599607
+- Can the fiber follow the existing cable TV lines into the apartment? — Verizon community forum — same URL
+- How do I get wired connections to several rooms of a rental without drilling holes? — forum (badcaps) — https://www.badcaps.net/forum/troubleshooting-hardware-devices-and-electronics-theory/troubleshooting-designing-networks/13134-wired-networking-in-an-apartment?p=327930
+- Can network cable run through air vents or ducts? — forum (badcaps) — same URL
+- What standards will you install to, and what testing will you provide? — contractor guide — https://unifinerds.com/structured-cabling-contractor-nyc-5-questions/
+- What exactly is included in the quote, and what is excluded? — contractor guide — same URL
+- How will labeling, documentation and handoff be handled? — contractor guide — same URL
+- Who will actually do the work, and what credentials do they have? — contractor guide — same URL
+- How will you handle building rules, scheduling and change control? — contractor guide — same URL
+- Do I need structured cabling if I already use wireless? — contractor FAQ — https://www.instrata.com/questions-to-ask-before-hiring-structured-cabling-provider-new-york/
+- How often should structured cabling be inspected or upgraded? — contractor FAQ — same URL
+- What warranty and post-installation support do you offer? — contractor FAQ — same URL
+- Does Big Apple Connect include a router and Wi-Fi extender, and who installs it? — provider page — https://www.optimum.com/bigappleconnect
+- Which internet providers serve 10457, and is fiber available at my address? — ISP comparison sites — https://ispreports.org/internet-service-providers-10457/ ; https://www.internetproviders.ai/zip/10457/
+- Google PAA: EMPTY
+- People Also Search For: EMPTY
+- AnswerThePublic: EMPTY
+- Bing: EMPTY
+- DuckDuckGo: EMPTY
+- Reddit: EMPTY
+- Yelp: EMPTY
