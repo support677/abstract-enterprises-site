@@ -5264,3 +5264,39 @@ Format: finding — source URL. Queries were run with WebSearch, WebFetch and Fi
 - Can a landlord install facial recognition entry in a rent-regulated building? — Google web results (news titles) — https://www.amny.com/real-estate/biometric-apartment-access-brownsville-1.30520921/
 - Is a working intercom required by law? — Google web results (Habitat title) — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
 - What are the types of apartment building entry systems and what do they cost? — Google web results (title) — https://swiftlane.com/blog/apartment-entry-systems/
+
+## South Slope, Brooklyn — /access-control-installation-south-slope-brooklyn-ny (factory research, 2026-11-12)
+
+Window used for city data: numbered streets 10th–19th Street in ZIP 11215, east of Fourth Avenue (HPD record longitude greater than -73.9945), HPD inspections Jan 1 2020 – Nov 12 2026. HPD Housing Maintenance Code Violations dataset (wvxf-dwi5), queried through the Socrata API. Window is AESS-drawn and approximate.
+
+- 762 HPD violations whose description contains "SELF-CLOSING" were issued in the window since 2020: apartment entrance doors 342, building entrance doors 138, vestibule doors 106, roof/bulkhead doors 42, cellar doors 28, yard doors 23, other 83 — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- Street-door subset (building entrance + vestibule, not apartment doors): 244 violations. By inspection year: 2020 7, 2021 31, 2022 21, 2023 42, 2024 43, 2025 41, 2026 (through Nov 12) 59 — 2026 already the highest year — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- Of the 244 street-door violations, 241 are Class C (immediately hazardous) and 3 Class A — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- What failed on those 244 street doors (from the violation wording): closer or door missing/defective 70 (35 buildings); hinges 59 (37 buildings); a hook-and-eye or other device holding the door open 58 (35 buildings); latch set 33 (19 buildings); door not arranged to self-close 24 (14 buildings) — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- Status: 204 closed (88 buildings) and 40 still open (23 buildings); first inspection Jan 23 2020, latest open one Nov 4 2026 — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- Typical violation wording: "§ 27-2005, 27-2007, 27-2041.1 HMC: REPLACE OR REPAIR THE SELF-CLOSING DOORS THAT IS MISSING OR DEFECTIVE BUILDING FRONT ENTRANCE, 1st STORY"; also "§ 27-2005, 2007 ADM CODE REMOVE DEVICE PREVENTING DOOR FROM BEING SELF-CLOSING HOOK AND EYE AT VESTIBULE DOOR AT PUBLIC HALL" — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- ZIP 11215 citywide-style street tally of self-closing violations since 2020 (all door types): 15th Street 192, 12th Street 148, Fifth Avenue 148, Fourth Avenue 120, Eighth Avenue 114, Seventh Avenue 106, Prospect Park West 104, Prospect Avenue 101 — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- Park Slope Historic District (National Register) is "roughly bounded by Prospect Park West, Berkeley Pl., 15th St., 6th, 7th and Flatbush Aves."; city district designated by LPC in 1973, expanded in 2012 (2,575 buildings) and again to the north in 2016 — https://en.wikipedia.org/wiki/Park_Slope_Historic_District
+- The 2016 Extension II added 292 buildings, all in the north (St. Marks Ave/Sterling Pl, Berkeley Pl–Union St, Plaza St West) — not South Slope — https://newyorkyimby.com/2016/04/landmarks-designates-park-slope-historic-district-extension-ii.html
+- LPC Permit Guidebook ch. 11: intercom panels and doorbells get staff-level permits if they are "installed within or adjacent to a door opening" (or on a fence/wall in front of the entranceway), one intercom panel per door opening, neutral and discreet design; equipment "must be attached at mortar joints, plain masonry, wood, or metalwork", not through cast iron or decorative surfaces; manufacturer cut sheets required, filed through Portico; comparative drawings not needed for in-kind replacement. The chapter does not mention card readers or keypads — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- Brick Underground (Alanna Schubach, Nov 26 2018): tenants have a right to access their apartment at all times; quote from William Gribben, HMGDJ Law: "If nobody can get into the building, there needs to be a back-up system when the key fob doesn't work."; tenants can call 311/HPD or file an HP action — https://www.brickunderground.com/live/key-fob-locked-out-of-building
+- r/parkslope "Constant Vandalism" thread (excerpt only): a resident "finally forced the landlord to change the front door lock" — https://www.reddit.com/r/parkslope/comments/18kipch/constant_vandalism/
+- Kisi cost guide: installation without existing locks $1,200–$2,500 per door; with working existing locks $500–$1,500 per door; reader and hardware $600–$1,500 per door — https://www.getkisi.com/blog/breakdown-of-access-control-system-installation-costs
+- PriceItHere 2026 guide: $500 to $8,000+ per door; keypad $500–$1,200; fob $500–$1,200; cloud software $30–$95/month per location — https://priceithere.com/access-control-system-cost/
+- VIcom: "Essentially, you are looking at $1500 to $2000 per door installed." — https://www.vicom-corp.com/how-much-does-an-access-control-system-cost/
+- IPVM forum (Brian Rhodes, Jan 2013): 4 to 8 man-hours to install a typical door — https://ipvm.com/discussions/what-is-typical-per-door-installation-for-access-control
+- TechPro Security: the lock type is decided by the door and frame; maglocks need request-to-exit plus fire alarm release; electric strikes keep the door latched — https://techprosecurity.com/security-articles/access-control-and-security/maglock-vs-electric-strike-commercial-door-access-control/
+- Google PAA / PASF / AnswerThePublic / Bing / DuckDuckGo for "access control installation South Slope": EMPTY
+- Yelp 1–3★ for access control installers near South Slope: EMPTY
+
+### Questions people ask — Access Control Installation in South Slope
+- How much does a door access control system cost per door? — cost guides / PAA-style — https://priceithere.com/access-control-system-cost/
+- How long does it take to install an access control system? — PriceItHere FAQ — https://priceithere.com/access-control-system-cost/
+- Is a maglock or an electric strike better for a front door? — TechPro FAQ — https://techprosecurity.com/security-articles/access-control-and-security/maglock-vs-electric-strike-commercial-door-access-control/
+- What is the average monthly fee for an access control system? — PriceItHere FAQ — https://priceithere.com/access-control-system-cost/
+- Can I install access control myself to save money? — PriceItHere FAQ — https://priceithere.com/access-control-system-cost/
+- Does access control lower insurance premiums? — PriceItHere FAQ — https://priceithere.com/access-control-system-cost/
+- What questions should I ask access control vendors before buying? — PriceItHere FAQ — https://priceithere.com/access-control-system-cost/
+- My building's new key fob system keeps locking me out, what do I do? — Brick Underground — https://www.brickunderground.com/live/key-fob-locked-out-of-building
+- Can you install access control in a NYC landmark or historic district building? — AESS NYC hub FAQ — https://www.abstractenterprisessecuritysystems.com/access-control-installation-nyc
+- How do I get the landlord to change the front door lock after break-ins? — Reddit r/parkslope — https://www.reddit.com/r/parkslope/comments/18kipch/constant_vandalism/
