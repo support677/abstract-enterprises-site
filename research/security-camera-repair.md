@@ -1546,3 +1546,52 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - How do I protect an outdoor security camera from lightning? — Reolink — https://reolink.com/blog/protect-outdoor-security-camera-from-lightning/
 - How do I protect outdoor camera housings from salt corrosion in coastal areas? — ACTi / blog results — https://www.acti.com/technologies/anti-corrosion-design
 - How much do security camera installation and repair companies cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+## Gravesend, Brooklyn — /security-camera-repair-gravesend-brooklyn-ny (factory research, 2026-11-12)
+
+**Local incidents where camera footage mattered (Gravesend)**
+- NZ Beauty Studio, Gravesend (News 12, June 30 2025): a thief took about $3,000 in cash from the owner's purse while she worked alone in the back doing pedicures; the video shows the person going into the bag, taking the wallet and cash and leaving about two minutes later; police say he ran westbound on Avenue U. Owner Natalia Zavulan: "He went inside my bag." — https://brooklyn.news12.com/exclusive-suspect-caught-on-camera-stealing-thousands-from-gravesend-salon
+- Laundry room near East 3rd Street and Avenue W, Gravesend (CBS New York, Apr 26 2021): surveillance video shows the suspect covering the security camera before drilling the key hole of a washing machine and taking money, shortly before 7:30 a.m. — https://www.cbsnews.com/amp/newyork/news/laundry-room-burglary
+- Magen David Yeshivah on McDonald Avenue, Gravesend (News 12, Nov 6 2025): swastikas painted shortly before 7 a.m. Wed Nov 5 2025; a guard found them; the 62nd Precinct released surveillance photos of a suspect in a black hat on a bicycle, in one image appearing to hold a spray can; Washington Cemetery also vandalized that day — https://brooklyn.news12.com/nypd-releases-surveillance-photos-after-swastikas-painted-outside-gravesend-yeshiva
+- Aqua Jewels by Monica, 1701 East 4th St., Gravesend (News 12, Feb 24 2026): about $94,000 in jewelry taken from a display case Feb 8 around 1 p.m.; suspect left in a black minivan south on East 4th Street. Article does not describe video. — https://brooklyn.news12.com/woman-wanted-for-carrying-out-94000-jewelry-heist-in-gravesend
+- Gravesend assault with a metal object, police search (News 12, Apr 9 2026) — headline only, details not opened — https://brooklyn.news12.com/2026/04/09/police-search-for-man-who-allegedly-assaulted-person-with-metal-object-in-gravesend/6COssLT1Cy43uzvzjMmxWG
+
+**Power events (recorders, PoE switches, cameras)**
+- West 8th Street, Gravesend (News 12, July 6 2026): a large tree fell in a Friday-night storm and crashed into multiple power lines over the Fourth of July weekend; lines stayed tangled and energized, delaying repairs. Resident Denise Ditta: "We've been calling everyone - the city, 311, Con Edison - and so far News 12's the only one who showed up." — https://brooklyn.news12.com/gravesend-residents-spend-sweltering-fourth-of-july-waiting-for-power-restoration-following-storm-damage
+- Con Edison, June 24 2025: voltage reduced 8 percent in southwest Brooklyn (105,800 customers; Bay Ridge, Borough Park, Carroll Gardens, Dyker Heights, Park Slope, Sunset Park named; Gravesend Bay given as the southern border, Gravesend itself not named) — https://www.coned.com/en/about-us/media-center/news/2025/06-24/con-edison-asks-customers-in-southwest-brooklyn-to-conserve-energy
+- Gravesend block-level flood reports for recent storms: EMPTY (Oct 30 2025 record rainfall coverage names other neighborhoods) — https://www.brooklynpaper.com/brooklyn-deadly-flooding-10-30-2025
+
+**Street cameras and camera networks**
+- Brooklyn Eagle, June 4 2013: NYPD approved 12 camera locations in southwest Brooklyn; Bensonhurst/Gravesend/Coney Island list includes McDonald Avenue and Kings Highway, Avenue W and West 11th Street, Stillwell Avenue and Benson Avenue; Councilmember Domenic Recchia allocated $400,000; part of a 640-camera citywide rollout — https://brooklyneagle.com/articles/2013/06/04/nypd-gives-the-green-light-to-southwest-brooklyn-security-cameras/
+- Shmira Public Safety CCTV form: residents and businesses register outdoor cameras; asks for camera brand, server/IP address, port, username, password and verification code; "specifically interested in cameras providing outdoor street views"; accessed "only in the event of a safety concern or crime incident" — https://shmira.org/cctv
+- News 12, Mar 4 2026: Shmira stepped up patrols after video showed home break-ins blocks apart (East Fourth Street, Gravesend) — https://brooklyn.news12.com/2026/03/04/shmira-public-safety-steps-up-patrols-following-video-showing-home-break-ins-blocks-apart-in-brooklyn/1sQg9hpYLfg6eQQVRcHRkE
+
+**Reddit (excerpts only; full threads not retrievable)**
+- r/Brooklyn "Anyone Recognize This Yellow Truck" (tagged Package Thief (Gravesend)): "I have surveillance footage but unfortunately no clear plate yet. Looks like a scrap metal truck" — https://www.reddit.com/r/Brooklyn/comments/1t6i53r/anyone_recognize_this_yellow_truck_suspected/
+- r/Brooklyn thread on a car incident "on Avenue V and Ocean Parkway in gravesend": "Someone is bound to have a ring camera, you might even be able to get video of the event." — https://www.reddit.com/r/Brooklyn/comments/1o6wx87/anyone_knows_who_drives_a_black_2026_acura/
+- r/Brooklyn "Package Thief (Gravesend)" (silo L25): commenter: "Call the cops, give them evidence…" — https://www.reddit.com/r/Brooklyn/comments/1wdrkrg/package_thief_gravesend/
+
+**Building stock**
+- OpenIgloo lists dozens of pages of pre-war buildings in Gravesend (exact count not taken) — https://www.openigloo.com/buildings/brooklyn/gravesend/pre-war?page=4
+- Marlboro Houses camera program details: EMPTY
+
+**Competitor / market (Brooklyn)**
+- Impera Security: "Standard diagnostic service call: $250, payable upon completion"; remote viewing can stop working "following router replacements, internet provider changes"; "Some cloud services or account ownership issues may require manufacturer assistance." — https://www.imperasecurity.com/security-camera-repair-brooklyn
+- HomeAdvisor Brooklyn surveillance install or repair: average $1,416, typical $680–$2,145 (silo research) — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Yelp Gravesend 11223 CCTV System Repair results list Falcon Locksmith and Eddies Security Systems; review texts EMPTY (Yelp not retrievable) — https://m.yelp.com/search?find_desc=CCTV+System+Repair&find_loc=Gravesend%2C+Brooklyn%2C+NY+11223
+
+**Empty**
+- DOB permits for camera work in Gravesend: EMPTY
+- LPC rules in Gravesend affecting cameras (beyond individual landmarks): EMPTY
+- 311 / HPD camera complaint data for 11223: EMPTY
+
+### Questions people ask — Security Camera Repair in Gravesend
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- Can you repair cameras installed by another company? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair-brooklyn
+- Can you fix a security camera system that is not recording? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair-brooklyn
+- Can you replace my DVR or NVR without replacing the cameras? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair-brooklyn
+- Do you repair older analog CCTV systems? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair-brooklyn
+- Can you restore security camera viewing on my phone? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair-brooklyn
+- How much does security camera repair cost in Brooklyn? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair-brooklyn
+- Our camera caught the truck but not the plate — can it be made to read plates? — Reddit — https://www.reddit.com/r/Brooklyn/comments/1t6i53r/anyone_recognize_this_yellow_truck_suspected/
+- Does anyone have camera video of what happened on Avenue V and Ocean Parkway? — Reddit — https://www.reddit.com/r/Brooklyn/comments/1o6wx87/anyone_knows_who_drives_a_black_2026_acura/
