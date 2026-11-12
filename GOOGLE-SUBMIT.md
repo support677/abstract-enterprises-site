@@ -3343,3 +3343,4 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-12 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-coney-island-brooklyn-ny | QUEUED
 2026-11-12 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-crown-heights-brooklyn-ny | QUEUED
 2026-11-12 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-clinton-hill-brooklyn-ny | QUEUED
+2026-11-12 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-gerritsen-beach-brooklyn-ny | QUEUED
