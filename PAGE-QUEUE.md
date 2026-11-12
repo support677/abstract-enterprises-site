@@ -946,7 +946,7 @@ LIVE | access-control-installation-midwood-brooklyn-ny | Access Control Installa
 LIVE | access-control-installation-mill-basin-brooklyn-ny | Access Control Installation | Mill Basin, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-mott-haven-bronx-ny | Access Control Installation | Mott Haven, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | access-control-installation-mount-hope-bronx-ny | Access Control Installation | Mount Hope, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-12T23:31Z max-burn REBUILD | access-control-installation-ocean-hill-brooklyn-ny | Access Control Installation | Ocean Hill, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | access-control-installation-ocean-hill-brooklyn-ny | Access Control Installation | Ocean Hill, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T23:31Z max-burn REBUILD | access-control-installation-ocean-parkway-brooklyn-ny | Access Control Installation | Ocean Parkway, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-park-versailles-bronx-ny | Access Control Installation | Park Versailles, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | access-control-installation-prospect-lefferts-gardens-brooklyn-ny | Access Control Installation | Prospect Lefferts Gardens, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
