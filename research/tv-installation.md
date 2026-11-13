@@ -1607,3 +1607,36 @@ None of these come from verified PAA, PASF, AnswerThePublic, Bing or DuckDuckGo 
 - Should I drill into the mortar or the brick? — StreetEasy — https://streeteasy.com/blog/how-to-hang-things-on-brick-walls
 - Is it against code to run a TV power cord inside the wall? — EC&M / Gizmodo — https://gizmodo.com/5297352/your-wall-mounted-hdtv-probably-violates-electrical-codes
 - PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Yelp for "tv installation City Line": EMPTY
+
+## Canarsie, Brooklyn — /tv-installation-canarsie-brooklyn-ny (factory research, 2026-11-13)
+
+- Angi (match.angi.com) Brooklyn TV wall mount cost: average $280, typical range $172–$376, low-to-high $100–$670; 4.9/5 from "98 reviews of 98 pros"; intake questions: mount type, surface the TV mounts on, special features, wall and ceiling access — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount/
+- Fixr national TV mount installation: average $200, range $100–$300 (low $75, high $1,000); drywall $100–$300, brick/concrete/stone $200–$800; above fireplace total $225–$700; in-wall cord concealment $50–$175 extra; recessed power source behind TV $85–$200; cord covers $30–$85 — https://www.fixr.com/costs/tv-mount-installation
+- TaskRabbit Brooklyn: "TV mounting in Brooklyn starts at $45 per hour and will vary from Tasker to Tasker"; one featured Tasker lists "Minimum booking: 2 hours (even for quick jobs)"; another charges each extra TV as one hour; page lists 4,056 featured TV mounting Taskers in Brooklyn — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- Angi article: drywall mount takes about an hour, brick can take several hours; check VESA numbers so mount rating matches or exceeds TV; new outlet around $300 — https://angi.com/articles/tv-mounting-questions.htm
+- NYC DOB owner electrical requirements: "No installation and modification to any electrical systems can be performed without a permit"; work requires a Licensed Master Electrician; minor work still needs licensed master electrician and permit but no DOB inspection — https://www.nyc.gov/site/buildings/property-or-business-owner/project-requirements-owner-electrical.page
+- Brick Underground (Nov 3 2022): lease alteration clause decides whether landlord can bar wall-hanging (attorney Kirkpatrick); Arik Lifshitz: a hole larger than a nail is considered damage; brackets cause more damage, ask permission first; deposit returned within two weeks with itemized deductions — https://new.brickunderground.com/rent/my-landlord-says-i-cant-hang-things-on-my-apartment-walls-whats-the-deal
+- Canarsie broadband (FCC BDC data as of Dec 31 2025, page updated Oct 19 2026): Verizon fiber 99.86% coverage, EarthLink fiber 99.86%, Optimum cable 99.61%, Optimum fiber 93.73%, Starry fiber 2.34%, Astound cable 1.52%, T-Mobile Home Internet fixed wireless 99.40%, Verizon fixed wireless 82.85%, Starry fixed wireless 28.31%; DISH and DIRECTV satellite TV 100% — https://bestneighborhood.org/tv-and-internet-canarsie-brooklyn-ny/
+- Brownstoner (Nov 19 2018): 649–677 East 91st Street, built 1932, all brick with clinker brick and stucco, Dutch/Medieval character; each house has two apartments and a two-car garage in back, one per apartment; architects Kavy & Kavovitt and James J. Millman — https://www.brownstoner.com/architecture/brooklyn-architecture-canarsie-649-east-91st-street-middle-class-houses-1930s-great-depression
+- NYC Tourism listing: TriniJam BK, 9501 Flatlands Ave, Brooklyn 11236 (Canarsie), offered a $56 World Cup prix-fixe menu, 21+ — https://www.nyctourism.com/offers/world-cup-cuisine-form-trinijam-bk/
+- Caribbean Life (c. mid-2025): cricket competition May 30 at Seaview Park in Canarsie; Brooklyn league season May–September; Nielsen May 2025: 13% of Americans (~40 million) are cricket fans — https://www.caribbeanlife.com/cricket-brooklyn-new-york-community-culture/
+- Epicenter NYC (May 27 2024): Caribbean and South Asian New Yorkers watching the 2024 T20 World Cup; Queens roti shop keeps cricket on its TV screens; Canarsie not mentioned — https://epicenter-nyc.com/cricket-world-cup-offers-a-taste-of-home-for-caribbean-and-south-asian-new-yorkers/
+- Local Canarsie TV-installation news, 311/HPD data specific to TV mounting, DOB permits for TV work: EMPTY (no source found; TV mounting itself is not a permitted trade)
+- Reddit threads on TV mounting in Canarsie / r/Brooklyn: EMPTY (search returned only marketplace listings)
+- Yelp 1–3★ for TV mounting near Canarsie: EMPTY (search budget exhausted before a Yelp page could be opened)
+
+### Questions people ask — TV Installation in Canarsie
+- How much does it cost to mount a TV in Brooklyn? — TaskRabbit FAQ — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- Can I mount my TV on a brick or concrete wall in Brooklyn? — TaskRabbit FAQ — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- What services are included in TV mounting? — TaskRabbit FAQ — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- Can you mount a TV over your fireplace? — TaskRabbit FAQ — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- What is the surface the TV will be mounted on? / describe the wall and ceiling access — Angi intake — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount/
+- Will you provide the TV mount and other accessories? — Angi article — https://angi.com/articles/tv-mounting-questions.htm
+- How big is the TV? — Angi article — https://angi.com/articles/tv-mounting-questions.htm
+- Does mounting a TV damage the wall? — Fixr FAQ — https://www.fixr.com/costs/tv-mount-installation
+- Is my wall strong enough to mount a TV? — Fixr FAQ — https://www.fixr.com/costs/tv-mount-installation
+- Can a TV be too heavy to mount? — Fixr FAQ — https://www.fixr.com/costs/tv-mount-installation
+- Is it better to wall mount a TV or put it on a stand? — Fixr FAQ — https://www.fixr.com/costs/tv-mount-installation
+- How much does it cost to hire someone to mount a TV? — Fixr FAQ — https://www.fixr.com/costs/tv-mount-installation
+- Can my landlord stop me from mounting a TV? — Brick Underground — https://new.brickunderground.com/rent/my-landlord-says-i-cant-hang-things-on-my-apartment-walls-whats-the-deal
+- Google PAA / PASF / Answer the Public / Bing / DuckDuckGo for "tv installation Canarsie": EMPTY (not captured)
