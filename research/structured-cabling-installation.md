@@ -3117,3 +3117,38 @@ Scope: "Bruckner" has no official borders. Sources describe it as the Soundview-
 - DuckDuckGo: EMPTY
 - Reddit: EMPTY
 - Yelp: EMPTY
+
+## Sunset Park, Brooklyn — /structured-cabling-installation-sunset-park-brooklyn-ny (factory research, 2026-11-13)
+
+- Industry City became the first property in Brooklyn and the outer boroughs to earn a Platinum WiredScore certification (June 2015); Buildings 1, 2 and 10 earned Platinum and Buildings 3 through 9 earned Silver; eight ISPs were available to tenants, including AT&T, Verizon and Brooklyn Fiber — https://technical.ly/brooklyn/2015/06/04/industry-city-wiredscore-platinum/
+- Quote: Andrew Kimball, then Industry City CEO: "Superior connectivity used to be a nice amenity, but now it's an essential element." — https://technical.ly/brooklyn/2015/06/04/industry-city-wiredscore-platinum/
+- DataVerge runs a carrier-neutral data center at 882 3rd Ave inside Industry City and describes its meet-me room as the "sole meeting point for connectivity at Industry City"; "Industry City Campus Connect" is a dark-fiber network linking the meet-me room to tenant suites; 40+ carriers, network operators, ISPs and cloud providers — https://dataverge.com/industry-city-connectivity-partner/
+- Industry City (April 2025): more than 650 businesses; 6 million sq ft; 35 acres; 16 buildings; 333,000 sq ft leased in 2024; over $450 million in infrastructure improvements since 2013; about 100 tenant businesses and 1,800 daily workers when ownership took over in 2013 — https://brooklyneagle.com/articles/2025/04/08/industry-city-surpasses-650-businesses/
+- Jan 2015: Deputy Mayor Alicia Glen said "We are actually laying high-speed broadband all throughout the Sunset Park innovation corridor"; Industry City and Liberty View already had fiber access per property holders; the April 2014 "Connect IBZ" RFP named Southwest Brooklyn (incl. Sunset Park) for last-mile building connections — https://technical.ly/brooklyn/2015/01/13/sunset-park-fiber-broadband-alicia-glen
+- Feb 2015: Brooklyn Fiber (started wiring small businesses in Red Hook) announced symmetrical 1 Gbps commercial service at Industry City, about $500/month — https://technical.ly/brooklyn/2015/02/16/brooklyn-fiber-bring-commercial-internet-service-sunset-park/
+- 2015 Technical.ly report: a resident at 34th Street and Third Avenue could not get Fios; a travel agency at 60th Street and Fifth Avenue still had slow, unreliable service; a barbershop on 60th Street had no broadband and used a phone data plan; Verizon's John Bonomo said getting access into buildings is the main challenge and some landlords did not want fiber installed; DoITT audit released June 18, 2015 — https://technical.ly/diversity-equity-inclusion/despite-verizon-agreement-fios-still-mia-for-some-brooklyn-buildings.md
+- Liberty View Industrial Plaza, 850 Third Ave at 30th St: built 1917 (Wikipedia) as Storehouse No. 2 of the U.S. Navy Fleet Supply Base, eight-story reinforced concrete, 700 by 200 feet, whole block between Second and Third Avenues and 30th and 31st Streets; NRHP listed Feb 20, 2013 — https://en.wikipedia.org/wiki/Storehouse_No._2,_U.S._Navy_Fleet_Supply_Base
+- Liberty View (2014 sponsored listing): about 1.3 million sq ft, 160,000 sq ft floor plates, exposed ceilings and beams, 12-foot ceilings, new fire and life-safety systems, billed as fully outfitted with FiOS fiber — https://www.brownstoner.com/sponsored/liberty-view-industrial-plaza-now-offering-1-3-million-square-feet-of-industrialtech-space
+- Brooklyn Army Terminal, 140 58th Street: 4.1 million sq ft of manufacturing space, 59 acres, 100+ businesses, about 4,000 employees, floor load 250 lbs/sq ft, spaces from 1,500 sq ft to floor plates of 200,000 sq ft, opened by the Army 1919, transferred to NYCEDC 1981 — https://brooklynarmyterminal.com/sites/default/files/2025-09/Brooklyn-Army-Terminal-Leasing-Brochure_09-19-2025.pdf
+- MADE Bush Terminal (NYCEDC, Nov 6 2025): 140,000 sq ft industrial workspace; tenants on the fifth floor include PELLE (11,960 sq ft), Aripack (6,000 sq ft) and MushLume (2,510 sq ft) — https://edc.nyc/press-release/made-bush-terminal-signs-new-leases-elevating-brooklyn-design-manufacturing
+- Brooklyn: 27.3% of households had no broadband internet as of 2023, second-highest of the five boroughs (State Comptroller, Dec 2024) — https://www.osc.ny.gov/press/releases/2024/12/dinapoli-report-examines-broadband-availability-access-and-affordability-nyc
+- Brooklyn row-house owner (Brooklyn Row House blog): pulled six 60-foot CAT5 cables through a 14-foot run of 3" EMT from basement ceiling to a second-floor closet in 1999; "I probably should have gone with 4″ EMT."; finished walls with woodwork and insulation made pulling new cable impractical — https://brooklynrowhouse.com/2184-2/
+- Brownstoner forum (2006, Park Slope tenant in owner-occupied brownstone): cable installation "has to be done at the convenience of the owner" — https://www.brownstoner.com/forum-archive/2006/10/to-all-brownsto/?cpage=4
+- NYC Local Law 128 of 2024 adds AC §28-105.4.7: no electrical permit required for wiring under 50 volts for signaling, communication, alarm and data (effective with 2025 NYC Electrical Code, Dec 21 2025) — https://www.nyc.gov/assets/buildings/local_laws/ll128of2024.pdf
+- Contractor blog claims NYC requires a DOB permit for low-voltage installations (conflicts with LL128) and states plenum (CMP) cable is required above suspended ceilings used as air return; keep data cable 50 mm from 120V conduit; conduit fill under 40%; in one Midtown project 14 of 60 Cat6A runs failed certification for NEXT — https://unifinerds.com/?p=78398
+- Contractor budgeting article: "Most low-voltage cabling work in New York City requires Department of Buildings permits" (conflicts with LL128); recommends 10–15% contingency; older buildings may need asbestos/lead remediation — https://www.instrata.com/how-to-budget-structured-cabling-projects-new-york/
+- Reddit threads specific to Sunset Park cabling: EMPTY
+- Google PAA / PASF / AnswerThePublic / Bing / DuckDuckGo boxes: EMPTY
+- Yelp complaints for network cabling near Sunset Park: EMPTY
+
+### Questions people ask — Structured Cabling Installation in Sunset Park
+- What are structured cabling services? — contractor FAQ — https://www.asd-usa.com/blog/8-questions-structured-cabling
+- Do I need Plenum or PVC? — contractor FAQ — https://www.asd-usa.com/blog/8-questions-structured-cabling
+- Do I need 1 or 2 data cables per work area? — contractor FAQ — https://www.asd-usa.com/blog/8-questions-structured-cabling
+- What are test results about, and why do they matter? — contractor FAQ — https://www.asd-usa.com/blog/8-questions-structured-cabling
+- What should the end deliverable be for a structured cabling system? — contractor FAQ — https://www.asd-usa.com/blog/8-questions-structured-cabling
+- Can I upgrade my existing cabling without replacing everything? — contractor FAQ — https://www.instrata.com/how-to-budget-structured-cabling-projects-new-york/
+- How do I get an accurate quote for my structured cabling project? — contractor FAQ — https://www.instrata.com/how-to-budget-structured-cabling-projects-new-york/
+- How to run an ethernet cable in a rented house? — Reddit r/homelab (title only) — https://redlib.hbubli.cc/r/homelab/comments/1jzfa1l/how_to_run_an_ethernet_cable_in_rent_house/mn6n4t0
+- Does low-voltage cabling in NYC require a permit? — FAQ page — https://security-systems.nyc/blog/structured-data-cabling-nyc/
+- Why can't my building get Fios? — local news (Technical.ly) — https://technical.ly/diversity-equity-inclusion/despite-verizon-agreement-fios-still-mia-for-some-brooklyn-buildings.md
