@@ -959,9 +959,9 @@ BUILDING 2026-11-13T00:38Z max-burn REBUILD | access-control-installation-stuyve
 BUILDING 2026-11-13T00:38Z max-burn REBUILD | access-control-installation-weeksville-brooklyn-ny | Access Control Installation | Weeksville, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-west-farms-bronx-ny | Access Control Installation | West Farms, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | access-control-installation-westchester-heights-bronx-ny | Access Control Installation | Westchester Heights, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | alarm-installation-bay-ridge-brooklyn-ny | Alarm Installation | Bay Ridge, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | alarm-installation-bedford-stuyvesant-brooklyn-ny | Alarm Installation | Bedford Stuyvesant, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | alarm-installation-bergen-beach-brooklyn-ny | Alarm Installation | Bergen Beach, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T00:42Z max-burn REBUILD | alarm-installation-bay-ridge-brooklyn-ny | Alarm Installation | Bay Ridge, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T00:42Z max-burn REBUILD | alarm-installation-bedford-stuyvesant-brooklyn-ny | Alarm Installation | Bedford Stuyvesant, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T00:42Z max-burn REBUILD | alarm-installation-bergen-beach-brooklyn-ny | Alarm Installation | Bergen Beach, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | alarm-installation-beverley-square-brooklyn-ny | Alarm Installation | Beverley Square, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | alarm-installation-brooklyn-chinatown-brooklyn-ny | Alarm Installation | Brooklyn Chinatown, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | alarm-installation-city-line-brooklyn-ny | Alarm Installation | City Line, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
