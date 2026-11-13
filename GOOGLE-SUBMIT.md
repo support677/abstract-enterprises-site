@@ -3516,3 +3516,4 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-13 | https://www.abstractenterprisessecuritysystems.com/tv-installation-brownsville-brooklyn-ny | QUEUED
 2026-11-13 | https://www.abstractenterprisessecuritysystems.com/tv-installation-cadman-plaza-brooklyn-ny | QUEUED
 2026-11-13 | https://www.abstractenterprisessecuritysystems.com/tv-installation-canarsie-brooklyn-ny | QUEUED
+2026-11-13 | https://www.abstractenterprisessecuritysystems.com/tv-installation-city-line-brooklyn-ny | QUEUED
