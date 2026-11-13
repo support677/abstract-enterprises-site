@@ -113,3 +113,44 @@
 - When should I replace ethernet cable? / Can ethernet cables go bad? — TrueCable FAQ — https://truecable.com/blogs/cable-academy/when-should-i-replace-ethernet-cable
 - How much do network & router services typically cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Computer-Network-or-Wiring-Install-or-Repair
 - What questions should I ask an ethernet repair pro (standards, testing, documentation)? — Angi — https://www.angi.com/articles/how-to-hire-ethernet-repair-pro.htm
+
+## Williamsburg, Brooklyn — /network-cable-repair-williamsburg-brooklyn-ny (factory research, 2026-11-13)
+
+- Sept 15, 2017: vandals damaged part of Spectrum's fiber-optic network in North Brooklyn; outage began around 3 a.m., service restored around 3 p.m.; thousands lost internet, phone and TV; Spectrum said about 100 attacks on its fiber network between March 28 (start of the Local 3 strike) and end of August 2017; spokesman John Bonomo called it "this latest round of criminal destruction of our network"; page tags Williamsburg and East Williamsburg — https://www.dnainfo.com/new-york/20170915/williamsburg/internet-brooklyn-service-website-spectrum-cable-strike
+- Separate report: vandalism of Charter's fiber-optic network in Brooklyn knocked out TV, phone and internet for "thousands"; outage appeared centered in Williamsburg near the 90th Precinct (author could not confirm); Charter "working with the NYPD on an investigation" — https://broadly.vice.com/en/article/zm3x44/villain-or-hero-a-vandal-cuts-off-internet-for-thousands-of-new-yorkers
+- Jan 26, 2021: Verizon blamed a cut fiber cable in Brooklyn for a Fios outage felt across the East Coast — https://api-prod.gothamist.com/news/internet-outages-frustrate-east-coast-verizon-blames-cut-cable-brooklyn
+- Untapped Cities (2017 data): article says "Out in the underserved blocks of Bushwick and Williamsburg" fiber access is limited — https://untappedcities.com/2017/08/22/fun-maps-which-brooklyn-neighborhoods-have-the-best-internet-service/
+- The Refinery at Domino (Kent Avenue): reopened Sept 2023 as an all-electric office building; 460,000 sq ft interior; "a glass building within the historic brick facade"; 13-year, $150 million project by Two Trees; factory closed 2004, landmarked 2007 — https://abc7ny.com/post/domino-sugar-factory-office/13834016/
+- The Refinery at Domino (300 Kent Avenue) reached 90 percent occupancy; event operator Skylight expanded to 13,600 sq ft on the 14th and 15th floors (deals signed late April 2026); Bandana signed a separate 10,380 sq ft lease — https://commercialobserver.com/2026/05/skylight-lease-two-trees-refinery-domino/
+- 25 Kent: LoopNet headline describes it as the neighborhood's first new office building in 50 years — https://loopnet.com/learn/brooklyn-neighborhood-gets-first-new-office-building-in-50-years/362944608 (headline only; article not fetched)
+- NYC Mesh typical rooftop install: one cable runs from a member's apartment up to the roof, rooftop equipment powered from the apartment by a PoE injector on the same cable, "Cables are then run down the building to member's apartments"; in fiber-connected buildings, passive splitters sit one per floor in stairways, garbage chutes or utility areas — https://wiki.nycmesh.net/link/87
+- Aug 8, 2024: CBS New York — at Borinquen Plaza II (110 Humboldt St, Williamsburg) residents sweep ankle-deep water from apartments, hallways and the lobby every few days, from leaks in a vacant apartment and hallways; Christine Torres: "The same thing happens. The only difference is we don't have access to where it's coming from." — https://www.cbsnews.com/newyork/news/brooklyn-nycha-building-plumbing-problems
+- Dec 19, 2023: Greenpointers — Greenpoint and Williamsburg "particularly poised for flood damage," an official citing "North Brooklyn's high water table and impermeable industrial…" (quote truncated in fetch) — https://greenpointers.com/2023/12/19/local-elected-officials-tackle-chronic-flooding-in-greenpoint-and-williamsburg
+- HomeAdvisor: Brooklyn network and wiring install or repair average $462, typical range $222–$825, full span $90–$1,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Computer-Network-or-Wiring-Install-or-Repair
+- Angi: computer network repair about $100–$230; electricians charge $50–$150/hr for ethernet wiring; suggests asking a pro about TIA/EIA-568 and ISO/IEC 11801, how connections are tested, and whether test results are documented — https://www.angi.com/articles/how-to-hire-ethernet-repair-pro.htm
+- Verizon forum: apartment had FiOS "available" but no Ethernet port in the unit, only unused phone jacks; a Cat5 stub in the ceiling from the hallway Tel/Com closet under the unit number turned out to serve the voice intercom system — https://forums.verizon.com/t5/Fios-Internet/FiOS-quot-available-quot-but-with-no-Ethernet-port-in-unit/td-p/869148
+- Tom's Hardware forum: new apartment, technician said wall Ethernet ports would be live but they don't work; loose unterminated cables hang near the modem — https://forums.tomshardware.com/threads/ethernet-ports-not-working-in-a-new-apartment.3837981
+- HPD violations, 311 complaints, DOB permits specific to data cabling in Williamsburg: EMPTY
+- LPC rules specific to data cable on landmarked Williamsburg buildings: EMPTY
+- Reddit r/Williamsburg threads on ethernet/cable repair: EMPTY
+- Yelp reviews of network cable repair in Williamsburg: EMPTY
+
+### Questions people ask — Network Cable Repair in Williamsburg
+- PAA (Google): EMPTY
+- PASF (Google): EMPTY
+- AnswerThePublic: EMPTY
+- Bing: EMPTY
+- DuckDuckGo: EMPTY
+- Yelp: EMPTY
+- The wall Ethernet jack doesn't work but plugging straight into the router does. Why? — forum (Tom's Hardware) — https://forums.tomshardware.com/threads/ethernet-wall-jack-isnt-working-connecting-to-router-directly-does.3351499
+- The Ethernet ports in my new apartment don't work and there are loose cables by the modem. How do I connect them? — forum (Tom's Hardware) — https://forums.tomshardware.com/threads/ethernet-ports-not-working-in-a-new-apartment.3837981
+- Cat5e Ethernet ports in my apartment do not work. What should I check? — forum (Tom's Hardware) — https://forums.tomshardware.com/threads/cat5e-ethernet-ports-in-apartment-do-not-work.3339285
+- Fios is "available in my building" but my unit has no Ethernet port. What now? — forum (Verizon) — https://forums.verizon.com/t5/Fios-Internet/FiOS-quot-available-quot-but-with-no-Ethernet-port-in-unit/td-p/869148
+- None of the Ethernet cables in the walls are connected to the router. How do I fix that? — forum (Xfinity) — https://forums.xfinity.com/conversations/your-home-network/i-moved-into-my-apartment-and-none-of-the-ethernet-cables-are-connected-to-the-router-that-run-into-the-walls/64b9e4b02674ac1b6b90fbd8
+- Is the landlord responsible when a tenant's internet connectivity fails because of the building wiring? — forum (BiggerPockets) — https://www.biggerpockets.com/forums/52/topics/476110-tenant-having-internet-connectivity-issues-repair-liability
+- Is it possible to test whether my Ethernet cable is the problem? — Reddit r/Internet — https://lr.us.psf.lt/r/Internet/comments/1dvw0vx/is_it_possible_to_test_my_ethernet_cable_if_it_is
+- How do I check if an Ethernet cable is faulty? — web guide (Techwalla) — https://www.techwalla.com/articles/how-to-check-if-ethernet-cable-is-faulty
+- What are bad Ethernet cable symptoms? — web guide (Fidium) — https://authorizeddealer.fidiumfiber.com/blog/bad-ethernet-cable-symptoms/
+- What should I ask an Ethernet repair pro before hiring? — Angi — https://www.angi.com/articles/how-to-hire-ethernet-repair-pro.htm
+- How much do network and wiring repair services cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Computer-Network-or-Wiring-Install-or-Repair
+- How do I easily wire my office for internet? — Ask MetaFilter — https://ask.metafilter.com/331523/How-do-I-easily-wire-my-office-for-internet
