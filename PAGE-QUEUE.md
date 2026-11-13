@@ -1120,7 +1120,7 @@ LIVE | security-camera-installation-kensington-brooklyn-ny | Security Camera Ins
 LIVE | security-camera-installation-madison-brooklyn-ny | Security Camera Installation | Madison, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-installation-midwood-brooklyn-ny | Security Camera Installation | Midwood, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-installation-ocean-parkway-brooklyn-ny | Security Camera Installation | Ocean Parkway, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-13T14:26Z max-burn REBUILD | security-camera-installation-park-slope-brooklyn-ny | Security Camera Installation | Park Slope, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | security-camera-installation-park-slope-brooklyn-ny | Security Camera Installation | Park Slope, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-park-versailles-bronx-ny | Security Camera Installation | Park Versailles, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-prospect-lefferts-gardens-brooklyn-ny | Security Camera Installation | Prospect Lefferts Gardens, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-installation-prospect-park-south-brooklyn-ny | Security Camera Installation | Prospect Park South, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
