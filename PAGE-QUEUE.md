@@ -1128,7 +1128,7 @@ BUILDING 2026-11-13T14:26Z max-burn REBUILD | security-camera-installation-ridge
 REBUILD | security-camera-installation-schuylerville-bronx-ny | Security Camera Installation | Schuylerville, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-sea-gate-brooklyn-ny | Security Camera Installation | Sea Gate, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-installation-south-slope-brooklyn-ny | Security Camera Installation | South Slope, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-13T14:26Z max-burn REBUILD | security-camera-installation-south-williamsburg-brooklyn-ny | Security Camera Installation | South Williamsburg, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | security-camera-installation-south-williamsburg-brooklyn-ny | Security Camera Installation | South Williamsburg, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-spuyten-duyvil-bronx-ny | Security Camera Installation | Spuyten Duyvil, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-13T14:41Z max-burn REBUILD | security-camera-installation-sunset-park-brooklyn-ny | Security Camera Installation | Sunset Park, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-the-hub-bronx-ny | Security Camera Installation | The Hub, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
