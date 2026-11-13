@@ -84,6 +84,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 
 2026-11-12 evening (scheduled, 01:55 UTC Nov 13, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2651 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-13T01:53:30Z, 2991 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2178 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected invid-tech westchester county (URL is not on Google; URL is unknown to Google); Request indexing returned "Quota Exceeded" on the first try, because the 10 requests this morning used the daily allowance. Queue unchanged; next run starts at invid-tech westchester county.
 
+2026-11-13 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 10 requested, 7 indexed (gw hudson valley; fiber-optic hudson square/sunset park/williamsburg/new springville/harlem/gowanus), 0 failed, 2674 queued. Not-indexed URLs were Discovered - currently not indexed or URL is unknown to Google. gw orange county's first Request-indexing click closed the live-test dialog with no result; reloading the page fixed it. "Quota Exceeded" on the 11th request (fiber-optic port richmond, URL is unknown to Google), which stays QUEUED; next run starts there.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-10-29: brand price pages NOT on Google per URL Inspection API (184). Highest-search brands first, NYC areas first. Request these before everything else. -->
@@ -265,12 +267,12 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/invid-tech-camera-installation-prices-queens | INDEXED 2026-11-12
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/invid-tech-camera-installation-prices-long-island | REQUESTED 2026-11-12
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/invid-tech-camera-installation-prices-nassau-county | INDEXED 2026-11-12
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/invid-tech-camera-installation-prices-westchester-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/gw-security-camera-installation-prices-brooklyn | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/gw-security-camera-installation-prices-hudson-valley | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/gw-security-camera-installation-prices-orange-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/ens-security-camera-installation-prices-brooklyn | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eyemax-camera-installation-prices-brooklyn | QUEUED
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/invid-tech-camera-installation-prices-westchester-county | REQUESTED 2026-11-13
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/gw-security-camera-installation-prices-brooklyn | REQUESTED 2026-11-13
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/gw-security-camera-installation-prices-hudson-valley | INDEXED 2026-11-13
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/gw-security-camera-installation-prices-orange-county | REQUESTED 2026-11-13
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/ens-security-camera-installation-prices-brooklyn | REQUESTED 2026-11-13
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eyemax-camera-installation-prices-brooklyn | REQUESTED 2026-11-13
 
 
 2026-10-01 | https://www.abstractenterprisessecuritysystems.com/our-cameras | REQUESTED 2026-10-24
@@ -485,17 +487,17 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-pelham-bay-bronx-ny | REQUESTED 2026-10-28
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-long-island-city-queens-ny | INDEXED 2026-10-28
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-mott-haven-bronx-ny | REQUESTED 2026-10-28
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-great-kills-staten-island-ny | QUEUED (quota hit 2026-10-28, retry next run)
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-hudson-square-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-sunset-park-brooklyn-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-astoria-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-williamsburg-brooklyn-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-maspeth-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-parkchester-bronx-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-new-springville-staten-island-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-harlem-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-gowanus-brooklyn-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-mott-haven-bronx-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-great-kills-staten-island-ny | REQUESTED 2026-11-13
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-hudson-square-manhattan-ny | INDEXED 2026-11-13
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-sunset-park-brooklyn-ny | INDEXED 2026-11-13
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-astoria-queens-ny | REQUESTED 2026-11-13
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-williamsburg-brooklyn-ny | INDEXED 2026-11-13
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-maspeth-queens-ny | REQUESTED 2026-11-13
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-parkchester-bronx-ny | REQUESTED 2026-11-13
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-new-springville-staten-island-ny | INDEXED 2026-11-13
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-harlem-manhattan-ny | INDEXED 2026-11-13
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-gowanus-brooklyn-ny | INDEXED 2026-11-13
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-mott-haven-bronx-ny | REQUESTED 2026-11-13
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-port-richmond-staten-island-ny | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-flatiron-manhattan-ny | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-college-point-queens-ny | QUEUED
