@@ -1132,7 +1132,7 @@ BUILDING 2026-11-13T14:26Z max-burn REBUILD | security-camera-installation-south
 REBUILD | security-camera-installation-spuyten-duyvil-bronx-ny | Security Camera Installation | Spuyten Duyvil, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-13T14:41Z max-burn REBUILD | security-camera-installation-sunset-park-brooklyn-ny | Security Camera Installation | Sunset Park, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-the-hub-bronx-ny | Security Camera Installation | The Hub, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | security-camera-installation-windsor-terrace-brooklyn-ny | Security Camera Installation | Windsor Terrace, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T14:43Z max-burn REBUILD | security-camera-installation-windsor-terrace-brooklyn-ny | Security Camera Installation | Windsor Terrace, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-woodlawn-heights-bronx-ny | Security Camera Installation | Woodlawn Heights, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | structured-cabling-installation-bedford-park-bronx-ny | Structured Cabling Installation | Bedford Park, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | structured-cabling-installation-boerum-hill-brooklyn-ny | Structured Cabling Installation | Boerum Hill, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
