@@ -5795,3 +5795,38 @@ Rebuild of a crawled-not-indexed template page. Up-link /security-camera-install
 - How much does it cost to install a security camera system in the Bronx? — Handoff cost page — https://www.handoff.ai/construction-costs/install-a-security-camera-system/bronx-ny
 - Who installs surveillance cameras near the Bronx? — Thumbtack — https://thumbtack.com/ny/bronx/security-camera-install
 - How much do security camera installation companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Bronx-NY/Surveillance-Cameras-Install-or-Repair
+
+## Midwood, Brooklyn — /security-camera-installation-midwood-brooklyn-ny (factory research, 2026-11-13)
+
+- Precinct: the NYPD 70th Precinct covers Midwood, Fiske Terrace, Ditmas Park and Prospect Park South; station house at 154 Lawrence Avenue, Brooklyn 11230 — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/70th-precinct.page
+- 70th Precinct CompStat, week 11/2/2026–11/8/2026 (Vol. 33 No. 45): burglary YTD 80 in 2026 vs 117 in 2025 (-31.6%); robbery YTD 111 vs 168 (-33.9%); grand larceny YTD 361 vs 402 (-10.2%); grand larceny auto YTD 93 vs 119 (-21.8%), but 28-day GLA up 9 vs 8 (+12.5%) — https://home4.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-070pct.pdf
+- Back-window burglary pattern (CBS New York, Oct 15 2017): investigators reviewed home surveillance along East 31st and East 32nd Streets; the burglar walked through a front yard into backyards, removed window screens and entered rear windows; at one house he stacked four chairs and a window lock stopped him; neighbor Moshe Loketch supplied video; the 70th Precinct linked at least 10 cases. Quote, resident: "Very neatly took out screens and got in through windows in the back." — https://www.cbsnews.com/amp/newyork/news/midwood-brooklyn-burglaries
+- Avenue J burglary (CBS New York, June 22 2015): surveillance video shows a man pry open a window, remove the screen, enter and later put the screen back; 11 people were in the house. Quote, Yonah Gugenheim: "There were 11 people here at the time, and you know, people were awake, and nobody detected him." — https://www.cbsnews.com/amp/newyork/news/midwood-brooklyn-burglary-suspect
+- Porch theft (News12 Brooklyn, Sept 18 2019): a thief was caught on camera stealing a package from a Midwood porch; a neighbor chased and stopped him (no street given) — https://brooklyn.news12.com/neighbor-stops-wouldbe-porch-pirate-in-midwood-41068714
+- Coney Island Avenue grocery robbery (ABC7, Dec 2022): about 1 p.m. an armed man took $6,000 from a 49-year-old employee; NYPD released surveillance video of him demanding money at the register — https://abc7ny.com/brooklyn-robbery-armed-in-midwood-grocery-store-6/12558221/
+- LPC Permit Guidebook, Chapter 11 (Health & Safety): security cameras "must be well spaced to avoid a cluttered, haphazard appearance"; small buildings: "no more than two security cameras can be installed for every 25 feet of street frontage"; large buildings: no more than three per 25 feet; staff can issue permits for cameras; conduit "must be concealed by going through plain masonry or wall cladding behind the installation"; staff may approve about ten inches of visible conduit if concealment is impossible; surface conduit painted to match and never on decorative surfaces; in-kind replacement of existing cameras is exempt from elevation drawings; LPC contact 212-669-7817 — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- Fiske Terrace–Midwood Park Historic District: designated by LPC March 2008, 250 houses, Brooklyn's 20th historic district, many in Arts and Crafts, Colonial Revival and Dutch Colonial Revival styles, built mostly by two local builders in the early 20th century — https://www.brownstoner.com/history/fiske-terracemi
+- Housing stock: freestanding Victorian homes on East 19th Street; detached brick houses with bay windows and stoops; semi-detached Tudors; red-brick two-families on East 13th through 16th Streets; six-story prewar apartment houses on Kings Highway, Avenue I and Ocean Avenue; Avenue J is the main commercial spine (kosher bakeries, falafel stands, halal restaurants); Kings Highway, Coney Island Avenue and Nostrand Avenue are named corridors; Avenue M described as a street of single-family houses — https://www.cityneighborhoods.nyc/midwood
+- Community camera registries: Boro Park Shomrim (adjacent neighborhood) asks residents and businesses to register their cameras' locations so volunteers can request footage quickly after a nearby crime (BoroPark24, Feb 24 2023). Quote: "These cameras are perfectly situated to capture these crimes." — https://www.boropark24.com/news/boro-park-shomrim-growing-their-camera-network
+- Ring ended the Neighbors-app tool for police to request footage (CBS New York, Jan 25 2024); police can still knock on doors, ask, or get a warrant. Quote, Albert Fox Cahn (S.T.O.P.): "these systems are just one court order away from being used as a policing tool." — https://www.cbsnews.com/amp/newyork/news/ring-says-option-for-police-to-request-footage-from-neighbors-app-no-longer-exists
+- City business-camera network (PIX11 via Yahoo, May 17 2024): Fusus cloud platform lets businesses share camera video with the NYPD; businesses opt in through their BIDs and choose how and when police can access cameras; expanding to 10 precincts. Quote, Mayor Adams: "This tech will allow information to be shared between businesses and the NYPD faster than ever before." — https://www.yahoo.com/news/nyc-seeks-rein-retail-theft-104102742.html
+- NY Civil Rights Law §52-a: owner or tenant of residential property has a private right of action against anyone who installs a video imaging device on adjoining property to record recreational activities in their backyard without written consent, with intent to harass, annoy or alarm, or to threaten — https://www.nysenate.gov/legislation/laws/CVR/52-A
+- HPD violations / 311 complaints / DOB permits for cameras in Midwood: EMPTY (not retrieved)
+- Midwood-specific Reddit threads on camera installation: EMPTY
+- Yelp reviews of camera installers in Midwood: EMPTY
+
+### Questions people ask — Security Camera Installation in Midwood
+- PAA (Google): EMPTY
+- PASF (Google): EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Reddit: EMPTY
+- Yelp: EMPTY
+- How many cameras can go on the front of a house in a historic district, and does it need an LPC permit? — LPC Permit Guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- Can the camera wire run on the outside of a landmarked facade? — LPC Permit Guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- How do I catch someone coming through the backyard to a rear window? — CBS New York — https://www.cbsnews.com/amp/newyork/news/midwood-brooklyn-burglaries
+- Can police get my camera footage without asking me? — CBS New York (Ring) — https://www.cbsnews.com/amp/newyork/news/ring-says-option-for-police-to-request-footage-from-neighbors-app-no-longer-exists
+- Should I register my camera with a community patrol? — BoroPark24 — https://www.boropark24.com/news/boro-park-shomrim-growing-their-camera-network
+- Can my neighbor's camera point into my backyard? — NY Civil Rights Law 52-a — https://www.nysenate.gov/legislation/laws/CVR/52-A
+- Can a store share its camera feed with the NYPD, and who controls access? — PIX11/Yahoo — https://www.yahoo.com/news/nyc-seeks-rein-retail-theft-104102742.html
+- Is crime going up or down in Midwood? — NYPD 70th Precinct CompStat — https://home4.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-070pct.pdf
