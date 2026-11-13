@@ -1180,7 +1180,7 @@ LIVE | tv-installation-city-line-brooklyn-ny | TV Installation | City Line, Broo
 REBUILD | tv-installation-concourse-bronx-ny | TV Installation | Concourse, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | tv-installation-coney-island-brooklyn-ny | TV Installation | Coney Island, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-country-club-bronx-ny | TV Installation | Country Club, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-13T15:51Z max-burn REBUILD | tv-installation-dumbo-brooklyn-ny | TV Installation | Dumbo, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | tv-installation-dumbo-brooklyn-ny | TV Installation | Dumbo, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-13T15:51Z max-burn REBUILD | tv-installation-east-flatbush-brooklyn-ny | TV Installation | East Flatbush, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | tv-installation-east-new-york-brooklyn-ny | TV Installation | East New York, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | tv-installation-east-williamsburg-brooklyn-ny | TV Installation | East Williamsburg, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
