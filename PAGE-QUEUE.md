@@ -1147,7 +1147,7 @@ REBUILD | structured-cabling-installation-highbridge-bronx-ny | Structured Cabli
 REBUILD | structured-cabling-installation-hudson-hill-bronx-ny | Structured Cabling Installation | Hudson Hill, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | structured-cabling-installation-jerome-park-bronx-ny | Structured Cabling Installation | Jerome Park, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | structured-cabling-installation-longwood-bronx-ny | Structured Cabling Installation | Longwood, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | structured-cabling-installation-madison-brooklyn-ny | Structured Cabling Installation | Madison, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T14:52Z max-burn REBUILD | structured-cabling-installation-madison-brooklyn-ny | Structured Cabling Installation | Madison, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | structured-cabling-installation-park-versailles-bronx-ny | Structured Cabling Installation | Park Versailles, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | structured-cabling-installation-prospect-lefferts-gardens-brooklyn-ny | Structured Cabling Installation | Prospect Lefferts Gardens, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | structured-cabling-installation-ridgewood-brooklyn-ny | Structured Cabling Installation | Ridgewood, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
