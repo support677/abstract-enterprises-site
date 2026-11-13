@@ -5942,3 +5942,50 @@ Rebuild of a crawled-not-indexed template page. Up-link /security-camera-install
 - Google PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY
 - Reddit (r/Brooklyn, r/AskNYC, r/homesecurity) for Prospect Park South cameras: EMPTY
 - Yelp: EMPTY
+
+## South Williamsburg, Brooklyn — /security-camera-installation-south-williamsburg-brooklyn-ny (factory research, 2026-11-13)
+
+**Method note (research matrix only, not for the page):** 16 web searches and 14 page fetches. Live Google PAA/PASF, AnswerThePublic, Bing/DuckDuckGo question boxes, Yelp and Reddit threads were not retrievable; those are EMPTY. Questions below come from Q&A columns, directory FAQs and news.
+
+**Crime counts (90th Precinct, which covers Williamsburg including South Williamsburg)**
+- NYPD CompStat, 90th Precinct, report week 9/7/2026–9/13/2026: burglary year-to-date 196 in 2026 vs 181 in 2025 (+8.3%); robbery 115 vs 143 (−19.6%); grand larceny 487 vs 513 (−5.1%); grand larceny auto 99 vs 94 (+5.3%); felony assault 212 vs 221 (−4.1%); seven major crimes total 1,121 vs 1,168 (−4.02%). 28-day: burglary 18 vs 15 (+20.0%), robbery 24 vs 18 (+33.3%), GLA 11 vs 8 (+37.5%), grand larceny 50 vs 71 (−29.6%). Petit larceny YTD 826 vs 808 (+2.2%); retail theft YTD 195 vs 215 (−9.3%). Figures preliminary. — https://home4.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-090pct.pdf
+
+**Street incidents recorded on video (sidewalk-facing camera angle)**
+- April 20, 2026: two young men on bicycles targeted an elderly Jewish man at Williamsburg Street and Lee Avenue; one swerved in front of him, the second came from behind and knocked off his black hat; a 36-second video was shared by Williamsburg News; the 90th Precinct opened a hate crime investigation. NYPD Commissioner Jessica Tisch: in Q1 2026, 55 percent of confirmed hate crimes citywide were antisemitic; "the vast majority of our hate crimes are antisemitic in nature." — https://www.algemeiner.com/2026/04/21/orthodox-jews-harassed-brooklyn-antisemitic-hate-crimes-surge-new-york-city-mamdani/
+- April 2022 (a Friday, around 8 p.m.): six men attacked a 21-year-old Hasidic man near Gerry Street and Harrison Avenue; surveillance footage, described as blurry, shows the group approaching and kicking and punching him; a 16-year-old was arrested; a Williamsburg resident told CBS the street is dark at night and usually empty. — https://www.cbsnews.com/newyork/news/caught-on-video-group-beats-hasidic-man-in-apparently-unprovoked-attack-in-williamsburg-brooklyn
+- March 2021 (a Friday, 6:15 p.m.): a man grabbed an $8,000 shtreimel off a 27-year-old Hasidic man's head at Wallabout Street and Marcy Avenue; "Surveillance video captured a man grabbing the hat off the victim's head"; suspect description given as hooded sweatshirt and gray sweatpants. — https://abc7ny.com/shtreimel-stolen-hasidic-jew-brooklyn-williamsburg/10418934/
+
+**City and state camera programs**
+- January 2020: Mayor de Blasio announced 100 new NYPD security cameras for Williamsburg, Crown Heights and Borough Park; first 30 by March, remaining 70 placed with community input; de Blasio: the cameras "will increase the NYPD's visibility into these neighborhoods." — https://www.jta.org/quick-reads/new-york-city-will-install-100-new-security-cameras-in-haredi-orthodox-brooklyn-neighborhoods
+- April 29, 2013: NYCHA completed CCTV at Williams Plaza (Jonathan Williams Plaza): 30 new cameras, 43 upgraded, all five buildings covered, $430,000 in City Council funds via Council Member Stephen Levin; locations chosen by NYCHA, NYPD and the resident association to watch entrances, street corners, elevators and equipment rooms; footage accessible to NYPD when crime is reported. Resident Association President Chaim Babad: "The installation of these cameras really makes a difference in our community by helping to reduce crime." — https://www.nyc.gov:443/site/nycha/about/press/pr-2013/nycha-completes-williams-plaza-cctv-camera-installation.page
+- September 8, 2026: Governor Hochul announced a record $70 million in Securing Communities Against Hate Crimes grants (DCJS) to 290 nonprofits; uses include strengthening facilities and cybersecurity; Hochul named advanced cameras and alarm systems as examples; more than $201 million for 2,035 projects since 2021; grant-funded cameras helped stop the perpetrator in a swastika incident at Magen David Yeshivah in Brooklyn. Hochul: "Money says something to a community, that we understand what they're going through." — https://governor.ny.gov/news/video-audio-photos-rush-transcript-ahead-jewish-high-holidays-governor-hochul-announces
+- Local Law 56 of 2025 requires the NYPD to publish more detail on its surveillance technology, including fixed cameras, who outside the department can access the data, and data-sharing policies; passed April 10, 2025. — https://intro.nyc/local-laws/2025-56
+
+**Mailrooms, lobbies and packages**
+- CBS New York, December 2023: a woman on an e-bike entered a Bedford Avenue building through the main entrance, went into the mail room and took packages (Oct 18); she took numerous packages from a Kent Avenue building (Dec 6). — https://www.cbsnews.com/newyork/news/woman-riding-e-bike-steals-packages-from-buildings-in-williamsburg-brooklyn-police-say/
+- Brick Underground "Realty Bites": a Williamsburg renter's building had entryway cameras but the landlord would only review footage if police were called. Answers: outside legal process a landlord does not have to show tenants footage; police requests or court orders change that; city buildings are not required to have functioning cameras; Catherine Grad (Himmelstein McConnell Gribben & Joseph): "Yes, there's an argument for the claim that the landlord has this duty"; Jennifer Rozen suggests tenant associations push for locks, intercoms or package lockers. — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
+- July 18, 2016: a $1,400 Bugaboo stroller was taken from the hallway of a building on South 1st Street, left briefly unattended while movers worked. — https://www.dnainfo.com/new-york/20160726/williamsburg/1400-bugaboo-stroller-snatched-from-hallway-of-williamsburg-apt-nypd-says
+
+**Stores and businesses**
+- News 12, March 13, 2026: a group struck 15 times between Feb 22 and March 9, 2026, nine of them Williamsburg businesses, nine incidents within six hours on March 4; at 98 South 4th Street they held a 52-year-old man at gunpoint; at a Greenpoint bakery they pried the front open with a crowbar around 1:45 a.m.; cash, Social Security cards and cellphones taken. — https://brooklyn.news12.com/burglary-spree-targets-williamsburg-businesses-4-people-wanted
+- News 12, April 15, 2024: at Blanc's Gold and Diamonds in Williamsburg around 2 p.m., security video shows a man holding two gold chains while the employee looked away briefly, then running; NYPD valued the chains at over $12,000. — https://brooklyn.news12.com/nypd-williamsburg-jewelry-store-robbed-in-broad-daylight-incident-caught-on-camera
+
+**Co-op/condo hallway cameras and doorbells**
+- Habitat Magazine, Feb 20, 2023: no NYC law bans doorbell cameras in apartment hallways, but co-op rules govern; Debra Guzov: "If you're living in a co-op, you can't just unilaterally do what you'd like to do in the common hallways"; some boards restrict angles, what is recorded and how long footage is kept. — https://habitatmag.com/Publication-Content/Board-Operations/2023/2023-February/Video-Doorbells-Present-a-Conundrum-for-Co-op-and-Condo-Boards
+
+**Cost guides seen (for the AI reality check)**
+- HomeAdvisor Brooklyn surveillance camera install/repair: average $1,416, typical $680–$2,145, low-high $160–$3,500. — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**EMPTY:** Google PAA / PASF / AI Overview text; AnswerThePublic; Bing / DuckDuckGo boxes; Reddit threads specific to South Williamsburg cameras; Yelp 1–3★ reviews of local camera installers; HPD / 311 / DOB records tied to cameras in South Williamsburg; LPC historic district in South Williamsburg (none found).
+
+### Questions people ask — Security Camera Installation in South Williamsburg
+- How do I get my landlord to let me look at security camera footage to identify a package thief? — Brick Underground Q&A (Williamsburg renter) — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
+- Does a landlord have to keep building cameras working? — Brick Underground — same URL
+- Can I put a video doorbell on my apartment door in a co-op hallway? — Habitat Magazine — https://habitatmag.com/Publication-Content/Board-Operations/2023/2023-February/Video-Doorbells-Present-a-Conundrum-for-Co-op-and-Condo-Boards
+- How much does security camera installation cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- How many cameras do you want installed? / What kind of location is this? — HomeAdvisor intake questions — same URL
+- Can grant money pay for cameras at a synagogue, yeshiva or nonprofit? — Governor's announcement — https://governor.ny.gov/news/video-audio-photos-rush-transcript-ahead-jewish-high-holidays-governor-hochul-announces
+- Can a camera identify someone who rides past on a bike? — news (Lee Avenue incident) — https://www.algemeiner.com/2026/04/21/orthodox-jews-harassed-brooklyn-antisemitic-hate-crimes-surge-new-york-city-mamdani/
+- Why was the surveillance footage blurry? — news (Gerry St / Harrison Ave) — https://www.cbsnews.com/newyork/news/caught-on-video-group-beats-hasidic-man-in-apparently-unprovoked-attack-in-williamsburg-brooklyn
+- Do NYPD cameras on the corner mean I don't need my own? — news (2020 NYPD cameras) — https://www.jta.org/quick-reads/new-york-city-will-install-100-new-security-cameras-in-haredi-orthodox-brooklyn-neighborhoods
+- How do I stop package theft from our mail room? — news (Bedford Ave / Kent Ave e-bike thief) — https://www.cbsnews.com/newyork/news/woman-riding-e-bike-steals-packages-from-buildings-in-williamsburg-brooklyn-police-say/
