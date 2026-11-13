@@ -1169,16 +1169,16 @@ LIVE | tv-installation-brighton-beach-brooklyn-ny | TV Installation | Brighton B
 REBUILD | tv-installation-bronx-river-bronx-ny | TV Installation | Bronx River, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | tv-installation-brooklyn-chinatown-brooklyn-ny | TV Installation | Brooklyn Chinatown, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | tv-installation-brooklyn-heights-brooklyn-ny | TV Installation | Brooklyn Heights, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | tv-installation-brooklyn-navy-yard-brooklyn-ny | TV Installation | Brooklyn Navy Yard, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | tv-installation-brownsville-brooklyn-ny | TV Installation | Brownsville, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | tv-installation-bushwick-brooklyn-ny | TV Installation | Bushwick, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | tv-installation-cadman-plaza-brooklyn-ny | TV Installation | Cadman Plaza, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | tv-installation-canarsie-brooklyn-ny | TV Installation | Canarsie, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | tv-installation-carroll-gardens-brooklyn-ny | TV Installation | Carroll Gardens, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T15:35Z max-burn REBUILD | tv-installation-brooklyn-navy-yard-brooklyn-ny | TV Installation | Brooklyn Navy Yard, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T15:35Z max-burn REBUILD | tv-installation-brownsville-brooklyn-ny | TV Installation | Brownsville, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T15:35Z max-burn REBUILD | tv-installation-bushwick-brooklyn-ny | TV Installation | Bushwick, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T15:35Z max-burn REBUILD | tv-installation-cadman-plaza-brooklyn-ny | TV Installation | Cadman Plaza, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T15:35Z max-burn REBUILD | tv-installation-canarsie-brooklyn-ny | TV Installation | Canarsie, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T15:35Z max-burn REBUILD | tv-installation-carroll-gardens-brooklyn-ny | TV Installation | Carroll Gardens, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-city-island-bronx-ny | TV Installation | City Island, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | tv-installation-city-line-brooklyn-ny | TV Installation | City Line, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T15:35Z max-burn REBUILD | tv-installation-city-line-brooklyn-ny | TV Installation | City Line, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-concourse-bronx-ny | TV Installation | Concourse, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | tv-installation-coney-island-brooklyn-ny | TV Installation | Coney Island, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T15:35Z max-burn REBUILD | tv-installation-coney-island-brooklyn-ny | TV Installation | Coney Island, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-country-club-bronx-ny | TV Installation | Country Club, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | tv-installation-dumbo-brooklyn-ny | TV Installation | Dumbo, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-east-flatbush-brooklyn-ny | TV Installation | East Flatbush, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
