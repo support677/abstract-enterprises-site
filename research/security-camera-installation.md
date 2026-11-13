@@ -5989,3 +5989,48 @@ Rebuild of a crawled-not-indexed template page. Up-link /security-camera-install
 - Why was the surveillance footage blurry? — news (Gerry St / Harrison Ave) — https://www.cbsnews.com/newyork/news/caught-on-video-group-beats-hasidic-man-in-apparently-unprovoked-attack-in-williamsburg-brooklyn
 - Do NYPD cameras on the corner mean I don't need my own? — news (2020 NYPD cameras) — https://www.jta.org/quick-reads/new-york-city-will-install-100-new-security-cameras-in-haredi-orthodox-brooklyn-neighborhoods
 - How do I stop package theft from our mail room? — news (Bedford Ave / Kent Ave e-bike thief) — https://www.cbsnews.com/newyork/news/woman-riding-e-bike-steals-packages-from-buildings-in-williamsburg-brooklyn-police-say/
+
+## Ridgewood, Brooklyn — /security-camera-installation-ridgewood-brooklyn-ny (factory research, 2026-11-13)
+
+Geography note: Ridgewood is a Queens neighborhood (104th Precinct, ZIP 11385) on the Brooklyn line; the page is served from the Brooklyn office and Brooklyn price list (see shared background).
+
+**Building lobbies and mail rooms (cameras inside the street door)**
+- April 2, 2019, about 9 p.m.: a woman entered the lobby of an apartment building at 803 Wyckoff Ave (between Putnam Ave and Cornelia St), got into the mail room "through an unsecured entry" and took 15 mail items; "Security personnel at the apartment building discovered the theft upon reviewing surveillance camera footage"; NYPD released video May 8, 2019; 104th Precinct — https://qns.com/2019/05/woman-swiped-15-packages-from-mail-room-of-ridgewood-apartment-building-cops/
+- Dec 30, 2020, about 9:30 p.m.: a man walked up to the front door of 1680 Madison St, rang multiple apartments, gained access, went to the mail room and took a $50 package; 104th Precinct "recovered photos of the suspect from inside the building"; NYPD said burglaries rose 42% citywide in 2020, partly due to package thefts — https://qns.com/2021/01/cops-seek-man-who-stole-package-from-ridgewood-apartment-building
+- June 6, 2019, about 8 a.m.: suspect forced open the front door of a second-floor apartment at 67-12 Fresh Pond Rd, took $3,000 cash, nobody home; security camera footage showed his clothing and backpack — https://qns.com/2019/07/burglar-steals-3000-from-ridgewood-apartment-nypd/
+- Mail theft context: USPS Inspector General found Queens post offices did not properly deploy mail theft mitigation, failed to track keys to relay boxes; complaints nationwide rose from under 60,000 (2018) to 250,000 (2023) — https://www.cbsnews.com/newyork/news/queens-mail-theft-investigation-usps-mismanagement/
+
+**Houses: windows, gates, basement windows**
+- June 17, 2026 (QNS July 7, 2026): suspect cut window screens to enter a first-floor and a second-floor apartment near 70th St and Central Ave between 7 and 10 a.m.; that afternoon near 72nd St and Central Ave he entered a home through a gate, and "a surveillance camera captured him smoking and taking a cellphone call before he broke a rear basement window"; 104th Precinct 81 burglaries through July 5, 2026 vs 85 in 2025 (−4.7%) — https://qns.com/2026/07/burglary-suspect-ridgewood/
+
+**Stores and commercial: gates, back doors, ATMs**
+- 2016 burglary pattern (QNS June 3, 2016): Feb 27 ~5:30 a.m. lock cut on a roll-down metal gate at 466 Woodward Ave, ATM broken, 40 cartons of cigarettes and $600 taken; March 23, 3 a.m., back door pried at 803 Cypress Ave, $17,380 from ATM, and they "damaged the surveillance camera and removed its tape"; April 10 lock on a metal door cut at 2042 Grove St, $17,840; April 18 entry through basement access at 62-86 60th Place; April 26–27 ATM at 853 Wyckoff Ave, $15,760 — https://qns.com/2016/06/burglary-pattern-in-ridgewood/
+- July 27, 2022, shortly after 7:30 a.m.: burglar got into Fabco Shoes, 54-16 Myrtle Ave, past the basement gate by removing one of its locks; took bags, wallets and a register with $65; NYPD released surveillance footage of him filling an orange tote — https://qns.com/2022/08/police-looking-for-burglar-who-stole-items-cash-from-ridgewood-shoe-store/
+- April 22, 2020, around 3:40 p.m.: two thieves forced their way through the secured front door of One Eyed Studios, 1639 Centre St, took about $13,000 of cosmetic hair wigs; police released surveillance video taken at the location — https://qns.com/2020/04/thieves-steal-13000-worth-of-cosmetic-hair-wigs-from-ridgewood-building/
+- June 2023: Myrtle Avenue BID budget $536,541, of which $3,800 for public safety initiatives; 104th Precinct CO Kevin Coleman reported grand larceny auto up 36%, burglaries down 35% YTD; robbery at The Children's Place, 57-37 Myrtle Ave; Coleman: "So rather than engage, we want you to be safe." — https://qns.com/2023/06/myrtle-ave-bid-shares-details-on-a-half-million-dollar-budget-for-upcoming-projects-in-greater-ridgewood-area/
+- City business camera network: "Connect New York" pilot launched May 16, 2024 lets retail businesses link cameras to the NYPD (Fusus, by Axon); voluntary opt-in; businesses choose how and when police can access footage; nine precincts, expanding a 2023 Flushing/College Point demonstration; $1.5 million — https://amny.com/politics/nyc-retail-shops-cameras-nypd-pilot-sharing
+
+**Cars and parking**
+- Oct 25, 2023, about 6:05 p.m.: a 2016 Kia left parked and running in front of 70-08 Forest Ave was stolen, found in Glendale at 65th Place and Central Ave with plates missing; 104th shared a surveillance screenshot — https://qns.com/2023/11/police-suspect-ridgewood-car-thief/
+- April 2023 104th Precinct Community Council: property crimes up 6.4%, grand larceny auto up; Officer Kevin Moran: "Make sure you lock your cars," and advised parking where there may be surveillance so police can see what happens; 38 of 100+ crimes in 28 days in Ridgewood — https://qns.com/2023/04/ridgewoods-104th-precinct-reveals-uptick-in-property-crimes-in-the-past-month-during-community-council-meeting/
+- April 2026 G-COP (104th Precinct civilian patrol) meeting: auto theft increasing especially in Middle Village and Maspeth; catalytic converter kit distribution April 18 — https://qns.com/2026/04/g-cop-104th-precinct-renewed-protection/
+
+**Rules that touch camera installs**
+- LPC Permit Guidebook ch. 11: staff can approve "no more than two security cameras ... for every 25 feet of street frontage" on small buildings (three on large); "must be well spaced to avoid a cluttered, haphazard appearance"; "as small as possible and painted to blend"; conduit concealed, "a maximum of approximately ten inches of visible conduit" — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- NY Civil Rights Law §52-a: owner or tenant of residential property can sue someone who installs a video device on adjoining property to record backyard recreational activities without written consent with intent to harass, annoy or alarm — https://www.nysenate.gov/legislation/laws/CVR/52-A
+
+**Pricing seen**
+- HomeAdvisor Brooklyn: average $1,416, typical $680–$2,145, full range $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Thumbtack Queens: about $100 per single camera line; whole system $1,000–$2,200 — https://www.thumbtack.com/ny/queens/home-security-camera-installers
+- Search for "security camera installation Ridgewood NY" returns Ridgewood NJ and Ridge NY (Suffolk) listings (HomeAdvisor Ridgewood-NJ, Angi Ridge-NY, hometechnologyreview Ridge NY and Ridgewood NJ) — https://homeadvisor.com/tloc/Ridgewood-NJ/Surveillance-Cameras-Install-or-Repair
+
+**EMPTY:** Google PAA, PASF, AI Overview, AnswerThePublic, Bing/DuckDuckGo SERP features (not visible in search tool); Reddit r/ridgewood threads about cameras (none returned); Yelp reviews of camera installers near Ridgewood; HPD/311/DOB camera-specific records for Ridgewood.
+
+### Questions people ask — Security Camera Installation in Ridgewood
+- How many cameras do you want installed? — HomeAdvisor Brooklyn page — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- What kind of video surveillance features do you want? — HomeAdvisor Brooklyn page — same URL
+- What kind of location is this? — HomeAdvisor Brooklyn page — same URL
+- How much is it to install home security cameras? — Thumbtack Queens — https://www.thumbtack.com/ny/queens/home-security-camera-installers
+- Where should you install security cameras? — Thumbtack Queens — same URL
+- Who can install security cameras? — Thumbtack Queens — same URL
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Reddit / Yelp — EMPTY
