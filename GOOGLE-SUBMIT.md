@@ -3487,3 +3487,4 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-13 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-south-williamsburg-brooklyn-ny | QUEUED
 2026-11-13 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-ridgewood-brooklyn-ny | QUEUED
 2026-11-13 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-park-slope-brooklyn-ny | QUEUED
+2026-11-13 | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-gowanus-brooklyn-ny | QUEUED
