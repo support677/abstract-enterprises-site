@@ -971,7 +971,7 @@ LIVE | alarm-installation-east-flatbush-brooklyn-ny | Alarm Installation | East 
 LIVE | alarm-installation-east-new-york-brooklyn-ny | Alarm Installation | East New York, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | alarm-installation-east-tremont-bronx-ny | Alarm Installation | East Tremont, Bronx | up /alarm-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | alarm-installation-east-williamsburg-brooklyn-ny | Alarm Installation | East Williamsburg, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-13T01:58Z max-burn REBUILD | alarm-installation-flatlands-brooklyn-ny | Alarm Installation | Flatlands, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | alarm-installation-flatlands-brooklyn-ny | Alarm Installation | Flatlands, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-13T01:58Z max-burn REBUILD | alarm-installation-midwood-brooklyn-ny | Alarm Installation | Midwood, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-13T01:58Z max-burn REBUILD | alarm-installation-new-utrecht-brooklyn-ny | Alarm Installation | New Utrecht, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | alarm-installation-prospect-lefferts-gardens-brooklyn-ny | Alarm Installation | Prospect Lefferts Gardens, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
