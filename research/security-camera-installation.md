@@ -5830,3 +5830,44 @@ Rebuild of a crawled-not-indexed template page. Up-link /security-camera-install
 - Can my neighbor's camera point into my backyard? — NY Civil Rights Law 52-a — https://www.nysenate.gov/legislation/laws/CVR/52-A
 - Can a store share its camera feed with the NYPD, and who controls access? — PIX11/Yahoo — https://www.yahoo.com/news/nyc-seeks-rein-retail-theft-104102742.html
 - Is crime going up or down in Midwood? — NYPD 70th Precinct CompStat — https://home4.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-070pct.pdf
+
+## Madison, Brooklyn — /security-camera-installation-madison-brooklyn-ny (factory research, 2026-11-13)
+
+- Madison boundaries: Kings Highway (north), Avenue U (south), Ocean Avenue (west), Nostrand/Gerritsen Avenues (east); Quentin Road, Avenue R and Avenue S run parallel inside; housing "two-family brick houses, limestone rowhouses, and modest single-family homes" built mainly 1910–1930, larger apartment buildings along Kings Highway and Ocean Avenue, detached brick and stucco homes with driveways on interior blocks; B/Q line is main rail link; James Madison High School est. 1925; Madison Jewish Center 1930 — https://www.cityneighborhoods.nyc/madison
+- Untapped New York (Dec 2022): Madison is a subsection of Sheepshead Bay, one of the last Brooklyn neighborhoods developed, beginning 1877; bordered by Kings Highway, Avenue U, Nostrand Avenue and Ocean Avenue; tree-lined streets, historic homes "many of which sell for well over $1 million"; a number of synagogues and Jewish community centers; Wyckoff-Bennett homestead at 1669 E 22nd St dates to 1766, housed German soldiers fighting for the British in the Revolutionary War, original woodwork, country kitchen and front porch remain — https://untappedcities.com/2022/12/07/secrets-sheepshead-bay-brooklyn/6/
+- 1702 East 28th Street (listing, "Madison Brooklyn NY 11229"): "beautifully detached brick home", built 1925, 32'x100' lot, building 19'x58', "Private driveway", "2 Car Garage", "fully finished basement with bath with shower" and separate entrance, "Alarm System" — https://colemanrealestate.com/ListingDetails/2918968/1702-East-28th-Street-Madison-Brooklyn-NY-11229
+- 2401 Avenue R (listing, "located on one of Madison's..."): "a fully detached Dutch Colonial" on "an oversized corner lot" — https://www.nestseekers.com/5098631/2401-avenue-r-brooklyn-ny-11229-usa-located-on-one-of-madisons
+- News 12 Brooklyn (published Feb 12, 2026): Jan. 14, just before 8 p.m., near Avenue U and East 26th Street, suspects smashed a car's driver's side window and took a suitcase holding about $120,000 in jewelry, fled east on Avenue U in a gray Dodge Caravan; three men sought; article names no video — https://brooklyn.news12.com/suitcase-holding-120000-worth-of-jewelry-swiped-from-car-in-sheepshead-bay-3-men-sought
+- News 12 Brooklyn (published Jan 8, 2026): Nov. 26 just before 9 a.m. near Ford Street and Avenue V (south of Madison, Sheepshead Bay), a thief entered a delivery van while the 64-year-old driver made a delivery and took about $11,000 in over-the-counter medication — nearby context only, not Madison — https://brooklyn.news12.com/man-wanted-for-snatching-11000-worth-of-medication-from-delivery-van-in-sheepshead-bay
+- News 12 Brooklyn (May 8, 2025): two men forced the cashier at Ideal Food Market on Nostrand Avenue to open the register and took $150, April 27, 2025; no cross street given, so not placed in Madison — https://brooklyn.news12.com/police-2-men-stole-cash-from-market-on-nostrand-avenue
+- CBS New York (Oct 15, 2017): 70th Precinct burglary pattern in Midwood/Flatbush, investigators reviewed surveillance along East 31st and East 32nd Streets; burglars removed window screens at the back of homes and entered through rear windows; neighbor Moshe Loketch's video showed the suspect entering from the front yard and moving through backyards — north of Kings Highway, nearby context only — https://www.cbsnews.com/newyork/news/midwood-brooklyn-burglaries/
+- 2306 Ocean Avenue (Openigloo "Madison"): former tenant reviews "packages get lost all the time" and "No working cameras in the building just a decoration." — https://www.openigloo.com/building/nyc/3184122-3068250027/brooklyn-madison-2306-ocean-avenue-11229
+- 2331 Ocean Avenue co-op, built 1955, 6 floors, indoor parking with a waiting list, laundry area, "security cameras" listed — https://www.cityrealty.com/nyc/midwood/2331-ocean-avenue/75117
+- 2301 Kings Highway co-op (1936, 96 apartments) carries addresses on three streets (Kings Highway, East 23rd, East 24th) — https://www.cityrealty.com/nyc/midwood/2301-kings-highway/94655
+- 2442 Ocean Avenue Residences (2019, 105 units): doorman "Virtual", package room, assigned parking — https://streeteasy.com/building/2442-ocean-avenue-residences?similar=1
+- NYC Mayor's Office (May 16, 2024): NYPD pilot with Fusus by Axon lets businesses register cameras (location only) or integrate them (live feed) on owner-chosen terms, free, started June 2023 in the 109th Precinct with 35 businesses, expanding to nine more precincts; Mayor Adams: "We cannot allow shoplifters and organized crime rings to prey on businesses any longer." — https://nyc.gov/office-of-the-mayor/news/383-24/mayor-adams-new-pilot-program-combat-retail-theft-create-efficiencies-improve
+- BK Reader (Feb 15, 2022): UJA-Federation and JCRC-NY $250,000 fund for at least 50 small Brooklyn synagogues (capacity under 200, little or no staff); packages can include new doors, locks and video cameras; about 250 small synagogues in Brooklyn, most lacking basic security per UJA; neighborhoods named Williamsburg, Crown Heights, Borough Park, Flatbush, Midwood, Kensington (Madison not named) — https://bkreader.com/2022/02/15/small-synagogues-in-bk-to-get-250k-in-security-upgrades-amidst-uptick-in-antisemitic-attacks/
+- NYS DOS: a Security or Fire Alarm Installer is one who installs/services systems that detect "intrusion, break-in, movement, sound or fire"; license term two years; page does not mention cameras by name — https://dos.ny.gov/security-or-fire-alarm-installer
+- Deep Sentinel (vendor blog): NY one-party audio consent, eavesdropping Penal Law 250.05; indoor cameras barred from bathrooms, bedrooms of guests, changing rooms, live-in houseworker quarters (Penal Law 250.45); Backyard Surveillance Law is civil — https://www.deepsentinel.com/blogs/home-security/new-york-video-surveillance-laws/
+- Thumbtack Brooklyn: "anywhere from $100 for a single-camera line installation to $1,000-$2,200 for an entire system" — https://www.thumbtack.com/ny/brooklyn/home-security-camera-installers
+- HomeAdvisor Brooklyn: average "$1,416", typical range "$680 - $2,145" — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Operation Safe Shopper (BP Adams, 2016-2017) camera grants went to Coney Island, Crown Heights, Clinton Hill/Fort Greene, Brownsville, Park Slope, Ditmas Park; Madison/Kings Highway not named — https://www.brooklyneagle.com/articles/2016/07/13/security-cameras-coming-to-brooklyn-to-help-investigate-local-crimes/
+- HPD/311/DOB data on cameras in 11229: EMPTY (not pulled)
+- Reddit threads about cameras in Madison: EMPTY
+- LPC: no Madison historic district found; Wyckoff-Bennett Homestead individual landmark (private home)
+- Yelp 1–3★ camera installers near Madison: EMPTY
+
+### Questions people ask — Security Camera Installation in Madison
+- Google PAA: EMPTY (not accessible in build env)
+- PASF: EMPTY (not accessible in build env)
+- AnswerThePublic: EMPTY (not accessible in build env)
+- Bing / DuckDuckGo: EMPTY (not accessible in build env)
+- Reddit: EMPTY
+- Yelp: EMPTY
+- How much is it to install home security cameras? — Thumbtack FAQ — https://www.thumbtack.com/ny/brooklyn/home-security-camera-installers
+- Where should you install security cameras? — Thumbtack FAQ — https://www.thumbtack.com/ny/brooklyn/home-security-camera-installers
+- Who can install security cameras? — Thumbtack FAQ — https://www.thumbtack.com/ny/brooklyn/home-security-camera-installers
+- How many cameras do you want installed? / What kind of video surveillance features do you want? / What kind of location is this? — HomeAdvisor intake form — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Do you need a license for surveillance in New York? — Deep Sentinel heading — https://www.deepsentinel.com/blogs/home-security/new-york-video-surveillance-laws/
+- Can cameras record audio in New York? — Deep Sentinel heading "The Tricky Issue of Audio" — https://www.deepsentinel.com/blogs/home-security/new-york-video-surveillance-laws/
+- Can a business share its cameras with the NYPD? — NYC Mayor's Office release — https://nyc.gov/office-of-the-mayor/news/383-24/mayor-adams-new-pilot-program-combat-retail-theft-create-efficiencies-improve
