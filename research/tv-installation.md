@@ -1433,3 +1433,42 @@ None of these come from verified PAA, PASF, AnswerThePublic, Bing or DuckDuckGo 
 - How much does TV mount installation cost on brick or concrete? — Angi cost guide — https://www.angi.com/articles/how-much-does-it-cost-mount-tv.htm
 - Can I put up an outdoor antenna in NYCHA? — NYCHA house rules — https://www.nyc.gov/assets/nycha/downloads/pdf/Highlights_of_House_Rules_Lease_Law_and_NYCHA_Policy.pdf
 - Does Big Apple Connect include a cable box I can connect to my mounted TV? — ABC7 — https://abc7ny.com/post/big-apple-connect-nycha-free-internet-new-york-city/12240424/
+
+## Brooklyn Navy Yard, Brooklyn — /tv-installation-brooklyn-navy-yard-brooklyn-ny (factory research, 2026-11-13)
+
+- BNYDC Tenant Manual (2026): alterations generally need "plans of the proposed work ... submitted to and approved by BNYDC"; licensees may not make any alterations without submitting plans; confirm "Non-Material Alterations" with Property Management before starting; unapproved construction and unclosed permits are each a default under leases and licenses — https://www.brooklynnavyyard.org/wp-content/uploads/2026/06/Updated_Tenant-Manual-2026.pdf
+- Tenant Manual: "electrical work cannot be performed until approved by BNYDC" and "Any and all electrical work must be performed by a licensed electrician" (bears on adding an outlet behind a TV) — https://www.brooklynnavyyard.org/wp-content/uploads/2026/06/Updated_Tenant-Manual-2026.pdf
+- Tenant Manual: BNYDC must have up-to-date Certificates of Insurance on file for each tenancy, tracked by the compliance firm Jones; requirements sit in lease Article 15 / Exhibit F/E or license Section 11 / Exhibit B; no separate contractor limits published — https://www.brooklynnavyyard.org/wp-content/uploads/2026/06/Updated_Tenant-Manual-2026.pdf
+- Tenant Manual: freight elevators shut 8 p.m.–5 a.m. Monday–Friday, no freight service Saturday, Sunday or federal holidays; after-hours freight $50/hour per car 8–11 p.m., four-hour minimum ($200) 11 p.m.–5 a.m. and weekends; request FreightRequest@bnydc.org two business days ahead with building number, date, time frame and car number — https://www.brooklynnavyyard.org/wp-content/uploads/2026/06/Updated_Tenant-Manual-2026.pdf
+- Tenant Manual: loading docks must be kept clear except while loading/unloading; packages may not be left in shared public areas; no storing materials, equipment or rubbish in common hallways (NYS Fire Code); contractor waste disposed per Tenant Alteration Guidelines, "If waste is left behind, the tenant or licensee will incur penalties" (TV boxes and foam) — https://www.brooklynnavyyard.org/wp-content/uploads/2026/06/Updated_Tenant-Manual-2026.pdf
+- Tenant Manual: central waste collection buildings include 3, 5, 77, 131, 152, 212, 275, 280, 292 and 303; single-tenant buildings hire their own hauler — https://www.brooklynnavyyard.org/wp-content/uploads/2026/06/Updated_Tenant-Manual-2026.pdf
+- Tenant Manual: four telecom providers have Yard infrastructure (Brooklyn Fiber, Crown Castle, Spectrum, Verizon); tenants coordinate telecom-closet access with their Property Manager (bears on streaming/IPTV and signage players) — https://www.brooklynnavyyard.org/wp-content/uploads/2026/06/Updated_Tenant-Manual-2026.pdf
+- Tenant Manual: visitors registered through Eptura Visitor (formerly Proxyclick) get an emailed QR code scannable at any gate; recurring contractors on long-term projects get temporary BNYDC ID cards instead; Building 77 lobby needs a swipe card 10 p.m.–6 a.m. — https://www.brooklynnavyyard.org/wp-content/uploads/2026/06/Updated_Tenant-Manual-2026.pdf
+- Tenant Manual: monthly permit rates car $150, van $175, truck $225; overnight parking limited to commercial vehicles; 25 MPH Yard streets, 5 MPH in parking areas — https://www.brooklynnavyyard.org/wp-content/uploads/2026/06/Updated_Tenant-Manual-2026.pdf
+- Building 77: built in 1941 as a "16-story concrete monolith"; "The first 11 floors had no windows at all"; renovation added "50,000 sq. ft. of windows"; 58,000-sq-ft floors with 10-foot ceilings; ground floor food production and retail (Russ & Daughters, Brooklyn Roasting Co., Jalapa Jar, Rustik Tavern) — https://thebridgebk.com/inside-brooklyns-building-77-a-modern-manufacturing-palace/
+- Dock 72: new-build 16 stories, 675,000 sq ft, raised on V-shaped columns, 14-foot office ceilings, eight-foot windows, building 90 feet wide so desks within 45 feet of a window, 35,000 sq ft of amenities, a 200-person conference room and a rooftop conference room, WeWork on floors three through eight — https://thebridgebk.com/inside-dock-72-brooklyns-most-nautical-office-building/
+- Market @77 vendors: Hungry House, Jalapa Jar, Pizza Yard, Russ & Daughters (18,000 sq ft, largest R&D location), Rustik Tavern, Sabor Restaurant & Bakery, Transmitter Brewing; article does not mention screens — https://www.timeout.com/newyork/news/everything-you-need-to-know-about-market-77-121724
+- New Lab: 84,000-sq-ft former shipbuilding building with 70-foot ceilings, event space used for ~200-person workshops, a big conference room; ~230 people daily, room for ~60 companies — https://www.6sqft.com/macro-seas-david-belt-introduces-us-to-new-lab-an-84000-square-foot-thinkspace-in-the-navy-yard/
+- Angi cost data for TV mounting in Brooklyn: average $280, typical range $172–$376, low–high $100–$670 — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount
+- Bob Vila (citing Angi/HomeAdvisor): national typical $158–$360, average $259; drywall $100–$300; brick, concrete or stone $200–$800; in-wall wiring "can cost as much as $1,000" — https://www.bobvila.com/articles/tv-mount-installation-cost/
+- Angi: drywall mounting takes about an hour, brick can take several hours; check VESA compatibility if you supply the mount — https://angi.com/articles/tv-mounting-questions.htm
+- OSHA silica fact sheet: handheld drills in concrete must use a shroud with a vacuum meeting manufacturer airflow and a filter of 99% or greater efficiency with a filter-cleaning mechanism; HEPA vacuum to clean holes; respirator not required when drill has that VDCS; PEL 50 μg/m3 8-hour TWA — https://www.osha.gov/sites/default/files/publications/OSHA_FS-3630.pdf
+- NYC DEP noise code fact sheet: "The approved hours of construction are during weekdays between the hours of 7:00 a.m. and 6:00 p.m."; after-hours needs a permit — https://www.nyc.gov/assets/dep/downloads/pdf/environment/education/nyc-noise-code-fact-sheet.pdf
+- Reddit threads about TV mounting inside the Navy Yard: EMPTY
+- Yelp complaints about TV installers near the Navy Yard: EMPTY
+- HPD / 311 / DOB data bearing on TV mounting at the Yard: EMPTY (Yard is city-owned, privately managed industrial park; no residential HPD stock)
+
+### Questions people ask — TV Installation in Brooklyn Navy Yard
+- How much do TV mounting services typically cost? — PASF/Angi cost page — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount
+- What is the surface the TV will be mounted on? — Angi intake — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount
+- Please describe the wall and ceiling access. — Angi intake — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount
+- What type of mount would you like? — Angi intake — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount
+- Will you provide the TV mount and other accessories? — Angi article — https://angi.com/articles/tv-mounting-questions.htm
+- Would you like any additional services (hide cables, add outlet, sound)? — Angi article — https://angi.com/articles/tv-mounting-questions.htm
+- When do you need the TV mounted / how long does it take? — Angi article — https://angi.com/articles/tv-mounting-questions.htm
+- Can you mount a TV on a concrete wall? — Bing/DuckDuckGo-style result titles — https://www.slashgear.com/2214559/can-you-mount-tv-on-concrete-wall/
+- Does concealing wires in concrete cost more? — Bob Vila — https://www.bobvila.com/articles/tv-mount-installation-cost/
+- Google PAA for "tv installation Brooklyn Navy Yard": EMPTY
+- AnswerThePublic: EMPTY
+- Reddit: EMPTY
+- Yelp: EMPTY
