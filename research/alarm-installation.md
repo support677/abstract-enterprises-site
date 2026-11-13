@@ -5776,3 +5776,55 @@ Method: Firecrawl search/scrape and WebSearch, run 2026-11-10. Google PAA, PASF,
 - Wired or wireless alarm — which costs more? — Angi — same URL
 - Does the 70th Precinct crime prevention survey replace an alarm consultation? — Bklyner — https://bklyner.com/the-70th-precinct-addresses-increasing-incidents-of-burglary-ditmas-park
 - What happens to my alarm when the power goes out on the block? — News 12 — https://brooklyn.news12.com/2025/06/21/more-than-1700-con-ed-customers-without-power-in-flatbush-due-to-manhole-issues/1fmv6HMh8D9PrMqiJ4kR10
+
+## Brooklyn Chinatown, Brooklyn — /alarm-installation-brooklyn-chinatown-brooklyn-ny (factory research, 2026-11-13)
+
+**Break-ins on and around Eighth Avenue (alarm-relevant)**
+- June 2017 overnight series by a two-person crew, mostly around 4 a.m.: Hot Space, 774 51st Street (May 30, ~4:30 a.m., basement door forced, nothing taken); DCPLZZ Seafood, 770 59th Street (June 3, ~4:25 a.m., security gate broken then an unlocked door, $2,000 from the register and beer); Wellcare Adult Day Care, 5515 Seventh Avenue and Happy Family Grocery, 5402B Seventh Avenue (June 8, attempts on the door and on the electronic front gate, no entry); Hotpot, 811 53rd Street (June 11, ~4 a.m., front gate broken, $8,000 from the register, one suspect acting as lookout); Mr. Q's, 5302A Eighth Avenue (June 20, kitchen door broken, $2,900, beer and an iPad mini) — https://brooklynreporter.com/story/duo-burglars-loot-sunset-park-businesses-10000/
+- June 26 (reported July 9, 2026): a man forced his way through the front door of a home at 53rd Street and 8th Avenue and took $10,000 in cash, then ran east on 53rd Street — https://brooklyn.news12.com/man-wanted-for-stealing-10k-in-sunset-park-home-burglary
+- June 11, 2024: two men forced their way into a business on 2nd Avenue near 41st Street, Sunset Park, and took $8,000 from a desk — https://brooklyn.news12.com/suspects-steal-8000-from-sunset-park-business-police-say
+- (Already in neighborhood pack) Happy House Seafood, Eighth Avenue: rear window broken about 5:10 a.m. on Thanksgiving 2018, $200 from the register — https://patch.com/new-york/sunset-park/man-robbed-sunset-park-restaurant-thanksgiving-cops
+- Brooklyn comparison (Carroll Gardens, Jan. 2025): burglars cut a hole in a deli roof, took about $900, 45 cartons of cigarettes and more, and tore out the alarm cables and the camera recorder; owner estimated $1,000 to replace the alarm and surveillance system — https://abc7ny.com/post/burglars-broke-brooklyn-bodega-cutting-hole-roof-police-say/15774143/
+
+**Burglary rings targeting Asian American business owners' homes**
+- FBI Newark (June 28, 2022): burglary rings watch Asian-owned businesses to learn the owners' routines, sometimes enter the owner's car at work to find a home address or follow them home, then break into the home while the owner is at work; victims partly targeted because of a stereotype that they keep high-value items at home; FBI advice includes "Motion sensor lighting on the front and back of a home will help deter break-ins," "Install surveillance cameras on or around the home and business," "Consider having a home or business alarm system installed," keep the car locked and the registration secured — https://www.fbi.gov/contact-us/field-offices/newark/news/press-releases/fbi-newark-warns-asian-business-owners-to-be-aware-of-burglars
+- ABC News / GMA (Dec. 12, 2024): burglaries targeting Asian businesses and homes rising in several states including New York (Colonie); suspects reportedly use Wi-Fi jammers to interfere with alarm signals and set up cameras outside homes to confirm nobody is home; officials believe victims are targeted because many keep "large amounts of money" at home — https://www.goodmorningamerica.com/news/story/burglaries-targeting-asian-businesses-homes-rise-nationwide-116719556
+- AsAmNews (Dec. 9, 2024): Colonie burglaries mostly outside business hours, entry forced through windows or doors, cash and valuables targeted; police recommended motion lighting, cameras and alarm systems — https://asamnews.com/2024/12/09/asian-business-owner-burglary-spree-surveillance-followed-tracked
+
+**Jamming and how panels report**
+- DMP (2025): cell jammers are illegal devices that block cellular alarm signals so they never reach the monitoring center; U.S. Customs and Border Protection reports about an 830% increase in cell jammer seizures since 2021; DMP's JamAlert detects jamming and notifies the panel; Jon Adams, DMP: "It's a security system for your security system." — https://www.dmp.com/resources/news-updates/the-growing-threat-of-cell-jamming
+- Brick Underground (Oct. 7, 2021): professional systems run on their own wireless network so a wifi outage won't disable the alarm; Vincent Ingrisano, Alarms R Us: "The point is, you don't want your wifi to go down and your alarm not to work"; anyone installing or maintaining alarm systems must be licensed (check with NYS Department of State); ask where the central station is, whether you reach a live person, how long account/password changes take; insurers credit monitored burglar, fire or low-temperature alarms; Jeffrey Schneider, Gotham Brokerage: "if you have one, you want the credit."; basic installation $600–$5,000, custom hardwired $6,000–$30,000 — https://www.brickunderground.com/live/security-system-alarm-installation-home-apartment-townhouse-brownstone-fire-burglar-nyc
+
+**Window bars, fire escapes and alarms**
+- Habitat Magazine (May 2018): a gate or bars on a window facing a fire escape must be FDNY-approved and open from inside without a key (quick-release latch); key-operated locks are not acceptable; insurers react badly if someone is hurt — https://habitatmag.com/Archive2/355-May-2018/The-Gate-Without-a-Key
+- FDNY list of fire escape window gates with a current Certificate of Approval (as of June 11, 2025): Kaufman, Metal Box Iron Works, The Tower 2002, Kendi; BSA approvals revoked as of July 1, 2008 — https://www.nyc.gov/assets/fdny/downloads/pdf/business/coa-fire-escape-window-gates.pdf
+- NYC 311: inspectors check "bars or gates on fire escape windows"; window guards are not required on windows leading to fire escapes — https://portal.311.nyc.gov/article/?kanumber=KA-02132
+
+**Published cost claims (for the AI reality check)**
+- NerdWallet (updated Oct. 21, 2025): starter kits a little over $200 on average; professionally installed systems up to $2,000 or more; professional monitoring about $20–$80 a month; Vivint three-year contract from $24.99 — https://www.nerdwallet.com/home-ownership/home-security/learn/how-much-does-a-home-security-system-cost
+- HomeAdvisor/ServiceMagic New York NY: average $1,119, typical range $490–$1,500 (undated) — https://www.servicemagic.com/tloc/New-York-NY/Alarm-or-Security-System-Install/
+
+**Calendar**
+- Lunar New Year 2027 falls on Saturday, February 6, 2027 (Year of the Sheep/Goat) — https://outside.so/when-is/when-is-lunar-new-year-2027
+
+**Address-level data**
+- HPD/311/DOB records specific to burglar alarms in Brooklyn Chinatown: EMPTY
+- Local Reddit thread about alarms in Brooklyn Chinatown: EMPTY
+- Language support (Chinese) in Alarm.com/2GIG apps: EMPTY (not verified)
+
+### Questions people ask — Alarm Installation in Brooklyn Chinatown
+- Google People Also Ask: EMPTY
+- People Also Search For / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Reddit (r/Brooklyn, r/AskNYC, r/homesecurity): EMPTY (no Brooklyn Chinatown alarm thread surfaced)
+- Yelp complaints/praise: EMPTY
+- How much do home security installers typically cost? — HomeAdvisor FAQ — https://www.servicemagic.com/tloc/New-York-NY/Alarm-or-Security-System-Install/
+- Where would you like a keypad located for the alarm system? — HomeAdvisor FAQ — https://www.servicemagic.com/tloc/New-York-NY/Alarm-or-Security-System-Install/
+- What security features would you like included in your system? — HomeAdvisor FAQ — https://www.servicemagic.com/tloc/New-York-NY/Alarm-or-Security-System-Install/
+- Where is the monitoring central station, will I reach a live person, and how long do account changes take? — Brick Underground article topic — https://www.brickunderground.com/live/security-system-alarm-installation-home-apartment-townhouse-brownstone-fire-burglar-nyc
+- Does an alarm keep working if the wifi goes down? — Brick Underground article topic — https://www.brickunderground.com/live/security-system-alarm-installation-home-apartment-townhouse-brownstone-fire-burglar-nyc
+- Can burglars jam a wireless alarm? — news topic — https://www.goodmorningamerica.com/news/story/burglaries-targeting-asian-businesses-homes-rise-nationwide-116719556
+- Will an alarm lower my insurance? — Brick Underground article topic — https://www.brickunderground.com/live/security-system-alarm-installation-home-apartment-townhouse-brownstone-fire-burglar-nyc
+- Can I put bars on the window that leads to my fire escape? — Habitat Magazine topic — https://habitatmag.com/Archive2/355-May-2018/The-Gate-Without-a-Key
+- How much does a home security system cost? — NerdWallet title — https://www.nerdwallet.com/home-ownership/home-security/learn/how-much-does-a-home-security-system-cost
