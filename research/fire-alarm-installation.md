@@ -2927,3 +2927,65 @@ Sources are cited inline above.
 - Can I still buy smoke alarms with replaceable batteries in New York? — PASF — https://dos.ny.gov/news/new-residential-smoke-alarm-sales-requirements-go-effect-april-1
 - Who has to install smoke and CO detectors in an NYC apartment, the landlord or the tenant? — PAA — https://justfix.org/en/learn/fire-safety-and-violations
 - Google PAA / AnswerThePublic / Bing / DuckDuckGo / Yelp question lists specific to Cypress Hills: EMPTY.
+
+## Flatlands, Brooklyn — /fire-alarm-installation-flatlands-brooklyn-ny (factory research, 2026-11-13)
+
+**Local fires in Flatlands (house stock, night-time, basements, attics)**
+- June 30, 2026: fire just after 4 a.m. in a two-story house on East 55th Street between Avenues K and L, Flatlands; homeowner was asleep and was woken by her son; flames in a second-floor hallway; FDNY call 4:02 a.m., about 80 firefighters and EMS responded, under control 4:37 a.m.; no injuries; cause under investigation; article does not mention smoke alarms. Neighbor Tonya: "Things are replaceable. Lives aren't." — https://brooklyn.news12.com/firefighters-respond-to-house-fire-in-flatlands and https://brooklyn.news12.com/2026/06/30/early-morning-fire-damages-flatlands-home-family-escapes-safely/1gyHd7mdAVOH4jdx9Yxoij
+- January 22, 2025: fire began in the attic of a private home in Flatlands just before 1 a.m.; close to 150 firefighters; about three hours to extinguish; at least five people hurt (three hospitalized, two treated at scene); Red Cross registered 13 adults; no smoke alarm mention, no address given — https://brooklyn.news12.com/fdny-at-least-5-people-injured-in-early-morning-fire-in-flatlands
+- December 28, 2024: basement fire around 3 a.m. on East 37th Street near Avenue I and Brooklyn Avenue (reported as Flatlands); one person critically injured; nearly 60 firefighters — https://brooklyn.news12.com/fdny-1-critically-injured-in-flatlands-basement-fire
+- July 2018: fire at 1666 East 49th Street between Avenues M and N, a two-story, nearly century-old private home; FDNY call 1:09 a.m., 50 firefighters, under control 2:28 a.m.; owner, 67, died of smoke inhalation; not treated as suspicious; no smoke alarm mention — https://bklyner.com/flatlands-house-fire
+- Kings Plaza (border of Flatlands/Marine Park/Mill Basin): seven-alarm fire in the parking garage on Sept 17, 2018, starting around 8:30 a.m. on the second floor of the garage, among up to 120 vehicles stored by a car dealer; 21 injured incl. 18 firefighters; 250–300 FDNY members responded — https://brooklyneagle.com/articles/2018/09/17/21-injured-during-seven-alarm-fire-in-kings-plaza-parking-garage-2/
+- Nearby context (NOT Flatlands): East Flatbush, New York Ave near Ave D, basement fire March 2026 in a home with DOB complaints (2011–2014) alleging illegal conversion to a rooming house with basement rooms; tenant "woke up to the smell of smoke" — https://brooklyn.news12.com/2026/03/25/tenants-displaced-after-fire-tears-through-alleged-illegally-converted-basement/2dc7VsSc2nQJSBs6dAFQ6p
+- Nearby context (NOT Flatlands): Nov 29, 2015 East Flatbush fire at East 49th St and Church Ave; investigators said the home had no working smoke alarms; FDNY handed out free smoke detectors afterwards — https://www.cbsnews.com/amp/newyork/news/east-flatbush-fire-smoke-alarms
+- Borough context (NOT Flatlands): Nov 5, 2026 Sunset Park row-house fire, two-story wood-frame multifamily built 1915, six dead, nine injured; lithium-ion battery found, role unknown — https://www.ajc.com/news/2026/11/house-fire-in-brooklyn-kills-6-people-and-injures-9-as-more-than-200-firefighters-respond/
+- Lithium-ion e-bike fires in nearby Midwood and elsewhere in Brooklyn reported by CBS; nothing Flatlands-specific found — https://cbsnews.com/newyork/news/e-bike-eyed-as-possible-cause-of-midwood-brooklyn-fire-fdny-says
+
+**HPD / city detector rules**
+- HPD: owners of all multiple dwellings (Class A and B) must install smoke detectors; CO detectors required in multiple dwellings and non-owner-occupied one- and two-family homes with fossil fuel burning devices; natural gas detectors required in same types where there is gas piping, starting January 1, 2027 — https://www.nyc.gov/site/hpd/services-and-information/detectors.page
+- HPD placement: smoke detectors within 15 feet of the primary entrance to each room lawfully used for sleeping; CO within 15 feet of sleeping-room entrances; natural gas detector in the area of the gas-burning device — same URL
+- HPD replacement: owner replaces at end of useful life, or when stolen/removed/missing/inoperable before a new tenant moves in; replace within 30 days if a detector fails within one year from defect — same URL
+- HPD reimbursement: Class A tenants $25 per smoke/CO/gas detector, $50 per two-type combo, $75 per three-type, one year to pay; Class B none; one- and two-family homes $25 per CO or gas detector — same URL
+- HPD tenant duties: test monthly, replace batteries, never paint over detectors; notices posted in Class A buildings and given to an adult occupant of each unit — same URL
+- DOB Bulletin 2014-007: battery-powered smoke alarms installed after the law must meet UL 217 with a non-removable, non-replaceable battery lasting at least 10 years; existing alarms with unknown dates must be replaced within 7 years; does not apply to alarms powered from building wiring (superseded by BB 2018-006) — https://www.nyc.gov/assets/buildings/bldgs_bulletins/bb_2014-007.pdf
+- NYS: new residential smoke alarm sales requirement (10-year sealed battery) went into effect April 1, 2019 — https://dos.ny.gov/news/new-residential-smoke-alarm-sales-requirements-go-effect-april-1
+- DOB affidavit of installation and testing of smoke and CO alarms, tied to a DOB job number; signed by owner, registered design professional or licensed electrician; hard-wired installations need a P.E., R.A. or licensed electrician seal — https://www.nyc.gov/assets/buildings/pdf/co_smoke_alarm_installation_affidavit.pdf
+- DOB natural gas detector FAQ: UL 1484 listed, NFPA 715; hardwired alarms must be installed by a NYC licensed electrical contractor with permits; battery or plug-in units may be installed by owner, staff or occupant; alarm in the same room as a fuel-gas appliance, 3 to 10 feet horizontally from it — https://www.nyc.gov/site/buildings/property-or-business-owner/natural-gas-detector-faqs.page
+- Local Law 157 deadline postponed from May 1, 2025 to at least Jan 1, 2027; applies to residential buildings except owner-occupied single-family homes; reasons: vendor backlogs, little competition, a recall of 26,000 devices — https://therealdeal.com/new-york/2025/06/30/new-york-city-council-postpones-gas-detector-law
+- Brownstoner forum (Local Law 157): landlord renting out a home asks what gas detector to buy; replies: a detector is needed in the same room as each gas appliance, smoke/CO alarms don't count, look for UL 1484 on the box, $25 reimbursement in 1–2 family homes, "Deadline is firm now at Jan 1, 2027." — https://www.brownstoner.com/forum/general-discussion/local-law-157-compliance
+
+**FDNY filed systems**
+- FDNY fire alarm tips: filings need a registered design professional (PE or RA), TM-1 application, valid C of O or Schedule A (or DOB Letter of No Objection); acceptance test per NFPA 72 as modified by Building Code Appendix Q; central station connection must be active before inspection; installers must be NYC-licensed electrician or fire alarm vendor holding an FDNY Fire Alarm Company Certificate; average plan submission to final approval about 20 to 24 weeks; initial plan review up to 8 weeks; R-2 systems filed separately — https://www.nyc.gov/assets/fdny/downloads/pdf/business/tips-fire-alarm-systems.pdf
+- FDNY S-87 Certificate of Fitness: for professional certification of fire alarm installations (PEs, RAs, NICET III/IV, NYC Master or Special Electricians) — https://www.nyc.gov/site/fdny/business/all-certifications/cof-s87.page
+- FDNY smoke/CO guidance: detectors connected to a building fire alarm system are not stand-alone; converting them into single-station alarms may lead to enforcement; S-97/S-98 holders may maintain and test; "Having a working smoke alarm/detector may cut the chances of dying in half, in most fires." — https://www.nyc.gov/assets/fdny/downloads/pdf/business/Support/smoke-carbon-monoxide-alarms.pdf
+- Wireless fire alarm systems in NYC must be approved by FDNY before installation, unlicensed radio frequencies not allowed, batteries should last at least a year with advance low-battery notice — https://www.ny-engineers.com/blog/wireless-fire-alarm-requirements-in-new-york-city
+
+**Flatlands/Fairfield IBZ**
+- NYC Planning open industrial uses survey of Flatlands/Fairfield/East NY area: 128 sites, 57.17 acres; uses include storage of operable vehicles and materials (50 sites), long-term storage of inoperable vehicles (32), auto dismantling/salvage (22 sites, 15.66 acres), scrap metal (2), commercial carting (6), concrete and cement manufacturing (2); map shows FEMA 100-year floodplain and Sandy inundation layers — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/open-industrial-uses/flatlands_flood.pdf
+
+**City data**
+- Flatlands-wide HPD detector violation counts: EMPTY
+- Flatlands 311 smoke/CO complaint counts: EMPTY
+- Flatlands DOB fire alarm permit counts: EMPTY
+- LPC rules: Flatlands Dutch Reformed Church and Lott House are landmarks (background pack); no LPC fire-alarm guidance found: EMPTY
+- Reddit threads on fire alarms in Flatlands: EMPTY
+- Yelp complaints about Flatlands fire alarm installers: EMPTY (only directory pages found: https://www.homeadvisor.com/tloc/Brooklyn-NY/Alarm-or-Security-System-Install)
+
+### Questions people ask — Fire Alarm Installation in Flatlands
+- Do I need a fire alarm system in my house or only smoke alarms? — PAA-style fan-out (seen as article topic) — https://brinkshome.com/smartcenter/smoke-detector-vs-fire-alarm-whats-the-difference
+- What is the difference between a smoke detector and a fire alarm? — PAA / Bing — https://reolink.com/blog/fire-alarm-vs-smoke-detector/
+- Is a monitored smoke detector worth it? — Bing / DuckDuckGo — https://www.permarsecurity.com/monitored-fire-alarms-vs-unmonitored-smoke-co-detectors/
+- Do you need an electrician to replace hardwired smoke detectors? — PAA / AnswerThePublic-style — https://mammothsecurity.com/blog/do-you-need-electrician-to-replace-hardwired-smoke-detectors
+- How often should fire alarms be tested/inspected? — PAA — https://mammothsecurity.com/blog/how-often-should-fire-alarms-be-tested
+- How much does a commercial fire alarm system cost? — PAA — https://getsafeandsound.com/blog/commercial-fire-alarm-system-installation-cost/
+- How long does it take to get a fire alarm approved by FDNY? — PASF — https://www.nyc.gov/assets/fdny/downloads/pdf/business/tips-fire-alarm-systems.pdf
+- Who can install a fire alarm system in NYC? — PASF — https://www.nyc.gov/assets/fdny/downloads/pdf/business/tips-fire-alarm-systems.pdf
+- Are wireless fire alarm systems allowed in NYC? — Bing — https://www.ny-engineers.com/blog/wireless-fire-alarm-requirements-in-new-york-city
+- What gas detector do I buy for Local Law 157 and how do I install it? — Brownstoner forum (Reddit-equivalent) — https://www.brownstoner.com/forum/general-discussion/local-law-157-compliance
+- Does a smoke or CO alarm count as a gas detector? — Brownstoner forum — same URL
+- Must a landlord put smoke/CO alarms in apartments? — Bing — https://masslandlords.net/must-landlord-put-smokeco-alarms-apartments/ (non-NY; answered from HPD)
+- Whose job is it to replace a smoke alarm, landlord or tenant? — Reddit r/Apartmentliving — https://redlib.reallyaweso.me/r/Apartmentliving/comments/1jm3scf/landlords_job_to_replace_smoke_alarm
+- Google PAA box captured directly: EMPTY (not accessible)
+- AnswerThePublic: EMPTY (not accessible)
+- Reddit r/Flatlands, r/Brooklyn threads on fire alarm installation: EMPTY
+- Yelp reviews for fire alarm installers in Flatlands: EMPTY
