@@ -3191,3 +3191,49 @@ Scope: "Bruckner" has no official borders. Sources describe it as the Soundview-
 - DuckDuckGo: EMPTY
 - Reddit: EMPTY
 - Yelp: EMPTY
+
+## Van Nest, Bronx — /structured-cabling-installation-van-nest-bronx-ny (factory research, 2026-11-13)
+
+Service-specific findings (structured cabling in Van Nest). Searches run with WebSearch / WebFetch on 2026-11-13.
+
+- Housing stock: "Van Nest is dominated by single family homes of various types," with "some tenements scattered across the neighborhood"; "The majority of residents rent"; population under 15,000 (13,909 est. 2011); ZIP 10460 west of Unionport Road, 10462 east; Bronx Community Board 11; 49th Precinct; Engine 90/Ladder 41 at 1843 White Plains Road — https://en.wikipedia.org/wiki/Van_Nest,_Bronx
+- Commercial corridors: "Morris Park Avenue and White Plains Road are the primary commercial thoroughfares through Van Nest" — https://en.wikipedia.org/wiki/Van_Nest,_Bronx
+- Rail yard: Con Edison Service Center on former New York, New Haven and Hartford yards, bought September 1959 for $3 million, 940,000 sq ft; Amtrak Northeast Corridor tracks form the southeast boundary, trains to Penn Station via Hell Gate Bridge — https://en.wikipedia.org/wiki/Van_Nest,_Bronx
+- Provider coverage (estimates): Optimum Fiber 100%, EarthLink Fiber 100%, Verizon Fiber 100% of Van Nest; fiber is the fastest internet type for 100% of Van Nest homes; Optimum Cable 100%, Starry 100%, Verizon fixed wireless 95.89% — https://bestneighborhood.org/fiber-tv-and-internet-van-nest-bronx-ny/ ; https://bestneighborhood.org/tv-and-internet-van-nest-bronx-ny/
+- New building, 542 Morris Park Avenue: new building permit filed February 25, 2026 for a four-story building with six residential units and 5,556 sq ft of commercial space; filed by John Backos of Grid Drafting and Consulting LLC — https://blog.marketproof.com/new-building-permit-filed-for-542-morris-park-ave-in-van-nest-bronx/
+- New building, 841A Morris Park Avenue: three-story, eight-unit mixed-use building, units on floors 2–3 averaging 714 sq ft, about 1,336 sq ft ground-floor retail plus a 389 sq ft doctor's office, 10,130 sq ft total on a 51-foot-wide, 4,914 sq ft vacant lot; owner Nissan Cohen; architect Gerald Caliendo (article undated) — https://newyorkyimby.com/page/2378?page=3
+- Other permit filings in Van Nest surfaced by search (details not retrieved): 1848 Muliner Avenue (YIMBY, Oct 2026), 633 Mead Street, 504/506/508 Van Nest Avenue, 647 Morris Park Avenue (2014) — https://newyorkyimby.com/2026/10/permits-filed-for-1848-muliner-avenue-in-van-nest-the-bronx.html ; https://blog.marketproof.com/new-building-permit-filed-for-633-mead-st-in-van-nest-bronx/ ; https://newyorkyimby.com/2014/11/permits-filed-647-morris-park-avenue-van-nest-bronx.html
+- Rezoning: City Council approved the Bronx Metro-North Station Area Plan (Aug 2024), roughly 46 blocks around Morris Park and Parkchester/Van Nest, about 7,000 new apartments; parts of Parkchester/Van Nest zoned only for commercial and manufacturing would allow housing; CB11 supported but raised infrastructure concerns; $500 million in local investments incl. drainage upgrades — https://citylimits.org/2024/08/16/council-approves-rezoning-to-spur-7k-new-homes-around-future-east-bronx-train-stations/
+- Station timing: Penn Station Access "delayed until 2030 at the earliest"; ground broken Dec 2022 with a 2027 target; MTA hopes to run "some Metro-North service to temporary stations in Co-op City, Morris Park and Parkchester/Van Nest" under a 2027 plan, dependent on Amtrak — https://nyc.streetsblog.org/2025/10/28/amtraks-dithering-delays-completion-of-penn-access-to-2030-mta-says
+- Greater Morris Park DRI application (Oct 4, 2024) names Van Nest as a DRI neighborhood; proposes undergrounding utility cables on the east side of Morris Park Avenue ($20,000,000); MTA wall lighting along Morris Park Avenue in Van Nest from Adams to Garfield Street ($60,000); about 39 tree guards on Morris Park Avenue in the Van Nest section; storefront façade grants (10 x $20,000); White Plains Road BID created 1994 with almost 100 businesses; Morris Park BID over 200 businesses; only broadband mention is Wi-Fi at Hutchinson Metro Center courtyard — https://bronxboropres.nyc.gov/wp-content/uploads/2024/10/Greater-Morris-Park-DRI-Application-10.4.24.pdf
+- Flooding: DEP Parkchester/Morris Park cloudburst hub, 410-acre project area; flooding hotspots on Van Nest Avenue along Radcliff, Colden and Lurting Avenues; deep flooding (1 ft+) and nuisance flooding (4 in–1 ft) mapped; residents told to report flooding to 311 — https://www.nyc.gov/assets/dep/downloads/pdf/climate-resiliency/parkchester-morris-park-hub-one-pager.pdf
+- Landlord / provider access law: NY Public Service Law §228 — a landlord may not "interfere with the installation of cable television facilities upon his property," but may impose reasonable conditions for safety, function and appearance; the provider and/or tenant bear installation cost and damage — https://www.nysenate.gov/legislation/laws/PBS/228
+- Fios "available" vs. connected: Verizon forum thread — the technician usually needs the building's phone room/closet; Verizon cannot install fiber without the landlord's knowledge or consent; fiber runs to an ONT in the apartment, then Ethernet to the router — https://forums.verizon.com/t5/Fios-Internet/FIOS-is-quot-available-in-my-building-quot-but-I-do-not-have-an/m-p/880588
+- NYC permits: Local Law 128 of 2024 adds AC §28-105.4.7, no electrical permit for wiring under 50 volts for signaling, communication, alarm and data (effective Dec 21, 2025, per silo research) — https://www.nyc.gov/assets/buildings/local_laws/ll128of2024.pdf
+- New-home prewire guidance: wire before walls close; plan access point locations per floor before rough-in; confirm network closet location, power and ventilation; install conduit even if fewer drops; ask for labels both ends, as-built map, certification results — https://unifinerds.com/cost-to-wire-new-home-nyc/
+- Hiring checklist (instrata): ask about NY experience, technician certification, cable types installed, a detailed plan and timeline, warranty and support, testing/verification, safety and compliance; whether provider is licensed and insured in New York State — https://www.instrata.com/questions-to-ask-before-hiring-structured-cabling-provider-new-york/
+- HPD/311 intercom or wiring data for specific Van Nest addresses: EMPTY (no Van Nest building records surfaced).
+- DOB low-voltage permit counts for Van Nest: EMPTY.
+- LPC: no Van Nest historic district found; EMPTY. (East 180th Street station is NRHP-listed per shared background, not an LPC district rule for private houses.)
+- Local news specifically about cabling/internet in Van Nest: EMPTY.
+- Reddit (r/Bronx, r/AskNYC) threads on cabling in Van Nest: EMPTY.
+
+### Questions people ask — Structured Cabling Installation in Van Nest
+- FIOS is "available in my building" but I do not have an ONT — what does that mean / can Verizon connect me without the landlord? — Verizon community forum (web) — https://forums.verizon.com/t5/Fios-Internet/FIOS-is-quot-available-in-my-building-quot-but-I-do-not-have-an/m-p/880588
+- Tenants installed a new internet line without permission — what do I do? (landlord side) — BiggerPockets forum (web) — https://biggerpockets.com/forums/52/topics/957905-tenants-installed-new-internet-line-without-permission-what-do-i
+- Is it cheaper to wire during new construction or after move-in? — contractor FAQ (web) — https://unifinerds.com/cost-to-wire-new-home-nyc/
+- Does Cat6A increase the ethernet installation cost a lot? — contractor FAQ (web) — https://unifinerds.com/cost-to-wire-new-home-nyc/
+- What should be included in a professional structured cabling quote? — contractor FAQ (web) — https://unifinerds.com/cost-to-wire-new-home-nyc/
+- How do you ensure cable testing and performance verification? — contractor hiring checklist (web) — https://www.instrata.com/questions-to-ask-before-hiring-structured-cabling-provider-new-york/
+- Can you provide a detailed project plan and timeline? — contractor hiring checklist (web) — same URL
+- What warranty and post-installation support do you offer? — contractor hiring checklist (web) — same URL
+- What is the difference between structured and unstructured cabling? — web result title — https://unio.digital/blog/unstructured-vs-structured-cabling-whats-the-difference
+- How can I split internet with my neighbor? — r/AskNYC mirror (Reddit) — https://reddit.birdcat.cafe/r/AskNYC/comments/1jhi41k/how_can_i_split_internet_with_my_neighbor
+- Cat5e Ethernet ports in apartment do not work — Tom's Hardware forum (web) — https://forums.tomshardware.com/threads/cat5e-ethernet-ports-in-apartment-do-not-work.3339285
+- Google PAA (verified): EMPTY
+- People Also Search For / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing: EMPTY
+- DuckDuckGo: EMPTY
+- Reddit r/VanNest / r/Bronx: EMPTY
+- Yelp (Van Nest-specific): EMPTY; silo research notes Bronx Yelp praise for "cabling was clean and hidden from view" — https://www.yelp.com/search?find_desc=Cable+Installation&find_loc=Bronx%2C+NY
