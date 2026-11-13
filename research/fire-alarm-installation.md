@@ -2681,3 +2681,47 @@ Sources are cited inline above.
 - PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY
 - Reddit: EMPTY
 - Yelp: EMPTY
+
+## Canarsie, Brooklyn — /fire-alarm-installation-canarsie-brooklyn-ny (factory research, 2026-11-13)
+
+**Local fires (building types the service meets)**
+- March 15, 2026, just after 3 a.m.: fire at 124 Conklin Ave., a two-family home between East 94th and East 95th streets. Six hurt (four civilians, two firefighters); two civilians critical at Brookdale. FDNY said it started on the first floor and spread quickly to the second. "Several residents had jumped from the building and were waiting in the street." Cause under investigation; articles do not mention smoke alarms. — https://www.brooklynpaper.com/people-injured-displaced-slew-brooklyn-fires-march-2026 and https://abc7ny.com/post/canarsie-house-fire-6-people-injured-including-2-firefighters-flames-engulf-brooklyn-home/18716649/
+- FDNY Assistant Chief Kevin Thomas on Conklin Ave: "Heavy fire conditions, and the engine companies made an aggressive push in with the handlines knocking down the fire." — https://abc7ny.com/post/canarsie-house-fire-6-people-injured-including-2-firefighters-flames-engulf-brooklyn-home/18716649/
+- Same March 2026 roundup: 8:20 a.m. fire on the fourth floor of a seven-story building at 671 East 105th Street (NYCHA Breukelen Houses); one civilian to Brookdale. — https://www.brooklynpaper.com/people-injured-displaced-slew-brooklyn-fires-march-2026
+- August 12, 2026, about 4 p.m.: fire in a Breukelen Houses apartment on Flatlands Avenue, smoke from second-floor windows. Mother: "We were almost trapped... The door was almost jammed closed." Upstairs resident Lavonia Sharp: "If I hadn't gotten out sooner, I probably would've suffocated." Mother said she saw a spark in her living room the day before and had told NYCHA. No smoke alarm mention. — https://brooklyn.news12.com/canarsie-apartment-building-blaze-injures-at-least-2-sends-cat-leaping-from-window
+- April 24, 2022, about 3 p.m.: fire in two attached houses on Avenue N at East 108th Street; FDNY Firefighter Timothy Klein, 31, and one civilian died; the second floor collapsed and trapped four firefighters. Acting Chief John Hodgens: "Everything seemed to be going routine, when suddenly, the entire second floor became engulfed in flames." Cause and alarms not stated. — https://abc7ny.com/fire-canarsie-brooklyn-firefighters/11786107
+- July 7, 2018: house fire on East 93rd Street; a bedridden 95-year-old woman, Anna Barthelemy, was found in the basement. Her daughter, homeowner Esther Benoit: "The smoke was so strong and heavy, so I went outside and I said 'fire, fire!'" Alarms not mentioned. — https://www.cbsnews.com/amp/newyork/news/canarsie-fatal-fire
+- June 8, 2024: two-alarm fire next to the Pepsi building along Rockaway Avenue, 25 FDNY units, two minor injuries. Pepsi employee Joe Cozzoli: "I saw the flames – they had to be like 18 feet over the drape." — https://brooklyn.news12.com/fdny-firefighters-extinguish-2-alarm-fire-in-canarsie
+- None of these reports say whether smoke alarms sounded or what caused the fire; do not claim either.
+
+**Rules that change how the work is done**
+- HPD: owners of Class A and B multiple dwellings must install at least one smoke detector in each unit; tenants test monthly and replace a missing or inoperable detector; owners replace detectors at end of useful life. — https://www.nyc.gov/site/hpd/services-and-information/detectors.page
+- HPD: CO detectors are required in Class A/B multiple dwellings and in non-owner-occupied one- and two-family homes with fossil fuel burning devices; smoke and CO detectors within fifteen feet of the primary entrance to each sleeping room (multiple dwellings). — https://www.nyc.gov/site/hpd/services-and-information/detectors.page
+- HPD: natural gas detectors required starting January 1, 2027 in multiple dwellings and non-owner-occupied one- and two-family homes with gas piping; one- and two-family tenants reimburse $25 per CO or gas detector; Class A tenants $25 single, $50 two-type, $75 three-type. — https://www.nyc.gov/site/hpd/services-and-information/detectors.page
+- Gas detector placement: same room as the appliance, 3 to 10 feet horizontally from it, ceiling or within 12 inches of the ceiling; listed to UL 1484 and NFPA 715. Hard-wired units must be installed by a NYC licensed electrical contractor; battery or plug-in units may be installed by others (owner, staff, occupant). — https://www.nyc.gov/site/buildings/property-or-business-owner/natural-gas-detector-faqs.page
+- Original gas detector deadline was May 1, 2025; now January 1, 2027. Records: post a notice, record install dates and expiration dates. — https://sitecompli.com/blog/natural-gas-detector-deadline-is-january-1-2027/
+- FDNY: a fire alarm system is required only where DOB requires one; plans prepared and filed by a registered PE or RA with a TM-1 application; initial review up to 8 weeks; about twenty to twenty-four weeks from submission to final inspection; central station connection must be active before the inspection is scheduled; inspection at Fire Alarm Inspection Unit, 9 MetroTech Center, Brooklyn; an S-97 or S-98 Certificate of Fitness holder present at inspection; installer must be a NYC licensed electrician or fire alarm vendor with an FDNY Fire Alarm Company Certificate; R-2 occupancies filed separately. — https://www.nyc.gov/assets/fdny/downloads/pdf/business/tips-fire-alarm-systems.pdf
+- FDNY Rule 3 RCNY §115-01 (effective Dec 1, 2020): fire alarm work must be serviced by an FDNY recognized installation, inspection, testing and servicing company; recognition renewed yearly. — https://www.nyc.gov/site/fdny/business/all-certifications/certificates-fire-alarm-system.page
+- FDNY: detectors (tied to a building system) differ from self-contained alarms; where detectors are required they cannot be swapped for alarms; fire-alarm-protected occupancies with fuel-burning equipment, enclosed garage or loading dock had to add CO detectors by 07/01/21; covers restaurants (A-2), places of worship (A-3), salons, laundries, clinics (B), stores and markets (M). Cooking particles are a common nuisance-alarm cause. — https://www.nyc.gov/assets/fdny/downloads/pdf/business/Support/smoke-carbon-monoxide-alarms.pdf
+- NFPA (reported Feb 25, 2019): "almost three out of five home fire deaths happened in homes with no smoke alarms or no working smoke alarms"; risk of dying 54 percent lower with working smoke alarms; "Smoke alarms should be interconnected. When one sounds, they all sound." — https://www.firehouse.com/community-risk/press-release/21069783/nfpa-national-fire-protection-association-new-nfpa-report-reinforces-lifesaving-benefits-of-smoke-alarms
+- HPD/FDNY "Keeping Homes Fire Safe" campaign (Oct 6, 2022), after the Twin Parks fire; Sound the Alarm program installed or distributed over 270,000 smoke alarms in homes of over 54,000 New Yorkers since 2015; Canarsie not named. — https://www.nyc.gov/site/hpd/news/045-22/hpd-fdny-fire-safety-campaign-reaches-thousands-nyc-households-property-owners
+- NYCHA buildings (Breukelen, Bay View) have NYCHA fire alarm programs; private installers do not work on them. — https://www.nyc.gov/assets/nycha/downloads/pdf/Learn-More-About-NYCHA-Fire-Alarm-System-Replacements.pdf
+- HPD / 311 / DOB permit counts for Canarsie fire alarms or smoke detectors: EMPTY.
+- LPC landmark rules affecting Canarsie fire alarm work: EMPTY.
+- Lithium-ion battery fire in Canarsie specifically: EMPTY (citywide reports only).
+
+### Questions people ask — Fire Alarm Installation in Canarsie
+- Google PAA for "fire alarm installation Canarsie" / "fire alarm installation Brooklyn": EMPTY (not accessible)
+- PASF / related searches: EMPTY (not accessible)
+- AnswerThePublic: EMPTY (not accessible)
+- Bing / DuckDuckGo: EMPTY (not accessible)
+- Reddit (r/Canarsie, r/Brooklyn, r/AskNYC): EMPTY (no relevant threads found)
+- Yelp complaints about nearby fire alarm companies: EMPTY
+- Does a two-family house in NYC need a fire alarm system or just smoke detectors? — web search results — https://www.nyc.gov/site/hpd/services-and-information/detectors.page
+- How much does a fire alarm system cost for a small commercial building in NYC? — web search results — https://www.nyc.gov/assets/fdny/downloads/pdf/business/tips-fire-alarm-systems.pdf
+- Who is allowed to install a natural gas detector, and does it need an electrician? — web search results — https://www.nyc.gov/site/buildings/property-or-business-owner/natural-gas-detector-faqs.page
+- Does an owner-occupied two-family in NYC need CO and gas detectors in the tenant's apartment? — web search results — https://www.nyc.gov/site/hpd/services-and-information/detectors.page
+- How long does FDNY fire alarm approval take? — web search results — https://www.nyc.gov/assets/fdny/downloads/pdf/business/tips-fire-alarm-systems.pdf
+- Can a store replace its fire alarm smoke detectors with plug-in smoke alarms? — web search results — https://www.nyc.gov/assets/fdny/downloads/pdf/business/Support/smoke-carbon-monoxide-alarms.pdf
+- Do restaurants and churches need CO detectors on the fire alarm? — web search results — https://www.nyc.gov/assets/fdny/downloads/pdf/business/Support/smoke-carbon-monoxide-alarms.pdf
+- Should smoke alarms be interconnected? — web search results — https://www.firehouse.com/community-risk/press-release/21069783/nfpa-national-fire-protection-association-new-nfpa-report-reinforces-lifesaving-benefits-of-smoke-alarms
