@@ -2989,3 +2989,72 @@ Sources are cited inline above.
 - AnswerThePublic: EMPTY (not accessible)
 - Reddit r/Flatlands, r/Brooklyn threads on fire alarm installation: EMPTY
 - Yelp reviews for fire alarm installers in Flatlands: EMPTY
+
+## Gowanus, Brooklyn — /fire-alarm-installation-gowanus-brooklyn-ny (factory research, 2026-11-13)
+
+**Gowanus fires and alarm cases (building stock: frame row buildings, walk-ups, converted factories)**
+- December 21, 2023: multi-alarm fire shortly before 11 a.m. on 9th Street between 2nd and 3rd Avenues, Gowanus; started on the 2nd floor of a multi-family home, spread to the 3rd floor and then to a second building; residents of several apartments escaped on their own; about 140 firefighters; two firefighters with minor knee injuries; FDNY said the building where it started is more than 100 years old and a wooden structure, which may have helped fuel the flames; 11 adults from ten units relocated by the Red Cross; cause under investigation — https://abc7ny.com/post/brooklyn-fire-gowanus-house-9th-street/14211522/
+- Same fire, News 12: broke out around 11 a.m. on Ninth Street between Second and Third Avenues and spread to the building next door; Red Cross helping 12 tenants; resident Vicenta Martinez had lived there 20 years; cause under FDNY fire marshal investigation — https://brooklyn.news12.com/fire-tears-through-2-gowanus-buildings-leaving-several-families-homeless-for-the-holidays
+- March 5, 2025 (reported March 6): fire around 10:30 p.m. at a three-story home on Ninth Street between Third and Fourth Avenues; started on the second floor; about an hour to control; two people with minor injuries; DOB declared the home unsafe and issued a full vacate order; Red Cross helping three families; neighbor Liesa Witt: "It's horrible how fast a fire can break out" — https://brooklyn.news12.com/fdny-2-people-injured-in-fast-moving-gowanus-fire
+- July 24, 2026 (Citizen, FDNY radio): small fire on the first floor of a building at 325 Nevins St at President Street, reported 4:33 a.m. as smoke; FDNY radio describes the exposures as three-story multiple dwellings and the lot as 50 by 100; under control 5:21 a.m., no injuries reported — https://citizen.com/-OyIFYNMLniIIsvQZRzm
+- October 30, 2020 (Citizen): electrical fire in the basement of an apartment building at 595 Baltic St, Gowanus; utility called for live wires burning; user comments (unverified): "No fire alarm sounded in the building. Smoke was prevalent on many floors" and "Tenants had to alert other tenants to evacuate due to no alarm" — https://citizen.com/-MKtSePZkhQhBb7nn3GQ
+- Nearby (Red Hook, not Gowanus): five-alarm fire at 481 Van Brunt St., a warehouse with dozens of artist studios and small businesses, around 11:30 p.m. Sept. 17, 2025; more than 200 firefighters; roof collapsed and part of the 4th floor fell into the 3rd; FDNY Assistant Chief Kevin Woods: "This type of construction is called heavy timber, it's all wood … so, once these structural members start going, the fire takes over rather quickly" — https://www.brooklynpaper.com/five-alarm-fire-red-hook-warehouse-sept-2025/
+
+**Public housing and shelters in Gowanus (fire alarm specifically)**
+- May 3, 2023: Rep. Dan Goldman requested $1,500,000 in FY2024 for NYCHA to replace existing fire detection system components at Gowanus Houses "to bring the residences up to New York City Fire Code"; Gowanus Houses serves more than 2,600 residents — https://goldman.house.gov/media/press-releases/congressman-dan-goldman-requests-funding-nycha-gowanus-houses-fire-alarm
+- The House FY26 THUD community project funding table lists "NYCHA Gowanus Fire Alarm System Upgrades", NY, $850,000, Goldman — https://appropriations.house.gov/sites/evo-subsites/republicans-appropriations.house.gov/files/evo-media-document/fy26-transportation%2C-housing-and-urban-development-cpf-table_1.pdf (also appears in the Senate FY26 THUD CDS list: https://www.appropriations.senate.gov/imo/media/doc/fy26_thud_cds_public_law.pdf)
+- April 18, 2024 (THE CITY): a 400-bed migrant shelter at 130 Third St., a former factory building along the Gowanus Canal, opened April 2 with a fire alarm system "not currently up to fire code"; the TCO application relied on an FDNY alarm inspection from August 2022, "when the building was a mostly empty factory"; FDNY allowed opening because the provider agreed to a 24/7 fire guard; DOB spokesperson: codes "allow for occupancy of a building with the presence of fire guards, in situations where the fire alarm system is being serviced"; DEC listed the building among 300 Gowanus-area sites to be tested for soil vapor intrusion — https://www.thecityreporter.nyc/2024/04/18/fdny-migrant-shelter-gowanus-alarm-system-safety/
+
+**Code and agency rules that change the work**
+- NYC Building Code 907.2.9 (Group R-2): a fire alarm system "without alarm notification appliances" and smoke alarms required where any dwelling unit is three or more stories above the lowest level of exit discharge, more than one story below the highest level of exit discharge, or the building has more than 16 dwelling units; smoke detector actuation "shall not initiate a signal to alarm notification appliances"; signals go to a central supervising station or constantly attended location; smoke detectors in mechanical, electrical, transformer, telephone equipment rooms, in air distribution systems, and in elevator machine rooms and elevator lobbies — https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-171839
+- MyCity Business, FDNY Fire Alarm Application: plans must be approved by a NYS registered design professional (PE or RA); application fee $585; at inspection the as-built riser diagram must include a Functionality Statement signed by a PE, RA, licensed electrician or authorized installer — https://nyc-business.nyc.gov/nycbusiness/description/fire-alarm-application
+- FDNY tips: plan submission to final approval about twenty to twenty-four weeks; after plans are approved, hire a NYC licensed electrician / fire alarm vendor holding an FDNY-issued Fire Alarm Company Certificate — https://www.nyc.gov/assets/fdny/downloads/pdf/business/tips-fire-alarm-systems.pdf
+- FDNY: effective 5/1/2023 licensed professionals can request professional certification of certain fire alarm designs and installations in lieu of FDNY plan exam and inspection — https://www.nyc.gov/site/fdny/business/inspections/request-inspection.page
+- FDNY publishes an Approved Companies List for fire alarm system inspection, testing and service — https://www.nyc.gov/assets/fdny/downloads/pdf/business/approved-companies-fire-alarm-system-inspection-testing-service.pdf
+- FDNY Fire Alarm Company recognition: after review the FDNY mails a letter of approval valid for one year — https://www.nyc.gov/site/fdny/business/all-certifications/certificates-fire-alarm-system.page
+- Citywide detector rules (HPD smoke/CO/gas, 15-foot placement, $25 reimbursement, Jan 1, 2027 gas detector date), DOB sealed 10-year battery bulletin, FDNY "detectors connected to a system are not stand-alone": reused from silo research — https://www.nyc.gov/site/hpd/services-and-information/detectors.page ; https://www.nyc.gov/assets/buildings/bldgs_bulletins/bb_2014-007.pdf ; https://www.nyc.gov/assets/fdny/downloads/pdf/business/Support/smoke-carbon-monoxide-alarms.pdf
+- LPC rules for fire alarm work in Gowanus: EMPTY (Coignet Building is an individual landmark per background pack; no LPC fire-alarm guidance found)
+
+**Where it matters: blocks and businesses**
+- The Bell House: two-room music and events venue in Gowanus in a converted 1920s warehouse; main room with 25-foot wooden arched ceilings; presenting music and comedy since 2008 — https://www.nyc-arts.org/organizations/the-bell-house/ ; https://www.facebook.com/bellhouseny/
+- Littlefield, 635 Sackett Street: performance and art space in Gowanus, independent venue since 2009 — https://littlefieldnyc.com/ ; https://www.363bondstreet.com/best-live-venues-brooklyn/
+- Firehouses near Gowanus: Squad 1 at 788 Union Street between 6th and 7th Avenues; Engine 239 at 395 4th Avenue between 6th and 7th Streets — https://bklyner.com/tour-a-local-firehouse-as-the-fdny-celebrates-its-150th-anniversary-parkslopestoop/
+- Gowanus Green (Hudson): multi-phase, six residential buildings; Phase I anticipated to begin construction in 2025 — https://www.hudsoninc.com/projects/gowanus-green/
+
+**Cost claims seen in search results (for the AI reality check)**
+- "Conventional | $3,000 – $10,000 | Small buildings" — https://www.tfp1.com/blog/commercial-fire-alarm-system-cost/
+- Basic system "between $0.50 and $1.00 per square foot"; warehouse "$5 to $13 per square foot"; ~1,000 sq ft warehouse "$500 and $1,000" — https://americanalarm.net/cost-install-fire-alarm-warehouse/
+- "$1–$5 per square foot for relatively straightforward installations" — https://jandsfire.com/understanding-commercial-fire-alarm-system-costs/
+- Reddit r/firealarms "am I getting ripped off": $9,000 install, "$65 is pretty standard" for monitoring — https://www.reddit.com/r/firealarms/comments/afw2zp/new_fire_alarm_being_installed_am_i_getting/
+- Reddit r/homesecurity claim: "Building code in NYC requires that all smoke and CO detectors be hard wired into building power (cannot be battery only)" (contradicted by DOB 2014-007 for existing dwellings) — https://www.reddit.com/r/homesecurity/comments/11p33di/wired_smokeheat_detectors_with_monitoring/
+
+**City data and other discussion**
+- Gowanus-wide HPD smoke/CO detector violation counts: EMPTY
+- Gowanus 311 smoke/CO complaint counts: EMPTY
+- Gowanus DOB / FDNY fire alarm filing counts: EMPTY
+- Reddit r/Gowanus threads on fire alarms: EMPTY (only general r/AskNYC, r/firealarms threads found)
+- Yelp reviews of fire alarm installers near Gowanus: EMPTY (directory pages only; snippet praises a Brooklyn company for "sprinkler installation, fire alarm upgrades, and BDA/ARCS radio coverage" — https://www.yelp.com/search?cflt=fireprotection&find_loc=Canarsie%2C+Brooklyn%2C+NY+11236)
+- Lithium-ion battery fires specific to Gowanus: EMPTY
+
+### Questions people ask — Fire Alarm Installation in Gowanus
+- My 1910 apartment had no smoke or CO detector so I installed one myself; what does the building owe me? — Reddit r/AskNYC — https://www.reddit.com/r/AskNYC/comments/1xpgruo/fire_safety_in_apartment_building_that_doesnt/
+- What fire safety is actually mandatory in an NYC apartment building? — Reddit r/AskNYC — https://www.reddit.com/r/AskNYC/comments/6zrivq/whats_mandatory_fire_safety_in_nyc_apartment/
+- A fire alarm has been going off in the neighboring building since yesterday; what do I do? — Reddit r/AskNYC — https://www.reddit.com/r/AskNYC/comments/mwuosy/fire_alarm_has_been_going_off_in_neighboring/
+- Should I call the fire department when the building alarm sounds? — Reddit r/Firefighting — https://www.reddit.com/r/Firefighting/comments/t4vhqi/should_i_call_fire_department_when_building_smoke/
+- How do clubs use haze/smoke machines without setting off the fire alarm? — Reddit r/techtheatre — https://www.reddit.com/r/techtheatre/comments/oiudal/hazesmokefog_without_setting_off_fire_alarms/
+- One fire alarm system for two addresses in NYC? — Reddit r/firealarms — https://www.reddit.com/r/firealarms/comments/1njm9lo/one_fire_alarm_system_for_two_addresses_new_york/
+- Am I getting ripped off on a new fire alarm quote and monitoring price? — Reddit r/firealarms — https://www.reddit.com/r/firealarms/comments/afw2zp/new_fire_alarm_being_installed_am_i_getting/
+- Does NYC require smoke and CO detectors to be hardwired? — Reddit r/homesecurity — https://www.reddit.com/r/homesecurity/comments/11p33di/wired_smokeheat_detectors_with_monitoring/
+- When does an R-2 apartment building need a fire alarm system? — Reddit r/firealarms / PASF — https://www.reddit.com/r/firealarms/comments/1cbeay9/fire_alarm_requirements_for_group_r2_occupancy/
+- How much does a commercial fire alarm system cost (per square foot)? — PAA-style / Bing — https://www.tfp1.com/blog/commercial-fire-alarm-system-cost/
+- How much does a warehouse fire alarm cost? — PAA-style — https://americanalarm.net/cost-install-fire-alarm-warehouse/
+- Who has to approve fire alarm plans in NYC and what is the fee? — PASF — https://nyc-business.nyc.gov/nycbusiness/description/fire-alarm-application
+- Who can install a fire alarm system in NYC? — PASF — https://www.nyc.gov/assets/fdny/downloads/pdf/business/tips-fire-alarm-systems.pdf
+- Can a fire alarm installation be professionally certified instead of FDNY-inspected? — PASF — https://www.nyc.gov/site/fdny/business/inspections/request-inspection.page
+- Which companies are approved to inspect and test fire alarms in NYC? — Bing — https://www.nyc.gov/assets/fdny/downloads/pdf/business/approved-companies-fire-alarm-system-inspection-testing-service.pdf
+- Can a building open or stay occupied with a fire guard while the alarm is fixed? — local news (THE CITY) — https://www.thecityreporter.nyc/2024/04/18/fdny-migrant-shelter-gowanus-alarm-system-safety/
+- Google PAA box captured directly: EMPTY (not accessible)
+- AnswerThePublic: EMPTY (not accessible)
+- DuckDuckGo-only questions: EMPTY
+- Reddit r/Gowanus threads: EMPTY
+- Yelp complaints or praise for Gowanus fire alarm installers: EMPTY
