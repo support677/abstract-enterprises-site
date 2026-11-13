@@ -1366,3 +1366,36 @@ None of these come from verified PAA, PASF, AnswerThePublic, Bing or DuckDuckGo 
 - Is it legal to run the TV power cord inside the wall? — EC&M / NEC 400.12 — https://www.ecmweb.com/national-electrical-code/qa/article/21216469/code-qa-where-can-you-not-use-flexible-cords-and-flexible-cables
 - Which TV/cable providers serve Brooklyn Heights? — BestNeighborhood — https://bestneighborhood.org/tv-and-internet-brooklyn-heights-brooklyn-ny/
 - How much does TV mounting cost, and why does fireplace mounting cost more? — TaskRabbit — https://www.taskrabbit.com/blog/what-is-the-cost-of-mounting-a-tv/
+
+## Bushwick, Brooklyn — /tv-installation-bushwick-brooklyn-ny (factory research, 2026-11-13)
+
+- NYC Planning's Bushwick Neighborhood Plan housing chapter: "nearly 80% of all buildings built before 1947"; over half of apartments are in buildings with fewer than six units; about 90% of households rent and 10% own; only 26% of households live in rent-stabilized apartments — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/bushwick-neighborhood-plan/plan/04-bushwick-housing.pdf
+- Same plan: roughly one in six homes has three or more maintenance deficiencies; 2015–2018 HPD conducted 37,000+ inspections and issued 50,000+ violations in Bushwick — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/bushwick-neighborhood-plan/plan/04-bushwick-housing.pdf
+- Same plan, new/affordable construction: Linden Court (NYCHA Bushwick II) 13 stories, 154 senior apartments; 1531 Broadway up to 16 stories, about 125 units; Our Lady of Lourdes 76 units; Hope Gardens 1,315 apartments; HPD financed 3,376 affordable homes since 2003 (1,827 new construction) — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/bushwick-neighborhood-plan/plan/04-bushwick-housing.pdf
+- Rheingold Gardens: attached brick townhouses on the former 6.7-acre Rheingold brewery site (demolished in the 1980s); 26 Noll Street is a two-family with mansard roofs and dormers; designed by Magnusson Architecture and Planning as "a modern update to the Brooklyn row house idiom"; rest of the brewery land rezoned for 80% market-rate / 20% affordable rental buildings — https://www.brownstoner.com/real-estate-market/brooklyn-homes-for-sale-bushwick-26-noll-street-rheingold-gardens/
+- TaskRabbit Bushwick TV mounting page: "TV mounting in Bushwick starts at $45 per hour and will vary from Tasker to Tasker"; heading claims "4056 Featured TV Mounting Taskers in Bushwick, NY"; says cable management must be confirmed with the Tasker and advises checking landlord rules first — https://www.taskrabbit.com/locations/bushwick/wall-mount-tv
+- Brick Underground (NYC renters): attorney Steven Kirkpatrick (Romer Debbas): "It's not common for a landlord to ban you from hanging items"; check the lease's alteration provision; broker Bill Kowalczuk advises asking permission before installing TV brackets; landlord may withhold deposit for holes beyond normal wear and tear with an itemized list, remaining deposit returned within two weeks; one landlord banned hanging during lead paint work and later allowed TV brackets — https://www.brickunderground.com/rent/realty-bites-landlord-doesnt-want-items-hanging-on-walls-leases-repairs-nyc
+- This Old House on brick: "Always drill into the brick, but not within a half-inch of its edges as it can crack"; "Mortar is much softer than brick, and the anchor's grip will eventually deteriorate"; "Masonry bits are an absolute must" — https://www.thisoldhouse.com/electrical/22392273/mounting-tv-on-brick-wall
+- Brownstoner forum (Brooklyn owners) on mounting over a fireplace: party walls "have no studs, only plaster over brick"; stud finders work poorly on plaster; heat from a working fireplace bad for the TV; over-mantel height can cause neck strain — https://www.brownstoner.com/forum/about-brooklyn/mount-tv-above-fireplace
+- Lou's Athletic Club, a local sports bar at 384 Knickerbocker Avenue (corner of Stanhope) — Bushwick bars with TVs for games — https://bushwickdaily.com/?p=44185
+- Linden Street Historic District (32 row houses, 1885–1901) — LPC regulates exterior fabric; interior TV mounting is not exterior work (background) — https://www.brooklynpaper.com/linden-street-becomes-historic-district-bushwick
+- DOB permits / HPD violations / 311 data specific to TV mounting in Bushwick: EMPTY
+- Local news about TV installation in Bushwick: EMPTY
+- Reddit r/Bushwick threads on TV mounting: EMPTY (search returned none)
+- Yelp complaints/praise for Bushwick TV mounting: EMPTY
+- Google PAA / PASF: EMPTY (no PAA block retrieved); Bing / DuckDuckGo: EMPTY
+
+### Questions people ask — TV Installation in Bushwick
+- How much does TV mounting cost in Bushwick? — TaskRabbit FAQ — https://www.taskrabbit.com/locations/bushwick/wall-mount-tv
+- What surfaces can a TV be mounted on? — TaskRabbit FAQ — https://www.taskrabbit.com/locations/bushwick/wall-mount-tv
+- What's included in TV mounting (old TV removal, cable management, cleanup)? — TaskRabbit FAQ — https://www.taskrabbit.com/locations/bushwick/wall-mount-tv
+- Can you mount a TV over a fireplace? — TaskRabbit FAQ / Brownstoner forum — https://www.brownstoner.com/forum/about-brooklyn/mount-tv-above-fireplace
+- My landlord says I can't hang things on my apartment walls. What's the deal? — Brick Underground headline — https://new.brickunderground.com/rent/my-landlord-says-i-cant-hang-things-on-my-apartment-walls-whats-the-deal
+- Can you mount a TV in an apartment? — article titles (Apartment List, Zumper) — https://www.apartmentlist.com/renter-life/can-you-mount-a-tv-in-an-apartment
+- Can't find a wall stud — Brownstoner forum — https://www.brownstoner.com/forum-archive/2011/02/cant-find-a-wal
+- Why might a stud finder not work in an old apartment? — Apartment Therapy headline — https://www.apartmenttherapy.com/stud-finder-problems-old-apartment-buildings-36909488
+- Can you mount a TV on a concrete wall? — SlashGear headline — https://www.slashgear.com/2214559/can-you-mount-tv-on-concrete-wall/
+- How to install a TV wall mount if you have metal framing? — Mount-Up headline — https://mountup.com/blogs/news/how-to-install-a-tv-wall-mount-if-you-have-metal-framing
+- Mounting a TV on plaster and lath? — Reddit r/HomeImprovement — https://redlib.hbubli.cc/r/HomeImprovement/comments/pdv5dn/mounting_a_tv_on_plaster_and_lathe
+- Would you provide a wall mount TV bracket (landlord)? — BiggerPockets — https://biggerpockets.com/forums/44/topics/776192-would-you-provide-a-wall-mount-tv-bracket
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Yelp: EMPTY
