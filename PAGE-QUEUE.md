@@ -394,7 +394,7 @@ LIVE | door-buzzer-repair-sunset-park-brooklyn-ny | Door Buzzer Repair | Sunset 
 LIVE | door-buzzer-repair-vinegar-hill-brooklyn-ny | Door Buzzer Repair | Vinegar Hill, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-repair-williamsburg-brooklyn-ny | Door Buzzer Repair | Williamsburg, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | unifi-protect-vs-hikvision | Comparison: UniFi Protect vs Hikvision | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | adt-vs-simplisafe-vs-local-installer | Comparison: ADT vs SimpliSafe vs Local Licensed Installer | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-13T18:17Z max-daily | adt-vs-simplisafe-vs-local-installer | Comparison: ADT vs SimpliSafe vs Local Licensed Installer | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | 2gig-vs-qolsys | Comparison: 2GIG vs Qolsys | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | doorbird-vs-2n | Comparison: DoorBird vs 2N | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | akuvox-vs-butterflymx | Comparison: Akuvox vs ButterflyMX | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
@@ -865,8 +865,8 @@ LIVE | structured-cabling-installation-prospect-park-south-brooklyn-ny | Structu
 LIVE | structured-cabling-installation-silver-beach-bronx-ny | Structured Cabling Installation | Silver Beach, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | structured-cabling-installation-the-hub-bronx-ny | Structured Cabling Installation | The Hub, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | structured-cabling-installation-tremont-bronx-ny | Structured Cabling Installation | Tremont, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | structured-cabling-installation-van-nest-bronx-ny | Structured Cabling Installation | Van Nest, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | structured-cabling-installation-wakefield-bronx-ny | Structured Cabling Installation | Wakefield, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-13T18:17Z max-daily REBUILD | structured-cabling-installation-van-nest-bronx-ny | Structured Cabling Installation | Van Nest, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-13T18:17Z max-daily REBUILD | structured-cabling-installation-wakefield-bronx-ny | Structured Cabling Installation | Wakefield, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | structured-cabling-installation-westchester-heights-bronx-ny | Structured Cabling Installation | Westchester Heights, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | structured-cabling-installation-windsor-terrace-brooklyn-ny | Structured Cabling Installation | Windsor Terrace, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | structured-cabling-installation-woodlawn-heights-bronx-ny | Structured Cabling Installation | Woodlawn Heights, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
@@ -1020,10 +1020,10 @@ LIVE | fire-alarm-installation-cypress-hills-brooklyn-ny | Fire Alarm Installati
 LIVE | fire-alarm-installation-east-flatbush-brooklyn-ny | Fire Alarm Installation | East Flatbush, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-east-new-york-brooklyn-ny | Fire Alarm Installation | East New York, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-east-williamsburg-brooklyn-ny | Fire Alarm Installation | East Williamsburg, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-REBUILD | fire-alarm-installation-flatlands-brooklyn-ny | Fire Alarm Installation | Flatlands, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T18:17Z max-daily REBUILD | fire-alarm-installation-flatlands-brooklyn-ny | Fire Alarm Installation | Flatlands, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-fordham-bronx-ny | Fire Alarm Installation | Fordham, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | fire-alarm-installation-gowanus-brooklyn-ny | Fire Alarm Installation | Gowanus, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-REBUILD | fire-alarm-installation-highland-park-brooklyn-ny | Fire Alarm Installation | Highland Park, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T18:17Z max-daily REBUILD | fire-alarm-installation-gowanus-brooklyn-ny | Fire Alarm Installation | Gowanus, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T18:17Z max-daily REBUILD | fire-alarm-installation-highland-park-brooklyn-ny | Fire Alarm Installation | Highland Park, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-homecrest-brooklyn-ny | Fire Alarm Installation | Homecrest, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-hudson-hill-bronx-ny | Fire Alarm Installation | Hudson Hill, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-indian-village-bronx-ny | Fire Alarm Installation | Indian Village, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
