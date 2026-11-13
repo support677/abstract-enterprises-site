@@ -1138,7 +1138,7 @@ REBUILD | structured-cabling-installation-bedford-park-bronx-ny | Structured Cab
 LIVE | structured-cabling-installation-boerum-hill-brooklyn-ny | Structured Cabling Installation | Boerum Hill, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | structured-cabling-installation-brighton-beach-brooklyn-ny | Structured Cabling Installation | Brighton Beach, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | structured-cabling-installation-city-island-bronx-ny | Structured Cabling Installation | City Island, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-13T14:45Z max-burn REBUILD | structured-cabling-installation-flatbush-brooklyn-ny | Structured Cabling Installation | Flatbush, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | structured-cabling-installation-flatbush-brooklyn-ny | Structured Cabling Installation | Flatbush, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | structured-cabling-installation-fordham-bronx-ny | Structured Cabling Installation | Fordham, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-13T14:46Z max-burn REBUILD | structured-cabling-installation-fort-hamilton-brooklyn-ny | Structured Cabling Installation | Fort Hamilton, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | structured-cabling-installation-gowanus-brooklyn-ny | Structured Cabling Installation | Gowanus, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
