@@ -3444,3 +3444,4 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-13 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-stuyvesant-heights-brooklyn-ny | QUEUED
 2026-11-13 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-weeksville-brooklyn-ny | QUEUED
 2026-11-13 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-bergen-beach-brooklyn-ny | QUEUED
+2026-11-13 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-bedford-stuyvesant-brooklyn-ny | QUEUED
