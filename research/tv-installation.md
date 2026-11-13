@@ -1097,3 +1097,41 @@ None of these come from verified PAA, PASF, AnswerThePublic, Bing or DuckDuckGo 
 - People Also Ask (Google) — EMPTY (not accessible in build env)
 - Bing / DuckDuckGo-only questions — EMPTY (not accessible in build env)
 - AnswerThePublic — EMPTY (not accessible in build env)
+
+## Borough Park, Brooklyn — /tv-installation-borough-park-brooklyn-ny (factory research, 2026-11-13)
+
+- Since 1990 the Buildings Department has issued more private construction permits (new homes and additions) in Borough Park than in any other Brooklyn residential neighborhood; large family homes drive construction and renovation, mainly larger bedrooms and kitchens — https://en.wikipedia.org/wiki/Borough_Park,_Brooklyn
+- A 1992 law created a special zoning district in Borough Park allowing buildings to cover 65% of a lot, reducing setbacks and backyards — https://en.wikipedia.org/wiki/Borough_Park,_Brooklyn
+- Brooklyn Eagle (Feb 24, 2016): at 1311 44th St, an existing two-story two-family house was being more than doubled to 5,633 square feet and converted into a four-family, five-story residence; workers were hoisting steel beams into place; the article calls the neighborhood a place of "constant demand for additional housing" — https://brooklyneagle.com/articles/2016/02/24/housing-construction-in-borough-park-whatever-the-season/
+- 13th Avenue is a roughly one-mile shopping strip from 39th to 55th Streets; 16th and 18th Avenues are also major shopping districts; West End line (D) stations at 55th St, 50th St and Fort Hamilton Pkwy, Culver line (F) along McDonald Ave, Sea Beach (N) Fort Hamilton Pkwy — https://en.wikipedia.org/wiki/Borough_Park,_Brooklyn
+- Maimonides Medical Center: 679 beds, Level 2 trauma center; its birthing center handles more births than any other hospital in New York State; 4,523 births in Borough Park in 2004, the highest of any city neighborhood — https://en.wikipedia.org/wiki/Borough_Park,_Brooklyn
+- Park House Hotel (1987, 48th St between 12th and 13th Aves) was the first kosher hotel; Avenue Plaza Hotel opened on 13th Avenue in 1999 — https://en.wikipedia.org/wiki/Borough_Park,_Brooklyn
+- NYC Food Policy "Foodscape: Borough Park" citing Community Health Profiles 2018: children 0–17 are 34% of the population; Data2Go: 30.2% of households below the poverty line (NYC 19.7%), median household income $47,294; NYC Planning 2020: population 205,377 — https://www.nycfoodpolicy.org/foodscape-borough-park/
+- JTA (Mar 20, 2020), Meyer Labin, raised in the Satmar community in Williamsburg: "There are virtually no televisions in Hasidic households, as well as very limited access to the internet." — https://www.jta.org/2020/03/20/ideas/the-real-reasons-coronavirus-is-spreading-in-my-hasidic-community
+- BKLYNR "Digital Divide" (2013): Borough Park-based Xchange Telecom built the JNet filter for the Orthodox community; some groups ask for custom standards ("Some of them say 'No YouTube,' some of them say 'Yes YouTube'") — https://bklynr.com/digital-divide
+- Zmanim.TV describes itself as digital signage that will "Turn any smart TV into a beautiful, always-current synagogue display" showing zmanim and minyan times; needs a smart TV browser, Fire TV/Google TV stick or player, and "A steady Wi-Fi or wired connection" — https://zmanimtv.pages.dev/
+- CPSC (Feb 2022): 581 tip-over deaths since 2000 involved furniture, TVs or appliances; 472 (81%) were children 17 and under; 71% of child deaths involved a television; an average 22,500 people a year (2018–2020) were treated in emergency departments for tip-over injuries; advice: anchor TVs and furniture, "Always place TVs on a sturdy, low base" — https://cpsc.gov/Newsroom/News-Releases/2022/CPSC-Injury-and-Fatality-Report-Shows-Despite-Some-Progress-Need-for-TV-and-Furniture-Tip-Over-Prevention-Remains-Strong
+- Angi Brooklyn TV wall mount cost page: average $280, typical range $172–$376, full range $100–$670 — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount/
+- Taskrabbit cost blog: New York City average hourly rate $81, average invoice $152; 55–65 in TV $180–$350; wall reinforcement or electrical work can add $50–$300; plaster walls "more delicate and may need extra support"; brick or concrete "requires masonry drilling" — https://www.taskrabbit.com/blog/what-is-the-cost-of-mounting-a-tv/
+- Angi "5 Questions" article: concealing wires brings totals to around $1,000; an electrician can install a new outlet for around $300; drywall about an hour, brick can take several hours — https://angi.com/articles/tv-mounting-questions.htm
+- StreetEasy Talk thread on mounting a TV in a prewar NYC building: a poster says "Electrical outlets cannot be hidden behind drywall"; another says "Must use metallic armored cable ('BX') in NYC walls"; another suggests putting "the cable box out of sight" with an IR repeater; one says the building super "did a beautiful job" — https://streeteasy.com/talk/discussion/25415-mounting-tv-on-wall
+- Brownstoner forum, TV above fireplace: party walls often have no studs, "plaster over brick," long lead shields into the brick recommended; warning "The heat won't be good for the tv" and neck strain over a mantel — https://www.brownstoner.com/forum/about-brooklyn/mount-tv-above-fireplace
+- AJ Madison appliance showroom at 3605 13th Ave, Brooklyn 11218 (appliances, not TVs) — https://www.ajmadison.com/showroom/
+- Reddit r/BoroughPark TV installation threads: EMPTY
+- Yelp 1–3★ TV mounting reviews specific to Borough Park: EMPTY
+- HPD / 311 / DOB data specific to TV installation in Borough Park: EMPTY
+- LPC rules specific to Borough Park TV work: EMPTY (no Borough Park historic district found)
+
+### Questions people ask — TV Installation in Borough Park
+- Google PAA for "tv installation Borough Park": EMPTY
+- How much should it reasonably cost to mount a TV in an NYC apartment, and how much more to hide the wiring? — StreetEasy Talk (forum) — https://streeteasy.com/talk/discussion/25415-mounting-tv-on-wall
+- Can outlets or wiring be hidden behind drywall, and is a DIY in-wall kit allowed? — StreetEasy Talk — https://streeteasy.com/talk/discussion/25415-mounting-tv-on-wall
+- Should the cable box go out of sight, and how does the remote still reach it? — StreetEasy Talk — https://streeteasy.com/talk/discussion/25415-mounting-tv-on-wall
+- How many studs are in an old plaster wall, and can a party wall of brick hold a TV? — Brownstoner forum — https://www.brownstoner.com/forum/about-brooklyn/mount-tv-above-fireplace
+- Will fireplace heat damage a TV above it? — Brownstoner forum — https://www.brownstoner.com/forum/about-brooklyn/mount-tv-above-fireplace
+- What is the surface the TV will be mounted on? / Please describe the wall and ceiling access — Angi request form — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount/
+- Will you provide the TV mount and other accessories? / When do you need the TV mounted? — Angi article — https://angi.com/articles/tv-mounting-questions.htm
+- Should I tip my TV installer? / How long does mounting take? / Do specialty mounts cost more? — Taskrabbit FAQ — https://www.taskrabbit.com/blog/what-is-the-cost-of-mounting-a-tv/
+- How do I keep a TV from tipping over onto a child? — CPSC Anchor It — https://cpsc.gov/Newsroom/News-Releases/2022/CPSC-Injury-and-Fatality-Report-Shows-Despite-Some-Progress-Need-for-TV-and-Furniture-Tip-Over-Prevention-Remains-Strong
+- Can a smart TV run a shul's zmanim and minyan-times display? — Zmanim.TV — https://zmanimtv.pages.dev/
+- PASF / Answer the Public / Bing / DuckDuckGo distinct questions: EMPTY
