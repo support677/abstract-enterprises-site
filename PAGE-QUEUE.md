@@ -956,7 +956,7 @@ LIVE | access-control-installation-sheepshead-bay-brooklyn-ny | Access Control I
 REBUILD | access-control-installation-silver-beach-bronx-ny | Access Control Installation | Silver Beach, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | access-control-installation-south-slope-brooklyn-ny | Access Control Installation | South Slope, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | access-control-installation-stuyvesant-heights-brooklyn-ny | Access Control Installation | Stuyvesant Heights, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-13T00:38Z max-burn REBUILD | access-control-installation-weeksville-brooklyn-ny | Access Control Installation | Weeksville, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | access-control-installation-weeksville-brooklyn-ny | Access Control Installation | Weeksville, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-west-farms-bronx-ny | Access Control Installation | West Farms, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | access-control-installation-westchester-heights-bronx-ny | Access Control Installation | Westchester Heights, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-13T00:42Z max-burn REBUILD | alarm-installation-bay-ridge-brooklyn-ny | Alarm Installation | Bay Ridge, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
