@@ -1164,7 +1164,7 @@ LIVE | tv-installation-bay-ridge-brooklyn-ny | TV Installation | Bay Ridge, Broo
 REBUILD | tv-installation-bedford-park-bronx-ny | TV Installation | Bedford Park, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-13T15:17Z max-burn REBUILD | tv-installation-bedford-stuyvesant-brooklyn-ny | TV Installation | Bedford Stuyvesant, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-13T15:17Z max-burn REBUILD | tv-installation-beverley-square-brooklyn-ny | TV Installation | Beverley Square, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-13T15:17Z max-burn REBUILD | tv-installation-borough-park-brooklyn-ny | TV Installation | Borough Park, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | tv-installation-borough-park-brooklyn-ny | TV Installation | Borough Park, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | tv-installation-brighton-beach-brooklyn-ny | TV Installation | Brighton Beach, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-bronx-river-bronx-ny | TV Installation | Bronx River, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-13T15:17Z max-burn REBUILD | tv-installation-brooklyn-chinatown-brooklyn-ny | TV Installation | Brooklyn Chinatown, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
