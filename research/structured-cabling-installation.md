@@ -2828,3 +2828,44 @@ Scope: "Bruckner" has no official borders. Sources describe it as the Soundview-
 - DuckDuckGo: EMPTY
 - Reddit (r/Gowanus, r/Brooklyn): EMPTY
 - Yelp: EMPTY
+
+## Brighton Beach, Brooklyn — /structured-cabling-installation-brighton-beach-brooklyn-ny (factory research, 2026-11-13)
+
+### Service-specific findings (cabling, service entry, building and flood conditions)
+- Provider availability in Brighton Beach (BestNeighborhood.org): Optimum cable 99.86% availability; Verizon fiber 99.64% (about 28,417 people); EarthLink fiber 99.64%; Optimum fiber 86.01% (about 24,531 people); Astound Broadband cable 14.82%; T-Mobile Home Internet fixed wireless 99.86%; Starry fixed wireless 98.91%; Verizon fixed wireless 91.73%. Third-party estimate, not an address check. — https://bestneighborhood.org/tv-and-internet-brighton-beach-brooklyn-ny/
+- Starry's building receiver ("Starry Trident") is made for larger apartment buildings; it "picks up signal from Starry Titan" and "uses the building's existing wiring to deliver internet to the router in your home." The page does not say which wiring type. — https://starry.com/technology
+- Optimum Managed Network (buildings that supply internet to all residents): "Your property provides all residents Internet access via the Optimum Managed Network" and "The Internet access provided by your property is wired only" — residents add their own wireless router. — https://www.optimum.net/pages/mdu2.html
+- After Sandy, Verizon CEO Lowell McAdam: "Where we have damaged copper cable we are not replacing it," and "Now our focus is rolling as many services as we can off of copper and onto FiOS." (Article covers NY and NJ, names Broad Street plant; no Brighton Beach specifics.) — https://www.lightreading.com/routing-switching/verizon-swaps-sandy-ravaged-copper-for-fiber
+- NYC Building Resiliency Task Force (2013, Urban Green Council) recommendations: #3 "Building owners should consider relocating equipment above the flood level and follow best practices when floodproofing"; #4 "Allow building owners to raise telecommunications rooms and to store more fuel above the flood line"; #6 notes "flooding that damages underground phone and data lines can cut off communication" and "new large critical buildings must have backup phone and data connections." — https://www.urbangreencouncil.org/wp-content/uploads/2022/11/2013_brtf_summaryreport_0.pdf
+- NYC Building Code Appendix G (2022), G304.1.1 item 5: in A-zone residential buildings "Utilities and attendant equipment shall be located at or above the design flood elevation specified in ASCE 24, Table 7-1"; fire alarm zoning indicator panels at least 5 feet above the DFE (item 5.2). Appendix G does not mention telecommunications by name. — https://www.nyc.gov/assets/buildings/codes-pdf/cons_codes_2022/2022BC_AppendixG_FloodResistantWBwm.pdf
+- Building example: 1120 Brighton Beach Avenue — built 1935, 6 stories, 157 units, co-op, building class "D4 Elevator Cooperative." — https://streeteasy.com/building/1120-brighton-beach-ave-brooklyn?similar=1
+- New construction: 1002 Brighton Beach Avenue — 14-story mixed-use project approved (applicant BKC3 Brighton LLC), rental apartments including 46 affordable units, offices and retail (July 21, 2022). — https://www.bldup.com/posts/14-story-mixed-use-project-approved-in-brighton-beach
+- New construction: 2951 Brighton 8th Street — permit filed April 9, 2025 for a five-story 12-unit building. — https://blog.marketproof.com/new-building-permit-filed-for-2951-brighton-8th-st-in-brighton-beach-brooklyn
+- Landlord access decides fiber in Brooklyn buildings: Verizon's John Bonomo (2015): "It is getting access into buildings that is the challenge"; some "landlords didn't want Verizon to bring the fiber into their buildings." (Sunset Park focus, not Brighton Beach.) — https://technical.ly/diversity-equity-inclusion/despite-verizon-agreement-fios-still-mia-for-some-brooklyn-buildings/
+- Co-op/condo wiring (2011): installers may route fiber through existing moldings and hallway drop ceilings or flexible molding; Verizon's Mike Weston: "The entire process of wiring a building typically takes four to six weeks." — https://cooperatornews.com/article/wiring-your-co-op-or-condo
+- NYC cabling cost drivers (UniFi Nerds): "In NYC, the 'hidden' cost driver is often not the cable itself"; "The building's rules often matter more than the square footage"; "Firestopping requirements add time and compliance steps." — https://unifinerds.com/structured-cabling-cost-nyc-office-pricing-guide/
+- Same publisher's mistakes list says "New York City requires a permit for low voltage installations above a certain scope" — conflicts with Local Law 128 of 2024 (AC §28-105.4.7, no electrical permit for data wiring under 50 volts since Dec 21, 2025); also "A cable channel performs at the lowest-rated component in the path," "Unlabeled infrastructure turns every future change into a troubleshooting exercise," "Electrical conduit induces electromagnetic interference into nearby data cables," "The NEC requires CMP-rated (plenum) cable in those spaces" (above suspended ceilings used for air). — https://unifinerds.com/?p=78398 ; https://www.nyc.gov/assets/buildings/local_laws/ll128of2024.pdf
+- Salt air and connectors: Panbo (2018) found exposed RJ-45 pigtails on a boat "junk now, corroded and unusable" after about a month, while a sealed-gland Ubiquiti jack survived two years mostly in salt water; commenters cite M12 connectors for exposed environments. — https://panbo.com/a-long-note-on-ethernet-connector-weather-protection-or-lack-of-it/
+- Brighton Beach Library, 16 Brighton First Rd. at Brighton Beach Ave., runs "Neighborhood Tech Help" with volunteer Digital Navigators (scams, connecting with family or case workers, passwords). — https://www.bklynlibrary.org/calendar/neighborhood-tech-help-brighton-beach-library-20250123-0100pm
+- Brooklyn Magazine (2023): Brighton Beach Avenue runs from Ocean Parkway to Brighton 15th Street, about 15 blocks, lined with Cyrillic signs and discount shops; names Tashkent Supermarket, NetCost, Gold Label, Tatiana Restaurant and Nightclub, Ocean View Cafe, Skovorodka, Mermaid Spa (banya), Boardwalk Billiards, Kalinka, Kizima; residents live in high-rises. — https://www.bkmag.com/2023/04/10/an-insiders-guide-to-brighton-beach/
+- Spectrum refused a Brooklyn building, saying the owner wouldn't allow it; owner disputed it (NBC New York). Building not named. — https://www.nbcnewyork.com/news/local/residents-fight-to-get-new-internet-tv-provider/2287696/?amp=1
+- Local news about cabling in Brighton Beach (Patch, BKReader, Brooklyn Paper): EMPTY.
+- HPD/311/DOB data specific to cabling in Brighton Beach: EMPTY.
+
+### Questions people ask — Structured Cabling Installation in Brighton Beach
+- Google PAA (verified): EMPTY
+- People Also Search For / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing: EMPTY
+- DuckDuckGo: EMPTY
+- Reddit (r/BrightonBeach, r/Brooklyn, r/AskNYC): EMPTY for cabling
+- Yelp: EMPTY
+- How can I run an ethernet cable from my router across my rental without drilling? — forum Q&A site — https://yomotherboard.com/?p=173365
+- Best ways to run an ethernet cable through a door? — forum Q&A site — https://yomotherboard.com/question/best-ways-to-run-an-ethernet-cable-through-a-door/
+- How hard is running ethernet cable through your house? — Slickdeals forum — https://slickdeals.net/f/2798927-how-hard-is-running-ethernet-cable-through-your-house?p=38650559
+- Wired networking in an apartment? — Badcaps forum — https://www.badcaps.net/forum/troubleshooting-hardware-devices-and-electronics-theory/troubleshooting-designing-networks/13134-wired-networking-in-an-apartment?p=327930
+- FIOS is "available in my building" but I do not have it? — Verizon forum — https://forums.verizon.com/t5/Fios-Internet/FIOS-is-quot-available-in-my-building-quot-but-I-do-not-have-an/m-p/880588
+- How much does it cost to wire a new home in NYC? — contractor blog — https://unifinerds.com/cost-to-wire-new-home-nyc/
+- What warranty and post-installation support do you offer? / How do you ensure cable testing and performance verification? / What is your safety and compliance process for New York projects? — contractor FAQ — https://www.instrata.com/questions-to-ask-before-hiring-structured-cabling-provider-new-york/
+- When should New York facilities refresh their structured cabling? — contractor blog — https://www.instrata.com/when-new-york-facilities-should-refresh-structured-cabling-systems/
+- Does low voltage cabling need plenum cable above a suspended ceiling? — contractor blog — https://unifinerds.com/?p=78398
