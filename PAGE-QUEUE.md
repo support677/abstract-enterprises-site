@@ -1152,7 +1152,7 @@ REBUILD | structured-cabling-installation-park-versailles-bronx-ny | Structured 
 LIVE | structured-cabling-installation-prospect-lefferts-gardens-brooklyn-ny | Structured Cabling Installation | Prospect Lefferts Gardens, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | structured-cabling-installation-ridgewood-brooklyn-ny | Structured Cabling Installation | Ridgewood, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | structured-cabling-installation-south-slope-brooklyn-ny | Structured Cabling Installation | South Slope, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-13T15:02Z max-burn REBUILD | structured-cabling-installation-sunset-park-brooklyn-ny | Structured Cabling Installation | Sunset Park, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | structured-cabling-installation-sunset-park-brooklyn-ny | Structured Cabling Installation | Sunset Park, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | structured-cabling-installation-throggs-neck-bronx-ny | Structured Cabling Installation | Throggs Neck, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | structured-cabling-installation-university-heights-bronx-ny | Structured Cabling Installation | University Heights, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | structured-cabling-installation-west-farms-bronx-ny | Structured Cabling Installation | West Farms, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
