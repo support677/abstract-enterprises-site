@@ -962,7 +962,7 @@ REBUILD | access-control-installation-westchester-heights-bronx-ny | Access Cont
 LIVE | alarm-installation-bay-ridge-brooklyn-ny | Alarm Installation | Bay Ridge, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | alarm-installation-bedford-stuyvesant-brooklyn-ny | Alarm Installation | Bedford Stuyvesant, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | alarm-installation-bergen-beach-brooklyn-ny | Alarm Installation | Bergen Beach, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-13T00:55Z max-burn REBUILD | alarm-installation-beverley-square-brooklyn-ny | Alarm Installation | Beverley Square, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | alarm-installation-beverley-square-brooklyn-ny | Alarm Installation | Beverley Square, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-13T00:55Z max-burn REBUILD | alarm-installation-brooklyn-chinatown-brooklyn-ny | Alarm Installation | Brooklyn Chinatown, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-13T00:58Z max-burn REBUILD | alarm-installation-city-line-brooklyn-ny | Alarm Installation | City Line, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-13T00:58Z max-burn REBUILD | alarm-installation-clinton-hill-brooklyn-ny | Alarm Installation | Clinton Hill, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
