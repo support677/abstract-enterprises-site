@@ -1173,7 +1173,7 @@ LIVE | tv-installation-brooklyn-navy-yard-brooklyn-ny | TV Installation | Brookl
 LIVE | tv-installation-brownsville-brooklyn-ny | TV Installation | Brownsville, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | tv-installation-bushwick-brooklyn-ny | TV Installation | Bushwick, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | tv-installation-cadman-plaza-brooklyn-ny | TV Installation | Cadman Plaza, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-13T15:35Z max-burn REBUILD | tv-installation-canarsie-brooklyn-ny | TV Installation | Canarsie, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | tv-installation-canarsie-brooklyn-ny | TV Installation | Canarsie, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | tv-installation-carroll-gardens-brooklyn-ny | TV Installation | Carroll Gardens, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-city-island-bronx-ny | TV Installation | City Island, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-13T15:35Z max-burn REBUILD | tv-installation-city-line-brooklyn-ny | TV Installation | City Line, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
