@@ -1162,7 +1162,7 @@ REBUILD | structured-cabling-installation-woodstock-bronx-ny | Structured Cablin
 REBUILD | tv-installation-bathgate-bronx-ny | TV Installation | Bathgate, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | tv-installation-bay-ridge-brooklyn-ny | TV Installation | Bay Ridge, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-bedford-park-bronx-ny | TV Installation | Bedford Park, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-13T15:17Z max-burn REBUILD | tv-installation-bedford-stuyvesant-brooklyn-ny | TV Installation | Bedford Stuyvesant, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | tv-installation-bedford-stuyvesant-brooklyn-ny | TV Installation | Bedford Stuyvesant, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | tv-installation-beverley-square-brooklyn-ny | TV Installation | Beverley Square, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | tv-installation-borough-park-brooklyn-ny | TV Installation | Borough Park, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | tv-installation-brighton-beach-brooklyn-ny | TV Installation | Brighton Beach, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
