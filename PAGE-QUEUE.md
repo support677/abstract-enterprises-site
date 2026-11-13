@@ -1019,7 +1019,7 @@ BUILDING 2026-11-13T11:42Z max-burn REBUILD | fire-alarm-installation-cobble-hil
 BUILDING 2026-11-13T11:42Z max-burn REBUILD | fire-alarm-installation-cypress-hills-brooklyn-ny | Fire Alarm Installation | Cypress Hills, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-13T11:43Z max-burn REBUILD | fire-alarm-installation-east-flatbush-brooklyn-ny | Fire Alarm Installation | East Flatbush, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-east-new-york-brooklyn-ny | Fire Alarm Installation | East New York, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-REBUILD | fire-alarm-installation-east-williamsburg-brooklyn-ny | Fire Alarm Installation | East Williamsburg, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T11:44Z max-burn REBUILD | fire-alarm-installation-east-williamsburg-brooklyn-ny | Fire Alarm Installation | East Williamsburg, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-flatlands-brooklyn-ny | Fire Alarm Installation | Flatlands, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-fordham-bronx-ny | Fire Alarm Installation | Fordham, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-gowanus-brooklyn-ny | Fire Alarm Installation | Gowanus, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
