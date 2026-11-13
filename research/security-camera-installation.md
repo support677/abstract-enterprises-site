@@ -5871,3 +5871,43 @@ Rebuild of a crawled-not-indexed template page. Up-link /security-camera-install
 - Do you need a license for surveillance in New York? — Deep Sentinel heading — https://www.deepsentinel.com/blogs/home-security/new-york-video-surveillance-laws/
 - Can cameras record audio in New York? — Deep Sentinel heading "The Tricky Issue of Audio" — https://www.deepsentinel.com/blogs/home-security/new-york-video-surveillance-laws/
 - Can a business share its cameras with the NYPD? — NYC Mayor's Office release — https://nyc.gov/office-of-the-mayor/news/383-24/mayor-adams-new-pilot-program-combat-retail-theft-create-efficiencies-improve
+
+## Sea Gate, Brooklyn — /security-camera-installation-sea-gate-brooklyn-ny (factory research, 2026-11-13)
+
+- Sea Gate has two entrances, Neptune Avenue and Surf Avenue; residents can use either, and guests must check in at the Surf Avenue Visitors Lane: "Guests MUST enter ONLY at the Surf Avenue entrance." — https://seagatebrooklyn.com/?p=1011
+- Guests must be registered in the Tap2Open visitor system; residents get a Pedestrian Access Key for the turnstiles, and lending it to guests or using it at the handicap door disables it for a period of time; officers open the handicap door for people with disabilities, strollers or bikes. — https://seagatebrooklyn.com/?p=266
+- Overnight guest passes come from the Sea Gate Police Precinct, located in the Chapel at the Surf Avenue Entrance. — https://seagatebrooklyn.com/?p=266
+- Overnight street parking inside Sea Gate is limited to holders of Parking Sticker Permits; stickers expire each September 30 and are renewed after Labor Day; tenants need a lease or a letter from the homeowner. — https://seagatebrooklyn.com/?p=1011
+- Oversized truck or container deliveries require notice to the Main Office so they can enter through the Neptune Avenue gate. — https://seagatebrooklyn.com/?p=1011
+- The association website names no security camera system; cameras are not mentioned on the about/rules pages. — https://seagatebrooklyn.com/?p=266
+- Courier Life, Feb 28–Mar 5 2020 ("The Sea Gate blues", Rose Adams): residents wanted the chief of the private police department (Jeffrey Fortunato, chief since 2008) to resign; former members alleged officers ignored 911 calls. — https://digital-editions.schnepsmedia.com/BG02282020/page_3.html
+- Planetizen describes "the razor-wire-topped fences and armed security checkpoints that keep outsiders from its streets, beaches and parks"; Sea Gate "assumes the costs of maintaining its streets, parks, and sewer systems." — https://www.planetizen.com/node/59495
+- Brick Underground: Sea Gate "has 8,000 full-time residents and has everything from gilded-age mansions to condos." — https://brickunderground.com///node/46274
+- NYPD 60th Precinct CompStat, week 10/26/2026–11/1/2026: burglary YTD 120 vs 92 in 2025 (+30.4%); 28-day burglary 11 vs 6; grand larceny YTD 338 vs 351 (−3.7%); robbery YTD 142 vs 133 (+6.8%); grand larceny auto YTD 89 vs 87 (+2.3%). The 60th covers Coney Island, Brighton Beach, West Brighton and Sea Gate (precinct-wide figures, not Sea Gate alone). — https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-060pct.pdf
+- 2013: NYPD approved city-funded street cameras in southwest Brooklyn, including Mermaid Avenue and West 24th Street and Neptune Avenue and West 8th Street; Councilmember Domenic Recchia allocated $400,000; Sea Gate not named. Recchia: "The NYPD needs to make use of every tool at its disposal to fight crime and keep our communities safe." — https://brooklyneagle.com/articles/2013/06/04/nypd-gives-the-green-light-to-southwest-brooklyn-security-cameras/
+- July 15 2026: a transformer explosion near West 36th Street between Surf and Mermaid avenues (the block just outside the gate) snapped a wooden pole and cut power to nearly 900 Con Edison customers during a heat advisory; power restored by afternoon. — https://lavocedinewyork.com/en/new-york/2026/07/15/coney-island-transformer-explosion-knocks-out-power-amid-dangerous-heat/
+- NYC DOB Buildings Bulletin 2022-001: utilities and equipment supporting residential units in flood zones "must be elevated to the design elevation"; applies to filings after January 10, 2022 for new buildings and substantial improvements. — https://www.nyc.gov/assets/buildings/bldgs_bulletins/bb_2022-001.pdf
+- NY Civil Rights Law §52-a: an owner or tenant of residential property has a private right of action against a person who installs a video imaging device on adjoining property to record recreational activities in the backyard without written consent, "with intent to harass, annoy or alarm another person"; "backyard" is the part of the parcel beyond the rear footprint of the dwelling. — https://www.nysenate.gov/legislation/laws/CVR/52-A
+- CBS New York, Aug 16 2017: sponsor Assemblyman Edward Braunstein: "It's not a criminal matter, it's a civil matter"; the remedy is a court injunction; he recommends first asking the neighbor to move the camera. — https://www.cbsnews.com/newyork/news/backyard-camera-law
+- IPVM installer forum on salt-water sites: unsealed units failed — "the internal circuit boards were going green with corrosion" within six months; recommendations: stainless steel fasteners (cameras fell off poles with non-stainless hardware), sealed back boxes and cable entries, powder-coated aluminum over plastic, outdoor-rated Cat5e/Cat6 in conduit, controllers indoors, and scheduled lens cleaning because salt buildup degrades images. — https://ipvm.com/forums/video-surveillance/topics/recommendation-for-salt-water-environment/posts/136469
+- HomeAdvisor Brooklyn security camera install/repair: average $1,416, typical range $680–$2,145, low-high $160–$3,500 (marketplace figure). — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Brownstoner ran a renovation diary of a 100-year-old Sea Gate beach house whose interior had changed little since the 1950s ("gut renovation by the sea"). — https://www.brownstoner.com/brooklyn-life/sea-gate-renovation-contractor-tantrums-tall-towers-and-more
+- HPD violations, 311 complaints, DOB permits or LPC rules specific to cameras in Sea Gate: EMPTY (none found).
+- Local news of a Sea Gate–specific burglary or camera case 2024–2026: EMPTY (searches returned only generic Brooklyn stories).
+- Reddit threads about cameras in Sea Gate: EMPTY.
+- Yelp complaints/praise for camera installers near Sea Gate: EMPTY.
+
+### Questions people ask — Security Camera Installation in Sea Gate
+- How much does security camera installation cost in Brooklyn? — PASF / HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- How many cameras do you want installed? / How many security cameras do I need for a house? — HomeAdvisor form, AnswerThePublic-style (ADT, Reolink, Swann) — https://www.adt.com/resources/how-many-security-cameras-do-i-need
+- What kind of video surveillance features do you want? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- How long do security cameras keep footage? — AnswerThePublic-style (Reolink, eufy, Ajax) — https://reolink.com/blog/how-long-do-security-cameras-keep-footage/
+- Do home security cameras record all the time? — Anker/eufy — https://www.anker.com/uk/blogs/security-camera/do-home-security-cameras-record-all-the-time
+- Can neighbors have security cameras pointed at your house? — PAA-style (Reolink, eufy, Arlo) — https://reolink.com/blog/can-neighbor-have-security-cameras-pointed-your-house/
+- Can neighbors have security cameras pointing at my backyard? — Arlo — https://blog.arlo.com/home-security-tips/can-neighbors-have-security-cameras-pointing-at-my-backyard/
+- Can I sue a neighbor over an outdoor camera in New York? — CBS — https://www.cbsnews.com/newyork/news/backyard-camera-law
+- What are the best surveillance cameras to mount near the ocean? — CCTV Camera Pros forum — https://videos.cctvcamerapros.com/support/topic/best-surveillance-cameras-to-mount-near-the-ocean-with-iphone-app-viewer-access
+- How do you protect outdoor CCTV housing from salt corrosion? — forum/blog — https://ipvm.com/forums/video-surveillance/topics/recommendation-for-salt-water-environment/posts/136469
+- Why does outdoor camera mounting fail after six months? — blog — https://www.ipsecuritydepot.com/blog/why-outdoor-camera-mounting-fails-six-months-in-802693/
+- Who can install security cameras? — Thumbtack — https://www.thumbtack.com/ny/brooklyn/home-security-camera-installers
+- Google PAA / PASF boxes, Bing, DuckDuckGo, Reddit, Yelp for "security camera installation Sea Gate": EMPTY
