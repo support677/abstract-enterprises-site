@@ -2793,3 +2793,38 @@ Scope: "Bruckner" has no official borders. Sources describe it as the Soundview-
 - DuckDuckGo: EMPTY
 - Reddit: EMPTY
 - Yelp: EMPTY
+
+## Gowanus, Brooklyn — /structured-cabling-installation-gowanus-brooklyn-ny (factory research, 2026-11-13)
+
+- The last 100 yards: in July 2018 a one-person audio business (Dan Dzula) in a building on Union Street in Gowanus was quoted $138,963.96 by Spectrum Business, the only high-speed provider that would consider serving the building; Spectrum would cover the first $5,000, leaving about $133,963.75. Spectrum cited "extensive and costly street cutting otherwise needed to extend our network to this business address." Common Cause NY's Susan Lerner: providers "don't have the obligation to provide the final 100 yards of infrastructure." — https://api-demo.gothamist.com/news/spectrum-offers-high-speed-internet-to-gowanus-man-for-low-low-price-of-133k
+- Follow-up, August 16, 2018: about two weeks after the first story Spectrum crews laid the cables in one day and covered the construction cost; his download speed rose from 10 Mbps to 481 Mbps. Spectrum did not commit to waiving fees for other customers. — https://api-demo.gothamist.com/news/spectrum-waived-that-133000-internet-installation-fee-in-gowanus-after-all
+- Untapped Cities ranked Gowanus #7 in Brooklyn for internet speed (data May 2016–April 2017): 90th-percentile average 205.05 Mbps, fastest recorded 478.51 Mbps; providers listed Charter Spectrum, Verizon/Fios, Windstream, RCN, Fairpoint, Optimum; tech scene "a handful of smaller startups," naming Gimlet Media. — https://untappedcities.com/2017/08/22/fun-maps-which-brooklyn-neighborhoods-have-the-best-internet-service/7/
+- Brooklyn Fiber lists 340 Nevins Street (Nevins Landing South, 11217) as "fully wired with managed building wide WiFi," 1 Gig symmetrical resident plan, activation same day with no installer visit because equipment is already installed. — https://bkfiber.com/buildings/340-nevins-st
+- Brooklyn Fiber lists 251 Douglass Street (Douglass Port) as fully wired with managed building-wide Wi-Fi, 1 Gbps symmetrical resident plan, no installer visit. — https://bkfiber.com/buildings/251-douglass-st
+- Brooklyn Fiber's landlord page: the team looks at "risers, roof access, and existing pathways," then installs the backbone and in-building distribution; in managed-WiFi buildings a resident can be online on move-in day. — https://bkfiber.com/developers-landlords/
+- Union Channel, 240 Third Ave (Gowanus Wharf campus, Charney Cos./Tavros): nine stories, 224 units, move-ins from February 2025; residents enter via smartphone app with key-fob backup, smart package room, high-speed internet throughout, shared dining rooms bookable through the app. — https://www.bisnow.com/news/new-york/multifamily/a-glimpse-of-gowanus-future-from-inside-one-of-its-new-multifamily-buildings-127658
+- 300 Huntington (Monadnock Development, completed January 2024): six stories, 136,000 sq ft, called the neighborhood's "only new ground-up office/commercial building"; 49,000 sq ft of "column-free office and creative space," 17,000 sq ft ground-floor retail, two 4,000-pound passenger/freight elevators for light-industrial tenants; Monadnock Construction HQ on floors 2–3; Hazel Village toy maker leased a workshop and showroom. No connectivity details given. — https://www.mannpublications.com/mannreport/2024/01/09/monadnock-completes-gowanus-carroll-gardens-first-ground-up-office-building/
+- Roulston House (Industrie Capital, 94 Ninth St, 75 10th St, 98 Ninth St): 200k sq ft mixed-use redevelopment of old warehouses, 15-foot ceilings throughout, 27k and 41k sq ft floors, exposed brick and timber beams kept, applying for LEED and WiredScore Platinum (2016 article). — https://www.bisnow.com/news/new-york/mixed-use/industrie-starts-leasing-on-200k-sf-gowanus-warehouse-re-development-67067
+- City commitments for the Gowanus rezoning include, under the Chief Technology Officer: "Accelerate implementation of Free/Low-Cost Broadband in Gowanus Houses and Wyckoff Gardens" and "Support the expansion of broadband internet access in the Gowanus IBZ." — https://www.nyc.gov/assets/operations/downloads/pdf/Gowanus-Commitments.pdf
+- The Old American Can Factory, 232 Third St: more than 300 creative tenants (publishers, architects, screen printers, documentary makers, activists); Gowanus Canal Conservancy moved into a 1,500 sq ft ground-floor space (2020). — https://brooklyneagle.com/articles/2020/02/18/gowanus-canal-conservancy-to-move-to-old-american-can-factory/
+- Connect IBZ (NYCEDC, July 2015): $5.3M plan to bring broadband to "underserved" Industrial Business Zones (Southwest Brooklyn, North Brooklyn, Greenpoint-Williamsburg, LIC); Gowanus not named. — https://technical.ly/diversity-equity-inclusion/nycedc-teams-isps-bring-faster-internet-brooklyn-businesses.md
+- NYC Local Law 128 of 2024 adds AC §28-105.4.7: an electrical permit is not required for wiring designed to operate at less than 50 volts for signaling, communication, alarm and data (effective with the 2025 Electrical Code, December 21, 2025). — https://www.nyc.gov/assets/buildings/local_laws/ll128of2024.pdf
+- Contractor blog lists common NYC cabling mistakes: wire-map-only testing instead of certification, mixed cable categories in one run, unlabeled drops, bend radius/cable fill violations, data alongside power conduit, "skipping low voltage permits," and non-plenum cable above ceilings used as air returns (CMP required). — https://unifinerds.com/?p=78398
+- HomeAdvisor's Brooklyn "network & router services" figures: average $462, typical $222–$825, low to high $90–$1,500 (general network/router work, not a cabling quote). — https://homeadvisor.com/tloc/Brooklyn-NY/Computer-Network-or-Wiring-Install-or-Repair
+- DOB permit totals, HPD/311 data specific to cabling in Gowanus: EMPTY.
+- Local news on cabling-specific incidents in Gowanus beyond the Spectrum story: EMPTY.
+
+### Questions people ask — Structured Cabling Installation in Gowanus
+- Does low voltage cabling in NYC require a permit? — contractor FAQ page (not confirmed as PAA) — https://unifinerds.com/?p=78398
+- What is cabling code compliance in NYC? — contractor FAQ page — https://unifinerds.com/?p=78398
+- How does poor cable management affect network performance? — contractor FAQ page — https://unifinerds.com/?p=78398
+- What are the most common structured cabling mistakes in NYC offices? — contractor FAQ page — https://unifinerds.com/?p=78398
+- Will you have a dedicated server? / What kind of location is this? — HomeAdvisor project form — https://homeadvisor.com/tloc/Brooklyn-NY/Computer-Network-or-Wiring-Install-or-Repair
+- Why would a provider charge so much to bring internet to my building? — implied by Gothamist story — https://api-demo.gothamist.com/news/spectrum-offers-high-speed-internet-to-gowanus-man-for-low-low-price-of-133k
+- Google PAA (verified): EMPTY
+- People Also Search For: EMPTY
+- AnswerThePublic: EMPTY
+- Bing: EMPTY
+- DuckDuckGo: EMPTY
+- Reddit (r/Gowanus, r/Brooklyn): EMPTY
+- Yelp: EMPTY
