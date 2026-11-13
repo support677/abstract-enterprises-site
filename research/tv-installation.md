@@ -1399,3 +1399,37 @@ None of these come from verified PAA, PASF, AnswerThePublic, Bing or DuckDuckGo 
 - Mounting a TV on plaster and lath? — Reddit r/HomeImprovement — https://redlib.hbubli.cc/r/HomeImprovement/comments/pdv5dn/mounting_a_tv_on_plaster_and_lathe
 - Would you provide a wall mount TV bracket (landlord)? — BiggerPockets — https://biggerpockets.com/forums/44/topics/776192-would-you-provide-a-wall-mount-tv-bracket
 - PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Yelp: EMPTY
+
+## Brownsville, Brooklyn — /tv-installation-brownsville-brooklyn-ny (factory research, 2026-11-13)
+
+- NYCHA "Highlights of House Rules, Lease, Law and NYCHA Policy": "Residents may only install TV antennas inside their apartments." and "Residents may not install antennas on the exterior of the building." Residents and guests "may not damage, deface or destroy the apartment or any NYCHA property." No specific rule on drilling or wall-mounting a TV; tenants are told to check the lease or ask their development — https://www.nyc.gov/assets/nycha/downloads/pdf/Highlights_of_House_Rules_Lease_Law_and_NYCHA_Policy.pdf
+- NYCHA Resident Handbook (2024): residents may not alter apartments or "add any fixtures or fittings" without prior written consent from the property management office, and are responsible for any damage (already in neighborhood pack L2) — https://www.nyc.gov/assets/nycha/downloads/pdf/pp/nycha-public-housing-resident-handbook-2024.pdf
+- Big Apple Connect: free in-home high-speed internet "including a modem and router" and "basic cable TV service, including a cable box and remote control" for NYCHA residents; city agreements with Altice (Optimum) and Charter (Spectrum); citywide launch announced Monday, September 19, 2022 at the Langston Hughes Houses in Brownsville; Brownsville Houses was one of the pilot sites; target ~300,000 residents in 200+ developments by end of 2023 — https://abc7ny.com/post/big-apple-connect-nycha-free-internet-new-york-city/12240424/
+- City-Data forum on NYCHA walls: "The older NYCHAs are heavy plaster." (SeventhFloor); "I had actual cinderblock walls separating the apartments." (SoullessOne); "You will need hammer drill for most areas of the apartment" (Jeniajiggy) — https://www.city-data.com/forum/new-york-city-housing-lottery/3091737-what-nycha-walls-made-how-do-i-drill-holes-them-hang-stuff-2.html
+- Brick Underground (Realty Bites): a landlord ban on hanging things is only enforceable if it is in the lease (Steven Kirkpatrick, Romer Debbas); Arik Lifshitz (DSA Property Group): "If the hole is larger than the size of a nail, then it's considered damage." Larger holes can be deducted from the deposit; landlord must itemize and return the rest within two weeks — https://www.brickunderground.com/rent/realty-bites-landlord-doesnt-want-items-hanging-on-walls-leases-repairs-nyc
+- Nehemiah houses: first groundbreaking in Brownsville in October 1982; East Brooklyn Congregations built about 4,500 houses in East Brooklyn; two- and three-bedroom single-family houses of about 1,000 and 1,200 sq ft with carpeted living rooms, full basements, double-glazed windows, gas furnaces and a parking pad; sold for $30,000 / $35,000 — https://www.gothamcenter.org/blog/citizen-power-rebuilds-east-brooklyn-the-nehemiah-housing-plan-in-the-1980s
+- Angi cost guide: national average TV mount installation $254, typical range $154–$354; brick, concrete and stone each listed $50–$600+; over-the-fireplace $175–$400; handyperson $60–$130/hr; total "could approach $1,000 or more" — https://www.angi.com/articles/how-much-does-it-cost-mount-tv.htm
+- Taskrabbit Brooklyn: "TV mounting in Brooklyn starts at $45 per hour and will vary from Tasker to Tasker"; cable management and drilling into a facade take longer; FAQ includes brick/concrete walls and over-fireplace mounting — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- Handy "Brownsville Mount Tv" page has no Brownsville-specific content; requests route to Angi — https://www.handy.com/services/mount-tv/brownsville
+- HomeAdvisor Brooklyn TV wall mount listing gives no price data — https://www.homeadvisor.com/tloc/Brooklyn-NY/TV-Wall-Mount
+- Brownstoner forum, TV over a fireplace in an old Brooklyn row house with plaster walls: BobMarvin says party walls often have no studs, just plaster over brick; daveinbedstuy: "First, you will be amazed at how light the TV actually is." — https://www.brownstoner.com/forum/about-brooklyn/mount-tv-above-fireplace
+- Mike Holt forum: question on NYC code for in-wall power adapters behind flat-screen TVs (no answer in thread) — https://forums.mikeholt.com/threads/nyc-in-wall-power-adapters-for-flat-screen-tvs.130645/latest
+- Reddit threads specific to TV mounting in Brownsville: EMPTY
+- Yelp 1–3★ reviews of TV mounting near Brownsville: EMPTY
+- Bing / DuckDuckGo distinct questions: EMPTY
+- Local news on TV installation in Brownsville: EMPTY
+
+### Questions people ask — TV Installation in Brownsville
+- How much does it cost to mount a TV in Brooklyn? — Taskrabbit FAQ — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- Can I mount my TV on a brick or concrete wall in Brooklyn? — Taskrabbit FAQ — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- What services are included in TV mounting? — Taskrabbit FAQ — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- Can you mount a TV over your fireplace? — Taskrabbit FAQ / Brownstoner forum — https://www.brownstoner.com/forum/about-brooklyn/mount-tv-above-fireplace
+- What are NYCHA walls made of and how do I drill holes in them to hang stuff? — City-Data forum — https://www.city-data.com/forum/new-york-city-housing-lottery/3091737-what-nycha-walls-made-how-do-i-drill-holes-them-hang-stuff-2.html
+- Can my landlord stop me from hanging things on my apartment walls? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-landlord-doesnt-want-items-hanging-on-walls-leases-repairs-nyc
+- Will TV mounting holes come out of my security deposit? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-landlord-doesnt-want-items-hanging-on-walls-leases-repairs-nyc
+- Can you mount a TV in an apartment? — PASF-style result titles (Apartment List, Bay Management) — https://www.apartmentlist.com/renter-life/can-you-mount-a-tv-in-an-apartment
+- Can a party wall with no studs hold a TV? — Brownstoner forum — https://www.brownstoner.com/forum/about-brooklyn/mount-tv-above-fireplace
+- What is the NYC code for in-wall power kits behind a TV? — Mike Holt forum — https://forums.mikeholt.com/threads/nyc-in-wall-power-adapters-for-flat-screen-tvs.130645/latest
+- How much does TV mount installation cost on brick or concrete? — Angi cost guide — https://www.angi.com/articles/how-much-does-it-cost-mount-tv.htm
+- Can I put up an outdoor antenna in NYCHA? — NYCHA house rules — https://www.nyc.gov/assets/nycha/downloads/pdf/Highlights_of_House_Rules_Lease_Law_and_NYCHA_Policy.pdf
+- Does Big Apple Connect include a cable box I can connect to my mounted TV? — ABC7 — https://abc7ny.com/post/big-apple-connect-nycha-free-internet-new-york-city/12240424/
