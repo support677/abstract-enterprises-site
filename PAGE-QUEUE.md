@@ -866,7 +866,7 @@ LIVE | structured-cabling-installation-silver-beach-bronx-ny | Structured Cablin
 LIVE | structured-cabling-installation-the-hub-bronx-ny | Structured Cabling Installation | The Hub, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | structured-cabling-installation-tremont-bronx-ny | Structured Cabling Installation | Tremont, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | structured-cabling-installation-van-nest-bronx-ny | Structured Cabling Installation | Van Nest, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-13T18:17Z max-daily REBUILD | structured-cabling-installation-wakefield-bronx-ny | Structured Cabling Installation | Wakefield, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
+LIVE | structured-cabling-installation-wakefield-bronx-ny | Structured Cabling Installation | Wakefield, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | structured-cabling-installation-westchester-heights-bronx-ny | Structured Cabling Installation | Westchester Heights, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | structured-cabling-installation-windsor-terrace-brooklyn-ny | Structured Cabling Installation | Windsor Terrace, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | structured-cabling-installation-woodlawn-heights-bronx-ny | Structured Cabling Installation | Woodlawn Heights, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx

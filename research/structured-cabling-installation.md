@@ -3237,3 +3237,56 @@ Service-specific findings (structured cabling in Van Nest). Searches run with We
 - DuckDuckGo: EMPTY
 - Reddit r/VanNest / r/Bronx: EMPTY
 - Yelp (Van Nest-specific): EMPTY; silo research notes Bronx Yelp praise for "cabling was clean and hidden from view" — https://www.yelp.com/search?find_desc=Cable+Installation&find_loc=Bronx%2C+NY
+
+## Wakefield, Bronx — /structured-cabling-installation-wakefield-bronx-ny (factory research, 2026-11-13)
+
+Searches run (WebSearch + WebFetch, 2026-11-13): Metro-North Wakefield station; Wakefield fiber/ISP availability 10466/10470; Montefiore Wakefield campus; White Plains Road BID/merchants; structured cabling Bronx questions/cost/permit; Reddit Bronx ethernet wiring; White Plains Road neighborhood plan (DCP); Mayor's office plan release; DCP 2007 Wakefield/Eastchester rezoning; PoliticsNY/Bronx Times on the plan; ethernet cost PAA-style query; Mount Saint Michael Academy; Local Law 128 / 2025 Electrical Code; 700 East 241st Street; Wakefield Library; CD12 census profile; Yelp/BBB network cabling Bronx.
+
+### Service-specific findings (cabling, entry and network conditions)
+
+- Metro-North's Wakefield station is on East 241st Street; its entrances are stairways on the north side of the street, and the Wakefield–241st Street subway station (2 train) is five blocks east. — https://en.wikipedia.org/wiki/Wakefield_station_(Metro-North)
+- The Metro-North station is "the northernmost stop in New York City on the Harlem Line," with two high-level island platforms "each four cars long" serving all four tracks; it was the northern terminus of Harlem Line electrification in 1907 until the line was electrified to White Plains in 1909; the depot burned in 1953; high-level platforms replaced wooden ones in 1976; the station is not accessible. — https://en.wikipedia.org/wiki/Wakefield_station_(Metro-North)
+- Provider availability estimates for Wakefield-Williamsbridge (BestNeighborhood): EarthLink fiber 99.50%, Verizon fiber 99.50%, Optimum cable 96.17%, Optimum fiber 94.82%, Spectrum cable 10.74%, T-Mobile Home Internet fixed wireless 99.59%, Verizon fixed wireless 89.79%; fiber is the fastest internet type for 99.61% of homes. (Aggregator estimate, not an official map.) — https://bestneighborhood.org/cable-tv-and-internet-wakefield-williamsbridge-bronx-ny/
+- Montefiore Wakefield Campus: 600 East 233rd Street, Bronx, NY 10466; 24-hour garage at 613 East 233rd Street; the 2 train stops at East 233rd Street and White Plains Road, a short walk east of the campus; the Bx31 stops directly outside. — https://montefiore.org/north
+- 700 East 241st Street (completed, reported Feb 2026): 11-story mixed-use building by Enclave Equities, designed by Aufgang Architects; 416 rental units averaging 916 sq ft, 255 permanently affordable; "nearly 62,000 square feet of ground-floor commercial space," plus office space; a 17,000 sq ft community facility; "more than 100 enclosed parking spaces below grade," garage entrance on Furman Avenue. — https://100percentbronx.blogspot.com/2026/02/700-east-241st-street-finishes.html (relaying https://newyorkyimby.com/2026/02/700-east-241st-street-finishes-construction-in-wakefield-the-bronx.html)
+- Wakefield Yards, 4641 Furman Avenue (Radson Development): 212 apartments, "100 percent affordable"; amenities include a rooftop terrace, green space, a recreation room, shared laundry and bike storage; apartments include high-speed internet; the 2 line is directly across the street and the Metro-North Harlem Line a few blocks away; lottery deadline Sept 23, 2025 (article July 29, 2025). — https://www.6sqft.com/200-affordable-apartments-available-at-the-bronxs-border-with-westchester-from-465-month/
+- White Plains Road Neighborhood Plan (City of New York, May 2026): study area "White Plains Road from Adee Avenue to the Bronx-Mount Vernon border," plus "portions of Gun Hill Road and East 233rd Street"; goals: update zoning to encourage more housing and require income-restricted affordable homes, support small businesses and economic development, improve infrastructure and public space; a "walkshop" in June and a zoning concept map later in the year. — https://www.nyc.gov/mayors-office/news/2026/05/mamdani-administration-advances-first-neighborhood-plans-for-whi
+- DCP Vision and Goals Workshop for the plan, 11/13/2025, held at 921 E 228th Street; "700+ comments collected to date"; participants asked for "greater diversity of small businesses" and noted "Business owners don't know where to get resources." Broadband/internet not mentioned. — https://www.nyc.gov/assets/planning/downloads/pdf/our-work/plans/bronx/white-plains-road-neighborhood-plan/white-plains-road-public-workshop-vision-and-goals-summary.pdf
+- Bronx Times / PoliticsNY, Aug 20, 2026: the plan covers the corridor under the 2 and 5 lines from 241st Street in Wakefield to Adee Avenue in Allerton; the area is largely zoned low-density and much of it is one- and two-family homes; resident Luke Szabados: "If we're building buildings, might as well throw some more offices in there so that people don't have to commute so far." — https://politicsny.com/2026/08/20/white-plains-road-could-see-more-housing-residents-are-weighing-in-on-what-comes-next/
+- 2007 Wakefield/Eastchester rezoning: adopted by the City Council July 25, 2007; "all or parts of 134 blocks"; contextual R5A, R4A and R4-1 over most of the area, R6 along White Plains Road; R4A "only permits detached single- and two-family residences"; R4-1 "permits only detached and semi-detached single- and two-family residences"; commercial overlay depths reduced along the west side of White Plains Road from East 235th to East 239th Streets and the east side from East 237th to East 239th. — https://www.nyc.gov/assets/planning/download/pdf/plans/wakefield-eastchester/wakefield.pdf
+- Historic Districts Council Request for Evaluation to LPC, June 17, 2026, for individual landmark designation of: the Neighborhood Government Building (former 47th Precinct), 4101 White Plains Rd, built 1903 by Whitfield and King, Neo-Georgian; EMS Battalion 15 (former Engine 63), 4109 White Plains Rd, design approved 1907, occupied 1909, Renaissance Revival; Wakefield Library, 4100 Lowerre Pl, built 1938 by Thomas Dunn, Colonial Revival. (A request, not a designation.) — https://hdc.org/wp-content/uploads/2026/06/Wakefield-RFE-1.pdf
+- Wakefield Library, 4100 Lowerre Pl: $360,000 in capital funding (Borough President Gibson and Council Member Dinowitz, $180,000 each) presented Sept 3, 2024 for an ADA ramp and an ADA restroom upgrade. — https://www.bxtimes.com/bp-gibson-cm-dinowitz-wakefield-library-360k-check-infrastructure-upgrades/
+- Mount Saint Michael Academy, 4300 Murdock Avenue, 10466, in the Wakefield neighborhood; opened September 13, 1926; enrollment "700+" as of 2020. — https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Mount_Saint_Michael_Academy (Wikipedia mirror)
+- Bronx Community District 12 (Wakefield, Williamsbridge & Eastchester PUMA), ACS 2024 1-year: population 152,442; median household income $66,698; 60,578 housing units; median owner-occupied home value $640,800. — https://censusreporter.org/profiles/79500US3604212-nyc-bronx-community-district-12-wakefield-williamsbridge-eastchester-puma-ny/
+- Bronx CD12, 2010 Census: 57,351 housing units, 53,720 households, 17,509 owner-occupied (32.6% of occupied units). — https://www.nyc.gov/assets/planning/download/pdf/community/community-portal/socio_demo/bx12_socio_demo.pdf
+- DOB Buildings News: the 2025 NYC Electrical Code "takes full effect on December 21, 2025." — https://www.nyc.gov/assets/buildings/newsletters/DOB_BN_120225.html
+- Local Law 128 of 2024 adds AC §28-105.4.7: no electrical permit is required for wiring designed to operate at less than 50 volts for signaling, communication, alarm and data (already in silo research). — https://www.nyc.gov/assets/buildings/local_laws/ll128of2024.pdf
+- National cost guide figure: HomeGuide lists Ethernet installation at "$100 – $200 per port," including materials and labor (national, not Bronx). — https://homeguide.com/costs/ethernet-installation-cost
+- Merchant bike-lane lawsuit on White Plains Road (Dec 2025 CB11 meeting, Allerton International Merchants Association) — Allerton, not Wakefield; not used. — https://cpo.soar.com/articles/7239446/Bronx-CountyCity/New-York/Merchants-announce-lawsuit-and-urge-board-attention-after-White-Plains-Road-bike-lane-installation
+- BBB lists 135–207 "network cabling"/"network cabling installation" businesses for Bronx searches (directory only). — https://bbb.org/us/ny/bronx/category/network-cabling
+- DOB permit counts / HPD / 311 data specific to cabling in Wakefield: EMPTY.
+- Local news about cabling in Wakefield: EMPTY.
+- Reddit threads about cabling in Wakefield (r/Bronx, r/AskNYC): EMPTY. Searches returned only non-Reddit forums (Brownstoner, Straight Dope, Garage Journal).
+- Yelp reviews for network cabling near Wakefield: EMPTY (search returned Thumbtack, BBB and Trustpilot listings, no readable Yelp reviews).
+
+### Questions people ask — Structured Cabling Installation in Wakefield
+
+- Google People Also Ask (verified live): EMPTY
+- People Also Search For: EMPTY
+- AnswerThePublic: EMPTY
+- Bing: EMPTY
+- DuckDuckGo: EMPTY
+- Reddit: EMPTY
+- Yelp: EMPTY
+- What is an Ethernet cable? — HomeGuide FAQ (cost-guide page in results) — https://homeguide.com/costs/ethernet-installation-cost
+- Is Ethernet cable better than Wi-Fi? — HomeGuide FAQ — https://homeguide.com/costs/ethernet-installation-cost
+- Who can I hire to install Ethernet? — HomeGuide FAQ — https://homeguide.com/costs/ethernet-installation-cost
+- Can I install Ethernet cables myself? — HomeGuide FAQ — https://homeguide.com/costs/ethernet-installation-cost
+- How many Ethernet ports do I need? — HomeGuide FAQ — https://homeguide.com/costs/ethernet-installation-cost
+- Do I need a separate modem and router? — HomeGuide FAQ — https://homeguide.com/costs/ethernet-installation-cost
+- How much does it cost to wire a new home in NYC? — contractor article title in results — https://unifinerds.com/cost-to-wire-new-home-nyc/
+- What questions should I ask before hiring a structured cabling contractor in NYC? — contractor article title — https://unifinerds.com/structured-cabling-contractor-nyc-5-questions/
+- What drives structured cabling cost up or down in NYC? — contractor article title — https://nyflnerds.com/structured-cabling-cost-nyc-what-drives-network-pricing/
+- What do NYC contractors need to know about low-voltage wiring codes? — contractor article title — https://unifinerds.com/low-voltage-wiring-codes-nyc-contractors/
+- How do I budget for structured cabling without surprises in New York? — contractor article title — https://www.instrata.com/how-to-budget-structured-cabling-projects-new-york/
+- "If there were good-paying office jobs ... in the neighborhood" (resident comment shaping the question of office space in new White Plains Road buildings) — Bronx Times/PoliticsNY — https://politicsny.com/2026/08/20/white-plains-road-could-see-more-housing-residents-are-weighing-in-on-what-comes-next/
