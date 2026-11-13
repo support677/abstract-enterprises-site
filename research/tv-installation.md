@@ -1571,3 +1571,39 @@ None of these come from verified PAA, PASF, AnswerThePublic, Bing or DuckDuckGo 
 - Google PAA / PASF / AnswerThePublic / Bing / DuckDuckGo exact lists for "tv installation Coney Island": EMPTY
 - Reddit questions: EMPTY
 - Yelp questions: EMPTY
+
+## City Line, Brooklyn — /tv-installation-city-line-brooklyn-ny (factory research, 2026-11-13)
+
+- City-Data's City Line (ZIP 11208) profile counts 3,842 housing units built 1939 or earlier, 1,146 built 1960-1969, 1,584 built 2010-2019 and 992 built 2020 or later; 2-unit buildings hold 34.7% of units, attached/townhouse 11.8%, detached 8.2% (2023); 9.3% of residents speak English "not well or not at all" (New York: 7.2%); area 0.505 sq mi — https://www.city-data.com/neighborhood/City-Line-Brooklyn-NY.html
+- Openigloo lists 647 rated buildings in City Line, described as a mix of pre-war and newer buildings; addresses on the pre-war list include Forbell Street, Hemlock Street, McKinley Avenue, Pine Street, Sheridan Avenue, Autumn Avenue, Liberty Avenue, Grant Avenue, Euclid Avenue and Glenmore Avenue (several rent-stabilized) — https://www.openigloo.com/buildings/brooklyn/city-line/pre-war?page=2
+- Bklynr (David Lumb, "Best Feet Forward," June 26, 2014): the Bangladeshi community is "centered on Liberty Avenue, in a neighborhood known as City Line"; a 2013 estimate counted 2,178 Bangladeshis; Bangladeshi-owned bodegas and halal restaurants line Liberty Avenue; a barbershop on Forbell Street; Masjid Al-Aman on Forbell Street is the largest mosque; BACDYS rents the Grant Avenue Municipal Parking Field for Eid prayers and runs the August Carnival of Cultures; the area sits between the 75th and 106th Precincts — https://www.bklynr.com/best-feet-forward/
+- 6sqft (Hannah Frishberg, Aug 14 2018): City Line's Bangladeshi community began forming in the 1980s; "eight mosques and many shops and restaurants" — https://www.6sqft.com/where-to-experience-bangladeshi-culture-in-nyc-from-the-east-village-to-ozone-park/
+- Wikipedia, Liberty Avenue: runs about 8 miles from Mother Gaston Boulevard in Brooklyn to Farmers Boulevard in Queens; the IND Fulton Street Line (A) runs above the avenue between 80th Street and Lefferts Boulevard; Q112, Q8 and Q9 buses use parts of it — https://en.wikipedia.org/wiki/Liberty_Avenue_(New_York_City)
+- Angi/HomeAdvisor cost page for Brooklyn TV wall mounting: average $280, typical range $172-$376, low-high $100-$670; intake asks mount type, mounting surface, special features, wall and ceiling access — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount/
+- Angi article "5 Questions to Ask About Mounting a TV": drywall or plaster usually cheaper than brick or concrete; drywall about an hour, brick can take several hours; check mount VESA numbers; mounting with wire concealment can reach around $1,000; electrician outlet around $300 — https://angi.com/articles/tv-mounting-questions.htm
+- Thumbtack cost Q&A: national average $100-$130; example brick wall extra $99; wires hidden in wall $139; lists related questions (universal mounts, above fireplace, without studs, hide wires, height, which mount) — https://www.thumbtack.com/question/how-much-does-it-cost-to-mount-a-tv-326055994337067113
+- StreetEasy, "How to Hang Things on Brick Walls" (June 12, 2018), masonry expert Michael Russo of Porter Sable: in older buildings "the mortar may be crumbling and [too] unstable" for a heavy item like a TV, "you may want to drill into the brick, away from the edges"; "You never really know what problems might come up"; his own rate about $130 for about an hour — https://streeteasy.com/blog/how-to-hang-things-on-brick-walls
+- Brick Underground Realty Bites (Austin Havens-Bowen, Nov 3 2022): Steven Kirkpatrick (Romer Debbas) says check the lease's alteration provision, a ban not in the lease "wouldn't be enforceable"; Arik Lifshitz (DSA Property Group): "the real concern is what happens when something is taken down", larger holes such as from a removed TV mount are damage, "you must fix it before you move out"; Bill Kowalczuk: ask permission before TV brackets; deposits: itemized list and return within two weeks — https://www.brickunderground.com/rent/realty-bites-landlord-doesnt-want-items-hanging-on-walls-leases-repairs-nyc
+- EC&M Code Q&A (Mike Holt, Feb 10 2022, 2020 NEC): under Sec. 400.12 flexible cords "are not permitted to be concealed by walls, floors, or ceilings", may not run through holes in walls, may not substitute for fixed wiring — https://www.ecmweb.com/national-electrical-code/qa/article/21216469/code-qa-where-can-you-not-use-flexible-cords-and-flexible-cables
+- Gizmodo (Sean Fallon, June 22 2009): reader poll "over 1/3 of you have your HDTV cords hidden behind a wall"; recommends an outlet behind the TV — https://gizmodo.com/5297352/your-wall-mounted-hdtv-probably-violates-electrical-codes
+- Brownstoner forum "Mount TV above fireplace": party walls often plaster over brick with no studs; stud finders unreliable on plaster; BobMarvin: "mounting a TV over a mantel is awfully high and invites a sore neck"; heat from a working fireplace — https://www.brownstoner.com/forum/about-brooklyn/mount-tv-above-fireplace
+- City Line-specific TV installation news, HPD/DOB data on TV work, Yelp reviews for City Line TV mounting: EMPTY
+- Reddit threads specific to TV mounting in City Line: EMPTY
+
+### Questions people ask — TV Installation in City Line
+- How much does it cost to mount a TV? — Thumbtack related questions — https://www.thumbtack.com/question/how-much-does-it-cost-to-mount-a-tv-326055994337067113
+- Can you mount a TV without studs? — Thumbtack related questions — https://www.thumbtack.com/question/how-much-does-it-cost-to-mount-a-tv-326055994337067113
+- Are TV wall mounts universal? — Thumbtack related questions — https://www.thumbtack.com/question/how-much-does-it-cost-to-mount-a-tv-326055994337067113
+- Can a TV be mounted above a fireplace? — Thumbtack / Brownstoner forum — https://www.brownstoner.com/forum/about-brooklyn/mount-tv-above-fireplace
+- Can a TV mounting service also install a home theater system? — Thumbtack — https://www.thumbtack.com/question/how-much-does-it-cost-to-mount-a-tv-326055994337067113
+- Can you mount any TV? — Thumbtack — https://www.thumbtack.com/question/how-much-does-it-cost-to-mount-a-tv-326055994337067113
+- How do I hide the wires to my wall-mounted TV? — Thumbtack — https://www.thumbtack.com/question/how-much-does-it-cost-to-mount-a-tv-326055994337067113
+- What type of TV mount do I need? — Thumbtack — https://www.thumbtack.com/question/how-much-does-it-cost-to-mount-a-tv-326055994337067113
+- What is the surface the TV will be mounted on? — Angi intake — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount/
+- Will you supply the mount and accessories? — Angi article — https://angi.com/articles/tv-mounting-questions.htm
+- Would bundling extra services save a separate service call? — Angi article — https://angi.com/articles/tv-mounting-questions.htm
+- Can my landlord stop me from mounting a TV? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-landlord-doesnt-want-items-hanging-on-walls-leases-repairs-nyc
+- Will TV mount holes cost me my security deposit? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-landlord-doesnt-want-items-hanging-on-walls-leases-repairs-nyc
+- Should I drill into the mortar or the brick? — StreetEasy — https://streeteasy.com/blog/how-to-hang-things-on-brick-walls
+- Is it against code to run a TV power cord inside the wall? — EC&M / Gizmodo — https://gizmodo.com/5297352/your-wall-mounted-hdtv-probably-violates-electrical-codes
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Yelp for "tv installation City Line": EMPTY
