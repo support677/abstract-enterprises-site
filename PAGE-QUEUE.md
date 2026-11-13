@@ -967,7 +967,7 @@ LIVE | alarm-installation-brooklyn-chinatown-brooklyn-ny | Alarm Installation | 
 LIVE | alarm-installation-city-line-brooklyn-ny | Alarm Installation | City Line, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | alarm-installation-clinton-hill-brooklyn-ny | Alarm Installation | Clinton Hill, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-13T01:14Z max-burn REBUILD | alarm-installation-columbia-street-waterfront-brooklyn-ny | Alarm Installation | Columbia Street Waterfront, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-13T01:14Z max-burn REBUILD | alarm-installation-east-flatbush-brooklyn-ny | Alarm Installation | East Flatbush, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | alarm-installation-east-flatbush-brooklyn-ny | Alarm Installation | East Flatbush, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | alarm-installation-east-new-york-brooklyn-ny | Alarm Installation | East New York, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | alarm-installation-east-tremont-bronx-ny | Alarm Installation | East Tremont, Bronx | up /alarm-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | alarm-installation-east-williamsburg-brooklyn-ny | Alarm Installation | East Williamsburg, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
