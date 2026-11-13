@@ -1157,7 +1157,7 @@ REBUILD | structured-cabling-installation-throggs-neck-bronx-ny | Structured Cab
 REBUILD | structured-cabling-installation-university-heights-bronx-ny | Structured Cabling Installation | University Heights, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | structured-cabling-installation-west-farms-bronx-ny | Structured Cabling Installation | West Farms, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | structured-cabling-installation-williamsbridge-bronx-ny | Structured Cabling Installation | Williamsbridge, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-13T15:04Z max-burn REBUILD | structured-cabling-installation-wingate-brooklyn-ny | Structured Cabling Installation | Wingate, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | structured-cabling-installation-wingate-brooklyn-ny | Structured Cabling Installation | Wingate, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | structured-cabling-installation-woodstock-bronx-ny | Structured Cabling Installation | Woodstock, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | tv-installation-bathgate-bronx-ny | TV Installation | Bathgate, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | tv-installation-bay-ridge-brooklyn-ny | TV Installation | Bay Ridge, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
