@@ -1180,19 +1180,19 @@ LIVE | tv-installation-city-line-brooklyn-ny | TV Installation | City Line, Broo
 REBUILD | tv-installation-concourse-bronx-ny | TV Installation | Concourse, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | tv-installation-coney-island-brooklyn-ny | TV Installation | Coney Island, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-country-club-bronx-ny | TV Installation | Country Club, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | tv-installation-dumbo-brooklyn-ny | TV Installation | Dumbo, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | tv-installation-east-flatbush-brooklyn-ny | TV Installation | East Flatbush, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T15:51Z max-burn REBUILD | tv-installation-dumbo-brooklyn-ny | TV Installation | Dumbo, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T15:51Z max-burn REBUILD | tv-installation-east-flatbush-brooklyn-ny | TV Installation | East Flatbush, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | tv-installation-east-new-york-brooklyn-ny | TV Installation | East New York, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | tv-installation-east-williamsburg-brooklyn-ny | TV Installation | East Williamsburg, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T15:51Z max-burn REBUILD | tv-installation-east-williamsburg-brooklyn-ny | TV Installation | East Williamsburg, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-eastchester-bronx-ny | TV Installation | Eastchester, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | tv-installation-edenwald-bronx-ny | TV Installation | Edenwald, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | tv-installation-edgewater-park-bronx-ny | TV Installation | Edgewater Park, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | tv-installation-fairmount-bronx-ny | TV Installation | Fairmount, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | tv-installation-flatbush-brooklyn-ny | TV Installation | Flatbush, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | tv-installation-flatlands-brooklyn-ny | TV Installation | Flatlands, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | tv-installation-fort-greene-brooklyn-ny | TV Installation | Fort Greene, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | tv-installation-fort-hamilton-brooklyn-ny | TV Installation | Fort Hamilton, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | tv-installation-fulton-ferry-brooklyn-ny | TV Installation | Fulton Ferry, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T15:51Z max-burn REBUILD | tv-installation-flatbush-brooklyn-ny | TV Installation | Flatbush, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T15:51Z max-burn REBUILD | tv-installation-flatlands-brooklyn-ny | TV Installation | Flatlands, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T15:51Z max-burn REBUILD | tv-installation-fort-greene-brooklyn-ny | TV Installation | Fort Greene, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T15:51Z max-burn REBUILD | tv-installation-fort-hamilton-brooklyn-ny | TV Installation | Fort Hamilton, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T15:51Z max-burn REBUILD | tv-installation-fulton-ferry-brooklyn-ny | TV Installation | Fulton Ferry, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-gowanus-brooklyn-ny | TV Installation | Gowanus, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-gravesend-brooklyn-ny | TV Installation | Gravesend, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-greenwood-heights-brooklyn-ny | TV Installation | Greenwood Heights, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
