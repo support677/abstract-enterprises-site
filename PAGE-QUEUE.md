@@ -394,7 +394,7 @@ LIVE | door-buzzer-repair-sunset-park-brooklyn-ny | Door Buzzer Repair | Sunset 
 LIVE | door-buzzer-repair-vinegar-hill-brooklyn-ny | Door Buzzer Repair | Vinegar Hill, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-repair-williamsburg-brooklyn-ny | Door Buzzer Repair | Williamsburg, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | unifi-protect-vs-hikvision | Comparison: UniFi Protect vs Hikvision | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-13T18:17Z max-daily | adt-vs-simplisafe-vs-local-installer | Comparison: ADT vs SimpliSafe vs Local Licensed Installer | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE | adt-vs-simplisafe-vs-local-installer | Comparison: ADT vs SimpliSafe vs Local Licensed Installer | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | 2gig-vs-qolsys | Comparison: 2GIG vs Qolsys | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | doorbird-vs-2n | Comparison: DoorBird vs 2N | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | akuvox-vs-butterflymx | Comparison: Akuvox vs ButterflyMX | NYC hub | up / | (800) 486-0943 | GBP Brooklyn

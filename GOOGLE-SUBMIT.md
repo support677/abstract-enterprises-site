@@ -3530,3 +3530,4 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-13 | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-van-nest-bronx-ny | QUEUED
 2026-11-13 | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-wakefield-bronx-ny | QUEUED
 2026-11-13 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-highland-park-brooklyn-ny | QUEUED
+2026-11-13 | https://www.abstractenterprisessecuritysystems.com/adt-vs-simplisafe-vs-local-installer | QUEUED
