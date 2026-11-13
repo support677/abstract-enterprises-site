@@ -974,11 +974,11 @@ LIVE | alarm-installation-east-williamsburg-brooklyn-ny | Alarm Installation | E
 LIVE | alarm-installation-flatlands-brooklyn-ny | Alarm Installation | Flatlands, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | alarm-installation-midwood-brooklyn-ny | Alarm Installation | Midwood, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | alarm-installation-new-utrecht-brooklyn-ny | Alarm Installation | New Utrecht, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | alarm-installation-prospect-lefferts-gardens-brooklyn-ny | Alarm Installation | Prospect Lefferts Gardens, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | alarm-installation-sheepshead-bay-brooklyn-ny | Alarm Installation | Sheepshead Bay, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T11:09Z max-burn REBUILD | alarm-installation-prospect-lefferts-gardens-brooklyn-ny | Alarm Installation | Prospect Lefferts Gardens, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T11:09Z max-burn REBUILD | alarm-installation-sheepshead-bay-brooklyn-ny | Alarm Installation | Sheepshead Bay, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | alarm-installation-soundview-bronx-ny | Alarm Installation | Soundview, Bronx | up /alarm-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | alarm-installation-south-williamsburg-brooklyn-ny | Alarm Installation | South Williamsburg, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | alarm-installation-stuyvesant-heights-brooklyn-ny | Alarm Installation | Stuyvesant Heights, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T11:09Z max-burn REBUILD | alarm-installation-south-williamsburg-brooklyn-ny | Alarm Installation | South Williamsburg, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T11:09Z max-burn REBUILD | alarm-installation-stuyvesant-heights-brooklyn-ny | Alarm Installation | Stuyvesant Heights, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-repair-bensonhurst-brooklyn-ny | Door Buzzer Repair | Bensonhurst, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-repair-bergen-beach-brooklyn-ny | Door Buzzer Repair | Bergen Beach, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-repair-boerum-hill-brooklyn-ny | Door Buzzer Repair | Boerum Hill, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
@@ -1001,7 +1001,7 @@ LIVE | door-buzzer-repair-prospect-park-south-brooklyn-ny | Door Buzzer Repair |
 REBUILD | door-buzzer-repair-van-nest-bronx-ny | Door Buzzer Repair | Van Nest, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 REBUILD | door-buzzer-repair-washingtonville-bronx-ny | Door Buzzer Repair | Washingtonville, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE | door-buzzer-repair-windsor-terrace-brooklyn-ny | Door Buzzer Repair | Windsor Terrace, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
-REBUILD | fire-alarm-installation-bath-beach-brooklyn-ny | Fire Alarm Installation | Bath Beach, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T11:09Z max-burn REBUILD | fire-alarm-installation-bath-beach-brooklyn-ny | Fire Alarm Installation | Bath Beach, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-baychester-bronx-ny | Fire Alarm Installation | Baychester, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-bedford-stuyvesant-brooklyn-ny | Fire Alarm Installation | Bedford Stuyvesant, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-belmont-bronx-ny | Fire Alarm Installation | Belmont, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
