@@ -1093,7 +1093,7 @@ LIVE | intercom-installation-williamsburg-brooklyn-ny | Intercom Installation | 
 LIVE | intercom-installation-windsor-terrace-brooklyn-ny | Intercom Installation | Windsor Terrace, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-woodlawn-heights-bronx-ny | Intercom Installation | Woodlawn Heights, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | intercom-installation-woodstock-bronx-ny | Intercom Installation | Woodstock, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | network-cable-repair-bushwick-brooklyn-ny | Network Cable Repair | Bushwick, Brooklyn | up /network-cable-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-13T11:44Z max-burn REBUILD | network-cable-repair-bushwick-brooklyn-ny | Network Cable Repair | Bushwick, Brooklyn | up /network-cable-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | network-cable-repair-williamsburg-brooklyn-ny | Network Cable Repair | Williamsburg, Brooklyn | up /network-cable-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-installation-bath-beach-brooklyn-ny | Security Camera Installation | Bath Beach, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-bedford-park-bronx-ny | Security Camera Installation | Bedford Park, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
