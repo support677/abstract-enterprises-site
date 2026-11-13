@@ -1235,3 +1235,58 @@ None of these come from verified PAA, PASF, AnswerThePublic, Bing or DuckDuckGo 
 - Where can I watch World Cup games in Brighton Beach? — Brooklyn Public Library — https://www.bklynlibrary.org/calendar/world-cup-2026-watch-brighton-beach-library-20260622-0100pm
 - How do I mount a TV on an uneven masonry wall? — Reddit r/DIY — https://lr.us.psf.lt/r/DIY/comments/1arhi5c/how_to_mount_a_tv_on_an_uneven_masonry_facade/kqjmaml/?context=3
 - Google PAA / AnswerThePublic / Bing / DuckDuckGo exact question lists for "tv installation Brighton Beach": EMPTY
+
+## Brooklyn Chinatown, Brooklyn — /tv-installation-brooklyn-chinatown-brooklyn-ny (factory research, 2026-11-13)
+
+**Neighborhood shape and building stock that bears on TV work**
+- Eighth Avenue runs roughly 42nd to 68th Street through Brooklyn Chinatown; the 50th to 65th Street stretch is called "the original core"; Fuzhou residents have spread onto Seventh and Ninth Avenues and north through 42nd–50th Streets — https://en.wikipedia.org/wiki/Chinatowns_in_Brooklyn
+- Cantonese settled the area first and dominated for decades; Fuzhounese now predominates; Mandarin use grew in the 2000s–2010s; Hakka has emerged — https://en.wikipedia.org/wiki/Chinatowns_in_Brooklyn
+- 2020 Census (as cited): Sunset Park had 31,400 Asian residents; Brooklyn's foreign-born Chinese population rose from 86,000 to 128,000 between 2000 and 2013 — https://en.wikipedia.org/wiki/Chinatowns_in_Brooklyn
+- Early history: Choi Yung Grocery (1983, Fort Hamilton Parkway), Canton House (1985, Eighth Ave between 55th and 56th), Winley Supermarket (1986, 5523 Eighth Ave); before 1984 "only about thirty small shops" on the avenue — https://en.wikipedia.org/wiki/Chinatowns_in_Brooklyn
+- Residential side streets are lined with brick two-family homes; commercial buildings on Eighth Avenue mostly have residents living above them — https://eportfolios.macaulay.cuny.edu/seminars/gardner10-chinese/articles/h/o/u/Housing_of_Sunset_Park_29eb.html
+- LPC designated four Sunset Park historic districts on June 18, 2019 (Sunset Park North on 44th St between 5th and 7th Aves, 56 buildings, 1900s; Sunset Park South 54th–59th Sts between 4th and 5th Aves, ~285 buildings, mostly 1890s; Central Sunset Park 47th–48th Sts between 5th and 6th Aves, ~148 buildings, 1897–1906; 50th Street between 4th and 5th Aves, 50 houses, 1897–1903). None lies on Eighth Avenue itself; they are west of the Chinatown core — https://www.citylandnyc.org/landmarks-designates-sunset-park-historic-districts/
+- 6208 Eighth Avenue (between 61st and 64th Streets): 28-story reinforced-concrete mixed-use tower, 497 units plus about 100,000 sq ft of ground-floor retail, Raymond Chan Architect, Watermark Capital; YIMBY expects completion late 2027; amenities include a screening room and coworking lounge — https://newyorkyimby.com/2026/05/497-unit-tower-rises-at-6208-8th-avenue-in-sunset-park-brooklyn.html
+- 816 58th Street (between 8th and 9th Aves): eight-story steel-frame mixed-use building, nine apartments averaging 711 sq ft with floor-to-ceiling windows, S M Tam Architect; stalled at 90 percent, sold for $9.8 million in 2024 — https://newyorkyimby.com/2024/10/816-58th-street-awaits-completion-in-sunset-park-brooklyn.html
+
+**TV-specific: Chinese-language TV, boxes and legality**
+- EVPAD boxes ('3p', '10p', Android 7.0, sold with a "lifetime" subscription) studied by Korea University researchers (USENIX Security '25): authentication bypass, a single crafted TCP packet can end a peer's service, updates not integrity-checked, SELinux permissive, side-loading allowed; 131,175 devices found across 116 countries; rightsholders reported EVPAD to the USTR Notorious Markets review — https://torrentfreak.com/pirate-iptv-box-evades-blocking-but-is-also-critically-vulnerable-to-attack-251130/
+- Taiwan: the responsible person of Unblocktech Taiwan was sentenced to four years for copyright infringement — https://www.tiplo.com.tw/en/tn/1441/47957
+- iTalkBB markets a licensed Chinese TV box in the US: 30+ channels incl. CCTV4, China Movie Channel, Hunan International, with a TVB Jade premium tier and 72-hour rewind; says "Stable internet connectivity delivers smooth HD playback without buffering" and that content is "legally licensed" (vendor claim) — https://www.italkbb.com/us/en/blog-20240627-italkbbtvbox
+- TVB Anywhere is TVB's own overseas streaming service — https://Www.Wikipedia.org/wiki/TVB_Anywhere
+
+**Rules and guidance that change how the job is done**
+- NEC 400.8(5) (as summarized by Gizmodo): flexible cords "shall not be used" where "concealed by walls, floors, or ceilings"; proper fix is "a new electric socket installed directly behind the TV" — https://gizmodo.com/your-wall-mounted-hdtv-probably-violates-electrical-cod-5297352
+- ADA/ANSI 307.2: objects with leading edges "between 27 and 80 inches above the floor" may project no more than 4 inches into a circulation path — https://evstudio.com/ansiada-protruding-object-limits/
+- Sanus: "From a seated position, eye level is generally about 42 inches off the floor" — https://blog.sanus.com/tv-mounting-height-where-to-put-your-tv-on-the-wall-video
+- Brick Underground (Oct. 26, 2020): Arik Lifshitz, DSA Property Group: "a nail or screw-sized hole from a picture frame or shelving system would fall within wear and tear"; "a huge hole in the wall or floor is damage"; attorney Justin C. Brasch: "careless drilling of the wall or drilling to hold heavy hangings" can be "viewed as much more than normal wear and tear"; "You are not responsible for any damage from a previous tenant" — https://www.brickunderground.com/rent/what-is-normal-wear-and-tear-on-a-rental-apartment-walls-floors-landlord-repairs-nyc
+- FCC OTARD satellite-dish rule text: EMPTY (FCC pages could not be retrieved)
+
+**Local calendar affecting access**
+- Sunset Park Chinese New Year Parade, Sunday Feb. 22, 2026, 11 a.m.–2:30 p.m., firecrackers and lion dances from 11 a.m., parade at 1 p.m., on Eighth Avenue between 50th and 61st Streets — https://www.brooklynpaper.com/celebrate-lunar-new-year-brooklyn-2026
+- Calligraphy couplets event, United Cultural Association, 829 63rd Street, Feb. 12, 2026 — https://www.brooklynpaper.com/celebrate-lunar-new-year-brooklyn-2026
+
+**Published cost claims (for AI Reality Check)**
+- Angi/HomeAdvisor Brooklyn TV mounting: average $280, typical range $172–$376, low to high $100–$670 — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount
+- TaskRabbit Brooklyn: TV mounting "starts at $45 per hour"; 4,056 featured TV mounting Taskers in Brooklyn — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+
+**Forums**
+- Brownstoner forum "Mount TV above fireplace" (user zhideng): contractor advised against it; BobMarvin: party walls are plaster over brick with no studs, "It's much easier to mount things on a non-party wall, with plaster over wood lath"; TV over mantel high and can cause neck strain — https://www.brownstoner.com/forum/about-brooklyn/mount-tv-above-fireplace
+- Reddit threads specific to TV mounting in Brooklyn Chinatown / Sunset Park: EMPTY
+- Yelp reviews for TV mounting in Sunset Park: EMPTY
+- HPD / 311 / DOB data specific to TV installation: EMPTY
+
+### Questions people ask — TV Installation in Brooklyn Chinatown
+- Google People Also Ask: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- AnswerThePublic: EMPTY
+- Yelp: EMPTY
+- How much does it cost to mount a TV in Brooklyn? — TaskRabbit FAQ — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- Can I mount my TV on a brick or concrete wall in Brooklyn? — TaskRabbit FAQ — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- What services are included in TV mounting? — TaskRabbit FAQ — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- Can you mount a TV over your fireplace? — TaskRabbit FAQ / Brownstoner forum — https://www.brownstoner.com/forum/about-brooklyn/mount-tv-above-fireplace
+- What is the surface the TV will be mounted on? — Angi intake question — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount
+- Please describe the wall and ceiling access. — Angi intake question — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount
+- Are there ever studs in brownstone party walls? — Brownstoner forum — https://www.brownstoner.com/forum/about-brooklyn/mount-tv-above-fireplace
+- Is a screw hole from a TV mount normal wear and tear in a NYC rental? — Brick Underground topic — https://www.brickunderground.com/rent/what-is-normal-wear-and-tear-on-a-rental-apartment-walls-floors-landlord-repairs-nyc
+- How do I watch Chinese TV in the US? — iTalkBB topic — https://www.italkbb.com/us/en/blog-20240627-italkbbtvbox
+- Are EVPAD / Unblock Tech boxes safe or legal? — TorrentFreak topic — https://torrentfreak.com/pirate-iptv-box-evades-blocking-but-is-also-critically-vulnerable-to-attack-251130/
