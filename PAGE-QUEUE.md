@@ -1188,7 +1188,7 @@ REBUILD | tv-installation-eastchester-bronx-ny | TV Installation | Eastchester, 
 REBUILD | tv-installation-edenwald-bronx-ny | TV Installation | Edenwald, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | tv-installation-edgewater-park-bronx-ny | TV Installation | Edgewater Park, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | tv-installation-fairmount-bronx-ny | TV Installation | Fairmount, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-13T15:51Z max-burn REBUILD | tv-installation-flatbush-brooklyn-ny | TV Installation | Flatbush, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | tv-installation-flatbush-brooklyn-ny | TV Installation | Flatbush, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | tv-installation-flatlands-brooklyn-ny | TV Installation | Flatlands, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | tv-installation-fort-greene-brooklyn-ny | TV Installation | Fort Greene, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | tv-installation-fort-hamilton-brooklyn-ny | TV Installation | Fort Hamilton, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
