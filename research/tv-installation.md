@@ -1472,3 +1472,29 @@ None of these come from verified PAA, PASF, AnswerThePublic, Bing or DuckDuckGo 
 - AnswerThePublic: EMPTY
 - Reddit: EMPTY
 - Yelp: EMPTY
+
+## Cadman Plaza, Brooklyn — /tv-installation-cadman-plaza-brooklyn-ny (factory research, 2026-11-13)
+
+- One Clinton (280 Cadman Plaza West, the condo over the new Brooklyn Heights library): CityRealty review describes a 36-story building with 133 apartments, developed by Hudson Companies, designed by Marvel Architects, interiors by Studio DB; apartments have "ceiling heights of at least 9 feet", 7-inch-wide white oak floors, a washer and dryer in each unit and a multi-zoned heating and cooling system; amenities include a 26th-floor sky lounge, fitness center, a 150-person community room and a public co-working space; page gives no wall-construction or media-wiring details — https://cityrealty.com/nyc/brooklyn-heights/one-clinton-280-cadman-plaza-west/review/68115
+- Concrete walls and TV mounts (SlashGear): needs "an electric hammer drill, masonry drill bit, hammer, level, and concrete screws", holes "deep enough to fit anchors"; warns "you may run into rebar, a steel bar that strengthens concrete" and that you then "have to stop drilling and use a cutter to get through the metal — or find a new spot"; concrete has no studs to find but the job takes longer than drywall — https://www.slashgear.com/2214559/can-you-mount-tv-on-concrete-wall/
+- Co-op/condo alteration agreements are the standard NYC document governing apartment work (Brick Underground "what are alteration agreements"; Habitat "Building a Better Alteration Agreement", Dec 2022; Hauseit "Typical Co-op Renovation Rules in NYC"); titles and topic only, building-specific rules for 140 Cadman Plaza West, 75 Henry St or Cadman Towers not found — https://www.brickunderground.com/improve/what-are-alteration-agreements ; https://habitatmag.com/Archive2/405-December-2022/Building-A-Better-Alteration-Agreement ; https://www.hauseit.com/co-op-renovation-rules-nyc/
+- Cadman Plaza Park hosts outdoor screen events (Movies Under the Stars, e.g. Big Hero 6; a "Much Ado About Nothing (live from the Delacorte Theater)" broadcast at Cadman Plaza listed by Macaroni Kid); NYC Parks events page for Cadman Plaza Park and the Brooklyn War Memorial; Cadman Plaza north oval reopening noted by Brooklyn Bridge Parents — https://brooklynnw.macaronikid.com/events/689baca45e6257f29d8467b9/-movies-under-the-stars-big-hero-6-(2014)-at-cadman-plaza-park ; https://brooklynnw.macaronikid.com/events/66254128bc0e2a79f0c456de/-much-ado-about-nothing-(live-from-the-delacorte-theater)-at-cadman-plaza-in-brooklyn-heights ; https://brooklynbridgeparents.com/cadman-plaza-north-oval-back-open/
+- FCC Over-the-Air Reception Devices (OTARD) rule governs dishes/antennas in areas a resident exclusively controls; FCC consumer guide and fact pages found in search but could not be opened — details EMPTY; page states only the general principle — https://www.fcc.gov/sites/default/files/installing_consumer-owned_antennas_and_satellite_dishes.pdf
+- Brownstoner forum "Mount TV above fireplace" (old brownstone plaster, party walls plaster over brick, lead shields) — already used by sibling pages; not used here — https://www.brownstoner.com/forum/about-brooklyn/mount-tv-above-fireplace
+- Building facts for Cadman Plaza towers (140 CPW 1967 27 floors 250 units; 75 Henry St 32/33 stories; Cadman Towers 1971, 32- and 13-story towers, 420/421 units, 50 duplex townhouses, saw-toothed poured concrete, garages, Pineapple Walk retail; HDFC conversion 2024 with Housing Connect lottery) — from shared neighborhood background (nycurbanism.com, cityrealty.com, thecity.nyc, brownstoner.com) — https://www.nycurbanism.com/brutalnyc/2017/2/1/cadman-towers
+- Cable/fiber provider availability for the Cadman Plaza towers (Verizon Fios / Spectrum / Optimum): EMPTY (search returned no building-specific results)
+- HPD violations / 311 / DOB permits bearing on TV installation in Cadman Plaza: EMPTY (not searched — search budget exhausted)
+- Local news about TV installation in Cadman Plaza: EMPTY
+- Yelp complaints/praise for TV mounting near Cadman Plaza: EMPTY (search budget exhausted)
+- Google PAA / PASF / AI Overview / Bing / DuckDuckGo for "tv installation Cadman Plaza": EMPTY (not accessible in build env)
+
+### Questions people ask — TV Installation in Cadman Plaza
+- Can you mount a TV on a concrete wall? — search result title (Google/Bing-style result) — https://www.slashgear.com/2214559/can-you-mount-tv-on-concrete-wall/
+- Can you mount a TV in an apartment? (tips for renters) — search result title — https://sharedeasy.club/can-you-mount-a-tv-in-an-apartment
+- What is an alteration agreement, and what should I do if my building doesn't have one? — search result title (Brick Underground) — https://www.brickunderground.com///node/45007
+- What are the typical co-op renovation rules in NYC? — search result title (Hauseit) — https://www.hauseit.com/co-op-renovation-rules-nyc/
+- How to mount a TV on an uneven masonry facade? — Reddit r/DIY (mirror) — https://lr.us.psf.lt/r/DIY/comments/1arhi5c/how_to_mount_a_tv_on_an_uneven_masonry_facade/kqjqtqc/?context=3
+- Advice on wall-mounting a TV on concrete — forum (OzBargain, not local) — https://ozbargain.com.au/node/376274
+- What is it like to live in one of those small brick apartment buildings on Henry Street by Cadman Plaza? — Reddit r/AskNYC — https://www.reddit.com/r/AskNYC/comments/1bmxmm9/what_is_it_like_to_live_in_one_of_those_small/
+- Buying an HDFC co-op — Reddit r/AskNYC — https://www.reddit.com/r/AskNYC/comments/1r1he2u/buying_an_hdfc_coop/
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Yelp questions: EMPTY
