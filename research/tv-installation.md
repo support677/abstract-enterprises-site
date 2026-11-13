@@ -1640,3 +1640,61 @@ None of these come from verified PAA, PASF, AnswerThePublic, Bing or DuckDuckGo 
 - How much does it cost to hire someone to mount a TV? — Fixr FAQ — https://www.fixr.com/costs/tv-mount-installation
 - Can my landlord stop me from mounting a TV? — Brick Underground — https://new.brickunderground.com/rent/my-landlord-says-i-cant-hang-things-on-my-apartment-walls-whats-the-deal
 - Google PAA / PASF / Answer the Public / Bing / DuckDuckGo for "tv installation Canarsie": EMPTY (not captured)
+
+## East Williamsburg, Brooklyn — /tv-installation-east-williamsburg-brooklyn-ny (factory research, 2026-11-13)
+
+Note: the live web-search budget for this build was exhausted before any new search ran. Every finding below was already gathered and sourced in the TV silo research and the East Williamsburg neighborhood research (published guides, city documents, local news). Live surfaces are marked EMPTY rather than filled.
+
+- Building stock that the TV work meets: historic loft buildings in the North Brooklyn industrial area are generally three to five stories; sectors include film and production, tech and media, restaurants, entertainment venues, galleries, artist studios and coworking; more than one-third of new jobs 2010–2016 were in office, retail, arts and entertainment — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/north-brooklyn-vision-plan/north-brooklyn-exec-sum-eng.pdf
+- Morgan Avenue splits the neighborhood: the eastern side over to Newtown Creek is zoned for industry (East Williamsburg Industrial Park); commercial and residential to the west — https://www.corcoran.com/neighborhoods/guide/new-york-city/east-williamsburg
+- Many warehouses and factories converted into loft apartments, artist studios and creative workspaces — https://www.hlres.com/buildings/neighborhood/14/east-williamsburg
+- Loft Law / IMDs: Loft Board oversees conversion of former commercial and manufacturing buildings into "safe, rent-stabilized residential units"; IMDs must meet "minimum standards of safety and fire protection"; plans filed Dec 2024 to legalize 43 units at an East Williamsburg IMD (57 Thames Street) — https://www.nyc.gov/site/loftboard/about/about.page ; https://www.pincusco.com/israel-cohen-files-plans-for-43-resi-units-to-legalize-east-williamsburg-imd/
+- New office space in old factories: The Paper Mill at 456 Johnson Ave (built 1931) planned 35 commercial office units; other creative offices at 455 Jefferson, 95 Evergreen, 215 Moore St (conference-room and lobby displays) — https://bushwickdaily.com/news/3527-more-office-space-coming-to-east-williamsburg-with-paper-mill-conversion/
+- Netflix studio at 333 Johnson Ave: 170,000 sq ft, six sound stages plus editing and meeting rooms — https://www.brooklynpaper.com/netflix-to-open-new-studio-in-bushwick-in-september/
+- Brooklyn Steel, 319 Frost St: former steel fabrication plant, 1,800 capacity, three full-service bars, elevated VIP mezzanine; co-owner John Moore: "It's a steel fabrication plant and we wanted to embrace that." — https://www.amny.com/entertainment/brooklyn-steel-east-williamsburg-s-new-music-venue-opens-with-locals-lcd-soundsystem-1.13366355 ; https://relentlessbeats.com/venues/brooklyn-steel
+- Brooklyn Pacha opened Nov 6–7, 2026 at 140 Stewart Ave; indoor room holds about 2,500 people — https://hauteliving.com/2026/10/brooklyn-pacha-opening-weekend/799290/
+- Morgan Ave food and coffee spots: Roberta's, Otis, Sobre Masa, Sey Coffee, Swallow Cafe, Syndicated Bar Theater Kitchen — https://www.capricornre.com/properties/81-morgan-avenue
+- 56 Bogart St: artist studios on 2nd/3rd floors, galleries on the ground floor — https://hyperallergic.com/56-bogart-street-bos-2012/
+- Lindsay Park: Mitchell-Lama co-op, seven buildings, 2,702 apartments, completed 1965 — https://en.wikipedia.org/wiki/Lindsay_Park_(housing_cooperative)
+- Broadband: NYCEDC called the North Brooklyn and Greenpoint-Williamsburg IBZs "digital deserts"; Connect IBZ used fiber core plus fixed-wireless with rooftop-mounted equipment (bears on streaming boxes and wired drops behind a TV) — https://edc.nyc/press-release/nycedc-announces-launch-connect-ibz-broadband-expansion-industrial-business-zones
+- Power: a manhole fire at 101 Montrose Ave in Feb 2026 left hundreds of Williamsburg residents without power (case for surge protection on AV gear) — https://greenpointers.com/2026/02/17/manhole-fire-in-williamsburg-leads-to-massive-power-outage/
+- Flood exposure: 200 Morgan Ave listed in Hurricane evacuation Zone 1, E1 general warehouse (cellar/ground-floor equipment) — https://streeteasy.com/building/200-morgan-avenue-brooklyn
+- Low-voltage permit rule: Admin Code §28-105.4.7 (Local Law 128 of 2024), in effect Dec 21, 2025 — no electrical permit for wiring under 50 volts for signaling, communication and data, when done by a licensed master electrician, special electrician or qualified person (HDMI/data/speaker runs vs. 120V outlets) — https://www.nyc.gov/assets/buildings/local_laws/ll128of2024.pdf
+- StreetEasy Talk "mounting tv on wall": in-wall outlets need an electrician; a Romex-based power kit "is not NYC code compliant"; NYC walls need armored cable; a prewar owner said a big-box crew "had no idea where to begin" — https://streeteasy.com/talk/discussion/25415-mounting-tv-on-wall
+- Brick: "It's usually easier to drill in mortar than brick, but with older buildings, the mortar may be crumbling" (mason Michael Russo) — https://streeteasy.com/blog/how-to-hang-things-on-brick-walls/amp/
+- This Old House: "Always drill into the brick, but not within a half-inch of its edges as it can crack"; "Mortar is much softer than brick, and the anchor's grip will eventually deteriorate"; "Masonry bits are an absolute must" — https://www.thisoldhouse.com/electrical/22392273/mounting-tv-on-brick-wall
+- Brownstoner forum: party walls often "just plaster over brick" with no studs; short anchors held "a few weeks", long lead shields held decades; daveinbedstuy: "First, you will be amazed at how light the TV actually is." — https://www.brownstoner.com/forum/about-brooklyn/mount-tv-above-fireplace
+- City-Data on NYCHA-era walls: "The older NYCHAs are heavy plaster."; "I had actual cinderblock walls separating the apartments."; "You will need hammer drill for most areas of the apartment" — https://www.city-data.com/forum/new-york-city-housing-lottery/3091737-what-nycha-walls-made-how-do-i-drill-holes-them-hang-stuff-2.html
+- NYCHA house rules: "Residents may only install TV antennas inside their apartments"; residents may not alter apartments or add fixtures without written consent (Williamsburg Houses, Cooper Park Houses are NYCHA in the area) — https://www.nyc.gov/assets/nycha/downloads/pdf/pp/house-rules-040821.pdf
+- Brick Underground: a landlord ban on hanging items is enforceable if in the lease (Steven Kirkpatrick); ask before installing TV brackets (Bill Kowalczuk); Arik Lifshitz: "If the hole is larger than the size of a nail, then it's considered damage."; deposit returned within two weeks with itemized deductions — https://www.brickunderground.com/rent/realty-bites-landlord-doesnt-want-items-hanging-on-walls-leases-repairs-nyc
+- HPD lead-safe work practices: Local Law 1 covers pre-1960 buildings where a child under six lives; lead-safe practices required when work disturbs 2 sq ft or more of paint in a room — https://www.nyc.gov/assets/hpd/downloads/pdfs/services/lead-safe-work-practices-faqs.pdf
+- CPSC (Feb 8, 2024): 217 tip-over deaths 2013–July 2023, 137 children; 47 percent involved a television; about 17,800 ER-treated tip-over injuries a year; Chair Alex Hoehn-Saric: "Furniture and TV tip-overs remain a significant safety hazard in American households." — https://www.cpsc.gov/Newsroom/News-Releases/2024/Ahead-of-Sundays-Game-CPSC-Reminds-Families-to-Tackle-the-Deadly-Hazard-of-TV-and-Furniture-Tip-Overs
+- OSHA silica: handheld drills in concrete need a shroud with vacuum and 99%+ efficiency filter; PEL 50 μg/m3 — https://www.osha.gov/sites/default/files/publications/OSHA_FS-3630.pdf
+- NYC DEP noise code: approved construction hours weekdays 7:00 a.m.–6:00 p.m. — https://www.nyc.gov/assets/dep/downloads/pdf/environment/education/nyc-noise-code-fact-sheet.pdf
+- Cost guides: Angi Brooklyn TV mounting average $280, typical $172–$376, low–high $100–$670 — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount ; Angi national average $254, brick/concrete/stone $50–$600+, over-fireplace $175–$400 — https://www.angi.com/articles/how-much-does-it-cost-mount-tv.htm ; Bob Vila: brick, concrete or stone $200–$800, in-wall wiring "can cost as much as $1,000" — https://www.bobvila.com/articles/tv-mount-installation-cost/
+- TaskRabbit Williamsburg: "TV mounting in Williamsburg starts at $45 per hour"; confirm with landlord first — https://www.taskrabbit.com/locations/williamsburg/wall-mount-tv ; TaskRabbit cost blog: NYC average invoice $152 — https://www.taskrabbit.com/blog/what-is-the-cost-of-mounting-a-tv/
+- Angi: drywall mounting takes about an hour, brick can take several hours; check VESA compatibility if you supply the mount — https://angi.com/articles/tv-mounting-questions.htm
+- Metal framing in commercial fit-outs: Mount-Up guide on installing a TV mount with metal studs — https://mountup.com/blogs/news/how-to-install-a-tv-wall-mount-if-you-have-metal-framing
+- DOB permits / HPD violations / 311 data specific to TV mounting in East Williamsburg: EMPTY
+- Local news about TV installation in East Williamsburg: EMPTY
+- Reddit threads specific to TV mounting in East Williamsburg: EMPTY
+- Yelp complaints/praise for TV mounting in East Williamsburg: EMPTY
+- Google PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / AI Overview for this query: EMPTY
+
+### Questions people ask — TV Installation in East Williamsburg
+- How much does it cost to mount a TV in Williamsburg? — TaskRabbit FAQ — https://www.taskrabbit.com/locations/williamsburg/wall-mount-tv
+- How much do TV mounting services typically cost in Brooklyn? — Angi cost page — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount
+- Can you mount a TV on a concrete wall? — SlashGear headline — https://www.slashgear.com/2214559/can-you-mount-tv-on-concrete-wall/
+- Should I drill into the mortar or the brick? — StreetEasy blog — https://streeteasy.com/blog/how-to-hang-things-on-brick-walls/amp/
+- How to install a TV wall mount if you have metal framing? — Mount-Up — https://mountup.com/blogs/news/how-to-install-a-tv-wall-mount-if-you-have-metal-framing
+- Does concealing wires in concrete cost more? — Bob Vila — https://www.bobvila.com/articles/tv-mount-installation-cost/
+- Is a Romex in-wall power kit legal in NYC? — StreetEasy Talk — https://streeteasy.com/talk/discussion/25415-mounting-tv-on-wall
+- Will TV mounting holes come out of my security deposit? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-landlord-doesnt-want-items-hanging-on-walls-leases-repairs-nyc
+- Can my landlord stop me from mounting a TV? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-landlord-doesnt-want-items-hanging-on-walls-leases-repairs-nyc
+- Will you provide the TV mount and other accessories? — Angi article — https://angi.com/articles/tv-mounting-questions.htm
+- How long does TV mounting take? — Angi article — https://angi.com/articles/tv-mounting-questions.htm
+- What are older public-housing walls made of and what drill do they need? — City-Data forum — https://www.city-data.com/forum/new-york-city-housing-lottery/3091737-what-nycha-walls-made-how-do-i-drill-holes-them-hang-stuff-2.html
+- Can I put up an antenna outside in NYCHA? — NYCHA house rules — https://www.nyc.gov/assets/nycha/downloads/pdf/pp/house-rules-040821.pdf
+- Do I need to anchor a TV that sits on a stand? — CPSC — https://www.cpsc.gov/Newsroom/News-Releases/2024/Ahead-of-Sundays-Game-CPSC-Reminds-Families-to-Tackle-the-Deadly-Hazard-of-TV-and-Furniture-Tip-Overs
+- Does running HDMI or speaker cable need a permit in NYC? — Local Law 128 of 2024 — https://www.nyc.gov/assets/buildings/local_laws/ll128of2024.pdf
+- What hours can installers drill in an NYC apartment? — DEP noise code — https://www.nyc.gov/assets/dep/downloads/pdf/environment/education/nyc-noise-code-fact-sheet.pdf
