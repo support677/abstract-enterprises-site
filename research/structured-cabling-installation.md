@@ -2869,3 +2869,49 @@ Scope: "Bruckner" has no official borders. Sources describe it as the Soundview-
 - What warranty and post-installation support do you offer? / How do you ensure cable testing and performance verification? / What is your safety and compliance process for New York projects? — contractor FAQ — https://www.instrata.com/questions-to-ask-before-hiring-structured-cabling-provider-new-york/
 - When should New York facilities refresh their structured cabling? — contractor blog — https://www.instrata.com/when-new-york-facilities-should-refresh-structured-cabling-systems/
 - Does low voltage cabling need plenum cable above a suspended ceiling? — contractor blog — https://unifinerds.com/?p=78398
+
+## Madison, Brooklyn — /structured-cabling-installation-madison-brooklyn-ny (factory research, 2026-11-13)
+
+- Madison is "Bounded by Kings Highway to the north, Avenue U to the south, Ocean Avenue to the west", with Nostrand and Gerritsen Avenues on the east edge — https://www.cityneighborhoods.nyc/madison
+- Housing stock that sets cable routes: interior blocks of "detached brick and stucco homes with driveways, lawns, and small gardens"; "two-family brick houses, limestone rowhouses, and modest single-family homes" built 1910–1930; "low apartment houses" plus larger buildings along Kings Highway and Ocean Avenue — https://www.cityneighborhoods.nyc/madison
+- Commercial strips where business cabling lives: "Commercial life centers on Kings Highway and Nostrand Avenue"; "The commercial strips along Kings Highway, Avenue R, and Nostrand Avenue" — https://www.cityneighborhoods.nyc/madison
+- Kings Highway east of Ocean Avenue is "largely residential"; a Business Improvement District "has been established along part of the road" — https://origin-production.wikiwand.com/en/Kings_Highway_(Brooklyn)
+- Medical office space on the Ocean Avenue edge: 2269 Ocean Avenue, 3,000 SF first-floor "Medical Office", full turnkey build-out, listed under "Madison, Brooklyn" (a fit-out that needs data drops, a rack and a closet) — https://www.commercialcafe.com/commercial-property/us/ny/brooklyn/2269-ocean-avenue/
+- Elevator co-ops on Kings Highway and Ocean Avenue (alteration/riser coordination with a board and super): 2301 Kings Highway (1936, 6 floors, 96 apts, one building with addresses on three streets); 2425 Kings Highway (1932, 6 floors, 137 apts); 2282 Ocean Avenue (1938, 6 floors, 36 apts) — https://www.cityrealty.com/nyc/midwood/2301-kings-highway/94655 ; https://www.cityrealty.com/nyc/midwood/2425-kings-highway/75162 ; https://www.cityrealty.com/nyc/midwood/2282-ocean-avenue/96648
+- NYC Local Law 128 of 2024 adds Admin Code §28-105.4.7: "An electrical permit shall not be required for the installation, alteration, maintenance, or repair" of wiring "designed to operate at less than 50 volts for signaling, communication, alarm, and data transmission circuits", "provided that such work is performed by a licensed master electrician, special electrician, or qualified person"; life-safety-connected wiring is excepted and "shall only be performed by a licensed master electrician or special electrician" — https://intro.nyc/local-laws/2024-128
+- Effective date of that exemption given as December 21, 2025, with the 2025 NYC Electrical Code (silo research) — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- Brooklyn broadband data (valid 11/12/2026): "Fiber internet is 76.7% available in Brooklyn"; "Cable is available to 93.9% in Brooklyn"; provider tables show Verizon Fios fiber 65.6%, Optimum 49.5%, Spectrum 37.7% — so many Madison buildings have more than one wired ISP entering at the cellar — https://broadbandnow.com/new-york/brooklyn
+- Verizon on why some Brooklyn buildings lacked Fios (Technical.ly Brooklyn, June 23, 2015): spokesperson John Bonomo: "It is getting access into buildings that is the challenge"; a city DoITT audit said "Verizon continued to refuse to accept orders from residents" — https://technical.ly/diversity-equity-inclusion/despite-verizon-agreement-fios-still-mia-for-some-brooklyn-buildings/
+- HPD "Broadband in Affordable Housing": fiber, coax or copper "runs from the street or utility poles into the basement"; fiber needs street access and "an accessible entry point in the basement"; new wiring is "Easiest when installing or replacing electrical systems and wiring"; wired wall jacks give the strongest in-unit coverage but cost the most; "Exclusive revenue share agreements between the landlord and ISP are now banned." — https://www.nyc.gov/assets/hpd/downloads/pdfs/services/residential-broadband-installation.pdf
+- Brownstoner forum (Brooklyn house wiring, Oct 29 2010): owner asked "Can anyone point me in the direction as to who I would need to contact to get cost estimates and who can do this type of work?"; replies: "Best advice, pull extra runs."; "many electricians are not particularly good at terminating and testing coax and Ethernet cabling"; one electrician pulls data cable but "will not handle the terminations" — https://www.brownstoner.com/forum-archive/2010/10/wiring-house-fo
+- Brownstoner forum (Brooklyn): "I'd like to find someone that I can hire to put in the ethernet ports, advise about the overall design" and asks whether cables can be daisy-chained; reply: "If you are tying this into other systems, a licensed low voltage person is the way to go." — https://www.brownstoner.com/forum/general-discussion/ethernet-cable-installer/?sort_replies=asc
+- Wired access points vs mesh (TWiT, May 20 2026): mesh systems "are fundamentally limited by their reliance on wireless backhaul"; wired APs preferable "especially in multi-story homes or challenging layouts"; better "roaming between floors or rooms" — https://twit.tv/posts/tech/wired-access-points-vs-mesh-wifi-whats-best-multi-story-homes
+- HomeAdvisor Brooklyn network & router services (general network services, not cabling only): average $462, typical $222–$825; review praise: "His work is very clean, and he goes through extra steps to make sure the job is done correctly" — https://homeadvisor.com/tloc/Brooklyn-NY/Computer-Network-or-Wiring-Install-or-Repair
+- NYC home pre-wire planning ranges (vendor, 2026): basic pre-wire $3,500–$8,500; mid-level $8,500–$20,000; NYC drivers named: building access rules, construction type, limited pathways, trade coordination — https://unifinerds.com/cost-to-wire-new-home-nyc/
+- DOB permit records / 311 counts for low-voltage work in Madison: EMPTY
+- LPC: no Madison historic district found (Wyckoff-Bennett Homestead is an individual landmark, private home) — EMPTY for cabling bearing
+- Local news about cabling in Madison specifically: EMPTY
+- Reddit threads (r/Brooklyn, r/AskNYC) about cabling in Madison: EMPTY
+- Yelp 1–3★ complaints about Brooklyn network cabling: EMPTY
+
+### Questions people ask — Structured Cabling Installation in Madison
+
+- Google PAA for "structured cabling installation Madison" / "structured cabling installation Brooklyn": EMPTY
+- PASF: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Who would I contact to get cost estimates, and who does this type of work? — forum (Brownstoner) — https://www.brownstoner.com/forum-archive/2010/10/wiring-house-fo
+- Can the phone and cable companies handle the coax and phone wiring while someone else does the Ethernet? — forum (Brownstoner) — https://www.brownstoner.com/forum-archive/2010/10/wiring-house-fo
+- Can network cables be daisy-chained from room to room? — forum (Brownstoner) — https://www.brownstoner.com/forum/general-discussion/ethernet-cable-installer/?sort_replies=asc
+- Should an electrician or a low-voltage installer do the Ethernet? — forum (Brownstoner) — https://www.brownstoner.com/forum/general-discussion/ethernet-cable-installer/?sort_replies=asc
+- Is it cheaper to wire during construction or after move-in? — contractor FAQ — https://unifinerds.com/cost-to-wire-new-home-nyc/
+- What should be included in a professional structured cabling quote? — contractor FAQ — https://unifinerds.com/cost-to-wire-new-home-nyc/
+- How can I keep costs down without sacrificing performance? — contractor FAQ — https://unifinerds.com/cost-to-wire-new-home-nyc/
+- Wired access points or mesh Wi-Fi for a multi-story home? — tech blog — https://twit.tv/posts/tech/wired-access-points-vs-mesh-wifi-whats-best-multi-story-homes
+- Should I bother with a wired network at all? — forum (MacRumors) — https://forums.macrumors.com/threads/should-i-bother-with-wired-network.2454408
+- Why can't I get Fios in my building? — news (Technical.ly Brooklyn) — https://technical.ly/diversity-equity-inclusion/despite-verizon-agreement-fios-still-mia-for-some-brooklyn-buildings/
+- Who pays for the initial cable installation, landlord or tenant? — forum (BiggerPockets) — https://biggerpockets.com/forums/52/topics/865413-who-should-pay-for-thr-initial-cable-installation
+- How do I wire internet to a mother-in-law apartment? — forum (Houzz) — https://www.houzz.com/discussions/2354174/wiring-internet-for-mother-in-law-apartment
+- Does low-voltage data wiring in NYC need an electrical permit? — law text — https://intro.nyc/local-laws/2024-128
+- Yelp: EMPTY
+- Reddit: EMPTY
