@@ -2028,3 +2028,46 @@ Note: the live web-search budget for this build was exhausted before the first q
 - Google PAA / PASF / AnswerThePublic / Bing / DuckDuckGo question lists for "tv installation Fort Hamilton": EMPTY
 - Reddit (r/bayridge, r/Brooklyn, r/AskNYC) questions on TV mounting in Fort Hamilton: EMPTY
 - Yelp questions: EMPTY
+
+## East Flatbush, Brooklyn — /tv-installation-east-flatbush-brooklyn-ny (factory research, 2026-11-13)
+
+- Community District 17 (East Flatbush) housing from NYC Open Data / PLUTO, as compiled for AESS's door-buzzer research (2026-10-22): about 16,998 residential lots holding 62,077 homes; median year built 1930; 6,996 two-unit lots and 5,513 one-unit lots; 369 C2 walk-up lots with 2,176 apartments; 133 D1 elevator lots with 10,212 apartments — https://data.cityofnewyork.us/resource/64uk-42ks.json
+- CityNeighborhoods: East Flatbush housing is "solid brick rowhouses, freestanding two-family homes, and small apartment buildings," many built 1910–1940; rows of brick houses on East 51st Street, Schenectady Avenue and Remsen Avenue (Colonial Revival, Neo-Renaissance); Church Avenue and Utica Avenue are the main commercial centers with bakeries, barbershops, West Indian groceries and storefront churches — https://www.cityneighborhoods.nyc/east-flatbush
+- Wikipedia: 2010 population 135,619; 51% foreign born; described as the single largest West Indian neighborhood in NYC; Church Avenue co-named Bob Marley Boulevard (2006); Little Caribbean designated 2017 — https://en.wikipedia.org/wiki/East_Flatbush,_Brooklyn
+- Languages listed for East Flatbush include Haitian Creole, French, Jamaican Patwa, Guyanese Creole, Bajan, St. Lucian, Grenadian, Trinidadian and Vincentian creoles — https://languagemap.nyc/Explore/Neighborhood/East Flatbush
+- Flatbush Gardens: 59 six-story brick buildings, 2,469 apartments, 30 acres bounded by Newkirk, Nostrand, Farragut and Brooklyn avenues, built 1949, rent-stabilized — https://rebusinessonline.com/clipper-equity-completes-20-million-renovation-to-flatbush-gardens/
+- Brooklyn Eagle (Aug 15 2023): Flatbush Gardens over 4,000 open violations (Oct 2022); July 2023 40-year regulatory agreement with HPD including capital improvements over three years — https://brooklyneagle.com/articles/2023/08/15/when-flatbush-gardens-was-vanderveer-estates-and-today/
+- News 12 (Feb 20 2026): Rutland Plaza elevators out for weeks or months; sixth- and ninth-floor tenants affected — https://brooklyn.news12.com/i-feel-like-i-am-in-jail-why-residents-at-rutland-plaza-in-east-flatbush-say-theyre-struggling
+- News 12 (July 18 2025): Rutland Plaza is five buildings with 428 units — https://longisland.news12.com/east-flatbush-tenants-rally-against-landlord-neglect-demand-safer-living-conditions
+- NYCHA Rutland Towers, 955 Rutland Road, PACT conversion date 11/28/2023 — https://www.nyc.gov/assets/nycha/downloads/pdf/rutland_towers.pdf
+- NYCHA house rules: residents may only install TV antennas inside their apartments — https://www.nyc.gov/assets/nycha/downloads/pdf/pp/house-rules-040821.pdf
+- News 12 (Apr 17 2026): four-story Linden Boulevard walk-up with 900+ HPD violations; tenants unsure who the landlord was after the owner died; new registered owner since Dec 2025 — https://hudsonvalley.news12.com/2026/04/17/tenants-raise-concerns-about-east-flatbush-apartment-buildings-new-landlord/6Hg0CpUe4kqRYgn23qdpwX
+- LPC (Nov 17 2020): East 25th Street Historic District, 56 row houses between Clarendon Road and Avenue D, 1909–1912, limestone or brownstone fronts with rounded or angled bays — https://www.nyc.gov/site/lpc/about/pr2020/lpc-designates-its-first-historic-district-in-east-flatbush.page
+- 6sqft (June 18 2026): Sparrow Square at 681 Clarkson Avenue, two 10-story all-electric Passive House buildings, 261 apartments, completion Q1 2029; Utica Crescent 322 units incl. 89 senior supportive units — https://www.6sqft.com/1000-unit-affordable-and-supportive-housing-project-breaks-ground-in-east-flatbush/
+- NY1 (Sept 4 2026): J'Ouvert 2026 closures 11:30 p.m. Sunday to 11 a.m. Monday Sept 7 on Empire Boulevard (Flatbush to Nostrand); East New York Avenue among affected streets — https://ny1.com/nyc/brooklyn/news/2026/09/04/j-ouvert-west-indian-day-parade-2026-nyc-street-closures-security
+- Brooklyn BP "Brooklyn Mundial" World Cup watch parties, quarter-final screening at Borough Hall July 11 2026 — https://www.brooklynbp.nyc.gov/brooklyn-borough-president-antonio-reynoso-announces-world-cup-quarter-finals-watch-party-at-borough-hall/
+- Brick Underground (Nov 3 2022): landlords can restrict wall hanging via the lease's alteration clause; a nail-sized hole is generally fine, larger counts as damage; deposit deductions itemized, balance returned within two weeks — https://www.brickunderground.com/rent/realty-bites-landlord-doesnt-want-items-hanging-on-walls-leases-repairs-nyc
+- Brick Underground: Arik Lifshitz (DSA Property Group): "a nail or screw-sized hole from a picture frame or shelving system would fall within wear and tear"; attorney Justin C. Brasch warns "careless drilling of the wall or drilling to hold heavy hangings" can be charged to the tenant; 14 days to return a deposit — https://www.brickunderground.com/rent/what-is-normal-wear-and-tear-on-a-rental-apartment-walls-floors-landlord-repairs-nyc
+- NEC: flexible cords may not be concealed by walls or run through holes in walls (400.12 / older 400.8(5)); a receptacle behind the TV is the proper approach — https://www.ecmweb.com/national-electrical-code/qa/article/21216469/code-qa-where-can-you-not-use-flexible-cords-and-flexible-cables ; https://gizmodo.com/5297352/your-wall-mounted-hdtv-probably-violates-electrical-codes ; https://forums.mikeholt.com/threads/tv-power-cord-thru-inside-wall.2569100/latest
+- ADA Section 307: wall objects with leading edge 27–80 inches above floor may protrude at most 4 inches into a circulation path — https://nusupport.nebraska.edu/TDClient/33/Portal/KB/Article/143/Digital-Signage-Mount-and-Enclosure-Standards-Poppulo-Harmony
+- Mounting a TV alone usually needs no DOB permit; opening a wall for an AV chase or moving circuits does — https://hopplerdesignbuild.com/interior-design/media-walls-and-tv-placement-in-nyc-living-rooms/
+- Older NYC buildings need a hammer drill with carbide-tipped masonry bits — https://nyctvguy.com/blog/mounting-tv-nyc-apartment
+- Angi Brooklyn TV mounting: average $280, typical $172–$376, low–high $100–$670; intake asks wall surface and wall/ceiling access — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount/
+- TaskRabbit Brooklyn: TV mounting starts at $45 per hour; some Taskers have a two-hour minimum — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- HomeAdvisor: recommends a TV mounting specialist over a handyperson; $155–$350, average $255 — https://www.homeadvisor.com/r/who-to-hire-mount-tv
+- Bob Vila citing Angi/HomeAdvisor: brick/concrete/stone $200–$800; above fireplace $175–$400; in-wall wiring up to $1,000 — https://www.bobvila.com/articles/tv-mount-installation-cost/
+- Thumbtack Brooklyn complaint: installer "had to drill four extra holes in the dry wall the size of a quarter" — https://www.thumbtack.com/ny/brooklyn/tv-wall-mount-install
+- Best Buy / Geek Squad New York: basic or premium mounting, no prices listed on the regional page — https://www.bestbuy.com/site/regional-services/new-york-ny/tv-mounting-installation
+- Reddit threads about TV mounting in East Flatbush: EMPTY
+- Google PAA / PASF / AnswerThePublic / AI Overview for "tv installation East Flatbush": EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Yelp 1–3★ for East Flatbush TV mounting: EMPTY
+
+### Questions people ask — TV Installation in East Flatbush
+- How much does it cost to mount a TV in Brooklyn? — TaskRabbit FAQ — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- What is the surface the TV will be mounted on? — Angi question flow — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount/
+- Who should I hire to mount a TV on the wall? — HomeAdvisor — https://www.homeadvisor.com/r/who-to-hire-mount-tv
+- Can a landlord charge for holes from heavy wall hangings? — Brick Underground — https://www.brickunderground.com/rent/what-is-normal-wear-and-tear-on-a-rental-apartment-walls-floors-landlord-repairs-nyc
+- Can a TV power cord be run inside the wall? — Mike Holt forum — https://forums.mikeholt.com/threads/tv-power-cord-thru-inside-wall.2569100/latest
+- Do I need a permit to mount a TV in NYC? — Hoppler — https://hopplerdesignbuild.com/interior-design/media-walls-and-tv-placement-in-nyc-living-rooms/
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Reddit / Yelp questions for East Flatbush: EMPTY
