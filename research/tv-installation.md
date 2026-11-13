@@ -1698,3 +1698,59 @@ Note: the live web-search budget for this build was exhausted before any new sea
 - Do I need to anchor a TV that sits on a stand? — CPSC — https://www.cpsc.gov/Newsroom/News-Releases/2024/Ahead-of-Sundays-Game-CPSC-Reminds-Families-to-Tackle-the-Deadly-Hazard-of-TV-and-Furniture-Tip-Overs
 - Does running HDMI or speaker cable need a permit in NYC? — Local Law 128 of 2024 — https://www.nyc.gov/assets/buildings/local_laws/ll128of2024.pdf
 - What hours can installers drill in an NYC apartment? — DEP noise code — https://www.nyc.gov/assets/dep/downloads/pdf/environment/education/nyc-noise-code-fact-sheet.pdf
+
+## Fulton Ferry, Brooklyn — /tv-installation-fulton-ferry-brooklyn-ny (factory research, 2026-11-13)
+
+Note: live web search budget was exhausted for this run; findings below were taken from sources already retrieved and recorded in the site's research files (tv-installation, door-buzzer-repair, intercom-installation, security-camera-repair, fire-alarm-installation, alarm-installation research) and checked against their recorded quotes. Nothing below is invented; unretrievable surfaces are marked EMPTY.
+
+- Eagle Warehouse, 28 Old Fulton St: built 1893, converted 1980, 9 floors, co-op, part-time doorman "from 8AM to midnight", live-in superintendent, elevator, "Great arched entrance" — https://www.cityrealty.com/nyc/brooklyn-heights/eagle-warehouse-storage-company-28-old-fulton-street/41939
+- Eagle Warehouse: 85-unit landmarked pre-war co-op with elevator, doorman 8am to midnight, live-in super and on-site management, storage lockers; listing says converted 1983 (Wikipedia says 1980) — https://corcoran.com/building/brooklyn-heights/22174
+- 8 Old Fulton St (Brooklyn City Railroad Co. building, 1860–61): cast-iron ground floor, brick upper floors with granite quoins; later light manufacturing; converted to apartments by architect David Morton in the 1970s; now an 11-apartment co-op — https://www.brownstoner.com/architecture/building-of-the-202
+- 8 Old Fulton St #1N: ground-level unit a couple of feet above the sidewalk, high ceilings, exposed joists, a mezzanine and a lower-level rec room — https://www.brownstoner.com/real-estate-market/co-op-of-the-day-8-old-fulton-street-1n/
+- 7 Everit St: former stable, garage/warehouse until early 1980s, co-op since the early 1980s, seven apartments, exterior hoist at third-floor doorway — https://www.brownstoner.com/architecture/building-of-the-day-7-everit-street/
+- 5 Front Street (alt. 7 Front St): built 1910 per listing, 3 floors, 4 rental apartments, no doorman — https://www.cityrealty.com/nyc/dumbo/5-front-street/147916
+- 9 Old Fulton St: four-story new building with three apartments and ground-floor commercial space planned for a restaurant; LPC approved the design — https://www.brownstoner.com/brooklyn-life/new-building-rises-on-old-fulton-street-in-dumbo
+- Pierhouse, 90 Furman St: opened 2015/2016, 10 stories, 106-unit condominium, Toll Brothers City Living, Marvel Architects, 24-hour doorman and concierge, residents use the 1 Hotel Brooklyn Bridge rooftop pool — https://cityrealty.com/nyc/brooklyn-heights/pierhouse-brooklyn-bridge-park-90-furman-street/56091
+- Hurricane Sandy (Brooklyn Daily Eagle, Nov 1 2012): a building owner on lower Old Fulton Street pumped out a basement "flooded from floor to ceiling with murky seawater"; a restaurateur at 7 Old Fulton Street: "I've been pumping the basement all night"; at 1 Main Street water reached five feet in the lobby; Jane's Carousel electronics basement flooded with about 5 feet of water — https://brooklyneagle.com/articles/2012/11/01/sandy-hits-dumbo-hard-downtown-and-heights-escape-major-damage/
+- After Sandy, new Brooklyn Bridge Park buildings were designed "with all mechanicals and electricity housed above the new flood plain line"; Empire Stores "had its ground floor dug out and replaced with a concrete slab"; the Tobacco Warehouse was built to "wet" flood-proofing standards — https://untappedcities.com/2017/05/23/the-top-10-secrets-of-the-creation-of-brooklyn-bridge-park/7/
+- Empire Stores: "The building's transformer vaults are on the seventh floor"; 1,100-foot deployable flood barrier bought in 2017 — https://therealdeal.com/2017/03/03/storm-protection-empire-stores-readies-1100-foot-wall-in-case-of-flooding/
+- Empire Stores: roughly 500,000 sq ft office conversion of a 19th-century warehouse with a glass-and-steel rooftop addition — https://www.bisnow.com/news/new-york/office/bisnow-exclusive-first-look-at-empire-stores-rooftop-addition-49192
+- Empire Stores: 420,000 rentable sq ft of office and 80,000 sq ft of retail; West Elm HQ — https://www.commercialcafe.com/blog/brooklyn-adaptive-reuse-projects/
+- Con Edison, June 23 2025: about 68,000 customers in Dumbo, Vinegar Hill, Brooklyn Heights, Downtown Brooklyn and other northwest Brooklyn neighborhoods asked to conserve energy; voltage lowered by eight percent — https://www.coned.com/en/about-us/media-center/news/2025/06-23/con-edison-asks-customers-in-northwest-brooklyn-to-conserve-energy
+- The Dumbo NYC Ferry stop moved to Fulton Ferry Landing at the foot of Old Fulton Street after a $4.7 million overhaul, reopened June 19 2021; two vessels can dock at once — https://www.amny.com/nyc-transit/nyc-ferry-dumbo-reopens-brooklyn/
+- LPC "Permits and Making Alterations": "Most exterior changes to the front and rear facades of buildings in historic districts require review by LPC"; interior work needs an LPC permit only "when the work requires a permit from the Buildings Department", "when work on the interior affects the exterior", or when the interior is a designated interior landmark; "You do not need a permit from the Landmarks Commission to perform ordinary repairs or maintenance chores." — https://home4.nyc.gov/site/lpc/about/permits-and-making-alterations.page
+- LPC Permit Guidebook ch. 12: rooftop installations should be non-visible; staff may approve a minimally visible installation if non-visible is not possible — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter12_HVAC.pdf
+- LPC Permit Guidebook ch. 11: equipment not attached through cast iron or decorative surfaces; attach at mortar joints/plain masonry; conduit concealed — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- NYC DOB "Does my project require a permit?": code defines minor alterations and ordinary repairs where no permit is required; painting and plastering are examples — https://www.nyc.gov/site/buildings/property-or-business-owner/do-i-need-a-permit.page
+- NEC 400.12 (EC&M, Feb 10 2022): flexible cords "are not permitted to be run through holes in walls", "are not permitted to be concealed by walls, floors, or ceilings" — https://www.ecmweb.com/national-electrical-code/qa/article/21216469/code-qa-where-can-you-not-use-flexible-cords-and-flexible-cables
+- Brick Underground (Mar 29 2018): alteration agreements "typically prohibit tampering with structures like load-bearing walls"; example agreement requires contractor general liability "of at least $1 million"; agreements "may also dictate the days and hours in which contractors can work in your apartment" — https://www.brickunderground.com/improve/what-are-alteration-agreements
+- Brick Underground Realty Bites (Nov 3 2022): check the lease's "alteration provision"; nail-size hole "fine", larger "is considered damage"; deposit returned "within two weeks of you vacating" — https://www.brickunderground.com/rent/realty-bites-landlord-doesnt-want-items-hanging-on-walls-leases-repairs-nyc
+- NYC HPD Safe Work Practices: lead-safe work practices for housing built before January 1, 1978, triggered by work that will "disturb 2 square feet or more of paint in a single room" — https://www.nyc.gov/site/hpd/services-and-information/safe-work-practices.page
+- CPSC 2023: about 19,400 ED-treated injuries a year from furniture, TV and appliance tip-overs; 70% of child fatalities involved a falling television; Chair Alex Hoehn-Saric: "Furniture and TV tip-overs remain a major safety hazard in American households." — https://www.cpsc.gov/Newsroom/News-Releases/2023/Plans-to-Watch-the-Big-Game-on-the-Big-Screen-CPSC-Reminds-Families-to-Protect-Children-from-the-Deadly-Hazard-of-Toppling-TVs-and-Furniture
+- StreetEasy Talk "Mounting TV/hiding wires pre-war building": pre-war walls often plaster over gypsum block; trenching is messy; cord cover "not ideal but it isn't bad", can be painted; route wires behind baseboards or moldings — https://streeteasy.com/talk/discussion/38645-mounting-tvhiding-wires-pre-war-building
+- SlashGear on concrete TV mounts: hammer drill and masonry bit; "you may run into rebar" and then must stop or find a new spot — https://www.slashgear.com/2214559/can-you-mount-tv-on-concrete-wall/
+- TaskRabbit cost guide (Nov 2026): national averages; fireplace mounting costs more because installer must account for "heat, height, wall material"; plaster "more delicate" — https://www.taskrabbit.com/blog/what-is-the-cost-of-mounting-a-tv/
+- ADA 2010 Standards: wall-mounted objects with leading edge 27–80 in. above floor may protrude no more than 4 in. into circulation paths — https://www.ada.gov/law-and-regs/design-standards/2010-stds/
+- HPD violations / 311 complaints / DOB permits bearing on TV installation in Fulton Ferry — EMPTY
+- Local news about TV installation in Fulton Ferry — EMPTY
+- Reddit threads about TV mounting in Fulton Ferry — EMPTY
+- Yelp 1–3★ reviews for TV mounting near Fulton Ferry — EMPTY
+- Cable/fiber provider availability specific to Fulton Ferry addresses — EMPTY
+
+### Questions people ask — TV Installation in Fulton Ferry
+- Google PAA: EMPTY
+- PASF: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Does mounting a TV inside a landmarked building need Landmarks approval? — LPC — https://home4.nyc.gov/site/lpc/about/permits-and-making-alterations.page
+- Does a co-op board need to approve TV mounting, and what insurance does the installer need? — Brick Underground — https://www.brickunderground.com/improve/what-are-alteration-agreements
+- Can my landlord stop me from mounting a TV, and do the holes count as damage? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-landlord-doesnt-want-items-hanging-on-walls-leases-repairs-nyc
+- Can I run the TV power cord inside the wall? — EC&M / NEC 400.12 — https://www.ecmweb.com/national-electrical-code/qa/article/21216469/code-qa-where-can-you-not-use-flexible-cords-and-flexible-cables
+- How do you hide TV wires in a pre-war building where the wall can't be fished? — StreetEasy Talk — https://streeteasy.com/talk/discussion/38645-mounting-tvhiding-wires-pre-war-building
+- Can a TV be mounted on concrete, and what if the drill hits rebar? — SlashGear — https://www.slashgear.com/2214559/can-you-mount-tv-on-concrete-wall/
+- Is drilling in an older apartment a lead paint concern? — HPD — https://www.nyc.gov/site/hpd/services-and-information/safe-work-practices.page
+- Is a TV on a stand dangerous for children? — CPSC — https://www.cpsc.gov/Newsroom/News-Releases/2023/Plans-to-Watch-the-Big-Game-on-the-Big-Screen-CPSC-Reminds-Families-to-Protect-Children-from-the-Deadly-Hazard-of-Toppling-TVs-and-Furniture
+- Why does fireplace mounting cost more? — TaskRabbit — https://www.taskrabbit.com/blog/what-is-the-cost-of-mounting-a-tv/
+- After a flood, is equipment in the basement still working? — Brooklyn Eagle (Sandy) — https://brooklyneagle.com/articles/2012/11/01/sandy-hits-dumbo-hard-downtown-and-heights-escape-major-damage/
+- Can a satellite dish go on a landmarked roof? — LPC guidebook ch. 12 — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter12_HVAC.pdf
+- How far can a wall-mounted screen stick out in a business corridor? — ADA — https://www.ada.gov/law-and-regs/design-standards/2010-stds/
