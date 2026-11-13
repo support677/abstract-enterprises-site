@@ -1003,7 +1003,7 @@ REBUILD | door-buzzer-repair-washingtonville-bronx-ny | Door Buzzer Repair | Was
 LIVE | door-buzzer-repair-windsor-terrace-brooklyn-ny | Door Buzzer Repair | Windsor Terrace, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-bath-beach-brooklyn-ny | Fire Alarm Installation | Bath Beach, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-baychester-bronx-ny | Fire Alarm Installation | Baychester, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-13T11:24Z max-burn REBUILD | fire-alarm-installation-bedford-stuyvesant-brooklyn-ny | Fire Alarm Installation | Bedford Stuyvesant, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | fire-alarm-installation-bedford-stuyvesant-brooklyn-ny | Fire Alarm Installation | Bedford Stuyvesant, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-belmont-bronx-ny | Fire Alarm Installation | Belmont, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-borough-park-brooklyn-ny | Fire Alarm Installation | Borough Park, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-13T11:25Z max-burn REBUILD | fire-alarm-installation-brighton-beach-brooklyn-ny | Fire Alarm Installation | Brighton Beach, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn

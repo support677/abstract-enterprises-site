@@ -3465,3 +3465,4 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-13 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-bath-beach-brooklyn-ny | QUEUED
 2026-11-13 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-borough-park-brooklyn-ny | QUEUED
 2026-11-13 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-brooklyn-heights-brooklyn-ny | QUEUED
+2026-11-13 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-bedford-stuyvesant-brooklyn-ny | QUEUED
