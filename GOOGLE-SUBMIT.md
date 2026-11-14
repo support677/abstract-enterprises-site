@@ -88,6 +88,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 
 2026-11-13 evening (scheduled, 01:55 UTC Nov 14, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2707 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-14T01:53:24Z, 2992 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2162 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected fiber-optic port richmond (URL is not on Google; Discovered - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 10 requests this morning used the daily allowance. Queue unchanged; next run starts at fiber-optic port richmond.
 
+2026-11-14 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 10 requested, 9 indexed (fiber-optic flatiron/college point; sonos tribeca; apartment-building queens/staten island/westchester/brooklyn/hudson valley/long island), 0 failed, 2688 queued. Not-indexed URLs were Discovered/Crawled - currently not indexed or URL is unknown to Google. sonos brooklyn heights' first Request-indexing click closed the live-test dialog with no result; succeeded after a page reload. "Quota Exceeded" on the 11th request (dvr-upgrade-putnam, Crawled - currently not indexed), which stays QUEUED; next run starts there.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-10-29: brand price pages NOT on Google per URL Inspection API (184). Highest-search brands first, NYC areas first. Request these before everything else. -->
@@ -500,26 +502,26 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-harlem-manhattan-ny | INDEXED 2026-11-13
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-gowanus-brooklyn-ny | INDEXED 2026-11-13
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-mott-haven-bronx-ny | REQUESTED 2026-11-13
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-port-richmond-staten-island-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-flatiron-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-college-point-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-riverdale-bronx-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-charleston-staten-island-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-tribeca-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-brooklyn-heights-brooklyn-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-long-island-city-queens-ny | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-manhattan | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-queens | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-staten-island | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-suffolk-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-westchester-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/commercial-security-camera-installation-dutchess-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-brooklyn | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-hudson-valley | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-long-island | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-installation-ulster-county-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-port-richmond-staten-island-ny | REQUESTED 2026-11-14
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-flatiron-manhattan-ny | INDEXED 2026-11-14
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-college-point-queens-ny | INDEXED 2026-11-14
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-riverdale-bronx-ny | REQUESTED 2026-11-14
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-charleston-staten-island-ny | REQUESTED 2026-11-14
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-tribeca-manhattan-ny | INDEXED 2026-11-14
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-brooklyn-heights-brooklyn-ny | REQUESTED 2026-11-14
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-long-island-city-queens-ny | REQUESTED 2026-11-14
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-manhattan | REQUESTED 2026-11-14
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-queens | INDEXED 2026-11-14
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-staten-island | INDEXED 2026-11-14
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-suffolk-county | REQUESTED 2026-11-14
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-westchester-county | INDEXED 2026-11-14
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/commercial-security-camera-installation-dutchess-county | REQUESTED 2026-11-14
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-brooklyn | INDEXED 2026-11-14
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-hudson-valley | INDEXED 2026-11-14
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-long-island | INDEXED 2026-11-14
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-installation-ulster-county-ny | REQUESTED 2026-11-14
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-brooklyn | INDEXED 2026-10-24 (API inspect PASS, no request needed)
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-nassau-county | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-nassau-county | REQUESTED 2026-11-14
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-putnam | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-queens | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-staten-island | QUEUED
