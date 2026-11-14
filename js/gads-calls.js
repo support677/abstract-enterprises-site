@@ -20,16 +20,19 @@
     '(631) 407-2884', '(516) 346-5778', '(718) 957-1295'
   ];
 
-  var s = document.createElement('script');
-  s.async = true;
-  s.src = 'https://www.googletagmanager.com/gtag/js?id=' + AW_ID;
-  document.head.appendChild(s);
+  if (!document.querySelector('script[src*="googletagmanager.com/gtag/js"]')) {   // js/tags.js may have loaded it
+    var s = document.createElement('script');
+    s.async = true;
+    s.src = 'https://www.googletagmanager.com/gtag/js?id=' + AW_ID;
+    document.head.appendChild(s);
+  }
 
   window.dataLayer = window.dataLayer || [];
   function gtag() { window.dataLayer.push(arguments); }
   window.gtag = window.gtag || gtag;
-  gtag('js', new Date());
-  gtag('config', AW_ID);
+  if (!window.__aessGtagJs) { gtag('js', new Date()); window.__aessGtagJs = true; }
+  window.__aessGtagCfg = window.__aessGtagCfg || {};
+  if (!window.__aessGtagCfg[AW_ID]) { gtag('config', AW_ID); window.__aessGtagCfg[AW_ID] = true; }
   for (var i = 0; i < NUMBERS.length; i++) {
     gtag('config', AW_ID + '/' + CALL_LABEL, { phone_conversion_number: NUMBERS[i] });
   }

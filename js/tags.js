@@ -12,8 +12,8 @@
   window.__aessTags = true;
 
   var ID = {
-    google: [],                 // Google tag IDs: 'AW-XXXXXXXXX' (Google Ads → YouTube/Gmail/Display remarketing) and/or 'G-XXXXXXX' (GA4)
-    googleLeadSendTo: '',       // optional 'AW-XXXXXXXXX/label' conversion for form leads
+    google: ['AW-968360494'],  // Google tag IDs: 'AW-XXXXXXXXX' (Google Ads → YouTube/Gmail/Display remarketing) and/or 'G-XXXXXXX' (GA4)
+    googleLeadSendTo: 'AW-968360494/cHgHCJm3xrgdEK6E4M0D', // "Website Form Lead" (Nov 14 2026); optional 'AW-XXXXXXXXX/label' conversion for form leads
     microsoft: '30005756',      // Microsoft Advertising UET tag "Abstract" (Bing, MSN, Outlook, LinkedIn-profile targeting)
     tiktok: '',                 // TikTok pixel ID
     linkedin: '',               // LinkedIn Insight Tag partner ID (numbers)
@@ -34,9 +34,15 @@
   if (ID.google.length) {
     window.dataLayer = window.dataLayer || [];
     window.gtag = window.gtag || function () { window.dataLayer.push(arguments); };
-    inject('https://www.googletagmanager.com/gtag/js?id=' + ID.google[0]);
-    window.gtag('js', new Date());
-    for (var g = 0; g < ID.google.length; g++) window.gtag('config', ID.google[g]);
+    // js/gads-calls.js (call tracking, injected at the edge) may have loaded the tag already.
+    if (!document.querySelector('script[src*="googletagmanager.com/gtag/js"]')) {
+      inject('https://www.googletagmanager.com/gtag/js?id=' + ID.google[0]);
+    }
+    if (!window.__aessGtagJs) { window.gtag('js', new Date()); window.__aessGtagJs = true; }
+    window.__aessGtagCfg = window.__aessGtagCfg || {};
+    for (var g = 0; g < ID.google.length; g++) {
+      if (!window.__aessGtagCfg[ID.google[g]]) { window.gtag('config', ID.google[g]); window.__aessGtagCfg[ID.google[g]] = true; }
+    }
     on.google = true;
   }
 
@@ -129,7 +135,7 @@
   function lead(skipGoogleEvent) {
     if (on.google) safe(function () {
       if (skipGoogleEvent !== true) window.gtag('event', 'generate_lead');
-      if (ID.googleLeadSendTo) window.gtag('event', 'conversion', { send_to: ID.googleLeadSendTo });
+      if (ID.googleLeadSendTo) window.gtag('event', 'conversion', { send_to: ID.googleLeadSendTo, transport_type: 'beacon' });
     });
     if (on.microsoft) safe(function () { window.uetq.push('event', 'submit_lead_form', {}); });
     if (on.tiktok) safe(function () { window.ttq.track('SubmitForm'); });
