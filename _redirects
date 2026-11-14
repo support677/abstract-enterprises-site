@@ -3863,6 +3863,7 @@
 # === 2026-05-03 GSC URL cleanup (B2 + B3 fixes) ===
 # B2: True 404s — add 301 to canonical
 /copy-of-new-about-us  /about-us  301
+/copy-of-contact-us  /warranty  301
 /blank-6-1  /  301
 /security-camera-williamsburg-bk  /security-camera-installation-williamsburg-brooklyn-ny  301
 # B3: Query params + old blog URLs
