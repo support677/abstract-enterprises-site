@@ -396,9 +396,9 @@ LIVE | door-buzzer-repair-williamsburg-brooklyn-ny | Door Buzzer Repair | Willia
 LIVE | unifi-protect-vs-hikvision | Comparison: UniFi Protect vs Hikvision | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | adt-vs-simplisafe-vs-local-installer | Comparison: ADT vs SimpliSafe vs Local Licensed Installer | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | 2gig-vs-qolsys | Comparison: 2GIG vs Qolsys | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | elevator-access-control-installation-nyc | Elevator Access Control Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | elevator-access-control-installation-long-island | Elevator Access Control Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | elevator-access-control-installation-hudson-valley | Elevator Access Control Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+BUILDING 2026-11-14T19:23Z | elevator-access-control-installation-nyc | Elevator Access Control Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-14T19:23Z | elevator-access-control-installation-long-island | Elevator Access Control Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-14T19:23Z | elevator-access-control-installation-hudson-valley | Elevator Access Control Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | elevator-access-control-installation-manhattan | Elevator Access Control Installation | Manhattan | up /elevator-access-control-installation-nyc | (929) 560-0737 | GBP Bronx
 TODO | elevator-access-control-installation-brooklyn | Elevator Access Control Installation | Brooklyn | up /elevator-access-control-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | elevator-access-control-installation-queens | Elevator Access Control Installation | Queens | up /elevator-access-control-installation-nyc | (347) 434-6392 | GBP Bronx
