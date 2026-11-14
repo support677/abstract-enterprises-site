@@ -3541,3 +3541,6 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-14 | https://www.abstractenterprisessecuritysystems.com/tv-installation-bronxdale-bronx-ny | QUEUED
 2026-11-14 | https://www.abstractenterprisessecuritysystems.com/tv-installation-kingsbridge-bronx-ny | QUEUED
 2026-11-14 | https://www.abstractenterprisessecuritysystems.com/2gig-vs-qolsys | QUEUED
+2026-11-14 | https://www.abstractenterprisessecuritysystems.com/elevator-access-control-installation-nyc | QUEUED
+2026-11-14 | https://www.abstractenterprisessecuritysystems.com/elevator-access-control-installation-long-island | QUEUED
+2026-11-14 | https://www.abstractenterprisessecuritysystems.com/elevator-access-control-installation-hudson-valley | QUEUED
