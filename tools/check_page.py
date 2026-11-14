@@ -457,6 +457,10 @@ def check(root, slug, registration=True, stats=False):
         fail(f"NYS license #{LICENSE} not shown")
     if norm_space(WARRANTY) not in text:
         fail("exact warranty text missing or altered (see WARRANTY in tools/check_page.py)")
+    # Anwar, Nov 14 2026: "No AESS" — never the abbreviation in published text, titles, alt text or schema
+    _pub = re.sub(r'(?is)<script(?![^>]*ld\+json)[^>]*>.*?</script>|<style.*?</style>|<input[^>]*type="hidden"[^>]*>|(?:href|src)="[^"]*"', ' ', raw)
+    if re.search(r"\bAESS\b", _pub):
+        fail('"AESS" appears on the page — write "Abstract Enterprises Security Systems" (BLUEPRINT rule 12)')
     if re.search(r"three-year warranty", text, re.I):
         fail("page states a three-year warranty; live convention is the one-year parts-only terms sentence")
 
