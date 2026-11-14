@@ -3290,3 +3290,116 @@ Searches run (WebSearch + WebFetch, 2026-11-13): Metro-North Wakefield station; 
 - What do NYC contractors need to know about low-voltage wiring codes? — contractor article title — https://unifinerds.com/low-voltage-wiring-codes-nyc-contractors/
 - How do I budget for structured cabling without surprises in New York? — contractor article title — https://www.instrata.com/how-to-budget-structured-cabling-projects-new-york/
 - "If there were good-paying office jobs ... in the neighborhood" (resident comment shaping the question of office space in new White Plains Road buildings) — Bronx Times/PoliticsNY — https://politicsny.com/2026/08/20/white-plains-road-could-see-more-housing-residents-are-weighing-in-on-what-comes-next/
+
+
+## Westchester Heights, Bronx — /structured-cabling-installation-westchester-heights-bronx-ny (factory research, 2026-11-14)
+
+Caveat: "Westchester Heights" is a largely historical name. Wikipedia says the name Parkchester came from the two neighborhoods on either side of the site, Park Versailles and Westchester Heights; a 2011 Bronx Journal piece says some call the area east of Parkchester Westchester Heights, others Westchester Square. Statistical Atlas lists neighbors Morris Park, Parkchester, Pelham Bay, Pelham Gardens, Unionport and Van Nest, ZIPs 10461/10462/10469 (from existing repo research, security-camera-installation.md 2026-11-06).
+
+**A. Structured cabling facts that bear on this area**
+
+- NYC Admin Code §28-105.4.7 (as amended by Local Law 128 of 2024, eff. 12/21/2025): no electrical permit is required for wiring designed to operate at less than 50 volts for signaling, communication, alarm and data transmission circuits, provided the work is performed by a licensed master electrician, special electrician, or "qualified person" as defined in the NYC Electrical Code. — https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-156361
+- DOB published an "Electrical Work Guidance Document in relation to Local Law 128 of 2024" sorting work into categories (permit; permit + DOB inspection; plan review + permit + inspection). — https://www.nyc.gov/assets/buildings/pdf/elect_work_guidance.pdf
+- The 2025 NYC Electrical Code is the current code (contains Article 760 etc.); ED16A electrical filings go through DOB NOW: Build. — https://www.nyc.gov/assets/buildings/codes-pdf/2025electrical_code.pdf ; https://www.nyc.gov/site/buildings/property-or-business-owner/electrical-permit.page
+- A vendor blog summarizes: no DOB permit needed for low-voltage wiring if a licensed electrician or qualified person does it; fire alarm and other life-safety systems are different. (vendor content) — https://linkedsecurityny.com/blog/low-voltage-wiring-basics-and-major-applications/
+- Westchester Square medical cluster: 2510 Westchester Avenue is a three-story, 60,000 sq ft medical office building steps from the Westchester Square #6 station; NewYork-Presbyterian signed a 10,189 sq ft long-term lease (Sept 23, 2024); existing tenants include orthopedics and sports medicine, physical therapy and chiropractic, behavioral health, acupuncture. — https://simonedevelopment.com/simone-development-companies-welcomes-newyork-presbyterian-to-medical-office-building-at-2510-westchester-avenue-in-the-bronx/
+- Montefiore Einstein Westchester Square campus is at 2475 St. Raymond Avenue, Bronx 10461 (hospital, 718-430-7300); Montefiore also lists a Behavioral Health Center at Westchester Square. — https://www.ahd.com/free_profile/330316/Montefiore-Westchester-Square-Campus/Bronx/New-York/ ; https://montefioreeinstein.org/patient-care/locations
+- The Westchester Square BID shop map lists a dense mix of small professional offices that run networks: law offices (Law Office of Jose A. Quesada, Spiegel & Barbato LLP, Reiss & Arcuri), dental offices (Westchester Square Family Dental, Family Dental Office), imaging (Distinguished Diagnostic Imaging), Advanced Radiation Centers of New York, Advanced Urology Centers of New York – Bronx, Total Orthopedics and Sports Medicine, Essen Health Care, BrightPoint Health, Bronx Veterinary Center, tax/accounting offices (H&R Block, Liberty Tax, Kabeya Tax), realty offices, banks (Bank of America, Chase, Apple Bank), CityMD, Life Skills PreSchool, Huntington Free Library, Bronx Council on the Arts, BAAD!. — https://www.wsbid.org/shop
+- Office space: LoopNet lists ~6 Westchester Square office spaces for lease, average ~$42/SF, average ~9,383 SF; a Tremont Ave listing at $41/SF/YR, 1,200 SF. Realmo lists a medical office for lease in 10461, built 1950, and space at 43 Westchester Sq, Suite 2. — https://www.loopnet.com/search/office-space/westchester-square-bronx-ny/for-lease/ ; https://realmo.com/medical-offices/for-lease/ny/bronx/
+- Cityfeet lists commercial space at 80 Westchester Sq ($41/SF/YR) and Tremont Ave ($57). — https://www.cityfeet.com/cont/westchester-square-bronx-ny/commercial-properties-for-lease
+- Nearby office park: Hutchinson Metro Center (1250 Waters Place, management office PH1) is a multi-phase Class A office complex; tenants have included Mercy College, Visiting Nurse Service of New York, NYCHA, Montefiore (31,000 sf lease), Fresenius, Hanger Clinic, Parkchester Oral & Maxillofacial Surgery Associates. It is near, not inside, the neighborhood. — https://www.hutchinsonmetrocenter.com/services.html ; https://www.bxtimes.com/montefiore-leases-31000-sf-in-hutchinson-metro-center/ ; https://simonedevelopment.com/properties/hutchinson-metro-center/
+- Penn Station Access: four new ADA-accessible Metro-North stations in Hunts Point, Parkchester/Van Nest, Morris Park and Co-op City; MTA anticipates opening in 2027. — https://www.mta.info/project/penn-station-access ; https://www.nyc.gov/content/planning/pages/our-work/plans/bronx/bronx-metro-north-area
+- Bronx Metro-North Station Area Plan (approved Aug 2024) aims at ~7,000 new homes (1,700 income-restricted) and 10,000 permanent jobs by allowing residential use in parts of Parkchester/Van Nest previously commercial/manufacturing only. — https://www.nyc.gov/mayors-office/news/2024/08/mayor-adams-celebrates-city-council-approval-plan-create-approximately-7-000-new-homes-and
+- DCP describes the proposed Parkchester/Van Nest station area on East Tremont Avenue between Parkchester and Van Nest as currently "characterized by inactive uses, difficult crossings". — https://www.nyc.gov/content/planning/pages/our-work/plans/bronx/sustainable-communities-bronx-metro-north
+- HPD broadband guidelines for development projects (updated March 2026) include a low-cost option for Bronx and Upper Manhattan projects: "Neighborhood Internet," operated by NYPL and funded by HPD, which developers can choose as installer and provider. (Page did not give cable category / MDF specifics.) — https://www.nyc.gov/site/hpd/services-and-information/broadband-development-projects.page
+- HPD release (2026): more than 40% of Bronx households lack internet connectivity; Neighborhood Internet expansion. — https://www.nyc.gov/site/hpd/news/029-26/mayor-mamdani-rep-ritchie-torres-nyc-department-housing-preservation-development-and
+- Parkchester: 171 buildings, 12,271 apartments, mostly 8 or 13 stories, built 1938–1941, condo conversion 1974/1986; 500,000 sq ft of commercial space; app-based Comelit IP video intercom across all 171 buildings (from existing repo research). — https://simple.wikipedia.org/wiki/Parkchester,_Bronx ; https://comelitgroupusa.com/case-study/parkchester-ny/
+- Typical NYC co-op/condo alteration agreements require contractor insurance certificates naming the building/board/managing agent as additional insureds, weekday work hours, protection of common areas, and forbid interfering with building intercom/electric systems or penetrating exterior walls. (NYC Bar form; general, not Parkchester-specific) — https://www2.nycbar.org/RealEstate/Forms/Coop_Condo_%20Form_Alteration_Agreement_Coops_Commentary10.pdf
+- Buildings erected before 1960: Local Law 38 of 1999 lead-safe work practices are commonly written into alteration agreements (isolate work area, wet methods, cleanup). — https://www.hauseit.com/sample-alteration-agreement/
+- Fios ONT is usually installed where existing phone service enters the unit/office. — https://www.verizon.com/business/answers/fiber-optic-internet-installation-guide/
+- Optimum is listed as hybrid fiber-coax across most boroughs (up to 940 Mbps down / 35 up). — https://www.verizon.com/home/internet/near-me/new-york-ny/
+- NYC per-drop cost benchmarks from vendors: $150–$300 per drop (City Electric NY, AESS NYC page); NYHLS says $175–$300 and that building conditions add 15–40%. (Do not use these figures on page; use PRICE LIST only.) — https://nyhls.com/blog/structured-cabling-cost ; https://www.cityelectricny.com/structured-cabling
+- Landmarks: St. Peter's Church complex (2500 Westchester Ave, designated 1976) and Huntington Free Library (designated 1994) (from existing repo research). — https://en.wikipedia.org/wiki/St._Peter's_Church,_Chapel_and_Cemetery_Complex
+- HPD violations specific to cabling: EMPTY (not accessible in build env)
+- 311 complaints specific to cabling: EMPTY
+- DOB permits for low-voltage work in the neighborhood: EMPTY
+- Local news about cabling in Westchester Heights: EMPTY
+- Reddit threads specific to Westchester Heights/Parkchester cabling: EMPTY
+- Yelp reviews of cabling contractors nearby: EMPTY (not accessible in build env)
+
+### Questions people ask — Structured Cabling Installation in Westchester Heights
+
+- Is it legal for me to run an ethernet cable along the outside of my building? — Reddit r/AskNYC — https://www.reddit.com/r/AskNYC/comments/gmwnwh/is_it_legal_for_me_to_run_an_ethernet_cable_along/
+- Where can I find someone to run an Ethernet line from my router to another room? — Reddit r/AskNYC — https://www.reddit.com/r/AskNYC/comments/v3ds80/where_can_i_find_someone_to_run_an_ethernet_line/
+- Who is responsible for internet/cable wiring in the walls? — Reddit r/AskNYC — https://www.reddit.com/r/AskNYC/comments/jdljwa/who_is_responsible_for_internetcable_wiring_in/
+- Wall ethernet not working: who is responsible? — Reddit r/Apartmentliving — https://www.reddit.com/r/Apartmentliving/comments/1lfi4m4/wall_ethernet_not_working_who_is_responsible/
+- New apartment claims to be wired with ethernet/coax but... (jacks not live) — Reddit r/HomeNetworking — https://www.reddit.com/r/HomeNetworking/comments/1r09w7n/new_apartment_claims_to_be_wired_with/
+- How do I know if an apartment is capable of a wired connection? — Reddit r/HomeNetworking — https://www.reddit.com/r/HomeNetworking/comments/jto51c/how_do_i_know_if_an_apartment_is_capable_of_a/
+- Can I use Optimum in an apartment that has Verizon Fios? — Reddit r/Fios — https://www.reddit.com/r/Fios/comments/17htebq/can_i_use_optimum_in_an_apartment_that_has/
+- Do I need a permit for low-voltage wiring in NYC? — vendor FAQ — https://linkedsecurityny.com/blog/low-voltage-wiring-basics-and-major-applications/
+- How much does structured cabling cost per drop in New York? — vendor FAQ — https://lowvoltagenewyork.com/services/structured-cabling/
+- Can a structured cabling quote include union or prevailing-wage requirements? — vendor FAQ — https://lowvoltagenewyork.com/services/structured-cabling/
+- How many drops per workstation? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-nyc
+- Google People Also Ask / People Also Search For / Bing / DuckDuckGo / AnswerThePublic: EMPTY (not accessible in build env)
+
+
+## Woodlawn Heights, Bronx — /structured-cabling-installation-woodlawn-heights-bronx-ny (factory research, 2026-11-14)
+
+### Facts specific to structured cabling in Woodlawn Heights (top priority)
+
+**What arrives at the house (ISP and fiber data)**
+- Woodlawn (Bronx) has 7 residential internet providers covering 100.00% of the area; FCC Broadband Data Collection data as of Dec 31, 2025, page updated Oct 19, 2026 — https://bestneighborhood.org/fiber-tv-and-internet-woodlawn-bronx-ny/
+- Verizon fiber covers 99.74% (15,442 people); 95.8% of covered homes can get up to 2,300 Mbps down and 2,300 Mbps up, 4.2% up to 980 Mbps — https://bestneighborhood.org/fiber-tv-and-internet-woodlawn-bronx-ny/
+- Optimum fiber covers 88.68% (13,731 people) with a max of 8,000 Mbps down and up for all covered homes — https://bestneighborhood.org/fiber-tv-and-internet-woodlawn-bronx-ny/
+- Optimum cable covers 100% with a max of 940 Mbps download and upload up to 35 Mbps — https://bestneighborhood.org/fiber-tv-and-internet-woodlawn-bronx-ny/
+- 11.32% of homes can only get plans up to 2,300 Mbps; speeds are faster in central Woodlawn and slower in the south; fiber is the fastest type for 100% of homes — https://bestneighborhood.org/fiber-tv-and-internet-woodlawn-bronx-ny/
+- Fixed wireless: T-Mobile Home Internet 100% coverage, avg 97 Mbps down, avg upload 19 Mbps; Verizon fixed wireless 88.23%; Starry covers only southwest Woodlawn (11.19%), 300/100 Mbps — https://bestneighborhood.org/fiber-tv-and-internet-woodlawn-bronx-ny/
+- Average 5.9 providers per home, homes choose from 4 to 7 providers; the page rates competition "very unhealthy" — https://bestneighborhood.org/fiber-tv-and-internet-woodlawn-bronx-ny/
+- BroadbandNow ZIP 10470 (data valid 11/05/2026): Verizon Fios (DSL, Fiber, 5G) 89% availability, 10 Mbps–2 Gbps; Optimum (cable, fiber) 76.4%, 300 Mbps–8 Gbps; AT&T 5G Internet 80%; T-Mobile 5G 55%; XNET WiFi fixed wireless 35.4%; Starlink and HughesNet satellite 100% — https://broadbandnow.com/New-York/Bronx?zip=10470
+- Note: the two aggregator sites disagree on percentages (different areas/dates); page should say "aggregator data" and not overstate.
+
+**Buildings**
+- 4200 Herkimer Place, 10470: co-op, built 1967, 45 units, 6 stories, elevator and laundry — https://compass.com/building/4200-herkimer-pl-bronx-ny-10470/293530428894160341
+- 4315 Webster Avenue, 10470: co-op, built 1958, 78 units, 7 stories, building class D4 elevator cooperative — https://streeteasy.com/building/4315-webster-avenue-bronx
+- Woodlawn Senior Living, 69 East 233rd Street: 80-unit affordable senior housing by RiseBoro, designed by Paul Castrucci Architects; elevator, shared laundry, EV charging in parking; Passive House (per HPD) — https://newyorkyimby.com/2021/08/housing-lottery-launches-for-woodlawn-senior-living-at-69-east-233rd-street-in-woodlawn-heights-the-bronx.html ; https://www.nyc.gov/site/hpd/news/059-22/city-officials-riseboro-celebrate-opening-woodlawn-senior-living-development-the-bronx
+- Passive House wiring practice (one builder): conduit sealed to the interior air barrier with acoustical sealant and tape, a flashing-tape gasket, conduit filled with foam after wiring — https://greenbuildingadvisor.com/article/flatrock-passive-air-sealing-the-penetrations
+- Saint Barnabas High School, 425 East 240th Street, founded 1924, all-girls Catholic school run by the Sisters of Charity; closed June 2024 — https://en.wikipedia.org/wiki/Saint_Barnabas_High_School
+- St Barnabas HS E-Rate history: "Internal Connections" funding in 1999 ($43K), 2002 ($26K), 2004 ($65K), 2005, 2008, 2022 ($4K), plus "Basic Maintenance of Internal Connections" 2005–2009; 1,000 Mbps symmetric connection; Verizon Online the listed provider — https://erate.techpolicyinstitute.org/state/NY-NYC/ben/10729/st-barnabas-high-school/
+- Building stock background (from earlier AESS research): 56.0% of homes in the 10470 profile built 1939 or earlier; detached one- and two-family houses, hilly streets, small brick/Tudor apartment buildings, mixed-use brick on Katonah with apartments over shops; R4A/R5B low-density zoning — research/fire-alarm-installation.md and research/tv-installation.md (Woodlawn Heights sections)
+
+**Rules that shape the work**
+- NYC Local Law 128 of 2024: "electrical work" includes wiring for "signaling, communication, alarm, or data transmission"; "low-voltage electrical work" is wiring "designed to operate at less than 50 volts" for signaling, communication, alarm and data circuits — https://intro.nyc/local-laws/2024-128
+- Same law, §28-105.4.7: low-voltage work is exempt from the permit requirement when performed by a licensed master electrician, special electrician, or "qualified person"; exceptions still needing a master/special electrician include life safety systems, hazardous locations, and connections to control circuits that switch light, heat or power — https://intro.nyc/local-laws/2024-128
+- §28-429.1: "Low voltage electrical work may be performed by qualified persons, as defined in the New York city electrical code." — https://intro.nyc/local-laws/2024-128
+- DOB guidance: "Minor Electrical Work ... Requires a permit; Does not require DOB inspection or plan review" — https://www.nyc.gov/assets/buildings/pdf/elect_work_guidance.pdf
+- McLean Avenue is technically in the City of Yonkers (separate jurisdiction from NYC DOB); Yonkers has its own electrical code article — https://en.wikipedia.org/wiki/Woodlawn,_Bronx ; https://ecode360.com/15087417 (Yonkers code text: EMPTY, page would not load)
+
+**What national cost sites claim (for the AI reality check)**
+- Angi: "Electricians, not your internet service provider, are responsible for installing your Ethernet cables"; professional installation averages "$3,800", DIY "$410"; electricians and GCs $50–$100/hr; experienced DIYer can handle one or two rooms — https://www.angi.com/articles/who-can-install-ethernet-wiring.htm
+- Fixr / HomeGuide / HomeAdvisor publish national ethernet cost guides (figures not captured) — https://www.fixr.com/costs/hardwired-computer-network ; https://homeguide.com/costs/ethernet-installation-cost
+
+**City data / news / Reddit**
+- HPD violations related to cabling for Woodlawn Heights: EMPTY
+- 311 complaints (cable/internet wiring) for Woodlawn Heights: EMPTY
+- DOB low-voltage permits for Woodlawn Heights: EMPTY (low-voltage work by qualified persons is generally permit-exempt, see above)
+- LPC historic district: EMPTY (none found in earlier research)
+- Local news about internet outages specific to Woodlawn Heights: EMPTY (only borough-wide Optimum outage stories found, e.g. https://www.cbsnews.com/newyork/news/optimum-customers-outage-police/)
+- Reddit threads about cabling/ethernet in Woodlawn Heights: EMPTY
+- Yelp reviews for Bronx network cabling installers: EMPTY (not accessible in build env); BBB lists 135 "Network Cabling" results for Bronx — https://bbb.org/us/ny/bronx/category/network-cabling
+
+### Questions people ask — Structured Cabling Installation in Woodlawn Heights
+- Google PAA / PASF / AnswerThePublic / Bing / DuckDuckGo boxes: EMPTY (not accessible in build env). Questions below come from pages that ranked for the searches.
+- Who can run Ethernet cable through your walls? — Angi article title — https://www.angi.com/articles/who-can-install-ethernet-wiring.htm
+- Can I hire a general contractor for Ethernet cable installation? — Angi heading — https://www.angi.com/articles/who-can-install-ethernet-wiring.htm
+- How do electricians run Ethernet cables through walls? — Angi heading — https://www.angi.com/articles/who-can-install-ethernet-wiring.htm
+- DIY Ethernet cable installation vs. hiring a pro? — Angi heading — https://www.angi.com/articles/who-can-install-ethernet-wiring.htm
+- How hard is running ethernet cable through your house? — Slickdeals forum thread — https://slickdeals.net/f/2798927-how-hard-is-running-ethernet-cable-through-your-house
+- How much does Ethernet installation cost? — HomeGuide — https://homeguide.com/costs/ethernet-installation-cost
+- How much does it cost to install a hardwired computer network? — Fixr — https://www.fixr.com/costs/hardwired-computer-network
+- Is it possible for me to get a Fios installation under this [setup]? — Verizon Fios forum — https://forums.verizon.com/t5/Fios-Internet/Is-it-possible-for-me-to-get-a-Fios-installation-under-this/m-p/859417
+- Do data cables in conduit need DOB involvement? — Brownstoner forum "Data Cables Conduit - DOB?" — https://www.brownstoner.com/forum-archive/2009/08/data-cables-con
+- What do contractors in NYC need to know about low voltage wiring codes? — unifinerds — https://unifinerds.com/low-voltage-wiring-codes-nyc-contractors/
+- How do I easily wire my office for internet? — MetaFilter — https://ask.metafilter.com/331523/How-do-I-easily-wire-my-office-for-internet
+- Adding network cabling to an existing flat? — Penny Arcade forum — https://forums.penny-arcade.com/discussion/comment/37930804
+- Which internet providers serve 10470 and how fast? — BroadbandNow / bestneighborhood — https://broadbandnow.com/New-York/Bronx?zip=10470
+- Reddit (r/bronx, r/AskNYC, r/homeautomation) threads specific to Woodlawn: EMPTY
