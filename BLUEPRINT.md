@@ -21,6 +21,7 @@
 8. **GBP routing (§8) is enforced on every page.** Wrong GBP = page rejected.
 9. **Silo cross-links on every sibling page.** Service-correct, area-correct. No wrong-service blocks.
 10. **No reuse of body content across pages**, including the "Why X Properties Need Y" intro, FAQ, landmarks, packages, or process — all rewritten per neighborhood.
+11. **Never delete or rename a page (Anwar, Nov 14 2026).** Builders and rebuilds only ADD or IMPROVE. A rebuild overwrites the page in place at the same URL. Duplicates/overlaps get flagged to Anwar, not removed. A deletion happens only with Anwar's explicit OK, and that commit message must contain `[anwar-approved-delete]` — otherwise `.github/workflows/page-guard.yml` puts the page straight back.
 
 ---
 
