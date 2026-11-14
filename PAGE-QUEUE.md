@@ -870,7 +870,7 @@ LIVE | structured-cabling-installation-wakefield-bronx-ny | Structured Cabling I
 BUILDING 2026-11-14T18:17Z max-daily REBUILD | structured-cabling-installation-westchester-heights-bronx-ny | Structured Cabling Installation | Westchester Heights, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | structured-cabling-installation-windsor-terrace-brooklyn-ny | Structured Cabling Installation | Windsor Terrace, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-14T18:17Z max-daily REBUILD | structured-cabling-installation-woodlawn-heights-bronx-ny | Structured Cabling Installation | Woodlawn Heights, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-14T18:17Z max-daily REBUILD | structured-cabling-installation-kingsbridge-heights-bronx-ny | Structured Cabling Installation Kingsbridge | Heights, Bronx | up /structured-cabling-installation-kingsbridge-bronx-ny | (646) 490-0629 | GBP Bronx
+REBUILD | structured-cabling-installation-kingsbridge-heights-bronx-ny | Structured Cabling Installation Kingsbridge | Heights, Bronx | up /structured-cabling-installation-kingsbridge-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-14T18:17Z max-daily REBUILD | tv-installation-belmont-bronx-ny | TV Installation | Belmont, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | tv-installation-bensonhurst-brooklyn-ny | TV Installation | Bensonhurst, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | tv-installation-bergen-beach-brooklyn-ny | TV Installation | Bergen Beach, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
@@ -884,7 +884,7 @@ LIVE | tv-installation-crown-heights-brooklyn-ny | TV Installation | Crown Heigh
 LIVE | tv-installation-ditmas-park-brooklyn-ny | TV Installation | Ditmas Park, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | tv-installation-fiske-terrace-brooklyn-ny | TV Installation | Fiske Terrace, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | tv-installation-kensington-brooklyn-ny | TV Installation | Kensington, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | tv-installation-kingsbridge-bronx-ny | TV Installation | Kingsbridge, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-14T18:19Z max-daily REBUILD | tv-installation-kingsbridge-bronx-ny | TV Installation | Kingsbridge, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | tv-installation-manhattan-beach-brooklyn-ny | TV Installation | Manhattan Beach, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | tv-installation-marine-park-brooklyn-ny | TV Installation | Marine Park, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-morrisania-bronx-ny | TV Installation | Morrisania, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
