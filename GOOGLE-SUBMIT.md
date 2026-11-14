@@ -86,6 +86,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 
 2026-11-13 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 10 requested, 7 indexed (gw hudson valley; fiber-optic hudson square/sunset park/williamsburg/new springville/harlem/gowanus), 0 failed, 2674 queued. Not-indexed URLs were Discovered - currently not indexed or URL is unknown to Google. gw orange county's first Request-indexing click closed the live-test dialog with no result; reloading the page fixed it. "Quota Exceeded" on the 11th request (fiber-optic port richmond, URL is unknown to Google), which stays QUEUED; next run starts there.
 
+2026-11-13 evening (scheduled, 01:55 UTC Nov 14, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2707 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-14T01:53:24Z, 2992 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2162 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected fiber-optic port richmond (URL is not on Google; Discovered - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 10 requests this morning used the daily allowance. Queue unchanged; next run starts at fiber-optic port richmond.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-10-29: brand price pages NOT on Google per URL Inspection API (184). Highest-search brands first, NYC areas first. Request these before everything else. -->
