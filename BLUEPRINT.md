@@ -22,6 +22,7 @@
 9. **Silo cross-links on every sibling page.** Service-correct, area-correct. No wrong-service blocks.
 10. **No reuse of body content across pages**, including the "Why X Properties Need Y" intro, FAQ, landmarks, packages, or process — all rewritten per neighborhood.
 11. **Never delete or rename a page (Anwar, Nov 14 2026).** Builders and rebuilds only ADD or IMPROVE. A rebuild overwrites the page in place at the same URL. Duplicates/overlaps get flagged to Anwar, not removed. A deletion happens only with Anwar's explicit OK, and that commit message must contain `[anwar-approved-delete]` — otherwise `.github/workflows/page-guard.yml` puts the page straight back.
+12. **Never "AESS" on the site (Anwar, Nov 14 2026: "No AESS").** Nobody Googles "AESS". Every visible word, title, meta, alt/title/caption, schema and video text says "Abstract Enterprises Security Systems" (or "we/our/us"); titles drop the brand suffix rather than abbreviate it. Only hidden form `from_name` values and file paths may still contain it.
 
 ---
 

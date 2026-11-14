@@ -47,7 +47,7 @@ REQUIRED_SCHEMA = ("LocalBusiness", "Service", "FAQPage", "BreadcrumbList", "Ima
 # LIVE CONVENTION, verbatim: the warranty/terms sentence on 13 of the 16
 # Network Cable Repair area pages (e.g. network-cable-repair-bronx.html).
 WARRANTY = (
-    "Full terms — including 50% deposit, one-year parts-only warranty on AESS-supplied products, "
+    "Full terms — including 50% deposit, one-year parts-only warranty on Abstract Enterprises Security Systems-supplied products, "
     "and the late-fee schedule — are set out in the service agreement."
 )
 

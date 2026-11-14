@@ -353,7 +353,7 @@ def build_script(p):
                         vo=f"{_join(p['badges'][:3])}. We've wired them all."))
     mid.append(dict(kind="proof", vo=_pick(["Real techs on real jobs.",
                                             "Real techs. Real jobs. Done right.",
-                                            "Real jobs, done by real AESS techs."], seed, 3)))
+                                            "Real jobs, done by real Abstract Enterprises Security Systems techs."], seed, 3)))
     # shuffle the middle by the page's seed so pages don't share one order
     order = sorted(range(len(mid)), key=lambda k: (seed >> (k * 4)) % 97)
     keep = [k for k in order if mid[k]["kind"] == "local"][:1]          # the local scene always stays

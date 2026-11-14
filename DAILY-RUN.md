@@ -47,7 +47,7 @@ Open `PAGE-QUEUE.md`, take the next free `TODO |` lines above the NEIGHBORHOODS 
 - Page standard checked by the tool: **12,000–14,000 rendered words**, title ≤ 60, meta 150–160, one H1, canonical `https://www.abstractenterprisessecuritysystems.com/<slug>` (extensionless — live convention), **4.7 / 201**, NYS license #12000287431, two Web3Forms forms (hero + detail, access key, extensionless `landing_page`, consent checkbox, `botcheck` honeypot), approved phone only (queue line), GBP per queue line.
 - Phone, warranty and rating copy the **Network Cable Repair** silo (the most recent live pages):
   - Phones: hubs carry only (800) 486-0943; area pages carry their direct line (queue line) in the body, CTAs and schema, with the 800 allowed in the shared header. WhatsApp only as `wa.me/17186790359` (the footer may show "WhatsApp (718) 679-0359" as text), never `tel:`.
-  - Warranty: this exact sentence, and no three-year wording anywhere: *Full terms — including 50% deposit, one-year parts-only warranty on AESS-supplied products, and the late-fee schedule — are set out in the service agreement.*
+  - Warranty: this exact sentence, and no three-year wording anywhere: *Full terms — including 50% deposit, one-year parts-only warranty on Abstract Enterprises Security Systems-supplied products, and the late-fee schedule — are set out in the service agreement.*
   - Rating: 4.7★ / 201 Google Reviews (schema `ratingValue` 4.7, `reviewCount` 201).
 - Pricing per the §9 area multipliers — never invent prices.
 - Written from scratch for this area. Masked-geo similarity to any sibling < 0.65. No FAQ/Q&A question may repeat any question in the silo's question register (add this page's questions to the register).
