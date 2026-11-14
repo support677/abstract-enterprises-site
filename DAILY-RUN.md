@@ -65,6 +65,7 @@ Open `PAGE-QUEUE.md`, take the next free `TODO |` lines above the NEIGHBORHOODS 
   | Fiber Optic Installation | `images/network/`, then `images/low-voltage/` | network rooms, racks, cable pulls |
   | Cat6 Repair | `images/network-cable-repair/`, then `images/cat6/` | cable fault, termination, testing |
   | Smart Lock Installation | `images/low-voltage/`, then `images/commercial-security/` | door-lock wiring, electric strikes, access readers |
+  | Elevator Access Control Installation | real photos from Drive `AESS Website Photos/Elevator Access Control` (13, Anwar Nov 14 2026 — use these first), then `images/access-control-installation/` | elevator readers, floor-control panels, keypads, credentials |
   | Sonos Installation | `images/low-voltage/` | ceiling speakers, AV/low-voltage wiring |
   | Soundbar Installation | `images/low-voltage/` | speakers, AV/low-voltage wiring |
 
