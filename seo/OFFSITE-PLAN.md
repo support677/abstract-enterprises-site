@@ -8,7 +8,7 @@ Queue + order: seo/gamma-queue.csv (tier 1 hubs -> tier 2 boroughs/counties -> t
 ## Platform order (best for AESS first: Google ranking + link value + can be automated)
 | # | Platform | Link value | How it's built | Status |
 |---|---|---|---|---|
-| 1 | Gamma (gamma.app) | TBD (check after indexing on) | Gamma API + Chrome to turn on indexing | LIVE - 5 pages; indexing OFF on all |
+| 1 | Gamma (gamma.app) | TBD (check after indexing on) | Gamma API + Chrome to turn on indexing | LIVE - 17 pages (Nov 14); indexing OFF on all - Claude in Chrome not reachable from the scheduled run |
 | 2 | Google Sites | followed | Chrome (one site, silo: hub > borough > neighborhood) | needs Chrome |
 | 3 | Blogger (blogspot) | followed | Blogger API (needs Google connection) or Chrome | needs connection |
 | 4 | WordPress.com | followed | WordPress.com API (Composio needs auth config) | needs setup |
