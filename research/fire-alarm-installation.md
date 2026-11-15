@@ -6042,3 +6042,123 @@ FAQ (§17):
 10. Can a NYCHA development in East New York hire us directly for fire alarm work?
 11. What should a merchant on Livonia Avenue ask the landlord about fire alarms before signing a lease?
 12. Is Abstract Enterprises Security Systems' office in East New York?
+
+## Fairmount, Bronx — /fire-alarm-installation-fairmount-bronx-ny (commercial rebuild research, 2026-11-15) — HOLD-THIN
+
+Result: page NOT rebuilt; existing file left untouched. Recommendation to Anwar: HOLD-THIN (area cannot support a distinct, honest 12,000+ word commercial fire alarm page without reusing East Tremont / Claremont / Crotona Park East angles). Each entry: exact query · platform · URL · finding · use.
+
+### Boundaries / name
+- "Fairmount Bronx neighborhood boundaries Crotona Park North East Tremont" · WebSearch → WebFetch · https://www.cityneighborhoods.nyc/east-tremont · Fairmont named only as an area beyond the Cross Bronx Expwy; no boundaries given. East Tremont = CBE (S), Webster Ave (W), E 180th St (N), Southern Blvd (E). · HOLD reason.
+- same · WebFetch · https://www.apartments.com/local-guide/fairmont-bronx-ny/ · realtor label "Fairmont-Claremont Village"; no boundaries; generic Crotona/Claremont Park content. · HOLD reason (label overlaps Claremont, already live).
+- "\"Fairmount\" Bronx neighborhood history hill Tremont \"Fairmount Place\" Crotona" · WebSearch → WebFetch · https://php1-84.nycgovparks.org/parks/X148H2/history · Fairmount Playground at Fairmount Pl & Prospect Ave "in the East Tremont neighborhood"; name from 19th-c. Fairmount estate (Col. Dunham, Robert Cochran, Thomas Minford); Tremont named for hills Fairmount, Mount Eden, Mount Hope; CBE razed 54 apartment buildings, ~5,000 evictions; playground opened Mar 30 1960, rededicated Jun 7 1989. · HOLD reason.
+- https://forgotten-ny.com/?p=10570 · Fairmount mentioned only as one of the three hills. · HOLD reason.
+- "\"Fairmount\" OR \"Fairmont\" Bronx neighborhood Claremont Village ..." · WebSearch → WebFetch · https://www.cityneighborhoods.nyc/claremont-village · no Fairmount mention; https://www.weichert.com/search/community/neighborhood.aspx?hood=63802 · "Fairmont - Claremont Village" realtor area, pop. 48,172, no boundaries. · HOLD reason.
+- Prior silo research re-read (not re-fetched): research/intercom-installation.md "## Fairmount" (Nov 1 2026) and research/security-camera-installation.md "## Fairmount" (Nov 3 2026): Wikipedia "Fairmount, Bronx" redirects to East Tremont; NYC Parks: "Fairmount is located in the neighborhood of East Tremont"; official city-planning boundary EMPTY; listings tag the same Fairmount Pl blocks East Tremont / West Farms / Crotona / Crotona Park East.
+
+### Building stock (code-required check)
+- From prior silo research: 805 Fairmount Pl (5-story walk-up, 35 units, 1931); 797 (4 stories, 6 units, 2004); 873 (3 units, 2001); 785 (permits 2023, 4 stories + PH, 25 units); 788 (permits 2020, 7 stories, 23 units); 851 (HPD, permits Aug 2026, 6 stories, 10 units); 863 (2016 affordable infill). Only small new R-2 buildings would carry building fire alarms; no nursing home, clinic, hospital, shelter, house of worship or commercial corridor of its own found.
+- "\"Fairmount Pl\" Bronx 10460 shelter OR \"supportive housing\" OR school OR church OR clinic" · WebSearch → WebFetch · https://www.schools.nyc.gov/schools/x314 · Fairmont Neighborhood School (X314) is at 1550 Vyse Ave, building X050, shared — south of the CBE in Crotona Park East (already live page) · not usable.
+- Commercial: E Tremont Ave / E 180th St corridors and the former Loew's Fairmount Theatre (708 E Tremont Ave) belong to East Tremont (parallel runner this batch) · not usable.
+
+### Local fire news
+- "\"Fairmount Place\" Bronx fire building" · WebSearch · no Fairmount Place or Fairmount-area fires returned (results were Eastchester, Belmont, Fordham, Concourse, Morris Heights) · EMPTY.
+
+### Community / SERP
+- Reddit / Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp for Fairmount: EMPTY (not accessible in build env / no Fairmount-specific results).
+
+### Question register (this page)
+- None (page not built).
+
+## Edgewater Park, Bronx — /fire-alarm-installation-edgewater-park-bronx-ny (commercial rebuild research, 2026-11-15) — HOLD-THIN
+
+Result: page NOT rebuilt; existing file left untouched. Recommendation to Anwar: HOLD-THIN. Edgewater Park has one code-relevant non-residential building (the volunteer firehouse / community center) and one deli; everything else is 675 single-family co-op homes, which are out of scope for an NFPA 72 commercial page. The code-required buildings near it (Throggs Neck schools, Preston HS, SUNY Maritime/Fort Schuyler, East Tremont Ave stores) sit across the Throgs Neck Expressway / Miles Ave and belong to the Throggs Neck and Silver Beach pages (both still REBUILD), so using them here would steal those pages' angles. Each entry: exact query · platform · URL · finding · use.
+
+### Boundaries, ownership, building stock
+- (direct PDF) · Firecrawl scrape · https://www.nyc.gov/assets/planning/download/pdf/plans-studies/resilient-neighborhoods/edgewater-park/edgewater_park_report_102015.pdf (DCP Resilient Neighborhoods report, Oct 2015) · Bounded by Miles Street (S), Throgs Neck Expressway and Veterans Memorial Park (W), Weir Creek and Eastchester Bay (N/E); zoning R4A; 675 single-family residences, ~3,000 residents; "a single delicatessen" is the only commercial use; volunteer fire company; private sewage network; streets small, narrow, mostly unmapped, no sidewalks; residents own homes, lease land as shares from the owners' collective and pay dues for communal areas; flood zones V 20 / Coastal A 91 / A 167 of 675; co-op bylaws amended to measure the 25-ft height limit from design flood elevation · HOLD-THIN evidence. (WebFetch of the same URL was blocked by a permission timeout; Firecrawl worked.)
+- "Edgewater Park Owners Cooperative Throgs Neck history land lease houses" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Edgewater_Park_(Bronx) · 60-acre co-op, 675 single-family homes, north of the Cross Bronx Expwy near the Throgs Neck Bridge; co-op since 1988; volunteer FD one of nine in NYC; ~40% of homes in 1% annual chance floodplain · HOLD-THIN evidence.
+- https://www.cityneighborhoods.nyc/park-of-edgewater · WebFetch · contradicts DCP/Wikipedia (dates, "founded mid-century" FD) — judged unreliable, not used.
+
+### The one code-relevant building
+- "Edgewater Park Bronx cooperative community buildings volunteer fire company chapel" · WebSearch → WebFetch · https://www.bxtimes.com/2-5m-state-project-edgewater-park-firehouse/ (Feb 18 2023) · NYS HCR $2.5M resiliency project (start announced Feb 7 2023) to make the firehouse + community center (a polling place) a storm shelter / cooling center: backup generator, HVAC, ADA bathrooms, wind-rated windows, roof; 2020 bids came in >50% over budget; volunteer house often first responder because FDNY rigs are too big for the streets; serves "the 675 homes in the Park" · only commercial-grade subject in the area.
+- (same search) · WebFetch · https://vfanyc.org/edgewater-park-volunteer-hose-company-no-1/ · Hose Co. No. 1 founded 1922, 1 Adee Drive, BLS first response/engine company; Engine 4 (2024 brush rapid attack truck) delivered March 2025 · context only.
+- "Edgewater Park firehouse new fire alarm system generators hurricane windows fundraising" · WebSearch · constructconnect / News12 listings of the storm-hardening project; prior factory note (unyquefiretrucks) says funding covers a new fire alarm system · one building, one project — cannot carry 12,000 words.
+
+### Edges checked
+- "\"Edgewater Park\" Bronx Preston High School Schurz Avenue adjacent" · WebSearch · no source places Preston HS (Schurz Ave) in or adjoining Edgewater Park; it belongs to Throggs Neck · not usable.
+- "\"Miles Avenue\" Bronx 10465 school OR church OR apartment OR nursing" · WebSearch · results are only house/co-op listings (Zillow, Redfin, PropertyShark) — no school, church, nursing home or apartment house on the southern edge found · EMPTY for code-required buildings.
+
+### Community / SERP
+- Reddit / Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp for Edgewater Park fire alarm: EMPTY (not accessible in build env / no Edgewater-specific results). Prior factory section (2026-10-27) also found HPD, 311, DOB fire-alarm filings and Reddit EMPTY.
+
+### Options for Anwar
+- A: fold Edgewater Park (with Silver Beach) into the Throggs Neck fire alarm REBUILD as a subsection on the firehouse/community-center shelter project and co-op shared-land filing questions; 301 or keep this slug as is.
+- B: keep the existing page live but noindex it.
+- C: one combined "Throgs Neck peninsula waterfront co-ops" fire alarm page (Edgewater Park, Silver Beach, Locust Point).
+
+### Question register (this page)
+- None (page not built).
+
+## Edenwald, Bronx — /fire-alarm-installation-edenwald-bronx-ny (commercial rebuild research, 2026-11-15)
+
+Angle: NYCHA's largest Bronx campus (Edenwald Houses, 40 buildings of 3 and 14 stories) in the middle of its $783M PACT conversion, plus the institutions around it (240-bed Laconia Nursing Home, P.S. 111, Cardinal Spellman HS, Laconia Ave church, campus community/senior/day care building). Fire alarm scope of PACT is NOT public — page says so and assumes nothing. Kept clear of Eastchester landmarks (Dyre Ave strip, PS 15, Boston Secor Houses, Engine 38/Ladder 51 not used as Edenwald's); the one Dyre Ave item is a News 12 story that itself labels the building "Edenwald".
+
+### Campus / PACT
+- "Edenwald Houses PACT modernization fire alarm Bronx 2,035 apartments" · WebSearch → WebFetch · https://www.nychdc.com/newsroom/city-announces-closing-783-million-pact-modernization-project-edenwald-houses · 40 bldgs, 2,035 apts, ~5,000 residents, built 1953, $783M, financing closed June 27 (2023), scope (façade, mechanical modernization, roofs, entryways, lobbies, laundry, senior center), partners Camber/SAA/Henge/L&M/C+C, clusters of 5–6 buildings; NO mention of fire alarm/elevators · page §5 Neighborhood, at-a-glance, AI check, FAQ 3
+- (same search) · WebFetch · https://www.nyc.gov/mayors-office/news/2026/10/after-years-of-closure--mayor-mamdani-re-opens-edenwald-s-commun · Oct 22 2026 reopening, $8.1M community + senior center, senior center named for Walter J. McNeill, MMCC operates community center, Susan Wagner Day Care, renovations include electrical work; quote McNeill "the proudest moment of my 33 years as Tenant Association president." · §5, landmarks
+- "Edenwald Bronx church ..." · WebSearch → WebFetch · https://www.nyc.gov/assets/nycha/downloads/pdf/Edenwald.pdf · NYCHA map: 42 numbered structures incl. garage (Bldg 42); community center 1150 E 229th St and day care 1140 E 229th St (Bldg 41); boiler 1170 229th Drive South; mgmt office 1145 E 229th St; laundry 1151 226th Drive; 226th/229th Drives · §5, §7 building types, field notes
+- https://en.wikipedia.org/wiki/Edenwald_Houses · Firecrawl scrape (WebFetch blocked) · 1953, 40 bldgs 3 & 14 stories, 48.88 acres, Rodgers & Butler, Paul Tishman Co., ~$12M, bounded by Grenada Pl, E 225th St, Baychester, Schieffelin & Laconia Aves, National Register 2024 · §5, landmarks
+- https://www.nycgovparks.org/parks/edenwald-playground/history (from 2026-10-27 factory section above) · Eden estate, Hebrew Orphan Asylum, condemnation 1950 · §5
+
+### Neighborhood
+- https://en.wikipedia.org/wiki/Edenwald,_Bronx (redirects to Eastchester, Bronx) · Firecrawl scrape · Edenwald = sub-neighborhood of Eastchester; CB12; ZIP 10466; 47th Pct 4111 Laconia Ave; NYPL Edenwald branch 1255 E 233rd St (one story, 1973); "industrial district" in wider area · §5 glance, §8 corridors, landmarks
+- "Seton Falls Park Bronx NYC Parks history acres ..." · WebSearch → WebFetch · https://php1-84.nycgovparks.org/parks/X046/history · Seton estate "Cragdon"; City acquired 32 acres June 10, 1914 for contagious-disease hospital; opposition → Parks (29 ac 1930, +3 ac 1932); 1981 pumping station for Rattlesnake Creek · landmarks
+- "nursing home Edenwald Bronx 10466 ..." · WebSearch → WebFetch · https://projects.propublica.org/nursing-homes/homes/h-335388 · Laconia Nursing Home, 1050 E 230th St, 240 certified beds, no fire-safety deficiencies listed on page · §5, §7, AI check
+- "PS 111 Seton Falls ..." · WebSearch → WebFetch · https://City-Data.com/school/ps-111-seton-falls-school-ny.html · 3740 Baychester Ave, PK–5, 754 students (2015–16) · §7, landmarks
+- "Cardinal Spellman High School ..." · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Cardinal_Spellman_High_School_(New_York_City) · One Cardinal Spellman Pl (1991 Needham Ave), founded 1959, 13-acre campus on Baychester Ave between Boston Rd and E 233rd St "in Edenwald" · §7, §8, landmarks
+- "Edenwald Bronx church ..." · WebSearch → WebFetch · https://www.devout.org/churches/ny/bronx/laconia-community-church · Laconia Community Church, 3915 Laconia Ave (denomination not listed) · §8
+- Named storefront businesses on E 233rd St / Baychester Ave in Edenwald: EMPTY (not verified; page makes no business-specific claims).
+
+### Local fire news
+- "Edenwald Bronx fire News 12 Bronx" · WebSearch → WebFetch · https://bronx.news12.com/2025/11/11/edenwald-tenants-fear-forced-eviction-after-fire-leaves-them-with-no-heat-and-water/63C4DgPhwYqw8UgHRyZHGA · 3805 Dyre Ave ("Dyer Ave." in story), 3rd-floor fire, call 1:38 a.m. Sunday (Nov 9, 2025), no heat/gas/water, HPD vacate order; quote "The experience was very traumatizing." · §5
+- (same search) · WebFetch · https://cbsnews.com/amp/newyork/news/fire-rips-through-home-in-edenwald-the-bronx · Jan 27 2015, 740 E 227th St, 3-story private residence, frozen hydrants, 4 families displaced · §5 (framed as houses outside page scope)
+- (same search) · WebFetch · https://abc7ny.com/fire-in-bronx-edenwald-home/956108 and https://www.cbsnews.com/amp/newyork/news/edenwald-bronx-house-fire/ · Aug 25 2015, E 232nd St 4-alarm house fire, 8 FFs hurt (ABC7; CBS says 6), 140 firefighters (CBS) · §5
+
+### Regulatory (reused from silo sections above, not re-fetched — FDNY PDF WebFetch was blocked this run)
+- FDNY Tips for Fire Alarm Systems (PE/RA, TM-1, up to 8 weeks initial review, 20–24 weeks, S-97/S-98 at test, 36 in. from diffusers, no refile fee within 6 months) · §Quick answer, process, AI check, pricing
+- NYC Business fire alarm application ($420 new, $525 complex analysis, Project Authorization) · pricing, FAQ 10
+- FDNY smoke/CO guidance for businesses (detectors not stand-alone; CO detection in fire-alarm occupancies with fuel burning/garage/loading dock; 2+ unwarranted alarms in 3 months unlawful) · §8 compliance, Q&A, FAQ 11
+- DOB Buildings Bulletin 2024-001 (via sparcfp summary) · upgrades section
+
+### Community / SERP
+- "reddit Edenwald Bronx" · WebSearch · no Reddit threads returned → Reddit: EMPTY (not accessible in build env / no results).
+- "Bronx Times Edenwald 2026" · WebSearch · only archive index pages, no Edenwald article → Bronx Times: EMPTY.
+- Google PAA / PASF / Answer the Public / Google AI Overview / Bing / DDG / Yelp for "fire alarm installation Edenwald": EMPTY (not accessible in build env); silo-level PAA/AI-claim findings above reused for §9/§10.5 framing.
+- WebFetch blocked (permission timeout): https://en.wikipedia.org/wiki/Edenwald,_Bronx, https://en.wikipedia.org/wiki/Edenwald_Houses (both then read via Firecrawl), https://www.nyc.gov/assets/fdny/downloads/pdf/business/tips-fire-alarm-systems.pdf (silo notes reused); https://newyorkyimby.com/?p=1998811 fetch failed — EMPTY.
+
+### Question register (this page)
+- The Edenwald PACT budget lists mechanical and electrical upgrades. How does a fire alarm line get priced inside a campus renovation like that?
+- Our church on Laconia Avenue got a violation for its fire alarm. Can we budget the correction before we know the full scope?
+- How can the Edenwald tenant association check that fire alarm work in our buildings was approved by the FDNY?
+- The nursing home on East 230th Street is switching fire alarm service companies. What should the new company prove first?
+- Our building's super wants to replace the hallway detectors himself while the painters are in. Is that allowed in Edenwald?
+- Who decides what fire alarm a new day program in an Edenwald storefront needs?
+- Why does the fire alarm in a three-story Edenwald building look so different from the one in the fourteen-story building next to it?
+- Roofs on our Edenwald buildings are being replaced. Why did the panel start showing trouble?
+- Does new boiler or heating equipment in an Edenwald building change the fire alarm?
+- We own a small apartment building near Edenwald Houses. Does the campus renovation affect our fire alarm obligations?
+- A tenant in our Edenwald building keeps covering the hallway detector with a bag. What can the owner do?
+- Residents in our Edenwald building say the alarm sounds every week for no reason. Who is responsible for stopping it?
+- The company that installed our Edenwald school's system closed and left no as-built drawings. What now?
+- What is a commercial fire alarm system, and how does one work in an Edenwald building?
+- Which phone line and office handle Edenwald fire alarm work?
+- What should an Edenwald facilities manager have ready for the first survey?
+- Is fire alarm work part of the Edenwald Houses PACT renovation?
+- Can a three-story building on the Edenwald campus share a fire alarm panel with its neighbor?
+- How is fire alarm testing done in an Edenwald nursing home without disturbing residents?
+- Does a church hall on Laconia Avenue need a fire alarm system?
+- What happens to an Edenwald building's fire alarm when the copper phone lines are retired?
+- Do Edenwald schools need voice evacuation instead of horns?
+- Who keeps the fire alarm records for a building converted under PACT?
+- Can work start in Edenwald while the FDNY is still reviewing the plans?
+- Why does a carbon monoxide detector sometimes go on an Edenwald building's fire alarm?
+- How quickly can Abstract Enterprises Security Systems reach an Edenwald building?
