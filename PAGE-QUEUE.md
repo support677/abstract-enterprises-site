@@ -478,9 +478,9 @@ LIVE | fire-alarm-installation-brighton-beach-brooklyn-ny | Fire Alarm Installat
 LIVE | fire-alarm-installation-bronx-river-bronx-ny | Fire Alarm Installation | Bronx River, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-bronxwood-bronx-ny | Fire Alarm Installation | Bronxwood, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-brooklyn-chinatown-brooklyn-ny | Fire Alarm Installation | Brooklyn Chinatown, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-15T13:44Z | fire-alarm-installation-brooklyn-heights-brooklyn-ny | Fire Alarm Installation | Brooklyn Heights, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-15T13:44Z | fire-alarm-installation-brooklyn-navy-yard-brooklyn-ny | Fire Alarm Installation | Brooklyn Navy Yard, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-15T13:44Z | fire-alarm-installation-brownsville-brooklyn-ny | Fire Alarm Installation | Brownsville, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | fire-alarm-installation-brooklyn-heights-brooklyn-ny | Fire Alarm Installation | Brooklyn Heights, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | fire-alarm-installation-brooklyn-navy-yard-brooklyn-ny | Fire Alarm Installation | Brooklyn Navy Yard, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | fire-alarm-installation-brownsville-brooklyn-ny | Fire Alarm Installation | Brownsville, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-bushwick-brooklyn-ny | Fire Alarm Installation | Bushwick, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-cadman-plaza-brooklyn-ny | Fire Alarm Installation | Cadman Plaza, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-canarsie-brooklyn-ny | Fire Alarm Installation | Canarsie, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn

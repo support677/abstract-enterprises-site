@@ -4686,3 +4686,250 @@ Rebuild research for the Canarsie neighborhood page (NFPA 72 commercial only; on
 - Emmanuel Episcopal (amNY) — Sheepshead Bay, not used.
 - Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp: EMPTY (not accessible in build env). Reddit r/Canarsie: EMPTY (no relevant threads).
 - Canarsie-specific lithium-ion commercial fire 2024–2026: EMPTY.
+
+## Brooklyn Heights, Brooklyn — /fire-alarm-installation-brooklyn-heights-brooklyn-ny (commercial rebuild research, 2026-11-15)
+
+Commercial (NFPA 72) rebuild research. Regulatory base (PE/RA sealed drawings, TM-1, FDNY Fire Alarm Company Certificate, S-97/S-98 with NICET II+ or NYC master/special electrician, FAIU at 9 MetroTech Center, ~20-24 weeks, initial review up to 8 weeks, resubmit within 6 months, FA-27 $105, BB 2024-001, LL195, central station bulletin, BC 907 thresholds, 36 in from diffusers, fans >2000 cfm, CCNY impairment guidance) reused as facts from "## NYC hubs" and the Brooklyn Chinatown section (URLs listed there). Some local facts re-used from the 2026-11-13 Brooklyn Heights factory section and the Cadman Plaza section (marked "factory, not re-fetched"). Each entry: exact query · platform · URL · finding · section used.
+
+**Unique angle:** fire alarms in the city's first historic district — the LPC permit track that runs beside the FDNY filing (interior work needing a DOB permit needs an LPC permit; guidebook: ~10 in. visible conduit, mortar joints, never through cast iron, off primary facade unless mandated), concealed routing through dumbwaiter shafts/chases/cellars, co-op board governance, and the neighborhood's run of converted grand hotels (St. George → co-op/rentals/dorms; Bossert → condos 2029; Leverich Towers → assisted living/memory care; Margaret burned 1980 mid-conversion; St. George Clark Building 16-alarm 1995 in a vacant wing).
+
+### Historic district / LPC
+- "Brooklyn Heights Historic District first historic district 1965 Landmarks Preservation Commission" · WebSearch → WebFetch · https://www.dnainfo.com/new-york/20151123/brooklyn-heights/nycs-first-historic-district-named-50-years-ago-today · designated Nov 23 1965, NYC's first; 1965 LPC report quote "The architecture of the Heights is a remarkable example of stylistic development, rarely found in any American city." · hero, §5, facts table.
+- (factory, not re-fetched) https://en.wikipedia.org/wiki/Brooklyn_Heights_Historic_District · boundaries: Cadman Plaza West N, BQE W, Atlantic Ave S, irregular line partly along Clinton/Henry E · §5.
+- "LPC permit types interior work" · Firecrawl scrape (WebFetch permission timed out) · https://www.nyc.gov/site/lpc/applications/permit-types.page · LPC permit required for "Any interior work that requires a permit from the Department of Buildings", interior work affecting exterior, designated interior landmarks; 95% of approvals at staff level (PMW, CNE) · answer-first, LPC section, AI reality check, construction/permits.
+- "LPC Permit Guidebook health safety" · Firecrawl scrape (WebFetch permission timed out) · https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf · no permit for ordinary maintenance/repair/retrofitting of health & safety equipment; no equipment on primary facade "unless no other option exists, i.e., no feasible alternative exists or the location is mandated by law"; attach at mortar joints/plain masonry, never through cast iron/decorative surfaces; conduit concealed through plain masonry, else "staff may approve a maximum of approximately ten inches of visible conduit", painted to match · facts table, LPC section, FAQ 5.
+- (factory, not re-fetched) https://thebha.org/issue/bha-landmarks-committee-activity/ · Borough Hall Skyscraper District created 2011, 21 buildings; north side of Montague between Cadman Plaza W and Clinton excluded · §7 Court Street.
+
+### Converted hotels
+- "St. George Hotel Brooklyn Heights largest hotel 2,632 rooms ... co-op conversion" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Hotel_St._George · block Pineapple/Henry/Clark/Hicks, 111 Hicks; 2,632 rooms, largest NYC hotel when final expansion opened 1930; eight attached structures pre-1995; Tower/Grill/Crosshall/Pineapple apartments by 1984; dorms since late 1990s; Clark St station sole entrance through hotel ground floor; Aug 26 1995 16-alarm in Clark Building, started by man scavenging copper, Clark Building demolished · §5 table, §7, corridors, hotels section, landmarks card.
+- same · WebFetch · https://stgeorgetower.com/history/ · co-op conversion of Tower & Grill proposed 1982, effective 1984 (St. George Tower and Grill Owners Corp.); 2,632 rooms; Clark St brick building destroyed by fire Aug 1995, student rental on site · hotels section.
+- (factory, not re-fetched) https://www.fireengineering.com/firefighting/16-alarm-fire-brooklyn-new-york/ · vacant Clark Building at 51 Clark St; spread through holes cut in floors, stairways, elevator shafts with hoistway doors removed; vandalized standpipe ("The water never made it to the interior crews") · hotels section, FAQ 7.
+- "Hotel Bossert 98 Montague Street conversion" · WebSearch → WebFetch · https://www.6sqft.com/former-hotel-bossert-brooklyn-heights-ritz-carlton-condos/?p=247226 · 1909, Helmle & Huberty, 14 stories, Renaissance Revival, Marine Roof, "Waldorf-Astoria of Brooklyn"; Witnesses bought in 1980s, guest housing until 2012; LPC approved 15th-floor rooftop addition Sept 1 2026; 62 condos, USHG restaurant, SLCE Architects; construction late 2026, finish 2029 · table, §7, hotels section, landmarks card.
+- same · WebFetch · https://commercialobserver.com/2026/09/brooklyn-hotel-bossert-ritz-carlton-condos-someraroad/ · SomeraRoad/Marriott; Ian Ross quote "The Hotel Bossert has long stood as one of Brooklyn's most iconic buildings, and we are honored to help write its next chapter." · hotels section (sale prices NOT used — no-$ rule).
+- https://newyorkyimby.com/2026/08/lpc-to-review-revised-proposal-for-hotel-conversion-at-98-montague-street-in-brooklyn-heights-brooklyn.html · WebFetch · EMPTY (client_error, not accessible).
+- "Leverich Towers 25 Clark Street Brooklyn Heights Watchtower sale conversion" · WebSearch → WebFetch · https://www.6sqft.com/?p=41561 · 21 Clark St, 1928, 16 stories, 310,000 sq ft; Witnesses bought 1975, residence for ~1,000 volunteers; sold 2017; Watermark at Brooklyn Heights: 275 units (29 IL, 204 AL, 42 memory care, 24-hour care) · table, §7, hotels section.
+- same · WebFetch · https://brooklyneagle.com/articles/2019/11/06/a-tour-of-the-landmarked-watchtower-property-being-transformed-into-luxury-senior-housing-photos/ · 21 Clark St "The Towers", landmarked, 275 units same breakdown · corroboration only (dropped from page sources for length).
+- "Hotel Margaret fire 1980 Brooklyn Heights" · WebSearch → WebFetch · https://brooklyneagle.com/articles/2019/02/07/fire-destroyed-hotel-margaret-39-years-ago-this-week/ · fire began Feb 1 1980 at 91-99 Columbia Heights during renovation (commenter: condo conversion); hose water froze on fire escapes · §5, hotels section.
+- same · WebFetch · https://en.wikipedia.org/wiki/Hotel_Margaret · 1889, 10 stories, Frank Freeman; burned 1980 during condo conversion; Stanton Eckstut designed replacement (1986) · background (details trimmed from final page).
+
+### Institutions
+- "Plymouth Church Brooklyn Heights Orange Street" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Plymouth_Church_(Brooklyn) · 57 Orange St between Henry & Hicks, 1849-50, Joseph C. Wells, NHL Oct 15 1966; Church House 75 Hicks; Hillis Hall · §7, landmarks card.
+- "Packer Collegiate Institute 170 Joralemon ..." · WebSearch → WebFetch · https://packer.brooklynhistory.org/story/life-at-packer/architecture · Minard Lafever, Gothic Revival; chapel 3rd/4th floors with nine Tiffany Studios windows; Pratt Hall 1957; bought St. Ann's Church next door 1969, middle school 2003 · §7, landmarks card.
+- "St. Ann's School Brooklyn Heights 129 Pierrepont ..." · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Crescent_Athletic_Club_House · 129 Pierrepont at Clinton, 1906, Frank Freeman, 12 floors behind double-height windows, pool/bowling/top-floor gym; church bought it 1966 for the school · §7.
+- "Center for Brooklyn History 128 Pierrepont" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Center_for_Brooklyn_History · 1878-81, George B. Post; NYC interior landmark Mar 23 1982; restoration 1999-2003; part of BPL since 2020 · §7, LPC section, landmarks card.
+- "Brooklyn Heights Library One Clinton" · WebSearch → WebFetch · https://www.6sqft.com/new-brooklyn-heights-library-opens-at-base-of-one-clinton-luxury-condo/ · 286 Cadman Plaza West, 26,000 sq ft, opened June 2022; One Clinton 38 stories, 134 units, Hudson Companies, Marvel · §7, construction, landmarks card.
+- "Engine 224 274 Hicks Street" · WebSearch → WebFetch · https://brooklyneagle.com/articles/2018/10/22/turn-of-century-brooklyn-heights-firehouse-called-architectural-gem/ · c. 1903, Adams & Warren; closure year not stated (not claimed) · corridors.
+
+### Co-ops / building stock (factory, not re-fetched)
+- https://habitatmag.com/layout/set/popup/Publication-Content/Green-Ideas/2024/November-2024/205-hicks-st-co-op-electric-heating · 205 Hicks: 22-unit pre-war co-op; LPC-approved heat pump project; refrigerant lines through two old dumbwaiter shafts · §7, LPC section.
+- https://habitatmag.com/Publication-Content/Bricks-Bucks/Uplifting-Changes-at-Brooklyn-Heights-Co-op · 105 Montague co-op since 1980, elevator added · §7.
+- https://www.cityrealty.com/nyc/brooklyn-heights/100-remsen-street/41231 and https://www.nestseekers.com/Bldg/150892/60-remsen-street-brooklyn-ny-11201-2 · 100 Remsen (1950, 8 fl, 78 units), 60 Remsen (1956, 10 fl, 78 units) · §7.
+- "reddit Brooklyn Heights co-op fire alarm" · Firecrawl search · https://cooperatornews.com/article/keeping-up-with-todays-strict-safety-measures (snippet: in co-ops the board is the owner) · §7 co-op governance.
+
+### Montague Street / corridors
+- "Montague Street BID ..." · WebSearch → WebFetch · https://brooklyneagle.com/articles/2024/03/05/long-history-highlighted-at-montague-st-bid-annual-meeting/ · BID office 129 Montague, ED Kate Chura; Martha Foley: "Montague Street was once the principal commercial artery of the independent city of Brooklyn" · §7, corridors. BID business count/vacancy: EMPTY (not stated).
+
+### Local fires
+- "Brooklyn Heights fire 2026 building FDNY ..." · WebSearch → WebFetch · https://brooklyn.news12.com/seven-injured-2-severely-in-brooklyn-heights-brownstone-blaze · 75 Pierrepont St between Hicks & Henry, Jan 5 2026 ~3:30 pm, 3rd-floor apt, 7 injured incl. firefighter, DOB partial vacate, Red Cross 5 households · §5, corridors, AI check.
+- same · WebFetch · https://www.cbsnews.com/amp/newyork/news/brooklyn-heights-apartment-building-fire-fdny · resident Nisha Datta said fire alarms went off; "I heard an explosion, and looked out the window and saw smoke."; escaped by fire escape · §5, AI check.
+- https://brooklyneagle.com/359544/fire-on-pierrepont-street-in-brooklyn-heights-injures-7-3-severely/ · WebFetch · EMPTY (permission timed out).
+- "132 Montague Street fire December 2021" · WebSearch → WebFetch · https://www.brooklynpaper.com/four-alarm-brooklyn-heights-blaze · rear of 132 Montague near Henry; cafe + eyewear shop below; fire floors 2-5; four-alarm; 4 firefighters hurt; John Hodgens: "It's a tough time for a fire like this, we have a lot of businesses on the block." · §5, corridors.
+- same · WebFetch · https://magazine.nyppa.org/a-five-alarm-fire-tore-through-132-montague-st-near-henry-st-brooklyn-heights · date Dec 10 2021, reported as five-alarm (four as of 8:45 a.m.) · date only.
+- https://brooklyn.news12.com/fdny-responds-to-fire-at-brooklyn-heights-building · Oct 13 2024 patio fire on Henry St between Joralemon & State; no detail · not used.
+- (factory) Remsen St manhole fire Nov 2024, CO in buildings · not used on final page.
+
+### Community / SERP
+- "reddit Brooklyn Heights co-op fire alarm OR smoke alarm building board" · Firecrawl search · only general r/AskNYC threads (e.g. https://www.reddit.com/r/AskNYC/comments/mwuosy/fire_alarm_has_been_going_off_in_neighboring/ — neighbor building alarm sounding for hours) · framed Q&A on neighbor's bell. Brooklyn Heights-specific Reddit: EMPTY.
+- Google PAA / PASF / Answer the Public / Google AI Overview / Bing / DuckDuckGo / Yelp 1-3★ for "fire alarm installation Brooklyn Heights": EMPTY (not accessible in build env). AI reality-check claims written from common generic AI/lead-site answers (Angi/HomeAdvisor/Fixr named) and corrected with LPC + FDNY sources.
+- Watchtower 25-30 Columbia Heights (https://www.aol.com/news/brooklyn-famed-watchtower-turn-mega-161929107.html) · DUMBO-edge, left to sibling pages; not used.
+
+### Images
+- 10 page-specific files images/fire-alarm-installation/fire-alarm-installation-brooklyn-heights-brooklyn-*.webp used (identical renders to the Brooklyn Chinatown set; alts/titles/captions rewritten). DROPPED: fire-alarm-installation-brooklyn-heights-brooklyn-pull-station-storefront-conduit.webp (readable building number "451"). ADDED: copied images/fire-alarm-installation/fire-alarm-installation-bedford-stuyvesant-brooklyn-ny-lobby-annunciator-check.webp → fire-alarm-installation-brooklyn-heights-brooklyn-ny-lobby-annunciator-check.webp (viewed: technician with tablet at red NOTIFIER annunciator on marble wall below horn strobe; small, distant desk attendant in background).
+
+### Question register (this page)
+Q&A (§9):
+1. Our co-op's sponsor still owns several unsold apartments on Remsen Street. Does the sponsor share the cost of a new fire alarm?
+2. Why does a fire alarm proposal for a 1920s Brooklyn Heights building include plaster repair and painting?
+3. Why would a fire alarm for a former hotel cost more per floor than one for a newer apartment building of the same size?
+4. A company has offered to install our new panel without filing anything because it is "the same as the old one." Can that be right?
+5. The company bidding on our panel replacement also wants to sell us the central station monitoring. Is bundling those a problem?
+6. Can the engineer who sealed our building's fire alarm drawings years ago update them, or do we need a new one?
+7. Our former hotel's panel still lists old hotel room numbers. Does relabeling it for apartment numbers involve the FDNY?
+8. A shareholder's new soffit now hangs between a corridor detector and part of the hallway. Is the detector still doing its job?
+9. Our former hotel has long corridors with doors held open on magnets. What happens to those doors in an alarm?
+10. We lease the second floor of a Montague Street building for a dance studio. Can we ask the landlord for a copy of the fire alarm approval?
+11. Our building's live-in super is retiring next month. What fire alarm knowledge should we capture before he leaves?
+12. Shareholders say they cannot hear the corridor horn inside their apartments with the doors shut. Is that a defect?
+13. The bell on a building next to ours on Hicks Street rings for hours on weekends. Who can stop it?
+FAQ (§17):
+1. When a former Brooklyn Heights hotel becomes apartments or condominiums, does the old hotel fire alarm carry over?
+2. Can a slim remote annunciator go in a landmarked Brooklyn Heights lobby while the main panel sits somewhere less visible?
+3. Does assisted living in a converted Brooklyn Heights building need a different fire alarm design from ordinary apartments?
+4. Does running a fire alarm riser through an old dumbwaiter shaft in a Brooklyn Heights co-op affect the shaft's fire protection?
+5. How much visible conduit will Landmarks staff accept on a Brooklyn Heights facade?
+6. Can a fire alarm in a Brooklyn Heights chapel be designed so its stained-glass windows are never touched?
+7. What did the 1995 St. George fire show owners of partly vacant Brooklyn Heights buildings?
+8. Who should be the impairment coordinator when part of a Brooklyn Heights co-op's fire alarm is out of service?
+9. Can fire alarm cable in a Montague Street store building run through the cellar instead of across the sales floor?
+10. What should a Brooklyn Heights co-op board ask for before approving a shareholder renovation near a fire alarm device?
+
+## Brooklyn Navy Yard, Brooklyn — /fire-alarm-installation-brooklyn-navy-yard-brooklyn-ny (commercial rebuild research, 2026-11-15)
+
+Commercial (NFPA 72) rebuild research. Regulatory base (PE/RA sealed drawings, TM-1, FDNY Fire Alarm Company Certificate, S-97/S-98 and NICET II / master or special electrician, $105 fee, FAIU at 9 MetroTech Center, ~20-24 weeks, initial review up to 8 weeks, resubmit within 6 months, pre-inspection 100% complete, FA-27, 36 in from diffusers, fans >2000 cfm, elevator recall defects, BC 907 thresholds) reused as facts from "## NYC hubs" (URLs listed there). Background facts (boundaries, 1801 founding, Monitor/Arizona/Missouri, 70,000 WWII workers, 1966 closure, Sands St gate 1895 + Kings County Distillery 2015, Building 12 flyer, Building 303 flyer, Dry Dock 1 1851) reused from the 2026-10-27 Brooklyn Navy Yard factory section. Each entry: exact query · platform · URL · finding · section used.
+
+**Unique angle:** one public landlord over every building. Inside the gates BNYDC (for the City) owns every building, so every tenant fire alarm job needs BNYDC plan approval BEFORE the FDNY path, ties into a base-building system the landlord controls, and runs under Yard access/freight rules. Second thread: very different industrial hazards side by side (food production, fabrication/welding, labs/battery work, production support, waterfront offices) and change of occupancy (BB 2024-001) as the trigger tenants miss.
+
+### Landlord rules (BNYDC)
+- "Brooklyn Navy Yard tenant design guidelines alterations approval BNYDC" · WebSearch → WebFetch · https://www.brooklynnavyyard.org/wp-content/uploads/2026/06/Updated_Tenant-Manual-2026.pdf · "plans of the proposed work must be submitted to and approved by BNYDC"; Article 12 of lease; separate Tenant Alterations Guidelines from leasing agent/property manager; Non-Material Alterations (painting) confirm with Property Management; licensees no alterations without approval; permits obtained and closed, unapproved/unclosed work = default; "Any and all electrical work must be performed by a licensed electrician"; utilities BNYDC responsible to point of entry, tenant maintains equipment inside; no fire alarm/sprinkler/hot work section; ID Portal (IDP) role Fire Safety & Security = "Local Fire Alarm contact for FDNY response/emergency contact"; BNYDC ID cards for all tenant employees, temporary cards for long-term consultants from BNYDC Security; gates: Sands St 24/7, Building 77 Flushing Ave entrance 24/7 ped/bike (swipe 10PM-6AM), Building 3 entrance ped 24/7, Cumberland varied, Clymer weekdays 5am-9pm / weekends 5am-1pm, Clinton Ave closed May 2026 for critical repairs; freight cars shut 8pm-5am weekdays, none weekends; after-hours freight by email 2 business days ahead (hourly fees — NOT quoted on page per Hard Rule 13); hallway storage "a violation of the NYS Fire Code". · hero, quick answer, §5 Why + facts table, Two Sign-Offs, gates section, Q&A, AI check, FAQ, process.
+- "BNYDC Tenant Alteration Guidelines fire alarm" · WebSearch · EMPTY (guidelines not published online; page says to read the copy from the property manager).
+
+### Yard scale / quotes
+- "Brooklyn Navy Yard FY25 impact report businesses jobs" · WebSearch → WebFetch · https://www.brooklynnavyyard.org/brooklyn-navy-yard-fy25-impact-report/ · Jan 8 2026: 550+ businesses, 13,000+ jobs, 17 industries, ~300 acres, $2.5B+ annual impact (stated as "2.5 billion dollars"); Lindsay Greene: "We are building the future of urban industry right here in Brooklyn." · hero, §5, facts table, production section.
+- "Brooklyn Navy Yard master plan…" · WebSearch → WebFetch · https://www.untappedcities.com/inside-brooklyn-navy-yards-massive-expansion-plan-underway/ · June 2018: David Ehrenberg "We're publicly owned, taxpayers own this place"; Building 77 ~1M sq ft; Dock 72, Steiner, Wegmans jobs; three dry docks working. · §5.
+- same · WebFetch · https://www.planetizen.com/node/100969 · 2018 master plan (WXY): 5.1M sq ft, vertical manufacturing building, 40-ft XL floors, 15-ft light industrial, 12-ft office, mechanicals 2nd floor; Ehrenberg "The master plan isn't nostalgic—this isn't pining for the manufacturing of yesteryear." · New Construction section.
+- "Brooklyn Navy Yard raves warehouse Restler Hudson letter 2026" · WebSearch → WebFetch · https://www.bkreader.com/non-profit-community/noise-complaints-raised-over-brooklyn-navy-yard-events-12738417 · Sep 3 2026: Restler + Hudson complaints about events (Kokofest, Tequilafest), hotline, changed exit procedures; Restler: "The Navy Yard is essentially a city agency," · §5 (quote).
+- https://brooklyneagle.com/412568/neighbors-fed-up-with-loud-all-night-raves-at-brooklyn-navy-yard/ · WebFetch · EMPTY (permission request timed out).
+
+### Buildings
+- "Building 77 … 1942 renovation" · WebSearch → WebFetch · https://www.untappedcities.com/massive-manufacturing-hub-opens-in-building-77-of-nycs-brooklyn-navy-yard/ · ~1M sq ft, 1942 storage building, concrete in place of windows first 11 floors, ~3M lb concrete removed for 50,000 sq ft windows, opened Nov 9 2017, 85% occupied, 60,000 sq ft ground-floor manufacturing hub. · Building types, facts table, landmarks. (Renovation $ figure deliberately not used.)
+- https://www.nyc.gov/office-of-the-mayor/news/721-17/... · WebFetch · EMPTY (index page, no article text).
+- "Dock 72 … 675,000" · WebSearch → WebFetch · https://thebridgebk.com/inside-dock-72-brooklyns-most-nautical-office-building/ · Mar 2019: 675,000 sq ft, 16 stories, between two dry docks, water on three sides, mechanicals on 2nd floor 19 ft above floodplain, 90 ft wide, ferry stop at west entrance. · Building types, gates/waterfront, facts table, landmarks.
+- "Steiner Studios … sound stages" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Steiner_Studios · 30 soundstages, 780,000 sq ft stage + 224,000 sq ft support, grid heights 26-45 ft, Naval Hospital campus reuse plans. · Building types, landmarks, occupancy paragraph.
+- "Green Manufacturing Center / Building 128" · WebFetch · https://www.brownstoner.com/brooklyn-life/green-manufacturing-center-to-be-built-in-the-navy-yard · Building 128, 2012, Crye + New Lab. (background)
+- https://www.architectmagazine.com/project-gallery/new-lab-at-the-brooklyn-navy-yard_o/ · 161,000 sq ft (whole building), completed 2016, Marvel, widened mezzanine, steel catwalk. · Building types.
+- https://www.architecturalrecord.com/articles/14108-new-lab-at-the-brooklyn-navy-yard-by-marvel-architects · Building 128 = 1899 machine shop for naval equipment; New Lab 84,000 sq ft; trusses and gantries kept. · Building types, production section, landmarks.
+- "Building 127 redevelopment" · WebSearch → WebFetch · https://www.brooklynpaper.com/milestone-makeover-navy-yard-leaders-kick-off-final-renovation-project-in-campuss-ongoing-redevelopment · 1904 building, Navy built boats there. · Building types.
+- https://newyorkyimby.com/2021/01/brooklyn-navy-yard-development-corporation-leases-56000-square-feet-of-manufacturing-area-at-building-127.html · ~95,000 sq ft added; Daedalus Design & Production (Broadway scenery) 35,000 sq ft ground floor; Smart Design top floor. · Building types.
+- "Wegmans Brooklyn Navy Yard" · WebSearch → WebFetch · https://www.supermarketnews.com/retail-financial/wegmania-hits-nyc-brooklyn-store-opens-sunday · 74,000 sq ft, opened Oct 27 2019, Admirals Row on Flushing Ave, mezzanine Market Café ~100 seats. · Building types, landmarks.
+- "Building 92 … Thomas U. Walter" · WebSearch → WebFetch · https://www.brownstoner.com/brooklyn-life/building-of-the-day-63-flushing-avenue · 1857 Marine Commandant's residence (Walter), 2012 addition ~24,500 sq ft, visitor center + employment center. · Landmarks.
+- "Brooklyn Navy Yard dry dock GMD Shipyard" · WebSearch → WebFetch · https://thebridgebk.com/inside-citys-largest-working-shipyard/ · Feb 2018: GMD three graving docks, ~150 workers, nine cranes up to 200 tons, tugs/ferries/barges/training ships, welders. · Gates/waterfront, landmarks.
+- "Brooklyn Navy Yard Cogeneration plant" · WebSearch → WebFetch · https://gem.wiki/Brooklyn_Navy_Yard_cogeneration_power_station · 322 MW, 1996, gas — not used on page (no fire alarm angle).
+
+### Fires / incidents
+- "USS Constellation fire December 19 1960" · WebSearch → WebFetch · https://wnyc.org/story/uss-constellation-fire-at-the-brooklyn-navy-yard/ · Dec 19 1960, 50 workers killed, up to 330 hurt; fuel from a knocked-out valve reached hot work below deck; ~17 hours. · facts table, production section.
+- "reddit Brooklyn Navy Yard fire alarm building" · WebSearch → WebFetch · https://www.brownstoner.com/brooklyn-life/fire-at-the-nav · Aug 2008 fire at Building 269; BNYDC official: likely welding. · facts table, production section.
+- same search · https://bklyner.com/another-fire-hits-the-brooklyn-navy-yard-fortgreene · Oct 3 2014 fire Bldg 275, no cause — not used.
+- "Brooklyn Navy Yard fire 2025 OR 2026 FDNY building" · WebSearch · only Red Hook / Sunset Park warehouse fires returned; no 2025-2026 Navy Yard building fire found — EMPTY for recent Navy Yard fires.
+- "…latex gloves spontaneous combustion" · WebSearch · EMPTY (factory snippet could not be confirmed; not used).
+- https://www.brooklynnavyyard.org/history/ · WebFetch · EMPTY (permission not granted in time).
+
+### Code
+- "BNYDC tenant alteration guidelines fire alarm" (result) → WebFetch · https://www.nyc.gov/assets/buildings/bldgs_bulletins/bb_2024-001.pdf · Feb 9 2024; repairs: licensed electrician, no functional change, no new FDNY plans; FDNY plans required for panel relocation/replacement, floor alterations, technology upgrades, enlargements, change of occupancy (new system for that space). · Two Sign-Offs, AI check, FAQ, existing systems.
+
+### Community / SERP
+- Reddit (r/Brooklyn, r/AskNYC, r/nyc) for Navy Yard fire alarm topics: EMPTY (search "reddit Brooklyn Navy Yard fire alarm building" returned no Reddit threads).
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp 1-3★: EMPTY (not accessible in build env). Anwar's 22 question keywords woven into prose; AI check written against common generic AI answers, corrected with sources above.
+- Crain's, Patch, News12 for Navy Yard fire alarm news: EMPTY (no relevant results surfaced).
+
+### Images
+- Dropped fire-alarm-installation-brooklyn-navy-yard-brooklyn-pull-station-storefront-conduit.webp (readable building number 451). Replaced with a copy of images/fire-alarm-installation/fire-alarm-installation-bathgate-bronx-ny-panel-check-sprinkler-riser.webp saved as images/fire-alarm-installation/fire-alarm-installation-brooklyn-navy-yard-brooklyn-ny-panel-check-sprinkler-riser.webp (technician with tablet at red FACP touchscreen beside red sprinkler riser, block wall). Other 10 navy-yard photos are byte-identical to the Chinatown set; alts/captions rewritten.
+
+### Question register (this page)
+Q&A (§9):
+1. BNYDC returned our fit-out plans asking how the fire alarm will work. Do we need sealed fire alarm drawings before the landlord will look again?
+2. Why does the proposal for our Building 77 suite include programming on a panel that belongs to the building?
+3. A contractor offered to skip the landlord submission because our change is "only a few devices." What is the risk?
+4. Our builder promises the fire alarm will be finished with the rest of the fit-out in eight weeks. Is that believable?
+5. Our project manager wants our own crew to pull the fire alarm cable and hire a certified company only for the connections. Will that pass?
+6. Can the architect who designed our fit-out also seal the fire alarm drawings, or do we need a separate engineer?
+7. The welding bay sits right next to our design office. How do you keep the torch from setting off the office detectors?
+8. Our hardware lab tests battery packs to failure on purpose. Does the fire alarm need to know about the test chamber?
+9. Our space is two floors joined by an open stair cut through the slab. Does that opening change the fire alarm?
+10. Our scenic shop builds pieces that reach the ceiling. What happens to the detectors when a tall piece blocks them?
+11. Building management asked us to name a Fire Safety & Security contact in the ID Portal. What does that person actually do?
+12. The landlord's property manager and our architect disagree about whether our change is a "Non-Material Alteration." Who decides?
+13. Sanding dust from the shop next door keeps setting off the alarm in our suite. Who fixes that?
+14. The strobes in our suite flash out of step with the ones in the corridor outside. Is that something to fix?
+FAQ (§17):
+1. Is your Brooklyn office inside the Navy Yard?
+2. In what order do the landlord review and the FDNY filing happen for a Navy Yard fit-out?
+3. Does turning storage space into a production floor change the fire alarm requirement in a Yard building?
+4. How far ahead of move-in should a Navy Yard tenant start the fire alarm work?
+5. Can fire alarm work go on while the tenants around us keep running?
+6. Do your technicians need BNYDC ID cards to work inside the Yard?
+7. Which detectors hold up near steam, smoke and dust in Navy Yard production spaces?
+8. What happens on the building's system when a detector in one tenant's space goes into alarm?
+9. Can a Navy Yard event space use the fire alarm speakers for its own announcements?
+10. When our lease ends, do the fire alarm devices we paid for leave with us?
+11. Will the company that signs our FDNY filing be the one installing the devices?
+12. Can you work after the freight elevators shut down for the night?
+
+## Brownsville, Brooklyn — /fire-alarm-installation-brownsville-brooklyn-ny (commercial rebuild research, 2026-11-15)
+
+Commercial (NFPA 72) rebuild research. Regulatory base (PE/RA sealed drawings, TM-1, FDNY Fire Alarm Company Certificate, S-97/S-98, NICET II / master-special electrician, FAIU at 9 MetroTech Center, ~20-24 weeks, initial review up to 8 weeks, resubmit within 6 months, FA-27 $105, test request lead 40-70 business days, central station changeover 10-20 business days, BB 2024-001 change of occupancy, 2012 central office bulletin, BC 907 thresholds, Habitat Group $2,500 ECB case) reused as facts from "## NYC hubs" (URLs listed there).
+
+**Unique angle:** the seam between apartments and a public ground floor. Brownsville Plan (HPD 2017) gave each city RFP lot a ground-floor theme, so the new affordable buildings (BACA 366 Rockaway, Glenmore Manor/B'Ville Hub, Gail P. Duke Older Adult Center, 372 Livonia Parent-Child Resource Center, Edwin's Place) are designed with a shell community floor fit out later by an operator on an already FDNY-approved system; second thread = ~40% of upper floors on Pitkin/Belmont vacant, so reopening = change of occupancy = fire alarm trigger. Different from Bronx River (NYCHA-heavy) and Brooklyn Chinatown (multi-tenant turnover); NYCHA explicitly out of scope.
+
+### Brownsville Plan / new buildings
+- "Brownsville Brooklyn Plan HPD 2017 affordable housing community facilities Glenmore Manor Edwin's Place" · WebSearch → WebFetch · https://www.nyc.gov/assets/hpd/downloads/pdfs/services/the-brownsville-plan.pdf · released June 1 2017; ~500 residents, 20+ agencies, 30 CBOs; 2,500+ affordable homes, $1B+; $150M+ neighborhood investments; RFP themes Rockaway-Chester arts & culture, Christopher-Glenmore innovation & entrepreneurship, Livonia healthy living & food; ~40% of upper floors on Pitkin and Belmont vacant; Pitkin BID since 1993; $250,000 NY Main Street grant (Pitkin Ave Renaissance Program, Amboy St–Rockaway Ave); 37% below poverty; $94M unmet demand · §5, facts table, corridors, upper-floors section.
+- same · WebFetch · https://www.nyc.gov/assets/hpd/downloads/pdfs/services/brownsville-plan-april-2026-presentation.pdf · BACA 283 units, completion Dec 2027, ground-floor arts community facility; Glenmore Manor 233 units, ~18,000 sf (entrepreneurs, radio station, communication center, CBEDC); 372 Livonia 81 units, early 2027, Parent-Child Resource Center; Gail P. Duke Senior Residence (Livonia C3) 141 units TCO April 2026, ~10,000 sf older adult center; Livonia C1/C4 281 units planned (fresh food, social services, youth); 326 Rockaway 216 units complete; 3,986 units total · §5, facts table, corridors.
+- "Brownsville Arts Center and Apartments Rockaway Avenue opening" · WebSearch → WebFetch · https://www.brownstoner.com/development/brownsville-arts-and-culture-apartments-366-rockaway-avenue · 366 Rockaway Ave; 283 units 30-70% AMI; 28,000+ sf arts space incl. large multipurpose rehearsal/performance room; Gilbane, Blue Sea, Artspace; Aufgang Architects; groundbreaking Sept 2025; HPD/HDC $88.1M, DCLA $8.2M; quote Laurie Cumbo "culture should be part of the foundation in every community." (quote not used) · §5, facts table, landmarks.
+- https://www.6sqft.com/880-affordable-homes-new-performing-arts-center-and-public-space-upgrades-coming-to-brownsville/ · WebFetch · July 26 2018: Rockaway Ave & Chester St arts center with music school, media lab (BRIC), black box theater; Glenmore with credit union, sit-down restaurant, salon; Livonia sites with supermarket, senior center, youth/family · §5, Q&A (black box), sources.
+- https://www.goldsteinhall.com/case-studies/glenmore-manor/ · WebFetch · Christopher & Glenmore Aves, 11 stories, 233 units, ~20,000 sf B'Ville Hub (restaurant, beauty/wellness salon, credit union, radio station, training); AAPCI + Brisa Builders; Think! Architecture; Enterprise Green Communities; formerly vacant lot · §5, facts table, landmarks.
+- "Edwin's Place Brownsville Breaking Ground" · WebSearch → WebFetch · https://www.6sqft.com/robert-a-m-sterns-affordable-housing-building-edwins-place-opens-in-brownsville/ · 7 Livonia Ave at Grafton St; RAMSA; 8 stories; 125 units, 88 formerly homeless; ground-floor community facility; opened week of July 27 2021; Breaking Ground + AAPCI · §7, corridors, landmarks.
+- "Gail P. Duke senior residence Livonia Avenue" · WebSearch → WebFetch · https://www.ccbq.org/gail-p-duke-senior-housing/ · 350 Livonia Ave; page says 47 units (conflicts with HPD's 141) — unit count NOT used; older adult center listed as amenity. https://newyorkyimby.com/2026/02/housing-lottery-launches-for-gail-p-duke-senior-residence-at-350-livonia-avenue-in-brownsville-brooklyn.html · EMPTY (fetch failed, client error).
+- "Rockaway Village Brownsville Dumont Avenue community facility" · WebSearch → https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-unveils--128-million-brownsville-multi-service-cen · 4-story 60,000 sf Multi-Service Center, $128M, CB16 at 444 Thomas S. Boyland St, Sept 28 2026 — city project, NOT used. Rockaway Village itself: EMPTY (no source surfaced).
+- "Marcus Garvey Village Brownsville microgrid" · WebSearch → WebFetch · https://www.bkreader.com/news/solar-microgrid-brownsville-gives-glimpse-future-energy-6542197 · 625 units, 32 low-rise buildings, ~10 blocks; 480 kW solar, 400 kW fuel cell, 300 kW lithium battery; part of $190M renovation; not NYCHA (Aug 2017) · §7, Q&A (battery room), FAQ (standby batteries), landmarks. (pv-magazine URL: EMPTY, redirect loop.)
+
+### Corridors / landmarks
+- "Pitkin Avenue BID Brownsville storefronts corridor" · WebSearch → WebFetch · https://pitkinave.squarespace.com/about · BID founded 1993; Pitkin Ave Howard Ave–Mother Gaston Blvd; Rockaway Ave Glenmore–Belmont · §5, corridors.
+- https://urbandesignforum.org/wp-content/uploads/Pitkin-Avenue-Vision-Plan-Executive-Summary.pdf · WebFetch · no storefront counts/vacancy; high foot traffic; Osborn/Thatford/Herzl cul-de-sacs — not used beyond context.
+- "Loew's Pitkin Theatre Ascend charter school" · WebSearch → WebFetch · https://www.brownstoner.com/architecture/building-of-the-day-1501-pitkin-avenue · 1501 Pitkin at Saratoga; 1929-30; Thomas Lamb; 2,817 seats; closed 1969 · §5, §7, landmarks, FAQ.
+- https://www.brooklyneagle.com/articles/2012/09/11/loews-pitkin-restored-movie-palace-now-houses-charter-school-retail/ · WebFetch · $43.3M conversion; Brownsville Ascend Charter School on 7 of 8 floors; 130,000 sf; 12,500 sf ground-floor retail · §7, landmarks.
+- "Brownsville Community Justice Center Belmont Avenue" · WebSearch → WebFetch · https://www.innovatingjustice.org/project/brownsville-community-justice-center · 50 Belmont Ave; aux 650 Rockaway Ave; Osborn Plaza (2015), Watkins St and Thatford St Open Streets; Be On Belmont festival · corridors, landmarks, FAQ.
+- "Betsy Head Park pool Brownsville" · WebSearch → WebFetch · https://php1-84.nycgovparks.org/parks/betsy-head-memorial-playground/history · opened 1915; land acquired 1913 for $250,000; Betsy Head (1851-1907) $190,000 bequest; 1936 WPA pool, pool house by John Matthews Hatton, fire-damaged soon after opening, rebuilt 1939; 2020 Anchor Park renovation · landmarks.
+- "Brownsville Recreation Center 1555 Linden Boulevard" · WebSearch → WebFetch · https://newyorkyimby.com/2024/07/renovation-plan-and-funding-announced-for-the-brownsville-recreation-center-in-brownsville-brooklyn.html · 1555 Linden Blvd; $160M full rebuild of 70-year-old building with indoor pool (city project, not claimed) · corridors, landmarks.
+- Livonia Ave under the elevated 3 line: general knowledge (stated in brief); no stat attached.
+- Brookdale Hospital: not used (outside area focus).
+
+### Local fires
+- "Brownsville Brooklyn fire FDNY Pitkin Avenue OR Rockaway Avenue OR Belmont Avenue 2025 2026" · WebSearch → WebFetch · https://www.brooklynpaper.com/15-people-hospitalized-brownsville-fire · 42 Lott Ave: two-story mixed-use, laundromat + apartment on 1st floor, two units on 2nd; fire started 1st floor; 15 hospitalized (2 serious, jumped); DOB full vacate; firefighters cited clutter; neighbor Claudia Martinez quote · facts table, AI reality check.
+- https://abc7ny.com/post/6-injured-brownsville-brooklyn-house-fire/18827375/ · WebFetch · date confirmed Thursday April 2 2026, just before 5 a.m., 42 Lott Ave off Herzl St · facts table.
+- https://brooklyn.news12.com/8-people-injured-in-brownsville-building-fire · WebFetch · same fire, April 2 2026, early count 8 injured, neighbors suspected sparking outlet · not used (superseded count).
+- https://www.cbsnews.com/newyork/news/brownsville-fire-damaged-building-neglect · WebFetch · Aug 10 (2023) fire, 70 Rockaway Ave rent-regulated building, 4th floor, accidental faulty wiring; tenants say smoke alarms went off for weeks; quote Valencia Mondesir "The landlord, the super, nobody took us seriously." · corridors (Rockaway Avenue).
+- https://brooklyn.news12.com/fdny-brownsville-fire-damages-multiple-buildings · WebFetch · April 22 2025, Newport Ave between Saratoga Ave and E 98th St, fire began in a deli, spread to neighboring buildings, apartments and businesses damaged · §7 store buildings.
+- https://brooklyn.news12.com/2026/01/25/fire-breaks-out-at-6-story-building-in-in-brownsville/OTqnQDG7FjcA35uelCJyc · WebFetch · Jan 25 2026, 165 Rockaway Pkwy, 6-story, 3rd floor, 79 personnel, no injuries · not used.
+
+### Child care / code
+- "change of use upper floor ... day care" · WebSearch → WebFetch · https://www.nyc.gov/assets/doh/downloads/pdf/dc/approval-other-floors-child-care.pdf · written DOHMH approval for non-ground floors; DOB and FDNY approvals; plans must confirm interior fire alarm and sprinkler as codes require; Enhanced Safety Plan; FDNY fire safety inspection after C of O · construction section, FAQ.
+- https://www.nyc.gov/assets/doh/downloads/pdf/dc/leasing-space-child-care-centers-faq.pdf · WebFetch · two exits per floor; age/floor limits; fire alarms/sprinklers per construction codes · background only.
+
+### Community / SERP
+- "reddit Brownsville Brooklyn building fire alarm landlord" · WebSearch · Reddit: EMPTY (no Brownsville threads surfaced; results were news/Brownstoner forum).
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp 1-3★: EMPTY (not accessible in build env). Anwar's 22 question keywords woven into prose; AI-check claims written from generic directory framing (Angi/HomeAdvisor/Fixr named, not quoted).
+- BK Reader / Canarsie Courier / The City / Patch for Brownsville fire-alarm topics: EMPTY (no relevant results surfaced in searches run).
+
+### Images
+- 10 standard Brownsville set photos used (identical files to the Brooklyn Chinatown set; descriptions match what is visible).
+- Dropped: fire-alarm-installation-brownsville-brooklyn-pull-station-storefront-conduit.webp (readable building number 451) — file left in place, not referenced.
+- Added: fire-alarm-installation-brownsville-brooklyn-ny-lobby-annunciator-check.webp, copied from fire-alarm-installation-bensonhurst-brooklyn-ny-lobby-annunciator-check.webp (technician at a NOTIFIER annunciator touchscreen on a stone lobby wall under a horn strobe).
+
+### Question register (this page)
+Q&A (§9):
+1. Our nonprofit was chosen to run the community floor of a new Brownsville building. Is the fire alarm work for our space already in the developer's budget?
+2. We want to put the second floor above our Pitkin Avenue store back into use after years of sitting empty. What does the fire alarm part of that project involve?
+3. The apartments upstairs and our community space downstairs each use a different fire alarm company. Is that a problem?
+4. A proposal for our Belmont Avenue building says "design by others." What is missing from it?
+5. The developer's punch-list crew offered to move two strobes in our community room before we open. Should we let them?
+6. Can our arts group's production electrician connect the stage lighting and sound to the fire alarm?
+7. Our building has rooftop solar panels and a battery room. Does the fire alarm have anything to do with the batteries?
+8. Our black box theater rebuilds its seating for every show. How do the detectors and strobes keep covering the room?
+9. Many members of our older adult center use walkers and wheelchairs. How does the fire alarm design account for that?
+10. Our community space sat as an unfinished shell for months after the apartments opened. Are the devices installed back then still good for our fit-out?
+11. The building's management office and our program staff both want to be first on the fire alarm call list. How should the call order be set?
+12. Three businesses share the commercial base of our building. When one of them renovates, who signs off on the fire alarm changes?
+13. Every false alarm from the apartments upstairs empties our after-school program too. Can the building be set up differently?
+14. Residents upstairs blame our community kitchen for every alarm. How can the building show where an alarm really started?
+FAQ (§17):
+1. Which Brownsville buildings need a building-wide fire alarm and not only apartment smoke alarms?
+2. What does the Health Department ask about the fire alarm before a child care program can use an upper floor in Brownsville?
+3. What should a nonprofit check about the fire alarm on the walk-through before accepting a community space?
+4. Who pays when reopening an upper floor on Pitkin or Belmont Avenue forces changes to the building's fire alarm?
+5. Should the community floor of a new Brownsville building have its own annunciator?
+6. What happens to the fire alarm approval when the operator of a community space changes?
+7. Is a former movie palace like the Loew's Pitkin harder to fit with a modern fire alarm than a new building?
+8. Does putting an empty upper floor on Pitkin Avenue back into use also bring in sprinklers?
+9. Does a building with a solar-and-battery microgrid still need standby batteries in the fire alarm panel?
+10. Can fire alarm work in a Brownsville storefront be scheduled with a facade or storefront improvement project?
+11. Do Be On Belmont and other street events affect when fire alarm work or tests can happen on Belmont Avenue?
+- Main-run note: Habitat Group $2,500 figure removed from the Brownsville page before ship (third-party figure, not a government fee).
