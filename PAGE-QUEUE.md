@@ -493,9 +493,9 @@ BUILDING 2026-11-15T14:26Z | fire-alarm-installation-clinton-hill-brooklyn-ny | 
 BUILDING 2026-11-15T14:38Z | fire-alarm-installation-co-op-city-bronx-ny | Fire Alarm Installation | Co Op City, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-15T14:38Z | fire-alarm-installation-cobble-hill-brooklyn-ny | Fire Alarm Installation | Cobble Hill, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-15T14:38Z | fire-alarm-installation-columbia-street-waterfront-brooklyn-ny | Fire Alarm Installation | Columbia Street Waterfront, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-REBUILD | fire-alarm-installation-concourse-bronx-ny | Fire Alarm Installation | Concourse, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | fire-alarm-installation-coney-island-brooklyn-ny | Fire Alarm Installation | Coney Island, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-REBUILD | fire-alarm-installation-country-club-bronx-ny | Fire Alarm Installation | Country Club, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-15T14:45Z | fire-alarm-installation-concourse-bronx-ny | Fire Alarm Installation | Concourse, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-15T14:45Z | fire-alarm-installation-coney-island-brooklyn-ny | Fire Alarm Installation | Coney Island, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-15T14:45Z | fire-alarm-installation-country-club-bronx-ny | Fire Alarm Installation | Country Club, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-crotona-park-east-bronx-ny | Fire Alarm Installation | Crotona Park East, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-crown-heights-brooklyn-ny | Fire Alarm Installation | Crown Heights, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-cypress-hills-brooklyn-ny | Fire Alarm Installation | Cypress Hills, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
