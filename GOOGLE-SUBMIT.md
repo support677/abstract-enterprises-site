@@ -90,6 +90,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 
 2026-11-14 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 10 requested, 9 indexed (fiber-optic flatiron/college point; sonos tribeca; apartment-building queens/staten island/westchester/brooklyn/hudson valley/long island), 0 failed, 2688 queued. Not-indexed URLs were Discovered/Crawled - currently not indexed or URL is unknown to Google. sonos brooklyn heights' first Request-indexing click closed the live-test dialog with no result; succeeded after a page reload. "Quota Exceeded" on the 11th request (dvr-upgrade-putnam, Crawled - currently not indexed), which stays QUEUED; next run starts there.
 
+2026-11-14 evening (scheduled, 01:51 UTC Nov 15, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2697 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-15T01:51:33Z, 2996 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2147 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected dvr-upgrade-putnam (URL is not on Google; Crawled - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 10 requests this morning used the daily allowance. Queue unchanged; next run starts at dvr-upgrade-putnam.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-10-29: brand price pages NOT on Google per URL Inspection API (184). Highest-search brands first, NYC areas first. Request these before everything else. -->
