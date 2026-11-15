@@ -528,9 +528,9 @@ HOLD-THIN ~250 one-family co-op bungalows (HPHA since 1982); no stores, schools,
 LIVE | fire-alarm-installation-highbridge-bronx-ny | Fire Alarm Installation | Highbridge, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 HOLD-THIN mostly the park + ridge blocks labelled Cypress Hills; ~5-6 prewar six-story rentals on Highland Blvd and one uncertified 341 Highland Blvd proposal; angles already on live Cypress Hills page — Anwar to decide 301 to Cypress Hills, noindex, or revisit when 341 Highland Blvd is filed | fire-alarm-installation-highland-park-brooklyn-ny | Fire Alarm Installation | Highland Park, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-hunts-point-bronx-ny | Fire Alarm Installation | Hunts Point, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | fire-alarm-installation-jerome-park-bronx-ny | Fire Alarm Installation | Jerome Park, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | fire-alarm-installation-kensington-brooklyn-ny | Fire Alarm Installation | Kensington, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-REBUILD | fire-alarm-installation-kingsbridge-bronx-ny | Fire Alarm Installation | Kingsbridge, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-15T18:44Z | fire-alarm-installation-jerome-park-bronx-ny | Fire Alarm Installation | Jerome Park, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-15T18:44Z | fire-alarm-installation-kensington-brooklyn-ny | Fire Alarm Installation | Kensington, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-15T18:44Z | fire-alarm-installation-kingsbridge-bronx-ny | Fire Alarm Installation | Kingsbridge, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-kingsbridge-heights-bronx-ny | Fire Alarm Installation | Kingsbridge Heights, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-laconia-bronx-ny | Fire Alarm Installation | Laconia, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-locust-point-bronx-ny | Fire Alarm Installation | Locust Point, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
