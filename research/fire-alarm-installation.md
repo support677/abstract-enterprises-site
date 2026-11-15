@@ -5264,3 +5264,158 @@ FAQ (§17):
 8. Can a former Clinton Avenue mansion used as college offices keep its period interiors through a fire alarm upgrade?
 9. A night-time fire in an empty classroom building, like Pratt's in 2013, has no one to pull a station. What detects it?
 10. Does a Clinton Hill building that hosts student exhibitions or performances need to plan its fire alarm for crowds?
+
+## Co-op City, Bronx — /fire-alarm-installation-co-op-city-bronx-ny (commercial rebuild research, 2026-11-15)
+
+Neighborhood research for the Co-op City page (NFPA 72 commercial only; apartments/townhouses out of scope). Regulatory base (TM-1, PE/RA sealed drawings, FDNY Fire Alarm Company Certificate, S-97, FAIU, ~20-24 weeks, FA-27 $105) reused as facts from "## NYC hubs". Angle: one owner running a small city — many code-required non-residential spaces (3 shopping centers, 8 garages, offices, nursery schools/day care, worship/halls, plant/shops) under one board, its own power plant (batteries still required) and its own Public Safety force (not FDNY, not a service company). Each entry: exact query · platform · URL · finding · section used.
+
+### Owner, scale, history
+- "Co-op City largest housing cooperative 15,372 apartments 35 buildings 236 townhouses" · WebSearch → WebFetch · https://coopcity.com/aboutus · 35 high-rises + 7 townhouse clusters, 15,372 units, 320 acres (20% developed), groundbreaking May 14 1966, 3 shopping centers, 8 garages (10,000+ spaces), education park, trigeneration plant, own Public Safety; Riverbay = corporate entity, 15-member board, Douglas Elliman Property Management since July 2016 · hero, §5, at-a-glance, §7.
+- same · WebFetch · https://en.wikipedia.org/wiki/Co-op_City,_Bronx · first residents Dec 1968, completed 1973; Herman J. Jessor; sections 1-5 = Dreiser, Carver, Bellamy, Asch, Einstein Loops; I-95 / Hutchinson River Pkwy boundaries; 25-acre education park (Truman HS, Bronx Health Sciences HS, MS 180, IS 181, PS 153/160/176/178); FDNY Engine 66/Ladder 61 at 21 Asch Loop; CD 10 · §5, §13 landmarks.
+- same · WebFetch · https://untappedcities.com/the-top-10-secrets-about-nycs-co-op-city · Freedomland 1960-64 on marshy site; ten 24-story Chevrons, ten 26-story Triple Cores, fifteen 33-story Towers (338 ft) · §5.
+
+### Power plant
+- "Co-op City trigeneration power plant 40 megawatt Riverbay Bronx" · WebSearch → WebFetch · https://www.districtenergyaward.org/wp-content/uploads/2013/07/USA_Co-Op-City-CHP-Plant_Summary.pdf · 40 MW CHP (2×12.5 MW Siemens CTs + 15 MW steam turbine), built 2007-09, full load June 2010; serves 35 buildings, 8 garages, 3 shopping centers, 25-acre education park, firehouse, 40+ rented offices, houses of worship, nursery schools, day care; Sandy Oct 29 2012: 11.1-14.9 MW during storm, 2,368 MWh over 7 days = 86% of need · §7, Q&A technical, AI reality check (batteries still required).
+
+### Riverbay management reports
+- "Riverbay Corporation Co-op City fire alarm system upgrade buildings" · WebSearch → WebFetch · https://coopcity.com/pdf/Management_Report_July_27_2024.pdf · LL126 condition assessments of all 8 garages (O&S Associates), concrete knock-off done in garages 1,3,4,5,6, Garage 2 in 2021-22, ongoing 8 then 7; Garage 8 vehicle incident July 16 2024; LL157 gas detectors in apartment kitchens + each laundry room by May 1 2025 · §7 garages, §8 compliance (gas detection ≠ fire alarm), Q&A cost. (No fire alarm items in report.)
+- same · WebFetch · https://www.coopcity.com/pdf/Management_Report_02082025.pdf (content is a July 2025 report) · Public Safety 74 peace officers of 93 budgeted (July 28 2025); 18 academy recruits graduated June 6 2025; HTHW pipe leak between Building 4 and DeFoe Place reached basement storage · repair section, AI reality check, Q&A technical.
+- Co-op City Times issues on issuu for fire alarm projects: EMPTY (not accessible in build env — issuu text not readable).
+
+### Fires / news
+- "Co-op City Bronx fire 2025 building Riverbay" · WebSearch → WebFetch · https://bronx.news12.com/video-shows-flames-shooting-out-of-co-op-city-high-rise · March 2 2026, 100 Asch Loop, two-alarm, 140+ responders, 5 hurt incl. 1 firefighter, 3 families helped by Red Cross; quote "We knew it was something bad because we never seen so many firefighters before," · §5, landmarks.
+- same · WebFetch · https://bronx.news12.com/2026/03/04/co-op-city-neighbors-cope-with-aftermath-of-destructive-highrise-blaze/6NPCBnxjHJWnWbtHdJLQ2G · 25th floor, two apartments, DOB partial vacate orders, melted balcony railings, cause under investigation · §5, Q&A trust.
+- same · WebFetch · https://bronx.news12.com/2016/10/11/1-killed-in-co-op-city-high-rise-fire-34802693/2RWgJqIyHjOmShledRSqNn · Oct 11 2016, 13th-floor fire, one killed · §5.
+- "Co-op City Times Dreiser Auditorium community center fire safety Riverbay 2025" · WebSearch → WebFetch · https://bronx.news12.com/co-op-city-residents-can-face-a-125-fire-code-fine-for-door-decorations · Oct 3 2025 Riverbay notice: no hallway/door/lobby decorations under fire code (Riverbay fine amount NOT used on page — private fine) · FAQ.
+- "Co-op City garage fire Bronx FDNY" · WebSearch · no Co-op City garage fire found · EMPTY.
+
+### Commercial space
+- "Co-op City Bartow Avenue shopping center…" · WebSearch → WebFetch · https://nyrej.com/kza-realty-to-represent-coop-citys-riverbay-corp-retail-and-office-space · Apr 5 2016: Bartow Shopping Center; 10,000 sf bingo hall, 8,045 sf Rite Aid (15-yr renewal), 19,000 sf office/retail to lease; Bay Plaza/Peartree not Riverbay · §7, §8.
+- same · WebFetch · https://www.cimls.com/lease-listing/491722/retail-157-dreiser-loop-Bronx-NY · 157 Dreiser Loop diner/restaurant space, 2,243 sf street + 1,281 sf basement (asking rent not used) · §8.
+- "Mall at Bay Plaza opened 2014 square feet Prestige Properties" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Bay_Plaza_Shopping_Center and https://www.bxtimes.com/?p=138747 · Bay Plaza just outside Sections 4 and 5 between Bartow and Baychester Aves, Prestige Properties, Mall opened Aug 14 2014, 780,000 sf, 3 floors; Jan 13 2026 Bronx Times · §8 (boundary only), FAQ.
+- "Co-op City Mitchell-Lama HCR Riverbay refinancing" · WebSearch → WebFetch · https://www.cbsnews.com/newyork/news/co-op-city-refinancing-deal · May 2 2022 refinancing (dollar amount not used on page); Schumer quote "It's going to mean they can redo this whole place without charging you a nickle." · Q&A cost.
+
+### Community / SERP
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp: EMPTY (not accessible in build env).
+- r/bronx Co-op City commercial fire alarm threads: EMPTY (none surfaced).
+
+### Question register (this page)
+- Our finance committee wants one fire alarm number for all eight garages. Can we get that before any survey?
+- The 2022 refinancing was meant to fund repairs without raising carrying charges. Does fire alarm work belong in that capital plan?
+- We have three fire alarm bids for one Co-op City garage and they look nothing alike. How do we compare them?
+- After the March 2026 fire at 100 Asch Loop, shareholders asked whether the building's systems "worked." Who can answer that?
+- Can Riverbay's own electricians install the fire alarm devices for a new community room?
+- A nursery school on Carver Loop is expanding from one room into the space next door. Does its fire alarm have to be refiled?
+- Co-op City makes its own electricity. Does a fire alarm panel here still need batteries?
+- Why does the panel in our garage office show a ground fault every time it rains hard?
+- Riverbay reported a hot water leak that reached a building's basement storage area. Should the fire alarm be checked afterward?
+- Our store's lease says the landlord maintains "building systems." Is our store's fire alarm the tenant's or Riverbay's?
+- Which names belong on the central station call list for a Co-op City store or garage?
+- Our congregation's hall alarm went off during a service and nobody could tell which room started it. Is that normal?
+- A tenant complains that the shopping center alarm keeps sounding but "it's never a fire." Who pays to fix it?
+- Is the office that handles Co-op City calls located in Co-op City?
+- Who signs the fire alarm contract for a space Riverbay owns but a tenant uses?
+- Can fire alarm work in a Co-op City garage happen while the garage stays open?
+- What does a nursery school director need to have ready for a fire alarm survey?
+- "Which fire alarm work in and around Co-op City is outside the cooperative's control?"
+- Are hallway decorations a fire alarm issue?
+- "Can one central station account cover several Co-op City spaces?"
+- "Can fire alarm work in a Bartow Avenue store be done during shopping hours?"
+- "Our congregation has a large holiday service coming and the hall panel shows an open trouble. What should we do?"
+- Do the garages need special detectors?
+- "Who should hold the panel keys and charts when Co-op City staff change?"
+- "Can surveys of several Co-op City spaces be done in one visit?"
+## Cobble Hill, Brooklyn — /fire-alarm-installation-cobble-hill-brooklyn-ny (commercial rebuild research, 2026-11-15)
+
+Rebuild research (NFPA 72 commercial only). Reuses verified facts from the "## Cobble Hill, Brooklyn" factory section (historic district 1969/1988, 796 buildings; churches; LPC guidebook ch. 11; FDNY tips; Moo Burger 2017; Boerum Place 2022; 354 Hicks St) and the NYC hubs regulatory base (TM-1, Company Certificate, S-97, FA-27 $105). Angle: hospital hill — buildings whose occupants cannot all evacuate at once (nursing home, medical floors, cinema, schools) plus the 1870s exterior-stair model tenements. Each entry: exact query · platform · URL · finding · section used.
+
+### Healthcare / former LICH campus
+- "Long Island College Hospital site Cobble Hill River Park Fortis towers status 2025" · WebSearch → WebFetch · https://therealdeal.com/new-york/2026/02/02/rockrose-buying-more-of-former-long-island-college-hospital · Feb 2 2026: Rockrose in contract for ~258,000 sq ft block (363 & 365 Hicks St, 97 Amity St, 340 Henry St), subject to NYS AG approval; Rockrose bought 91-95 Pacific St in 2024; Fortis bought campus from SUNY in 2015; Oct 2022 Fortis sold Pacific St site + 350 Hicks St to Madison. (Sale prices deliberately NOT used on page — no-price rule.) · §5 neighborhood, facts table.
+- "NYU Langone Cobble Hill emergency department 83 Amity Street 70 Atlantic Avenue opened" · WebSearch → WebFetch · https://nyulangone.org/news/nyu-langone-health-opens-comprehensive-five-story-multispecialty-care-center-cobble-hill · opened April 1 2023, 70 Atlantic Ave, 165,000 sq ft, 5 floors, 24-hour off-campus ED with 27 beds/bays, 14 infusion bays, imaging, ambulatory surgery; replaced ED at 83 Amity St (since 2014). · §5, facts table, §7 medical floors, sources.
+- same query · https://www.brooklynpaper.com/medical-facility-starts-to-rise-on-former-long-island-college-hospital-site-in-cobble-hill · NYU Langone ambulatory facility 339 Hicks St / 70 Atlantic Ave, five stories (construction-era article, undated). · background only.
+- "Cobble Hill Health Center nursing home Henry Street beds" · WebSearch → WebFetch · https://projects.propublica.org/nursing-homes/homes/h-335174 · 380 Henry St, 364 certified beds, nonprofit (Cobble Hill Lifecare, Inc.); no fire-safety deficiencies listed. · §5, §7, FAQ, field notes context.
+
+### Housing
+- "Cobble Hill Towers Home Buildings Alfred Tredway White Hicks Street Warren Place apartments" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Cobble_Hill_Towers · 431 Hicks St; 1876–1879; nine six-story buildings; outdoor staircases as fire safety; condo conversion began 2008. · §5, §7, Q&A, FAQ.
+- same · WebFetch · https://cobblehill.nyc/knowledge_base/the-tower-and-home-buildings-cobble-hill-towers/ · Home Buildings SE corner Hicks/Baltic (1876–77); Tower Buildings Hicks between Warren and Baltic (1878–79); 218 units originally, 244 by 1975, 188 after Farella restoration (1978–1986); exterior stairs and open balconies "improved fire safety"; Warren Place cottages. · §5, §7, landmark card.
+
+### Commercial / assembly / schools
+- "Atlantic Avenue Business Improvement District Cobble Hill" · WebSearch → WebFetch · https://www.citylandnyc.org/commission-approves-atlantic-avenue-bid/ · CPC approved Jan 5 2011; Fourth Ave to BQE; 738 tax lots; 400+ commercial businesses; corridor = chains, 2–4 story buildings with ground-floor retail, large condos. (BID budget not used.) · §8 Atlantic Avenue.
+- "Cobble Hill Cinemas 265 Court Street theater screens" · WebSearch → WebFetch · https://www.cinematreasures.org/theaters/4039 · Lido Theater 550 seats before 1926; Rex early 1970s; twin 1982, triplex 1988, two rooftop theaters added July 1991; now 5 screens, 635 seats. · §7, Q&A, landmark card.
+- "Trader Joe's 130 Court Street Cobble Hill former South Brooklyn Savings Bank" · WebSearch → WebFetch · https://cobblehill.nyc/knowledge_base/before-trader-joes-the-south-brooklyn-savings-institution/ · Court St & Atlantic Ave corner; opened Sept 24 1924; McKenzie, Voorhees & Gmelin; Trader Joe's since Sept 2008; banking room occupied entire main floor. · §7, landmark card.
+- "P.S. 29 John M. Harrigan Cobble Hill Henry Street" · WebSearch → WebFetch · https://pws.nycenet.edu/schools/K029 · 425 Henry St; PK–5. Enrollment not on page (not used). · §7, §8.
+
+### Local fire news
+- "Cobble Hill Brooklyn fire 2025 FDNY building" / "Cobble Hill fire Clinton Street OR Henry Street OR Kane Street 2024 OR 2025" / "\"Cobble Hill\" fire Atlantic Avenue restaurant OR store FDNY 2024 OR 2025 OR 2026" (extended) · WebSearch · no Cobble Hill-specific 2024–2026 commercial fire reports found: EMPTY. Rejected: Wyckoff St 21-story fire (Mar 2022, Boerum Hill, no address), Brooklyn Heights brownstone fires (other neighborhood).
+- Reused from factory section: Patch, Moo Burger 240 Court St wall-cavity fire June 15 2017 + FDNY quote "There are voids inside the walls — you have insulation and wires in there." · §5; 1010 WINS, 96 Boerum Place five-alarm fire Mar 14 2022, 12 injured, Acting Chief John Hodgens quote · §5, facts table.
+
+### Community / SERP
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG: EMPTY (not accessible in build env). AI reality-check claims written from common generic AI answers, corrected with FDNY/LPC sources.
+- Reddit r/brooklyn, r/CobbleHill fire alarm threads: EMPTY. Yelp 1–3★: EMPTY.
+
+### Question register — fire-alarm-installation-cobble-hill-brooklyn-ny
+Q&A: medical floor lease — whose filing covers our suite; condo board restored in 1980s — paperwork before panel replacement; nursing home administrator verifying a vendor's FDNY authorization; congregation comparing three sanctuary proposals; handyman replacing a broken pull station on Hicks St; cinema projectionist silencing alarm during false alarm; warning residents in a building with outdoor stairs; clinic aerosol disinfectant false alarms; testing detection at a 40-ft organ loft; day care leasing a church basement; Atlantic Ave retail tenant's own detectors; co-op with commercial condominium ground floor — responsibility; senior building corridor horns too loud; central station calls about a panel the previous vendor abandoned.
+FAQ: nursing home evacuating everyone; medical practice opening before base-building acceptance; keys and codes in a condo without a super; synagogue decorative plaster ceiling; preparing a co-op for annual test; fire watch during care-building panel replacement; Landmarks approval near Cobble Hill Park; fire alarm when a medical tenant moves out; strobes/horns on the model tenements' outdoor stairs; how fast the central station calls the FDNY; day care moving into a Court St storefront — what to send; what a written proposal includes.
+
+## Columbia Street Waterfront, Brooklyn — /fire-alarm-installation-columbia-street-waterfront-brooklyn-ny (commercial rebuild research, 2026-11-15)
+
+NFPA 72 commercial only. Regulatory base (PE/RA sealed drawings, TM-1, FDNY Fire Alarm Company Certificate, S-97, FAIU, ~20-24 weeks, FA-27 $105) reused as facts from "## NYC hubs". Each entry: exact query · platform · URL · finding · section used.
+
+### Neighborhood history and building stock
+- "Columbia Street Waterfront District history BQE cut off Red Hook Carroll Gardens restaurants Columbia Street" · WebSearch/WebFetch · https://en.wikipedia.org/wiki/Columbia_Street_Waterfront_District · ~22 blocks, BQE to waterfront, Atlantic Ave to Hugh L. Carey Tunnel, CB6; BQE cut it off in 1957; 1975 sewer accident killed a worker, 33 buildings later demolished; urban renewal completed by 1984; Pok Pok 127 Columbia St (closed 2018) · §5 intro + facts table, AI check #1.
+- same · WebFetch · https://www.6sqft.com/a-neighborhood-revival-brooklyns-columbia-street-on-a-comeback/ · (Nov 2014) Columbia Terrace Phase I 1984 on President St (17 low-rise bldgs, 51 condos), three more phases 129 apts on President/Carroll; 1 Tiffany Place (Tiffany factory) condos 1986; 25 Carroll St pasta factory lofts 2010; Columbia Commons; Pok Pok opened 2012; Alma, Ferdinando's, Mazzat, Jalopy, Freebird Books; one live poultry plant left; zoned P.S. 29; Columbia Waterfront Park Degraw–Kane · §5, §7 building types, §13 landmarks.
+- ""Tiffany Place" OR "Columbia Commons" OR "25 Carroll Street" ..." · WebSearch/WebFetch · https://www.brownstoner.com/real-estate-market/condo-co-op-of-the-day/columbia-waterfront-district-brooklyn-apartments-for-sale-29-tiffany-place-loft-two-bedroom/ · Herman Behr & Co. sandpaper factory (founded 1872); 1903 fire destroyed most of earlier factory; surviving building rebuilt 1904 (plaque on 29 Tiffany Pl); converted to residential late 1990s · §5, facts table, §7.
+- same · WebFetch · https://www.brownstoner.com/development/25-carroll-goin/ · (July 30 2010) 25 Carroll St between Columbia and Van Brunt, five-story masonry + heavy-timber, variance for 17 loft residences · §5, facts table.
+- "Columbia Waterfront District Brooklyn church school ..." · WebSearch/WebFetch · https://newyorkyimby.com/?p=1988859 (2026/07/185-columbia-street...) · 185 Columbia St at Degraw: 6 stories, 60 ft, 10,848 sq ft, ten rentals, 1,146 sq ft ground-floor commercial; developer Hiu M. Cheung; architect Tan Architect · facts table, §7, construction.
+
+### Brooklyn Marine Terminal
+- "Brooklyn Marine Terminal redevelopment plan 2025 Columbia Street Waterfront" · WebSearch/WebFetch · https://cobblehill.nyc/community/brooklyn-marine-terminal-waterfront-development/ · ~122 acres Piers 7-12; May 2024 land swap (state takes Howland Hook, city acquires BMT); task force vote Sept 22 2025, 17-8 · §5, AI check #2.
+- same · WebFetch · https://edc.nyc/sites/default/files/2025-07/NYCEDC-Brooklyn-Marine-Terminal-Vision-Plan-07-17-2025.pdf · BMT North (Atlantic Ave–Degraw St): Pier 7 + uplands of Piers 8, 9A, 9B; up to 3,800 units (≤1,000 Pier 7 uplands, ≤2,800 Congress–Degraw); ≥40% affordable; heights ≤425 ft near Pier 7, ≤325 ft Congress–Degraw; 55,000 sf light industrial, 75,000 sf commercial, 130,000 sf community, public school, 17 acres open space; uplands now parking/storage/DOT ops; RHCT operator, 170 employees mostly ILA; 60-acre port; first floors above grade, critical power raised; cruise terminal Pier 12 Atlantic Basin (not used) · §5, facts table, §7 pier towers, §8, port subsection, AI check.
+- same · WebFetch · https://www.brownstoner.com/development/brooklyn-marine-terminal-development-vote (THE CITY) · $3.5B plan, 6,000 apts, 28-member task force · background only.
+- "Columbia Street Waterfront Brooklyn traffic BQE ..." · WebFetch · https://nyc.streetsblog.org/2025/09/22/government-malpractice-marine-terminal-redevelopment-gets-approval-despite-massive-transportation-concerns · up to 3,800 units north (Degraw–Atlantic), 2,200 Atlantic Basin; bus-only paths on Columbia St proposed; trench BQE traffic · background, logistics.
+- same · WebFetch · https://www.timeout.com/newyork/news/...-092425 · (Sept 24 2025) env review/permitting could take about a decade; 425 ft near Pier 7; 60-acre all-electric terminal · construction section.
+
+### Commercial street / logistics
+- "Columbia Street Waterfront Brooklyn traffic BQE Brooklyn Marine Terminal trucks..." · WebSearch/WebFetch · https://star-revue.com/the-never-ending-columbia-street-traffic-jam-has-an-effect-on-business-by-brian-abate · (Jan 9 2025) Mazzat 208 Columbia St (Jimmy Bakhoum): left from Hamilton onto Columbia "takes at least 20 minutes"; Mex Carroll's Diner 192 Columbia St (Miguel Ramirez): "it can take an extra 30 minutes or more to get here." · quick answer, §8 traffic.
+- ""Columbia Street" Brooklyn Jalopy Theatre ..." · WebSearch/WebFetch · https://www.brooklynpaper.com/cheap-beer-and-a-cool-piano-at-this-new-columbia-street-watering-hole · Jalopy Tavern 317 Columbia St between Hamilton Ave and Woodhull St, Columbia Street Waterfront District · §8, landmarks.
+- "Jalopy Theatre and School of Music 315 Columbia Street capacity history" · WebFetch · https://bkroads.net/jalopy-remains-brooklyns-hq-for-folk-and-traditional-music · founded 2006 (Geoff and Lynette Wiley), ~230 shows/yr, max occupancy about 80 mostly seated · §8, landmarks.
+
+### Fire news
+- "Columbia Street Waterfront District Brooklyn fire 2025" · WebSearch/WebFetch · https://abc7ny.com/post/brooklyn-warehouse-fire-tears-several-bays-columbia-street-red-hook-no-injuries-reported/18445024/ · Jan 21 2026, four-alarm wind-driven fire in a large warehouse on Columbia St on the Red Hook piers (south of district), 3 bays to 8-10 bays, upwards of 25 businesses; Chief of Operations Kevin Woods quote · facts table (placed as Red Hook stretch).
+- "FDNY fire "Columbia Street" Brooklyn ..." · WebSearch/WebFetch · https://brooklyn.news12.com/2026/05/21/firefighter-two-civilians-injured-in-red-hook-apartment-blaze/... · 467 Columbia St, NYCHA, Red Hook — NOT in district; not used.
+- Sept 2025 Red Hook five-alarm warehouse fire (481 Van Brunt) — Red Hook, already on Brooklyn borough page; not used.
+- No 2024-2026 fire news found for buildings inside the district: EMPTY.
+
+### Community / SERP
+- "site:reddit.com Columbia Street Waterfront Brooklyn" · WebSearch · no reddit threads returned: EMPTY.
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp: EMPTY (not accessible in build env). AI reality-check claims written from common generic AI answers, corrected with the sources above.
+
+### Question register (this page)
+Q&A §9:
+- Our loft condo's offering plan mentions a fire alarm, but the board can't find any FDNY approval. Where do we start?
+- We are a small restaurant on Columbia Street. Why can't anyone give us a fire alarm quote over the phone?
+- How can we confirm the company bidding our Tiffany Place building can legally work on our fire alarm?
+- A developer's rep says the pier projects will "handle fire alarms differently." Is that true for the buildings planned near Pier 7?
+- Our loft owner's contractor wants to move a smoke detector during a kitchen renovation. Can he?
+- Can the venue's sound engineer wire the music shutdown relay himself?
+- Wind off the bay drives rain into our roof bulkhead. Can that cause fire alarm troubles?
+- Our building's cellar flooded during a storm. Where should the new fire alarm panel go?
+- Our loft has 14-foot timber ceilings with deep beams. Where do the smoke detectors go?
+- Our restaurant tenant wants a new duct detector for the hood. Does the landlord or the tenant own that work?
+- Apartments above our café hear the building alarm testing every year. Must we warn them?
+- We are buying a mixed-use building on Columbia Street. What fire alarm paperwork should the seller hand over?
+- Our fire alarm went off three times last month and nobody could find a cause. What now?
+- The last company left our panel on a "trouble silenced" screen. Is that a problem?
+FAQ §17:
+- Our building sits a block from the water. Does that change how often the fire alarm should be serviced?
+- Will the Brooklyn Marine Terminal construction affect fire alarm work in our existing building?
+- Our loft board wants one contractor for testing, repairs and the eventual panel replacement. Is that sensible?
+- A restaurant on our ground floor is closing. What happens to its fire alarm devices?
+- Can a performance room keep playing music during a fire alarm?
+- Our managing agent changed central station companies. Do we need the FDNY involved?
+- How do we keep the fire alarm working during a gut renovation of one loft unit?
+- Is a building-wide fire alarm the same as the smoke alarms inside each apartment?
+- We received an FDNY Notice of Defect for our Columbia Street building. How fast do we have to act?
+- What should the fire alarm handover package for a new building near the piers include?
+- Do you install wireless fire alarm devices in older factory buildings?
+- What should we send before the survey so the visit is useful?
