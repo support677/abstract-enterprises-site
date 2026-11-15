@@ -5037,3 +5037,230 @@ Neighborhood rebuild (NFPA 72 commercial only; stay-in-area rule — only "fire 
 ### Question register (this page)
 Q&A: Is there a city fee we should set aside before our City Line hall's fire alarm is filed? · Our masjid committee wants a figure for the board meeting before we hire an engineer. What can you tell us? · We bought a building on Pitkin Avenue that may have had a fire alarm filing years ago. How do we find out what was approved? · A relative offered to install our hall's fire alarm cheaply. What should we check before saying yes? · How do we judge whether a fire alarm proposal for our Liberty Avenue building is complete? · Can the electrician who rewired our grocery also connect the building's fire alarm? · Our nonprofit leases a floor on Crescent Street. Are we allowed to hire our own company for fire alarm changes in our space? · Incense and the heating in our prayer hall seem to trip the smoke detectors. What is the right fix? · How do strobes and horns reach the women's section on a different floor of our hall? · Our new building on Liberty Avenue has an elevator. What does the fire alarm have to do with it? · The store under our apartments became a banquet room. Shouldn't the building's alarm have been changed? · Our landlord says the store's monitoring contract is our expense. Is that legal? · The fire alarm in our building sounded during Friday prayer and the FDNY arrived. Will we be fined? · Our building's alarm panel has shown trouble for months and the owner ignores it. Who do tenants call?
 FAQ: Is Abstract Enterprises Security Systems' office in City Line? · Our masjid is planning an Eid gathering in the cellar hall. Does the fire alarm have to cover the cellar? · Can a prayer hall's fire alarm announcements be in Bengali as well as English? · Does a madrasa or weekend class held in our building change the fire alarm design? · Who keeps the fire alarm records when our mosque committee changes every few years? · Our grocery on Liberty Avenue added a walk-in cooler. Do the fire alarm devices need to move? · We are building on a lot on Pitkin Avenue. When should the fire alarm contractor be involved? · Does the building's borough matter for a fire alarm filing near Eldert Lane? · Can a congregation volunteer help with fire alarm work to save money? · Our auto shop on Atlantic Avenue has a sprinkler system but no fire alarm panel. Is that allowed? · What should a City Line owner do before the FDNY acceptance test? · How far ahead should a mosque or church book a fire alarm survey before Ramadan or a major holiday?
+
+## Claremont, Bronx — /fire-alarm-installation-claremont-bronx-ny (commercial rebuild research, 2026-11-15)
+
+Commercial (NFPA 72) rebuild research. Regulatory base (PE/RA sealed drawings, TM-1, FDNY Fire Alarm Company Certificate, S-97/S-98, FAIU, ~20-24 weeks, plan review up to 8 weeks, FA-27 $105, central station bulletin, fans >2,000 cfm, BC 907 triggers) reused as facts from "## NYC hubs" (URLs there). Each entry: exact query · platform · URL · finding · section used.
+
+**Unique angle:** fire alarm devices in behavioral health / treatment spaces — placement against ligature and tamper risk (NYS OMH Patient Safety Standards: "not aware of any patient-safe fire alarm components", covers "can be looped/weaponized", notification "required to be ceiling mounted in high risk areas"), anchored on BronxCare's Fulton Avenue campus (psychiatric + substance abuse program, 240-bed Special Care Center) plus storefront clinics, the eight-school former Taft HS building, and Clay Avenue walk-ups (1420 Clay Ave electrical-wiring fire). Avoided sibling angles: Findlay Ave deli fire and 538 Claremont Pkwy (Bathgate), 1215 Grand Concourse / Feb 2026 fire and cockloft (Concourse), Butler Houses/NYCHA (Bathgate, Bronx hub, Bronx River), supportive-housing front desk (Morrisania), nursing-home defend-in-place as lead angle (Bronxwood).
+
+### Neighborhood definition / boundaries
+- "Claremont Bronx neighborhood boundaries Claremont Park Webster Avenue Grand Concourse Wikipedia" · WebSearch → WebFetch · https://www.cityneighborhoods.nyc/claremont · E 167th St (S), Grand Concourse (W), Cross Bronx Expwy (N), east edge Fulton Ave / Claremont Pkwy / Webster Ave; ~38-acre park; five-story prewar apartment houses on Clay/Fulton/Webster; Art Deco on Concourse; CBE built 1948-1972; E 170th & Webster local hub. (Site's claim that the mansion was "stabilized as a cultural landmark" contradicts NYC Parks — NOT used.) · §5 Why, at-a-glance, building types.
+- same · WebFetch · https://www.cityneighborhoods.nyc/claremont-village · Claremont Village Houses 1959, 18+ acres (boundaries differ from other sources) · background only.
+- "Bronx Community Board 4 neighborhoods ..." · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Bronx_Community_Board_4 · CB4 = Concourse, Highbridge, Mount Eden; east boundary Webster Ave and Park Ave · §5 (two districts), at-a-glance.
+- CB3 statement of needs (from Bathgate research, line ~3896) · https://www.nyc.gov/assets/planning/download/pdf/community/community-portal/statement_needs/bx03_statement_2018.pdf · CB3 covers parts of Claremont incl. Claremont Village · §5.
+- The Neighborhoods substack (from factory research) · https://theneighborhoods.substack.com/p/claremont-the-bronx · synagogues repurposed as churches; Webster Ave storefront mosques serving West African immigrants · §7 houses of worship.
+- Forgotten NY (factory research) · https://forgotten-ny.com/2016/10/crotona-park-high-bridge-bronx-part-2/ · Claremont Pkwy = Bathgate Place 1850, Wendover Place 1890, renamed 1913 · §13 landmarks.
+
+### Fire data / local fires
+- "fdny cra bx" · WebFetch · https://www.nyc.gov/assets/fdny/downloads/pdf/education/fire-life-safety/fdny-cra-bx.pdf · BX03 (Morrisania & Crotona Park East): 22.5 residential structural fires/100k vs 8.8 NYC; 558 civilian residential fire injuries/100k vs 231; electrical top cause. BX04 (Highbridge & Concourse): 14.5/100k; electrical top cause; 18% live with a disability vs 12% NYC. (Building-age and occupancy shares came out of the PDF with ambiguous labels; BX04 "89% electrical" looked unreliable — percentages NOT used.) · §5, at-a-glance, FAQ 4.
+- "1420 Clay Avenue Bronx fire tenants vacate order electrical wiring News 12" · WebSearch → WebFetch · https://bronx.news12.com/tenants-demand-answers-months-after-fire-at-claremont-building · Nov 2025 fire, 4 injured incl. 2 firefighters, fire marshals: electrical wiring; full vacate order; landlord HHH Realty Co. LLC; published Mar 27 2026; joint statement CM Althea Stevens + AM Landon Dais: "Residents deserve clear communication, accountability, and timely action" · §5 (real quote), §13, Q&A 14.
+- "reddit Claremont Bronx building fire alarm" · WebSearch · only News12/ABC7 fire news returned (Feb 2026 Concourse fire already on Concourse page; not used) · Reddit: EMPTY.
+
+### Care / treatment buildings
+- "BronxCare Fulton Division 1276 Fulton Avenue psychiatric Claremont" · WebSearch · opengovny health-facility/3378 · WebFetch EMPTY (client error).
+- https://en.wikipedia.org/wiki/BronxCare_Health_System · WebFetch · Fulton site: Bronx Hospital bought the Eichler estate on Fulton Ave → 110-bed hospital; site now has psychiatric and substance abuse program + 240-bed SNF; Concourse Division 17-story tower at Grand Concourse & Mount Eden Pkwy (outside Claremont, not used) · §7 hospital, §13.
+- https://bronxcare.org/about-us/history · WebFetch · Bronx Hospital founded 1909, merged with Lebanon Hospital (1890) in 1962; addresses 1276 Fulton Ave and 1650 Grand Concourse · §7.
+- https://bronxcare.org/about-us/addition-of-psychiatric-beds · WebFetch · CON application to NYS DOH for 20 adult psychiatric beds in existing space at the Fulton Campus (undated) · §7.
+- https://lehman.edu/vpadvance/artgallery/arch/buildings/DMHealth.html · WebFetch · page did not contain Eichler Mansion text · EMPTY.
+- "BronxCare Special Care Center 1265 Fulton Avenue" · WebSearch → WebFetch · https://projects.propublica.org/nursing-homes/homes/h-335753 · 1265 Fulton Ave, 240 certified beds, non-profit; inspections Aug 14 2025 / Jun 8 2023 / Oct 28 2020, no fire-safety deficiencies listed (not claimed on page) · §7, at-a-glance, §13.
+- "ligature resistant fire alarm devices behavioral health ..." · WebSearch → WebFetch (offsets 0, 300000, 400000) · https://omh.ny.gov/omhweb/patient_safety_standards/guide.pdf · NYS OMH Patient Safety Standards, Materials and Systems Guidelines, 36th ed., July 31 2026; p.5 lists sprinkler heads and fire alarm components as above-the-waist ligature points; Div. 28 p.291: "At this time, NYS-OMH is not aware of any patient-safe fire alarm components." "Device covers are susceptible to abuse and can be looped/weaponized." "extremely important to locate these items in such a way to prevent patient access" "Fire alarm notification devices are required to be ceiling mounted in high risk areas." ceiling mount recommended in medium risk · Patient Safety section, Q&A, AI check, FAQ 1-2.
+- CMS 2012 Life Safety Code (Bronxwood research) · https://leadingageny.org/providers/nursing-homes/survey-clinical-and-quality/fire-protection-guidelines-for-medicare-providers/ · §7 nursing.
+
+### Schools / housing / park
+- "Taft Educational Campus 240 East 172nd Street" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/William_Howard_Taft_High_School_(New_York_City) · 240 E 172nd St at Sheridan Ave; closed June 2008; now 8 schools (Bronx HS for Medical Science, Bronx HS of Business, Bronx Collegiate Academy, Claremont International HS, DreamYard Prep, Jonathan Levin HS for Media and Communications, Urban Assembly Academy for History and Citizenship for Young Men, New Directions Secondary School); "Taft Educational Campus" name not confirmed (not used) · §7 schools, §13, Q&A 8, FAQ 5.
+- "new affordable housing building Claremont Bronx Webster Avenue ..." · WebSearch → WebFetch · https://www.bxtimes.com/gibson-grant-claremont-house/ · Claremont House: Habitat for Humanity NYC & Westchester + Camber Property Group, 66 affordable homeownership units, 8 stories, 100% residential, BP Gibson $500K grant (March 2023); address not stated · §7 new buildings.
+- https://www.bxtimes.com/baez-place-supportive-housing-claremont/ · 334 E 176th St, 154 units, opened Mar 11 2026 — north of the Cross Bronx (outside page boundaries) · NOT used.
+- https://bronx.news12.com/exclusive-bronx-officials-unveil-new-affordable-housing-development-in-claremont · headline only · EMPTY (no detail).
+- https://bronx.news12.com/new-affordable-housing-complex-opens-up-on-webster-ave-38197113 · May 15 2018, no address · NOT used.
+- https://newyorkyimby.com/2025/11/financing-secured-for-melrose-concourse-affordable-developments-in-claremont-and-morrisania-the-bronx.html · WebFetch EMPTY (client error).
+- "Claremont Park" · WebFetch · https://www.nycgovparks.org/parks/claremont-park/history (fetched via php-cms.nycgovparks.org/parks/X008/history) · Morris estate 1679; Zborowski mansion 1859; city purchase 1888-90 under 1884 New Parks Act; mansion demolished 1938; playgrounds 1914 (+4 in 1940); pool 1971; 2024 115-ft retaining wall along Clay Ave rebuilt + southern courts repaved · at-a-glance, §13.
+
+### SERP / community
+- Google PAA / PASF / Answer the Public / AI Overview for "fire alarm installation Claremont Bronx": EMPTY (not accessible in build env). Anwar's question keywords woven into prose (not headings).
+- Bing / DuckDuckGo: EMPTY (not accessible).
+- Reddit r/bronx / r/AskNYC on Claremont fire alarms: EMPTY (search returned news only).
+- Yelp 1-3★ Bronx fire alarm companies: EMPTY (not accessible).
+- Bronx Times / Norwood News items on Claremont clinic or program fire alarms: EMPTY (none surfaced).
+
+### Images
+- Dropped pull-station-storefront-conduit (readable "451"). Copied images/fire-alarm-installation/fire-alarm-installation-bathgate-bronx-ny-control-panel-meter-test-drawings.webp → fire-alarm-installation-claremont-bronx-control-panel-meter-test-drawings.webp (viewed: technician metering terminals in open Honeywell NOTIFIER cabinet labeled "Fire Alarm Control Panel", binder of drawings, horn strobe above; no readable address).
+
+### Question register (this page)
+Q&A (§9):
+1. Ceiling-mounted strobes in our treatment rooms cost more than wall-mounted ones. Is that extra spending required, or is it a choice?
+2. If we choose air sampling instead of room detectors for our treatment unit, what does that do to the yearly service budget?
+3. Our program's safety officer and the fire alarm engineer disagree about where a pull station belongs. Whose view wins?
+4. Should the technicians who service our locked unit be the same people on every visit?
+5. Our facilities staff could swap a wall strobe for a ceiling model over a weekend. Does a small change like that need the FDNY?
+6. Can our own nursing or facilities staff do any of the fire alarm checks between the certified company's visits?
+7. Patients in our unit sometimes cover the bedroom smoke detector. Does the panel know when a detector is blocked?
+8. Our school shares the old Taft building with seven others. If our floor's devices go into trouble, does it affect everyone?
+9. The ceilings on our unit's older floor are low enough that patients can touch them. What options are there for smoke detection?
+10. Residents in our supportive housing building sometimes take down their apartment smoke alarms. Can the building fire alarm tell us when that happens?
+11. We are converting a vacant store on East 170th Street into a counseling office. How do we find out whether the building's panel can take our devices?
+12. The program leasing our second floor keeps its corridor doors locked. Does our building's fire alarm have to release them?
+13. Our clinic's fire alarm work was finished weeks ago, but we still cannot open. What is usually holding it up?
+14. Tenants in our Clay Avenue building keep telling the super they smell burning wiring. Should the fire alarm company be the first call?
+FAQ (§17):
+1. Does an OMH-licensed program in Claremont need anyone besides the FDNY to look at its fire alarm layout?
+2. Do fire codes say anything about ligature risk from fire alarm devices?
+3. Will the FDNY accept air sampling smoke detection in a Claremont treatment room?
+4. What do the FDNY's fire numbers show for the two community districts that meet in Claremont?
+5. Who arranges fire alarm work in a public school building in Claremont?
+6. Is Abstract Enterprises Security Systems affiliated with BronxCare or any Claremont hospital?
+7. Does a Claremont clinic that sees patients by appointment only still need strobes in its exam rooms?
+8. What should a new Claremont condo board ask the developer for about the fire alarm before the turnover?
+9. Where should the panel and annunciator go in a locked unit so staff, not patients, can reach them?
+10. Which Claremont buildings fall outside the fire alarm work Abstract Enterprises Security Systems does?
+11. Can the strobes in a Claremont treatment program be adjusted for patients who react badly to flashing light?
+12. Can our Claremont program use its parent agency's central station instead of the building's?
+
+## Clason Point, Bronx — /fire-alarm-installation-clason-point-bronx-ny (commercial rebuild research, 2026-11-15)
+
+Commercial (NFPA 72) rebuild research. Regulatory base (PE/RA sealed drawings, TM-1, FDNY Fire Alarm Company Certificate, S-97/S-98, FAIU, ~20-24 weeks, plan review up to 8 weeks, resubmit within 6 months, TB-60/central station before inspection, B-45, A-433, FA-27 $105, central station bulletin, fans >2000 cfm, 36 in from diffusers, elevator recall, BC 907.2 triggers) reused as facts from "## NYC hubs" (URLs listed there). Each entry: exact query · platform · URL · finding · section used.
+
+**Unique angle:** the end of the peninsula. Clason Point is mostly bungalows (Harding Park), townhomes (Shorehaven) and two-story NYCHA garden apartments that carry no building fire alarm, so code-required work concentrates in a few large, spread-out buildings down a long dead-end road: big-box retail with rooftop parking on Story Avenue (box splits, landlord/tenant panel boundaries), a three-school public campus on one system, a parish church + school, a planned 8-story senior building with a church in its base, plus weather off open water (hurricane zones, exterior devices, ground faults), long runs/NAC power supplies, and inspection-day logistics far from the subway. Not HOLD-THIN.
+
+### Neighborhood / buildings
+- "Clason Point Bronx neighborhood history boundaries Soundview Avenue peninsula" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Clason_Point,_Bronx · bounds Lafayette Ave (N), White Plains Rd/Pugsley Creek Park (E), East River (S), Bronx River (W); Soundview Ave formerly Clason's Point Road; Shorehaven condos 1999, 1,183 townhome units; Clason Point Gardens first Bronx NYCHA; Soundview Park 205 acres; Clason's Point library 1215 Morrison Ave (1952/1971); schools Bronx Math Prep, Archimedes, Women's Academy; Engine 96/Ladder 54, 1689 Story Ave; ferry Aug 15 2018; ZIP 10473/10472; nearest large hospitals outside area · hero, §5, at-a-glance, landmarks, construction, FAQ.
+- "Clason Point Gardens NYCHA 1941" · WebSearch → WebFetch · https://www.bxtimes.com/clason-point-gardens-marks-85-years-in-the-bronx/ · Sept 9 2026: opened 1941, Bronx's first public housing, NYCHA's first low-rise garden-style, ~17 acres, mostly two-story; TA president Brianna Febus quote, CM Amanda Farías quote (quotes not used) · §5, landmarks.
+- same · WebFetch · https://www.nyc.gov/assets/nycha/downloads/pdf/Clason%20Point%20Gardens.pdf · June 2024 map: 46 numbered buildings; carpenters shop 809 Noble Ave, glaziers 811 Noble, plumbers 5 Clason Point Lane S, boilers 78 CPL N, 1 CPL S, 762 Metcalf; streets Noble, Clason Point Lane N/S, Lafayette, Story, Metcalf, Croes, Seward; Hurricane Zone 4 · §7 public housing, §peninsula, at-a-glance, FAQ.
+- "Sack Wern" · WebFetch · https://www.nyc.gov/assets/nycha/downloads/pdf/Sack%20Wern.pdf · Lafayette/Croes/Noble/Beach Aves; garage 717 Noble; TA office; boiler rooms; Hurricane Zones 5 and 6 · §7, §peninsula.
+- "Clason Point" · WebFetch · https://forgotten-ny.com/?p=91329 · Soundview Ave ~2 miles to tip, only diagonal major street; traffic circle; Greenstreets triangles; Shorehaven 57 acres; NYC Ferry dock at southern tip · §5, landmarks.
+- same · WebFetch · https://cityneighborhoods.nyc/clason-point · Lafayette Ave as northern commercial edge (other boundaries in this source conflict with Wikipedia — not used) · §7 mixed-use.
+- same · WebFetch · https://theneighborhoods.substack.com/p/clason-point-the-bronx · June 20 2024: Harding Park ~250 homes on 20 acres · §5.
+- "Shorehaven" · WebFetch · https://www.nestseekers.com/5382978/welcome-to-the-spring-market-at-harbour-pointe-at-shorehaven/print/ · clubhouse ~20,000 sq ft (listing) · §7 assembly. https://cityneighborhoods.nyc/shorehaven and https://compass.com/building/shorehaven-beechwood-bronx-ny/567539187068935509 — unsourced/thin, not used.
+
+### Retail
+- "Soundview Avenue Bronx 10473 shopping center" · WebSearch → WebFetch · https://uedge.com/sites/default/files/ue-property/property-the-shops-at-bruckner-brochure.pdf · The Shops at Bruckner, 1906 Story Ave, 112,659 SF, 3.5 acres, AutoZone, Old Navy, Marshalls, Five Below, Snipes, Aldi, Lot Less, 333 spaces with rooftop parking · §5, §7, Q&A, landmarks, field notes.
+- same · WebFetch · https://www.ripcony.com/wp-content/uploads/2017/11/BrucknerCommons_EF_2024-03-20_LS_20.pdf · Bruckner Commons 1910 Story Ave (SE corner White Plains Rd), ~372,087 SF, K Mart 186,584 SF (rent roll), ShopRite, Burlington, Urban Health Plan; two levels, two elevators, three loading bays · §5, §7.
+- "Kmart Bruckner Commons closing" · WebSearch → WebFetch · https://bronx.news12.com/residents-say-closing-kmart-in-soundview-as-the-holidays-approach-is-a-major-loss · Oct 25 2021 Kmart closed after lease terminated · §7.
+- same · WebFetch · https://bronx.news12.com/bruckner-commons-is-expanding-with-new-stores-and-opportunities · Jan 16 2025: BJ's Wholesale Club expected 2027; up to 200 construction jobs · §5, §7.
+- https://www.loopnet.com/Listing/15020542/200-Soundview-Ave-Bronx-NY · 8,106 SF storebuilding, no detail · not used.
+
+### Schools / churches
+- "Archimedes Academy ... 456 White Plains Road" · WebSearch → WebFetch · https://insideschools.org/school/08X367 · Eugene T. Maleska Educational Campus shared with Women's Academy of Excellence and Bronx Math Prep; 459 students (2024-25); "leafy but remote area of the Bronx", ~20 blocks from subway; some students need three buses · §5, §7, §peninsula, FAQ.
+- "Holy Cross Church Soundview Avenue" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Holy_Cross_Church_(Bronx) · 600 Soundview Ave, parish 1921, modernist concrete/stained glass (Brother Cajetan Baumann); school 1846 Randall Ave, est. 1923, pre-K–8, ~419 students, three-storey block · §5, §7, landmarks.
+- "Monsignor Scanlan High School address" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Monsignor_Scanlan_High_School · 915 Hutchinson River Pkwy, Throggs Neck — NOT in Clason Point (lead in prompt was wrong); used only as FAQ clarification.
+- "P.S. 69 Journey Prep" · WebFetch · https://insideschools.org/school/08X069 · 560 Thieriot Ave — location relative to Lafayette Ave not verified; not used.
+
+### New development
+- "new development 10473 ..." · WebSearch → WebFetch · https://newyorkyimby.com/?p=1982960 · 1810 Randall Ave (Randall/Taylor/Beach), Vertical Community Development, Aufgang Architects, 8 stories, 180 senior affordable units, ground-floor church replacing existing, gym, storage/bike rooms, social support services center; timeline not announced · §5, §7, Q&A, FAQ, construction. (https://newyorkyimby.com/2025/11/... direct URL EMPTY — client error; ?p= URL worked.)
+- Stevenson Square / 1920 Turnbull Ave (Soundview, north of the peninsula) · search results only · not used (Soundview/Castle Hill pages).
+
+### Fire data / local fires
+- FDNY CRA Bronx · WebFetch · https://www.nyc.gov/assets/fdny/downloads/pdf/education/fire-life-safety/fdny-cra-bx.pdf · BX09 (2020-2024): res. structural fires 13.5/100k vs 8.8 NYC; multifamily elevator 3% of buildings / 49% of buildings with fires; residential/commercial 4% / 15%; electrical 67% of accidental res. fires; Li-ion 2 fires, 1 death · §5, at-a-glance, §10.5, FAQ.
+- "Clason Point Bronx fire FDNY ..." · WebSearch → WebFetch · https://bronx.news12.com/2026/06/30/firefighter-injured-after-apartment-fire-in-clason-point/5eFKgowraSK8po4Er21Hei · June 30 2026, Commonwealth Ave apartment building fire, ~1 hour to control, one firefighter minor injury, cause under investigation · §5.
+- Other News 12 results (Soundview apartment fires, Clason Point house fire) · not fetched/used (house fire out of scope; Soundview fires belong to Soundview page).
+
+### Ferry / waterfront
+- "Soundview ferry landing Clason Point 2018" · WebSearch → WebFetch · https://www.ferry.nyc/press/nyc-ferry-launches-new-route-for-bronx-commuters · Aug 15 2018 launch from Clason Point Park, 6:30 a.m. maiden voyage · landmarks, FAQ.
+- same · WebFetch · https://citylimits.org/2018/12/11/de-blasios-soundview-ferry-gets-high-marks/ · 3,737 first-day riders; concession restaurant with parking lot expected within a year (status unverified — page says only "if ever added"); CB9 parking complaints · FAQ.
+- https://www.nyc.gov/office-of-the-mayor/news/412-18/... · WebFetch · EMPTY (index page only, no article text).
+- "Clason Point Park ferry landing concession restaurant opened" · WebSearch · nothing confirming a concession built · EMPTY.
+
+### SERP / community
+- Google PAA / PASF / Answer the Public / AI Overview for "fire alarm installation Clason Point": EMPTY (not accessible in build env). Anwar's question keywords woven into prose; AI reality-check claims written as common generic answers, corrected with FDNY sources.
+- Bing / DuckDuckGo: EMPTY (not accessible).
+- Reddit r/bronx / r/AskNYC on Clason Point buildings/fire alarms: "reddit Clason Point Bronx living Shorehaven ferry" · WebSearch · returned no Reddit threads · EMPTY.
+- Yelp 1-3★ Bronx fire alarm companies: EMPTY (not accessible).
+- Local commercial fires on Lafayette/Story Ave: "Lafayette Avenue Bronx 10473 stores fire OR Story Avenue fire" · WebSearch · nothing local · EMPTY.
+
+### Question register (this page)
+Q&A (§9):
+1. Our discount store on Story Avenue sits under a rooftop parking deck. Why did the fire alarm scope grow because of the cars upstairs?
+2. Our congregation is moving into the ground floor of the new senior building planned on Randall Avenue. Will we pay for the fire alarm devices in our worship space, or does the developer?
+3. The engineer who sealed our drawings and the company installing them never seem to talk. Who answers for it if the FDNY inspector finds devices that don't match the plans?
+4. The FDNY inspector left our store after the acceptance test without saying pass or fail. When do we know the result?
+5. Our maintenance crew is repainting the school corridors over the summer. Do they need to cover the smoke detectors, and who takes the covers off?
+6. Our store's IT contractor offered to move the fire alarm's connection to the central station onto our new internet router. Can he do that?
+7. Our sales floor has a dropped ceiling with a deep space above the tiles where the ducts and wiring run. Does that hidden space need detectors too?
+8. Our property has several low buildings spread across one site, and the panel is in only one of them. How does an alarm in the farthest building reach everyone?
+9. Wind-driven rain off the river keeps causing a ground fault on our outdoor devices after storms. What is the lasting fix?
+10. A truck backing into our loading dock knocked an outdoor horn strobe off the wall. Does replacing one exterior device need the FDNY?
+11. The supermarket next to our store shares the center's fire alarm, and when their side goes into alarm our customers have to leave too. Can the system be changed so only their side sounds?
+12. Our store's lease ends in March and the landlord wants the fire alarm devices we added left in place. Do we still have to file anything when we move out?
+13. Our panel has shown the same trouble for weeks, and the company that services it keeps saying a part is on order. What are our options?
+14. During our school's fire drill, one set of corridor doors stays open when the alarm sounds. What is wrong?
+FAQ (§17):
+1. Which Clason Point buildings usually need a full commercial fire alarm system?
+2. Is Monsignor Scanlan High School in Clason Point?
+3. Can a principal at the Eugene T. Maleska Educational Campus hire a fire alarm contractor directly?
+4. Who designs the fire alarm for the senior building planned at 1810 Randall Avenue?
+5. Can a Story Avenue store schedule its FDNY acceptance test before the doors open to shoppers?
+6. Whose name goes on the FDNY filing when Abstract Enterprises Security Systems runs a Clason Point job?
+7. Do Clason Point schools and churches have to test their fire alarms during class or service hours?
+8. Why do stores with apartments above them get extra attention on the peninsula?
+9. Can one survey cover a shopping center's common areas and several of its tenant spaces?
+10. Does the NYC Ferry landing at Clason Point Park need a building fire alarm?
+11. What is not included in an Abstract Enterprises Security Systems fire alarm quote for a Clason Point building?
+12. Can a private contractor bid on fire alarm work at Clason Point Gardens?
+
+## Clinton Hill, Brooklyn — /fire-alarm-installation-clinton-hill-brooklyn-ny (commercial rebuild research, 2026-11-15)
+
+Commercial (NFPA 72) rebuild research. Regulatory base (PE/RA sealed drawings, TM-1, FDNY Fire Alarm Company Certificate, S-97/S-98 with NICET II+ or NYC master/special electrician, company cert 1 yr / S-97-S-98 3 yrs, $105 application fee, FAIU at 9 MetroTech Center, ~20-24 weeks, initial review up to 8 weeks, resubmit within 6 months, pre-inspection 100% complete, FA-27 $105, fans >2000 cfm, CO detection at CO-producing equipment, elevator recall defects, central station bulletin, BC 907 thresholds incl. A 300+ and R-2 16+ units / 3+ stories) reused as facts from "## NYC hubs" (URLs listed there). Each entry: exact query · platform · URL · finding · section used.
+
+**Unique angle:** fire alarms in a college neighborhood planned around the academic calendar — residence halls and student townhouses (Pratt's published fire-system inventory: mixed addressable/non-addressable points, EST-2/EST-3/NOTIFIER NFS2-640, CO detection, wet sprinklers, chained valves + tamper switches; cooking fires 2020/2022; drills each semester), studio/classroom buildings empty at night (2013 Main Building 4-alarm fire at 2 a.m.), annual occupant turnover (2004 Panther Hall "thought it was a false alarm" quote), summer/winter-break install windows set backward from the FDNY's 20-24 week review, plus Myrtle/Fulton new mixed-use and the 1940s co-op towers. LPC kept to one sentence (Brooklyn Heights owns that angle).
+
+### Campus / institutions
+- "Pratt Institute residence hall fire alarm students evacuated" · WebSearch → WebFetch (3 offsets) · https://www.pratt.edu/wp-content/uploads/2023/10/2023-Annual-Security-and-Fire-Safety-Compliance-Report_.pdf · all residence halls wet sprinklers; "a combination of addressable and non-addressable points with hardwired smoke detectors in hallways"; panels to 24-hr central station; 11 facilities listed (Willoughby Hall 215 Willoughby EST-3; Pantas Hall 224 Grand EST-2; Esther Lloyd Jones 243 Ryerson Thorn/Fire Quest; Cannoneer Court 280-296 Classon EST-2; Stabile Hall 203 Emerson EST-2; Emerson/Steuben townhouses EST-3 + CO; Willoughby townhouses NOTIFIER NFS2-640 + CO; 100 Grand EST-3 + CO; 135 Emerson EST-3 + CO; Caroline Ladd Pratt House 229 Clinton Acme); valves chained, many tamper switches; drills fall + spring semester; fires: 2020 cooking at 100 Grand, 2022 stove at Willoughby Hall (1 injury); tampering quote "tampering with or removing the detection devices, extinguisher, sprinkler and fire safety apparatus are grounds for disciplinary action and/or appropriate criminal actions"; improvements at 100 Grand + Chemistry, Machinery, Engineering bldgs and panel-to-central-station/FDNY communication campus-wide (property-damage $ ranges in report NOT used) · §5 text + facts table, building types, campus calendar, integration, brands, FAQ 2/4/5.
+- same query · WebFetch · https://www.firehouse.com/home/news/10508164/pratt-institute-students-flee-dorm-fire-in-new-york · Panther Hall, DeKalb Ave at Hall St, Nov 7 2004; 2 firefighters minor injuries; student quote "I thought it was a false alarm, I didn't evacuate my room until I heard the firefighters breaking glass," (student name omitted on page) · campus calendar (real quote).
+- same · WebFetch · https://www.nbcnewyork.com/news/local/fire-pratt-institute-classroom-building-brooklyn-college-campus/2074539/ · Main Hall, Feb 15 2013, shortly after 2 a.m., four alarms, no injuries, no students inside, suspicious/under investigation · §5, building types, FAQ 9.
+- same · WebFetch · https://www.pratt.edu/news/update_pratt_fire_recovery_page/ · confirms Main Building fire, no injuries, cause under investigation · sources.
+- "St. Joseph's University Brooklyn campus 245 Clinton Avenue buildings" · WebSearch → WebFetch · https://www.sjny.edu/brooklyn/about/campus-map · St. Angela Hall 263 Waverly; Burns + Tuohy 245 Clinton; Lorenzo 265; St. Joseph's Hall 256; Molloy Theatre 265; Dillon Child Center 239 Vanderbilt; Founders 232 Clinton; McEntegart Library 222; Hill Center 212 Vanderbilt (uses mostly not stated; no residence halls listed) · building types, landmarks card.
+- "Pratt Institute power plant steam engines" · WebSearch → WebFetch · https://www.ethw.org/ASME-Landmark:Pratt_Institute_Power_Plant · operating Jan 4 1888; "oldest generating plant of its kind in the Northeast" · landmarks card.
+
+### Neighborhood / building stock
+- "Clinton Hill Historic District designated 1981 ..." · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Clinton_Hill,_Brooklyn · boundaries (Flushing Ave/Navy Yard N, Classon E, Atlantic S, Vanderbilt W); Pratt founded 1887; St. Joseph's uses former Pratt mansions; Pratt house 232 Clinton 1874, mansions for three sons; Emmanuel Baptist 1887, St. Luke & St. Matthew 1891 (John Welch); A/C at Clinton-Washington, G at Classon + Clinton-Washington; CD2, 88th Pct, ZIPs 11205/11238 · §5, building types, corridors, landmarks.
+- same · WebFetch · https://hdc.org/buildings/clinton-hill-historic-district/ · designated Nov 10 1981; rowhouses, mansions, carriage houses, apartment and institutional buildings, 1840s-1920s · facts table.
+- "Clinton Hill Co-ops Clinton Hill North South ..." · WebSearch → WebFetch · https://www.brownstoner.com/history/clinton-hill-coops-history-architecture-185-clinton-avenue · begun 1942, first ready Mar 1943; Harrison, Fouilhoux & Abramovitz; Starrett Brothers & Eken; quote "built during World War II as rentals for members of the armed forces or war-plant workers and their families"; mansions demolished; co-ops after war. North/South campus split: EMPTY (not stated) · facts table, building types, FAQ 7.
+- https://www.brownstoner.com/building-of-the-day-345-373-clinton-avenue · WebFetch · EMPTY (client_error).
+- "Graham Home for Old Ladies 320 Washington Avenue" · WebSearch → WebFetch · https://forgotten-ny.com/2012/11/a-home-for-old-ladies-and-other-people/amp · 1851, John B. Graham; home for older women; later Bull Shippers Motor Inn; empty/squatted; condos by mid-2000s · building types, landmarks card.
+- "Emmanuel Baptist Church Lafayette Avenue ..." · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Emmanuel_Baptist_Church_(Brooklyn) · Lafayette Ave at St. James Pl, Francis H. Kimball, funded by Charles Pratt, opened Apr 17 1887, NRHP 1977 · building types, landmarks card.
+
+### Corridors / new construction
+- "Myrtle Avenue Brooklyn Partnership BID ..." · WebSearch → WebFetch · https://myrtleavenue.org/about/ · BID for Fort Greene, Clinton Hill, Wallabout; restore "Main Street"; founding year/boundaries/business count EMPTY (not stated) · corridors.
+- same · WebFetch · https://www.dnainfo.com/new-york/20160413/clinton-hill/map-1125-apartments-26-storefronts-coming-myrtle-avenue · Apr 13 2016: ~1,125 apts, 26 storefronts; 504 Myrtle (former Pratt Station PO) 8 st/141 units; 491, 501, 525, 531 Myrtle · corridors.
+- "Fulton Street Clinton Hill new apartment tower ..." · WebSearch → WebFetch · https://www.brownstoner.com/development/clinton-hill-1024-fulton-street-affordable-housing-brooklyn-union-gas/ · 1024 Fulton, c.1912 Brooklyn Union Gas showroom, vacant decades; 16 stories, 125 affordable units, community center, One Brooklyn Health clinic; Feb 17 2026 · facts table, corridors.
+- same · WebFetch · https://www.6sqft.com/125-affordable-apartments-to-replace-long-vacant-clinton-hill-building/ · between Grand and Classon; "requires public review before final approval in accordance with the ESD General Project Plan" · corridors.
+- https://newyorkyimby.com/2026/02/affordable-housing-tower-announced-for-1024-fulton-street-in-clinton-hill-brooklyn.html · WebFetch · EMPTY (client_error).
+
+### Local fires
+- "Clinton Hill Brooklyn fire building 2025" · WebSearch → WebFetch · https://brooklyn.news12.com/fire-tears-through-clinton-hill-deli-injures-firefighter-and-residents · June 22 2026 ~3 a.m., 504 Classon Ave near Putnam, 3-story mixed-use, ground-floor deli, 2nd alarm 3:34 a.m., 141 personnel, firefighter seriously hurt, 2 residents hurt · §5.
+- same · WebFetch · https://brooklyn.news12.com/citizen-app-videos-show-heavy-smoke-flames-billowing-from-clinton-hill-apartment · July 14 2026 ~2:30 p.m., 490 Myrtle Ave between Ryerson and Hall, supermarket with apartments above, ~120 personnel, no injuries; quote Asst. Chief William Ventura "In this type of weather, intense heat always plays a role." (quote not used) · §5, corridors.
+- https://brooklyn.news12.com/2026/06/26/two-alarm-fire-rips-through-restaurant-in-clinton-hill/... · WebFetch · 338 Franklin Ave = Bed-Stuy per article body · NOT used (out of area).
+
+### Community / SERP
+- "reddit Pratt dorm fire alarm going off cooking 3am" and "site:reddit.com Pratt Institute fire alarm dorm" · WebSearch · only other campuses' student papers / non-local threads · Clinton Hill / Pratt Reddit: EMPTY.
+- Google PAA / PASF / Answer the Public / Google AI Overview / Bing / DuckDuckGo / Yelp 1-3★ for "fire alarm installation Clinton Hill": EMPTY (not accessible in build env). AI reality-check claims written from common generic AI/lead-site answers (Angi/HomeAdvisor/Fixr named) and corrected with FDNY sources.
+
+### Images
+- 10 existing page-specific files images/fire-alarm-installation/fire-alarm-installation-clinton-hill-brooklyn-ny-*.webp used (all viewed; identical renders to other sets). The set never contained a pull-station-storefront-conduit photo, so nothing dropped for that reason. NOT USED: fire-alarm-installation-clinton-hill-brooklyn-ny-control-panel-touchscreen-tablet.webp (left on disk; used by every recent sibling). ADDED: copied fire-alarm-installation-bay-ridge-brooklyn-ny-kitchen-heat-detector.webp → fire-alarm-installation-clinton-hill-brooklyn-ny-kitchen-heat-detector.webp (viewed: technician on yellow step ladder fitting heat detector under stainless kitchen hood beside red NOTIFIER panel and pull station; no faces of customers, numbers or documents) — fits the residence-hall cooking angle.
+
+### Question register (this page)
+Q&A (§9):
+1. Our college wants one fire alarm proposal covering four buildings on the same block. Is that cheaper than four separate projects?
+2. Does a summer-only installation window raise the cost of fire alarm work in a building full of students?
+3. Our building's last fire alarm test report has no certificate number or company name on it. Should we be worried?
+4. The fire alarm approval for our Clinton Avenue building still names the college by its old name. Do we need anything new from the FDNY?
+5. Can student workers help during fire alarm testing in campus buildings, for example by standing at doors or clearing floors?
+6. Our university is buying a neighboring rowhouse for faculty offices. Can its fire alarm be tied into the campus system?
+7. Our panel's paperwork says the system mixes addressable and non-addressable points. Is that a problem, and can it stay?
+8. Studio tenants in our building wedge the corridor doors open to move large artwork. What does the fire alarm have to do with that?
+9. Our 1940s co-op tower on Clinton Avenue is modernizing its elevators. Who reconnects the fire alarm's elevator recall afterward?
+10. Our building turns over almost every apartment each August. What should the owner do with the fire alarm before move-in week?
+11. We are a nonprofit leasing a floor in a church-owned building on Lafayette Avenue. If the FDNY writes a defect, is it ours or the church's?
+12. We were billed for a fire alarm inspection that took twenty minutes in a six-story building. Was that a real inspection?
+13. The fire alarm test in our building was announced only by a note taped in the elevator. What notice should occupants get?
+FAQ (§17):
+1. Is a Clinton Hill building rented to students treated as a dormitory or as apartments for fire alarm purposes?
+2. Do Clinton Hill residence halls built as townhouses need the same fire alarm design as the larger halls?
+3. Why do some Clinton Hill student townhouses have carbon monoxide detection reporting to the fire alarm panel?
+4. Is it better to run a Clinton Hill college building's annual fire alarm test during the semester or during a break?
+5. Do the semester fire drills at a Clinton Hill college count as testing the fire alarm?
+6. Can the stores on the ground floor of a new Myrtle Avenue building open before the residential floors' fire alarm is accepted?
+7. Why do the 1940s Clinton Hill co-op towers need a different fire alarm approach from the mansions on the same avenue?
+8. Can a former Clinton Avenue mansion used as college offices keep its period interiors through a fire alarm upgrade?
+9. A night-time fire in an empty classroom building, like Pratt's in 2013, has no one to pull a station. What detects it?
+10. Does a Clinton Hill building that hosts student exhibitions or performances need to plan its fire alarm for crowds?

@@ -487,9 +487,9 @@ LIVE | fire-alarm-installation-canarsie-brooklyn-ny | Fire Alarm Installation | 
 LIVE | fire-alarm-installation-carroll-gardens-brooklyn-ny | Fire Alarm Installation | Carroll Gardens, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-castle-hill-bronx-ny | Fire Alarm Installation | Castle Hill, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-city-line-brooklyn-ny | Fire Alarm Installation | City Line, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-15T14:26Z | fire-alarm-installation-claremont-bronx-ny | Fire Alarm Installation | Claremont, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-15T14:26Z | fire-alarm-installation-clason-point-bronx-ny | Fire Alarm Installation | Clason Point, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-15T14:26Z | fire-alarm-installation-clinton-hill-brooklyn-ny | Fire Alarm Installation | Clinton Hill, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | fire-alarm-installation-claremont-bronx-ny | Fire Alarm Installation | Claremont, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-clason-point-bronx-ny | Fire Alarm Installation | Clason Point, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-clinton-hill-brooklyn-ny | Fire Alarm Installation | Clinton Hill, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-15T14:38Z | fire-alarm-installation-co-op-city-bronx-ny | Fire Alarm Installation | Co Op City, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-15T14:38Z | fire-alarm-installation-cobble-hill-brooklyn-ny | Fire Alarm Installation | Cobble Hill, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-15T14:38Z | fire-alarm-installation-columbia-street-waterfront-brooklyn-ny | Fire Alarm Installation | Columbia Street Waterfront, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
