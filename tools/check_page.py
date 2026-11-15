@@ -301,7 +301,12 @@ def identify(slug):
             # silos whose borough hubs are named <silo>-<borough>-ny (fire-alarm-installation,
             # security-camera-installation, intercom-installation Bronx) - Oct 25 2026 fix: these
             # used to fall through to the one-word prefix ("fire"), so siblings were never compared
-            if f"{cand}-{borough}-ny" != slug and os.path.isfile(os.path.join(REPO_ROOT, f"{cand}-{borough}-ny.html")):
+            # Nov 15 2026: the candidate must also have a hub in another borough, otherwise a
+            # neighbourhood page (…-kingsbridge-bronx-ny) is mistaken for the silo of
+            # …-kingsbridge-heights-bronx-ny and no siblings get compared
+            if (f"{cand}-{borough}-ny" != slug and os.path.isfile(os.path.join(REPO_ROOT, f"{cand}-{borough}-ny.html"))
+                    and any(os.path.isfile(os.path.join(REPO_ROOT, f"{cand}-{b}{sfx}.html"))
+                            for b in BOROUGHS if b != borough for sfx in ("-ny", "-new-york", ""))):
                 return cand, borough
         # the borough hub itself (<silo>-<borough>-ny), recognised by a sibling hub in another borough
         base = m.group(1)

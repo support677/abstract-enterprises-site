@@ -531,9 +531,9 @@ LIVE | fire-alarm-installation-hunts-point-bronx-ny | Fire Alarm Installation | 
 LIVE | fire-alarm-installation-jerome-park-bronx-ny | Fire Alarm Installation | Jerome Park, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-kensington-brooklyn-ny | Fire Alarm Installation | Kensington, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-kingsbridge-bronx-ny | Fire Alarm Installation | Kingsbridge, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-15T19:44Z | fire-alarm-installation-kingsbridge-heights-bronx-ny | Fire Alarm Installation | Kingsbridge Heights, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-15T19:44Z | fire-alarm-installation-laconia-bronx-ny | Fire Alarm Installation | Laconia, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-15T19:44Z | fire-alarm-installation-locust-point-bronx-ny | Fire Alarm Installation | Locust Point, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-kingsbridge-heights-bronx-ny | Fire Alarm Installation | Kingsbridge Heights, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-laconia-bronx-ny | Fire Alarm Installation | Laconia, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+HOLD-THIN 265-lot one/two/three-family peninsula, no 4+ unit building (PLUTO); only non-residential buildings are a 4,630 sq ft yacht clubhouse, one garage and a small civic house; code-required stock belongs to Throggs Neck/Schuylerville — Anwar to decide fold into Throggs Neck, noindex, or combined peninsula page | fire-alarm-installation-locust-point-bronx-ny | Fire Alarm Installation | Locust Point, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-longwood-bronx-ny | Fire Alarm Installation | Longwood, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-mapleton-brooklyn-ny | Fire Alarm Installation | Mapleton, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-midwood-brooklyn-ny | Fire Alarm Installation | Midwood, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
