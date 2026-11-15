@@ -475,9 +475,9 @@ LIVE | fire-alarm-installation-beverley-square-brooklyn-ny | Fire Alarm Installa
 LIVE | fire-alarm-installation-boerum-hill-brooklyn-ny | Fire Alarm Installation | Boerum Hill, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-borough-park-brooklyn-ny | Fire Alarm Installation | Borough Park, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-brighton-beach-brooklyn-ny | Fire Alarm Installation | Brighton Beach, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-15T12:45Z | fire-alarm-installation-bronx-river-bronx-ny | Fire Alarm Installation | Bronx River, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-15T12:45Z | fire-alarm-installation-bronxwood-bronx-ny | Fire Alarm Installation | Bronxwood, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-15T12:45Z | fire-alarm-installation-brooklyn-chinatown-brooklyn-ny | Fire Alarm Installation | Brooklyn Chinatown, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | fire-alarm-installation-bronx-river-bronx-ny | Fire Alarm Installation | Bronx River, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-bronxwood-bronx-ny | Fire Alarm Installation | Bronxwood, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-brooklyn-chinatown-brooklyn-ny | Fire Alarm Installation | Brooklyn Chinatown, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-brooklyn-heights-brooklyn-ny | Fire Alarm Installation | Brooklyn Heights, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-brooklyn-navy-yard-brooklyn-ny | Fire Alarm Installation | Brooklyn Navy Yard, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-brownsville-brooklyn-ny | Fire Alarm Installation | Brownsville, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn

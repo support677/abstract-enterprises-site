@@ -4377,3 +4377,217 @@ FAQ (§17):
 10. Who should a Brighton Beach Avenue store call when its panel shows trouble after a storm?
 11. Does the Riegelmann Boardwalk's landmark status affect fire alarm work in the buildings beside it?
 12. How soon can Abstract Enterprises Security Systems survey a Brighton Beach building?
+
+## Bronx River, Bronx — /fire-alarm-installation-bronx-river-bronx-ny (commercial rebuild research, 2026-11-15)
+
+Commercial (NFPA 72) rebuild research. Regulatory base (PE/RA sealed drawings, TM-1, FDNY Fire Alarm Company Certificate, S-97, FAIU, ~20-24 weeks, FA-27 $105, LL195, BB 2024-001, central station bulletin) reused as facts from "## NYC hubs" (URLs as listed there). Factory section "## Bronx River, Bronx" (2026-10-27) re-checked where reused; facts that could not be re-checked were dropped (NYCHA design guidelines, Wikipedia counts, 1966 date, Watson Ave 2019 cockloft fire, Mitchell-Lama vendor claim). Each entry: exact query · platform · URL · finding · section used.
+
+**Unique angle:** everything under one roof. Bronx River's anchor buildings are residential towers whose ground floors hold a day care, a senior/community center, a management office, a laundry, a boiler and a row of NYCHA trade shops (paint, plaster, glazier, plumber, exterminator, bricklayer, roofer) — each a different hazard below apartments — plus a riverside commercial edge of storage, tire and auto buildings on Bronx River Ave and the Cross Bronx service road, and stores under the Westchester Ave el. Field notes: dust from a ground-floor shop causing corridor nuisance alarms.
+
+### Neighborhood / buildings
+- "Bronx River Community Center 1619 East 174th Street" · WebSearch → WebFetch · https://www.nyc.gov/assets/nycha/downloads/pdf/Bronx%20River%20and%20Bronx%20River%20Addition.pdf · NYCHA development map (Aug 2021): 12 buildings; addresses 1455/1431/1435 Harrod Ave, 1625-1635/1605-1615/1571-1575/1585-1595/1555/1619/1630-1632 E 174th St, 1460/1440/1420 Bronx River Ave, 1350/1352 Manor Ave; non-residential uses: day care 1555 E 174th, senior center + community center 1619 E 174th, management office 1605, laundry, boiler (1575), glazier, plumbers, exterminator, paint, plaster, bricklayers, roofer shops, storerooms, janitorial supply; Hurricane Zone 6 (Addition bldg 12 Zone 5). · §5 Why, §5 types, landmarks, FAQ (flood zones), field notes.
+- "Bronx River Houses NYCHA PACT conversion fire safety 2025" · WebSearch → WebFetch · https://www.nyc.gov/site/nycha/about/press/pr-2025/pr-20250926.page · Sept 26 2025: Bronx River Addition 226 apts in two buildings; one vacated 2022 after heating distribution failures; Trust (voted April 2024, second development); scope windows, kitchens/baths, electric heating, plumbing, electrical, ventilation, elevator replacement, structural, abatement, aging-in-place; Trust Board approved July 8 2025; Fifth Avenue Builders (Urban Atelier Group + Camber Property Group); finish mid-2028; residents return within nine months; fire alarm NOT mentioned; cost $93M+ (not used on page — $ rule). · §5 Why, §5 types, integrations (elevators), new construction, FAQ.
+- "Bronx River Addition seniors senior building 1966" · WebSearch → WebFetch · https://www.nyc.gov/html/dfta/downloads/pdf/publications/alter_in_senior_housing_brx_122512.pdf · DFTA: Bronx River Addition, 1350 Manor Ave, NYCHA public housing built for the elderly, full senior development. · §5, §5 types. (1966 date NOT verified — not used.)
+- "\"Bronx River Houses\" 14-story buildings apartments 1951" · WebSearch → WebFetch · https://bronxriver.org/post/greenway/the-bronx-river-houses-resilience/ · Bronx River Alliance: nine 14-story residential buildings, 1,247 apartments, ~3,025 residents, built 1951; hip-hop history at Bronx River Community Center; Judy Craig (The Chiffons) among notable residents; "a place of pride". · §5, at-a-glance, landmarks. (Afrika Bambaataa not named on page.)
+- same · WebFetch · https://www.stvinc.com/project/exterior-rehabilitations-bronx-river-houses-eastchester-gardens-and-general-ulysses-s-grant · STV: exterior rehab across Bronx River Houses, Eastchester Gardens, Grant Houses — roofs/flashing, bulkhead and elevator room repairs, masonry, parapets, lintels, asbestos, canopies; Bronx River Houses eligible for National Register (preservation-focused). · landmarks.
+- "Bronx Community Board 9 ..." · WebSearch → WebFetch · https://www.nyc.gov/site/bronxcb9/about/about-bxcb9.page · CB9 neighborhoods: Bronx River, Castle Hill, Clason Point, Harding Park, Parkchester, Park Stratton, Soundview/Bruckner, Unionport; river is a district boundary; office 1967 Turnbull Ave. · §5 Why, at-a-glance.
+- "censusreporter Bronx Community District 9 ..." · WebFetch · https://censusreporter.org/profiles/79500US3604209-nyc-bronx-community-district-9-soundview-parkchester-puma-ny · 169,539 residents, median age 37.1, 36.1% foreign-born, 59.4% other language at home (ACS 2024 / 5-yr), 70,254 housing units. · at-a-glance.
+- "\"Bronx River Avenue\" self storage OR warehouse ..." · WebSearch → WebFetch · https://www.cubesmart.com/ny-self-storage/bronx-self-storage/2440.html · 955 Bronx River Ave near Bruckner Blvd/Bronx River Ave; first-floor and elevator-access units, climate-controlled units. · §5, corridors, Q&A.
+- "Bronx River Ave industrial" (factory, re-check via https://bronxagents.com/neighborhood/soundview/ not re-fetched) — page states "mostly storage, warehousing and automotive repair" on the river side as a general description, consistent with CubeSmart + tire shop sources.
+
+### Local fires
+- "\"1440 Bronx River\" fire e-bike" · WebSearch → WebFetch · https://bronx.news12.com/officials-1-person-dead-9-others-injured-in-soundview-apartment-fire · Dec 3 2023 ~7 p.m., 1440 Bronx River Ave, 10th floor; e-bike per FDNY; 39-year-old man died, nine injured; neighbor Jamal: "He would have the bike in the hallway a lot." · §5 Why.
+- "Bronx River Avenue warehouse fire ..." / "auto body shop fire" · WebSearch → WebFetch · https://bxtimes.com/fire-soundview-tire-shop · May 30 2023 ~10:30 p.m., 1878 Cross Bronx Expressway service road (across from Virginia Park): three-alarm, started in one-story tire shop (I-95 Tire & Wheel), spread to adjoining 3-story building, Miguel's Flower Shop below apartments; 133 firefighters, 33 units; one firefighter minor injury; residents displaced. Corroborated: https://brooklyn.news12.com/fdny-flat-fix-miguels-flower-shop-in-soundview-destroyed-in-late-night-fire · §5, corridors, landmarks, Q&A.
+- same · WebFetch · https://bronx.news12.com/2-people-hospitalized-one-with-serious-injuries-after-fire-erupts-in-soundview-apartment-building · Jan 17 2026, 825 Morrison Ave, 19-story, 4th floor, two hospitalized, ~45 minutes to control. · §5.
+- https://gothamist.com/... (1440 Bronx River Ave), https://abc7ny.com/four-alarm-fire-bronx-soundview-in-apartment-building/5390740/ (1466 Watson Ave 2019) · WebFetch · EMPTY (not accessible in build env — permission blocked). Not used.
+
+### Landmarks / transit
+- "Starlight Park ... history" · WebFetch · https://php-cms.nycgovparks.org/parks/starlight-park/history · 1918 Bronx International Exposition; Starlight Park amusement park 1920 → closed 1940s; city bought land 1945; Sheridan Fields 1963; renamed 1996; greenway link and two bridges. · landmarks, at-a-glance.
+- same · WebFetch · https://www.nyc.gov/site/ddc/about/press-releases/2021/pr-020421-starlight.page · DDC Feb 4 2021: phase 2 links Starlight Park and Concrete Plant Park; bridges over Amtrak at E 172nd St and over the river north of Westchester Ave ($41M not used — $ rule). · landmarks.
+- same · WebFetch · https://forgotten-ny.com/?p=106352 · Concrete Plant Park west bank between Westchester Ave and Bruckner Blvd; built 2004-2009 on a concrete batch plant site, silos/conveyors kept; NYNH&H Westchester Ave station ruins. · landmarks.
+- "Elder Avenue station ..." · WebFetch · https://subwaynut.com/irt/eldern6/index.php · Elder Ave (6) just after the Bronx River bridge on Westchester Ave; stairs to SW and NE corners of Elder/Westchester; closed Feb 28 - Oct 16 2011. · corridors, landmarks.
+- "Bronx Community Board 9 Soundview flood zone ..." · WebFetch · https://www.nyc.gov/assets/planning/download/pdf/plans-studies/flood-resiliency-update/bx09-06102019.pdf · CD9: 797 buildings / 1,167 units in 1% floodplain; 2,616 buildings / 12,823 units in 0.2%; no street-level detail. · FAQ framing (flood check during design) — figures not quoted.
+
+### SERP / community
+- Google PAA / PASF / Answer the Public / AI Overview for "fire alarm installation Bronx River": EMPTY (not accessible). Anwar's question keywords woven into prose.
+- Bing / DuckDuckGo: EMPTY (not accessible).
+- Reddit r/bronx / r/AskNYC Bronx River building fire alarm threads: EMPTY (none surfaced).
+- Yelp 1-3★ Bronx fire alarm companies: EMPTY (not accessible).
+- Blocked in build env (permission not granted): en.wikipedia.org/wiki/Bronx_River_Houses, citylore.org/places/bronx-river-houses/, newyorkyimby.com (Bronx River Addition), designguidelines.nycha.info/fire-protection/, gothamist, abc7ny — EMPTY.
+
+### Question register (this page)
+Q&A (§9):
+1. A self-storage owner near Bruckner Boulevard and Bronx River Avenue wants to budget for a new system. What should the number include?
+2. Why did two companies give our Westchester Avenue store such different fire alarm numbers?
+3. How can a tenant association near East 174th Street tell whether the people testing our building's fire alarm are qualified?
+4. Our panel in a Bronx River Avenue warehouse says System Normal. Does that mean every device works?
+5. The handyman at our Cross Bronx service road shop offered to move a pull station when we rebuild the counter. Is that allowed?
+6. Can our day care director in a tower on East 174th Street add battery smoke alarms to the classroom on her own?
+7. Why would a tire shop on the Cross Bronx service road get heat detectors instead of smoke detectors?
+8. How does a fire alarm in a self-storage building handle units that stay locked for years?
+9. Our building on Harrod Avenue still has a conventional zone panel. Will a new detector in the laundry room work with it?
+10. When firefighters reach the lobby of a tall building on East 174th Street, how do they know which ground-floor shop is in alarm?
+11. A Westchester Avenue landlord says our new bakery must connect its hood suppression to the building panel. Who arranges that?
+12. We rent the ground floor of a riverside building for car storage. Is the landlord or the tenant responsible for the fire alarm?
+13. Every time the boiler is serviced in our East 173rd Street building, the fire alarm goes off. What is wrong?
+14. Our Bronx River Avenue storage office gets a call from the central station every time the power blinks. Is that normal?
+FAQ (§17):
+1. Which office answers fire alarm calls from Bronx River?
+2. Can Abstract Enterprises Security Systems do fire alarm work inside the Bronx River Houses?
+3. Does a day care inside a residential tower near East 174th Street need its own fire alarm panel?
+4. What kind of detection suits a self-storage building on Bronx River Avenue?
+5. Will the Bronx River Addition renovation change its fire alarm system?
+6. Is Bronx River in a flood zone that affects fire alarm equipment?
+7. How long does a Bronx River fire alarm acceptance test take?
+8. Can an auto shop on the Cross Bronx service road use the building next door's fire alarm?
+9. What should a Bronx River manager keep on file for the fire alarm?
+10. Who should a Westchester Avenue store call when the building alarm sounds during business hours?
+11. Does Abstract Enterprises Security Systems install burglar alarms on this page?
+12. How fast can a technician reach a Bronx River building?
+
+## Bronxwood, Bronx — /fire-alarm-installation-bronxwood-bronx-ny (commercial rebuild research, 2026-11-15)
+
+Commercial (NFPA 72) rebuild research. Regulatory base (PE/RA sealed drawings, TM-1, FDNY Fire Alarm Company Certificate, S-97, FAIU, ~20-24 weeks, plan review up to 8 weeks, FA-27 $105, LL195, central station bulletin, fans >2000 cfm, BC 907 triggers) reused as facts from "## NYC hubs" and "## Bronx" (URLs listed there; re-checked where reused). Each entry: exact query · platform · URL · finding · section used.
+
+**Unique angle:** the people who can't walk out. Bronxwood (southern Allerton) packs care buildings and aging-in-place elevator apartment houses into a few blocks: Beth Abraham (448 certified beds, I-2, defend-in-place, CMS 2012 Life Safety Code on top of FDNY), adult day programs, parkway co-ops (601 Pelham Pkwy N fire, 2024, resident "impossible for me to get down on my own"), FDNY CRA BX11 stat (elevator buildings 2% of stock / 31% of buildings with fires). Notification design for staff/residents, door holders, elevator recall. Also settles the contested "Bronxwood" label. Avoided Allerton page angles (Wallace Ave fire, Adee Ave deli fire, Boston Road Plaza PACT, Christopher Columbus campus) and Laconia's Gun Hill Rd strip fire.
+
+### Neighborhood definition / building stock
+- "Bronxwood Bronx neighborhood boundaries Bronxwood Avenue history" · WebSearch → WebFetch · https://www.cityneighborhoods.nyc/bronxwood · boundaries Pelham Pkwy (S), Bronx Park East (W), Waring Ave (N), Williamsbridge Rd (E); grid Bronxwood/Paulding/Barnes Aves; low-rise brick two-family houses and small apartment buildings early-mid 20th c.; 2/5 White Plains Rd line; Bronx Park 1888, Pelham Pkwy 1897. · §5 Why (definition), at-a-glance, landmarks.
+- "Allerton Bronx Wikipedia Bronxwood subsection boundaries" · WebSearch → WebFetch (IPFS mirror of Wikipedia) · https://ipfs.aleph.im/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Allerton%2C_Bronx.html · Bronxwood = southern Allerton: Allerton Ave (N), Esplanade Ave (E), Pelham Pkwy (S), Bronx River Pkwy (W), 20,000+ residents, includes Pelham Parkway Houses and Boston Road Plaza; tenements within five blocks of the White Plains Rd el; Jewish residents historically west of Bronxwood Ave. · §5 Why, at-a-glance, hero.
+- https://en.wikipedia.org/wiki/Williamsbridge · WebFetch · EMPTY (permission not granted in build env). IPFS mirror used instead: Williamsbridge bounds E 222nd St / Boston Rd / E Gun Hill Rd / Bronx River; no Bronxwood mention. · §5 (Bronxwood Ave runs north into Williamsbridge).
+- "Bronxwood" CB12 · WebFetch · https://www.nyc.gov/site/bronxcb12/about/about.page · Bronxwood Avenue forms Baychester's western boundary (northern stretch of the avenue). · §5 name confusion.
+- "Bronxwood Park: A Modern Relic" · WebFetch · https://wfuv.org/content/bronxwood-park-modern-relic · a separate tiny "Bronxwood Park" enclave (North/South Oak Dr, off Holland Ave/Gun Hill Rd, 1880s, John T. Adee) — not used on page (different place).
+- "streeteasy Bronxwood Avenue apartment building" · WebSearch → WebFetch · https://www.openigloo.com/buildings/bronx/bronxwood/pre-war?page=4 · Openigloo lists 498 pre-war buildings under its own (broader) "Bronxwood" label incl. Bronx Park East and Wallace Ave addresses · not used (label inconsistent).
+
+### Care buildings
+- "Beth Abraham Center for Rehabilitation and Nursing 612 Allerton Avenue beds history" · WebSearch → WebFetch · https://projects.propublica.org/nursing-homes/homes/h-335201 · 612 Allerton Ave, 448 certified beds, for-profit LLC, Centers Health Care affiliation; standard inspections Feb 5 2024 / Dec 9 2021 / May 3 2019 list no fire-safety deficiencies (not claimed on page). · hero, §5, §7 nursing home, Q&A.
+- same · WebFetch · https://en.wikipedia.org/wiki/Beth_Abraham_Center · opened March 21 1920 as Beth Abraham Home for Incurables; new building on 5th anniversary raised capacity to 225; Montefiore affiliation 1963; photo from Bronx Park East. · §7 nursing home.
+- "Beth Abraham nursing home Bronx news" · WebSearch → WebFetch · https://ag.ny.gov/press-release/2024/attorney-general-james-secures-45-million-and-delivers-major-reforms-four · Nov 14 2024 AG settlement covering Beth Abraham among four homes · NOT used on page (not fire-related).
+- "Bronxwood Home for the Aged 799 East Gun Hill Road" · WebSearch → WebFetch · https://opengovny.com/adult-care-facility/AF0211A · Adult Home + ALP, 320 beds (177 ALP), NFP, 799 E Gun Hill Rd 10467. · FAQ (named as outside the core area, carries the name).
+- same · WebFetch · https://assistedlivingmagazine.com/assisted-living/bronxwood-assisted-living/ · operating since 1987, "legally operated by Bronxwood Home For The Aged, Inc." · background only.
+- "nursing home OR adult day care Bronx Park East" · WebSearch · Beth Abraham Adult Day Health Center listing (caring.com) · WebFetch EMPTY (client error) — existence from search listing only. · §7 adult day.
+- https://projects.propublica.org/nursing-homes/homes/h-335358 · Bronx Park Rehabilitation & Nursing Center, 3845 Carpenter Ave (240 beds) — outside Bronxwood, not used.
+- "CMS nursing home Life Safety Code NFPA 101 2012" · WebSearch → WebFetch · https://leadingageny.org/providers/nursing-homes/survey-clinical-and-quality/fire-protection-guidelines-for-medicare-providers/ · CMS final rule (published May 4 2016) adopts 2012 Life Safety Code and Health Care Facilities Code for hospitals, LTC etc.; previously surveyed against 2000 edition. · §7, AI check, Q&A.
+- same · WebFetch · https://www.cms.gov/newsroom/fact-sheets/cms-proposes-adoption-updated-life-safety-code · 2014 proposal details · background.
+
+### Fire data / local fires
+- "fdny cra bx" · WebSearch → WebFetch · https://www.nyc.gov/assets/fdny/downloads/pdf/education/fire-life-safety/fdny-cra-bx.pdf · BX11 (Pelham Parkway & Morris Park), 2020-2024: residential structural fires 11.8/100k vs 8.8 NYC; multi-family elevator 2% of residential buildings but 31% of buildings with fires; residential/commercial 4% vs 16%; electrical 44% of accidental residential fires; 6 fatalities, 67% without working smoke detector. · §5, at-a-glance.
+- "reddit r/bronx Pelham Parkway apartment building fire alarm" · WebSearch → WebFetch · https://bronx.news12.com/2024/03/05/fdny-top-floors-of-apartment-building-go-up-in-flames-on-pelham-parkway/5dz2m7SYaCQNTXDJxbPI7m · March 4 2024 ~4:15 p.m., 601 Pelham Parkway (between Bronx Park East and Barker Ave), 7 stories, fire on 5th floor, 4 apartments floors 4-7 damaged, 100+ fire/EMS, quote Olga Rodriguez "They helped me down, thank God, because it would have been impossible for me to get down on my own, I would have fallen." · §5, at-a-glance.
+- "White Plains Road Gun Hill Road fire Bronx 2025 2026" · WebSearch → WebFetch · https://bronx.news12.com/2026/03/07/4-alarm-fire-leaves-11-east-gun-hill-road-businesses-boarded-up/1MsijlzlZNZjH49RFuzt6b · March 2026 E Gun Hill Rd 11-store fire (Pearsall–Throop) — Laconia/Williamsbridge, already on Laconia page; NOT used.
+- "Mace Avenue OR Waring Avenue OR Bronxwood Avenue Bronx fire" · WebSearch · only 2910 Wallace Ave (Allerton page) and non-local results · not used.
+- "Pelham Parkway South storefront fire" · WebSearch · nothing local · EMPTY.
+
+### Transit / landmarks / other
+- "Pelham Parkway station White Plains Road Line opened 1917" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Pelham_Parkway_station_(IRT_White_Plains_Road_Line) · opened March 3 1917; NRHP March 30 2005; enclosed in concrete over steel due to parkway width; ADA elevators 2007. · at-a-glance, landmarks.
+- "Bronx House 990 Pelham Parkway South" · WebSearch · south side of parkway (Pelham Parkway neighborhood) · not used.
+- News12 April 10 2026 BRC supportive housing at former Apple Bank site, Pelham Pkwy South · WebFetch · https://westchester.news12.com/2026/04/10/pelham-parkway-residents-rally-at-city-hall-against-proposed-supportive-housing/5pmirlptcyNxQoDnt8cX02 · south of the parkway; not used.
+- "FDNY Engine 97 1454 Astor Avenue" · WebSearch · firehouse address only from search listing, not verified · not used.
+- "ny-engineers fire alarm device requirements by occupancy" · WebFetch · https://www.ny-engineers.com/blog/fire-alarm-device-requirements-by-occupancy-classification · I: all; E: all; A: 300+; R-2: units 3+ stories above discharge or 16+ units. · §7, Q&A (300-guest hall), FAQ.
+
+### SERP / community
+- Google PAA / PASF / Answer the Public / AI Overview for "fire alarm installation Bronxwood": EMPTY (not accessible in build env). Anwar's 22 question keywords woven into prose (not headings).
+- Bing / DuckDuckGo: EMPTY (not accessible).
+- Reddit r/bronx / r/AskNYC threads on Bronxwood/Pelham Parkway fire alarms: EMPTY (search returned news only).
+- Yelp 1-3★ Bronx fire alarm companies: EMPTY (not accessible).
+- Norwood News / Bronx Times items on Bronxwood care-building fire alarms: EMPTY (none surfaced).
+
+### Question register (this page)
+Q&A (§9):
+1. Our nursing home is planning to renovate one wing at a time. Is it cheaper to file the fire alarm work wing by wing or all at once?
+2. A Pelham Parkway North co-op got three quotes that differ a lot. How do we compare them?
+3. Beth Abraham-size buildings get state and federal surveys. Will the fire alarm records we get from a contractor satisfy those surveyors?
+4. How can our Bronx Park East building tell whether the company that services our panel is actually allowed to?
+5. Our super is handy with wiring. Can he move a smoke detector in the cellar of our Wallace Avenue building himself?
+6. A day program renting our ground floor wants to buy wireless smoke detectors online. Would that satisfy the FDNY?
+7. Our care building's corridor doors close every time the kitchen makes toast. Is that a fire alarm problem?
+8. The elevated train shakes our White Plains Road building. Can vibration cause trouble signals?
+9. Our adult home's panel is twenty years old and the manufacturer stopped making parts. What happens if a board fails before we replace it?
+10. The church hall on our Paulding Avenue lot wants to rent out for 300-guest receptions. Does that change the fire alarm?
+11. A pharmacy is taking the corner store under our Allerton Avenue apartment building. Whose fire alarm is it?
+12. Our tenants in a Barnes Avenue walk-up hear the store's alarm downstairs during testing. Do we have to warn them?
+13. Our building's alarm went off three times last month with no fire, and the night staff are losing patience. What should we do first?
+14. The FDNY inspector left a defect list after our acceptance test on Mace Avenue. How long do we have?
+FAQ (§17):
+1. Which office handles Bronxwood fire alarm calls?
+2. What should a Bronxwood nursing home administrator have ready for the first survey?
+3. Can fire alarm work go on in a Bronxwood care building while residents stay?
+4. Does a seven-story apartment house on Pelham Parkway North need a building fire alarm?
+5. Is the adult home on East Gun Hill Road that carries the Bronxwood name part of this neighborhood?
+6. How long does a Bronxwood day program have to wait for an approved fire alarm before it opens?
+7. Will the FDNY test our Bronxwood building's fire alarm with residents inside?
+8. What happens to a Bronxwood store's fire alarm when the tenant leaves?
+9. Do Bronxwood buildings pay a government fee for fire alarm work?
+10. Who keeps the fire alarm records for a Bronxwood co-op?
+11. Can you tell us that our Bronxwood building does not need a fire alarm system?
+12. How soon can Abstract Enterprises Security Systems survey a Bronxwood building?
+
+## Brooklyn Chinatown, Brooklyn — /fire-alarm-installation-brooklyn-chinatown-brooklyn-ny (commercial rebuild research, 2026-11-15)
+
+Commercial (NFPA 72) rebuild research. Regulatory base (PE/RA sealed drawings, TM-1, FDNY Fire Alarm Company Certificate, S-97/S-98, FAIU at 9 MetroTech Center, ~20-24 weeks, initial review up to 8 weeks, resubmit within 6 months, FA-27 $105, BB 2024-001, LL195, central station bulletin, BC 907 thresholds, 36 in from diffusers, fans >2000 cfm) reused as facts from "## NYC hubs" (URLs listed there); place-of-assembly code notes reused from the Brighton Beach section; renovation impairment guidance (CCNY NYC Fire Code guide) and LPC 2019 Sunset Park districts reused from the 2026-10-27 Brooklyn Chinatown factory section. Each entry: exact query · platform · URL · finding · section used.
+
+**Unique angle:** turnover and shared systems. Eighth Avenue's old store buildings (same buildings as the 1940s/1980s tax photos, new uses) change tenants and uses constantly (455 storefronts, 16% vacant), upper floors become clinics/offices/temples/tutoring/banquet rooms, and new medical-office condominiums put dozens of owners on one panel. Page is about who controls the panel, lease/alteration rules, change of occupancy as a fire alarm trigger, fit-out coordination; second thread = banquet halls / festival calendar (assembly).
+
+### Corridor data / history
+- "Avenue NYC commercial district needs assessment Sunset Park Eighth Avenue storefronts" · WebSearch → WebFetch · https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-sunsetpark.pdf · 8th Ave 39th-65th St: 455 storefronts, 16% vacancy (district 11.3%); condition 35% poor / 44% average / 21% good; top types salons/barbers 72, professional services 49, pharmacy/optical/health 30, full-service restaurants 30, supermarkets/grocery 25; 10,271 avg daily vehicles (2019); 8th Ave station 5,346 avg weekday riders (2021); fieldwork Sept 2021-June 2022; partners AAFE, BCA, Sunset Park BID; strength = concentration of Asian health and professional services. · hero, §5 Why + facts table.
+- "Sunset Park 8th Avenue Chinese church temple" · WebSearch → WebFetch · https://www.archives.nyc/blog/2017/3/2/sunset-park-the-blue-sky-line · 8th Ave N station at 62nd St over the Sea Beach open cut, "Look for the blue sky"; Chinese settlement from early 1970s; "Little Scandinavia" through 1950s; Fujian arrivals; buildings largely same as 1940s and 1980s tax photos with new uses; Chinese Promise Baptist Church moved to newer quarters on 41st St; B70 bus on 8th Ave. · §5, facts table, §7 temples, landmarks.
+- re-check of factory entry · https://www.bca.net/eng/about.html · 1988: ~3,000 Asian-Americans, 12 Asian-American-operated businesses in Sunset Park (factory source; not re-fetched this run). · §5.
+- re-check of factory entry · https://atlasofhome.com/roots/chinese-in-sunset-park-brooklyn/ · shift to heavily Fujianese since 2000 (factory source). · §5.
+
+### Building stock / new buildings
+- "5521 8th Avenue Brooklyn medical building" · WebSearch → WebFetch · https://newyorkyimby.com/2016/02/foundation-work-underway-for-six-story-40-unit-medical-office-building-at-5521-eighth-avenue-sunset-park.html · six stories, 40 units (36 medical offices + 4 retail), 81,569 sq ft, retail 13,003 sq ft ground+mezzanine, medical offices from 2nd floor avg 1,180 sq ft, architect Raymond Chan, expected 2017. · facts table, §7, shared-systems section, Q&A, landmarks. (therealdeal.com 2016 headline calls it a medical condo building — search result title only.)
+- "developments on Eighth Avenue" · WebFetch · https://brooklyneagle.com/articles/2016/02/10/developments-on-eighth-avenue-in-sunset-park/ · 5623 8th Ave (57th St) three-story building extended to six stories, commercial + community facility; 5521 medical building; 6200 8th Ave proposal (not used). · §7, new construction.
+
+### Assembly / landmarks
+- "Sunset Park Brooklyn Chinatown 8th Avenue banquet hall dim sum" · WebSearch → WebFetch · https://parkasia.pages.dev/ · Park Asia, 6521 8th Ave: large banquet halls for weddings and events, VIP private rooms, rooftop seating. · §7, banquet section, landmarks.
+- same · https://timeout.com/newyork/restaurants/bamboo-garden-1 · Bamboo Garden, 6409 8th Ave, "shimmering banquet hall", hosts weddings. · §7, landmarks.
+- same · https://wanderlog.com/place/details/1010486/pacific-palace · New Pacific Palace, 813 55th St, banquet-hall set-up above a bank in a repurposed building with high ceilings. · §7.
+- same · https://nyctourism.com/restaurants/pacificana-sunset-park/ · Pacificana (813 55th St) listed "Out of Business" — not used.
+- same · https://nyctourism.com/itineraries/exploring-asian-culture-in-brooklyns-sunset-park · Xi Fang Temple 5101 8th Ave (Buddhist temple, vegetarian restaurant downstairs); The Roast 5124 8th Ave; Xin Fa Bakery 5617 8th Ave; LaoJie 811 53rd St; Mid-Autumn Festival 66th St & 8th Ave; Sunset Park 41st-44th Sts, 5th-7th Aves. · §7, corridors, landmarks.
+- "Brooklyn Chinatown Lunar New Year parade 2026" · WebSearch → WebFetch · https://www.brooklynpaper.com/celebrate-lunar-new-year-brooklyn-2026 · parade Sun Feb 22 2026, 8th Ave 50th-61st Sts, firecrackers + lion dances 11 a.m., parade 1 p.m.; United Cultural Association 829 63rd St. · corridors, banquet section, landmarks, FAQ.
+- "I.S. 220 Pershing address" · WebSearch → WebFetch · https://writlarge.ctl.columbia.edu/view/717 · I.S. 220 John J. Pershing, 4812 9th Ave, grades 6-8, c. 1930-present. · corridors, landmarks.
+- "Brooklyn Chinese-American Association day care" · WebSearch · https://www.schools.nyc.gov/schools/KBEP (search result: "Brooklyn Chinese American Association Day Care") · §7 day care.
+- "NYU Langone Sunset Park family health center" · WebFetch · https://nyulangone.org/locations/sunset-park-family-health-center-at-nyu-langone-55th-street · 150 55th St (not on the 8th Ave corridor) — not used.
+
+### Local fires
+- "Eighth Avenue Sunset Park fire Bao House" · WebSearch → WebFetch · https://newyork.news12.com/3-people-injured-in-sunset-park-building-fire · 8th Ave mixed-use building, Bao House restaurant on 1st floor, fire ~1:30 a.m. on 2nd floor, three minor injuries (date Nov 2025 per factory/Brooklyn Reporter). · facts table, §7.
+- https://brooklynreporter.com/2025/11/eighth-avenue-fire-injures-three/ · WebFetch · EMPTY (not accessible — permission timed out).
+- same search · https://brooklyn.news12.com/fdny-at-least-4-people-injured-in-fire-above-sunset-park-deli1 · May 19 2025, 9th Ave & 39th St, bodega below, no fire escape, 1 died, 3 hurt. · corridors.
+- re-check of factory entry · https://brooklyn.news12.com/2-injured-in-2-alarm-fire-at-sunset-park-apartment-building · Jan 13 2026, 512 48th St, four-story, third floor, 57 people / 14 households displaced, 15 open DOB violations mostly boiler. · §7 apartments.
+- "Eighth Avenue Sunset Park Chinatown fire 2025 2026" · WebSearch → WebFetch · https://ny1.com/nyc/brooklyn/news/2026/11/05/neighbors-say-older-chinese-immigrants-killed-in-brooklyn-fire ; https://www.insurancejournal.com/news/east/2026/11/09/891915.htm ; https://abc7ny.com/post/6-dead-3-alarm-fire-tears-sunset-park-home-brooklyn/20017265/ · Nov 5 2026, 58th St near 7th Ave: six dead in a two-story 1915 wood-frame row house; DOB illegal-conversion complaints, no access. · NOT used on page (one-/two-family house scale, outside commercial NFPA 72 scope).
+- https://brooklyn.news12.com/businesses-start-to-rebound-after-5-alarm-sunset-park-fire · March 2026 five-alarm factory fire, Sunset Park (no address) · not used (waterfront, not corridor).
+
+### Blocked / empty
+- https://www.bkreader.com/lifestyle-culture/brooklyn-chinatown-officially-co-named-in-sunset-park-12938645 and https://asamnews.com/2026/10/26/brooklyn-chinatown-street-co-naming-eighth-avenue-sunset-park/ · EMPTY (not accessible — permission timed out); Oct 2026 co-naming not used.
+- https://en.wikipedia.org/wiki/Brooklyn_Chinatown · EMPTY (not accessible).
+- "reddit Sunset Park Chinatown 8th Ave building fire alarm" · WebSearch · Reddit: EMPTY (no threads surfaced).
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp 1-3★: EMPTY (not accessible in build env). Anwar's 22 question keywords woven into prose.
+
+### Question register (this page)
+Q&A (§9):
+1. Our second floor on Eighth Avenue is turning from apartments into a dental practice. Does the fire alarm quote cover the change of use, or is that someone else's job?
+2. Why did the estimate for one suite in our medical-office condominium include work outside the suite?
+3. The contractor renovating our Eighth Avenue restaurant says he can move the heat detectors himself. Should the landlord let him?
+4. Several companies have worked on our panel over the years. How do we find out which one the FDNY has on record?
+5. Can a condominium owner at 5521 Eighth Avenue hire their own electrician for fire alarm devices inside their suite?
+6. Our tutoring center rents the third floor. Is the fire alarm our responsibility or the landlord's?
+7. Will incense at a temple above our store keep setting off smoke detectors?
+8. Do salon dryers and nail-product vapors on the ground floor cause false alarms in the hallway above?
+9. How do you make sure guests in a full banquet hall hear the alarm over a wedding band?
+10. A previous tenant left extra strobes and detectors behind when they moved out. Can the new tenant just remove them?
+11. Our landlord says the building's fire alarm cannot take another tenant's devices. What are our options?
+12. The owner of our building lives overseas and the managing agent changes every year. Who should hold the fire alarm records?
+13. The alarm in our building goes off during the lunch rush and diners have stopped leaving. What should the restaurant do?
+14. Neighbors complain that the panel in our stairwell has been beeping for a month. Can we just silence it?
+FAQ (§17):
+1. Does Abstract Enterprises Security Systems have an office in Brooklyn Chinatown?
+2. Who should control the fire alarm in an Eighth Avenue building with several tenants?
+3. Does turning an upstairs apartment into a clinic or tutoring center change the building's fire alarm requirements?
+4. When does a Brooklyn Chinatown banquet hall need a building fire alarm?
+5. Can a medical-office condominium owner renovate a suite without involving the fire alarm company?
+6. How far ahead should a new Eighth Avenue tenant start fire alarm work before opening?
+7. What should a landlord on Eighth Avenue put in a lease about the fire alarm?
+8. Can fire alarm testing in a banquet hall be scheduled around weddings and the Lunar New Year season?
+9. Do kitchens in Eighth Avenue restaurants use smoke detectors?
+10. What records should a multi-tenant building in Brooklyn Chinatown keep for its fire alarm?
+11. Is Abstract Enterprises Security Systems FDNY-certified to install fire alarms?
+12. How soon can someone look at a fire alarm in a Brooklyn Chinatown building?

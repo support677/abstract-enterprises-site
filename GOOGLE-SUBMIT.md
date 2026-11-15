@@ -3576,3 +3576,6 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-15 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-boerum-hill-brooklyn-ny | QUEUED
 2026-11-15 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-borough-park-brooklyn-ny | QUEUED
 2026-11-15 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-brighton-beach-brooklyn-ny | QUEUED
+2026-11-15 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-bronx-river-bronx-ny | QUEUED
+2026-11-15 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-bronxwood-bronx-ny | QUEUED
+2026-11-15 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-brooklyn-chinatown-brooklyn-ny | QUEUED
