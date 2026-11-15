@@ -460,9 +460,9 @@ LIVE | fire-alarm-installation-suffolk-county-ny | Fire Alarm Installation | Suf
 LIVE | fire-alarm-installation-westchester-county-new-york | Fire Alarm Installation | Westchester | up /fire-alarm-installation-hudson-valley-ny | (914) 877-2578 | GBP Bronx
 LIVE | fire-alarm-installation-rockland-county-ny | Fire Alarm Installation | Rockland | up /fire-alarm-installation-hudson-valley-ny | (845) 640-3835 | GBP Bronx
 LIVE | fire-alarm-installation-orange-county-ny | Fire Alarm Installation | Orange County | up /fire-alarm-installation-hudson-valley-ny | (845) 640-3835 | GBP Bronx
-BUILDING 2026-11-15T09:45Z | fire-alarm-installation-putnam-county-ny | Fire Alarm Installation | Putnam | up /fire-alarm-installation-hudson-valley-ny | (845) 640-3835 | GBP Bronx
-BUILDING 2026-11-15T09:45Z | fire-alarm-installation-dutchess-county-ny | Fire Alarm Installation | Dutchess | up /fire-alarm-installation-hudson-valley-ny | (845) 640-3835 | GBP Bronx
-BUILDING 2026-11-15T09:45Z | fire-alarm-installation-ulster-county-ny | Fire Alarm Installation | Ulster | up /fire-alarm-installation-hudson-valley-ny | (845) 640-3835 | GBP Bronx
+LIVE | fire-alarm-installation-putnam-county-ny | Fire Alarm Installation | Putnam | up /fire-alarm-installation-hudson-valley-ny | (845) 640-3835 | GBP Bronx
+LIVE | fire-alarm-installation-dutchess-county-ny | Fire Alarm Installation | Dutchess | up /fire-alarm-installation-hudson-valley-ny | (845) 640-3835 | GBP Bronx
+LIVE | fire-alarm-installation-ulster-county-ny | Fire Alarm Installation | Ulster | up /fire-alarm-installation-hudson-valley-ny | (845) 640-3835 | GBP Bronx
 REBUILD | fire-alarm-installation-allerton-bronx-ny | Fire Alarm Installation | Allerton, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-bath-beach-brooklyn-ny | Fire Alarm Installation | Bath Beach, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-bathgate-bronx-ny | Fire Alarm Installation | Bathgate, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
