@@ -466,9 +466,9 @@ LIVE | fire-alarm-installation-ulster-county-ny | Fire Alarm Installation | Ulst
 LIVE | fire-alarm-installation-allerton-bronx-ny | Fire Alarm Installation | Allerton, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-bath-beach-brooklyn-ny | Fire Alarm Installation | Bath Beach, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-bathgate-bronx-ny | Fire Alarm Installation | Bathgate, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-15T11:12Z | fire-alarm-installation-bay-ridge-brooklyn-ny | Fire Alarm Installation | Bay Ridge, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-15T11:12Z | fire-alarm-installation-bedford-park-bronx-ny | Fire Alarm Installation | Bedford Park, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-15T11:12Z | fire-alarm-installation-bedford-stuyvesant-brooklyn-ny | Fire Alarm Installation | Bedford Stuyvesant, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | fire-alarm-installation-bay-ridge-brooklyn-ny | Fire Alarm Installation | Bay Ridge, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | fire-alarm-installation-bedford-park-bronx-ny | Fire Alarm Installation | Bedford Park, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-bedford-stuyvesant-brooklyn-ny | Fire Alarm Installation | Bedford Stuyvesant, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-bensonhurst-brooklyn-ny | Fire Alarm Installation | Bensonhurst, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-bergen-beach-brooklyn-ny | Fire Alarm Installation | Bergen Beach, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-beverley-square-brooklyn-ny | Fire Alarm Installation | Beverley Square, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
