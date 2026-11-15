@@ -6162,3 +6162,226 @@ Angle: NYCHA's largest Bronx campus (Edenwald Houses, 40 buildings of 3 and 14 s
 - Can work start in Edenwald while the FDNY is still reviewing the plans?
 - Why does a carbon monoxide detector sometimes go on an Edenwald building's fire alarm?
 - How quickly can Abstract Enterprises Security Systems reach an Edenwald building?
+
+## East Tremont, Bronx — /fire-alarm-installation-east-tremont-bronx-ny (commercial rebuild research, 2026-11-15)
+
+NFPA 72 commercial only. Regulatory base (PE/RA sealed drawings, TM-1, FDNY Fire Alarm Company Certificate, S-97/S-98, FAIU, ~20-24 weeks, FA-27 $105, test-request documents and 40-70 business-day lead time) reused as facts from "## NYC hubs" (https://www.nyc.gov/assets/fdny/downloads/pdf/business/tips-fire-alarm-systems.pdf ; https://www.nyc.gov/assets/fdny/downloads/pdf/business/fire-alarm-company-cert-faq.pdf ; https://www.nyc.gov/assets/fdny/downloads/pdf/business/fa27-instructions.pdf ; https://www.nyc.gov/assets/fdny/downloads/pdf/business/doc-app-requirements-by-type.pdf). The 2026-10-27 factory section above was the starting point; Twin Parks (borough page) and Engine 46 (Bathgate page) were not reused as angles.
+
+Angle: East Tremont as a working storefront corridor — 529 storefronts on East Tremont Ave / East 180th St / Webster Ave in pre-1950 low commercial and mixed-use buildings, dominated by medical/professional offices, limited-service restaurants and beauty businesses — so most fire alarm work is tenant fit-outs and change-of-use under apartments; plus the Bronx's first busway (Sept 2026) changing logistics for installs and FDNY test days; plus new 14-15 story mixed-use/supportive buildings with a health center near Third Ave.
+
+### Neighborhood facts
+- "East Tremont Bronx" · WebFetch · https://en.wikipedia.org/wiki/East_Tremont,_Bronx · Boundaries E 180th St / Southern Blvd / Cross Bronx Expwy / Third Ave; CB6; ZIP 10457 (west of Prospect Ave) and 10460 (east); 48th Precinct; Engine 45/Ladder 58/Battalion 18 at 925 E Tremont Ave, Engine 46/Ladder 27 at 460 Cross Bronx Expwy; 2010 pop 43,423 (+10.5% from 39,280), 445.31 acres; NYCHA Twin Roads East (14 stories) and E 180th St-Monterey Ave (10 stories); schools PS/MS 3, PS 44, PS 58, PS/MS 211, MS 118 etc.; no subway, buses Bx9/15/17/19/36/40/41/42, Metro-North Tremont station; Caro "One Mile", ~5,000 displaced in 5 years of construction ending 1960; building stock 5-6 story tenements, older multi-unit homes, vacant lots, new apartment buildings; much original housing damaged by arson and razed; "Bronx Park South" name for area SW of zoo · §5 at-a-glance, §7, §13 landmarks, FAQ.
+- "East Tremont commercial district needs assessment" · WebFetch · https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-easttremont.pdf · SBS + NIDC, Sept 2024-June 2025; corridors E Tremont Ave and E 180th St (Webster to Vyse Aves) and Webster Ave (E 175th-E 180th); 529 storefronts, 67 vacant, 12.7% vacancy vs NYC 12.1% avg; condition 22% poor / 61% average / 17% good; E Tremont Ave mostly one- and two-story buildings, much pre-1950, mixed-use with residential above; leading uses professional/medical offices, limited-service restaurants, beauty; E 180th delis/bodegas; auto-related businesses take curb space · §5 (angle), §7, §8, §10.5, §13.
+- "East Tremont merchants alliance" · WebSearch/WebFetch · https://bronx.news12.com/2026/07/23/east-tremont-merchants-unite-to-strengthen-business-corridor-through-merchants-alliance/5AAeeE1lv4KHHgy1aoLvHh · News 12 Bronx July 23 2026: NIDC organized ~30 E Tremont Ave merchants; quote Freddy Carrera (Bobby's TV and Radio Service): "Basically, safety. A lot of safety." · §5 (real quote).
+- "Tremont Avenue busway" · WebFetch · https://www.nyc.gov/mayors-office/news/2026/09/fast-buses--mayor-mamdani-completes-the-bronx-s-first-busway-on- · Sept 23 2026 completion; 6 a.m.-8 p.m. daily; full corridor for buses, trucks 6+ wheels, emergency vehicles, Access-a-Ride; taxis/FHV local access only, exit next right; Bx36 ~39,000 daily riders · §5, Field Notes, Q&A, FAQ, §13.
+- same topic · WebFetch · https://nyc.streetsblog.org/2024/11/11/dot-tremont-ave-busway-to-be-installed-in-spring · Nov 11 2024: two-way busway on E Tremont Ave between Third Ave and Southern Blvd, ~0.6 mi; cars exit at first turn · §5, §13.
+
+### New construction / health care
+- "521 East Tremont Avenue rezoning" · WebSearch/WebFetch · https://bronxboropres.nyc.gov/wp-content/uploads/2022/11/bxbp-ulurp-521-East-Tremont-Avenue-Rezoning.pdf · CD6; project area E 178th St / Bathgate Ave / E Tremont Ave / Third Ave (Block 3043); existing 3-story commercial/community facility building; C4-4D; 14-story mixed-use, 204 units + super, ~12,895 sf commercial, ~10,000 sf health care facility for CHN; CB6 vote 16-0-4 Nov 9 2022; BP recommends approval · §7, §16 new construction. NOTE: site is on the Bathgate-to-Third block, i.e. at/just west of Wikipedia's Third Ave line; page states the block, not "inside" claims.
+- https://blog.marketproof.com/new-building-permit-filed-for-521-east-tremont-avenue-in-tremont-bronx/ · permit filed Feb 3 2026: 14 stories, 213 units, ~162,485 sf residential, ~12,533 sf commercial · §7.
+- https://shnny.org/blog/entry/community-access-breaks-ground-on-east-tremont · groundbreaking Apr 23 2026; 213 apartments, 63 supportive for people with mental health concerns; CHN Tremont Health Center to triple in size · §16.
+- https://www.mannpublications.com/mannreport/2026/04/23/community-access-mega-group-and-public-officials-celebrate-groundbreaking-of-213-unit-affordable-and-supportive-housing-development-in-the-bronx/ · developers Mega Group, CHN, Community Access; ground-floor retail; quote HPD Deputy Commissioner Patrick Love "Stable housing is the foundation of health." · §5, §16 (project cost not used — no $ on page).
+- "newyorkyimby East Tremont permits" · WebSearch; YIMBY page fetch failed (client_error) → https://100percentbronx.blogspot.com/2025/10/permits-filed-for-4137-third-avenue-in.html · 4137 Third Ave (YIMBY labels it East Tremont), between E 175th and E 176th Sts; 15 stories, 145 ft, 99 units, 68,853 sf residential; RBA Developers; Fred Geremia Architects · §7, §16, Q&A (high-rise).
+- "Community Healthcare Network Tremont Health Center" · WebSearch/WebFetch · https://www.chnnyc.org/tremont-health-center/ · 1880 Bathgate Ave 10457; primary care, pediatrics, prenatal, behavioral health etc. · §7 (described as "just west of the corridor").
+
+### Code / FDNY additions (this page)
+- "FDNY restaurant fire safety guide" · WebFetch · https://www.nyc.gov/assets/fdny/downloads/pdf/business/restaurant-fire-safety-guide.pdf · fire alarm required for restaurants 300+ occupants, cabarets 75+; PA Certificate of Operation (DOB) where C of O allows 75+; FDNY annual PA permit after inspection; re-inspection $210/hour; only S-97/S-98 holders with FDNY-approved company test/maintain; visual inspections by S-95, F-53, F-89, T-89, F-80; log books kept 3 years; hood suppression serviced every 6 months by licensed master fire suppression piping contractor · §8.5 callouts, §10.5, Q&A, FAQ.
+- "Local Law 191 of 2018 carbon monoxide commercial" · WebFetch · https://support.sitecompli.com/hc/en-us/articles/1500000956121-Local-Law-191-of-2018-Installation-of-Carbon-Monoxide-Detectors-in-Commercial-Spaces · Group A, B, M occupancies with fire alarm systems; CO devices with sounder bases reporting to central station; by July 1 2021; not required in kitchens (secondary summary — cited as SiteCompli) · §8.5, §10.5, FAQ.
+
+### Local fires (checked, not used)
+- "East Tremont Bronx fire 2026" · WebSearch/WebFetch · https://abc7ny.com/post/fire-burns-2-homes-crotona-bronx-20-residents-displaced/18956914/ · Apr 23 2026, two homes on Crotona Ave "in the East Tremont section", 20 displaced, no address · NOT used (homes = out of scope; Belmont-adjacent 2166 Crotona Ave fire in research is Belmont).
+- https://bronx.news12.com/4-alarm-fire-reported-on-east-tremont-avenue · Nov 8 2025, 1740 E Tremont Ave auto body shop — Van Nest, outside area · NOT used.
+- https://abc7ny.com/post/bronx-fire-10-people-injured-breaks-6-story-building/18113463/ · 1166 Grand Concourse — Concourse, outside area · NOT used.
+- No 2025-2026 commercial/multifamily fire found inside East Tremont's boundaries: EMPTY.
+
+### Searches that came back empty
+- Reddit r/bronx East Tremont fire alarm threads: EMPTY (none surfaced in WebSearch).
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG for "fire alarm installation East Tremont": EMPTY (not accessible in build env). Question keywords from keywords/fire-alarm-installation.md used as the question set; AI reality-check claims written from common generic answers and national cost-guide framing, corrected with FDNY sources.
+- Yelp 1-3★ for Bronx fire alarm vendors: EMPTY (not accessible in build env).
+- Jerome Ave / Bathgate rezoning: Jerome Ave rezoning is west of the area; only East Tremont-area rezoning found is the 521 E Tremont Ave site rezoning (above). Bronx Metro-North rezoning (2024) covers Parkchester/Van Nest/Morris Park/Co-op City stations, not Tremont — not used.
+
+### Images
+- 11 existing files images/fire-alarm-installation/fire-alarm-installation-east-tremont-bronx-*.webp; alt/title/caption describe only what is visible. pull-station-storefront-conduit shows a street number "451" on the shop door (flag for Anwar, same as Bathgate note); alt/caption make no location claim.
+
+### Question register (this page)
+Q&A headings (section "Questions Answered"):
+1. A clinic is taking over a former shoe store on East Tremont Avenue. What drives the fire alarm part of the fit-out budget?
+2. We were quoted for a few new devices, and then the design professional said the landlord's old panel cannot take them. Who pays for the new panel?
+3. The company that quoted our salon's alarm says it is "FDNY approved." What paperwork backs that up?
+4. Our panel says NOTIFIER on the front. Are we tied to one service company for good?
+5. Can our general contractor's crew patch and paint the ceiling around the new detectors, or must the fire alarm company do it?
+6. When the alarm sounds in our store, what is an employee allowed to press on the panel?
+7. Our store hangs a drop ceiling below the original tin ceiling. Does the space between them need detectors?
+8. Does a 15-story building near Third Avenue need voice evacuation and a fire command center when the walk-ups around it do not?
+9. A tenant's contractor added devices in our storefront without telling us, the landlord. What do we do before the FDNY finds out?
+10. A tenant upstairs says the corridor strobe flashes under her apartment door all night during troubles. Can it be moved?
+11. Merchants on the avenue say alarm tests scare off customers. How are tests scheduled around store hours?
+12. Since the busway opened, how does a technician reach a building on Tremont Avenue between Third Avenue and Southern Boulevard in an emergency?
+(+ H2 "Need Fire Alarm Repair in East Tremont? What to Do in the First Hour")
+FAQ:
+1. Is East Tremont the same neighborhood as Tremont?
+2. Does the Tremont Avenue busway limit when a new fire alarm panel can be delivered to a store on the avenue?
+3. Our restaurant on East Tremont Avenue seats about 60. Does it need its own fire alarm system?
+4. Does our medical office need carbon monoxide detection tied into the fire alarm?
+5. Can a health center keep seeing patients while its fire alarm is upgraded?
+6. An auto repair shop near Webster Avenue wants a fire alarm. What detection works around exhaust and fumes?
+7. Does dust from the Cross Bronx Expressway shorten the life of detectors in buildings along it?
+8. How early should a new building near Third Avenue request its FDNY acceptance test?
+9. Will the FDNY look at our fire alarm during the annual Place of Assembly permit inspection?
+10. Can we keep the store's fire alarm panel behind the counter where only staff can reach it?
+
+## East Williamsburg, Brooklyn — /fire-alarm-installation-east-williamsburg-brooklyn-ny (commercial rebuild research, 2026-11-15)
+
+Neighborhood rebuild (NFPA 72 commercial only; stay-in-area rule — only "fire alarm installation Brooklyn" of the 13 area phrases; no 1-2 family home content, no burglar alarm, no prices). Regulatory base (PE/RA sealed drawings, TM-1, FDNY Fire Alarm Company Certificate, S-97 via NICET II+ or NYC master/special electrician, S-97/S-98 on test day, FAIU, initial review up to 8 weeks, ~20-24 weeks submission to approval, B-45, central station live before test, FA-27 $105, records 3 years, unwarranted-alarm rule, BC 907.2 occupancy triggers via ny-engineers summary, Project Authorization) reused as facts from "## NYC hubs" and the East New York section; FDNY tips PDF re-fetched this run to confirm installer wording, 20-24 weeks, 8-week review, B-45 and the test-day list.
+
+**Unique angle:** industrial lofts and warehouses inside the North Brooklyn IBZ changing use — to music venues, taprooms/distilleries, film studios, offices and maker space — and the assembly-occupancy fire alarm that comes with it (BC 907.2 assembly 300+ vs DOB PACO 75+ / TPA), plus the new Kingsland Commons campus, Cooper Park Houses, Grand Street Campus and Grand Street mixed-use rows. Avoided (used on sibling Bushwick page): Brooklyn Mirage / Avant Gardner / 140 Stewart Ave, Loft Law / Loft Board / IMD material, Rheingold, Wyckoff Heights, Bushwick Collective. Old factory-section items NOT reused: Our Lady of Pompeii (location not re-verified), Brooklyn Mirage at 111 Gardner Ave, 255 McKibbin 2014 vacate, Loft Board rules, Graham Ave fire (CBS calls it Williamsburg).
+
+Each entry: exact query · platform · URL · finding · section used.
+
+### North Brooklyn IBZ and industrial context
+- "North Brooklyn Industrial Plan East Williamsburg IBZ 2025 2026 rezoning" · WebSearch → WebFetch · https://www.nyc.gov/assets/planning/download/pdf/plans-studies/north-brooklyn-vision-plan/north-brooklyn-exec-sum-eng.pdf · DCP North Brooklyn Industry and Innovation Plan (draft exec summary, undated): 1,066-acre study area covering Greenpoint, East Williamsburg and Bushwick along Newtown Creek; ~19,500 jobs in 2016, 77% industrial; 2010-16 industrial businesses +85 (12%), non-industrial +219 (61%); sectors: food distribution, fuel depots, recycling/waste, construction materials, film (Broadway Stages), artisanal manufacturing/sign making, restaurants and entertainment venues, art studios/galleries, TAMI offices, wastewater plant; proposals incl. limiting non-industrial uses (incl. entertainment) in core industrial area, replacing the Grand Street Bridge. Quote: "The North Brooklyn Plan is the most in-depth industrial area study that DCP has conducted in decades." · §5 neighborhood, facts table, §8 Grand Street corridor, landmark card.
+- https://www.nyc.gov/site/planning/plans/north-brooklyn-vision-plan/north-brooklyn-vision-plan.page · WebFetch · redirect stub only · EMPTY (not accessible in build env).
+- same search · WebFetch · https://northbrooklynnews.com/2025/10/31/its-a-blueprint-for-gentrification/ · The Greenline, Oct 31 2025: draft NYC Industrial Plan released mid-Sept 2025 (DCP/SBS/NYCEDC); North Brooklyn industrial areas ~28,600 direct jobs; North Brooklyn IBZ third largest in the city; CM Jennifer Gutiérrez quote "The City's new plan for our manufacturing zones puts good jobs and local businesses at risk."; Evergreen: mixed-use zoning in unprotected industrial areas "a blueprint for gentrification." Economic output $ figures NOT used. · §5.
+- "East Williamsburg Industrial Business Zone Evergreen North Brooklyn businesses" · WebSearch → WebFetch · https://edc.nyc/node/5362 · March 10 2022: Wesley H. Watson Industrial Center, 500 Stagg Street, East Williamsburg, ~10,000 sq ft for three industrial small businesses, rents at least 20% below market; Evergreen founded 1982; Leah Archibald quote "Evergreen's mission is to help small businesses grow so we can keep high-quality working-class jobs in our community"; East Williamsburg commercial rents increasingly prohibitive. $ figures NOT used. · §8 Morgan/Stagg/Frost, §13 landmark card.
+
+### Change-of-use buildings (venues, taprooms, studios)
+- "Brooklyn Steel 319 Frost Street East Williamsburg venue capacity former factory" · WebSearch → WebFetch · https://www.amny.com/entertainment/brooklyn-steel-east-williamsburg-s-new-music-venue-opens-with-locals-lcd-soundsystem-1-13366355/ · April 5 2017: 319 Frost St, former steel fabrication plant, capacity 1,800 (1,200 with movable stage), Bowery Presents; John Moore quote "It's a steel fabrication plant and we wanted to embrace that and use as much of the original aesthetic as we could." · §5, facts table, AI reality check, §13.
+- "Interboro Spirits and Ales 942 Grand Street East Williamsburg brewery" · WebSearch → WebFetch · https://bushwickdaily.com/bars/4150-interboro-brewery-distillery-taproom · 942 Grand St between Waterbury St and Morgan Ave, brewery + distillery + taproom (beer, gin, whiskey, amaro), public opening Sept 9 (year from Greenpointers URL https://greenpointers.com/2016/10/03/interboro-beer-for-the-anti-beer-snob-in-east-williamsburg/ = 2016). · §5, §8, §13.
+- "East Williamsburg film studio warehouse soundstage ..." · WebSearch → WebFetch · https://www.pincusco.com/bungalow-projects-files-plans-for-307k-sf-movie-studio-in-east-williamsburg-paid-49m-for-site/ · paywalled; headline + 242 Seigel St caption only.
+- "242 Seigel Street studio Bungalow East Williamsburg soundstages 2025" · WebSearch → WebFetch · https://commercialobserver.com/2024/08/bungalow-projects-east-williamsburg-movie-studio · Aug 26 2024: 242 Seigel St, East Williamsburg, 307,443 sq ft, five soundstages, CookFox; former Heritage Equity site. · §5, facts table, §13.
+- same · WebFetch · https://edc.nyc/node/7353 · Oct 8 2025: Echelon Studios; Seigel St facility (NYCEDC labels it Bushwick) 355,000 sq ft, 6 floors, 6 soundstages, 40 ft clear to grid, below-grade parking 230+ spaces. Page notes the site sits on the East Williamsburg/Bushwick line. $ figures NOT used. · §5, facts table, §7 studios, Q&A 9, FAQ 9.
+- "FDNY place of assembly certificate of operation requirements ..." · WebSearch → WebFetch · https://www.nyc.gov/site/buildings/property-or-business-owner/place-of-assembly-certificate-of-operation.page · PACO required where 75+ members of the public gather indoors (200+ outdoors); DOB issues; FDNY Place of Assembly Permit renewed annually after FDNY inspection. · §7 lofts→assembly, AI check, construction, FAQ 1.
+- same · WebFetch · https://www.nyc.gov/assets/buildings/pdf/code_notes_temp_place-of-assembly.pdf · TPA for 75+ indoors / 200+ outdoors in spaces without permanent assembly use; filed by RDP at least 10 days before event; consult FDNY. · AI check, FAQ 2.
+
+### Housing, NYCHA, schools
+- "Cooper Park Commons East Williamsburg 2025 opening ..." · WebSearch → WebFetch · https://www.6sqft.com/affordable-apartments-greenpoint-hospital-williamsburg/ · Oct 30 2026: 89 Maspeth Ave, 18-story phase two of four of Kingsland Commons, 217 affordable apartments in lottery (applications due Nov 25 2026), Hudson Companies + St. Nicks Alliance + HPD, MAP/Architecture Outfit; groundbreaking Sept 2024; Greenpoint Hospital built 1915 to treat factory accident victims; Barbara S. Kleinman Residence still a shelter; 24-hour security guard at front desk. Rents NOT used. · §7 new housing, facts table, §13.
+- same · WebFetch · https://thenyhc.org/projects/cooper-park-commons-building-2/ · campus totals: nearly 500 affordable family units, 110 affordable senior units, 200-bed homeless shelter, 4.5+ acres; clinic, café, senior center, workforce training HQ; Building 2 18 stories (NYHC lists 311 units — differs from 6sqft's 217; page uses 217 lottery figure only). · §7, facts table.
+- https://newyorkyimby.com/2026/08/89-maspeth-avenue-progresses-in-east-williamsburg-brooklyn.html · fetch failed (client_error) · EMPTY (not accessible in build env).
+- "Cooper Park Houses NYCHA East Williamsburg buildings apartments" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Cooper_Park_Houses · 11 seven-story buildings, opened 1953, between Kingsland and Morgan Aves and Frost St and Maspeth Ave; 1,448 residents (2025). · §7, §13.
+- "Grand Street Campus 850 Grand Street ..." · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Grand_Street_Campus · 850 Grand St, East Williamsburg; four stories; opened April 1 1981; houses HS for Enterprise, Business and Technology, PROGRESS HS, East Williamsburg Scholars Academy. · §7, §13.
+
+### Local fires and incidents
+- "East Williamsburg fire 2026 Grand Street building FDNY" · WebSearch → WebFetch · https://brooklyn.news12.com/3-firefighters-hurt-after-fire-tears-through-east-williamsburg-building-partial-collapse-reported · May 5 2026: fire late Sunday (May 3) on Grand St between Catherine St and Morgan Ave, three-story building with deli below apartments, spread next door, partial collapse, 200+ responders, 3 firefighters minor injuries, Red Cross 12 households; residents allege fire alarms did not sound (not confirmed); Fred Cullin quote "all happened in like 60 seconds". · §7 mixed-use rows.
+- same · WebFetch · https://brooklyn.news12.com/2026/05/19/demolition-nears-completion-after-williamsburg-fire-future-of-site-uncertain/3eidywRmU3YdPz21DmVBG1 · May 18 2026: demolition nearly complete per DOB; no alarm statements. · sources only.
+- https://northbrooklynnews.com/2026/05/29/fire-on-grand-and-catherine-consumes-3-buildings/ · WebFetch · permission request timed out · EMPTY (not accessible in build env); street numbers 927/931/933 from the factory section NOT used.
+- same search · WebFetch · https://abc7ny.com/post/2-injured-fire-erupts-east-williamsburg-brooklyn-street-amid-carbon-monoxide-scare/18615388/ · Feb 18 2026: 101 Humboldt St, seven-story residential building, transformer vault fire, high CO inside, ~200 evacuated, 2 hospitalized; Ruben Burgos quote "everybody has carbon monoxide tests, not one went off in the building". · FAQ 3.
+- "East Williamsburg warehouse fire lithium-ion ..." · WebSearch → WebFetch · https://abc7ny.com/post/fire-construction-site-east-williamsburg-brooklyn-breaks-injures-2-people/17906901/ · Sept 29 2025: 254 Boerum St between Bushwick Pl and White St, construction site fire, second alarm, spread to 252 Boerum St, 25 units, 100+ personnel, 2 minor injuries. · §8 Meserole/Seigel/Boerum, FAQ 6.
+- same · WebFetch · https://brooklyn.news12.com/fdny-responds-to-warehouse-fire-in-williamsburg-lithium-ion-batteries-spotted · Aug 9 2024: warehouse fire on Morgan Ave near Meserole St, FDNY hazmat requested due to lithium-ion batteries, cause undetermined. · §7 warehouses, FAQ 7.
+- "reddit East Williamsburg loft fire alarm building" · WebSearch → WebFetch · https://www.dnainfo.com/new-york/20150831/east-williamsburg/fire-breaks-out-at-mckibbin-lofts-east-williamsburg-fdny-says · Aug 31 2015: McKibbin Lofts, 265 McKibbin St, third-floor fire, electrical item ignited a mattress, controlled in ~20 min; DOB two partial stop-work orders for illegal hotel use. · FAQ 4.
+- "\"East Williamsburg\" fire alarm OR \"smoke detectors\" landlord tenants 2025 OR 2026 ..." · WebSearch · results were Williamsburg rent strike / general fire safety, nothing East Williamsburg-specific about fire alarms · not used.
+
+### Regulatory (re-checked this run)
+- FDNY Tips for Fire Alarm Systems · WebFetch · https://www.nyc.gov/assets/fdny/downloads/pdf/business/tips-fire-alarm-systems.pdf · RDP creates plans; installer "a New York City Licensed Electrician / Fire Alarm Vendor who holds an FDNY-issued Fire Alarm Company Certificate"; ~20-24 weeks; initial review up to 8 weeks; B-45; central station active; FAIU at 9 MetroTech Tue/Thu 9-12; test-day list (S97/S98, radios, plumber, elevator mechanic, ladder/tools/canned smoke, occupants aware, access, documents). Does not mention Project Authorization or fees. · quick answer, §8, process, AI check, Q&A.
+- Project Authorization: https://nyc-business.nyc.gov/nycbusiness/description/fire-alarm-application/apply (from research line ~732) · reused fact · quick answer, process, construction, pricing.
+
+### Community / SERP
+- Reddit (r/Brooklyn, r/williamsburg) for East Williamsburg fire alarm topics: EMPTY (no relevant threads found).
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp 1-3★: EMPTY (not accessible in build env). Question set from Anwar's keyword list woven into prose; Q&A and FAQ written from the change-of-use angle and local sources above; AI reality check written from common generic answers (Angi/HomeAdvisor/Fixr framing), corrected with FDNY/DOB sources.
+
+### Question register (this page)
+Q&A (§9, 14 questions):
+1. We are negotiating a warehouse lease and want to open as an event space. How do we budget the fire alarm before we sign?
+2. Why do two bids for the same taproom fire alarm differ so much in what they include?
+3. The venue's promoter says their production company can install the fire alarm devices. Is that allowed?
+4. How do we know a fire alarm company can actually finish an acceptance test in a converted building?
+5. Our studio crew wants to move two smoke detectors so they are out of a new cyc wall. Can they do it?
+6. Can our building's handyman reset the panel and replace the batteries when it beeps?
+7. Our hall uses haze for shows. How does the fire alarm design deal with it?
+8. What should happen to the house sound and lights when the fire alarm activates in our venue?
+9. Our soundstage has a 40-foot grid. How will anyone test detectors up there?
+10. We own a loft building with twenty small tenants. Who is responsible when one tenant's build-out breaks the fire alarm?
+11. Our landlord controls the base building panel. Can we get our own fire alarm for our unit instead?
+11a. We sublet part of our warehouse floor to a weekend event promoter. Who files the fire alarm change, us or the landlord?
+12. Neighbors on Grand Street complained that our building's alarm sounds at night with nobody responding. What are we doing wrong?
+13. After an FDNY inspection of our event space we received a violation for the fire alarm. Where do we start?
+FAQ (§17):
+1. Our taproom will hold about 150 people. Does it need a full fire alarm system?
+2. Do we need to change the fire alarm for a one-night event in our warehouse?
+3. Residents said no carbon monoxide alarm went off when CO from a street utility fire got into our building. Should the fire alarm have caught it?
+4. People sleep in some units of our old industrial building. Does that change the fire alarm?
+5. Can our brewery's tasting room stay open while the fire alarm is extended?
+6. A large construction project started next to our warehouse. Should we do anything about our own fire alarm?
+7. We store lithium-ion batteries in our warehouse. Does the fire alarm design treat that differently?
+8. Does a film soundstage need voice evacuation or are horns enough?
+9. A big studio building will open floor by floor. How is the fire alarm accepted?
+10. Our converted warehouse has a freight elevator with no fire recall. Does that have to change?
+11. Will a fire alarm upgrade in our multi-tenant loft building force every tenant to close?
+12. How far ahead should a new venue request its FDNY acceptance test?
+AI reality-check claims (H3): tenant just connects to existing alarm; set cost per square foot; any licensed electrician; ceiling smoke detectors enough for industrial; sprinklers replace fire alarm; approval takes a couple of weeks; once approved stays approved.
+
+## Eastchester, Bronx — /fire-alarm-installation-eastchester-bronx-ny (commercial rebuild research, 2026-11-15)
+
+Neighborhood research for the Eastchester (Bronx, Community District 12) page — NOT the Town of Eastchester in Westchester County. NFPA 72 commercial only; the one- and two-family houses that dominate the housing stock are out of scope. Regulatory base (PE/RA sealed drawings, TM-1, Project Authorization, FDNY Fire Alarm Company Certificate, S-97, FAIU, ~20-24 weeks, FA-27 $105) reused as facts from "## NYC hubs". Format: exact query · platform · URL · finding · section used.
+
+Angle: the Bronx's northeast edge — an Industrial Business Zone of yards, shops and storage buildings on low ground along the Hutchinson River and New England Thruway (much of it in the FEMA 100-year floodplain), a 5-train terminal shopping strip on Dyre Avenue, a 1973 shopping center on Boston Road, an 1877 landmark school now used as a child care center, and the NYCHA Boston Secor high-rise where a January 2026 gas explosion and four-alarm fire hit the 15th-17th floors. Fire alarm design here is about low, wet, dusty and unheated spaces plus tall residential buildings under PACT renovation.
+
+### Boundaries, civic facts
+- "Eastchester Bronx neighborhood boundaries Boston Road Gun Hill Road Hutchinson River" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Eastchester,_Bronx · Bronx–Westchester border (N), New England Thruway (E), Baychester Ave (S), 233rd St & Baychester Ave (W); Boston Road primary thoroughfare, Dyre Ave main commercial strip; annexed from the Town of Eastchester late 19th c., boundaries roughly match former Village of Eastchester (inc. March 25, 1895); housing dominated by 1-2 family homes; Boston Secor Houses 4 buildings 13-18 stories; former PS 15 on Dyre Ave NRHP 1981; Shopwell Plaza on Boston Road; Hutchinson River runs through; industrial district; schools PS 68, PS 111, PS 112, MS 142 John Philip Sousa, Albert Tuitt Educational Campus; 47th Precinct 4111 Laconia Ave; FDNY Engine 38/Ladder 51 at 3446 Eastchester Rd; NYPL Edenwald branch 1255 E 233rd St; ZIPs 10466, 10475 (10469 W of Baychester Ave S of Boston Rd); CB12; buses Bx16, Bx30 + Bee-Line routes. · hero, §5 at-a-glance, §13 landmarks.
+- Gun Hill Road / Eastchester Road as Eastchester corridors: NOT verified as Eastchester (Eastchester Road is Baychester's main street per CB12; Gun Hill Road ends at the Hutchinson River Pkwy in Baychester) — not used as Eastchester corridors. Bay Plaza is Baychester/Co-op City — not used. Eastchester Gardens (Burke Ave) sits in Allerton despite its name — mentioned only to clarify it is a different place (Dec 30 2025 fatal fire at 1166 Burke Ave, News 12 Bronx https://bronx.news12.com/fdny-1-person-dead-after-massive-fire-at-eastchester-gardens-houses) · FAQ clarification.
+- "About BXCB12" · WebFetch · https://www.nyc.gov/site/bronxcb12/about/about-bxcb12.page · CB12 = Baychester, Eastchester, Edenwald, Fishbay, Olinville, Wakefield, Williamsbridge, Woodlawn; Eastchester about half a square mile, along the Westchester border, New England Thruway to the east, an industrial district and NYCHA Boston Secor Houses; Boston Road primary thoroughfare, Dyre Avenue main commercial strip. · §5.
+- "Eastchester" forgotten-ny · WebFetch · https://forgotten-ny.com/2023/08/the-good-place-eastchester/amp · Boston Road crosses the Hutchinson River on the Eastchester Bridge; Huguenot, McOwen and Ropes Avenues east of the river between the Thruway and Hutchinson River Pkwy remain in the Bronx. · §5, §13.
+
+### Industrial Business Zone
+- "Eastchester Industrial Business Zone Bronx IBZ" · WebSearch → WebFetch · https://edc.nyc/industry/industrial/nyc-industrial-business-zones · IBZs created 2006; 21 citywide; Bronx IBZs: Bathgate, Eastchester, Hunts Point, Port Morris, Zerega; relocation tax credit $1,000 per employee up to $100,000 (not a price — government credit; used without the dollar figure). · §5, §8.
+- "Eastchester industrial Conner Street Provost Avenue Hollers Hutchinson River" · WebSearch → WebFetch · https://www.nyc.gov/assets/planning/download/pdf/plans-studies/open-industrial-uses/eastchester_flood.pdf · DCP "Open Industrial Uses: Eastchester Survey Results": map of Eastchester IBZ (Hollers, Tillotson, Givan, Secor, Ropes, Light St, Conner St, De Lavall, Boston Rd, Dyre Ave, Baychester Ave…) with FEMA 100-year floodplain overlay; 56 surveyed sites, 46.14 acres: concrete/cement manufacturing 2 sites 8.45 ac; auto dismantling/salvage 11 sites 15.49 ac; scrap metal 1; fill material transfer 1 (2.51 ac); storage of operable vehicles/materials 27 sites 15.23 ac; long-term storage of inoperable vehicles 15 sites 4.31 ac. · §5, §7, §8, Field Notes, AI check.
+- 1720 Eastchester Rd logistics (Simone) — Morris Park, NOT Eastchester · https://www.nyrej.com/simone-acquires-supermarket-plans-logistics-facility-conversion · not used.
+
+### Shopping, corridors
+- "Shopwell Plaza Boston Road Bronx 10475" · WebSearch → WebFetch · https://www.loopnet.com/Listing/4000-4026-Boston-Rd-Bronx-NY/37473330 · Shopwell Plaza 4000-4026 Boston Rd, one-story, built 1973, renovated 1997, ~76,000-77,858 sf, 16 stores, 125 parking spaces, R4 zoning (asking price not used). · §8, §13.
+- same · WebFetch · https://www.marketreportblog.com/2020/08/tour-ctown-supermarkets-eastchester.html · CTown at 4008 Boston Rd, opened 2000, shares the plaza with a Caribbean supermarket. · §8.
+- "Dyre Avenue businesses corridor" · WebSearch → WebFetch · https://ny1.com/nyc/all-boroughs/human-interest/2020/05/22/end-of-the-line--how-has-dyre-avenue-changed-during-the-pandemic- · Dyre Avenue Business District at the end of the 5 line; Mario's Pizza since early 1970s, Dyre Avenue Diner, Freckle's Juice Bar; quote Mario Reda "Everybody is happy that we are open. Hopefully everything goes well." · §8, quote.
+- "Eastchester–Dyre Avenue station" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/IRT_Dyre_Avenue_Line · station opened May 29 1912 (NYW&B), reopened May 15 1941 (IRT); rebuilt 1963-64 with 525-ft island platform. (Edenwald page already tells the NYW&B story; only the terminal/1963-64 rebuild used.) · §13.
+
+### Institutions
+- "Public School 15 Dyre Avenue National Register" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Public_School_15 · 4010 Dyre Ave; built 1877; architects Edward Cordial and Simon Williams; Victorian Gothic, H-plan, red brick, bell tower; school use ended late 1970s; now a child care center; NYC Landmark Jan 10 1978; NRHP Dec 10 1981. · §7, Q&A, §13.
+- Schools (PS 68, 111, 112, MS 142, Albert Tuitt Educational Campus) — Wikipedia above; Tuitt address: EMPTY (not confirmed) — named only, no address.
+- Churches in Eastchester: EMPTY (no source named one) — houses of worship discussed generically, none named.
+- Nursing homes: "Eastchester Rehabilitation and Health Care Center" is at 2700 Eastchester Rd 10469 (https://profiles.health.ny.gov/nursing_home/tab_overview/150655) — outside Eastchester; not used.
+
+### NYCHA / PACT
+- "Boston Secor Houses NYCHA PACT" · WebSearch → WebFetch · https://nychajournal.nyc/420m-pact-project-will-modernize-boston-secor-boston-road-plaza-and-middletown-plaza/ · Boston Secor + Boston Road Plaza + Middletown Plaza: 6 buildings, 951 apartments, ~1,600 residents incl. nearly 600 seniors; Beacon Communities, Kalel Companies, MBD Community Housing Corp; Wavecrest Management; financing closed Sept 26 2024; ~2.5-year construction; scope: roofs, elevators, electrical, heating, cooling, plumbing, ventilation (fire alarm NOT mentioned — not claimed). Quote Shameca Patrick (TA president): "I'm hopeful that things are going to change at Boston Secor". (Allerton page cites the same project as a source; here only used for the Eastchester building.) · §7.
+
+### Local fire news
+- "Eastchester Bronx fire 2025 Boston Road" · WebSearch → WebFetch · https://abc7ny.com/post/1-dead-15-others-injured-eastchester-bronx-high-rise-fire-explosion/18462493/ · Jan 24 2026 ~12:19 a.m., Bivona St between Reeds Mill Lane and Boston Road, Boston Secor Houses; fire on 15th floor, explosion ~15 min after arrival; 1 dead, 15 hurt (1 critical); resident walked down 12 flights; facade work only; FDNY investigating possible gas leak. · §5, Q&A, AI check.
+- same · WebFetch · https://bronx.news12.com/2026/01/25/at-least-1-killed-several-injured-after-gas-leak-sparks-eastchester-fire/3BvuWareOF2Qryix8IryUC · reports of strong gas odor, then explosion; four-alarm; 150+ residents out in near single-digit temperatures; 15th-17th floors; DOB: frame and superstructure "were found to be stable"; full vacate order; water froze on building. · §5.
+- "Eastchester tenants deadline return fatal fire" · WebSearch → WebFetch · https://longisland.news12.com/i-dont-want-to-come-back-here-eastchester-tenants-demand-management-reconsider-deadline-to-return-after-fatal-fire · Feb 15 2026: DOB lifted vacate for floors 1-14 (91 households), partial vacate on top three floors; victim lived at 3475 Bivona St; police charged a 55-year-old man with causing the explosion (name not used); quote 17th-floor tenant: "How do you expect anybody to go back to the exact same place that they could have lost their life?" · §5.
+
+### Regulatory additions (beyond NYC hubs)
+- "FDNY fire protection systems owner out of service fire watch" · WebFetch · https://www.nyc.gov/assets/fdny/downloads/pdf/business/Support/fire-protection-systems.pdf · fire watch immediately when out of service; notify COF holder, central station, insurer, FDNY if required; notify occupants if >30 minutes; first 4 hours trained staff for ≤50,000 sf, then F-01 fire guard, ≤50,000 sf per guard; COF holders visual inspection only, testing/repair by FDNY-approved companies; commercial and multi-tenant buildings monitored by FDNY-approved central station. · repair section, AI check, Q&A.
+- NYREJ, Peter Simon, Nov 3 2020 · https://nyrej.com/alterations-and-existing-fire-protection-systems-in-new-york-city-five-essential-considerations-by-peter-simon · impairment coordinator (owner by default); quote "Impairing existing systems is a trigger for providing fire watch coverage while the impaired system is down." · existing systems.
+
+### Community / SERP
+- Reddit r/bronx Eastchester threads: EMPTY (none surfaced in search).
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG: EMPTY (not accessible in build env). Question set from Anwar's keyword list woven into prose.
+- Yelp 1-3★ Bronx fire alarm companies: EMPTY (not accessible in build env).
+
+### Question register (this page)
+Q&A:
+- Our IBZ yard has a two-story office trailer and a parts building. Can we get one number for the fire alarm before anyone walks the lot?
+- Our Dyre Avenue landlord wants the store tenant to pay for a building-wide fire alarm upgrade. Is that normal?
+- After the January 2026 Boston Secor explosion, our board asked how we would know our own panel works. What proof should a manager keep?
+- A company offered to "certify" our Hollers Avenue warehouse alarm in one visit. Is that a real thing?
+- Our insurer and the FDNY seem to want different things. Which one does the fire alarm design follow?
+- A Shopwell Plaza tenant wants to add a kitchen. Who decides whether the plaza's fire alarm changes?
+- Floodwater reached our cellar panel a few blocks from the Hutchinson River. Can it be dried out and put back in service?
+- Why do the smoke detectors in our unheated parts room keep going into alarm every winter morning?
+- Can a 150-year-old landmark building like the one at 4010 Dyre Avenue get a modern fire alarm without spoiling it?
+- Our ground lease on the yard ends in two years. What happens to the shop building's fire alarm then?
+- Our tenants in a Boston Road building want to know why the hallway horn is so quiet. Do we have to fix it?
+- Our tow yard has a dispatcher on duty all night in a booth by the gate. Can the fire alarm show up there too?
+- Our panel shows "AC loss" after every storm on Conner Street. Is that dangerous?
+- Concrete trucks shake our building all day. Can vibration cause fire alarm troubles?
+AI reality check H3s: "Eastchester answers apply to every place with that name"; "Industrial yards don't need fire alarms"; "Sprinklers make a fire alarm unnecessary"; "Any electrician can install a fire alarm"; "Approval takes a couple of weeks"; "A battery backup keeps a panel safe in any outage"; "A panel showing System Normal means the building is protected".
+FAQ:
+- Some vendors confuse Eastchester, Bronx with the other Eastchester outside the city. Who approves our fire alarm?
+- Is NYCHA's Eastchester Gardens in this neighborhood?
+- Does a body shop with spray booths need its booth suppression tied to the fire alarm?
+- What happens to our fire alarm approval if we sell the business but keep the building?
+- How do we keep a fire alarm working while a facade or roof contractor is on the building?
+- What should a child care operator ask before leasing space in an older Eastchester building?
+- Our shop is on Ropes Avenue across the Hutchinson River. Does anything change for us?
+- We bought a building near the Eastchester–Dyre Avenue station and the fire alarm panel is locked with no code. What now?
+- How fast can a technician reach a shop on Hollers Avenue?
+- Who in our company should be the impairment coordinator for the fire alarm?
+- Does a vehicle storage lot with no building need a fire alarm at all?
+Checked against sibling registers/pages for meaning overlap; dropped/rewrote: bid comparison (Co-op City, Crotona), handy super/foreman (Crotona), tenant-floor responsibility (Crotona), floodplain panel placement (Country Club, Bronx River), auto-shop exhaust (East Tremont), dust on detectors (East Tremont, Port Morris), yard trailer (Hunts Point).
