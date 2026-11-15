@@ -4140,3 +4140,240 @@ Format: exact query · platform · URL · finding · page section used. Regulato
 ### Question register (this page)
 Q&A: lender fire alarm records for Beverley Rd refinance; laundromat-to-cafe change of use filing; confirming certified company for E 19th St panel replacement; parish hall "System Normal" proof; super moving a pull station in lobby rebuild; GC cheapest electrician on Cortelyou mixed-use; rooftop elevator machine room detector; subway cut vibration; espresso steam detector; who pays tenant-driven panel changes; residents say alarm too loud; central station "communication trouble" calls; installer out of business / takeover.
 FAQ: are you based in Beverley Square; do landmarked houses need commercial systems; 48-unit Beverley Rd building automatically required; farmers market affects storefront fire alarm; 1620 Cortelyou grocery sharing panel; parish hall weekend crowds; booking annual inspection; residents disconnecting hallway detector; upgrade opening walls in every apartment; used hood with suppression; records when store changes hands; how quickly can you get here.
+
+## Boerum Hill, Brooklyn — /fire-alarm-installation-boerum-hill-brooklyn-ny (commercial rebuild research, 2026-11-15)
+
+Neighborhood rebuild (NFPA 72 commercial only; stay-in-area rule — only the "fire alarm installation Brooklyn" area phrase used). Regulatory base (PE/RA sealed drawings, TM-1, FDNY Fire Alarm Company Certificate, S-97 with NICET II+ or NYC master/special electrician, Fire Alarm Inspection Unit at 9 MetroTech, ~20-24 weeks, FA-27 $105, central station rules) reused as facts from "## NYC hubs" (FDNY tips PDF, certificate FAQ, FA-27 instructions, central-office bulletin). Angle: two edges — landmarked 19th-century storefront buildings (1973 district + 2018 extension incl. Atlantic Ave Hoyt–Nevins) vs new towers/jail on the Flatbush/State/Schermerhorn/Atlantic edge; plus the 96 Boerum Place roof-void fire as the concealed-space lesson. Each entry: exact query · platform · URL · finding · section used.
+
+### Historic district / building stock
+- "Boerum Hill Historic District Landmarks Preservation Commission designation 1973 extension" · WebSearch → WebFetch · https://www.nyc.gov/site/lpc/about/pr2018/062618.page · LPC designated the Boerum Hill Historic District Extension June 26 2018: ~288 buildings in three sections — Dean & Bergen between Smith and Hoyt; Atlantic Ave between Hoyt and Nevins + Pacific St between Hoyt and Bond; Wyckoff & Bergen between Bond and Nevins. Greek Revival/Italianate 1850s-1870s, some historic storefronts, neo-Grec apartment buildings; Second Empire row on Bergen. Quotes: Sarah Carroll ("wonderful rows of intact mid-19th century buildings…"), Howard Kolins ("we will further protect our neighborhood's historic character"). · hero, §5 facts table, §7 landmarked storefront type, §8 corridors, Q&A (LPC wine bar), FAQ (exterior strobe), §13 landmark card.
+- same · WebFetch · https://www.6sqft.com/new-historic-district-more-than-doubles-the-landmarked-buildings-in-boerum-hill/ · Original 1973 district 250 buildings; extension 288; "block-and-a-half commercial stretch" of Atlantic Ave (412 Atlantic named); owner of 382 Atlantic opposed ("we will be forced for economic reasons to accept chain store tenants" — not used in final text). · §5 facts table ("about 538" = 250 + 288), §7.
+- "Boerum Hill" · WebFetch · https://en.wikipedia.org/wiki/Boerum_Hill · Boundaries Schermerhorn St (N), Fourth Ave (E), Smith or Court St (W), Warren or Wyckoff (S); 3-story row houses 1840-1870; district designated Nov 20 1973; name coined 1964 by Helen Buckler; north Smith St = "Little Caughnawaga" Mohawk community; Pacific branch BPL 25 Fourth Ave, opened 1905, Brooklyn's oldest Carnegie library; Brooklyn High School of the Arts at Dean St & Third Ave; CB2; 84th Precinct. · §5, §7 schools, §8 Smith St + Court St edge, §13.
+- "Boerum Hill new residential tower Schermerhorn Street OR State Street" + "the buzz on Boerum Hill" · WebSearch → WebFetch · https://www.6sqft.com/the-buzz-on-boerum-hill-how-an-iconic-brooklyn-neighborhood-blends-old-and-new/ (May 15 2018) · The Boerum, 265 State St, 19-story condo/hotel, 128 apartments; The Bergen, 316 Bergen St, 8 stories, 84 rentals, 2014; The Hendrik, 509 Pacific St, 6 stories, 33 condos; 211 Schermerhorn, 14 stories, 48 condos; Chelsea Piers Fitness 52,000 sq ft planned at 265 Schermerhorn at base of 33 Bond St; Clover Club 210 Smith St; Invisible Dog Art Center 51 Bergen St, ~30,000 sq ft converted factory, opened 2009; NY Transit Museum 99 Schermerhorn St in a 1936 subway station. · §7 mid-rise + galleries, §8 corridors, §13 cards. (Article dated 2018 — timelines not repeated.)
+- "80 Flatbush Alloy Boerum Hill tower Khalil Gibran school" · WebSearch → WebFetch · https://www.wikiwand.com/en/80_Flatbush · 505 State St (first tower) 44 stories/482 ft, 441 units (45 affordable), finished by April 2024; 80 Flatbush school building: expanded Khalil Gibran International Academy + new 350-seat elementary school. · hero, §5, §7 high-rise, §11 construction. (Public school space = city school agencies; page says we don't claim it.)
+
+### Atlantic Avenue / commercial
+- "Atlantic Avenue Boerum Hill businesses Atlantic Avenue Business Improvement District Smith Street" · WebSearch → WebFetch · https://brooklyneagle.com/articles/2024/02/26/kelly-carroll-in-lockstep-with-the-community/ · Atlantic Ave BID: 1.2-mile stretch through Brooklyn Heights, Cobble Hill, Boerum Hill; 300+ small businesses; four historic districts; large halal shopping area, Middle Eastern/North African merchants; Kelly Carroll: "We are a massive halal shopping destination in New York City." · §5 facts table, §7 restaurants, §8 Atlantic Ave.
+
+### Borough-based jail (city project — not claimed)
+- "Brooklyn Detention Complex 275 Atlantic Avenue borough-based jail construction 2026" · WebSearch → WebFetch · https://www.nyc.gov/site/ddc/about/press-releases/2026/pr-042326-Brooklyn-BBJ-Facility.page · 275 Atlantic Ave, former Brooklyn House of Detention; 15 stories, 295 ft; 1,040 beds; 30,000+ sq ft community space with entrances on Atlantic; design-build Tutor Perini + HOK; NYC DDC; substantial completion spring 2029. · hero, §5 table, §8 Atlantic Ave, §13 card, FAQ (jail delay).
+- same · WebFetch · https://www.bkreader.com/policy-government/brooklyn-jail-on-atlantic-avenue-tops-out-12188199 · Topped out April 22 2026 (published Apr 24); construction began Nov 2024. · §5 table, sources.
+- "site:reddit.com Boerum Hill Atlantic Avenue jail construction OR fire alarm OR landlord" · WebSearch → WebFetch · https://www.bkreader.com/featured-news/atlantic-avenue-jail-demolition-rattles-residents-8494175 · March 22 2024: demolition by NorthStar; resident Sandy Balboza: "It's demolition material that we shouldn't be breathing."; Boerum Place resident reported building shaking 3-4 times a day; CM Restler: "I think we've gotten off to a very rocky start here." · §8 Atlantic Ave quote, Q&A (vibration).
+- same search · WebFetch · https://www.fox5ny.com/news/brooklyn-residents-say-overnight-jail-construction-is-disrupting-lives · April 9 2025: residents report overnight jackhammering until 5 a.m., floodlights; completion 2029. · context for §8/§11 scheduling (not quoted).
+
+### Local fires
+- "Boerum Hill fire FDNY building 2025 Smith Street OR Atlantic Avenue OR Bergen Street" · WebSearch → WebFetch · https://brooklyneagle.com/120874/fire-sweeps-boerum-hill-gym-12-injured/ · 96 Boerum Place (some reports 98), two-story mixed-use, fire started on 2nd floor of UFC Fit gym, spread to space between roof and top floor; 12 injured incl. 9 firefighters; 200+ firefighters; five alarms; Acting Chief John Hodgens: "The roof was some kind of tennis court that had foam insulation," / "Once that starts burning, it's hard to extinguish."; water pressure lost early. · §5 (core angle), Field Notes, AI reality check, Q&A (roof deck), FAQ (top-floor void).
+- same · WebFetch · https://www.audacy.com/1010wins/news/local/12-injured-in-five-alarm-fire-at-brooklyn-building-fdny · Date March 14 2022, ~10:30 a.m.; "mixed occupancy building"; 1010 WINS labels it Cobble Hill (border street). · §5 date, sources.
+- same · WebFetch · https://brooklyn.news12.com/fdny-1-dead-3-others-including-infant-injured-in-boerum-hill-fire · Feb 4 2024, 178 Bond St (Gowanus Houses), six-story building, fire in first-floor back bedroom; 1 dead (67), 3 injured incl. 2-year-old; cause undetermined. · §5.
+- "Boerum Hill Association fire safety OR fire news 2026" · WebSearch → WebFetch · https://brooklyn.news12.com/2024/02/06/gowanus-houses-community-nearby-neighbors-face-aftermath-of-bond-street-fire/1Bkkq7XTCfCwIssqFXYjR2 · Firefighters handed out 50+ free smoke detectors at the C-Town across from 178 Bond St. · §5.
+- "reddit Boerum Hill building fire alarm going off" · WebSearch → WebFetch · https://patch.com/new-york/brooklyn/fire-erupts-wyckoff-gardens-community-center-building-says-fdny · June 16 2017, 272 Wyckoff St, 21-story Wyckoff Gardens building, third-floor AC unit fire, smoke into lower floors, no injuries; resident Quennel Gibson: "I got out of the building when I smelled the smoke," · §5.
+- https://brooklyn.news12.com/fire-damages-21-story-apartment-building-on-wyckoff-street-in-brooklyn · March 29 2022 headline only (12th-floor windows blown out), no detail available — NOT used.
+
+### Public housing / new affordable housing
+- "Gowanus Houses Wyckoff Gardens NYCHA fire safety Boerum Hill 2025" · WebSearch → WebFetch · https://nychajournal.nyc/216m-apartment-modernization-coming-to-gowanus-houses-wyckoff-gardens/ · Gowanus Houses 15 bldgs/1,139 apts; Wyckoff Gardens 3 bldgs/529 apts; $216M modernization funded via Gowanus Rezoning agreement; Mega/Technico JV; NYCHA board June 26 2024; no fire alarm scope mentioned. · §5 table (dollar figure removed from page to respect the no-$ rule), §13 card. Page states NYCHA runs its own work.
+- "Boerum Hill new residential tower…" (same search) · WebFetch · https://www.nyc.gov/site/hpd/news/016-25/from-parking-lot-new-affordable-housing-plans-announced-transform-boerum-hill-neighborhood · April 24 2025: Third Ave between Bergen and Wyckoff, ~68 affordable senior units, ~1,700 sq ft retail incl. pharmacy, ~1,000 sq ft community facility; Cornerstone, St. Nicks Alliance, Stanton Street. · §5 table, §7 healthcare/senior, §8 east edge, §11 construction.
+
+### Schools / institutions (city-run — not claimed)
+- "P.S. 261 Philip Livingston 314 Pacific Street Boerum Hill school" · WebSearch → WebFetch · https://insideschools.org/school/15K261 · P.S. 261 Zipporiah Mills, 314 Pacific St, Pre-K–5, 502 students (2024-25), own building. · §7 schools (DOE — not ours).
+- "Brooklyn High School of the Arts 345 Dean Street" · WebSearch → WebFetch https://www.schools.nyc.gov/find-a-school/school/index/K656 · EMPTY (page content truncated/navigation only); location taken from Wikipedia (Dean St & Third Ave). · §7.
+
+### Community / SERP
+- Reddit (r/Brooklyn, r/AskNYC, r/boerumhill) via "reddit Boerum Hill building fire alarm going off" and site:reddit.com query · WebSearch · no Reddit threads returned: EMPTY (not accessible / no relevant threads). Resident voice taken from BK Reader, FOX 5, Patch instead.
+- Google PAA / PASF / Answer the Public / Google AI Overview / Bing / DuckDuckGo / Yelp 1-3★ for "fire alarm installation Boerum Hill": EMPTY (not accessible in build env). AI reality-check claims written from common generic AI/lead-site answers (Angi/HomeAdvisor/Fixr named) and corrected with FDNY sources from "## NYC hubs".
+- Curbed / The City / Brownstoner Boerum Hill fire alarm items: none surfaced in searches — EMPTY.
+
+### Images
+- 11 page-specific files images/fire-alarm-installation/fire-alarm-installation-boerum-hill-brooklyn-ny-*.webp, each viewed; no readable building numbers, plates, documents or customer faces (technicians in branded uniforms only; one office shot has small, blurred background workers). No substitutes needed.
+
+### Question register (this page)
+- Q&A (§9): We want to turn a landmarked Atlantic Avenue shop between Hoyt and Nevins into a wine bar. Does the LPC need to see the fire alarm plans?
+- Q&A (§9): The broker says the building on Smith Street "has a fire alarm." What paperwork proves that before we sign?
+- Q&A (§9): Our Bergen Street condo board got three proposals that look nothing alike. How do we compare them fairly?
+- Q&A (§9): How can a gallery owner on Bergen Street check that the company servicing the panel is legitimate?
+- Q&A (§9): Our general contractor on a Dean Street restaurant build-out wants his own electrician to wire the fire alarm. Is that allowed?
+- Q&A (§9): Can the super of a Pacific Street rental replace a hallway smoke detector that is chirping?
+- Q&A (§9): Our 1850s building in the historic district has no hung ceilings. Where does the new fire alarm cable go?
+- Q&A (§9): Could vibration from the jail construction on Atlantic Avenue be causing our panel's troubles?
+- Q&A (§9): The roof deck over our two-story Boerum Place building is used for events. Does the space under it need detection?
+- Q&A (§9): A cafe tenant on Atlantic Avenue moved its espresso bar under a smoke detector, and now the alarm trips. Whose job is fixing that?
+- Q&A (§9): Who calls the FDNY when the building panel on Nevins Street shows trouble and the landlord lives out of state?
+- Q&A (§9): Two buildings on Hoyt Street share one cellar under both storefronts. Can one fire alarm cover them?
+- Q&A (§9): Every time the restaurant downstairs on Smith Street fires up the grill, our building alarm goes off. What can residents do?
+- Q&A (§9): The previous company left our State Street building's panel in trouble for months. How do we switch without a gap?
+- FAQ (§17): Does Abstract Enterprises Security Systems have an office in Boerum Hill?
+- FAQ (§17): Is a new strobe on the outside of a landmarked Boerum Hill storefront allowed?
+- FAQ (§17): Does a Smith Street restaurant need its own fire alarm panel, or can it join the building system?
+- FAQ (§17): Will the jail construction at 275 Atlantic Avenue delay our fire alarm project next door?
+- FAQ (§17): Do we need a fire alarm for a fitness studio going into a former shop on Atlantic Avenue?
+- FAQ (§17): Who holds the fire alarm records when a Boerum Hill storefront changes tenants every few years?
+- FAQ (§17): Can a Boerum Hill condo board schedule the FDNY acceptance test around residents' work hours?
+- FAQ (§17): Is the space above a top-floor ceiling in an older Boerum Hill building something the survey should check?
+- FAQ (§17): Does a gallery in a converted Bergen Street factory need different detectors than an office?
+- FAQ (§17): What happens to the old panel when a Boerum Hill building replaces its fire alarm?
+- FAQ (§17): How early should a Boerum Hill business start on the fire alarm before opening?
+- FAQ (§17): How fast can a technician get to a Boerum Hill building after a call?
+## Borough Park, Brooklyn — /fire-alarm-installation-borough-park-brooklyn-ny (commercial rebuild research, 2026-11-15)
+
+Neighborhood rebuild (NFPA 72 commercial only; stay-in-area rule — only the Brooklyn area phrase "fire alarm installation Brooklyn" used). Regulatory base (TM-1, PE/RA sealed drawings, FDNY Fire Alarm Company Certificate, S-97 via NICET II+ or NYC master/special electrician, Fire Alarm Inspection Unit at 9 MetroTech Center, B-45, ~20-24 weeks, initial review up to 8 weeks, FA-27 Notice of Defect, central station rules, BC 907 occupancy triggers) reused as facts from "## NYC hubs" (FDNY tips PDF, FDNY company certificate FAQ, FA-27 instructions, FDNY bulletin 01-01-12, ny-engineers BC 907 summary). The older "## Borough Park (factory research, 2026-11-13)" entries were re-verified below before reuse; unverified ones were dropped. Each entry: exact query · platform · URL · finding · section used.
+
+Unique angle chosen: Borough Park's commercial fire alarm work is dominated by assembly and educational occupancies (shuls, shtiebels in converted houses, yeshivas and girls' schools, simcha/catering halls) that sit on residential blocks and fill to capacity on a weekly and holiday calendar — so design, filing, installation, testing and acceptance are scheduled around Shabbos and Yom Tov occupancy, and mixed-use avenue buildings (stores with second-floor offices and apartments above) form the second big group.
+
+### Local fires (verified)
+- "Borough Park catering hall wedding hall fire" · WebSearch → WebFetch · https://www.cbsnews.com/newyork/news/paradise-manor-brooklyn-catering-hall-fire · May 2, 2023: four-alarm fire at Paradise Manor catering hall on New Utrecht Avenue; 180 firefighters/EMS; nobody inside when crews arrived (about a minute after the call), fire on 1st and 2nd floors, spread to 2nd and 3rd floors of commercial building next door; D train service interrupted; Chief Kevin Woods: "It's an older building, and with this type of construction, there are many voids." · §5 Why Borough Park, facts table, §7 simcha halls, §8 New Utrecht, AI check (unoccupied hours), landmarks.
+- same query · WebFetch · https://patch.com/new-york/windsorterrace/kitchen-fire-empties-haredi-wedding-hall-borough-park · Aug 6-7, 2015 (~12:11 a.m.): basement kitchen fire under Tiferes Rikva wedding hall, 1263 38th Street (hall seats 630; building shared with Yeled V'Yalda Early Childhood Center), four-story brick building, hall emptied during a wedding, no injuries; FDNY: "It was a kitchen fire." · §7 simcha halls (kitchen under assembly + shared early-childhood use), Q&A technical.
+- "Borough Park Brooklyn yeshiva synagogue fire alarm FDNY" · WebSearch → WebFetch · https://www.jns.org/u.s.-news/five-injured-at-fire-in-stavnitzer-shul-in-brooklyn · Fire ~6:20 a.m. Friday (article Mar 31, 2024) at 1847 60th St near 18th Ave, Darkei Chaim Stavnitz synagogue; rabbi's family rescued from upper windows; five injured; FDNY fire marshals: accidental, cooking; Lidel Perlstein: "Everything was engulfed in flames, smoke and fire, so they couldn't go down." · §5 (quote), §7 shul-with-residence, Field Notes context, AI check.
+- same · WebFetch · https://abc7ny.com/simcha-felder-synagogue-fire-brooklyn-borough-park/8821255 · Dec 16, 2020: fire in Congregation Bais Aharon on 18th Avenue, a house of worship in a residential home; 101-year-old mother of State Sen. Simcha Felder rescued with a mother and two children; Deputy Chief James Boylan: "We had a fire in the first floor of a two-story house of worship." · §7 shtiebels in houses, §8 18th Ave.
+- same · WebFetch · https://www.audacy.com/1010wins/news/local/faulty-wiring-causes-fire-at-brooklyn-synagogue-4-injured · Apr 30, 2023: synagogue fire just before 2 a.m., first floor of a three-story building on 56th Street; FDNY: accidental, faulty electrical wiring; 4 hurt incl. 3 firefighters. · §5 facts table, Q&A.
+- re-verified factory entry · WebFetch · https://brooklyn.news12.com/four-families-displaced-after-3-alarm-fire-in-borough-park + https://abc7ny.com/post/fire-burns-store-residents-evacuate-apartments-borough-park-brooklyn/16266560/ · Apr 28, 2025 ~2 a.m.: 3rd alarm, Savon Shoes, 3901 13th Ave, three-story building, store below and apartments above; "Residents living above the store had to evacuate as thick smoke filled the apartments"; 130+ FF/EMS; 4 households (15 adults, 5 children) displaced; FDNY Asst. Chief Kevin Brennan: "a lot of stock, and the rear of the building didn't have any windows." · §5, facts table, §8 13th Ave, Q&A landlord/tenant.
+- re-verified · WebFetch · https://brooklyn.news12.com/2026/04/13/fdny-crews-are-battling-a-three-alarm-fire-at-businesses-in-borough-park/21HYLObAfudiovFWujmpJ6 · Apr 12, 2026: three-alarm fire, 5311 Fort Hamilton Pkwy (53rd-54th Sts); first reported from first-floor e-bike shop, then determined to have started in the clothing warehouse next door "where boxes caught fire"; 46 units, 141 personnel; DOB full vacate orders on 5311 and 5313; 7 adults + 3 children displaced; resident: "My kids were crying, my wife was crying." · §5 facts, §8 Fort Hamilton Pkwy, §7 storage.
+- re-verified · WebFetch · https://brooklyn.news12.com/basement-fire-tears-through-borough-park-building-several-firefighters-hurt · Apr 7, 2026 ~7:45 p.m.: 6007 Fort Hamilton Pkwy, three-story mixed-use (businesses lower, residents upper), started in basement, spread to first floor, under control after 11 p.m.; six firefighters evaluated, one hospitalized. (Alarm level not stated in article — factory note "third alarm" dropped.) · facts table, §8.
+- "Borough Park yeshiva building fire evacuated students FDNY" · WebSearch → WebFetch · https://brooklyn.news12.com/2025/10/19/27-injured-in-borough-park-fire/4WQaTkR18ohKy2NPulnI0O · Oct 19, 2025: fire on first floor of a four-story building on 54th Street; 27 minor injuries per FDNY, many young children (smoke inhalation); parents on fire escapes holding babies; over an hour to control; cause unknown. · §5 facts table (large families on upper floors).
+- factory entry (not re-fetched) · https://www.boropark24.com/news/fdny-urges-caution-as-battery-fires-keep-rising · re-fetched: Jul 27, 2025: structural fires "up 26 percent compared to the same time last year" — article addresses New Yorkers generally (citywide FDNY figure, NOT Borough Park-specific); advice: keep batteries outside, don't charge overnight. · §5 (described as citywide), FAQ e-bike.
+
+### Corridors / commercial / building stock
+- "13th Avenue Borough Park shopping corridor businesses Business Improvement District" · WebSearch → WebFetch · https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-boroughpark.pdf · NYC SBS Avenue NYC Commercial District Needs Assessment with Boro Park Jewish Community Council (fieldwork Sept 2024-June 2025; inventory Oct-Dec 2024): corridors 39th St, 13th, 14th, 15th, 16th, 18th Aves and New Utrecht Ave; 899 storefronts; 11.3% vacancy (NYC corridor avg 12.1% June 2025); 76% of merchants rent; 39th Street dominated by warehouses; low lighting on New Utrecht Ave under the elevated train; congested sidewalks from deliveries; 97,340 residents; 50% aged 19 or younger; shopper quote "Everything is available close by / local and accessible." · §5 facts table, §8 corridors, §7 warehouses.
+- same · WebFetch · https://www.boropark24.com/news/boropark24-exclusive-report-inside-the-hustle-and-heart-of-13th-avenue · Feb 24, 2025 (Y.M. Lowy): about 175 stores on 13th Ave between 36th and 55th Sts; "hundreds of business offices on the second floors"; 8 supermarkets, 37 eateries; nearly 20 vacant storefronts; last-minute shopping before Erev Yom Tov is intense; quote "Boro Park's most valuable asset is undoubtedly 13th Avenue." · §8 13th Ave, §7 second-floor offices, facts table.
+- "Borough Park Brooklyn Community District 12 population yeshivas" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Borough_Park,_Brooklyn · boundaries (Kensington/Green-Wood N, Bensonhurst S, Dyker Heights SW, Sunset Park W, Flatbush E, Mapleton SE); CD12; 13th Ave strip ~39th-55th Sts; 16th and 18th Aves shopping districts; D (West End el, 50th St, 55th St, Fort Hamilton Pkwy stations), F along McDonald Ave, N at Fort Hamilton Pkwy; Maimonides 679 beds, Level 2 trauma; Borough Park library 1265 43rd St; Blythebourne Station USPS 1200 51st St; eruv ~225 blocks; mikvehs throughout; Satmar boys' schools on 53rd St (13th-14th Aves) and 54th St & Fort Hamilton Pkwy; Bais Ruchel girls' school on 14th Ave (53rd-54th); Bobov headquarters; FDNY Engine 282/Ladder 148 at 4210 12th Ave; Engine 247 at 1336 60th St; NYPD 66th Precinct 5822 16th Ave; Hatzolah, Shomrim volunteer groups; 1992 special zoning allowing up to 65% lot coverage; William H. Reynolds named area 1902; Blythebourne 1887. · §5, §7, §13 landmarks, AI check.
+- "Maimonides Medical Center 4802 Tenth Avenue" · WebSearch → WebFetch · https://brooklyneagle.com/articles/2024/01/05/maimonides-expands-its-neonatal-intensive-care-unit/ · Address 4802 10th Ave; NICU expanded by 17 beds to 48 (Jan 2024), >7,000 sq ft. · §7 healthcare, §13.
+- Competitor SERP page · WebFetch · https://masterfirepreventionsystem.com/blog/fire-protection-services-for-kosher-restaurants-in-borough-park-brooklyn/ · competitor covers kitchen suppression for kosher restaurants, bakeries, catering kitchens, synagogues, yeshivas; theme: long cooking schedules before Shabbat/holidays. Intent only (NEW cluster: kitchen hood suppression monitoring) — no wording used. · §7, integrations.
+
+### Holiday / community fire safety
+- "Boro Park Chanukah menorah fire safety FDNY outreach" · WebSearch → WebFetch · https://www.boropark24.com/news/boro-park-emergency-volunteers-remind-families-to-practice-chanukah-fire-safety · Dec 19, 2025: Boro Park Hatzolah (Shloime Rosenberg), Chaverim coordinator (Shloime Fleishman): don't leave menorahs/candles/pots unattended, put out the menorah when leaving/sleeping, keep away from curtains, have working smoke alarms; "Fire can double in size every 30 to 60 seconds." · §5, AI check (holiday load), FAQ.
+- same · WebFetch · https://cb14brooklyn.com/fire-safety-during-chanukah-2024/ · Dec 23, 2024: Community Board 14 posted FDNY "Fire Safety Tips for Jewish Observances" in English, Yiddish and Hebrew. · Sources only.
+- "FDNY Shabbos hot plate fire safety tips Jewish observances" · WebSearch → WebFetch · https://fdnysmart.org/sabbath-and-jewish-holiday-food-preparation-safety/ · FDNY Smart: "Stay in the kitchen–don't leave cooking food unattended"; keep combustibles away from cooking area. (No hot-plate-specific text on this page.) · §7 simcha hall kitchens, Q&A.
+- factory entry re-used as context only (nearby Midwood, 2015 hot plate fire) · https://www.cbsnews.com/amp/newyork/news/fdny-7-children-killed-in-brooklyn-house-fire · NOT used on page (single-family home, outside scope).
+- factory entry · https://www.boropark24.com/news/boro-park-jewish-community-council-and-senator-felder-announce-fire-safety-awareness-initiative · BPJCC + Sen. Felder + Red Cross free smoke detector program (homes) — residential smoke alarms, outside NFPA 72 commercial scope; NOT used.
+
+### AI Overview / cost guides
+- "fire alarm system installation cost guide Angi Fixr HomeAdvisor" · WebSearch · https://www.homeadvisor.com/cost/safety-and-security/smoke-co-detector-prices , https://match.angi.com/cost/safety-and-security/smoke-co-detector-prices , https://www.fixr.com/costs/fire-protection · consumer cost guides are built around smoke/CO detectors in homes and national averages — page names them as not fitting a filed commercial NYC job; no numbers repeated. · §10.5 AI check.
+
+### SERP sources
+- "fire alarm installation Borough Park Brooklyn" · Firecrawl search · results: our own old page, Yelp "Fire Protection Services near Borough Park" list, FDNY approved companies list PDF (https://www.nyc.gov/assets/fdny/downloads/pdf/business/approved-companies-fire-alarm-system-inspection-testing-service.pdf), competitor kosher-restaurant page, directories · intent: local provider + FDNY-approved company lookup (NEW: "check the FDNY approved companies list") · §Choosing.
+- Google PAA for "fire alarm installation Borough Park": EMPTY (not accessible)
+- Google PASF / related searches: EMPTY (not accessible)
+- Answer The Public: EMPTY (not accessible)
+- Google AI Overview: EMPTY (not accessible) — AI reality-check claims written from common generic AI answers, corrected with FDNY sources.
+- Bing / DuckDuckGo PAA: EMPTY (not accessible)
+- Reddit "reddit Borough Park fire alarm building shul OR yeshiva" · WebSearch · no r/Brooklyn / r/AskNYC / r/BoroughPark threads on commercial fire alarms surfaced: EMPTY
+- Yelp 1-3★ for fire alarm companies near Borough Park: EMPTY (Yelp list page surfaced in SERP; reviews not accessible)
+- Hamodia / Yeshiva World News: search surfaced YWN result https://www.theyeshivaworld.com/news/general/6276/boro-park-fire-in-building.html (undated, not fetched) — EMPTY (not used)
+- Brownstoner / The City / Patch (beyond Tiferes Rikva 2015) for Borough Park fire alarm topics: EMPTY
+
+### Question register (this page)
+Q&A (h3 ending "?"):
+1. We are opening a girls' school in a converted 14th Avenue building. Why does the fire alarm design start before the school applies for anything else?
+2. Our shul's board wants one number for a fire alarm before the Yamim Noraim appeal. What can a fire alarm company honestly give us?
+3. A simcha hall on New Utrecht Avenue got two quotes that differ by a wide margin. How do we compare them fairly?
+4. Which papers prove that a Borough Park fire alarm company is allowed to touch our panel?
+5. Our gabbai is handy and wants to replace the old pull station by the shul entrance himself. Is that allowed?
+6. Our heating contractor offered to move the duct detector during a boiler job on 16th Avenue. Should he?
+7. The study hall on our second floor has a high ceiling with exposed beams. Which detection suits it?
+8. Our catering hall cooks in the basement under the dining room. How should the kitchen be covered?
+9. Can a fire alarm in a Borough Park shul be set up so that it does not need anyone to touch the panel on Shabbos?
+10. We rent the second floor over a 13th Avenue store for offices. Whose fire alarm is it, ours or the landlord's?
+11. The yeshiva rents its building from a family trust. Who signs the FDNY filing?
+12. Our building on 18th Avenue keeps going into alarm when the mikvah heater room steams up. What is going on?
+13. The FDNY fined our hall after repeated unwanted alarms during weddings. How do we stop it from happening again?
+14. The previous vendor stopped answering and our panel on Fort Hamilton Parkway has shown trouble since Pesach. Where do we start?
+FAQ:
+1. Does Abstract Enterprises Security Systems have an office in Borough Park?
+2. Which Borough Park buildings are most likely to need a code-required fire alarm?
+3. Can fire alarm work in an occupied yeshiva be done without closing classes?
+4. How do we schedule the FDNY acceptance test around Shabbos and Yom Tov?
+5. Does a small shtiebel in a converted house need a building fire alarm?
+6. Should e-bike charging be allowed in a Borough Park mixed-use building's cellar?
+7. What records should a Borough Park simcha hall keep at the premises?
+8. Will a new fire alarm in our shul be loud enough over a full crowd on Simchas Torah?
+9. Can our school keep its old central station when the panel is replaced?
+10. How early should a 13th Avenue store plan the fire alarm for a new lease?
+11. Who should get the panel passwords when a Borough Park building changes management?
+12. How fast does Abstract Enterprises Security Systems respond to a Borough Park request?
+
+## Brighton Beach, Brooklyn — /fire-alarm-installation-brighton-beach-brooklyn-ny (commercial rebuild research, 2026-11-15)
+
+Commercial (NFPA 72) rebuild research. Regulatory base (PE/RA sealed drawings, TM-1, FDNY Fire Alarm Company Certificate, S-97, FAIU at 9 MetroTech Center, ~20-24 weeks, FA-27 $105, BB 2024-001, LL195, central station bulletin, BC 907 thresholds) reused as facts from "## NYC hubs" and the 2026-11-13 Brighton Beach factory section (re-checked where reused). Each entry: exact query · platform · URL · finding · section used.
+
+**Unique angle:** the flood line. Brighton Beach took up to 15 ft of sea and sewer water in Sandy; cellars held stock, prep, equipment and often the fire alarm panel. Appendix G (Local Law 100 of 2013) now sets where fire alarm controls go in flood zones. Second thread: boardwalk banquet halls / supper clubs (assembly, 300-occupant / cabaret trigger, under-boardwalk fires). Third: an older, multilingual population (30.3% aged 60+; nursing home flooded in Sandy).
+
+### Flood / Sandy
+- "Brighton Beach Hurricane Sandy basement flooding apartment buildings electrical damage" · WebSearch → WebFetch · https://forward.com/articles/186254/default.htm · Forward, Oct 2013: Brighton Beach BID exec. dir. Yelena Makhnin: "I don't know of one business not affected by the hurricane." / "Everything in the basement became garbage." Shop basements used for storage, equipment and food prep ruined; Vintage Food discarded inventory; Tatiana Grill's larger restaurants had considerable kitchen damage; 56 emergency loans in Brighton and Manhattan Beach; Shorefront Y relief center gave out 3,500 heaters, 62,000 blankets, 22,000 food packages. · §5 Why, flood section, Field Notes.
+- same query · WebFetch · https://www.brownstoner.com/brooklyn-life/power-federal-aid-reach-southern-brooklyn · Nov 5 2012: power back in most places by Nov 4; buildings pumping out basements, ruined furniture on sidewalks; AT&T satellite truck; no subway to the shore. · §5 facts table.
+- "Brighton Beach Business Improvement District ... el Q B" · WebSearch → WebFetch · https://hesterstreet.org/wp-content/uploads/2017/07/Brighton-Beach_Final-Report.pdf · Brighton Neighborhood Association / LISC NYC / Hester Street, "Brighton Beach: Strengthening Community Resiliency" (Feb 2016): up to 15 ft of sea and sewer water; many residents without electricity nearly a month, heat/hot water out; businesses "paralyzed by the lack of power"; most of the area in hurricane evacuation zones 1 or 2 and FEMA high-risk flood zone; ~85% of housing built 1939-1969; housing = bungalows, prewar mid-rise multifamily, tower-in-the-park high-rises, 1-3 family, new multifamily; brick mixed-use on the avenues; population 35,547; 30.3% aged 60+ (12% borough); ~70% foreign-born; ~60% speak English less than "very well"; BID covers Brighton Beach Ave from Ocean Parkway ~25 blocks under the el. · §5, §7, §8, flood section, Q&A, FAQ.
+- "Brighton Beach high-rise seniors stranded no elevator Sandy" · WebSearch → WebFetch · https://forward.com/news/breaking-news/175976/brighton-beach-nursing-home-reopens-its-doors-six/?amp=1 · Shore View Nursing Home flooded and heavily damaged; reopened about six months after Sandy; 180+ residents placed in facilities across NYC, Westchester, LI; renovated with storm measures. · §7 health care, FAQ.
+- same · WebFetch · https://www.carescout.com/nursing-homes/new-york/brooklyn/shore-view-nursing-rehabilitation-center · address 2865 Brighton 3rd Street (bed count is AI-generated on that page — NOT used). · §7, §13.
+- same · WebFetch · https://www.tabletmag.com/sections/news/articles/stranded-in-coney-islands-high-rises · Nov 6 2012: dark stairwells, residents in their 60s climbing 12 flights; Coney Island high-rises (not Brighton) — used only as general context, not quoted. · not used on page.
+- "Brighton Beach flood rising rates" · WebFetch · https://bklyner.com/caught-between-rising-waters-and-rising-rates-in-brighton-beach · Bklyner Dec 21 2018: on Brighton Seventh Street floodwater reached just below second-story windows. · §5 facts table.
+- "Building Resiliency Task Force Sandy recommendation fire alarm" · WebSearch → WebFetch · https://www.urbangreencouncil.org/wp-content/uploads/2022/11/2013_brtf_summaryreport_0.pdf · BRTF summary (June 2013; convened Dec 19 2012; 200+ volunteers): "nearly 20,000 buildings were damaged by flooding and high winds"; 71,000 buildings in the new 100-year flood zone; Proposal 3 relocate & protect building systems ("essential building equipment is often located on these lower floors"); Proposal 6 backup fire safety communication ("can cut off communication between buildings and the Fire Department"). · flood section, AI check.
+- "NYC Building Code Appendix G flood resistant construction ... fire alarm" · WebSearch → WebFetch · https://www.nyc.gov/assets/buildings/codes-pdf/cons_codes_2022/2022BC_AppendixG_FloodResistantWBwm.pdf · G304.1.1 item 5.1: sprinkler control valves, standpipe valves, fire pumps, sprinkler alarm panels at/above DFE (exception: serving only spaces below DFE); item 5.2: where the zoning indicator panel at the main entrance is at or below 5 ft above DFE, at least one secondary panel, with controls and power supplies at least 5 ft above DFE; G102.1 item 10: alterations of pre-FIRM buildings can't increase noncompliance; 10.2.2.1 in-kind replacement of equipment and fire protection systems permitted; item 8 substantial improvement = full compliance. · flood section, Q&A, FAQ, AI check.
+- same · WebFetch · https://www.nyc.gov/assets/buildings/local_laws/ll100of2013.pdf · Local Law 100 of 2013 added the Appendix G location rules for fire protection equipment in flood zones (scan partly garbled — only the general point used). · flood section.
+- https://www.nyc.gov/office-of-the-mayor/news/374-13/... · WebFetch · EMPTY (page shell only, not accessible).
+- https://www.nyc.gov/html/sirr/html/community/south-brooklyn.shtml · WebFetch · EMPTY (not accessible, client error).
+
+### Local fires
+- "Brighton Beach Avenue fire 2025 2026 store building FDNY" · WebSearch → WebFetch · https://brooklyn.news12.com/2-alarm-fire-in-breaks-out-in-brighton-beach-apartment · Dec 20 2025, 2822 Brighton 8th Street: two-alarm, 106 fire/EMS, 25 units; neighbors on 3rd/4th floors knocked on doors; "I heard a knock on my door and they said 'fire fire get out get down'"; out ~9:30 p.m. · §5, AI check.
+- same · https://brooklyn.news12.com/red-cross-49-people-including-15-children-displaced-by-brighton-beach-fire · 49 displaced (34 adults, 15 children), 12 households, fourth floor. · §5 table.
+- same · https://brooklyn.news12.com/over-140-firefighters-battle-brighton-beach-blaze · March 28 2026 ~3:45 a.m., vacant building on Brighton 5th Walk; 140+ firefighters; DOB complaint "A long-vacant building has been illegally occupied by 20, 30 people since Aug. 2025", closed Jan 5 after "No access"; neighbor Fayyaz Rana: fire destroyed his basement and apartment. · §5 table, §7 bungalow walks.
+- same · https://brooklyn.news12.com/2024/02/05/brighton-beach-bakery-closes-for-the-day-after-fire/jRT0qYL6nsT976T3crp72 · Feb 5 2024, The Georgian Star bakery, 1307 Avenue Z: small electrical fire in the basement, owner blamed an old wire; one firefighter minor injury. · §5 table, repair section, §8.
+- same · https://brooklyn.news12.com/fdny-lithium-ion-batteries-burning-e-bikes-found-in-brighton-beach-apartment-fire · Sept 10 2024 ~4 p.m., sixth floor; Battalion Chief Michael Stone: "The fire condition wasn't that severe, but the smoke condition was"; super Alberto Nando: "This is the second fire here."; 4 to Coney Island Hospital. · §7 multifamily.
+- re-check of factory entry · WebFetch · https://www.brooklynpaper.com/e-bike-battery-fire-kills-man-brighton-beach · Oct 16 2024, 3110 Brighton 3rd St, second floor, 69-year-old man died; Commissioner Robert Tucker: "Unregulated lithium-ion batteries kill people." · §7 multifamily.
+- "Sheepshead Bites Brighton Beach Avenue fire restaurant boardwalk" · WebSearch → WebFetch · https://www.brooklynpaper.com/fdny-says-discarded-cigarette-caused-massive-fire-that-devastated-brighton-beach-boardwalk/ · Tatiana, 3152 Brighton Sixth St: two-alarm, started under the boardwalk ("carelessly discarded cigarette under boardwalk"), 100+ firefighters. Date confirmed April 14 2019 via https://brooklyn.news12.com/fire-officials-brighton-beach-boardwalk-fire-sparked-by-lit-cigarette-40310899 (dated April 15 2019). · §8 boardwalk, field notes, AI check.
+- same · WebFetch · https://qns.com/2007/02/fire-ravages-famed-brighton-beach-nightspot-fire-started-under-boardwalk-considered-very-similar-to-tatiana-restaurant-blaze/ · Jan 23 2007 Winter Garden, 3162 Brighton 6th St, two-alarm, began under the boardwalk; Tatiana four-alarm Sept 17 2003 also started under the boardwalk and spread to upper floors; the two restaurants share an adjoining building. · §8, landmarks.
+- Sheepshead Bites (site) — EMPTY (no Brighton fire alarm articles surfaced; outlet archived).
+
+### Assembly / commercial / landmarks
+- "Tatiana restaurant Brighton Beach boardwalk Volna" · WebFetch · https://www.timeout.com/newyork/restaurants/tatiana-restaurant-and-nightclub · "boardwalk restaurant and bar", "glitzy shows", dancing after dinner, 3152 Brighton 6th St. · §8, §13.
+- same · https://www.nyctourism.com/places/volna · Volna, 3145 Brighton 4th St, "right on the boardwalk". · §8, §13.
+- re-check · https://www.timeout.com/newyork/restaurants/national-restaurant · National, 273 Brighton Beach Ave between Brighton 2nd and 3rd: "vast, gaudy Brighton supper club", split-level hall, stage, wooden dance floor. · §8.
+- re-check · https://www.nyctourism.com/places/master-theater · Master Theater, 1029 Brighton Beach Ave, capacity 1,326, shows in Russian. · §8, §13.
+- "Riegelmann Boardwalk ... landmark" · WebSearch → WebFetch · https://www.nyc.gov/site/lpc/about/pr2018/051518.page · Scenic Landmark designated May 15 2018; 2.7 miles from W 37th St to Brighton 15th St; first section opened May 15 1923; LPC Chair Meenakshi Srinivasan quote. · §13, FAQ.
+- "Trump Village Warbasse ... boundaries" · WebSearch → WebFetch · https://www.cityneighborhoods.nyc/brighton-beach · boundaries Neptune Ave (N), boardwalk/ocean (S), Coney Island Ave (E), Ocean Parkway (W); B and Q above Brighton Beach Ave; Brighton Towers and Trump Village postwar towers (Trump Village sits at the Coney Island edge west of Ocean Parkway); Brighton Beach Hotel 1878; Brighton Beach Baths 1907. · §5, §7, §13.
+- "Oceana condominium Brighton Beach" · WebFetch · https://www.cityrealty.com/nyc/brighton-beach/oceana-40-oceana-drive-west/42620 · 40 Oceana Drive West: 12 stories, 75 units, built 2002, condo with pool and fitness center (one building of the Oceana complex). · §7 condos.
+- "DOB code notes place of assembly" · WebFetch · https://www.nyc.gov/assets/buildings/pdf/code_notes_place-of-assembly.pdf · PA Certificate of Operation where 75+ gather indoors; fire alarm with emergency power at occupant load 300+ or where used as a cabaret (BC 907.2.1); restaurants are assembly spaces. · §8, Q&A, FAQ.
+- Census Reporter CD13 · WebFetch · https://censusreporter.org/profiles/79500US3604313-nyc-brooklyn-community-district-13-coney-island-brighton-beach-puma-ny/ · 116,992 residents, median age 48.3, 56.8% foreign-born, 67.5% other language at home (ACS 2024). · §5 table.
+
+### Regulatory (re-used from ## NYC hubs; URLs as listed there)
+- FDNY Tips for Fire Alarm Systems https://www.nyc.gov/assets/fdny/downloads/pdf/business/tips-fire-alarm-systems.pdf · PE/RA plans, TM-1, installer = NYC licensed electrician or FDNY-certified fire alarm company, ~20-24 weeks, initial review up to 8 weeks, central station active before inspection, FAIU 9 MetroTech, S-97/S-98 on site, smoke detectors 36 in from diffusers, fans >2000 cfm shut down.
+- FDNY Fire Alarm Company Certificate FAQ https://www.nyc.gov/assets/fdny/downloads/pdf/business/fire-alarm-company-cert-faq.pdf · company cert required; one principal S-97; S-97 = NICET II+ or NYC master/special electrician.
+- DOB BB 2024-001 https://www.nyc.gov/assets/buildings/bldgs_bulletins/bb_2024-001.pdf · in-kind repair/replacement by licensed electrician without changing function needs no new plans; relocating or replacing the panel, technology upgrades, change of occupancy do.
+- FDNY LL195 FAQ https://www.nyc.gov/assets/fdny/downloads/pdf/business/local-law-195-faq.pdf · since June 2 2019 new fire alarm applications go to FDNY without separate DOB filing step.
+- FDNY central office bulletin https://www.nyc.gov/assets/fdny/downloads/pdf/codes/bulletin-no-01-01-12-central-office-connection.pdf · central station change requires reinspection.
+- FDNY FA-27 https://www.nyc.gov/assets/fdny/downloads/pdf/business/fa27-instructions.pdf · Notice of Defect answered with FA-27, $105 fee.
+- NY Engineers BC 907 summary https://ny-engineers.com/blog/fire-alarm-device-requirements-by-occupancy-classification · R-2: units 3+ stories above discharge or 16+ units; A: 300; I: all; M thresholds.
+- Habitat Group ECB case https://www.thehabitatgroup.com/owner-pays-high-fine-for-false-alarms · $2,500 penalty after two unnecessary alarms.
+
+### SERP / community
+- Google PAA / PASF / Answer the Public / AI Overview for "fire alarm installation Brighton Beach": EMPTY (not accessible). Anwar's 22 question keywords used, woven into prose.
+- Bing / DuckDuckGo: EMPTY (not accessible).
+- "reddit Brighton Beach building fire alarm going off apartment" · WebSearch · Reddit r/Brooklyn / r/AskNYC threads on Brighton Beach fire alarms: EMPTY (none surfaced). "reddit r/Brooklyn Brighton Beach living flood basement Sandy building" · EMPTY (news results only).
+- Yelp 1-3★ fire alarm companies near Brighton Beach: EMPTY (not accessible).
+- Patch / Curbed / THE CITY / NY Post Brighton Beach fire alarm items: EMPTY (none surfaced in searches above).
+
+### Question register (this page)
+Q&A (§9):
+1. Our cellar panel on Brighton Beach Avenue was swapped by a store tenant after the 2012 flood and never filed. Where does that leave the building now?
+2. If a Brighton Beach Avenue restaurant adds a stage and a dance floor, does its fire alarm estimate change?
+3. How can a Brighton Beach board check that the company that rebuilt its panel after Sandy was allowed to touch it?
+4. Our Brightwater Court co-op passed an FDNY test years ago. Should the board still worry about cable that sat in seawater in the cellar?
+5. Can the super of a Brighton 6th Street building carry the fire alarm panel up to the lobby himself before hurricane season?
+6. The hood installer at a boardwalk restaurant offers to wire the suppression signal into the building panel. Is that his job?
+7. In a Brighton Beach building that took water in 2012, where should the new panel and batteries go?
+8. Will salt spray off Brighton Beach corrode pull stations and detectors near a lobby door on Brighton 1st Street?
+9. Can shoppers in a store under the B and Q tracks on Brighton Beach Avenue hear the alarm when a train is passing?
+10. A Brighton Beach Avenue tenant's renovation means the landlord's panel has to move. Who pays?
+11. Many residents in our Brighton Beach building are elderly and read Russian or Ukrainian first. What can the fire alarm design do for them?
+12. An adult day program renting our ground floor on Coney Island Avenue asks whether the building alarm protects its rooms. Does it?
+13. Our Neptune Avenue building's alarm keeps sounding at night with no fire, and older residents have started to ignore it. What should management do?
+14. Rain from a nor'easter got into a pull station at our boardwalk-side building and the panel went into trouble. Can the FDNY cite us for it?
+FAQ (§17):
+1. Does Abstract Enterprises Security Systems have an office in Brighton Beach?
+2. Is Brighton Beach in a flood zone that changes how a fire alarm is designed?
+3. Does a Brighton Beach Avenue supper club with a stage need a building fire alarm?
+4. How long before a boardwalk restaurant's summer season should fire alarm work start?
+5. Can a Brighton Beach co-op move its existing panel above the flood line without new drawings?
+6. Do the tall co-ops near the Brighton Beach shore need voice evacuation?
+7. Should a Brighton Beach nursing home or adult day program plan alarm notification differently?
+8. What fire alarm records should a Brighton Beach building keep out of the cellar?
+9. Will battery backup carry a Brighton Beach fire alarm through a long blackout like the one after Sandy?
+10. Who should a Brighton Beach Avenue store call when its panel shows trouble after a storm?
+11. Does the Riegelmann Boardwalk's landmark status affect fire alarm work in the buildings beside it?
+12. How soon can Abstract Enterprises Security Systems survey a Brighton Beach building?
