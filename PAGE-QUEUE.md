@@ -454,9 +454,9 @@ LIVE | fire-alarm-installation-queens-new-york | Fire Alarm Installation | Queen
 LIVE | fire-alarm-installation-bronx-ny | Fire Alarm Installation | Bronx | up /fire-alarm-installation-nyc | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-staten-island-ny | Fire Alarm Installation | Staten Island | up /fire-alarm-installation-nyc | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-long-island-ny | Fire Alarm Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-REBUILD | fire-alarm-installation-hudson-valley-ny | Fire Alarm Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-REBUILD | fire-alarm-installation-nassau-county-ny | Fire Alarm Installation | Nassau | up /fire-alarm-installation-long-island-ny | (516) 346-5778 | GBP Brooklyn
-REBUILD | fire-alarm-installation-suffolk-county-ny | Fire Alarm Installation | Suffolk | up /fire-alarm-installation-long-island-ny | (631) 407-2884 | GBP Brooklyn
+BUILDING 2026-11-15T09:14Z | fire-alarm-installation-hudson-valley-ny | Fire Alarm Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+BUILDING 2026-11-15T09:14Z | fire-alarm-installation-nassau-county-ny | Fire Alarm Installation | Nassau | up /fire-alarm-installation-long-island-ny | (516) 346-5778 | GBP Brooklyn
+BUILDING 2026-11-15T09:14Z | fire-alarm-installation-suffolk-county-ny | Fire Alarm Installation | Suffolk | up /fire-alarm-installation-long-island-ny | (631) 407-2884 | GBP Brooklyn
 REBUILD | fire-alarm-installation-westchester-county-new-york | Fire Alarm Installation | Westchester | up /fire-alarm-installation-hudson-valley-ny | (914) 877-2578 | GBP Bronx
 REBUILD | fire-alarm-installation-rockland-county-ny | Fire Alarm Installation | Rockland | up /fire-alarm-installation-hudson-valley-ny | (845) 640-3835 | GBP Bronx
 REBUILD | fire-alarm-installation-orange-county-ny | Fire Alarm Installation | Orange County | up /fire-alarm-installation-hudson-valley-ny | (845) 640-3835 | GBP Bronx
