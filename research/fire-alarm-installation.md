@@ -3730,3 +3730,218 @@ County page under the Hudson Valley hub (NFPA 72 commercial only; not FDNY juris
 - Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG for "fire alarm installation Ulster County": EMPTY (not accessible in build env). Keyword-list questions woven into prose; AI reality check written against common generic AI answers, corrected with the sources above.
 - Yelp 1-3★ Ulster fire alarm companies: EMPTY (not accessible in build env).
 - Kingston fire prevention bureau / fire marshal page: not found on kingston-ny.gov/fire (page doesn't describe one) — page says fire alarm permits in the city go through Building Safety per its fee schedule; no claim of a city fire marshal.
+
+## Allerton, Bronx — /fire-alarm-installation-allerton-bronx-ny (commercial rebuild research, 2026-11-15)
+
+Regulatory base (TM-1, PE/RA sealed drawings, FDNY Fire Alarm Company Certificate, S-97, FAIU 9 MetroTech, ~20-24 weeks, FA-27 $105, BC 907 occupancy triggers) reused from research/fire-alarm-installation.md "## NYC hubs" and "## Bronx" (sources https://www.nyc.gov/assets/fdny/downloads/pdf/business/tips-fire-alarm-systems.pdf, https://www.nyc.gov/assets/fdny/downloads/pdf/business/fire-alarm-company-cert-faq.pdf, https://www.nyc.gov/assets/fdny/downloads/pdf/business/fa27-instructions.pdf, https://ny-engineers.com/blog/fire-alarm-device-requirements-by-occupancy-classification). Older factory research in "## Allerton, Bronx" (line 3) reused only where verified/commercial-relevant.
+
+Format: exact query · platform · URL · finding · page section used
+
+### Fires in Allerton multifamily / mixed-use buildings
+- "2910 Wallace Avenue Bronx five-alarm fire January 2025 Allerton" · WebSearch/WebFetch · https://www.bxtimes.com/fdny-faulty-electrical-wiring/ · Bronx Times Jan 27 2025 (Emily Swanson): FDNY fire marshals attributed the Jan 10 2025 five-alarm fire at 2910 Wallace Ave to faulty electrical wiring; space heaters NOT the cause; 7 injured; over 250 displaced; Red Cross registered 75 households; DOB partially rescinded full vacate order (retrieval only with owner-hired PE); 239 heat/hot water complaints in 3 yrs (WhoOwnsWhat); owner Ved Parkash ordered into HPD heat sensor program. Article does not mention fire alarm/smoke detectors (not claimed). · Why Allerton, facts table, field-notes context, AI reality check (wiring), FAQ.
+- (factory research, verified in search listing) https://augrented.com/nyc/2045490006-2910-wallace-avenue-bronx · 98-unit, 6-story building built 1931 · facts table.
+- (factory research) https://www.cbsnews.com/newyork/news/fire-in-the-bronx-allerton/ · 7 hurt, 250+ displaced (title of CBS piece confirms) · Why Allerton.
+- "Allerton Bronx 700 Adee Avenue fire deli January 2026" · WebSearch/WebFetch · https://www.norwoodnews.org/?p=127449 · Jan 28 2026, 700 Adee Ave off White Plains Rd; call 4:24 a.m.; all-hands 4:31, 2nd 4:35, 3rd 4:47, 4th alarm 4:54; 74 units / 231 personnel; Chief of Operations Kevin Woods: 3-story not fireproofed building, deli on first floor, tire shop connected, two apartments above; quote "Upon arrival, we had heavy fire throughout the building on all floors and into that tire shop"; exterior attack, roof collapsed; no injuries; under control 7:09 a.m.; cause under investigation; FDNY: "Buried hydrants cause significant delays..." · Why Allerton, corridors, Q&A (mixed-use), facts table.
+- same · WebFetch · https://abc7ny.com/post/flames-shoot-deli-apartments-allerton-section-bronx/18491380/ · fire spread through deli, two upstairs apartments, neighboring tire store; flower shop and auto business affected; two families evacuated after noticing smoke (relative of owner); Woods quote on water freezing on pavement · corridors.
+- "reddit Allerton Bronx building fire alarm" · WebSearch · https://bronx.news12.com/fdny-building-erupts-in-flames-no-injuries-reported-in-allerton · Sept 8 2024 (article Sept 9) fire in a building on Boston Road between Astor Ave and Waring Ave, ~80 emergency personnel, no injuries; building type not stated · corridors (Boston Road), facts.
+- (factory research) https://bronx.news12.com/allerton-apartment-fire-leaves-1-seriously-injured-12-residents-displaced · top-floor fire, six-story building Bronx Park East near Waring Ave; passerby rang intercoms · NOT used (intercom content off-topic).
+- Reddit r/bronx / r/AskNYC threads on Allerton fire alarms: EMPTY (search returned only news).
+
+### Commercial corridors and anchors
+- "Allerton Avenue Bronx commercial corridor merchants" · WebSearch/WebFetch · https://bronx.news12.com/allerton-international-merchants-association-supports-over-200-businesses-after-covid-pandemic · News12 Dec 30 2025: Allerton International Merchants Association, since 2012, 200+ businesses over 15 blocks of Allerton Ave from Laconia Ave to Bronx Park East; executive director Gene DeFrancis quote "They are the structure of our community. They're the backbone of it."; Allerton Fish Market; Mezamix Shwarma new restaurant; 3 new businesses opened this year · corridors, Why Allerton, landmarks.
+- same · WebFetch · https://www.cityneighborhoods.nyc/allerton · boundaries Williamsbridge Rd (E), Waring Ave (S), Bronx Park East (W), Arnow Ave (N); Allerton Ave main commercial artery; White Plains Rd elevated 2/5; Williamsbridge Rd secondary corridor; brick two-family homes, Art Deco apartment houses, small apartment buildings and storefronts; St. Lucy's RC Church (1927) on Bronx Park East with Lourdes grotto; P.S. 89; Allerton library; annexed 1895 · landmarks, corridors, building types.
+- (factory research) https://www.homes.com/local-guide/bronx-ny/allerton-neighborhood/ · Allerton Ave stretch Barker–Matthews: florists, salons, banks, gyms, restaurants, delis; Key Food, Foodtown, Food Choice; Waring Hall Condos 6-story 122 units 1960 · corridors (grocers), building types.
+- (factory research) https://cornerfacts.com/new-york/bronx/allerton/ · half of 1,463 residential lots built 1945 or earlier; 2020 census 34,623 residents; NYPL Allerton branch on Barnes Ave since 1959 · facts table, landmarks.
+- (factory research) https://en.wikipedia.org/wiki/Allerton_Avenue_station · station opened March 3, 1917 · landmarks.
+- (factory research) https://pelhamparkway.com/about-us/ · White Plains Road BID (est. 1994), 100+ stores, Bolton St along Pelham Pkwy S to White Plains Rd, south to Brady Ave · corridors.
+- "Christopher Columbus High School campus 925 Astor Avenue" · WebSearch/WebFetch · https://en.wikipedia.org/wiki/Christopher_Columbus_High_School_(Bronx) · Christopher Columbus Educational Campus, 925 Astor Ave, Pelham Parkway section; 2,000+ students; small schools in building · building types (schools), landmarks.
+- "Jacobi Medical Center 1400 Pelham Parkway South" · WebSearch · https://www.nychealthandhospitals.org/jacobi/services/trauma-symposium/directions/ · Jacobi at Pelham Parkway South (name/location only; Wikipedia fetch blocked: https://en.wikipedia.org/wiki/Jacobi_Hospital) · landmarks (name only).
+- "FDNY firehouse Engine 97" · WebSearch/WebFetch · https://www.norwoodnews.org/east-bronx-cm-velazquez-fdny-announce-1-39m-for-two-fdny-firehouses-and-ems-station/ · Oct 2 2023: $1.2M generator for FDNY Engine 97 (Pelham Gardens/Pelham Parkway); EMS Station 20 (Pelham Parkway) door; announced at 1454 Astor Ave · Why Allerton / landmarks.
+- "Bronx Community Board 11" · WebSearch · https://www.nyc.gov/site/bronxcb11/about/about.page · CB11 covers Allerton, Pelham Parkway, Morris Park, Pelham Gardens, Van Nest (per search snippets) · landmarks.
+
+### Large multifamily
+- "Boston Road Plaza NYCHA PACT" · WebSearch/WebFetch · https://nychajournal.nyc/420m-pact-project-will-modernize-boston-secor-boston-road-plaza-and-middletown-plaza/ · NYCHA Journal Oct 2 2024: financing closed Sept 26 2024; $419.6M; Boston Secor, Boston Road Plaza, Middletown Plaza; six buildings; ~1,600 residents incl ~600 seniors; 951 apartments; Beacon Communities, Kalel Companies, MBD Community Housing; Wavecrest Management; RAD/Section 8; ~2.5 years construction; scope: roofs, modernized elevators, electrical, heating, cooling, plumbing, ventilation. Fire alarm NOT mentioned (not claimed). · building types, new construction/renovation.
+- same · WebFetch · https://thenyhc.org/projects/nycha-pact-boston-secor-boston-road-plaza-and-middletown-plaza-bbm/ · 250 senior residents at Boston Road Plaza; Notias Construction GC; SLM Architecture · building types.
+- (factory research) https://kids.kiddle.co/Allerton,_Bronx · Boston Road Plaza 20-story; Eastchester Gardens; Parkside Houses; Pelham Parkway Houses · building types.
+- (factory research) https://www.corcoran.com/building/allerton/117841 · 601 Pelham Parkway North 7-story 116-unit prewar co-op (1937) · building types.
+
+### SERP / PAA / ATP / AI Overview
+- Google PAA / PASF / ATP / AI Overview for "fire alarm installation Allerton Bronx": EMPTY (not accessible). Question set = Anwar's keyword questions woven into prose; local question headings written from the sourced facts above.
+
+### Question register (headings ending "?" and FAQ)
+Q&A H3s:
+1. Our Allerton Avenue storefront sits under two apartments. Who files the fire alarm, the landlord or us?
+2. A deli and a tire shop shared a wall on Adee Avenue. Does a shared wall change what our building's alarm must cover?
+3. We are turning a vacant White Plains Road store into a clinic under the elevated train. What does the alarm design have to plan for?
+4. Our restaurant on Allerton Avenue wants a cooking line with a hood. What does the fire alarm have to do with it?
+5. Our six-story walk-up near Pelham Parkway North has an old panel in the cellar. Can it stay?
+6. After the Wallace Avenue fire, what should an Allerton managing agent check first on an existing system?
+7. Our co-op board on Pelham Parkway wants one written scope before it votes. What should be in it?
+8. Does a big renovation like the Boston Road Plaza rehab touch the fire alarm filing?
+9. Our charter school leases space near the Christopher Columbus campus. What does the FDNY expect at handover?
+10. A storefront house of worship on Boston Road wants to hold larger services. When does that change the fire alarm?
+11. Our Allerton building's panel says "AC power fail" every time Con Edison work happens on the block. Is that a repair?
+12. Can a tenant on Williamsbridge Road get a fire alarm quote without the landlord on the call?
+(13th question drafted on scheduling around the White Plains Road el was cut for word count; not on page.)
+FAQ:
+1. Is Allerton served from your Bronx office or your Brooklyn office?
+2. What should an Allerton store owner bring to the first site survey?
+3. Can an Allerton mixed-use building keep its old zone panel when the store below is renovated?
+4. Does the FDNY test fire alarms in occupied Allerton apartment buildings?
+5. How long do Allerton fire alarm projects take from first call to Letter of Approval?
+6. What happens if an Allerton building's central station account lapses?
+7. Will you tell us if our Allerton building does not need a fire alarm system at all?
+8. Do Allerton businesses pay any government fee for fire alarm work?
+9. Can you work on an Allerton fire alarm while the deli or restaurant stays open?
+10. Who keeps the fire alarm records for an Allerton co-op, the board or the managing agent?
+
+## Bath Beach, Brooklyn — /fire-alarm-installation-bath-beach-brooklyn-ny (commercial rebuild research, 2026-11-15)
+
+Format: exact query · platform · URL · finding · page section used. Regulatory base (FDNY TM-1, S-97, FAIU, 20-24 weeks, BC 907 triggers) from research/fire-alarm-installation.md "## NYC hubs" (facts only). Factory research for Bath Beach (research/fire-alarm-installation.md line ~2318) re-verified where used; home/HPD smoke-detector items NOT used (NFPA 72 commercial only).
+
+### Unique angle
+Bath Beach is a waterfront strip where 2020s high-rises (31-story The Shoreline at 2230 Cropsey Ave / 1625 Shore Pkwy; 23-story 2300 Cropsey Ave with a medical center and supermarket in its community facility space) went up a few blocks from 1920s walk-ups and one- and two-story Bath Avenue and 86th Street commercial "taxpayers" — so one small neighborhood carries both high-rise voice/fire command work and storefront-strip work, and its recent fires (2018 Bath Ave three-alarm through eight businesses; 2025 laundromat on Bay Parkway; seven-story Bay 19th St smoke in stairwells) show both.
+
+### Commercial corridors / new construction
+- "Caesars Bay Shopping Center Bay Parkway Brooklyn stores Kohl's Best Buy Target" · WebSearch/WebFetch · https://brooklyneagle.com/articles/2021/03/15/target-opens-at-ceasars-bay-shopping-center/ · Target opened at Ceasar's Bay Shopping Center on Bay Parkway, grand opening Sunday March 14 2021, about 88,000 sq ft "small-format store" · §8 corridors, §13 landmarks.
+- same query · https://therealdeal.com/2019/03/18/target-is-taking-over-the-old-toys-r-us-space-at-a-brooklyn-shopping-complex · Target took the former Toys R Us space (title) · §8.
+- Factory research (re-used): SBS Bensonhurst Commercial District Needs Assessment studied 86th St, Bath Ave, Bay Pkwy, 18th Ave, 20th Ave: 1,265 storefronts, 11.7% vacancy, Bath Ave 14% vacant; restaurants, delis, salons, groceries, pharmacies · https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/Bensonhurst.pdf (WebFetch blocked this session; figures from factory research) · §5 facts, §8.
+- "1625 Shore Parkway Bath Beach tower construction YIMBY stories units" · WebSearch/WebFetch · https://newyorkyimby.com/2024/01/renderings-revealed-for-the-shoreline-at-2230-cropsey-avenue-in-bath-beach-brooklyn.html · The Shoreline, 2230 Cropsey Ave (also 1625 Shore Pkwy), 31 stories, 248 market-rate units, 150-space attended parking garage, Hill West Architects, Cropsey Partners, move-ins from Jan 2024 · §5, §7 high-rise, §13.
+- same · https://www.bldup.com/posts/bath-beach-condo-project-tops-out · 2300 Cropsey Ave: 23 stories, topped out March 2022, condos floors 4-23, 109,213 sq ft community facility space incl. ambulatory medical center and supermarket, enclosed parking garage, pool; beside Belt Parkway, Ceasar's Bay across the parkway · §5, §7, §13.
+- "8800 Bay Parkway Bath Beach YIMBY stories" · WebSearch/WebFetch · https://newyorkyimby.com/2023/02/8800-bay-parkway-tops-out-in-bath-beach-brooklyn.html · 7 stories, 70 ft, 40 rentals, 7,256 sq ft ground-floor community facility, enclosed parking for 20, between Bath and Cropsey Aves · §5, §7 mid-rise.
+- https://en.wikipedia.org/wiki/Haym_Salomon_Nursing_Home · Haym Salomon Home at 2340 Cropsey Ave (Wikipedia places it in Bensonhurst); former site 1625 Shore Pkwy now the 30-story building; new pavilion 2015 · §7 healthcare (described as at the Bensonhurst edge on Cropsey Ave).
+
+### Local fires (commercial and multifamily)
+- "Bath Beach Brooklyn fire store 86th Street OR Bath Avenue OR Bay Parkway commercial building fire" · WebSearch/WebFetch · https://brooklynreporter.com/story/three-alarm-fire-blazes-through-bath-beach-commercial-building-devastating-businesses/ · Jan 18 2018, ~3:46 a.m., 2162 Bath Ave two-floor commercial structure, triple alarm, 33 units, 130+ firefighters, eight businesses hit hard per CM Mark Treyger; quote Treyger: "The fire originated in the tile store and spread to other businesses." and "We will rebuild and recover." · §5, §8, AI check.
+- https://bklyner.com/bath-beach-fire-a-blow-to-local-businesses/amp · between Bay 29th St and Bay Pkwy; Universal Tile/Ceramics origin; FDNY said limited to first floor; under control 7:25 a.m. · §8.
+- https://cbsnews.com/newyork/news/bath-beach-brooklyn-fire · members pulled out because conditions became too dangerous; at least five businesses damaged · §8.
+- https://brooklyn.news12.com/fdny-fire-breaks-out-in-bath-beach-laundromat-no-injuries-reported · Jan 4 2025, ~8:30 a.m., Bubbly Clean Laundromat, Bay Pkwy between 86th St and Benson Ave, nearly 60 firefighters, no injuries · §5, §8 laundromats.
+- Factory (re-verified title via search): https://abc7ny.com/post/brooklyn-nyc-fire-3-people-hurt-after-blaze-breaks-bath-beach-apartment-building/15801883/ · Jan 15 2025, seven-story apartment building on Bay 19th St, second-floor fire into hallway, heavy smoke in stairwells, 16 hurt; FDNY Deputy Assistant Chief Joe Duggan: "If you leave the fire door open, that causes all sorts of problems" · §5, §7, door holder integration.
+- "reddit Bath Beach Brooklyn building fire alarm" · WebSearch/WebFetch · https://bkreader.com/in-other-brooklyn-news/blaze-rips-through-bath-beach-apartment-firefighters-injured-8638805 · April 2024, 8714 21st Ave six-story apartment building, all-hands, second floor, 60 firefighters, two members injured · §5.
+- Factory: https://www.brooklynpaper.com/bath-beach-apartment-fire-injures-4-july-2025 · July 12 2025, four-story building Cropsey Ave & Bay Pkwy (2215 Cropsey), four hurt; DOB complaint about exposed/defective wires same day · §7.
+- Factory: https://www.cbsnews.com/amp/newyork/news/brooklyn-apartment-building-fire-kills-2-displaces-dozens-fdny-says · March 17 2024, Bath Ave & Bay 29th St four-story building, two killed · §5 (mentioned briefly).
+
+### Landmarks / institutions
+- Factory: https://hdc.org/buildings/fire-engine-company-253/ · Engine Company 253, 2425-2427 86th St, 1895-96, city landmark 1998 · §13.
+- Factory: https://brooklyneagle.com/95575/explore-the-shore-and-see-victorian-houses-in-bath-beach/ · 62nd Precinct station house 1925 Bath Ave; St. Finbar R.C. Church, Benson Ave & Bay 20th St, dedicated 1912 · §13, §7 houses of worship.
+- Factory: https://cavac.at/cavacopedia/Bath%20Beach%2C%20Brooklyn · Ulmer Park library 2602 Bath Ave (opened 1963, renovated 2016); West End (D) stations 18th Ave, 20th Ave, Bay Pkwy, 25th Ave, Bay 50th St; 2020 population 33,070 · §5, §13.
+- "Bensonhurst Park ..." · WebSearch/WebFetch · https://en.wikipedia.org/wiki/Bensonhurst_Park · Bath Beach park between Cropsey Ave, Bay Pkwy, 21st Ave and Gravesend Bay, cut by Belt Parkway; initial 16 acres acquired 1895 · §13.
+- "Bath Beach Brooklyn schools ..." · WebSearch/WebFetch · https://City-Data.com/school/ps-163-bath-beach-school-ny.html · P.S. 163 Bath Beach, 109 Bay 14th St, K-8, 627 students (2016) · §7 schools, §13.
+- Factory: https://brooklyneagle.com/218921/majority-of-board-11-residents-were-born-outside-of-u-s/ · CB11 (Bensonhurst & Bath Beach) 56% foreign-born · §5 (multilingual notices).
+- Factory: https://www.openigloo.com/building/nyc/3336455-3064680016/brooklyn-bath-beach-1461-shore-parkway-11214 · 1461 Shore Pkwy, 1960, 6 floors, 77 units · §7.
+- Factory: https://miltoncoste.com/for-sale/1br-coop-bath-beach-1259-shore-parkway-apt-3a-rls11030577 · 1259 Shore Pkwy, 1949 three-story garden co-op, 192 units · §7.
+- Factory: https://www.nyc.gov/assets/doh/downloads/pdf/dc/dc-applicant-site-viability-checklist.pdf · DOHMH: child care in new permit / material alteration premises "must be equipped with Fire Department approved interior fire alarm systems" · §7 community facility/day care.
+
+### SERP / community
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG for "fire alarm installation Bath Beach": EMPTY (not accessible). Question set = Anwar's keyword questions woven into prose; headings written fresh.
+- Reddit r/Brooklyn / r/AskNYC Bath Beach fire alarm threads: EMPTY.
+- Yelp 1-3★ Bath Beach fire alarm companies: EMPTY.
+- BID for Bath Beach corridors: EMPTY (none found).
+- 16 Bay 25th St day care filing: no URL found this session — NOT used.
+
+### Question register (all headings ending "?" and FAQ questions on this page)
+Q&A headings:
+- Our clinic is leasing community facility space in a Cropsey Avenue tower. Who files the fire alarm work for our fit-out?
+- The garage under our Bath Beach building fills with exhaust on busy evenings. Will that set off the fire alarm?
+- We bought a condo unit with retail frontage on Cropsey Avenue. Can our tenant's contractor add devices to the building panel?
+- We are opening a restaurant in a one-story Bath Avenue row. Does the whole row need a fire alarm now?
+- Our 86th Street dental office is on the second floor above a bakery. What should the fire alarm design watch for?
+- After the 2018 fire on Bath Avenue, should store owners worry about the space above their ceilings?
+- Who pays to fix a building fire alarm in a Shore Parkway co-op, the board or the shareholders?
+- Our six-story Bath Beach building's elevator recall has never been tested in front of us. Should we ask for it?
+- A retail tenant in our mixed-use building keeps triggering the alarm with cooking. What can the landlord do?
+- Our parish hall in Bath Beach is being rented for events. Does that change the fire alarm requirement?
+- A day care wants to open in our ground-floor community facility on Bay Parkway. What does the fire alarm need?
+- Can fire alarm work at a Bath Beach school be scheduled around classes?
+- We cannot find the approval letter for our Bath Beach building's fire alarm. Where do we start?
+- Do Bath Beach owners deal with the Brooklyn borough office or a citywide FDNY unit for fire alarm approval?
+FAQ:
+- Is Abstract Enterprises Security Systems' office in Bath Beach?
+- Does a Bath Avenue store with apartments above share one fire alarm with the apartments?
+- Can a Cropsey Avenue condominium change fire alarm companies after the developer hands over the building?
+- Do the big stores at Ceasar's Bay follow the same FDNY fire alarm process as a small Bath Beach shop?
+- Our Bath Beach laundromat has a wall of dryers. How does that affect fire alarm design?
+- Will FDNY acceptance testing in our Shore Parkway building disturb residents?
+- Our building is close to Gravesend Bay. Does salt air affect fire alarm equipment?
+- Can we keep our old panel if a medical tenant moves into our Bay Parkway building's ground floor?
+- What records should a Bath Beach managing agent keep near the fire alarm panel?
+- How quickly can Abstract Enterprises Security Systems get to a Bath Beach building?
+
+## Bathgate, Bronx — /fire-alarm-installation-bathgate-bronx-ny (commercial rebuild research, 2026-11-15)
+
+NFPA 72 commercial only. Regulatory base (PE/RA sealed drawings, TM-1, FDNY Fire Alarm Company Certificate, S-97, FAIU 9 MetroTech, ~20-24 weeks, FA-27 $105, B-45/A-433/TB-60, central station live before inspection) reused as facts from research/fire-alarm-installation.md "## NYC hubs" (https://www.nyc.gov/assets/fdny/downloads/pdf/business/tips-fire-alarm-systems.pdf ; https://www.nyc.gov/assets/fdny/downloads/pdf/business/fire-alarm-company-cert-faq.pdf ; https://www.nyc.gov/assets/fdny/downloads/pdf/business/fa27-instructions.pdf). Borough facts (Twin Parks 2022, Bisnow June 2026 testimony, Bronx 6,526 units 2024) reused from "## Bronx" section. Format: exact query · platform · URL · finding · page section used.
+
+### Bathgate Industrial Park (the page's angle)
+- "Bathgate Industrial Park Bronx businesses history" · WebSearch/WebFetch · https://en.wikipedia.org/wiki/Bathgate_Industrial_Park · In Bronx CB3; south of Cross Bronx Expwy, west of Third/Fulton Aves, north of Claremont Pkwy, east of Washington Ave; 20 acres, seven blocks; designated 1980 on former residential land of vacant lots/buildings, opened 1982; joint Port Authority of NY & NJ + NYCEDC project; eight buildings, ~454,000 sq ft for light industrial, distribution, office, educational; tenants incl. a generic drug manufacturer, food distributors, training centers, Bathgate Educational Campus; COVID-19 testing then (Jan 2021) a 24/7 mass vaccination site · hero, §5 why, §5.5 facts table, §7 building types, §13 landmarks.
+- "Bathgate Industrial Park RFP leasing industrial tenants Port Authority EDC 2025" · WebSearch/WebFetch · https://a856-cityrecord.nyc.gov/RequestDetail/20250613004 · NYCEDC RFP published June 20, 2025 (responses due Sept 30, 2025), ground lease through Oct 19, 2040; park bounded by E 174th St (N), Third Ave (E), Claremont Pkwy (S), Washington Ave (W); M1-4 zoning (light industrial, wholesale service, storage). Sites: 4006 Third Ave (vacant, two floors ~17,472 sq ft + ~10,000 sq ft lot); 1610 Bathgate Ave (vacant ~22,220 sq ft manufacturing, 20' ceilings, two loading docks); 1666 Bathgate Ave (vacant former vocational school ~39,297 sq ft); 1628 Bathgate Ave (vacant former baking goods distribution center ~33,809 sq ft); 5N+5S full block between 172nd and 173rd Sts, combined ~73,106 sq ft, respondent bears capital improvement costs · §5 why (change of use = new filing), §5.5, §7 vacant buildings, §9 Q&A, §16 new construction/fit-out, AI check.
+- same query · WebFetch · https://www.loopnet.com/Listing/1610-Bathgate-Ave-Bronx-NY/37051378 · listing: up to 113,000 sq ft leasable industrial/mixed-use, M1-4, in an Industrial Business Zone; permitted uses light manufacturing, distribution, wholesale, storage, vocational schools; past tenants medical offices, food-packaging · §7 (used only "past tenants included medical offices and food packaging").
+- "Bathgate" Bronx news · WebSearch/WebFetch · https://sinra.ai/projects/permits/general-construction-1701-bathgate-avenue-bronx-264500771 · 1701 Bathgate Ave: "Facade Repair" general construction permit, owner NYC Economic Development Corp, issued May 26, 2026, declared cost $225,000 · §8.5 compliance callout (exterior work on park buildings is ongoing; not fire alarm).
+- "Perrigo Bronx Bathgate manufacturing facility strike workers" · WebSearch/WebFetch · https://www.bxtimes.com/employees-at-perrigo-return-to-work/ · Bronx Times Sept 25, 2025: Perrigo plant at 1625, 1700 and 1701 Bathgate Ave; 200+ Teamsters Local 210 employees; strike Sept 2-22, 2025; dispute included alleged plans to expand operations to 24 hours; Perrigo described as world's largest maker of private-label OTC pharmaceuticals and consumer health products. Quote, Lydia Torres (VP Local 210): "These Teamsters proved that when you stand together, you can beat back threats and win." · §5 why (scale of manufacturing), §5.5 facts, §7 manufacturing. (Labor dispute itself not discussed beyond date context.)
+- "Krinos Foods 1750 Bathgate Avenue Bronx headquarters" · WebSearch/WebFetch · https://www.areadevelopment.com/newsItems/6-21-2016/krinos-foods-headquarters-new-york-city.shtml · June 21, 2016: Krinos Foods opened ~100,000 sq ft international HQ/plant at 1750 Bathgate Ave; $25M investment; bought site from city for $3.5M; kept 85 employees, ~15 more hires · §5.5, §7 food plants, §13 landmark card.
+- https://bronxboropres.nyc.gov/2009/02/01/nycedc-announces-krinos-foods-inc-... · 2012 announcement: site in "Bathgate Industrial Business Zone"; quote NYCEDC President Seth W. Pinsky "this long vacant site will now be home to dozens of important jobs" · §5 (quote).
+
+### Bathgate Educational Campus
+- "Bathgate Educational Campus Bronx 1595 Bathgate Avenue schools" · WebSearch/WebFetch · https://www.lehman.edu/public-art-bronx/Bathgate-Educational-Campus/ · 1595 Bathgate Ave; 2006; John Ciardullo Associates (architect + structural), DeMatteis Construction GC, client NYC Board of Education; schools: Mott Hall Bronx HS, Validus Preparatory Academy, Urban Assembly School for Applied Math and Science (6-12); original one-story 68,000 sq ft Port Authority warehouse leased by SCA; now 140,000 sq ft filling a full block; steel frame reused (84.5 tons salvaged), second floor added, piles to bedrock · §7 schools, §13 landmark, Field context, FAQ.
+- https://www.bdcnetwork.com/home/news/55154516/bronx-ny-turns-a-dilapidated-warehouse-into-state-of-the-art-school-campus · BD+C Aug 11, 2010: $52M; four schools; 1,300 students; each school its own entrance with dedicated stair tower; shared ground floor with 6,000 sq ft recreation room, library, cafeteria, art and music rooms · §7 schools, §5.5 facts.
+- https://bronx.news12.com/bathgate-educational-complex-opens-new-and-improved-gym · News 12, Sept 29, 2022: ribbon cutting for renovated gym · §13 card.
+
+### Crotona Park / history / landmarks
+- "Bathgate neighborhood Bronx ... Crotona Park West" · WebFetch · https://en.wikipedia.org/wiki/Crotona_Park · 127.5 acres; bordered by Crotona Park West (also Fulton Ave), North, East, South; Claremont Pkwy and Crotona Ave divide it; Indian Lake ~3 acres; Crotona Pool opened July 25, 1936 (WPA), 330x125 ft, largest pool in the Bronx, Crotona Play Center city landmark 2007, NRHP 2015; Cross Bronx Expwy cut off northern part (now Walter Gladwin Park); land was Bathgate family estate (Alexander Bathgate, from Gouverneur Morris), once "Bathgate Woods", planned "Bathgate Park" · §5 intro (name origin), §13 landmarks.
+- research/fire-alarm-installation.md Claremont section: Claremont Parkway was Bathgate Place in 1850 (https://forgotten-ny.com/2016/10/crotona-park-high-bridge-bronx-part-2/) ; Seven Light Baptist Church at Third & Claremont in a repurposed bank building (same URL) · §8 corridors, §13.
+- "FDNY Engine 46 ... firehouse" · WebSearch/WebFetch · https://hdc.org/buildings/firehouse-engine-company-46-now-engine-company-46-hook-ladder-company-17/ · Firehouse, Engine Company 46, "in the Bathgate section", Napoleon LeBrun & Sons, built 1894 (second building 1904), Designated Individual Landmark · §13 landmarks. https://nyfd.com/bronx_engines/engine_46.html · on E 176th St between Washington and Park Aves (1997 recollection) · §13 (street only).
+- https://www.bxtimes.com/category/news/neighborhoods/bathgate · Bronx Times Bathgate category: "Two Bronx firehouses landmarked" (date not shown) · corroborates landmark card.
+- https://arnow.org/bathgatebronx2/ · personal history of Bathgate/East Tremont blocks (Bathgate Ave, Washington Ave, 175th, 176th Sts); E.L. Doctorow's "Billy Bathgate" (1989) named for the street; Tremont branch library at Washington Ave & 176th St, 1909 cornerstone; former banks/synagogues now churches · §5 intro (novel), §13 (library).
+
+### Community board / NYCHA / housing
+- "Bronx Community Board 3 Bathgate ..." · WebFetch · https://www.nyc.gov/assets/planning/download/pdf/community/community-portal/statement_needs/bx03_statement_2018.pdf · CB3 covers parts of Morrisania, Melrose, Claremont, Crotona Park East, Bathgate, Woodstock; ~82,559 residents (2010); NYCHA list incl. Claremont Consolidated (Washington Avenue), Butler, Morrisania, Webster/Morrisania, Morris Houses; Claremont Village called the nation's largest public housing assemblage; board asked for a commercial district needs assessment for Third Avenue, E 174 St, Southern Blvd, Boston Rd corridors · §5.5, §7 multifamily, §8 corridors.
+- Borough research: Butler Houses (Claremont Village) fire safety, City Limits June 13 2018 https://citylimits.org/some-nycha-residents-raise-fire-safety-concerns/ · DOI review found 40 of 136 apartments with nonfunctioning smoke/CO detectors · §7 multifamily (dated, labelled 2018; NYCHA design guidelines https://designguidelines.nycha.info/fire-alarm/ call for two dedicated lines to central station/Fire Command Center and elevator recall).
+
+### Fires near Bathgate
+- "Bathgate Avenue Bronx fire FDNY" · WebSearch/WebFetch · https://brooklyn.news12.com/fdny-battles-building-fire-on-bathgate-avenue-no-injuries-reported · News 12 July 31, 2022: FDNY fought a building fire on Bathgate Ave late Saturday; no injuries; no address/type given · §5 (mentioned only as reported).
+- Claremont section of research file: Jan 5, 2026 five-alarm fire, ground-floor Deli Grocery in mixed-use building on Findlay Ave (1365 Findlay; DOB full vacate, 32 apartments + 4 commercial spaces) https://www.nbcnewyork.com/bronx/deli-fire-claremont/6439118/ , https://abc7ny.com/post/fire-crews-battle-5-alarm-bronx-deli/18354424/ ; Apr 12, 2026, 538 Claremont Parkway, fifth-floor fire, mixed-use with ground-floor storefronts, shop owner Hamed Saadeh sweeping glass https://hoodline.com/2026/04/fifth-floor-bronx-blaze-leaves-resident-hurt-in-claremont-walk-up/ · §5 (labelled Claremont, nearby), §8.
+- "fire Third Avenue Claremont Parkway ..." · WebSearch · no Bathgate-specific commercial fire found 2024-2026 beyond the above. EMPTY for Bathgate Industrial Park fires.
+
+### Searches that came back empty
+- Reddit (r/bronx, r/AskNYC) Bathgate fire alarm: EMPTY.
+- Google PAA / PASF / Answer the Public / AI Overview for "fire alarm installation Bathgate Bronx": EMPTY (not accessible in build env). Anwar's question keywords woven into prose.
+- Yelp 1-3★ Bathgate fire alarm vendors: EMPTY.
+- "Four new residential buildings coming to Crotona" (newyorkyimby 2026/06) fetch failed: EMPTY, not used.
+- Garden Towers (nysenate.gov) — Morrisania, address not given; not used (can't place in Bathgate).
+- Bathgate Ave new-building permits found (1949, 2117, 2246, 2293 Bathgate) are north of the Cross Bronx in Tremont/East Tremont/Belmont — not used as Bathgate facts.
+
+### Page angle
+Bathgate is the Bronx's only planned industrial park inside a residential district: eight buildings on seven blocks from Claremont Parkway to E 174th St, where a pharmaceutical plant, a food manufacturer, a warehouse-turned-school campus and four vacant buildings offered by NYCEDC in 2025 all mean change-of-use and re-tenanting fire alarm filings — next to Claremont Village NYCHA towers and Third Avenue mixed-use blocks.
+
+### Question register (this page)
+Q&A headings (section "Questions Answered"):
+1. We are bidding on a vacant Bathgate Industrial Park building from the NYCEDC offer. When does the fire alarm enter the plan?
+2. The old vocational school building on Bathgate Avenue is becoming a warehouse. Does its old school alarm carry over?
+3. Our plant on Bathgate Avenue wants to add a second shift. Does running longer hours change anything for the fire alarm?
+4. A food packaging line is moving into a park building with 20-foot ceilings. Which detectors work up there?
+5. The two buildings between 172nd and 173rd Streets are being combined. Is that one fire alarm or two?
+6. Our charter program wants a floor inside an industrial building near Claremont Parkway. What changes?
+7. Do the stair towers at a converted warehouse school need their own devices?
+8. Who calls the central station when the gym or cafeteria is rented after hours?
+9. We manage a walk-up on Washington Avenue with a store at street level. Whose panel covers the store?
+10. Tenants on Third Avenue say the hallway alarm chirps all night. Is that the building system or an apartment alarm?
+11. Can a landlord charge store tenants for the building's fire alarm work under the lease?
+12. A board member asked whether the building alarm should ring in every apartment. Who decides that?
+13. What should a Bathgate owner do the morning after an FDNY inspector leaves a defect notice?
+14. Our panel lost its phone line when the carrier retired copper on our block. What now?
+FAQ:
+1. Is Bathgate a separate neighborhood or part of Claremont and Morrisania?
+2. Does the M1-4 zoning in Bathgate Industrial Park change fire alarm rules?
+3. Can work start on a park building before the FDNY approves the fire alarm plans?
+4. Who holds the fire alarm records for a building leased from NYCEDC?
+5. Do you install fire alarms inside NYCHA buildings in Claremont Village?
+6. Is your Bronx office in Bathgate?
+7. Will an upgrade in a Bathgate school building happen while classes are in session?
+8. What happens to monitoring if a park building sits vacant between tenants?
+9. Can a Third Avenue restaurant tie its hood system into the building fire alarm?
+10. Does a Crotona Park West apartment building follow the same FDNY filing as an industrial park building?
+</content>
+</invoke>
+
+### Build notes
+- Images: 11 page-specific files; 8 are byte-identical to the Bronx borough set (same scenes), 3 are unique (cable pull through steel studs, power supply battery meter test, storefront pull station). The storefront pull-station photo shows a visible street number "451" on the shop door — flagged for Anwar (DAILY-RUN says no house numbers in photos); alt/caption make no claim about the location.
+- Mobile: two extra >250px "gaps" at ~39,600 and ~40,850 px are false positives of mobile.py (long <li> items with a <strong> child are not counted as covered); screenshot confirms text is there. Hero gap 2630-2960 matches the template.

@@ -463,9 +463,9 @@ LIVE | fire-alarm-installation-orange-county-ny | Fire Alarm Installation | Oran
 LIVE | fire-alarm-installation-putnam-county-ny | Fire Alarm Installation | Putnam | up /fire-alarm-installation-hudson-valley-ny | (845) 640-3835 | GBP Bronx
 LIVE | fire-alarm-installation-dutchess-county-ny | Fire Alarm Installation | Dutchess | up /fire-alarm-installation-hudson-valley-ny | (845) 640-3835 | GBP Bronx
 LIVE | fire-alarm-installation-ulster-county-ny | Fire Alarm Installation | Ulster | up /fire-alarm-installation-hudson-valley-ny | (845) 640-3835 | GBP Bronx
-BUILDING 2026-11-15T10:45Z | fire-alarm-installation-allerton-bronx-ny | Fire Alarm Installation | Allerton, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-15T10:45Z | fire-alarm-installation-bath-beach-brooklyn-ny | Fire Alarm Installation | Bath Beach, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-15T10:45Z | fire-alarm-installation-bathgate-bronx-ny | Fire Alarm Installation | Bathgate, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-allerton-bronx-ny | Fire Alarm Installation | Allerton, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-bath-beach-brooklyn-ny | Fire Alarm Installation | Bath Beach, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | fire-alarm-installation-bathgate-bronx-ny | Fire Alarm Installation | Bathgate, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-bay-ridge-brooklyn-ny | Fire Alarm Installation | Bay Ridge, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-bedford-park-bronx-ny | Fire Alarm Installation | Bedford Park, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-bedford-stuyvesant-brooklyn-ny | Fire Alarm Installation | Bedford Stuyvesant, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
