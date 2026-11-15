@@ -517,9 +517,9 @@ LIVE | fire-alarm-installation-flatbush-brooklyn-ny | Fire Alarm Installation | 
 BUILDING 2026-11-15T17:18Z | fire-alarm-installation-flatlands-brooklyn-ny | Fire Alarm Installation | Flatlands, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-15T17:18Z | fire-alarm-installation-fort-greene-brooklyn-ny | Fire Alarm Installation | Fort Greene, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-15T17:18Z | fire-alarm-installation-fort-hamilton-brooklyn-ny | Fire Alarm Installation | Fort Hamilton, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-REBUILD | fire-alarm-installation-foxhurst-bronx-ny | Fire Alarm Installation | Foxhurst, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | fire-alarm-installation-fulton-ferry-brooklyn-ny | Fire Alarm Installation | Fulton Ferry, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-REBUILD | fire-alarm-installation-gerritsen-beach-brooklyn-ny | Fire Alarm Installation | Gerritsen Beach, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-15T17:45Z | fire-alarm-installation-foxhurst-bronx-ny | Fire Alarm Installation | Foxhurst, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-15T17:45Z | fire-alarm-installation-fulton-ferry-brooklyn-ny | Fire Alarm Installation | Fulton Ferry, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-15T17:45Z | fire-alarm-installation-gerritsen-beach-brooklyn-ny | Fire Alarm Installation | Gerritsen Beach, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-gowanus-brooklyn-ny | Fire Alarm Installation | Gowanus, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-gravesend-brooklyn-ny | Fire Alarm Installation | Gravesend, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-greenpoint-brooklyn-ny | Fire Alarm Installation | Greenpoint, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
