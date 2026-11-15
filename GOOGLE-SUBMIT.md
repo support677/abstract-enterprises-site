@@ -524,21 +524,21 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-installation-ulster-county-ny | REQUESTED 2026-11-14
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-brooklyn | INDEXED 2026-10-24 (API inspect PASS, no request needed)
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-nassau-county | REQUESTED 2026-11-14
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-putnam | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-queens | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-staten-island | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-ulster | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-westchester | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-brooklyn | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-hudson-valley | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-orange-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-putnam-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-staten-island | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/hik-connect-app-support-repair-manhattan | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/intercom-repair-putnam-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/intercom-repair-staten-island | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/network-installation-suffolk-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-bronx | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-putnam | REQUESTED 2026-11-15
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-queens | INDEXED 2026-11-15
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-staten-island | REQUESTED 2026-11-15
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-ulster | INDEXED 2026-11-15
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-westchester | INDEXED 2026-11-15
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-brooklyn | INDEXED 2026-11-15
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-hudson-valley | REQUESTED 2026-11-15
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-orange-county | INDEXED 2026-11-15
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-putnam-county | REQUESTED 2026-11-15
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-staten-island | REQUESTED 2026-11-15
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/hik-connect-app-support-repair-manhattan | INDEXED 2026-11-15
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/intercom-repair-putnam-county | REQUESTED 2026-11-15
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/intercom-repair-staten-island | REQUESTED 2026-11-15
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/network-installation-suffolk-county | REQUESTED 2026-11-15
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-bronx | REQUESTED 2026-11-15
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-hudson-valley | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-ulster-county | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-westchester-county | QUEUED
