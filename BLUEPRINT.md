@@ -23,6 +23,7 @@
 10. **No reuse of body content across pages**, including the "Why X Properties Need Y" intro, FAQ, landmarks, packages, or process — all rewritten per neighborhood.
 11. **Never delete or rename a page (Anwar, Nov 14 2026).** Builders and rebuilds only ADD or IMPROVE. A rebuild overwrites the page in place at the same URL. Duplicates/overlaps get flagged to Anwar, not removed. A deletion happens only with Anwar's explicit OK, and that commit message must contain `[anwar-approved-delete]` — otherwise `.github/workflows/page-guard.yml` puts the page straight back.
 12. **Never "AESS" on the site (Anwar, Nov 14 2026: "No AESS").** Nobody Googles "AESS". Every visible word, title, meta, alt/title/caption, schema and video text says "Abstract Enterprises Security Systems" (or "we/our/us"); titles drop the brand suffix rather than abbreviate it. Only hidden form `from_name` values and file paths may still contain it.
+13. **Fire alarm pages: no prices, no packages, no CCTV (Anwar, Nov 15 2026).** Fire alarm work is mainly commercial and every system starts with engineer-designed, sealed drawings, so a `fire-alarm-*` page never shows a fixed price, price range, "from $X", cap, package card, monthly monitoring price, bundle saving, or price schema (`Offer`, `OfferCatalog`, `priceRange`). On fire alarm pages §14 becomes "How Fire Alarm Installation Is Priced in [Area]" (design and sealed drawings → filing with the FDNY or local authority → install to the approved plans → acceptance test; quoted in writing per building after an on-site survey) and §15 is left out. Fire alarm and CCTV are separate systems that do not integrate: never bundle, combine or cross-sell cameras on fire alarm pages, and never use camera or network photos as fire alarm figures. Use the fire alarm image set in `images/fire-alarm-installation/fire-alarm-installation-*.webp`. Government fees and penalties (FDNY filing fees, HPD detector charges, fines) may still be quoted with their source.
 
 ---
 
@@ -99,8 +100,8 @@ Sections appear in this order. Eyebrow label / H2 title pattern shown:
 | 11 | `GET IN TOUCH` | "Request a Free Quote" | Full quote form (name, phone, email, service, message, SMS consent). |
 | 12 | `HOW IT WORKS` | "Our Installation Process" | Numbered process cards (.pc): 4-6 steps. Dark section (.sd). |
 | 13 | `COVERAGE AREA` | "[Service] Near [Neighborhood]'s Landmarks" | Landmark cards (.lcard): 6 real landmarks with 1-line description each. Plus a "We also serve [4 adjacent neighborhoods]" line. |
-| 14 | `PRICING` | "[Service] Cost in [Neighborhood]" | Pricing table or 3-card pricing grid. Local pricing (use area multiplier — see §9). |
-| 15 | `SHOP OUR SYSTEMS` | "[Service] Packages & Pricing" | 3 package cards: starter / standard / premium with $ amounts. |
+| 14 | `PRICING` | "[Service] Cost in [Neighborhood]" | Pricing table or 3-card pricing grid. Local pricing (use area multiplier — see §9). **Fire alarm pages: no prices — see Hard Rule 13.** |
+| 15 | `SHOP OUR SYSTEMS` | "[Service] Packages & Pricing" | 3 package cards: starter / standard / premium with $ amounts. **Not on fire alarm pages (Hard Rule 13).** |
 | 15.5 | (cont.) | (subsections inside §15) | BYOE labor-only option callout where applicable. |
 | 16 | `COMPLETE SERVICES` | "Every [Service] Service in [Neighborhood]" | Dark section grid linking out to related services on this site. |
 | 17 | `FAQ` | "[Neighborhood] [Service] FAQ" | 8-12 FAQ items in accordion (.fc/.fi). **Different from §9.** |
