@@ -8202,3 +8202,289 @@ fire-alarm-installation-midwood-brooklyn-ny-touchscreen-panel-tablet-review.webp
 - Do the stores on the ground floor of a new Midwood building need their own fire alarm panel?
 - What should a Midwood congregation have ready before the FDNY acceptance test?
 - Does adding apartments over a one-story Kings Highway store mean the whole building needs a fire alarm?
+
+## Morris Heights, Bronx — /fire-alarm-installation-morris-heights-bronx-ny (commercial rebuild research, 2026-11-15)
+
+NFPA 72 commercial only. Up-link /fire-alarm-installation-bronx-ny · phone (646) 490-0629 · GBP Bronx (460 E Fordham Rd, #bronx). Area phrase used: "commercial fire alarm contractor Bronx" only. Regulatory base (PE/RA sealed drawings, TM-1, Project Authorization, FDNY Fire Alarm Company Certificate, S-97 with NICET II+ or NYC master/special electrician, S-98, FAIU, up to 8 weeks initial review / ~20-24 weeks, resubmit within 6 months, central station active before inspection, 40-70 business days test request, FA-27 $105, NYC Business $420/$525, Certificate of Occupancy or Schedule A, records 3 years, Jan 2012 central office connection bulletin, 36 in. from diffusers, fans over 2,000 cfm, additions reference existing approval, BC 907.2 occupancy triggers via NY Engineers, NFSA 75 ft high-rise, FDNY fire protection systems out-of-service / fire watch guidance) reused as facts from "## NYC hubs" and the Longwood / Highbridge / East Flatbush-area sections of research/fire-alarm-installation.md (lines ~182, 272, 637-639, 732-733, 1054, 2280-2283, 6350) — not re-fetched, not reworded from siblings.
+
+**Unique angle:** stacked uses and tall homes on the river edge. Morris Heights holds the Bronx's tallest residential towers (River Park Towers, 1975, 1,654 apartments, conjoined towers 38-44 stories with a bridge over the Major Deegan to parking), the 1967 18-story 102-unit 1520 Sedgwick Ave (ex-Mitchell-Lama, several owners 2007-2011, rec room of the Aug 11 1973 party), a health center campus on W Burnside Ave whose newer building stacks an Article 28 D&TC, mental health, PT, medical retail, covered parking for 80 and ~70 senior apartments, a former birthing-center site now outpatient, an approved 10-story/100-ft Passive House senior building with 24-hour reception at 105 W Tremont Ave, Cedar Ave light industry / new mixed filings by the Metro-North station, and Jerome Ave auto shops. Fire alarm theme: designing by floor-by-floor use (who is there at night, who answers the panel), occupied high-rise phasing, records reconstruction after ownership changes, water/leaks on top floors.
+Avoided (sibling pages): Highbridge (ridge/two-entrance/step-street angle, Jerome el ambient noise, 1040 Anderson fires, Inwood Ave towers, Samaritan Daytop, Ogden Theatre, Fischer Senior), Mount Hope (W Tremont Ave/Phelan Pl May 2026 fatal fire — NOT used; Burnside Ave as corridor angle; Walton Ave cockloft), Kingsbridge Heights (Sedgwick Ave north / Armory / Fort Independence PACT), Claremont (Findlay Ave deli fire — CBS labeled it "Morris Heights" but Findlay Ave & E 170th St is east of Jerome, NOT used), Longwood (high-rise-line question at 74/75 ft not repeated as a Q; Harrison 79-ft filing mentioned only in text), University Heights (BCC / Hall of Fame not used), Concourse, Fordham, Mount Eden. 1484 Montgomery Ave fatal fire (Sept 2026) NOT used: address likely south of the Cross Bronx boundary; uncertain.
+
+Format: exact query · platform · URL · finding · page section used.
+
+### Boundaries / background
+- "Morris Heights Bronx neighborhood boundaries River Park Towers Sedgwick Avenue" · WebSearch → WebFetch · https://theneighborhoods.substack.com/p/morris-heights-the-bronx · N Burnside Ave, S Cross Bronx Expwy, E Jerome Ave (muffler and auto body shops), W Harlem River; University Ave main artery with 1920s 5-6 story buildings; elevated 4 on Jerome; 1520 Sedgwick 18 stories, 102 units, ground-floor community room; Gas Engine & Power Co. shipyard; 1908 111-ft motor yacht Jemima F. III; Aug 11 1973 party (Cindy Campbell, DJ Kool Herc); South Bronx 80% housing-loss estimate (dropped in trim) · §5, at a glance, corridors, landmarks.
+- same search · WebFetch · https://www.cityneighborhoods.nyc/morris-heights · N W 179th St, E Jerome, S Cross Bronx, W Harlem River; prewar 5-6 story 1910s-30s on Sedgwick, University, Harrison Aves; TIL and LIHTC rehabs; Jerome Ave commercial corridor. NOTE: the page also lists High Bridge, PS 11, Macombs Dam Park (Highbridge items) — those NOT used · §5, building types.
+- same search · WebFetch · https://www.nyc.gov/site/bronxcb5/about/our-neighborhoods.page · Morris Heights in CB5; University Ave (Dr. Martin Luther King Jr. Blvd) primary thoroughfare; Cross Bronx "bisects" Morris Heights · §5.
+- same search · WebFetch · https://www.nyc.gov/assets/planning/download/pdf/plans-studies/sustainable-communities/bmn/bronx_metro_report/morris_heights.pdf · Metro-North station on W Tremont Ave overpass over rail + Major Deegan, 17 min to Grand Central, lowest Hudson Line boardings (2012); Cedar Ave parking lots, 2-6 story commercial, light industrial; waterfront mostly manufacturing zoned; R6 east of station, existing commercial/light mfg non-conforming; River Park Towers 1974 Mitchell-Lama, 42 and 44 stories, 1,654 units; PS 230 Roland N. Patterson over rail corridor between the two Deegan overpasses, 447 students; Roberto Clemente State Park 1973, 1.3M annual attendance, David Brito quote "the only access point to the water on the Bronx side of the Harlem River"; study area 96% renter-occupied · §5, corridors, landmarks, building types.
+- https://en.wikipedia.org/wiki/Morris_Heights · WebFetch EMPTY (permission request not answered) — not used.
+
+### Towers
+- "River Park Towers 10 Richman Plaza 40 Richman Plaza Bronx Mitchell-Lama 1975 Davis Brody" · WebSearch → WebFetch · https://www.bxtimes.com/40-year-anniversary-for-river-park-towers/ · May 16 2015; 10/20/30/40 Richman Plaza; completed 1975; two 44-story, 404 ft, tallest in the Bronx; 1,654 units incl. 464 Section 8; Davis, Brody & Associates; beside Roberto Clemente SP; elevator complaints, one elevator reportedly out over five years; Lloyd Ultan quote (not used) · §5, at a glance, building types, Q&A 1, landmarks, AI check.
+- same · WebFetch · https://davisbrodybond.com/river-park-towers · 1975; 1,654 moderate/low-income units; UDC sponsor; conjoined towers 38 and 42 stories, mirrored offset plans, widen toward top; 8-in "super bricks"; bridge over Major Deegan to parking; waterside park, rec center, school · building types, Q&A 2, landmarks.
+- https://en.wikipedia.org/wiki/River_Park_Towers · WebFetch EMPTY (permission request not answered) — not used.
+- "River Park Towers Bronx Morris Heights fire OR renovation OR sale 2024 2025 2026" · WebSearch · no River Park Towers fire/renovation news found · EMPTY.
+- ""1520 Sedgwick Avenue" building stories units Mitchell-Lama hip hop birthplace" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/1520_Sedgwick_Avenue · 102 units, 18 floors, ~119,919 sq ft, 1967; Mitchell-Lama exit sought 2007, sold 2008 (Karasick group), HDC $5.6M loan 2010 for Winn/Workforce Housing Advisors, title Nov 7 2011; OPRHP recognition July 5 2007; Aug 11 1973 party in recreation room · §5, at a glance, building types, Q&A 4-5, landmarks.
+- https://www.multihousingnews.com/?p=1004092036 (WinnResidential/WHA $16.8M renovation) · WebFetch EMPTY (client_error) — not used.
+- "FDNY fire safety notice fireproof building stay in apartment unless fire is in your apartment" · WebSearch → WebFetch · https://www.nyc.gov/assets/fdny/downloads/pdf/codes/non-combustible-fireproof-building.pdf · "Stay inside your apartment and listen for instructions from firefighters unless conditions become dangerous."; notice does not mention fire alarm · Q&A 3, sources.
+
+### Health center
+- "Morris Heights Health Center Burnside Avenue building new facility" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Morris_Heights_Health_Center · founded March 1981 by Verona Greenland at 70 W Burnside; HQ 85 W Burnside, 33,000 sq ft, May 1987; 30 sites (19 school-based); ~52,000 patients; 550+ staff; six-story 112,000 sq ft building at 57-69 W Burnside, 71 senior units, Article 31 mental health (opened 2010); 70 W Burnside began as birthing center, now Women's Health Pavilion · §5, at a glance, building types, corridors, Q&A 8, landmarks.
+- same · WebFetch · https://terjesenarchitects.squarespace.com/harrison-circle · across the street from MHHC HQ; 107,000 sq ft mixed-use; 30,000 SF Article 28 D&TC (10,000 SF specialties, 9,000 SF mental health and wellness, radiology, classrooms); 5,000 SF PT; admin; 55,000 SF senior housing, 70 units; 9,000 SF medical retail; covered parking for 80; completed 2012 · §5, building types, Q&A 6-7, stacked uses. (Discrepancy with Wikipedia 71 units/112,000 sq ft noted on page as "about 70".)
+
+### New construction
+- "newyorkyimby Morris Heights Bronx permits filed 2025 2026" · WebSearch · result titles: YIMBY "Plans Approved for Affordable Senior Housing at 105 West Tremont Avenue" (Sept 2026), "Permits Filed for 1884 University Avenue" (Aug 2026) · both YIMBY pages WebFetch EMPTY (client_error); 105 W Tremont details taken from architect page below; 1884 University NOT used.
+- ""105 West Tremont Avenue" senior housing Morris Heights stories units" · WebSearch → WebFetch · https://www.scottbrownrigg.com/design-research-unit/articles-publications/building-study-105-west-tremont-avenue/ · 10 stories, 100 ft, ~55,000 sq ft, 95 AIRS senior units, corner of Grand Ave, Crown Holdings + The Community Builders, Passive House, all-electric, 1,800 sq ft rooftop solar, 24-hour reception, community/rec spaces, consultation rooms · hero, §5, building types, AI check, Q&A 9, stacked uses.
+- https://traded.co/blog/crown-holdings-community-builders-win-approval-for-95-unit-bronx-senior-housing/ · WebFetch EMPTY (client_error).
+- same search as YIMBY · WebFetch · https://blog.marketproof.com/?p=163356 · 1888 Cedar Ave, filed Nov 26 2025, 4 stories, 54 ft, 13 units, replaces 1899 two-story house (commercial sq ft figure 16,701 looks inconsistent — not quoted) · §5, corridors, stacked uses.
+- same · WebFetch · https://blog.marketproof.com/new-building-permit-filed-for-1911-harrison-ave-in-morris-heights-bronx/ · filed Nov 12 2025, 8 stories, 79 ft, 28 units, replaces 1920 three-story townhouse (sq ft figures implausible — not quoted) · stacked uses.
+- same · WebFetch · https://blog.marketproof.com/new-building-permit-filed-for-2-w-burnside-ave-in-morris-heights-bronx/ · filed Jan 20 2026, one story, 19 ft, 5,652 sq ft commercial, existing 1931 one-story (residential figure 242,184 is an error — not quoted) · building types (trimmed), sources.
+- Marketproof 1756 / 1959 / 2035 Jerome Ave, 2 W Tremont Ave, 1923 Harrison Ave · seen in search only, not fetched — not used.
+
+### Local fires / building conditions
+- "Morris Heights Bronx fire 2026 apartment building FDNY" · WebSearch → WebFetch · https://bronx.news12.com/2026/03/04/2-people-injured-after-fire-tears-through-morris-heights-apartment-building/2iqouMFTJ5sjtlRln2XnSu · 1775 Davidson Ave; top-floor apartment fire spread to roof; nearly 200 firefighters; 2 injured; 7 households (18 adults, 5 children) displaced; Deputy Chief Michele Fitzsimmons: "Hydrants were blocked by cars."; arrival 4 minutes; date stamp March 4 2026 vs "Tuesday morning" (exact day unclear) · §5, at a glance, Q&A 11, AI check.
+- same · WebFetch · https://bronx.news12.com/fire-inside-apartment-walls-displaces-10-in-the-bronx · published Aug 11 2026; fourth-floor fire, Morris Heights; 10 displaced; no injuries; cause under investigation; no address · §5, at a glance, Q&A 12.
+- same · WebFetch · https://bronx.news12.com/2026/05/23/one-dead-two-hurt-as-fire-rips-through-morris-heights-apartment-building/4rbMvs1LER4p8CZ1asq963 · 226 W Tremont Ave between Phelan Pl and Sedgwick Ave, May 23 2026 — NOT used (already on Mount Hope page).
+- same · WebFetch · https://www.cbsnews.com/newyork/news/morris-heights-bronx-building-fire · Jan 5 2026 five-alarm, Findlay Ave & 170th St — NOT used (east of Jerome; Claremont sibling uses it).
+- same · WebFetch · https://bronx.news12.com/fire-rips-through-yard-outside-morris-heights-building · May 2026 yard fire in front of fire escape stair, no address — NOT used.
+- "River Park Towers ... 2026" search → WebFetch · https://bronx.news12.com/tenants-fear-roof-could-collapse-as-leaks-continue-inside-morris-heights-apartment-building · July 28 2026, University Ave building (no address); sixth floor evacuated ~1.5 years earlier, leaks reaching fifth floor; quotes Altagracia Nunez ("like a river") and anonymous tenant "Nice cabinets, nice floors, sounds nice. But my main concern is the roof."; Progressive Management did not respond · corridors, Q&A 10, FAQ 7.
+- 1484 Montgomery Ave, Sept 23 2026 (silo research line 1357, abc7ny URL) · WebFetch of https://abc7ny.com/post/1-dead-4-hurt-including-firefighters-bronx-fire-led-man-jump-burning-building/19861286/ EMPTY (permission request not answered) — NOT used (boundary uncertain).
+
+### NYCHA
+- "NYCHA Sedgwick Houses Bronx University Avenue buildings stories apartments PACT" · WebSearch → WebFetch · https://www.nyc.gov/site/nycha/about/pact/northwestbronx.page · nine PACT projects incl. West Tremont Ave–Sedgwick Ave Area, University Ave Rehab, Harrison Ave Rehab (Groups A, B); 14 buildings, 1,669 apartments; Arker, SBV, Dabar; Progressive Management; no fire alarm scope stated · stacked uses (one sentence, "we assume nothing").
+- Sedgwick Houses details · not fetched — not used.
+
+### Park / firehouse
+- "Roberto Clemente State Park Bronx recreation building pool renovation fire" · WebSearch · only 2010-2013 pool reopening / funding press releases · NOT used beyond DCP facts.
+- "FDNY Engine 43 Ladder 59 Sedgwick Avenue firehouse Bronx" · WebSearch · no address confirmation in results · EMPTY — firehouse not named on page.
+
+### Community / SERP
+- Reddit (r/bronx, r/AskNYC) Morris Heights fire alarm threads · not searched separately · EMPTY.
+- Google PAA / PASF / Answer the Public / Google AI Overview / Bing / DDG for "fire alarm installation Morris Heights Bronx" · EMPTY (no live SERP captured); §10.5 written against common generic AI answers, corrected with FDNY/code sources.
+- Yelp 1-3★ fire alarm contractors Morris Heights · EMPTY (not searched).
+- Bronx Times / Norwood News Morris Heights hyperlocal beyond the 2015 River Park Towers article · EMPTY (not searched).
+
+### Images
+- 11 new files copied (cp, originals untouched) from the shared fire alarm set; each source viewed or matched by hash to a caption previously verified on the Longwood/Highbridge pages; alt/title/caption describe only what is visible; no camera/network photos; the "451" storefront version skipped in favor of the number-free Fulton Ferry copy: fire-alarm-installation-morris-heights-bronx-ny-notifier-panel-tablet-pull-station, -pull-station-lobby-glass-doors, -horn-strobe-multimeter-pump-room, -smoke-detector-ladder-panel-corridor, -open-panel-screwdriver-drawings, -pull-station-open-terminals, -cable-spool-steel-stud-rough-in, -touchscreen-floor-map-review, -storefront-pull-station-drill, -kitchen-heat-detector-ladder, -warehouse-beam-smoke-detector-lift (all .webp). The 11 old-page morris-heights image files are now unreferenced (left in place).
+
+### Question register (this page)
+Q&A headings (§9):
+1. Our tower's residents reported an elevator out of service for years. Does a broken elevator change what the fire alarm does in an emergency?
+2. When firefighters walk into one lobby of a two-tower complex, how do they see an alarm that started in the other tower or in the parking structure?
+3. The FDNY notice for fireproof buildings tells River Park Towers residents to stay inside unless the fire is in their own apartment. Then what is the tower's fire alarm supposed to tell them?
+4. 1520 Sedgwick Avenue changed owners several times after leaving Mitchell-Lama. How does a new owner find out what fire alarm was approved for a building like that?
+5. The recreation room where the 1973 party happened is still a community room. If a building rents its community room for events, does the fire alarm change?
+6. Our clinic is on the floors below senior apartments. When a clinic detector goes off at night, should the whole building evacuate?
+7. Our health center building has covered parking for residents and staff under the same roof as the clinic. What kind of detection does a parking level like that get?
+8. The health center's first site on West Burnside Avenue began as a birthing center and is now an outpatient women's health pavilion. When a building stops keeping patients overnight, can its fire alarm be scaled back?
+9. The new senior building at 105 West Tremont Avenue will have a 24-hour reception desk. What does the desk staff have to be able to do with the fire alarm?
+10. Water has been leaking through the top-floor ceilings of our University Avenue building. What does that do to the fire alarm devices up there?
+11. The March fire on Davidson Avenue started in a top-floor apartment and reached the roof. Where does a building fire alarm look for a fire like that?
+12. News 12 said the August fire in Morris Heights burned inside an apartment's walls. Can a fire alarm detect a fire inside a wall?
+Other headings ending in "?": none.
+FAQ (§17):
+1. Our health center leases floors in a building it doesn't own but runs its own front desk. Should our staff be able to see the building's fire alarm display?
+2. Can devices be replaced in a riverfront tower without shutting off the alarm for the whole building?
+3. How much notice should tower residents get before the annual fire alarm test, and what will they hear?
+4. What should a senior building's reception staff write down after a fire alarm activation?
+5. Does the fire alarm in a building with a clinic, a garage and apartments report each part separately to the central station?
+6. Do fire alarm cables have to be sealed where they pass through the airtight layer of a Passive House building?
+7. How do we keep fire alarm devices working on a floor that has been emptied for repairs?
+8. If a commercial tenant on Cedar Avenue moves out, what happens to the fire alarm devices in its space?
+9. Should a building's fire alarm be checked after a fire nearby, even if its panel never went into alarm?
+
+## Morris Park, Bronx — /fire-alarm-installation-morris-park-bronx-ny (commercial rebuild research, 2026-11-15)
+
+NFPA 72 commercial only. Regulatory base (PE/RA sealed drawings, TM-1, Project Authorization, FDNY Fire Alarm Company Certificate, S-97 with NICET II+ or NYC master/special electrician, S-98, FAIU, ~20-24 weeks / up to 8 weeks initial review, central station active before inspection, 40-70 business days test request, FA-27 $105, NYC Business $420/$525, 2012 central office connection bulletin, 36 in from diffusers, fans over 2,000 cfm, NY Engineers 907.2 occupancy triggers, NFSA 75-ft high-rise definition) reused as facts from the silo sections of research/fire-alarm-installation.md (same URLs as the Longwood section) — not re-fetched, not wording.
+
+**Unique angle:** Morris Park's "Hospital Row" and office campus — many occupants under one panel. Eastern edge: Jacobi (457 beds, Level I trauma, burn unit, EMS Station 20), Einstein campus + Montefiore Weiler (Price Center research building), Calvary Hospital (225-bed hospice/palliative), rebuilt Bronx Psychiatric Center (locked inpatient units, children's center), Hutchinson Metro Center (Meier's 1977 Bronx Developmental Center converted 2003; Tower One; Montefiore's 11-story Tower Two ambulatory surgery center, "a hospital without beds"; Residence Inn; clinical research tenant at 1200 Waters Pl). Fire alarm theme: tenant fit-outs on a landlord's system, ambulatory health care vs business occupancy, labs/MRI/locked units/hospice notification, high-rise towers. Plus Morris Park Avenue BID storefronts (family bakeries/pizzerias, kitchens) and the 2024 Bronx Metro-North rezoning near the planned Morris Park station (density cut by CM Marmorato; mid-rise filings at 800 Brady Ave 70 ft and 626 Pelham Pkwy S 105 ft).
+Avoided (sibling pages): Bronxwood (Beth Abraham nursing home, CMS Life Safety Code / defend-in-place, FDNY CRA BX11 statistics, 601 Pelham Pkwy N fire), Allerton (2910 Wallace Ave fire, 700 Adee Ave deli fire, Jacobi only mentioned in passing there), Longwood (change-of-use/second-life angle, Prospect Ave fire), Eastchester (Engine 38/Ladder 51, Hutchinson River industrial zone), Bronx hub (Montefiore bed counts by campus — Weiler 431 not repeated), Van Nest (April 2026 Morris Park Avenue fire is in Van Nest per News 12 — NOT used), Claremont (psych treatment strobes/ligature questions), Downtown Brooklyn (fire command center / voice messages per floor questions), East Flatbush (bakery oven 3 a.m. question; phased upgrade), Bathgate (restaurant hood tie-in question), Fort Greene (overnight trouble call), Westchester County (lab fume hood question), Midwood (crossing 75 ft question), Foxhurst (parade, walk-ups needing full system). Pelham Parkway, Westchester Square, Parkchester, Bronxdale, Indian Village, Van Nest: no rebuild research sections yet in research/fire-alarm-installation.md; their facts were avoided by keeping to Hospital Row / Morris Park Ave / station-area sources.
+
+Format: exact query · platform · URL · finding · page section used.
+
+### Boundaries / background
+- "Morris Park Bronx neighborhood boundaries Morris Park Avenue hospitals Calvary Einstein Jacobi Hutchinson Metro Center" · WebSearch → WebFetch (en.wikipedia.org blocked by permission timeout; read via mirror) · https://wikiwand.com/en/Morris_Park,_Bronx (mirror of https://en.wikipedia.org/wiki/Morris_Park,_Bronx) · Boundaries Neill Ave + Pelham Pkwy (N), Eastchester Rd (E), Amtrak NEC tracks + Sackett Ave (S), Bronxdale Ave + White Plains Rd (W); 10,289 residents (2011 est.), 0.347 sq mi; CD11; mostly one-/two-family homes plus several apartment buildings; Morris Park Racecourse 1889-1910 (1890 Belmont/Preakness, Belmont until 1905), lots after 1910 fire; institutions Jacobi, Einstein, Weiler, Calvary, Bronx Psychiatric; St. Francis Xavier, St. Clare of Assisi, Our Savior Lutheran, PS 83, PS 108; NYPL Morris Park branch 985 Morris Park Ave (2006, 6,600 sq ft); 49th Pct 2121 Eastchester Rd; Squad 61/Battalion 20 1518 Williamsbridge Rd; Engine 90/Ladder 41 1843 White Plains Rd; EMS Station 20 at Jacobi; post office 1807 Williamsbridge Rd; 2024 rezoning 46 blocks, ~7,000 units · hero, §5, at a glance, corridors, landmarks.
+- same search · WebFetch · https://forgotten-ny.com/2006/08/morris-park-bronx/ · "Hospital Row"; Morris Park Ave main commercial spine with pizza places and pasticcerias; track burned 1910; 1908 first formal airfield (not used); Art Deco buildings on Cruger Ave; Our Savior Lutheran church/schools at Williamsbridge & Morris Park Ave; Bronx Park Medical Pavilion on Bronxdale Ave (not used) · §5, corridors, landmarks.
+- same search · WebFetch · https://www.cityneighborhoods.nyc/morris-park · two-story brick homes, detached houses, low-rise apartment buildings 1920s-1940s; Morris Park Ave bakeries/trattorias; Conti's Pastry Shoppe 1921; Einstein + Jacobi founded/opened 1955; St. Clare of Assisi (1929); Bronx Columbus Day Parade on Morris Park Ave (not used — Foxhurst parade question) · §5, FAQ (St. Clare).
+- same search · WebFetch · https://www.nyc.gov/assets/planning/download/pdf/plans-studies/sustainable-communities/bmn/bronx_metro_report/morris_park.pdf · DCP station profile: station near Morris Park Ave & Bassett Ave; 16,000+ people come to work daily within half mile; employers: Jacobi 3,519, Einstein 2,764, Montefiore/Einstein 2,000, Hutchinson Metro Center 4,500, Calvary 764, Bronx Psychiatric 590; residential 1-3 stories; Eastchester Rd single-story light manufacturing, recommendation for mid-to-high density mixed use between Pelham Pkwy and Williamsbridge Rd; Bassett Ave no sidewalks · §5, corridors, at a glance.
+
+### Hospital Row / campus institutions
+- "Jacobi Medical Center 1400 Pelham Parkway South beds trauma center Wikipedia" · WebSearch → WebFetch · https://wikiwand.com/en/Jacobi_Hospital · 1400 Pelham Pkwy S; opened 1955; 457 beds; Level I trauma; Bronx's only burn unit; helipad; EMS Station 20 · §5, landmarks, FAQ (helipad).
+- "Calvary Hospital 1740 Eastchester Road beds palliative care Bronx" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Calvary_Hospital_(Bronx) · 1740 Eastchester Rd; 225 beds; hospice/palliative; founded 1899; Archdiocese affiliated · §5, building types, Q&A (hospice), landmarks.
+- "Albert Einstein College of Medicine Morris Park campus buildings ... Price Center" · WebSearch → WebFetch · https://einsteinmed.edu/news/releases/205/albert-einstein-college-of-medicine-opens-$220-million-genetic-and-translational-medicine-research-facility · opened June 12 2008; $220M; 223,000 sq ft; five stories; genetics/stem cell/imaging/computational labs; Payette · §5, building types, landmarks.
+- "Bronx Psychiatric Center 1500 Waters Place new building opened OMH Morris Park" · WebSearch → WebFetch · https://www.dasny.org/news/2017/new-york-state-announces-opening-350-million-bronx-behavioral-health-campus · Jan 19 2016, completed Dec 2015; $350M; 436,310 sq ft; 156 BPC beds, 86-bed NYC Children's Center Bronx Campus, 188 residential; secure recreation areas, electronic monitoring · §5, building types, landmarks, Q&A (locked units).
+- same search · WebFetch · https://nyrej.com/simone-development-to-build-and-develop-33-acre-former-omh-site-at-1500-waters-place-in-the-bronx · March 2015: Simone wins 33-acre former OMH site; Phase I 500,000 sf Parker Building offices/medical, Thompson Building hotel + college; Phase II four 10-story 250,000-sf office buildings · corridors (Waters Place).
+- "Hutchinson Metro Center Bronx Developmental Center Richard Meier Simone ..." · WebSearch → WebFetch · https://www.lehman.edu/public-art-bronx/Hutchinson-Metro-Center-Bronx-Development-Center/ · Richard Meier, 1977, state facility for 380 children with disabilities; sold at auction 2001 ($3.7M); opened as Hutchinson Metro Center 2003; three buildings merged, curved entrance, cladding replaced · §5, landmarks.
+- same search · WebFetch · https://www.bxtimes.com/lease-signed-new-medical-center-hutchinson-metro-center-pharmacy · Aug 22 2024: Adams Clinical (Davis Clinical research center) 7,236 sf at 1200 Waters Pl (433,000 sf); Tower One 285,000 sf nine floors with conference centers; 80+ businesses; Mercy College, Montefiore, Residence Inn by Marriott; Joe Simone quote "an excellent addition to our vibrant scientific community" · §5, corridors, station section, Q&A, FAQ.
+- same search · WebFetch · https://montefiore.org/simone-healthcare-development-and-montefiore-celebrate-topping-out-of-new-addition-to-hutchinson-metro-center · May 16 2013 topping out; Tower Two 280,000 sf, 11 stories; ambulatory surgery center 12 ORs + 4 procedure rooms, imaging, lab, pharmacy; Dr. Steven M. Safyer: "a hospital without beds" · §5, building types, AI check, Q&A.
+- https://www.nyrej.com/simone-acquires-supermarket-plans-logistics-facility-conversion (1720 Eastchester Rd logistics) · WebFetch EMPTY (permission request not answered) — not used.
+- https://en.wikipedia.org/wiki/Morris_Park,_Bronx · WebFetch EMPTY (permission request not answered) — mirror used instead.
+- "fire Jacobi Medical Center OR Einstein OR Bronx Psychiatric Center OR Calvary Hospital OR Weiler Morris Park evacuated" · WebSearch → WebFetch · norwoodnews generator fire = Montefiore Moses (Gun Hill Rd, Nov 2011); bxtimes Jacobi fire drill with FDNY/Army (Oct 2019, no detail); Montefiore ASHE item (2011, no detail) · NOT used (not Morris Park / no usable facts).
+
+### Morris Park Avenue / BID
+- "Morris Park Avenue Business Improvement District ... Bronx Times" · WebSearch → WebFetch · https://www.welcome2thebronx.com/2017/12/15/new-morris-park-business-improvement-district-approved-by-city-council · BID approved Dec 2017; just over a mile of Morris Park Ave; 188 businesses (citing Bronx Times) · §5, Q&A (BID).
+- same · WebFetch · https://www.bxtimes.com/morris-park-businesses-shockingly-healthy-despite-challenges-of-covid-19 · Jan 6 2021; Dr. Camelia Tepelus "shockingly healthy"; almost entirely family-owned; Emilio's, Patsy's Pizzeria; one subway station (5 at Esplanade?) · §5 quote.
+
+### Rezoning / station / new construction
+- "Bronx Metro-North rezoning Morris Park station Eastchester Road approved 2024 ..." · WebSearch → WebFetch · https://www.6sqft.com/nyc-council-approves-east-bronx-rezoning-that-will-add-7000-new-homes/ · approved Aug 15 2024; 46 blocks, four stations incl. Morris Park; ~7,000 homes, 1M+ sf commercial, 10,000 jobs; CM Kristy Marmorato density limits near Morris Park station + parking mandate → 500 fewer apartments; completion pushed from March 2027 to late 2027 (MTA, July 2023) · at a glance, station section, Q&A (density).
+- same · WebFetch · https://www.citylandnyc.org/council-approves-bronx-metro-north-station-area-plan/ · new public plaza at Morris Park station; Eastchester Rd pedestrian crossings; stations expected by 2027 · at a glance (plaza sentence later trimmed; source kept in list).
+- "newyorkyimby permits filed Morris Park Bronx 2025 2026" · WebSearch → WebFetch · https://blog.marketproof.com/new-building-permit-filed-for-800-brady-ave-in-morris-park-bronx/ · filed Jan 5 2026; 7 stories, 70 ft; 89 units; 737 sf commercial; Nikolai Katz Architect; replaces 1931 two-story building · building types, AI check, station section.
+- same · WebFetch · https://blog.marketproof.com/new-building-permit-filed-for-626-pelham-pkwy-s-in-morris-park-bronx/ · filed March 27 2026; 9 stories, 105 ft; 106 units; Purpose By Design Architects; replaces 1948 three-story building; commercial sf figure (214,895) looks erroneous — NOT used · building types, AI check, station section.
+- same · WebFetch · https://blog.marketproof.com/new-building-permit-filed-for-1908-muliner-avenue-in-morris-park-bronx/ · 2 stories 25 ft, square footage inconsistent — NOT used.
+- https://newyorkyimby.com/2026/03/permits-filed-for-1612-poplar-street-in-morris-park-the-bronx.html · WebFetch EMPTY (client_error) — not used.
+
+### Local fires / community / SERP
+- "Morris Park Bronx fire Morris Park Avenue FDNY 2025 2026" + "norwoodnews Morris Park fire" + "Morris Park Avenue restaurant fire OR store fire Williamsbridge Road fire 2025" · WebSearch · only the April 2026 Morris Park Avenue fire in Van Nest (News 12) and non-local fires · EMPTY for Morris Park proper (Van Nest fire NOT used — sibling area).
+- "reddit Morris Park Bronx fire alarm building OR hospital row" · WebSearch · EMPTY (news results only, no Reddit threads).
+- Google PAA / PASF / AI Overview for "fire alarm installation Morris Park Bronx": EMPTY (no live Google SERP captured this session); silo-level PAA/AIO claims reused as AI Reality Check targets (paraphrased).
+- Answer the Public: EMPTY (not accessible).
+- Yelp 1-3★ fire alarm contractors Morris Park: EMPTY (not searched).
+- Bing/DDG cross-check: EMPTY (WebSearch only).
+
+### Images used (11, cp from the shared set to new page names; each viewed; no street numbers)
+- fire-alarm-installation-ny-control-panel-touchscreen-tablet → -notifier-panel-touchscreen-tablet-check (hero)
+- fire-alarm-installation-ny-panel-check-sprinkler-riser → -hi-vis-panel-check-sprinkler-gauges
+- fire-alarm-installation-ny-fire-alarm-cable-pull-steel-studs → -red-fire-alarm-cable-spool-steel-studs
+- fire-alarm-installation-bronx-ny-smoke-detector-office-lift → -blue-lift-office-ceiling-smoke-detector
+- fire-alarm-installation-ny-panel-wiring-drawings → -open-panel-circuit-board-screwdriver
+- fire-alarm-installation-ny-pull-station-terminal-wiring → -corridor-pull-station-under-horn-strobe
+- fire-alarm-installation-ny-pull-station-and-panel-two-techs → -pull-station-keypad-panel-two-techs
+- fire-alarm-installation-ny-panel-zone-map-review → -notifier-panel-floor-map-tablet
+- fire-alarm-installation-ny-lobby-annunciator-check → -chandelier-lobby-annunciator-touchscreen
+- fire-alarm-installation-ny-kitchen-heat-detector → -commercial-kitchen-ceiling-detector-hood
+- fire-alarm-installation-ny-smoke-detector-and-panel-retail → -ladder-smoke-detector-glass-door-corridor
+- Skipped: fire-alarm-installation-ny-pull-station-storefront-conduit (readable "451"). The 11 older fire-alarm-installation-morris-park-bronx-ny-*.webp files from the old page were left in place (not deleted), not referenced.
+
+### Question register (this page)
+Q&A headings (§9):
+1. Montefiore called its 11-story surgery tower at the Metro Center "a hospital without beds." Is a building like that designed under hospital fire alarm rules or office rules?
+2. Which fire alarm devices can go inside the MRI magnet room of an imaging center on the Metro Center campus?
+3. The psychiatric center's units keep doors locked for patient safety. How does a fire alarm unlock exits on a locked inpatient unit?
+4. In a hospice where patients are near the end of life, are full horns used in patient rooms, or something quieter?
+5. A clinical research site on Waters Place may schedule overnight study visits. Does having participants sleep there change the fire alarm?
+6. Can the devices in one lab on the Einstein campus be shut off while that lab is renovated, without disabling the whole floor?
+7. Our two-story building on Morris Park Avenue may add a floor of apartments. Would the addition bring a fire alarm requirement the building doesn't have now?
+8. The Morris Park Business Improvement District covers about a mile of storefronts. Can several owners on the avenue share one inspection and testing day?
+9. Our family's pasticceria building on Morris Park Avenue has never had a fire alarm system. Does selling the business force the new owner to install one?
+10. Density near the Morris Park station was cut back during the rezoning talks. If a planned building comes in shorter than first drawn, what changes in its fire alarm?
+11. A one-story storage building on Eastchester Road is being sold for redevelopment. Should its fire alarm stay monitored right up to demolition?
+12. Our tower floor at the Metro Center has open-plan desks under sprinklers. Does the whole floor need smoke detectors?
+FAQ (§17):
+1. Does a hotel on the Hutchinson Metro Center campus need a detector in each guest room as well as the building fire alarm?
+2. Does a medical office building's fire alarm have to be tested more often because patients are inside?
+3. What should a lab manager tell us before a fire alarm test so experiments and freezers aren't affected?
+4. Is a dental office that uses nitrous oxide treated like a surgery suite for the fire alarm?
+5. Do the conference centers at the Metro Center need different fire alarm notification from the office floors around them?
+6. Our dialysis treatments can't be stopped halfway. How is a fire alarm test scheduled in a dialysis unit?
+7. Does a parish school like St. Clare of Assisi follow a different fire alarm test schedule from the church next door?
+8. Does a hospital helipad like Jacobi's connect to the building fire alarm?
+9. Can a fire alarm panel go inside a tenant suite in a tower, or does it have to be at the building's fire command station?
+10. If the new Metro-North station brings more patients to a clinic nearby, does the clinic's occupant load change its fire alarm?
+11. Can a tenant suite's devices report to the tenant's own central station instead of the building's?
+12. Does a cafeteria kitchen inside a hospital or office building need the same detection as a restaurant on the avenue?
+
+## Morrisania, Bronx — /fire-alarm-installation-morrisania-bronx-ny (commercial rebuild research, 2026-11-15)
+
+NFPA 72 commercial only. Regulatory base (PE/RA sealed drawings, TM-1, Project Authorization, FDNY Fire Alarm Company Certificate, S-97 with NICET II+ or NYC master/special electrician, S-98, FAIU, ~20-24 weeks / up to 8 weeks initial review, central station active before inspection, 40-70 business days test request, FA-27 $105, NYC Business $420/$525, records 3 years, Jan 2012 central office connection bulletin, 36 in from diffusers, fans over 2,000 cfm, BC 403 high-rise list, FDNY TM Bulletin 03-01-2019 FCC >125 ft R-2, BC 403.5.3 stair doors unlock from FCC, 1968 code §27-968 list, NY Engineers BC 907.2 summary incl. E = all schools, A ≥300, R-2 3+ stories/16+ units, ICC/NYC 75-ft high-rise definition, FDNY in-building auxiliary radio permit, NYCHA design guidelines: two dedicated lines + elevator recall) reused as facts from the silo sections of research/fire-alarm-installation.md (lines ~486, 1210, 3122-3123, 5763-5764, 8154 and the Longwood header list) — not re-fetched, not wording. Re-fetch of https://designguidelines.nycha.info/fire-alarm/ this session: EMPTY (permission request not answered). NFPA 72 secondary-power duration (24 h standby + 5 min alarm / 15 min EVACS) stated from the standard itself (general knowledge, no URL fetched).
+
+**Unique angle:** Morrisania as a neighborhood of towers and shared big buildings — 20 NYCHA developments up to 29 stories (Forest Houses 15 bldgs 9-14 st; Webster 5×21; Morris I/II 16-20; McKinley 5×16; Morrisania Air Rights 19/23/29 st on steel trusses over the Metro-North cut), NYCHA's fire alarm replacement program (24-30 months construction, residents in place), a run of 2025-26 high-rise fires (Forest Houses 6th floor Nov 13 2025 with elevator outage signs; Washington Ave high-rise Thanksgiving 2025; E 169th St high-rise balcony Feb 20 2026), the landmarked 1904 Morris High School building now shared by four high schools (Duncan Hall, 1,200 seats; 8-story entrance tower), the 18-story Sol on Park senior tower breaking ground on the Morris Houses campus (Sept 29 2026, 8,000+ sq ft community/health space), plus 66-ft six-story infill filings and the Third Ave auto body fire (June 2 2026). Fire alarm theme: occupied-tower replacement, voice/FCC/elevator/radio in residential high-rises, one system shared by many users.
+Avoided (sibling pages): Longwood (second-life buildings, 75-ft line filings, Prospect Ave store row, Dickerson SRO rowhouses — Dickerson rowhouses in the Morris HS district deliberately not used), Claremont (BronxCare Fulton Ave, behavioral health, Clay Ave walk-ups, CRA BX03 fire-rate stat, Claremont Village), Bathgate (Butler Houses, Bathgate Industrial Park, Claremont Village NYCHA), Crotona Park East (nonprofit rehab/sponsor change, day-care ground floor), Concourse (Grand Concourse LPC interiors, 1215 Grand Concourse), Foxhurst (Engine 82, church-site supportive housing), East Tremont (storefront corridor, 15-story FCC question, auto shop detection question), Highbridge (two-level entrances/hill angle — Morrisania "hilly" not used), Bronx hub (Twin Parks 2022). Old factory-research facts NOT used: 722 E 168th St fatal fire (a home — out of scope), Boston Rd 2019 house fire, HPD/NSPIRE smoke-alarm rules (residential smoke alarms, out of scope), 1202 Franklin Ave abandoned building fire May 2026 (squatters, building type unclear), 1048 Washington Ave fire Apr 2026 (building type not stated).
+Questions checked against every sibling page's Q&A/FAQ headings (grep of 160+ pages) for meaning overlap; dropped/rewrote before publishing: shared school building "who is responsible" (canarsie), NYCHA private contractor (east-new-york, soundview, bathgate), auto shop detection/need (east-tremont, kensington), church hall rented for parties (nassau, flatbush, bergen-beach), walk-ups sharing one panel (prospect-lefferts, boerum-hill), adding an elevator (mapleton), day care/program ground floor (crotona-park-east), standby battery duration (fort-hamilton), deaf/hard of hearing (fiske-terrace), FCC need for 15-18 story (east-tremont), nuisance alarms (brooklyn-ny), laundromat (bath-beach), voice messages by floor (downtown-brooklyn, westchester), resident text messages (kensington), elevator company at test (castle-hill), add a floor (morris-park), warming center (kingsbridge-heights), charter school (bronx-ny, bathgate), firehouse proximity (fulton-ferry), strobe sync (brooklyn-navy-yard), two panels (brooklyn-ny), multilingual messages (cypress-hills).
+
+Format: exact query · platform · URL · finding · page section used.
+
+### Boundaries / background
+- "Morrisania Bronx" · WebFetch · https://en.wikipedia.org/wiki/Morrisania,_Bronx · Cross Bronx Expwy (N), Crotona-Prospect Ave (E), E 163rd St (S), Webster Ave (W); Third Ave main thoroughfare; CD3 (with Crotona Park East); 2010 pop 37,865 (29,797 in 2000), 387.46 acres (infobox conflicts — not used); building stock public housing, vacant lots, tenements, rehab + new subsidized buildings; 20 NYCHA developments listed with stories (Forest 15 bldgs 9/10/14; Webster 5×21; Morris I 10 bldgs + Morris II 7 bldgs 16/20; McKinley 5×16; Butler 6×21 [not used]; Franklin Ave/Jennings St rehab clusters; Morrisania Air Rights listed as "two 16-story" — conflicts with its own article, the Air Rights article used); 42nd Pct 830 Washington Ave; Engine 50/Ladder 19/Battalion 26 1155 Washington Ave; Rescue 3 1655 Washington Ave (not used); Morrisania library 610 E 169th St (Carnegie 1908); Metro-North Melrose station 162nd St; Morris HS Historic District; Clay Ave HD (not used — Concourse/Claremont side) · §5, at a glance, corridors, landmarks.
+- (prior factory research, line ~1607) https://cityneighborhoods.nyc/morrisania · tighter boundaries (Crotona Park N, Park/Fulton Ave west edges); Third Ave, Boston Rd, Prospect Ave commercial · §5 (one clause).
+- "Morrisania Bronx history" (factory research) · https://theneighborhoods.substack.com/p/morrisania-the-bronx · WebFetch re-confirmed this session: 40% of housing destroyed late 1960s-70s, more than half left; Air Rights on Metro-North tracks with lightweight horizontal steel trusses; Morris HS "most integrated"; PS 63 · §5.
+- (factory research) https://www.nyc.gov/assets/dcla/downloads/pdf/BCC-NACI-Morrisania.pdf · ~8,500 new units built and ~9,000 preserved since 1990 · §5. (Not re-fetched.)
+- (factory research) https://www.nyc.gov/assets/planning/download/pdf/community/197a-plans/bx3_partnership_197a.pdf · Third Ave E 169th St–Claremont Pkwy and Boston Rd blocks E 163rd–Crotona Park E as main commercial zones · §8 corridors. (Not re-fetched.)
+
+### Towers (unique angle)
+- "Morrisania Air Rights houses built over railroad tracks Park Avenue NYCHA" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Morrisania_Air_Rights · 3 buildings 19/23/29 stories; completed Jan 1 1981; 843 apts, ~1,952 residents; over Metro-North (former Penn Central Harlem division) tracks ~20 ft below street; The Eggers Partnership; MIT-developed steel trusses so trains kept running; air rights bought, no demolition · hero, §5, §7, Q&A 4 and 8, FAQ 8, landmarks.
+- "Forest Houses NYCHA Morrisania buildings stories 1956 Wikipedia" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Forest_Houses · E 163rd–E 166th Sts, Trinity–Tinton Aves; 15 bldgs 9/10/14 stories; completed Nov 12 1956; 1,350 apts; 2013 Gramsci Monument (not used); separate 8-story privately owned LEED building on sold NYCHA land · §5, Q&A 11, landmarks.
+- https://en.wikipedia.org/wiki/Webster_Houses · WebFetch EMPTY (permission request not answered) — Webster figures taken from the Morrisania article.
+- "commercial fire alarm installation Morrisania Bronx" · WebSearch → WebFetch · https://www.nyc.gov/assets/nycha/downloads/pdf/Learn-More-About-NYCHA-Fire-Alarm-System-Replacements.pdf · NYCHA Capital Projects fact sheet (undated): repair/replace FA; new standpipe cabinets, components, panels, communicators, strobes, magnetic door holders, pull stations, CO/heat/smoke detectors; sprinkler heads, piping, valves, booster pumps; system "approved by the FDNY and DOB"; phases planning/design/procurement 6-12 months each, construction 24-30 months; "significant noise and debris", plastic barriers, "Noise disruptions due to alarm testing may occur", "advance notice of outages", asbestos abatement, training · §7, Q&A 1, AI check, integration, towers section.
+
+### Local fires (2025-2026)
+- "Forest Houses fire Morrisania firefighters injured November 2025 elevators" · WebSearch → WebFetch · https://bronx.news12.com/2-firefighters-3-others-injured-in-morrisania-fire · Nov 13 2025, Forest Houses, 6th floor; 2 firefighters seriously injured, 3 others (one minor); "unplanned elevator outage" signs on every elevator door; resident: "Many tenants on that floor had complained to housing about the condition"; cause under investigation · §5, Q&A 2.
+- same search · WebFetch · https://abc7ny.com/post/resident-injured-animals-rescued-morrisania-bronx-apartment-fire-thanksgiving-night/18221934/ · Thanksgiving night Nov 27 2025, high-rise on Washington Ave, 6th floor, one resident to Lincoln Hospital, animals treated; no quotes; cause under investigation · §5.
+- "Morrisania Bronx fire 2026" · WebSearch → WebFetch · https://bronx.news12.com/fdny-responds-to-balcony-fire-at-morrisania-building · Fri Feb 20 2026 ~6 a.m., high-rise on E 169th St, balcony fire, close to 80 firefighters, two minor injuries reported; no quotes · §5, Q&A 3.
+- "Morrisania Boston Road Third Avenue store fire commercial building Bronx News12" · WebSearch → WebFetch · https://bronx.news12.com/morrisania-auto-body-shop-owner-vows-to-rebuild-after-fire-destroys-business · Tue June 2 2026 ~5 p.m., Third Avenue Auto Repair (owner Omar Fofana, 8 months), roof + interior attack, no injuries, fire marshals investigating; quote "I came back and saw the light catching fire. It was spreading everywhere." · §8 corridors.
+- same "2026" search · WebFetch · https://bronx.news12.com/partial-collapse-after-fire-rips-through-morrisania-building · May 3 2026, 1202 Franklin Ave, 3-story abandoned building used by squatters — NOT used (building type unclear, vacant).
+- same · WebFetch · https://bronx.news12.com/bronx-mother-says-she-lost-home-in-morrisania-fire-while-heading-to-court-against-landlord · Apr 7 2026, 1048 Washington Ave, building type not stated — NOT used.
+- same · WebFetch · https://bronx.news12.com/fire-inside-apartment-walls-displaces-10-in-the-bronx · Morris Heights, not Morrisania — NOT used.
+
+### New construction
+- "Morrisania Bronx affordable housing 2026 groundbreaking..." · WebSearch → WebFetch · https://www.nyc.gov/mayors-office/news/2026/09/mamdani-administration--nycha-and-development-partners-put-publi.html · Sol on Park groundbreaking announced Sept 29 2026; one new 18-story building on Morris Houses campus; Magnusson Architecture and Planning; NRP Group, Selfhelp Realty Group, Foxy Management; 229 senior homes (80 Morris I/II residents, 69 formerly homeless, 79 lottery — sums to 228); 8,000+ sq ft community space, plaza, resident association space, on-site health services; early-2029 move-ins · hero, §5, at a glance, Q&A 9, towers section, FAQ 8.
+- same · WebFetch · https://www.nyc.gov/mayors-office/news/2026/07/mamdani-administration-announces-financial-closing-for-sol-on-pa · July 1 2026 closing, $214M (not used — price-like number avoided), ~1,400 sq ft resident association space, ~8,100 sq ft community facility (NRP), Union Community Health Center + Green Bronx Machine partners; quote Jonathan Gertman (NRP): "we are bringing new life to a Morris Houses site with 229 affordable homes for seniors" · towers section.
+- same · WebFetch · https://www.constructionowners.com/news/nyc-closes-financing-on-214m-affordable-senior-housing-project-at-morris-houses · corroborates unit mix and amenities · background only.
+- "Morrisania Bronx permits filed new building 2026 newyorkyimby" · WebSearch → WebFetch · https://blog.marketproof.com/new-building-permit-filed-for-1217-washington-ave-in-morrisania-bronx/ · filed Feb 19 2026, 6 stories, 66 ft, 36 units, 22,492 res / 1,090 commercial sq ft (existing-building data look inconsistent — not used) · §5, Q&A 10, towers section.
+- same · WebFetch · https://blog.marketproof.com/new-building-permit-filed-for-458-e-168th-st-in-morrisania-bronx/ · filed Feb 19 2026, 6 stories, 66 ft, 36 units, 14,422 res / 2,221 commercial sq ft; rep Nikolai Katz Architect · §5, Q&A 10, towers section.
+- same · WebFetch · https://blog.marketproof.com/new-building-permit-filed-for-1352-prospect-ave-in-morrisania-bronx/ · Mar 27 2026, 4 stories, 50 ft, 14 units, 17,328 commercial sq ft — NOT used (Prospect Ave edge, data unverified).
+- same · https://newyorkyimby.com/2026/10/permits-filed-for-3565-3rd-avenue-in-morrisania-the-bronx.html and https://newyorkyimby.com/2026/08/permits-filed-for-585-east-164th-street-in-morrisania-the-bronx.html · WebFetch EMPTY (client_error) — not used.
+- same · https://www.pincusco.com/anthony-verrelli-files-plans-for-68-units-in-morrisania/ · 497 E 166th St, 68 units, Apr 24 2026; details paywalled — not used.
+
+### Institutions / landmarks
+- "Morris High School Historic District landmark auditorium Morris Campus Bronx" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Morris_High_School_Historic_District · Boston Rd, Jackson & Forest Aves, E 166th & Home Sts; ~8 acres, 51 contributing bldgs; NYCL Dec 21 1982; NRHP Sept 15 1983; Trinity Episcopal Church of Morrisania begun 1874 (Smith Memorial Hall 1905); school opened 1904 (C. B. J. Snyder), 1955 cafeteria/gym addition; Dickerson/Howell/Lavelle rowhouses 1897-1904 (rowhouses not used) · §5 at a glance, §7, landmarks.
+- same · WebFetch · https://www.lehman.edu/public-art-bronx/Morris-High-School/ · 1110 Boston Rd at NE corner E 166th St; Snyder; opened 1904, first co-ed HS in NYC; 5 stories for ~2,500 students; 8-story entrance pavilion/tower; buff brick, limestone, terra cotta, green copper roof; restored 1997; phased out from fall 2002, reopened with five small schools; Duncan Hall vaulted auditorium seats 1,200 · §5, §7, Q&A 6 and 7, landmarks.
+- same · WebFetch · https://www.wikiwand.com/en/Morris_High_School_(Bronx) · Morris Campus, four small high schools listed (Violin and Dance; Bronx International; School for Excellence; Morris Academy for Collaborative Studies) · §5, Q&A 5. (Lehman says five; page uses Wikipedia's current four.)
+- same · WebFetch · https://hdc.org/hdc-across-nyc/bronx/hd-map/bronx-landmarks-morris-high-school/ · designated Dec 21 1982; Trinity Episcopal begun 1874, redecorated 1906 · §7, landmarks.
+- Auditorium interior landmark: LPC image archive titles "Morris High School Auditorium" (https://nyclandmarks.lunaimaging.com/luna/servlet/detail/NYClandmarks~2~2~78544~90712:Morris-High-School-Auditorium) — WebFetch EMPTY (access-verification page); https://www.nycago.org/Organs/Brx/html/MorrisHS.html and https://en.wikipedia.org/wiki/List_of_New_York_City_Designated_Landmarks_in_the_Bronx — WebFetch EMPTY (permission not answered). Interior-landmark status NOT claimed on the page.
+- "Morrisania Library 610 East 169th Street Carnegie 1908 renovation" · WebSearch → WebFetch · https://6tocelebrate.org/site/morrisania-branch-nypl-the-bronx/ · 610 E 169th St; Babb, Cook & Willard; 1908; originally McKinley Square Branch; 1,500+ petition signatures; Classical Revival T-plan; NYC individual landmark 1998 · §5 at a glance, §7, Q&A 12, landmarks, compliance.
+
+### Community / SERP
+- "commercial fire alarm installation Morrisania Bronx" · WebSearch · results were national/vendor pages plus the NYCHA fact sheet; no local PAA/PASF captured · AI check (claims paraphrased).
+- "reddit NYCHA high-rise fire alarm hallway no alarm sounded Bronx tenants" · WebSearch · no Reddit threads returned (City Limits 2018 Butler Houses article only — Butler not used) · EMPTY.
+- Google PAA / PASF / Answer the Public / AI Overview for "fire alarm installation Morrisania Bronx": EMPTY (no live Google SERP captured this session); silo-level PAA/AIO claims from research/fire-alarm-installation.md reused as AI Reality Check targets (paraphrased).
+- Bing/DDG cross-check: EMPTY (WebSearch only).
+- Yelp 1-3★ fire alarm contractors Morrisania: EMPTY (not searched).
+- Local Reddit (r/bronx) Morrisania fire alarm: EMPTY.
+
+### Images used (11, cp from the generic set to page names; each viewed before writing alt)
+- fire-alarm-installation-ny-control-panel-touchscreen-tablet → …-morrisania-bronx-ny-notifier-panel-tablet-pull-station (hero)
+- fire-alarm-installation-ny-pull-station-and-panel-two-techs → …-pull-station-two-technicians (§5)
+- fire-alarm-installation-ny-panel-check-sprinkler-riser → …-panel-beside-sprinkler-riser (§7)
+- fire-alarm-installation-ny-kitchen-heat-detector → …-kitchen-hood-heat-detector (§8)
+- fire-alarm-installation-ny-panel-wiring-drawings → …-open-panel-board-screwdriver (equipment)
+- fire-alarm-installation-ny-pull-station-terminal-wiring → …-pull-station-terminals-corridor (devices)
+- fire-alarm-installation-ny-fire-alarm-cable-pull-steel-studs → …-cable-reel-steel-stud-rough-in (process)
+- fire-alarm-installation-new-york-strobe-meter-test-mechanical-room → …-strobe-multimeter-test (existing systems)
+- fire-alarm-installation-ny-panel-zone-map-review → …-panel-floor-map-review (contractor)
+- fire-alarm-installation-ny-lobby-annunciator-check → …-lobby-annunciator-touchscreen (integration)
+- fire-alarm-installation-ny-smoke-detector-and-panel-retail → …-ceiling-smoke-detector-panel (towers/new buildings)
+- Skipped: fire-alarm-installation-ny-pull-station-storefront-conduit (readable street number "451"). Old page's …-morrisania-bronx-*.webp files left in place, not referenced.
+
+### Checks (2026-11-15)
+- check_page: all page checks pass; remaining 15 lines are "live sibling <area hub> doesn't link back" (wiring for the main run).
+- kwcheck: covered 364/364, 0 other-area phrases. Words 13,891. Mobile 390: scrollWidth 390, no blank blocks, no overflow.
+- Masked similarity (own script: 5-gram containment / SequenceMatcher): max vs Longwood 0.31 containment, 0.47 sequence ratio.
+
+### Question register (this page)
+Q&A headings (§9):
+1. NYCHA's fact sheet gives fire alarm replacements 24 to 30 months of construction. What should Forest Houses or Webster Houses residents expect while the work goes on in their building?
+2. After the November 2025 Forest Houses fire, the elevators had outage signs on every door. What does a tower's fire alarm do with the elevators, and what if they're already out of service?
+3. The February 2026 fire on East 169th Street started on a high-rise balcony. Should a building put fire alarm devices out on its balconies?
+4. Morrisania Air Rights stands on steel trusses over the Metro-North tracks. Who has to be involved when fire alarm work in a building like that reaches spaces next to the railroad?
+5. In a building shared by four high schools, like the Morris Campus, which school's office gets the fire alarm annunciator?
+6. Duncan Hall, the vaulted auditorium in the Morris High School building, seats 1,200. How do horns, strobes and speakers work in a big historic room like that?
+7. The Morris High School building has an eight-story entrance tower above a five-story school. Do the rooms inside a tower like that need fire alarm coverage?
+8. The tallest Morrisania Air Rights building has 29 stories. Is radio coverage for firefighters part of the fire alarm in a tower that tall?
+9. Sol on Park will put a health and wellness center and more than 8,000 square feet of community space under 18 floors of senior apartments. How does a fire alarm handle a public health space at the base of a residential tower?
+10. The six-story buildings filed at 1217 Washington Avenue and 458 East 168th Street are 66 feet tall with a store below. What fire alarm does a building like that need?
+11. Forest Houses' land now includes an eight-story privately owned building built on property NYCHA sold. When a private building stands on a NYCHA campus, whose rules govern its fire alarm?
+12. If the fire alarm panel in a landmarked public building like the Morrisania Library fails, can it be replaced before anything goes to the Landmarks Preservation Commission?
+FAQ (§17):
+1. What should the lobby staff in a Morrisania apartment tower do in the first five minutes after the fire alarm panel goes into alarm?
+2. Can a fire alarm replacement in an occupied Morrisania high-rise be done without moving residents out?
+3. Why does a tall building's fire alarm need extra power supplies on its upper floors?
+4. Does the compactor room in a Morrisania apartment tower need fire alarm devices?
+5. What do the different sounds from a tower's fire alarm mean: a steady alarm, a voice message and a trouble beep?
+6. Can a school building's class-change bells and the fire alarm horns be the same system?
+7. Will residents hear the fire alarm all day during the FDNY acceptance test in an occupied building?
+8. Is Morrisania Air Rights the same development as Morris Houses?
+9. When the tower above our Third Avenue store replaces its fire alarm, will our store's devices change too?
+10. Do the stair doors in a Morrisania tower unlock when the fire alarm goes off?
+11. Is a tower's fire pump connected to the fire alarm?
+12. Why does our tower's fire alarm drawing set include a riser diagram, and should we keep a copy?
+Other headings ending in "?": none

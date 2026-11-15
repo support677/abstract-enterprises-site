@@ -537,9 +537,9 @@ HOLD-THIN 265-lot one/two/three-family peninsula, no 4+ unit building (PLUTO); o
 LIVE | fire-alarm-installation-longwood-bronx-ny | Fire Alarm Installation | Longwood, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-mapleton-brooklyn-ny | Fire Alarm Installation | Mapleton, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-midwood-brooklyn-ny | Fire Alarm Installation | Midwood, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-15T21:44Z | fire-alarm-installation-morris-heights-bronx-ny | Fire Alarm Installation | Morris Heights, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-15T21:44Z | fire-alarm-installation-morris-park-bronx-ny | Fire Alarm Installation | Morris Park, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-15T21:44Z | fire-alarm-installation-morrisania-bronx-ny | Fire Alarm Installation | Morrisania, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-morris-heights-bronx-ny | Fire Alarm Installation | Morris Heights, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-morris-park-bronx-ny | Fire Alarm Installation | Morris Park, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-morrisania-bronx-ny | Fire Alarm Installation | Morrisania, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-mount-eden-bronx-ny | Fire Alarm Installation | Mount Eden, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-mount-hope-bronx-ny | Fire Alarm Installation | Mount Hope, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-new-lots-brooklyn-ny | Fire Alarm Installation | New Lots, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
