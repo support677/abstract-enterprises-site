@@ -27,6 +27,17 @@ PAGE-QUEUE.md has a `## REBUILD` section: existing pages that Google crawled and
 - **Resubmit:** add the URL to GOOGLE-SUBMIT.md as QUEUED (the evening task requests indexing) and send IndexNow as usual; update its `<lastmod>` in sitemap.xml.
 - If the blueprint rule applies — the area genuinely cannot support a different page — mark the line `HOLD-THIN <reason>` and log it for Anwar; do not ship a thin page.
 
+
+## Fire alarm rebuilds (Anwar, Nov 14 2026 — all 164 fire-alarm-installation-* REBUILD lines)
+
+- **Keywords woven naturally, full blueprint.** Use every phrase in `keywords/fire-alarm-installation.md` (his list) + the page's own area as the geo modifier. Spread them through the real content — headings, intro, services, Q&A, FAQ, field notes, alt text — in natural sentences. Never a keyword block, never a list of phrases dumped in one section. The phrase is the topic of the paragraph it sits in.
+- **NFPA 72 commercial fire alarm, not burglar alarm.** Commercial, mixed-use and multifamily buildings where code requires a fire alarm. No single-family / two-family home smoke-alarm content.
+- **No prices** (BLUEPRINT Hard Rule 13): no ranges, caps, "from $X", packages or price schema. Government fees with a source are OK. The "cost" keywords are answered by explaining drawings → approval → install → acceptance test, quoted per building.
+- **No camera / CCTV bundles or cross-sells.**
+- **Educate per jurisdiction:** step 1 engineer/architect drawings, step 2 vendor, then approval and inspection — NYC: FDNY TM-1 plan exam, FDNY Fire Alarm Company Certificate, S-97 (NICET II or NYC master/special electrician), FDNY Fire Alarm Inspection Unit, ~20–24 weeks per FDNY; Nassau: County Fire Marshal plan review + FM company number; Suffolk: town/village fire marshal; Hudson Valley: local code enforcement under the NYS Uniform Code. Cite sources.
+- **Images:** use the fire alarm set in `images/fire-alarm-installation/` (filename + alt = keyword + area). Never camera or network photos.
+- The current interim "Commercial Fire Alarm Services in [Area]" keyword block and process section are placeholders — the rebuild replaces them with unique writing.
+
 ### 0. Start clean
 1. `git pull --ff-only` on `main`. If it fails, stop and log it. Someone else (GitHub Desktop at `C:\dev\abstract-enterprises-site`) may have pushed.
 2. `git status`. If there are uncommitted changes from a previous failed run for the same page, continue that page. If they're for anything else, stop and log it — never commit files you didn't make in this run.
