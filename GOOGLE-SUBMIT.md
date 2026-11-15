@@ -3549,3 +3549,6 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-15 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-nyc | QUEUED
 2026-11-15 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-new-york | QUEUED
 2026-11-15 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-ny | QUEUED
+2026-11-15 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-manhattan-ny | QUEUED
+2026-11-15 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-brooklyn-ny | QUEUED
+2026-11-15 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-queens-new-york | QUEUED
