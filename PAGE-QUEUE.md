@@ -540,9 +540,9 @@ LIVE | fire-alarm-installation-midwood-brooklyn-ny | Fire Alarm Installation | M
 LIVE | fire-alarm-installation-morris-heights-bronx-ny | Fire Alarm Installation | Morris Heights, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-morris-park-bronx-ny | Fire Alarm Installation | Morris Park, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-morrisania-bronx-ny | Fire Alarm Installation | Morrisania, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-15T22:44Z | fire-alarm-installation-mount-eden-bronx-ny | Fire Alarm Installation | Mount Eden, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-15T22:44Z | fire-alarm-installation-mount-hope-bronx-ny | Fire Alarm Installation | Mount Hope, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-15T22:44Z | fire-alarm-installation-new-lots-brooklyn-ny | Fire Alarm Installation | New Lots, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | fire-alarm-installation-mount-eden-bronx-ny | Fire Alarm Installation | Mount Eden, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-mount-hope-bronx-ny | Fire Alarm Installation | Mount Hope, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-new-lots-brooklyn-ny | Fire Alarm Installation | New Lots, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-new-utrecht-brooklyn-ny | Fire Alarm Installation | New Utrecht, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-norwood-bronx-ny | Fire Alarm Installation | Norwood, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-ocean-hill-brooklyn-ny | Fire Alarm Installation | Ocean Hill, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
