@@ -7938,3 +7938,267 @@ Scope / boundary: Wikipedia bounds Locust Point by Harding Ave (N), the Throgs N
 
 ### Question register (this page)
 - None (page not built).
+
+## Longwood, Bronx — /fire-alarm-installation-longwood-bronx-ny (commercial rebuild research, 2026-11-15)
+
+NFPA 72 commercial only. Regulatory base (PE/RA sealed drawings, TM-1, Project Authorization, FDNY Fire Alarm Company Certificate, S-97 with NICET II+ or NYC master/special electrician, S-98, FAIU, ~20-24 weeks / up to 8 weeks initial review, central station active before inspection, 40-70 business days test request, FA-27 $105, NYC Business $420/$525, 2012 central office connection bulletin, 36 in from diffusers, fans over 2,000 cfm) reused as facts from the silo sections of research/fire-alarm-installation.md (lines ~182, 272, 637-639, 732-733, 1054, 2280-2283) — not re-fetched, not wording. Direct re-fetch of the FDNY tips PDF this session: EMPTY (permission request not answered).
+
+**Unique angle:** Longwood's "second-life" buildings — the landmarked Dickerson rowhouses of the Longwood Historic District (most converted to SROs), the seven-story former Prospect Hospital at 730 Kelly St now the Prospect Family Inn, a 1906 synagogue that is now United Church, Southern Boulevard movie theatres turned into a church and stores, a one-story Prospect Avenue store row with an abandoned theatre behind it that burned in a five-alarm fire in Dec 2025 and climbed onto the attached six-story apartment building — plus new mixed-use buildings filed right at the 75-foot high-rise line (895 Rev. James A. Polite Ave at 74 ft; 979 Intervale Ave at 75 ft) and the April 2026 explosion at a six-story building under construction at 1035 Rev. James A. Polite Ave. Fire alarm theme: when a building's use no longer matches what it was built for (change of occupancy, landmark filing, SRO/shelter/assembly reuse) and when height sits on the high-rise line.
+Avoided (sibling pages): Foxhurst (Big House Engine 82, Home St permits, church-site supportive housing, Rogers Pl & Westchester Ave fire, BID corridor), Hunts Point (Food Distribution Center, produce market rebuild, Peninsula/Spofford), Crotona Park East (nonprofit rehab/sponsor-change angle), Morrisania; Laconia (cockloft store row, Eastchester Gardens, 3374 Boston Rd). 894 Rogers Place fire (Jan 15 2026) found but NOT used (Rogers Place already on the Foxhurst page).
+
+Format: exact query · platform · URL · finding · page section used.
+
+### Boundaries / background
+- "Longwood Bronx neighborhood boundaries Longwood Historic District rowhouses" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Longwood,_Bronx · E 167th St (N), Bronx River + Bruckner Expwy (E), E 149th St (S), St. Anns Ave (W); Southern Blvd primary thoroughfare; dense pre-war 5-6 story apartment buildings plus post-1990 apartment buildings and row houses; most households renters; arson by late 1970s; $550M+ public investment by mid-1990s; pop 26,196 (2010), 246.55 acres; CD2; 41st Pct 1035 Longwood Ave (Simpson St "Fort Apache" station 1086 Simpson St now Bronx Detectives); Engine 73/Ladder 42 655 Prospect Ave; NYCHA: West Farms Square Rehab (four 6-story), E 165th St-Bryant Ave (five 3-story), Longfellow Ave Rehab (two 5-story), Stebbins Ave-Hewitt Pl (two 3-story); 6 train on Southern Blvd (Whitlock, Hunts Point Ave, Longwood Ave, E 149th St); 2/5 Simpson St, Intervale Ave, Prospect Ave, Jackson Ave; The Crossings 40,000 sq ft two-level mall at Hunts Point Ave & Bruckner Blvd; schools list (PS 39 not in list; MS 302, PS 62, etc.) · §5, at a glance, landmarks.
+- same search · WebFetch · https://cityneighborhoods.nyc/longwood · alt boundaries E 163rd St (N), Prospect Ave (W), E 149th St (S), Bruckner Expwy (SE); rowhouses 1895-1910; Southern Blvd + Westchester Ave commercial spines; Bruckner Expwy completed 1973; "by 1977 nearly 60% of the housing stock had been destroyed or abandoned"; Mid-Bronx Desperadoes, SEBCO, Banana Kelly; Fox-Leggett Co-op; Bill Rainey Park. Name-origin story (Fox family/"Long Wood") NOT used (unverified) · §5.
+- "Banana Kelly Kelly Street Longwood Bronx rehab history buildings 1977" · WebSearch → WebFetch · https://www.bkcianyc.org/about/history/ · incorporated Feb 1978; residents took three buildings slated for demolition and rehabbed by "sweat equity"; slogan "Don't Move, Improve"; 2,000+ units redeveloped by mid-1990s · §7 (rehab-era buildings).
+- same · WebFetch · https://forgotten-ny.com/?p=10525 (Forgotten NY, 2007) · Dickerson houses 1897-1901 for George Johnson on Beck, Kelly, Dawson Sts and Hewitt Pl, E 156th St to Longwood Ave; Loew's Spooner 961 Southern Blvd (1910, later Duane Reade); Boulevard Theatre 1032 Southern Blvd (Thomas W. Lamb, 1913, later furniture store); Art Theatre 1077 Southern Blvd (550-600 seats, later Pentecostal church); Prospect Hospital E 156th & Kelly (175 beds, closed March 1985, now Prospect Family Inn); United Church Hewitt Pl (1906 synagogue, onion domes); Engine 73 at 655 Prospect Ave at E 152nd St built c.1900; St. Athanasius at Tiffany & Fox, Fr. Louis Gigante 1962; Avenue St. John; Intervale Ave follows the buried Sacrahong Brook; PS 39 Longwood Ave between Kelly & Beck · §5, §7, corridors, landmarks, Q&A.
+- "Southern Boulevard Bronx neighborhood study rezoning Longwood" · WebSearch → WebFetch · https://citylimits.org/de-blasio-admin-says-therell-be-no-southern-boulevard-rezoning/ · Feb 28 2020: DCP will not pursue a city-initiated rezoning; study area Southern Blvd from Cross Bronx Expwy to E 163rd St, Crotona Park East + Longwood, 130+ blocks, ~60,000 residents, 17,000 units · §8 corridors (one sentence).
+
+### Longwood Historic District / landmark filings
+- "Longwood Historic District" · WebFetch · https://en.wikipedia.org/wiki/Longwood_Historic_District_(Bronx) · Beck St + Longwood, Leggett, Prospect Aves; 61 contributing buildings; Warren C. Dickerson semi-detached rowhouses, most converted to SRO housing; United Church, St. Margaret's Episcopal; estate house now Patrolman P. Lynch Community Center; site of former Prospect Hospital; LPC 7/8/1980, extended 2/8/1983; NRHP 9/26/1983 · §5, §7, compliance, Q&A, FAQ.
+- https://newyorkyimby.com/2026/06/lpc-unveils-new-historic-district-markers-in-longwood-the-bronx.html · WebFetch EMPTY (client_error) — not used.
+- https://www.nyc.gov/assets/lpc/downloads/pdf/maps/HistoricDistrictMaps/Bronx/Longwood.pdf · seen in search only, not fetched — not used.
+- (silo research line 182) https://nyc-business.nyc.gov/nycbusiness/description/fire-alarm-application · FDNY fire alarm application lists "Landmark Building/Flood Hazard Area compliances (if applicable)" · compliance, Q&A.
+- ""Prospect Family Inn" shelter Bronx Kelly Street" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Prospect_Hospital · 730 Kelly St; seven-story; opened 1963 by Dr. Jacob B. Freedman; closed 1985; 175 beds; bought to become Prospect Family Inn incl. Prospect Family Nursery (children up to 72 hours) · §5, §7, landmarks, Q&A.
+- same · WebFetch · https://digital-editions.schnepsmedia.com/BT01312020/page_6.html (Bronx Times, Jan 31 2020) · 734-736 Kelly St Dickerson twin house, "once a hospital, now a shelter"; $35,000 LPC matching grant (façade repointing, masonry, door); Homes for the Homeless on site since 1986; quotes LPC Chair Sarah Carroll, Linda Bazerjian ("We want to make it as comfortable as we can, especially for the children.") · §7, Q&A.
+
+### Local fires and construction incidents
+- "Longwood Bronx fire Southern Boulevard Westchester Avenue FDNY 2025 2026" · WebSearch → WebFetch · https://abc7ny.com/post/5-alarm-fire-longwood-bronx-rips-3-businesses-apartment-building-1-injured/18300108/ · Dec 18 2025 just before 10:30 p.m., Prospect Ave, Longwood; five alarms; bodega, fruit shop, dollar store; adjacent six-story apartment building's roof and second floor reached, quickly extinguished, building evacuated; nearly 10 hours; 1 resident treated; cause under investigation · §5, Q&A, AI check.
+- same · WebFetch · https://bronx.news12.com/massive-fire-injures-1-person-destroys-99-cents-store-in-longwood · 855 Prospect Ave per FDNY; 200+ firefighters and EMS; 99-cent store destroyed; roof of six-story building connected to the stores; quotes Saul Essa (manager): "It's like our second home, you know?" / "We don't know the start of it..." · §5, Q&A.
+- ""855 Prospect Avenue" Bronx fire" · WebSearch → WebFetch · https://www.amny.com/news/five-alarm-fire-bronx-buildings-12182025 · Asst. Chief Kevin Brennan: "We found fire at a commercial establishment and it was extending to the adjacent stores."; Grace Rivera: "I came outside, and the sky was orange. This is not normal."; units under 4 minutes; up to four tower ladders · §5, field notes.
+- same · WebFetch · https://www.1strespondernews.com/news/122325129/five-alarm-bronx-fire-guts-multiple-stores-on-prospect-avenue · one-story 75 x 60 ft retail structure; large abandoned theatre at the rear (exposure C); 4th alarm 10:56 p.m., 5th 11:19 p.m.; "probably will hold" 1:21 a.m.; defensive · §5, §8, Q&A.
+- same search · WebFetch · https://westchester.news12.com/2026/04/28/explosion-rocks-longwood-construction-site-sending-neighbors-fleeing/7nafZXJXcBpzJSFHLO6zjL · late April 2026 (Tuesday evening): explosion and fire at six-story building under construction, 1035 Rev. James A. Polite Ave; FDNY ~5:13 p.m.; tower ladder on roof fire; building empty, no injuries; cause under investigation; quotes Humphrey Ejyir ("The way you felt the whole building shake"), BP Vanessa Gibson · §5, new construction, Q&A.
+- same · WebFetch · https://bronx.news12.com/fire-breaks-out-at-3-story-building-on-bruckner-boulevard-in-longwood · Aug 11 2024, three-story residential building on Bruckner Blvd, third floor, no injuries — residential, used only as context sentence? NOT used (residential, out of scope).
+- same · WebFetch · https://bronx.news12.com/fdny-battles-fire-along-westchester-avenue-multiple-commercial-spaces-affected · Jan 2 2025, Westchester Ave & Prospect Ave, multiple commercial spaces affected, no injuries · §8 corridors.
+- same · WebFetch · https://bronx.news12.com/man-in-critical-condition-after-longwood-apartment-fire-2-firefighters-injured · 894 Rogers Pl Jan 15 2026 — NOT used (Rogers Place on Foxhurst page).
+- https://www.nyc.gov/site/fdny/news/PI1026/... · FDNY 5-alarm Box 3190 Mar 26 2026, no location text · NOT used.
+
+### New construction
+- "newyorkyimby Longwood Bronx permits filed 2025 2026" · WebSearch → WebFetch · https://newyorkyimby.com/2026/07/permits-filed-for-895-rev-james-a-polite-avenue-in-longwood-the-bronx.html · corner Westchester Ave & Rev. James A. Polite Ave; near Intervale Ave 2/5; 7 stories, 74 ft; 51,155 sq ft (42,910 res / 7,709 commercial / 535 community facility); 80 units; concrete; cellar; 29 open parking; MJH Construction Corp (Menacham Harfenes); Nikolai Katz Architect; demolition permits for existing one-story building · §5, building types, new construction, Q&A, FAQ.
+- same · WebFetch · https://blog.marketproof.com/new-building-permit-filed-for-979-intervale-ave-in-longwood-bronx/ · filed July 18 2025; 8 stories; 75 ft; 41 units; ~26,236 res / 2,888 commercial sq ft; replaces 1950 one-story building; filed via Nikolai Katz · §5, new construction, Q&A.
+- same · https://newyorkyimby.com/2026/10/permits-filed-for-907-tiffany-street-in-longwood-the-bronx.html · WebFetch EMPTY (client_error) — not used.
+- same · Marketproof 576 Prospect Ave, 958 Rogers Pl, 1051 Whitlock Ave · data internally inconsistent (e.g. 8 stories at 23 ft) — NOT used.
+
+### Institutions
+- "Hunts Point Library 877 Southern Boulevard Carnegie renovation reopened" · WebSearch → WebFetch · https://www.bxtimes.com/reopen-new-hunts-point-library-branch-nypl/ · reopened Feb 21 2025; $32M; built 1929; closed Aug 2021; Mitchell Giurgola, Gilbane, NYCEDC; new roof, façade, electrical, AV, HVAC; ADA ramp; quotes Anthony W. Marx, CM Salamanca ($3.7M), BP Gibson, AM Emérita Torres · landmarks, §7, AI check. (Hunts Point sibling page does not use the library.)
+- Wikipedia Longwood: Hunts Point Library is a Carnegie library by Carrère and Hastings and a city landmark · landmarks.
+
+### Code thresholds
+- "NYC building code fire alarm required single room occupancy rooming house Group R-1 R-2 907.2" · WebSearch → WebFetch · https://www.ny-engineers.com/blog/fire-alarm-device-requirements-by-occupancy-classification · R-1 covered unless 907.2.8 measures met; R-2 if units 3+ stories above lowest exit discharge, >1 story below highest exit discharge, 16+ units, or student apartments; A ≥300; E all; I all; M fire area >12,000 sq ft / >3 stories / total >24,000 / below grade >1,500; B sprinklered + 500 total or 100 above/below discharge or ambulatory health care · §7, Q&A, AI check.
+- High-rise 75 ft: silo research (NFSA https://nfsa.org/2020/02/21/does-your-structure-measure-up-to-a-high-rise/) · new construction, AI check.
+
+### Community / SERP
+- "reddit Longwood Bronx apartment fire alarm building" · WebSearch · EMPTY (news results only, no Reddit threads about Longwood fire alarms).
+- Google PAA / PASF / AI Overview for "fire alarm installation Longwood Bronx": EMPTY (no live Google SERP captured this session); silo-level PAA/AIO claims from research/fire-alarm-installation.md reused as the AI Reality Check targets (claims paraphrased, not quoted).
+- Yelp 1-3★ fire alarm contractors Longwood: EMPTY (not searched — no Longwood-specific listings expected).
+- Bing/DDG cross-check: EMPTY (WebSearch only).
+
+### Question register (this page)
+Q&A headings (§9):
+1. The Prospect Avenue stores that burned in December were one story with a six-story apartment building attached. When they are rebuilt, does the store row get its own fire alarm or tie into the apartment building's?
+2. An abandoned theatre sat behind the Prospect Avenue stores that burned. Does an empty building next door change what a rebuilt store's fire alarm has to do?
+3. Our Dickerson rowhouse in the Longwood Historic District is an SRO. Does a building with rented rooms need a fire alarm system?
+4. Do we need Landmarks Preservation Commission approval to add fire alarm devices to a landmarked Longwood rowhouse?
+5. A family shelter in a former hospital building, like the Prospect Family Inn on Kelly Street: whose fire alarm rules apply when a building's use changes?
+6. Our congregation worships in a former Southern Boulevard movie theatre. Is a church in an old theatre treated like an assembly space for the fire alarm?
+7. The new building filed at 895 Reverend James A. Polite Avenue is 74 feet tall. Is it a high-rise for fire alarm purposes?
+8. 979 Intervale Avenue was filed at exactly 75 feet. What changes for a fire alarm when a building lands right on the high-rise line?
+9. After the April explosion at the building under construction on Reverend James A. Polite Avenue, what fire protection should a site have before its permanent fire alarm is accepted?
+10. Our walk-up on Fox Street was rebuilt by a community group in the 1980s. Does the fire alarm from that rehab still meet code?
+11. Our bodega on Southern Boulevard shares a cellar with the store next door. Does a shared cellar need detection from both stores?
+12. Why would the FDNY ask about a building's Certificate of Occupancy when we only want to replace a fire alarm panel?
+Other headings ending in "?":
+FAQ (§17):
+1. Who reviews a fire alarm plan for a building inside the Longwood Historic District, the FDNY or Landmarks?
+2. Is Engine 73 on Prospect Avenue the company that will inspect our new fire alarm?
+3. What happens to a store's fire alarm records when the store is destroyed in a fire?
+4. Can a single fire alarm system serve both a ground-floor store and the apartments above it on Prospect Avenue?
+5. Does the Hunts Point Library's renovation mean older Southern Boulevard buildings must upgrade too?
+6. How early should a Longwood developer bring in the fire alarm contractor on a new mixed-use building?
+7. Does a 535-square-foot community facility in a new apartment building need its own fire alarm devices?
+8. What should an SRO operator in Longwood keep on file for an FDNY fire alarm inspection?
+9. Can a store owner on Southern Boulevard reset the fire alarm panel after a false alarm?
+10. Does a house of worship with fewer than 300 people still need fire alarm devices in Longwood?
+11. How are fire alarm devices kept out of sight on a historic rowhouse façade or stoop?
+12. Will the FDNY accept a fire alarm on a new building before the ground-floor stores have tenants?
+
+## Mapleton, Brooklyn — /fire-alarm-installation-mapleton-brooklyn-ny (commercial rebuild research, 2026-11-15)
+
+Commercial (NFPA 72) rebuild research. Up-link /fire-alarm-installation-brooklyn-ny · phone (347) 934-8335 · GBP Brooklyn (1282 Troy Ave, #brooklyn). Regulatory base reused from the silo research already in research/fire-alarm-installation.md (PE/RA sealed drawings, TM-1, Project Authorization, FDNY Fire Alarm Company Certificate + S-97 holder, FDNY Fire Alarm Inspection Unit, ~20-24 weeks submission to approval, up to 8 weeks initial review, 40-70 business days test lead time, B-45/A-433/TB-60/central station contract, 36 in from diffusers, $420/$525 application fees per NYC Business, FA-27 $105, 2012 central station bulletin) — same FDNY/NYC URLs as the Kensington section; not re-fetched.
+
+**HOLD-THIN decision: BUILD.** Mapleton is mostly one- and two-family houses (Brownstoner/NYT 2012), but it holds a short list of large code-required buildings plus a documented pipeline of new buildings that cross the NYC Building Code fire alarm triggers: Franklin Delano Roosevelt High School (280,717 sq ft, ~3,100-3,700 students), P.S. 48 Mapleton (five-story "castle", 459 students), the Mapleton Library (fire prevention and safety systems being replaced, reopening spring 2027), St. Athanasius church and school at Bay Parkway & 61st, Congregation Kesser Israel / Crown of Israel Talmud Torah (1769 56th St), the former Bishop Kearney HS building (2202 60th St, closed 2019), 5920 Bay Parkway (8-story, 44 units, elevator, garage), 2221 65th St (5-story, 31 units, retail, cellar parking), 5602 18th Ave (4-story over a 1931 one-story store lot), and north-edge community facility filings (4911 19th Ave nine-story house of worship/lecture hall; 1010 McDonald Ave five-story community facility). Enough for a distinct page.
+
+**Unique angle:** "The threshold neighborhood." In a district of one- and two-family houses, the fire alarm question is which buildings cross the code's line. Same 18th Avenue corner filed twice — 2021 as a three-story 12-unit mixed-use building, Dec 2025 as a four-story building — and the extra story is exactly the kind of change that moves a building across the R-2 trigger (dwelling units 3+ stories above exit discharge, or 16+ units, per NY Engineers' summary of BC 907). Plus the institutions that were always over the line (FDR HS, P.S. 48, the library mid-renovation, St. Athanasius, the closed Bishop Kearney building awaiting reuse). Siblings' angles avoided: Kensington (car corridors/South of Prospect), Borough Park (shuls/simcha halls/Shabbat), Bensonhurst (panels people can understand, 86th St), Bath Beach (two scales), Gravesend (change of use), Brooklyn Chinatown (8th Ave/Sea Beach "blue sky"), Midwood/New Utrecht (old template pages).
+
+Format: exact query · platform · URL · finding · page section used
+
+### Boundaries / background
+- "Mapleton Brooklyn neighborhood boundaries 18th Avenue schools churches" · WebSearch → WebFetch (IPFS Wikipedia mirror; en.wikipedia.org fetch EMPTY — permission not answered in build env) · https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.dweb.link/wiki/Mapleton%2C_Brooklyn.html · bounded by 16th Ave (W), Dahill Rd (E), 57th St (N), 65th St (S); between Bensonhurst and Borough Park; developed roughly 1913-1919; "Mapleton Park"/Mapleton Oval at 62nd St & 20th Ave 1916-1920; Washington Cemetery "the largest inhabited Jewish cemetery in New York", on Bay Parkway; Mapleton School (PS 48) at 18th Ave & 60th St; library at 17th Ave & 60th St; Young Israel of Mapleton Park near 65th St & Bay Parkway · §5, landmarks, Sources.
+- same search · WebFetch · https://forgotten-ny.com/2020/03/mapleton-brooklyn/ · Kevin Walsh 2020: developed from 1908 by William Sugarman of Alco Building Co.; core 57th-65th Sts, 17th Ave-Dahill Rd; Sea Beach line in open cut, electrified 1915; 20th Ave N station platforms "still look pretty much the same way they did when built in 1915"; FDR HS 20th Ave & 58th St, constructed 1965; Washington Cemetery mid-1850s, ~100 acres, five sections split by 20th/21st Aves, Bay Pkwy, McDonald Ave, Ocean Pkwy; "sold its last plot in 2008"; Nick's Moving & Storage painted sign across 20th Ave from FDR · §5, street-by-street, landmarks, AI check.
+- "Mapleton Brooklyn Chinese community..." · WebSearch → WebFetch · https://www.brownstoner.com/brooklyn-life/where-is-mapleton-brooklyn · Brownstoner (Cate Corcoran, Dec 17 2012) summarizing NYT "Living in Mapleton, Brooklyn: When Is a Neighborhood a Sandwich?": "Sandwiched between Borough Park, Bensonhurst and Midwood"; ~27,000 residents; "Chinese and other Asians, Orthodox Jews, Italian Americans, Poles, Latinos, Pakistanis and Russians"; "one- and two-family brick and clapboard houses, many with porches"; "Developed from farmland around 1910" (2012 prices not used) · hero, §5, Q&A, Sources.
+- same · WebFetch · https://languagemap.nyc/Explore/Neighborhood/Mapleton · languages listed for the wider Census area (Borough Park, Kensington & Ocean Parkway): Yiddish, Bengali, Russian, Hebrew (5,000+ speakers each); Chinese, Spanish commonly spoken · §5 (staff training note), FAQ.
+- same · WebFetch · https://www.cityneighborhoods.nyc/mapleton · alternate bounds (60th-65th, 16th Ave-McDonald); lists D at 62nd St and other details that conflict with other sources — NOT used (low reliability).
+- (prior silo research, re-read not re-fetched) research/alarm-installation.md Mapleton L10 · https://en.wikipedia.org/wiki/20th_Avenue_station_(BMT_Sea_Beach_Line) · open-cut station between 63rd & 64th Sts, opened June 22 1915, closed for renovation in phases 2016-2019 · street-by-street, landmarks.
+- (prior silo research) research/alarm-installation.md Mapleton L9 · https://en.wikipedia.org/wiki/Brooklyn_Community_Board_11 / _12 · CB11 includes Mapleton; CB11/CB12 line along 61st St · FAQ (community board answer).
+
+### Institutions (code-required stock)
+- "Franklin Delano Roosevelt High School 5800 20th Avenue Brooklyn building enrollment" · WebSearch → WebFetch · https://mdwiki.org/wiki/Franklin_Delano_Roosevelt_High_School_(New_York_City) · 5800 20th Ave, 11204; opened 1965; 280,717 sq ft for classes, gyms, cafeteria and auditorium; infobox 3,142 students (2021-22), body ~3,700 (mismatch stated); grades 9-12; Young Adult Borough Center evening classes · §5, building types, Q&A, landmarks.
+- same · WebFetch · https://nycsift.com/school-hs.phtml?id=20K505 · hours 9:42am-4:32pm; programs incl. Technical Theater, Performing Arts, Robotics; multi-session schedule; Transitional Bilingual Education in Chinese and Spanish · building types, Q&A (multi-session / evening).
+- ""P.S. 48" Mapleton 6015 18th Avenue" · WebSearch → WebFetch · https://insideschools.org/school/20K048 · 6015 18 Ave, 11204; Pre-K, K-5; 459 students (2024-25); "in its own building"; 22% ELL · building types, landmarks.
+- same · WebFetch · https://sites.google.com/view/ps48mapletonschool/about-us/100-year-of-excellence · founded 1915; first building 18th Ave & 65th St (three-story, house-like); relocated building at 18th Ave & 60th St: five-story brick, 40 classrooms, arches, columns, huge windows; nicknamed "the castle"; auditorium wood stage woodwork survives · building types, Q&A, landmarks.
+- "Brooklyn Public Library Mapleton branch reopening renovation 2026" · WebSearch → WebFetch · https://www.bklynlibrary.org/locations/Mapleton · corner of 17th Ave & 60th St; listed closed; replacing/upgrading roof, facade, heating and cooling, "fire prevention and safety systems"; new outdoor garden; "expected to reopen in Spring 2027"; at current corner since 1955 · §5, building types, Q&A, AI check, landmarks.
+- same · WebFetch · https://www.boropark24.com/news/mapleton-library-on-60th-street-closes-for-renovations · Boro Park 24 (week of Dec 21 2023): closure announced, scope as above; library quote "Brooklyn Public Library is renovating Mapleton Library to better serve and support you." · §5 (quote), Sources.
+- same · WebFetch · https://www.bklynlibrary.org/locations/mapleton/history · moved to 17th Ave & 60th St in 1955 after about two decades in smaller spaces; Sunday hours from fall 2015 · landmarks.
+- "St. Athanasius Church Brooklyn 61st Street Bay Parkway" · WebSearch → WebFetch · https://brooklyncatholic.blogspot.com/2011/08/st-athanasius-bensonhurst.html · church 2154 61st St (SE corner Bay Pkwy & 61st); school 6120 Bay Pkwy across Bay Pkwy; parish established 1913; current church built shortly after Bishop Kearney HS (1961) went up across the street; old church site now a parking lot; blog labels it Bensonhurst · building types, street-by-street, Q&A, landmarks.
+- "Bishop Kearney High School 2202 60th Street" · WebSearch → WebFetch · https://brooklyneagle.com/articles/2019/05/13/breaking-bishop-kearney-high-school-closing-this-summer/ · girls' Catholic HS at 2202 60th St opened 1961; closure Aug 31 2019; letter cites "declining enrollment, changing demographics, reduced income and increased expenses" · Q&A (reuse of closed school), street-by-street.
+- same · WebFetch · https://mdwiki.org/wiki/Bishop_Kearney_High_School_(Brooklyn) · operated 1961-2019; dedicated Nov 2 1961 · Q&A.
+- same · WebFetch · https://brooklyn.news12.com/future-unsure-for-bishop-kearney-high-school-in-brooklyn-40953721 · Aug 22 2019 "Future unsure…"; education may continue "not as an all-girls school" · Q&A. Current use of the 2202 60th St building: EMPTY (not confirmed; bkhs.org is the Rochester school, not used).
+- ""Mapleton" Brooklyn synagogue OR church…" · WebSearch → WebFetch · https://boropark24.com/news/memory-lane-congregation-kesser-israel-a-sanctuary-in-mapleton-park · 1769 56th St, north side, 87 ft west of 18th Ave; met in an 18th Ave store until 1927; July 1928 Brooklyn Daily Eagle: two-story synagogue for Crown of Israel Talmud Torah; Talmud Torah dedicated March 1929; adjacent lot never built on, long a children's play area; stained glass · building types, Q&A, landmarks.
+- Young Israel of Mapleton Park exact address: EMPTY (search returned lists only) — page uses only "near 65th Street and Bay Parkway" from the Wikipedia mirror.
+
+### New construction (threshold examples)
+- "newyorkyimby Mapleton Brooklyn permits filed 2026" · WebSearch → Firecrawl scrape (WebFetch client_error) · https://newyorkyimby.com/2026/01/three-low-rise-projects-near-completion-in-mapleton-brooklyn.html · Jan 12 2026: 1811-1815 60th St three-story residential (between 18th & 19th Aves) replacing three abutting two-story homes; 1847 61st St three-story replacing a 1920 two-story 2,304 sq ft home; 1821 63rd St two-story, two units + cellar replacing a 1920 two-story home; YIMBY: "ground-up replacements of single-family homes"; commenter: "There is no such area as 'Mapleton'." · §5, field notes, Q&A, new construction.
+- Firecrawl · https://newyorkyimby.com/2023/11/affordable-housing-lottery-launches-for-5920-bay-parkway-in-mapleton-brooklyn.html · "60th and Bay", 5920 Bay Pkwy: eight-story mixed-use, 44 residences, S. Wieder Architects; parking garage with EV charging, elevator, live-in super, package room, fitness center, lounge, rooftop terrace (rents not used) · §5 table, building types, Q&A, interfaces.
+- Firecrawl · https://newyorkyimby.com/2018/05/permits-filed-for-2221-65th-street-mapleton-brooklyn.html · May 8 2018: five-story mixed-use, 60 ft, 53,190 sq ft; 25,900 residential, 9,930 commercial-retail; 31 apartments; laundry, storage, lobby, outdoor space; 20 cellar parking spaces; three blocks from Bay Pkwy N station; Chi Lau Architect · §5 table, building types, Q&A.
+- Firecrawl · https://blog.marketproof.com/new-building-permit-filed-for-5602-18th-ave-in-mapleton-brooklyn/ · filed Dec 18 2025: four-story, 52 ft; 22,948 sq ft residential + 3,380 commercial; existing "Low-rise built in 1931 with 1 floor and 7,085 square feet"; Maurice Friedman of Fabian Cruz PE PLLC · §5, field notes, Q&A, new construction. (WebFetch blocked — permission not answered.)
+- Firecrawl · https://blog.marketproof.com/new-building-permit-filed-for-5606-18th-ave-in-mapleton-brooklyn/ · filed Sep 14 2021: three-story, 12-unit, 30 ft; 11,860 residential + 8,312 commercial; same existing 1931 one-floor 7,085 sq ft building (both listings point to lot 1774 56th St) · §5 ("same corner filed twice"), field notes, Q&A.
+- Firecrawl · https://newyorkyimby.com/2024/11/permits-filed-for-4911-19th-avenue-in-mapleton-brooklyn.html · Nov 25 2024: nine-story community facility, 95 ft, 25,420 sq ft (23,757 community facility, 1,663 commercial); "house of worship, lecture hall, community room, exhibition room, and several floors of business space"; cellar, no parking; vacant lot; near 18th Ave F; Fischer Makooi Architects · building types, Q&A, new construction (north edge under the 2012 NYT definition).
+- Firecrawl · https://newyorkyimby.com/2020/09/permits-filed-for-1010-mcdonald-avenue-in-mapleton-brooklyn.html · Sept 5 2020: five-story office building, 82 ft, 85,757 sq ft (39,451 community facility, 4,559 commercial), 83 enclosed parking spaces, at McDonald & Parkville Aves (15 Parkville Ave), replacing a one-story building · building types, street-by-street.
+- Firecrawl · https://newyorkyimby.com/2026/01/permits-filed-for-1490-mcdonald-avenue-in-mapleton-brooklyn.html · ten-story at Avenue M & McDonald — YIMBY labels it Mapleton but it is far outside every Mapleton boundary → NOT used.
+- WebFetch · https://newyorkyimby.com/neighborhoods/mapleton/page/2 · older items: 2-story retail 1049 Dahill Rd, 2064 57th St three-unit, 2137 58th St two-unit (no dates) — not used beyond context.
+
+### Code thresholds
+- (fetch) · WebFetch · https://ny-engineers.com/blog/fire-alarm-device-requirements-by-occupancy-classification · NY Engineers' summary of NYC BC 907: Group A occupant load ≥300; Group E all; Group M single fire area >12,000 sq ft, fire area >3 stories above grade, combined >24,000 sq ft, or below-grade fire area >1,500 sq ft; R-2: units ≥3 stories above lowest exit discharge, or >1 story below highest exit discharge, or ≥16 dwelling units; R-1 all (with exceptions); high-rise special; S generally not mandatory · §5, Q&A, FAQ, AI check, field notes. Page states it is a summary and the design professional confirms.
+
+### Local fire news / community
+- ""Mapleton" Brooklyn fire FDNY 18th Avenue OR 20th Avenue OR Bay Parkway 2025 OR 2026" · WebSearch · (results all other neighborhoods) · EMPTY for Mapleton.
+- "fire "18th Avenue" Brooklyn 11204 store OR apartment FDNY 2026" · WebSearch · results labeled Borough Park/other areas — EMPTY for Mapleton; not used.
+- "Franklin D. Roosevelt High School Brooklyn fire alarm OR evacuated OR fire" · WebSearch · no FDR-specific incident — EMPTY.
+- Reddit (r/Brooklyn, r/AskNYC) Mapleton fire alarm threads: EMPTY (prior silo research also found none).
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG for "fire alarm installation Mapleton": EMPTY (not accessible in build env). Anwar's question keywords woven into prose instead.
+- Yelp 1-3★ fire alarm contractors near Mapleton: EMPTY (not accessible in build env).
+- DOB/FDNY filing data for Mapleton addresses: EMPTY (not pulled).
+
+### Images used (11, cp from the generic set to page names)
+1. fire-alarm-installation-mapleton-brooklyn-ny-control-panel-touchscreen-tablet.webp (hero) ← new-york-control-panel-touchscreen-tablet
+2. …-panel-check-sprinkler-riser.webp ← nyc-panel-check-sprinkler-riser
+3. …-power-supply-battery-meter.webp ← new-york-power-supply-battery-meter
+4. …-smoke-detector-and-panel-retail.webp ← nyc-smoke-detector-and-panel-retail (identical to an older tracked file of the same name)
+5. …-horn-strobe-corridor-block-wall.webp ← new-york-horn-strobe-corridor-block-wall (identical to older tracked file)
+6. …-ceiling-horn-strobe-cellar.webp ← new-york-ceiling-horn-strobe-basement
+7. …-pull-station-and-panel-two-techs.webp ← new-york-pull-station-and-panel-two-techs
+8. …-control-panel-meter-test-drawings.webp ← nyc-control-panel-meter-test-drawings (identical to older tracked file)
+9. …-smoke-detector-ceiling-lift.webp ← new-york-smoke-detector-office-lift
+10. …-lobby-annunciator-check.webp ← nyc-lobby-annunciator-check
+11. …-pull-station-lobby-check.webp ← nyc-pull-station-lobby-check (identical to older tracked file)
+No camera/network photos. Each viewed (or matches the Kensington-described base image) before writing alt text. Hero video and VideoObject left out: no Mapleton hero video exists in the repo.
+
+
+### Question register (this page)
+§9 Q&A (H3):
+- Our corner lot on 18th Avenue was first planned as three stories with 12 apartments, and the new filing is four stories. Why would one more floor change the fire alarm?
+- Our one-story store on 18th Avenue sits over a full cellar we want to open to shoppers. Can the cellar alone make the store need a fire alarm?
+- We are replacing a 1920 two-family house on 61st Street with a three-story, three-unit building. Will we have to install a building fire alarm?
+- Our eight-story building on Bay Parkway has a live-in superintendent. Should the super be first on the central station's call list?
+- Cars park in the cellar under our new apartments. How is the garage protected without exhaust setting off the alarm?
+- A high school on a multi-session schedule with evening classes is almost never empty. How does its fire alarm get tested?
+- Why does a public building like a library close for more than a year when its fire alarm is replaced along with its roof and heating?
+- Our Talmud Torah classrooms and our sanctuary share one building on 56th Street. Is the building treated as a school or a house of worship for the fire alarm?
+- If a new school moves into the former Bishop Kearney High School building on 60th Street, does the old fire alarm approval carry over?
+- Our parish hall fills for a feast-day dinner once a year but is quiet most weeks. Which crowd does the fire alarm design use?
+- Our building backs onto the Sea Beach subway cut. Does that change anything for the fire alarm?
+- Our planned nine-story community facility will hold a sanctuary, a lecture hall and offices. Does every floor need voice evacuation?
+- 1. Is the building over the line?
+§17 FAQ (= FAQPage schema):
+- Does Abstract Enterprises Security Systems hold the FDNY Fire Alarm Company Certificate for Mapleton jobs?
+- Which community board covers a Mapleton building, and does it affect the fire alarm?
+- When the sponsor of a new Mapleton condominium hands the building to the condo board, what fire alarm records should change hands?
+- Can a store tenant in a Mapleton building hire its own fire alarm company when the landlord already has one?
+- What happens to a fire alarm while a Mapleton building is closed for renovation, the way the library is?
+- Does adding a first elevator to an older Mapleton building bring fire alarm work with it?
+- Is there a charge for the first fire alarm survey of a Mapleton building?
+- Our Mapleton building falls below the fire alarm thresholds. Can we still install a monitored fire alarm by choice?
+- What should a buyer ask for when purchasing a Mapleton mixed-use building that has a fire alarm?
+- Does a day care opening in a Mapleton storefront need a fire alarm?
+Other headings: no other H2/H3 ends in "?" (AI section H3s are quoted claims). Checked mechanically by tools/check_page.py against all 163 sibling fire alarm pages (no duplicates); meanings checked by hand against the Kensington, Laconia and Borough Park registers (dropped: staff-language training, apartment access, occupant-load calculation, test-booking lead time).
+
+### Checks (2026-11-15)
+- check_page --no-registration: only FAILs are 15 non-Brooklyn area hubs not yet linking back to /fire-alarm-installation-mapleton-brooklyn-ny (main-run wiring); PASS in a temp root with those back-links simulated. 13,886 words.
+- kwcov: base 363/363; area phrases present: [fire alarm installation Brooklyn].
+- simcheck top share 0.152 (Kensington, mostly shared nav/silo chrome).
+- mobile 390px: scrollWidth 390, no overflow, no gaps (added a small mobile table-cell style).
+
+## Midwood, Brooklyn — /fire-alarm-installation-midwood-brooklyn-ny (commercial rebuild research, 2026-11-15)
+
+Commercial (NFPA 72) rebuild research. Regulatory base reused from the silo research (research/fire-alarm-installation.md, NYC hubs + Kensington sections): PE/RA sealed drawings, TM-1 plan exam, Project Authorization, FDNY Fire Alarm Company Certificate, S-97 (NICET II+ or NYC master/special electrician), FDNY Fire Alarm Inspection Unit acceptance test, ~20-24 weeks submission to approval, up to 8 weeks initial review, 40-70 business days test lead time, B-45 / A-433 / TB-60 / central station contract, $420 new application / $525 complex technical analysis (NYC Business), $105 FA-27 (FDNY), MMR FY2025 21,966 malicious false alarms.
+
+**Unique angle:** Midwood's mid-rise wave measured against the 75-foot high-rise line. New apartment buildings here are being filed at 4 to 9 stories (The Vitagraph, 8 stories / 302 units on the 1905 Vitagraph studio site; 2183 Ocean Ave, 8 stories / 74 ft / 37 units; 1760 East 12th St, 9 stories / 84 ft / 35 units; 1506 Avenue L, 4 stories over stores). Whether a building crosses the NYC Building Code high-rise threshold (an occupied floor more than 75 ft above the lowest level of fire department vehicle access — measured to a floor, not the roof) decides fire command center, emergency voice/alarm communication and much of the fire alarm design. Contrasted with the interwar apartment houses on Avenue I / Ocean Ave / East 17th St (Oct 2025 1921 Avenue I fire, July 2023 1347 East 17th St fire) and with large connected institutions: East Midwood Jewish Center (1929 synagogue + pool/gym/kitchens + 1950 school joined by a two-story bridge) and Midwood High School (1940 H-shaped WPA building + 2008 science annex joined by a glass bridge), Brooklyn College on the northern edge.
+Avoided (used by siblings): Ocean Ave co-op/Newkirk Plaza (Ditmas Park), Shabbos/Yom Tov scheduling (Borough Park), store rows with shared attics (Flatlands), Avenue H March 2026 row fire as a centerpiece (Fiske Terrace used ABC7 report — here mentioned only once, in passing, with the News 12 SBS follow-up), Coney Island/McDonald auto corridor (Kensington), Fiske Terrace–Midwood Park historic district houses (Fiske Terrace page; houses out of scope).
+
+### Boundaries / background
+- "Midwood Brooklyn neighborhood boundaries Avenue J Avenue M Kings Highway Vitagraph history" · WebSearch → WebFetch · https://www.doc.surf/wiki/midwood-brooklyn (Wikipedia mirror) · bounded by Bay Ridge Branch tracks near Avenue I and Brooklyn College (N), Avenue P and Kings Highway (S), Nostrand/Flatbush/Coney Island Aves (E), McDonald Ave and Ocean Pkwy (W); boundaries "somewhat fluid and poorly defined"; Community District 14; ZIPs 11210, 11230; 2020 pop 54,637 (infobox); Dutch "Midwout" 1652; 1920s middle-class housing tracts and apartment buildings; Vitagraph near Avenue M, Warner Bros moved to Hollywood 1939; NBC bought part 1952, color studio dedicated 1954; Avalon Theater closed 1982, now Walgreens; 70th Precinct 154 Lawrence Ave; Engine 276/Ladder 156/Battalion 33 at 1635 East 14th St; shopping streets Kings Highway, Avenue J, Avenue M, Flatbush, Nostrand, Coney Island Aves; Avenue J/M kosher restaurants; East Midwood Jewish Center (Ocean Ave, NRHP 2006), Kingsway Jewish Center (Nostrand Ave, NRHP 2010); Midwood library 975 East 16th St; Kings Highway library 2115 Ocean Ave opened 1954 · §5, landmarks, FAQ.
+- https://en.wikipedia.org/wiki/Midwood,_Brooklyn · WebFetch EMPTY (permission not answered in build env) — mirror above used.
+- "Top 10 secrets of Midwood" · WebFetch · https://untappedcities.com/2022/10/19/secrets-midwood-brooklyn/ · Vitagraph at 1277 East 14th St; NBC Brooklyn; OHEL bought former Studio 1 building; eight-story apartment building "The Vitagraph" opened 2018; Brooklyn College founded 1930, campus construction began 1935, FDR laid gymnasium cornerstone a year later; Kingsway Jewish Center built 1951; Joyce Kilmer Triangle on Kings Highway; Dubrow's Cafeteria Kings Highway · §5, landmarks.
+
+### Mid-rise / new construction
+- "The Vitagraph apartments 1277 East 14th Street" · WebSearch → WebFetch · https://www.cityrealty.com/nyc/market-insight/features/future-nyc/in-midwood-302-unit-rental-premieres-former-site-vitagraph-studios/33001 · 8 stories, 302 rental units, business suite, fitness center, lounge, storage, landscaped courtyard, roof deck; studio on site from 1905; keeps the chimney next to the new building · §5, §7, Q&A, landmarks.
+- same · WebFetch · https://brooklyneagle.com/articles/2022/04/11/vitagraph-from-silent-film-studio-to-pricey-apartment-building/ · sold for $180 million to The Dermot Company (2022); 302 units, eight stories; studio torn down 2015; adjacent Avenue M building survived; smokestack a neighborhood landmark; The Real Deal: some units "must remain rent-regulated for the next three decades" · §5, landmarks.
+- "newyorkyimby Midwood Brooklyn permits filed 2025 2026" · WebSearch → WebFetch · https://blog.marketproof.com/new-building-permit-filed-for-2183-ocean-ave-in-midwood-brooklyn/ · eight-story, 37-unit, 74 ft, ~17,610 sq ft residential + 827 sq ft commercial, filed July 15 2026 (existing-building fields inconsistent — not used) · §5 table, §7, Q&A.
+- same · https://blog.marketproof.com/new-building-permit-filed-for-1760-e-12th-st-in-midwood-brooklyn/ · nine stories, 84 ft, 35 units, 36,752 sq ft residential, filed Aug 25 2025, replaces two-floor 1920 house (commercial sq ft figure 149,500 looks erroneous — NOT used) · §5 table, Q&A.
+- same · https://blog.marketproof.com/new-building-permit-filed-for-1506-avenue-l-in-midwood-brooklyn/ · four stories, 44 ft, 24,266 sq ft residential + 2,994 sq ft commercial, filed Oct 16 2025; existing 1930 two-floor building · §5 table, §8.
+- same · https://blog.marketproof.com/new-building-permit-filed-for-1673-ocean-pkwy-in-midwood-brooklyn/ · 3 stories/44 ft with 40,610 sq ft residential (implausible) — NOT used. 2586 Nostrand Ave (724,110 sq ft commercial — typo) — NOT used. 1329 Ocean Pkwy (one story, 10,378 sq ft commercial, filed Aug 27 2025) — NOT used (Ocean Parkway page area).
+- https://newyorkyimby.com/2026/09/permits-filed-for-1923-ocean-avenue-in-midwood-brooklyn.html · WebFetch EMPTY (client_error) — headline only, not used.
+
+### Code (high-rise line, triggers)
+- "NYC Building Code 403 high-rise 75 feet fire command center" · WebSearch → WebFetch · https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-166760 · NYC BC §403 (High-Rise Buildings): 403.5.4 stairways "serving floors more than 75 feet (22 860 mm) above the lowest level of fire department vehicle access"; 403.4.8.4.1 lists emergency voice/alarm communication systems, automatic fire detection and fire alarm systems as emergency power loads (occupancies other than R-2); 403.5.3 stair doors unlock on signal from fire command center · §5, §10.5, Q&A, FAQ.
+- "high-rise building 75 feet lowest level of fire department vehicle access definition" · WebFetch · https://www.iccsafe.org/building-safety-journal/bsj-technical/talking-in-code-high-rise-building-definition/ · ICC: high-rise = "an 'occupied floor' more than 75 feet above the lowest level of fire department vehicle access"; occupied roof is not a floor ("a floor is a floor and a roof is a roof") · §5, Q&A, AI reality check.
+- https://milrose.com/insights/code-question-is-my-building-considered-a-high-rise · WebFetch EMPTY (no article text) — not used.
+- https://ny-engineers.com/blog/fire-alarm-device-requirements-by-occupancy-classification · WebFetch · NYC BC 907 summary: A ≥300 occupants; B thresholds (500+ total, >100 above/below exit discharge, ambulatory health care); all E and I; M thresholds (12,000 sq ft fire area, >3 stories, 24,000 combined, 1,500 sq ft below grade); R-2 if units ≥3 stories above lowest exit discharge, >1 story below highest exit discharge, ≥16 units, or student apartments; high-rise special requirements regardless of occupancy · §5, §8, Q&A.
+
+### Fires (local news)
+- "Midwood Brooklyn fire 2026" · WebSearch → WebFetch · https://brooklyn.news12.com/1-person-critically-injured-1-firefighter-hurt-in-midwood-fire · Oct 9 2025, 1921 Avenue I between East 19th St and Ocean Ave, apartment building, fire in a fourth-floor apartment ~7:10 a.m., 12 units/~60 personnel, under control 7:59 a.m., one critical, one firefighter minor injuries; quote Ariel Matthews: "I smelt the fire first, and I heard somebody crying out for someone named David" · §5, AI reality check, Q&A.
+- "site:reddit.com Midwood Brooklyn fire" (returned news) · WebFetch · https://abc7ny.com/post/midwood-brooklyn-fire-four-injured/13453538/ · July 2 2023, 1347 East 17th St, multi-unit residential, top-floor apartment, four rescued incl. three children; Deputy Chief James Smithwick: "It was a difficult search due to the amount of clutter in the apartment." · §5 table, repair section.
+- same search · https://abc7ny.com/post/midwood-fire-firefighters-battling-flames-roof-building-housing-row-businesses-brooklyn/18737274/ · Mar 19 2026, 1021 Avenue H between East 10th St and Coney Island Ave; restaurant fire spread through row sharing a rear wall; three alarms; 63 units/192 personnel; eight small businesses destroyed (barbershop, physical therapy clinic, clothing stores, restaurant); Chief Jason Warnken: "The rapid spread of the fire. Several engine companies had to stretch hose lines into several stores" · §8 (brief mention only — Fiske Terrace sibling used this report).
+- https://brooklyn.news12.com/city-announces-128000-in-emergency-funding-for-small-businesses-after-midwood-fire · Apr 10 2026: $128,000 emergency funds, Islamic Relief USA with city SBS (Commissioner Kenny Minaya), up to ~$18,200 per business; fire day before Eid al-Fitr; H & F Candy Store ~25 years; Little Pakistan · §8 (one sentence).
+- https://brooklyn.news12.com/2025/10/18/1-firefighter-injured-in-midwood-warehouse-fire/fjt2wEFgTOCdcSyC1qVVO · Oct 2025, one-story warehouse on East 14th St, ~11 p.m., 106 fire and EMS personnel, one firefighter minor injuries · §5 table, §8.
+- https://abc7ny.com/post/commercial-building-fire-brooklyn-midwood-fdny/11165536/ · Oct 24 2021, two-story commercial building at Kings Highway and East 9th St, 12 units/~60 firefighters, no injuries · §8.
+- https://brooklyn.news12.com/fdny-building-catches-fire-in-midwood · Dec 14 2023, 1424 East 2nd St (vacant 2½-story house) — house, out of scope, NOT used.
+
+### Institutions
+- "East Midwood Jewish Center 1625 Ocean Avenue built 1929" · WebSearch → WebFetch · https://ipfs.aleph.im/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/East_Midwood_Jewish_Center.html · 1625 Ocean Ave; congregation 1924; cornerstone 1926, completed 1929; Renaissance Revival; 800 main floor + 150+ balcony; 155 ft wide; two copper domes; steel frame/masonry; NRHP June 7 2006; original building had auditorium, kitchens, restaurant, classrooms, gymnasium, swimming pool; 1950 three-story school linked by a two-story bridge; Rabbi Harry Halpern Day School · §7, landmarks, Q&A.
+- "Midwood High School 2839 Bedford Avenue" · WebSearch → WebFetch · https://www.doc.surf/wiki/midwood-high-school · 2839 Bedford Ave 11210; built 1940 (WPA); H-shaped, six Ionic columns, Georgian cupola; enrollment 4,059 (2021-22); design capacity 2,800; Brooklyn College campus high school since 1984-85; science annex across the street opened summer 2008, glass bridge linking 2nd and 3rd floors · §7, landmarks, Q&A.
+- Brooklyn College: Untapped (above) · founded 1930, construction 1935 · landmarks only (no AHJ claim made).
+- Kingsway Jewish Center: Untapped (1951, Nostrand Ave) + doc.surf (NRHP 2010) · landmarks/§7.
+
+### Community / SERP
+- Reddit r/Brooklyn, r/AskNYC, r/nyc threads on Midwood fire alarms: EMPTY (site:reddit.com search returned only news pages).
+- Google PAA / PASF / Answer the Public / AI Overview for "fire alarm installation Midwood": EMPTY (not accessible in build env). AI reality check section answers the silo-level AI Overview claims recorded in research/fire-alarm-installation.md.
+- Avenue NYC / SBS commercial district needs assessment for Midwood corridors (Kings Highway, Avenue J, Avenue M): EMPTY — Homecrest CDNA (https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-homecrest.pdf) covers Avenue U / Coney Island Ave / Gravesend Neck Rd only; NOT used.
+- Yelp 1-3★ for Midwood fire alarm companies: EMPTY (not searched — no local listings found).
+- Nursing homes / hospitals inside Midwood boundaries: EMPTY (none verified) — not named on page.
+
+### Images (11, copied from base set, each viewed)
+fire-alarm-installation-midwood-brooklyn-ny-touchscreen-panel-tablet-review.webp (nyc-control-panel-touchscreen-tablet) · -lobby-annunciator-marble.webp (nyc-lobby-annunciator-check) · -lobby-pull-station-check.webp (nyc-pull-station-lobby-check) · -sprinkler-riser-panel-check.webp (nyc-panel-check-sprinkler-riser) · -cellar-ceiling-horn-strobe.webp (new-york-ceiling-horn-strobe-basement) · -retail-smoke-detector-panel.webp (nyc-smoke-detector-and-panel-retail) · -office-ceiling-smoke-detector-lift.webp (nyc-smoke-detector-office-lift) · -power-supply-battery-test.webp (new-york-power-supply-battery-meter) · -honeywell-panel-meter-drawings.webp (nyc-control-panel-meter-test-drawings) · -corridor-horn-strobe-drill.webp (nyc-horn-strobe-corridor-block-wall) · -pull-station-two-tech-commissioning.webp (new-york-pull-station-and-panel-two-techs). Not used: new-york-pull-station-storefront-conduit (building number visible), warehouse images (little warehouse stock in Midwood).
+
+### Question register (this page)
+- Our new building on Ocean Avenue is listed at 74 feet. Can we assume the fire alarm will not need high-rise features?
+- Our nine-story Midwood building is listed at 84 feet to the roof. Is it automatically a high-rise for the fire alarm?
+- We want a lounge and terrace on the roof of our new Midwood building. Does a roof amenity push us over the high-rise line?
+- What actually changes in the fire alarm design when a Midwood building crosses 75 feet?
+- The Vitagraph's chimney was kept beside the new building. Do landmark-type structures on a site need fire alarm devices?
+- Our synagogue's school is joined to the sanctuary building by a bridge. Should both buildings share one fire alarm panel?
+- Our 1920s apartment house on Avenue I has smoke alarms in every apartment but no building fire alarm. Are we out of compliance?
+- After the fire on Avenue I, our board wants to add a building fire alarm voluntarily. Is a voluntary system filed the same way?
+- We are converting a two-story store building on Kings Highway to put a medical practice upstairs. Does the doctor's office trigger a fire alarm?
+- Our Avenue J restaurant shares a building with apartments, and the kitchen keeps tripping the hallway smoke detector. Can we swap it for a heat detector ourselves?
+- Our Kings Highway building has a pharmacy, a dentist and two floors of apartments. Which rule decides whether it needs a fire alarm?
+- Our yeshiva rents a converted house on a Midwood side street for a few classrooms. Does a small school need a full fire alarm?
+- How do we find out where the lowest level of fire department vehicle access is for our Midwood lot?
+- Does a building just under the high-rise line still need a fire alarm in Midwood?
+- Who signs the drawings for a Midwood fire alarm, the engineer or the fire alarm company?
+- Can our Midwood co-op keep its existing panel when we renovate the lobby?
+- Is a fire command center a separate room, or can it be part of a Midwood building's lobby?
+- Do the stores on the ground floor of a new Midwood building need their own fire alarm panel?
+- What should a Midwood congregation have ready before the FDNY acceptance test?
+- Does adding apartments over a one-story Kings Highway store mean the whole building needs a fire alarm?
