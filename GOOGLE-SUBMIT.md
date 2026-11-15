@@ -92,6 +92,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 
 2026-11-14 evening (scheduled, 01:51 UTC Nov 15, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2697 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-15T01:51:33Z, 2996 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2147 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected dvr-upgrade-putnam (URL is not on Google; Crawled - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 10 requests this morning used the daily allowance. Queue unchanged; next run starts at dvr-upgrade-putnam.
 
+2026-11-15 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 9 requested, 6 indexed (dvr-upgrade queens/ulster/westchester; floodlight brooklyn/orange county; hik-connect manhattan), 0 failed, 2724 queued. Not-indexed URLs were Crawled - currently not indexed. dvr-upgrade staten island and floodlight hudson valley: first Request-indexing click closed the live-test dialog with no result; succeeded on retry (the confirmation can take ~25s to appear). "Quota Exceeded" on the 10th request (nvr-installation-hudson-valley, Crawled - currently not indexed), which stays QUEUED; next run starts there.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-10-29: brand price pages NOT on Google per URL Inspection API (184). Highest-search brands first, NYC areas first. Request these before everything else. -->
