@@ -412,7 +412,7 @@ TODO | elevator-access-control-installation-orange-county | Elevator Access Cont
 TODO | elevator-access-control-installation-putnam-county | Elevator Access Control Installation | Putnam | up /elevator-access-control-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | elevator-access-control-installation-dutchess-county | Elevator Access Control Installation | Dutchess | up /elevator-access-control-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | elevator-access-control-installation-ulster-county | Elevator Access Control Installation | Ulster | up /elevator-access-control-installation-hudson-valley | (845) 640-3835 | GBP Bronx
-BUILDING 2026-11-15T18:16Z max-daily | doorbird-vs-2n | Comparison: DoorBird vs 2N | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE | doorbird-vs-2n | Comparison: DoorBird vs 2N | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | akuvox-vs-butterflymx | Comparison: Akuvox vs ButterflyMX | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | sonos-installation-bayside-queens-ny | Sonos Installation | Bayside, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
 LIVE | sonos-installation-pelham-bay-bronx-ny | Sonos Installation | Pelham Bay, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
@@ -523,11 +523,11 @@ LIVE | fire-alarm-installation-gerritsen-beach-brooklyn-ny | Fire Alarm Installa
 LIVE | fire-alarm-installation-gowanus-brooklyn-ny | Fire Alarm Installation | Gowanus, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-gravesend-brooklyn-ny | Fire Alarm Installation | Gravesend, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-greenpoint-brooklyn-ny | Fire Alarm Installation | Greenpoint, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-15T18:16Z max-daily | fire-alarm-installation-greenwood-heights-brooklyn-ny | Fire Alarm Installation | Greenwood Heights, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-15T18:16Z max-daily | fire-alarm-installation-harding-park-bronx-ny | Fire Alarm Installation | Harding Park, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-15T18:16Z max-daily | fire-alarm-installation-highbridge-bronx-ny | Fire Alarm Installation | Highbridge, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-15T18:16Z max-daily | fire-alarm-installation-highland-park-brooklyn-ny | Fire Alarm Installation | Highland Park, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-15T18:16Z max-daily | fire-alarm-installation-hunts-point-bronx-ny | Fire Alarm Installation | Hunts Point, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-greenwood-heights-brooklyn-ny | Fire Alarm Installation | Greenwood Heights, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+HOLD-THIN ~250 one-family co-op bungalows (HPHA since 1982); no stores, schools, churches or 3+ unit buildings; nearby code-required stock is Clason Point and already on the live Clason Point page — Anwar to decide fold into Clason Point, noindex, or combined waterfront page | fire-alarm-installation-harding-park-bronx-ny | Fire Alarm Installation | Harding Park, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-highbridge-bronx-ny | Fire Alarm Installation | Highbridge, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+HOLD-THIN mostly the park + ridge blocks labelled Cypress Hills; ~5-6 prewar six-story rentals on Highland Blvd and one uncertified 341 Highland Blvd proposal; angles already on live Cypress Hills page — Anwar to decide 301 to Cypress Hills, noindex, or revisit when 341 Highland Blvd is filed | fire-alarm-installation-highland-park-brooklyn-ny | Fire Alarm Installation | Highland Park, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | fire-alarm-installation-hunts-point-bronx-ny | Fire Alarm Installation | Hunts Point, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-jerome-park-bronx-ny | Fire Alarm Installation | Jerome Park, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-kensington-brooklyn-ny | Fire Alarm Installation | Kensington, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-kingsbridge-bronx-ny | Fire Alarm Installation | Kingsbridge, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx

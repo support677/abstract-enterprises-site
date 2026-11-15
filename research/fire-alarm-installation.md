@@ -7217,3 +7217,291 @@ FAQ (§17, 12 questions):
 10. Do the recorded messages in a Greenpoint tower have to be retested after the building's speakers are moved in a renovation?
 11. The Polish butcher shop that rented our ground floor for decades just closed. Should we check the fire alarm before the next tenant moves in?
 12. Can our church hold Christmas Masses if its new fire alarm is installed but has not had its FDNY acceptance test yet?
+## Greenwood Heights, Brooklyn — /fire-alarm-installation-greenwood-heights-brooklyn-ny (commercial rebuild research, 2026-11-15)
+
+Neighborhood rebuild research (NFPA 72 commercial/multifamily only). Regulatory base (PE/RA sealed drawings, TM-1, FDNY Fire Alarm Company Certificate, S-97 with NICET II+ or NYC master/special electrician, S-98, company cert 1 yr, ~20-24 weeks, initial review up to 8 weeks, B-45/A-433/TB-60, 40-70 business-day test lead time, FA-27 $105, cert application $105, central station bulletin Jan 5 2012 (30-day violation order), BC 907 thresholds via ny-engineers, 36 in from diffusers, fans >2,000 cfm, MMR FY2025 21,966 malicious false alarms) reused as facts from "## NYC hubs". Each entry: exact query · platform · URL · finding · page section used.
+
+**Unique angle:** change-of-use corridor at the cemetery's edge — Fourth Avenue M1-1D lots rezoned one site at a time for 8–14-story apartment buildings (737 Fourth Ave / One Sunset 2021–2025; 783 Fourth Ave former St. Rocco's campus in ULURP 2026), Green-Wood's 1895 Weir Greenhouse turned into the $34M Green-House visitor center (opened Apr 18 2026), a gas station turned beer garden; each change of occupancy restarts the fire alarm design. Also: the M1-2D/IBZ light-industrial blocks between and west of Third and Fourth Avenues.
+
+### Neighborhood definition / history
+- "Greenwood Heights Brooklyn neighborhood boundaries Fourth Avenue Green-Wood Cemetery" · Firecrawl search → scrape · https://en.wikipedia.org/wiki/Greenwood_Heights,_Brooklyn · named partly after Green-Wood by real estate developers; CD7 with Windsor Terrace, Sunset Park, South Slope; borders roughly Prospect Expwy N, Gowanus Canal/Upper Bay W, Eighth Ave E, 39th St S; mid-20th-c. "Bush Terminal"; 1966 poverty area → 36th St–Prospect Expwy folded into Sunset Park; "Greenwood Heights" by late 1980s; Nov 2005 rezoning; wood frame/vinyl/brick homes; P.S. 172, P.S. 295, M.S. 88, Hellenic Classical Charter; Al-Noor School est. 1995 on 4th Ave between 20th/21st; 36th St, 25th St, Prospect Ave stations (D/N/R/W); B37, B63; ZIP 11232 · §5 neighborhood, §8 streets, landmarks.
+
+### Rezonings and new buildings (the angle)
+- "Greenwood Heights OR South Park Slope rezoning City Planning Commission approved 2005 R6B R6A Fourth Avenue" · Firecrawl search → scrape (PDF) · https://www.nyc.gov/assets/planning/download/pdf/plans/south-park-slope/southparkslope.pdf · 50 blocks bounded by 15th St, 4th Ave, PPW, 24th St & Green-Wood; certified Aug 22 2005; CB7 Aug 24 2005; CPC Oct 19 2005; Council Nov 16 2005; 4th Ave R6→R8A with Inclusionary bonus (5.4→7.2 FAR, base 85 ft, max 120 ft); 4th Ave 120 ft wide; >500 units built/permitted in prior 3 yrs; Fifth Ave = single-story commercial + 3-4 story retail-with-apartments; 4th Ave large lots with one-story warehouse/commercial buildings · §5, facts table, §8.
+- same search · Firecrawl scrape (PDF, 8 of 11 pages) · https://zap-api-production.herokuapp.com/document/package/01QY2C5KJF6TFZFTKE3ZBLHKQ6CVW2ZX6T · 783 4th Ave Project Description No. 2023K0368 (Jan 2026): Block 661 M1-1D → R7A & R8A/C2-4 + MIH; St. Rocco's RC Church campus, five 1-2 story buildings 26,645 gsf, 33 surface parking; proposed A 13 stories/134 ft/98 DU + retail, B 9 stories/94 ft/68 DU, C 8 stories/84 ft/48 DU 100% affordable (HPD ELLA) + 2,743 zsf community facility; 214 DU, 88 income-restricted; 9 voluntary parking; Special 4th Ave Enhanced Commercial District Nov 29 2011 (56 blockfronts Atlantic Ave–24th St); 737 4th Ave rezoning Apr 2021 M1-1D→R8A, 14 stories, 108,119 sf, 142 DU planned; BSA variances 214 25th St (2005) & 219 26th St (2017) residential in industrial buildings; 725 4th Ave 6-story full block 23rd–24th; 10-story Brooklyn Way hotel at 764 4th Ave; Our Lady of Czestochowa–St. Casimir 183 25th St (church + pre-school); P.S. 172 Beacon School of Excellence 825 4th Ave; Southwest Brooklyn IBZ west of 3rd Ave; M1-2D ~21 blocks between 3rd & 4th Aves from Prospect Expwy to mid 37th/38th; 4th Ave residential 3–11 stories mostly with ground-floor retail; City of Yes Dec 2024 → Inner Transit Zone · §5, facts table, §7 building types, field notes, AI check, new construction.
+- "St. Rocco church 783 Fourth Avenue Brooklyn rezoning" · Firecrawl search → scrape · https://www.sunsetpost.org/en/stories/divided-board-vote-advances-st-rocco-s-housing-proposal/ · Oct 25 2026: CB7 voted 17–12 at Oct 21 meeting; land long owned by Diocese of Brooklyn; advisory; ~7-month process; district-needs debate on sewers/catch basins · §5, facts table, §7, repair (water).
+- same search · search snippet only · https://citizenportal.ai/articles/9968759/developer-seeks-rezoning-at-st-rocco-site-cb7-requests-shadow-ada-and-flood-studies · title: CB7 requests shadow, ADA and flood studies · §6 repair (ground faults/water).
+- "Greenwood Heights new rental building Fourth Avenue units" · Firecrawl search → scrape · https://www.brownstoner.com/development/greenwood-heights-sunset-park-community-board-brooklyn-737-4th-avenue-rezoning-affordable-housing/ · Nov 20 2020: CB7 25–16 advisory vote on 737 4th Ave, 14 stories, 135 units then, 35 MIH units; Totem's Vivian Liao quote "There is literally no public program..." (recorded; quote later trimmed from page body for length) · research context only.
+- same search · snippet · https://www.cityrealty.com/nyc/south-slope-greenwood-heights/one-sunset-201-25-street/82859 · One Sunset, 201 25th St / 737-747 4th Ave: 14 stories, 187-unit rental, completed 2025 · §5, facts table, §7, §8.
+- same search · snippet · https://www.fmarchitect.com/875-fourth · 875 Fourth Ave: 8 stories, 90 ft, 150 units, 136,378 sf, 62 attended parking spaces, concierge lobby, completed 2024 · facts table, §7 (parking garage).
+- same search · snippet · https://newyorkyimby.com/2016/05/permits-filed-685-fourth-avenue-greenwood-heights.html · 12-story mixed-use permits filed 2016 · not used (snippet only).
+
+### Green-Wood Cemetery / Green-House
+- "Green-Wood Cemetery Education and Welcome Center Weir Greenhouse construction opening" · Firecrawl search → scrape · https://www.esd.ny.gov/esd-media-center/press-releases/empire-state-development-announces-opening-green-house-visitor · Apr 16 2026: $34M Green-House; >½ million visitors/yr; galleries, archival research, classroom, research center with records to 1838; $4.1M state funding; opens Sat Apr 18; 1895 Weir Greenhouse NYC Landmark; LEED Gold ARO, L-shaped, terra cotta, green roof; Green-Wood est. 1838, 478 acres, NHL · §5, facts table, §7, landmarks, AI check.
+- same · scrape · https://www.aro.net/green-wood-cemetery-education-and-welcome-center/ · 17,000 SF new building; 19,200 SF total; staff offices, community classroom, two ground-floor galleries, climate-controlled archive; all-electric; 1865 Upjohn gate (ESD/Wiki dates differ; page uses Wikipedia) · §1 quick answer, §7, Q&A (archive/air sampling).
+- same · scrape · https://www.green-wood.com/the-green-house/ · 25th St & Fifth Ave, enter on 25th St; 10am–7pm Thu–Mon; private events; R to 25th St; Dec 8 2026 "History Happy Hour: Remembering the Brooklyn Theater Fire" · §7, landmarks.
+- same · search snippet · https://ohny.org/place/green-wood-26 · restoration completed early 2026, reopened April 2026, almost 20,000 visitors · landmarks.
+- same · search snippet · https://www.facebook.com/NYCLandmarks/posts/the-new-green-wood-cemetery-visitor-center-the-green-house-at-green-wood-is-now-/1412219374283505/ · LPC approved both the greenhouse (individual landmark) and new construction · AI check.
+- same · snippet · https://www.6sqft.com/green-wood-cemeterys-34m-welcome-center-that-wraps-around-historic-greenhouse-breaks-ground/ · earlier June 2025 completion target · not used.
+- "Green-Wood Cemetery chapel Warren and Wetmore 1911 crematory Fort Hamilton Parkway gatehouse" · Firecrawl search (Wikipedia extract) · https://en.wikipedia.org/wiki/Green-Wood_Cemetery · gates NYCL Apr 19 1966; Weir Greenhouse NYCL Apr 13 1982; Fort Hamilton Pkwy gate & chapel NYCL Apr 12 2016; four gates, 25th St gate nearest Greenwood Heights; "The Dead Shall Be Raised"; chapel completed 1913, patterned on Tom Tower; receiving tomb rebuilt 1909, columbarium 340 urns; crematory opened Sept 1955; Warren & Wetmore gate at PPW & 20th St · §7, §8, landmarks, FAQ (crematory).
+- same · snippet · https://www.green-wood.com/memorial-services/ · memorial services since 1911 chapel · landmarks, FAQ (funerals).
+- "Brooklyn Theatre fire 1876 victims buried Green-Wood" · Firecrawl search · https://www.green-wood.com/2014/newspaper-account-of-burial-of-unidentified-victims-of-the-brooklyn-theatre-fire-december-30-1876/ · at least 278 dead; 103 unidentified in common grave at Green-Wood; burial Dec 30 1876 · landmarks; https://en.wikipedia.org/wiki/Brooklyn_Theatre_fire (obelisk, Dec 5 1876 during a performance) · landmarks.
+- "Greenwood Heights fire firefighters" · Firecrawl search → scrape · https://brooklyneagle.com/411616/green-wood-cemetery-hosts-the-battle-of-brooklyn-250/ · Aug 25 2026: Battle of Brooklyn 250 at Green-Wood, procession up Battle Hill, one of six sites, $350,000 state funding; Meera Joshi quote "one of the very few places in all of New York where anyone and everyone can stand on ground that has not been bulldozed, reshaped, rezoned or redefined" · landmarks (real quote).
+
+### Venues
+- "Greenwood Park beer garden 555 7th Avenue" · Firecrawl search · https://www.greenwoodparkbk.com/about · 13,000 sq ft indoor-outdoor beer garden/bar/restaurant/event space from former gas station & mechanic shop, 555 7th Ave · §8 streets, new construction (change of use) · https://www.nyctourism.com/nightlife/greenwood-park-beer-garden/ · "Greenwood Heights' first beer garden" · §8.
+
+### Local fires / news
+- "12 injured Greenwood Heights apartment basement fire Brooklyn" · Firecrawl search · https://abc7ny.com/post/greenwood-heights-apartment-basement-fire-injures-6-residents-4-firefighters-2-nypd-officers-brooklyn/17710538/ · Sept 1 2025 (Sunday night): 2nd alarm, basement of apartment building on 27th St after 9:30 p.m., spread to 1st floor, 12 injured (6 residents, 4 FF, 2 NYPD) · §8 Fifth Ave, Q&A (cellar).
+- "Greenwood Heights Brooklyn fire FDNY 2025 OR 2026 Fourth Avenue" · Firecrawl search → scrape · https://brooklyn.news12.com/2024/02/01/fdny-5-people-injured-in-sunset-park-fire/6wE3cUDk38uDR1Tq3gU1FN · Feb 1 2024: fire 4th Ave near 30th St, 2nd floor just before 10 a.m., 5 to NYU Langone (News12 labels Sunset Park; 30th St lies inside Wikipedia's Greenwood Heights bounds) · §8 Fourth Ave.
+- same · scrape · https://nypost.com/2026/05/20/us-news/wild-photos-show-remains-of-abandoned-bus-after-catching-fire-under-bqe/ · May 20 2026: abandoned bus fire under BQE near 19th St between 3rd/4th Aves "in Greenwood Heights", no injuries (meta says 18th St; page uses article body 19th St) · §8 Third Ave.
+- Nov 5 2026 Sunset Park row-house fire (6 dead) seen in results — NOT Greenwood Heights, not used.
+
+### Other / rejected
+- Extra Space / CubeSmart self storage on 3rd Ave (312 & 338 3rd Ave are Gowanus/Park Slope 11215; 24 32nd St is Sunset Park industrial) · not used (outside area or unverifiable boundary).
+- Hellenic Classical Charter School 646 5th Ave — school's own site calls the campus "Park Slope" · not named on page.
+- NYT Aug 5 2020 Greenwood Heights "Living In" · Firecrawl scrape unsupported · EMPTY.
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp 1–3★ / Reddit for "fire alarm installation Greenwood Heights": EMPTY (not run/accessible in this build). AI reality check written against generic AI/lead-site claims and corrected with FDNY/LPC sources.
+- Greenwood Heights firehouse / first-due company: EMPTY (not stated by any source found; page names none).
+- Population/demographics: not used.
+
+### Images
+- 11 existing files images/fire-alarm-installation/fire-alarm-installation-greenwood-heights-brooklyn-ny-*.webp, all viewed (contact sheet): no cameras/network gear, no readable street numbers or faces of customers; staff wear "Abstract Enterprise LLC" uniforms (same rendered set flagged earlier in DAILY-LOG). Alt/title/captions rewritten to describe only what is visible. No new image files created.
+
+### FLAG for later rebuilds
+- Sunset Park, South Slope and Windsor Terrace rebuilds must not reclaim the Green-House/Weir Greenhouse, Green-Wood's 25th St gate/chapel/crematory, 737 & 783 Fourth Ave, or the 27th St basement fire (ESD/ARO call the Green-House "Sunset Park"; this page claims it via Wikipedia's Greenwood Heights boundaries and the 25th St gate).
+
+### Question register (this page)
+Q&A (§9):
+1. Our Fourth Avenue lot is being cleared for a new building. What happens to the old building's fire alarm approval and central station account?
+2. Our site slopes up from Fourth Avenue toward Fifth. Which street does the high-rise rule measure from?
+3. The gallery and archive in our new visitor building hold irreplaceable records. Can the fire alarm protect them without detectors in every bay?
+4. Our cemetery building sits deep inside the gates. How do responders find the fire alarm signal at night?
+5. Our warehouse landlord west of Third Avenue rents small spaces to makers on short leases. Who looks after the fire alarm when tenants change every few months?
+6. Our warehouse west of Third Avenue sits empty every night. How do we know the fire alarm would actually reach help?
+7. After the basement fire on 27th Street, our board asked whether our cellar is covered. What should we check first?
+FAQ (§17):
+1. Can a Fourth Avenue store tenant hire its own fire alarm company instead of using the building's?
+2. Who should keep the fire alarm records when a Greenwood Heights property changes hands during a rezoning?
+3. Will a restaurant's hood suppression discharge sound the alarm for the whole building?
+4. What does a Greenwood Heights building owner need to have ready when the FDNY arrives for an acceptance test?
+5. Can fire alarm work on Green-Wood's buildings be scheduled around funerals and memorial services?
+6. How should a Greenwood Heights mixed-use building plan its annual fire alarm test while the stores are open?
+7. Does a crematory on a cemetery campus need special fire alarm detection?
+8. How long should a Greenwood Heights building keep its fire alarm inspection and test reports?
+9. Our new Fourth Avenue building has a store that is still an empty shell. Should its fire alarm devices go in before a tenant is found?
+10. Can a Greenwood Heights building near the Gowanus Expressway mount its fire alarm communicator antenna on the roof?
+
+## Harding Park, Bronx — /fire-alarm-installation-harding-park-bronx-ny (commercial rebuild research, 2026-11-15)
+
+**Verdict: HOLD-THIN, page not built.** The commercial, multifamily and institutional building stock is not big enough to support a separate 12,000-word NFPA 72 page. The old html was left untouched.
+
+Sources (query · platform · URL · finding · section used):
+- "Harding Park Bronx neighborhood bungalows cooperative homes Clason Point history" · WebSearch · https://www.nycgovparks.org/parks/harding-park/history · 1920s summer bungalow colony; a cooperative since 1982 (Harding Park Homeowners Association) · thin check.
+- same · WebFetch · https://www.cityneighborhoods.nyc/harding-park · Boundaries: O'Brien Ave (north), Bolton Ave (east), Bronx River (south and west). Housing is detached cottages and bungalows. The page names no businesses, schools, churches or apartment buildings · thin check.
+- grep (read-only) · research/fire-alarm-installation.md lines 1266-1332 (factory research, 2026-10-28) · About 250 bungalows (City Lore). The 1950s review counted 276 residential buildings. Many homes have no Certificate of Occupancy (CUNY paper, architect's page). HPD/311/DOB data: EMPTY. The only fire news is residential. The one Harding Park "apartment building" claim came from the old AESS template and was wrong · thin check.
+- "Harding Park Bronx 10473 restaurant OR church OR school OR apartment building …" · WebSearch · streeteasy.com/building/*-harding-park-bronx, redfin, compass · Every listed address is a "### Harding Park" house lot. No commercial, multifamily or institutional hits · thin check.
+- grep · fire-alarm-installation-clason-point-bronx-ny.html (live, PASS, 2026-11-15) · That page already describes Harding Park as about 250 bungalows outside the scope of code-required fire alarms. It uses all the nearby code-required buildings: the Story Ave centers, the Maleska campus, Holy Cross and 1810 Randall Ave · overlap check.
+- DCP Resilient Neighborhoods Harding Park summary PDF · WebFetch · https://www.nyc.gov/assets/planning/download/pdf/plans-studies/resilient-neighborhoods/harding-park/summary-report-harding-park.pdf · BLOCKED (permission prompt not answered); not used.
+- Harding Park (park), 2.16 acres, $11.4M renovation (shared file) · not a fire-alarm building.
+
+Reasoning: inside O'Brien Ave, Bolton Ave and the Bronx River there are only one-family bungalows. Those are out of scope under the commercial/multifamily-only rule. I found no store strip, school, church, nursing home or building with 3 or more units. Every nearby building that does need a fire alarm is in Clason Point or Soundview proper, and the live Clason Point page already covers them. A page here would be thin, or it would trespass on another area's page.
+
+### Question register (this page)
+- None. No page was built, so no FAQ questions were registered.
+
+## Highbridge, Bronx — /fire-alarm-installation-highbridge-bronx-ny (commercial rebuild research, 2026-11-15)
+
+NFPA 72 commercial only. Regulatory base (PE/RA sealed drawings, TM-1, Project Authorization, FDNY Fire Alarm Company Certificate, S-97 with NICET II+ or NYC master/special electrician, FAIU, up to 8 weeks initial review / ~20-24 weeks, central station active before inspection, S97/S98 holder at test, 36 in. from diffusers, additions need existing approval letter, FA-27 $105, NYC Business $420/$525, Jan 2012 central office connection bulletin, BC 907.2.9 R-2, FDNY CRA BX04) reused as facts from "## NYC hubs" and the Concourse/Mount Hope sections of research/fire-alarm-installation.md — not re-fetched, not reworded from siblings.
+
+Unique angle: the ridge. Highbridge's grade (Fordham gneiss; Anderson/Ogden/University climb from the Harlem River; West 167th St step street) means buildings with entrances at two heights — which changes the "lowest level of exit discharge" count (BC 907.2.9), the high-rise measurement (from lowest FD vehicle access), the FDNY response entrance / panel / annunciator location and floor labeling. Plus: a 422-unit supportive tower on the University Ave bluff, staffed supportive/senior buildings (Ogden Theatre Apts, Fischer Senior Apts), Inwood/Jerome valley-floor towers with big community-facility floors, Jerome Ave el noise vs BC 907.5.2.1.1 audibility, and recurring fires in 1910-1930 six-story stock (917 Ogden 2019, W 162nd 2025, 1040 Anderson twice 2025-26, Nov 2026). Avoided: Grand Concourse Art Deco/LPC angle (Concourse page), church-site supportive housing as the lead angle (Foxhurst), River Ave projects (labeled West Concourse/Concourse), 120 E 167th St (east of Jerome = Concourse), Yankee Stadium.
+
+Each entry: exact query · platform · URL · finding · section used.
+
+### Boundaries / neighborhood facts
+- "Highbridge Bronx neighborhood boundaries Ogden Avenue University Avenue history" · Firecrawl search → result excerpt · https://en.wikipedia.org/wiki/Highbridge,_Bronx · bounds Cross Bronx Expwy (N), Jerome Ave (E), Macombs Dam Bridge (S), Harlem River (W); Ogden Ave runs N-S; CB4; ZIP 10452; 2010 pop 37,727; 0.605 sq mi; High Bridge 1848; Union Reformed Church of Highbridge on Ogden Ave (Richardsonian Romanesque, Tiffany glass); PS 91 now PS 11 on Ogden Ave (Polychrome Gothic); older mansions on Woodycrest and Ogden · §5, at-a-glance, landmarks, Building Specialists (institutions).
+- same search · Firecrawl scrape · https://cityneighborhoods.nyc/highbridge · Washington Bridge (N) / Edward L. Grant Hwy (NE) alt. boundary; Fordham gneiss ridge; Anderson, Ogden, University "climb sharply"; 167th/168th/170th St dense 5-6 story buildings; elevated 4 train on Jerome; 1910-1930 five- and six-story Renaissance Revival/Art Deco; Sacred Heart founded 1875; small businesses along Jerome Ave & 167th St; Mullaly Park; High Bridge reopened 2015 · hero, §5, glance, §7, §8, landmarks, AI check.
+- same search · Firecrawl search excerpt · https://www.nycgovparks.org/parks/highbridgepark-bronx · High Bridge (1848) carried Old Croton Aqueduct, oldest standing bridge · §5, landmarks.
+- same search · Firecrawl search excerpt · https://cuny.manifoldapp.org/read/the-history-of-highbridge-054c5d6c-f3d1-4d28-93a9-08ccde31695e · Highbridgeville centered at 167th St & Highbridge Ave (later Ogden Ave); "167th Street and Ogden Avenue was the commercial center"; annexed 1874 · §8.
+- same search · Firecrawl search excerpt · https://marketproof.com/bronx/highbridge/1381-university-avenue-10452 · listing "26-Story 422-Unit Building" (matches 1387 University project) · §7 height discrepancy note.
+
+### Step streets / topography
+- "Highbridge Bronx step streets stairs Shakespeare Avenue grade cliff" · Firecrawl search → scrape · https://en.wikipedia.org/wiki/Joker_Stairs · West 167th Street Stairs (Joker Stairs / Shakespeare Steps) connect Shakespeare and Anderson Aves; near 167th St (4) station; filmed in Joker (2019) and Folie à Deux (2024); tourist crowding complaints · hero, §5, Q&A (crowds), landmarks.
+- same · Firecrawl search excerpt · https://www.cityarts.org/shakespeare · 132 steps connecting Anderson Ave and Shakespeare Ave; CITYarts + SYEP youth murals 2023 and repaint 2024 · hero, §5, landmarks.
+- same · https://onfootonwheels.squarespace.com/the-stair-streets-of-new-york-city/urban-mountaineering-in-the-bronx · "Jerome Slope (East 165 Street) stairs", 142 steps · NOT used (east of Jerome, likely Concourse).
+
+### Fire service landmark
+- "Engine 68 Ladder 49 FDNY firehouse Ogden Avenue Highbridge Bronx" · Firecrawl search · https://data.cityofnewyork.us/api/views/hc8x-tcnd/rows.pdf · FDNY Firehouse Listing: Engine 68/Ladder 49, 1160 Ogden Ave · glance, landmarks. (Facebook post calling it "House on the Hill", opened Sept 1979 — social source, not used.)
+
+### Local fire news
+- "Highbridge Bronx fire apartment building FDNY 2025 OR 2026" · Firecrawl search → scrape · https://bronx.news12.com/2026/02/06/3-alarm-fire-breaks-out-in-highbridge-apartment-building/1c4pdAt276sU0KYE0jN4Sn · Feb 2026 (Thursday, published Feb 6): third alarm at 1040 Anderson Ave, six-story, started 1st floor spread to 2nd, 140+ fire/EMS, hydrant froze, same building where a 15-month-old was hurt in a fire two months earlier; neighbor quote "It makes me feel scared. Sad. We can't sleep at night." (quote not used) · §5, Q&A.
+- same · scrape · https://bronx.news12.com/2026/11/04/one-person-injured-in-highbridge-apartment-fire/4JD3fMENBmfJR5gooqSjgr · Nov 4 2026: second-floor apartment fire ~11 p.m. Tuesday (Nov 3), one hurt, about an hour to extinguish · §5.
+- same · scrape · https://abc7ny.com/post/highbridge-apartment-fire-2-firefighters-another-person-hurt-flames-rip-building-bronx-nyc/16134577/ · Apr 6 2025: W 162nd St between Ogden & Summit Aves, started 6th floor, 100+ FFs, 2 FFs minor injuries · §5.
+- same · scrape · https://www.firehouse.com/operations-training/video/21215269/eight-fdny-firefighters-injured-battling-bronx-apartment-fire · Mar 21 2021: three-alarm, 5th floor, ~150 FFs, 8 FFs injured · research only.
+- "reddit Highbridge Bronx building fire alarm going off" · Firecrawl search → scrape · https://abc7ny.com/post/11-hurt-including-6-firefighters-in-bronx-building-fire/5420604/ · Jul 26 2019: four-alarm at 917 Ogden Ave, 5 residents + 6 FFs hurt, fire escapes; Battalion Chief Paul Miller quote; resident: "We didn't hear any fire detectors, but we ended up having to come down the fire escape to get to safe ground." · §5 (quote).
+- same search · result excerpt · https://www.reddit.com/r/Firefighting/comments/1mzotob/last_night_a_2nd_alarm_in_highbridge_bronx/ · Aug 24 2025 2nd alarm in 6-story apartment building · scrape BLOCKED (site not supported) · research only.
+
+### New construction / staffed housing
+- "new building permit filed Highbridge Bronx 2025 OR 2026 stories units marketproof OR yimby" · Firecrawl search → scrape · https://newyorkyimby.com/neighborhoods/highbridge · listing: 1415 Ogden Ave, 1004 Summit Ave (4 stories, 12 homes, lottery June 2026), Fischer Senior Apts, 955 Woodycrest Ave (6 stories, permits Sept 2025), 1004 Woodycrest Ave (6 stories, June 2025), The Grant 78 W 170th St (11-story mixed-use, 39 homes, Sept 2025), 120 E 167th St (excluded — east of Jerome) · §7, New Construction.
+- same · scrape · https://newyorkyimby.com/2025/01/new-renderings-revealed-for-highbridge-at-1387-university-avenue-in-highbridge-the-bronx.html · Samaritan Daytop Village; 422 units (125 affordable, 190 supportive, 106 transitional family, 1 super); 333,508 sq ft; all-electric, Passive House target; between Boscobel Pl and Highbridge Park overlooking river; former Carmelite monastery → men's residential treatment 1982, demolished early 2024; groundbreaking Dec 5 2024; ~100 program staff; 24/7 security; completion June 2027; article text "31-story", summary "26-story" · §5, §7, Q&A, AI check.
+- same · scrape · https://newyorkyimby.com/2026/10/1415-ogden-avenue-wraps-up-construction-in-highbridge-the-bronx.html · Ogden Theatre Apts, 85 units (51 supportive, 34 Section 8 ≤60% AMI), ~2,000 sq ft ground-floor social services, Passive House, rooftop solar, Ogden Ave & W 171st St, former movie theater/bowling alley/church; completion next spring · §5, §7.
+- same · scrape · https://newyorkyimby.com/2026/06/fischer-senior-apartments-opens-at-97-west-169th-street-in-highbridge-the-bronx.html · 97 W 169th St, 9 stories, 105 units, 59 formerly homeless adults, WSFSSH, ribbon cutting June 9 2026, between Nelson & Shakespeare Aves, on-site resident manager, senior center, community center; Enhanced Care pilot with home health aides · §5, §7, Q&A (aides).
+- same · scrape · https://newyorkyimby.com/2026/10/new-residential-buildings-coming-to-highbridge-and-concourse-the-bronx.html · 1298 Inwood Ave (two-tower 15-story, 195 units, 10,983 sq ft community facility, completion this winter); 1320 Inwood Ave Concern Inwood (14-story, 114 units, 51,080 sq ft community facility, replaces packaging warehouse, completion Dec 30 2027); 1295 Shakespeare Ave (7-story topped out); 1185 & 1240 River Ave (labeled West Concourse/Concourse — NOT used) · §5, §7, New Construction, Q&A (two buildings).
+- same · scrape · https://blog.marketproof.com/new-building-permit-filed-for-1095-jerome-ave-in-highbridge-bronx/ · 11-story 61-unit, 112 ft, 25,420 sq ft residential + 3,132 sq ft commercial, filed Feb 25 2025, replaces 1925 two-story house · §7.
+
+### Community institutions
+- "Highbridge Community Life Center Ogden Avenue Bronx services building" · Firecrawl search · https://www.nytimes.com/2014/09/15/nyregion/a-vital-center-for-a-bronx-community-closes.html (+ coalitionforthehomeless listing 979 Ogden Ave) · NYT 2014 says the center was closing; current status unclear · NOT used.
+- "Sacred Heart Church Shakespeare Avenue Highbridge Bronx school parish" · Firecrawl search · irrelevant results · EMPTY (Sacred Heart 1875 taken from CityNeighborhoods only).
+- "Woodycrest Center for Human Development Highbridge Bronx landmark Woodycrest Avenue" · Firecrawl search · irrelevant results · EMPTY.
+
+### Code / regulatory (fetched this page)
+- "NFPA 72 public mode audible signal 15 dB above average ambient sound level 5 dB maximum" · Firecrawl search excerpts · https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-172025 · NYC BC 907.5.2.1.1: 15 dBA above average ambient or 5 dBA above max ≥60 s, whichever greater, every occupiable space · §8 (el), Q&A (ambient), AI check.
+- same · https://www.nfpa.org/news-blogs-and-articles/blogs/2021/05/21/a-guide-to-fire-alarm-basics-notification · NFPA public mode 15 dB / 5 dB max 60 s; private mode 10 dB · sources list.
+- Reused (not re-fetched): FDNY Tips for Fire Alarm Systems; FDNY Fire Alarm Company Certificate FAQ; NYC Business fire alarm application; FDNY FA-27; FDNY Jan 2012 central office connection bulletin; NYC BC 907.2.9; NFSA high-rise definition (>75 ft from lowest FD vehicle access); FDNY CRA BX04 (14.5 residential structural fires/100k, electrical top cause, 18% disability vs 12% NYC; building-age shares NOT used per earlier note).
+
+### Community / SERP
+- r/bronx / r/AskNYC Highbridge fire alarm threads: search returned only generic r/Apartmentliving / r/AskNYC alarm threads and the r/Firefighting Highbridge fire post · EMPTY for Highbridge commercial fire alarm discussion.
+- Google PAA / PASF / Answer the Public / Google AI Overview / Bing / DDG / Yelp 1-3★ for "fire alarm installation Highbridge Bronx": EMPTY (not accessible in build env); §10.5 written from common generic AI answers, corrected with FDNY/code sources.
+- Bronx Times / Highbridge hyperlocal: not searched separately; News 12 Bronx and ABC7 used instead.
+
+### Images
+- 11 new files, copied from the shared fire alarm photo set (each viewed before naming; alt/title/caption describe only what is visible; no camera/network photos; no customer or named-building claims): fire-alarm-installation-highbridge-bronx-ny-riser-room-panel-tablet-check.webp, -marble-lobby-annunciator-touchscreen, -nac-power-supply-multimeter, -horn-strobe-concrete-ceiling-ladder, -honeywell-panel-meter-drawing-binder, -pull-station-glass-entry-hall, -smoke-detector-scissor-lift-office, -red-cable-spool-steel-framing, -corridor-horn-strobe-drill-mount, -notifier-touchscreen-tablet-review, -kitchen-hood-heat-detector (all .webp). The 11 old-page highbridge image files are now unreferenced (left in place, not deleted).
+
+### Question register (this page)
+Q&A (§9):
+- Our building on Anderson Avenue has its front door on the avenue and its cellar door several floors lower on the back slope. Why does that change the fire alarm design fee?
+- Our construction lender on a Jerome Avenue project wants fire alarm milestones it can tie to loan draws. Which milestones make sense?
+- Does a tower on the University Avenue bluff count as a high-rise if much of its height drops toward the river below the entrance?
+- Which entrance on a sloped Highbridge lot becomes the fire department's entrance, where the panel or annunciator is expected?
+- Our boiler room sits at the bottom of the slope, two floors below the lobby. Should the main fire alarm panel go down there?
+- When the designer measures ambient noise for apartments facing the Jerome Avenue el, should the reading be taken with trains running?
+- A home health aide program serves residents in our senior building on West 169th Street. Should the aides be part of the fire alarm plan?
+- Our ground-floor social services suite locks at five. How do annual device tests reach the detectors inside it?
+- Program staff offices fill part of a new supportive building on University Avenue. Does the fire alarm treat those office floors differently from the apartments?
+- After two fires in a few months at 1040 Anderson Avenue, our board asked what a building-wide fire alarm would and would not change in a building like ours. What is the honest answer?
+- Our prewar building on Ogden Avenue has a panel whose zone labels nobody can read anymore. Is the panel the problem, or the paperwork?
+- Visitors photographing the Shakespeare Avenue stairs gather by our lobby door. Does a crowd outside change anything about the building's fire alarm?
+- Someone keeps pulling the lobby station in our Summit Avenue building late at night. What can the owner do besides replacing the station?
+- Our developer is building two buildings on one Inwood Avenue site that will finish a year apart. How does the first building get its fire alarm approved while the second is still a construction site?
+FAQ (§17):
+- Does a building on a steep Highbridge lot need more than one annunciator?
+- Can the security post in a 24-hour supportive building stand in for the certificate holder at the FDNY acceptance test?
+- Our new building's Housing Connect lottery has opened. Does that tell us anything about where the fire alarm stands with the FDNY?
+- Our building sits on a corner where the mailing address is on one street and the main entrance is on another. Does that matter for the fire alarm?
+- Where do installers stage cable and equipment on Highbridge's steep, narrow side streets?
+- Can fire alarm cable run in exterior conduit on the back of a building that faces the river slope?
+- The central ventilation units on our new building's roof run around the clock. Do they have to shut down when the fire alarm activates?
+- We are converting the top floor of our Ogden Avenue building into a community room. Does that change the fire alarm?
+- Does the FDNY acceptance test for a new Highbridge building need the elevator, sprinkler and door contractors on site?
+- Can a fire alarm survey be done in a building where families in a transitional program are living?
+- Do apartments below street level on the river side of a building get the same horns and strobes as the upper floors?
+- Can fire alarm devices go on the landscaped terraces and walking paths around a new bluff-top building?
+
+## Highland Park, Brooklyn — /fire-alarm-installation-highland-park-brooklyn-ny (commercial rebuild research, 2026-11-15) — HOLD-THIN
+
+Thin-area check for the NFPA 72 commercial/multifamily rebuild (stays in its own area per DAILY-RUN Nov 15; 1-2 family homes out of scope). The question was whether Highland Park has enough code-required commercial, multifamily or institutional buildings, with sourced local facts, to carry a 12,000+ word page that the live Cypress Hills, East New York and City Line fire alarm pages do not already cover. It does not. The 2026-11-13 factory section above (house fires on Highland Pl and Ridgewood Ave, HPD/LL157 detector rules, Brownstoner forum posts) is residential and out of scope for this silo now. Each entry: exact query · platform · URL · finding · section used.
+
+### Is Highland Park a distinct area?
+- "Highland Park Brooklyn neighborhood boundaries Jamaica Avenue Highland Boulevard" · WebSearch → WebFetch · https://wikiwand.com/en/Highland_Park_(Brooklyn) · The Wikipedia article is about the park (established 1901, 141.28 acres, NYC Parks, on the Queens border). It puts Cypress Hills, Brooklyn to the south and Glendale/Ridgewood, Queens to the north. It does not describe Highland Park as a separate neighborhood. · thin check.
+- same · WebFetch · https://en.wikipedia.org/wiki/Highland_Park,_Brooklyn · EMPTY (WebFetch permission not answered in time; not retried).
+- same · WebFetch · https://www.cityneighborhoods.nyc/highland-park · Describes a ridge area of Jamaica Ave, Highland Blvd, Etna/Barbey/Elton Sts, the Ridgewood Reservoir and the war memorial. Its stated boundaries are garbled (Jamaica Ave as the north edge), and it lists St. Malachy's (East New York), so it is not relied on. It mentions no schools or stores. · not used.
+- same · WebFetch · https://prd2.nycgovparks.org/parks/B047 · The NYC Parks page lists the extent as Bulwer Place / Highland Park Greenway / Jamaica Ave / Jackie Robinson Pkwy, about $28.7M recent investment and 1,000 mapped trees. No facility buildings are listed. · thin check.
+- same · WebFetch · https://forgotten-ny.com/?p=7761 · Streets: Jamaica Ave, Force Tube Ave, Highland Pl (Snake Hill), Highland Blvd, Miller Ave, Sunnyside Ave/Ct, Barbey St, Vermont Pl. Buildings: a large brick apartment building on Miller Ave, a red brick apartment building on Sunnyside Ave, early-1900s houses, Ridgewood Reservoir (1856–59), Cypress Hills Cemetery (1848), the Evergreens (1849). · thin check.
+- same · WebFetch · https://forgotten-ny.com/?p=7769 · Highland Blvd is mostly mansions and houses. Apartments named: 200, 220, 224 Highland Blvd and "apartment houses near Miller Ave" (reader comments). The Carmelite monastery is at 361 Highland Blvd (per a comment). Schools named in comments (PS 76, JHS 171, Franklin K. Lane, PS 108, Thomas Jefferson HS) are all outside the ridge blocks. The only business named is El Nuevo Bonao at Vermont St and Jamaica Ave. · thin check.
+- prior: openigloo/StreetEasy (factory section above) · Building labels for Highland Blvd addresses read "Cypress Hills, 11207". · thin check.
+
+### Code-required stock actually found
+- "\"Highland Boulevard\" Brooklyn apartment building elevator 11207 OR 11208 school church" · WebSearch → WebFetch · https://www.openigloo.com/building/nyc/3086212-3038860005/brooklyn-cypress-hills-220-highland-boulevard-11207 · 220 Highland Blvd: built 1928, 6 floors, 94 units, elevator, labelled Cypress Hills. · thin check.
+- prior (factory section) · https://www.openigloo.com/building/nyc/3086213-3038860010/brooklyn-cypress-hills-224-highland-boulevard-11207 · 224 Highland Blvd: built 1940, 6 floors, 87 units. Other apartment listings exist at 153, 196, 200, 216 Highland Blvd. · thin check.
+- "Carmelite Monastery 361 Highland Boulevard Brooklyn" · WebSearch → WebFetch · https://www.brownstoner.com/development/cypress-hills-monastery-341-highland-boulevard-rezoning/ · May 26, 2026: at 341 Highland Blvd ("Cypress Hills, on the edge of Highland Park"), Watermark Capital Group proposes a 9-story, 345-unit building (123 affordable) after rezoning R3-1→R6A. The application is pre-certification, with certification expected in fall 2026 "at the earliest". CB5 Land Use heard it May 19, 2026, with no vote. There are no demolition or construction permit applications. The 10 Carmelite nuns left in 2023 and the site has been vacant about three years. · thin check (only a proposal, so it cannot carry a page).
+- "new development Jamaica Avenue Brooklyn 11207 near Highland Park 2025 2026 apartments mixed-use building permit" · WebSearch → WebFetch · https://blog.marketproof.com/new-building-permit-filed-for-488-jamaica-avenue-in-cypress-hills-brooklyn · 488 Jamaica Ave: NB filed May 8, 2025, 3 stories, 3 units plus 5,435 sq ft commercial. This is below fire-alarm-system thresholds. · thin check.
+- same · https://blog.marketproof.com/new-building-permit-filed-for-494-jamaica-ave-in-cypress-hills-brooklyn/ · 494 Jamaica Ave: NB filed Feb 10, 2025, 3-story two-unit building. Below thresholds. · thin check.
+
+### Overlap with live sibling pages (checked in repo, 2026-11-15)
+- fire-alarm-installation-cypress-hills-brooklyn-ny.html (live, PASS) already has a section "Arlington Avenue and the streets by Highland Park". It also has a "Jamaica Avenue" corridor section on mixed-use buildings under the J, covering vibration, dust and drift-compensated detectors. It covers the Franklin K. Lane campus at 999 Jamaica Ave and lists Highland Park as a landmark. So the Jamaica Ave strip, the one commercial corridor touching Highland Park, is taken.
+- fire-alarm-installation-flatlands-brooklyn-ny.html already uses the angle of retrofitting existing six-story prewar/postwar apartment buildings.
+- fire-alarm-installation-east-new-york-brooklyn-ny.html already uses the path of new rezoning buildings that cannot open until FDNY acceptance. That is the only frame a Highland Blvd tower would fit, and that tower is only a proposal.
+
+### Not found / EMPTY
+- Schools, hospitals, nursing homes, hotels, offices, warehouses or shopping centers inside the ridge blocks (Highland Blvd, Sunnyside Ave, Miller Ave north of Highland Blvd, Vermont Pl, Highland Pl): none found.
+- Park and cemetery buildings: NYC Parks lists no facility buildings for the park. Cypress Hills Cemetery and the Evergreens buildings: no source on fire alarm systems, not pursued.
+- Local commercial or multifamily fire news 2024–26 inside Highland Park: EMPTY. Earlier hits were house fires (Highland Pl, Ridgewood Ave), which are out of scope.
+- PAA / PASF / AnswerThePublic / AI Overview / Bing / DDG / Yelp / Reddit for "fire alarm installation Highland Park Brooklyn": EMPTY (not accessible in build env).
+
+### Verdict
+HOLD-THIN. Highland Park is a park plus a few residential ridge blocks of Cypress Hills, not a separate area. Sources label its buildings "Cypress Hills". The code-required stock there is about five or six prewar six-story elevator apartment buildings on Highland Blvd and Miller/Sunnyside Aves, plus one 345-unit proposal at 341 Highland Blvd that is not yet certified and has no permits. The only commercial corridor (Jamaica Ave under the J) and the Highland Park edge are already covered on the live Cypress Hills page. Existing-six-story retrofits and new-construction acceptance are already the angles of Flatlands and East New York. A 12,000-word page would have to be padded with silo-generic text, which is what got the old page "Crawled – currently not indexed". Suggestions for Anwar: (A) 301 this slug to /fire-alarm-installation-cypress-hills-brooklyn-ny and add one short Highland Blvd apartment-house paragraph there (plus the 341 Highland Blvd proposal once it is certified); (B) keep it live with noindex; (C) revisit if 341 Highland Blvd is approved and filed. Old page left untouched.
+
+### Question register (this page)
+- None. The page was not built, so no FAQ or Q&A questions were added.
+
+## Hunts Point — /fire-alarm-installation-hunts-point-bronx-ny (commercial rebuild research, 2026-11-15)
+
+**Angle chosen:** the Food Distribution Center as a fire alarm environment — wholesale market halls and units that trade through the night, freezers and coolers where ordinary spot detectors are outside their listings, high-piled produce storage under an FDNY permit, the stalled produce-market rebuild (phased work beside live trading), the Peninsula live-work campus on the Spofford site (light industrial + R-2 apartments + 2027 municipal grocery, R-2 filed separately per FDNY), industrial yards on Tiffany St / Longfellow Ave (2024-2026 fires), and the residential pocket around Hunts Point Ave (houses out of scope). Avoids Foxhurst (Big House/Home St permits/church-site supportive housing) and the Bronx hub's Hunts Point cooler false-alarm and sprinkler-monitoring questions.
+
+Format: exact query · platform · URL · finding · page section used.
+
+### A. Local facts (Hunts Point)
+- "Hunts Point Produce Market redevelopment new building 2025 2026" · Firecrawl search → scrape · https://www.nyc.gov/mayors-office/news/2025/12/mayor-adams--nycedc-announce-historic-agreement-to-advance-redev · Dec 2025 agreement; $405M city/state/federal + anticipated federal loan; all-electric intermodal facility; ~13,000 peninsula residents; 2,000+ construction jobs; construction expected late 2026; NYCEDC builds, Hunts Point Produce Cooperative leases · Neighborhood; Market Rebuild section; FAQ
+- same query · Firecrawl scrape · https://ny1.com/nyc/bronx/news/2026/08/20/hunts-point-market-redevelopment-stalls-after-lease-talks-fail · Aug 20 2026: project stalled after city and cooperative failed to reach lease; 26 businesses; 25% of city's fresh produce; nearly 1,000 diesel trailer units; quotes CM Justin Sanchez ("diesel refrigeration units that are running 24-7") and coop spokesperson Robert Leonard (throughput during construction) · Neighborhood; Market Rebuild; AI Reality Check; FAQ
+- "Hunts Point Peninsula" · Firecrawl scrape · https://edc.nyc/project/hunts-point-peninsula · 12,600+ residents; IBZ; FDC 8,500 direct jobs; Terminal Produce Market opened 1967, 100+ acres, 26 merchants, ~2,000 employees; Meat Market 835K sq ft refrigerated; Fulton Fish Market moved 2005; Aurora-Primus conditionally selected Dec 2025 (NYCEDC's largest design-build) · Neighborhood; At a glance; Building types
+- "Hunts Point Food Distribution Center acres businesses refrigerated warehouse fire" · Firecrawl scrape · https://www.nycfoodpolicy.org/?p=30886 (Jan 30 2024) · FDC 329 acres; 155+ wholesalers/distributors/manufacturers; 25% produce / 35% meat / 45% fish; produce 103 acres; Coop Market 1972, 52 companies, 2,400 workers, 60 acres; fish market ~36 acres; ~$650M produce redevelopment plan incl. expanded refrigerated warehouse space, removing 1,000 idling diesel reefers; $71M Energy Resiliency Project · Neighborhood; At a glance; Building types
+- same · Firecrawl scrape · https://huntspointcoopmkt.com/ · built 1972 as 40 acres/6 bldgs, now 60+ acres/7 bldgs; 52 companies; just under 1M sq ft for meat processing/distribution; major equipment run by NYC licensed engineers on premises 24/365; has a Security Manager · Building types; Q&A (market public safety)
+- (prior silo research, line "Hunts Point Cooperative Market ... private Department of Public Safety, formed in 1985, about 45 special patrolmen") · Wikipedia · https://en.wikipedia.org/wiki/Hunts_Point_Cooperative_Market · used for Q&A on who hears the alarm first
+- "New Fulton Fish Market Hunts Point building square feet refrigerated opened 2005" · Firecrawl search · https://www.oxfordreference.com/display/10.1093/acref/9780199397020.001.0001/acref-9780199397020-e-239 · since Nov 2005 in Hunts Point; 400,000 sq ft refrigerated facility · Building types
+- "Blue Highway Con Agg Global Hunts Point facility" · Firecrawl search · https://edc.nyc/press-release/nycedc-con-agg-global-announce-new-blue-highway-facility-hunts-point-bronx · waterside transloading pier adjacent to Fulton Fish Market hub · Neighborhood (one line)
+- "The Peninsula Spofford Hunts Point ..." · Firecrawl scrape · https://www.thepeninsulabx.com/ · 5-building, 3-phase campus on Spofford Ave between Tiffany and Manida; 740 affordable homes; Phase I 2022 (183 homes), Phase II two buildings/359 apts due 2026, Phase III 2028; light industrial building at Tiffany & Spofford; health and wellness center; community facility; developers Gilbane Development, Hudson Companies, MHANY · Peninsula section; Q&A
+- "Mamdani Peninsula Hunts Point public grocery store second site" · Firecrawl scrape · https://edc.nyc/press-release/mayor-mamdani-announces-peninsula-bronx-second-site-nyc-public-grocery-stores · May 18 2026: 20,000 sq ft municipal grocery at the Peninsula, expected 2027; operator RFP; EDC release says 30,000 sq ft light industrial (site says 50,000 — page states no figure) · Peninsula section; Q&A
+- "Hunts Point fire 2026 warehouse Bronx FDNY" · Firecrawl news · https://bronx.news12.com/large-fire-rips-through-recycling-plant-warehouse-in-hunts-point · Jul 17 2026, just after 7 a.m., 638 Longfellow Ave, one-story recycling plant warehouse, no injuries reported · Yards section; Field Notes context
+- same · Firecrawl scrape · https://bronx.news12.com/heavy-smoke-seen-pouring-out-of-burning-hunts-point-building · Jun 21 2026, ~12:30 a.m. call, 631 Tiffany St commercial building, under control 1:28 a.m., no injuries, cause under investigation · Yards section
+- same · Firecrawl news · https://bronx.news12.com/2026/06/15/crews-battle-hunts-point-building-fire/6VtBx9ld31eKUX8n4SKJmk · 721 Hunts Point Ave third-floor fire just after 11 p.m.; two hurt incl. one firefighter · Residential pocket
+- verify of prior research · Firecrawl scrape · https://abc7ny.com/post/3-firefighters-hurt-battling-4-alarm-fire-burned/15084717/ · Jul 23 2024, just after 12:50 a.m., four-alarm fire in a Tiffany Street business, three firefighters hurt · Yards section
+- prior silo research (not re-fetched) · CBS · https://cbsnews.com/newyork/news/hunts-point-bronx-fire · 860 Hunts Point Ave Jul 4 2017, started low and went up an interior shaft · Residential pocket
+- "Engine 94 Ladder 48 Seneca Avenue Hunts Point firehouse" · Firecrawl search · https://data.cityofnewyork.us/api/views/hc8x-tcnd/rows.pdf · FDNY Firehouse Listing: Battalion 3/Engine 94/Ladder 48, 1226 Seneca Ave · At a glance
+- "Hunts Point Food Distribution Center floodplain resiliency ..." · Firecrawl scrape · https://edc.nyc/sites/default/files/2020-05/NYCEDC-Hunts-Point-Resiliency-Study-05-2020.pdf · 690-acre peninsula; 12,000+ residents, 18,000 workers; FDC 8,500+ workers, 4.5B lb food/yr, 12% of city food supply; 355/400/600 Food Center Dr most vulnerable to coastal flooding; 100/355/800 Food Center Dr most vulnerable to outages; 100-yr flood depths 0.4–3.5 ft in FDC today, 1.5–6 ft 2050s; refrigeration makes outages critical; recommended building hardening, microgrid for 100 & 355 Food Center Dr, solar+storage at MS 424 and PS 48 · Power/flood section; Q&A
+- "Manida Street Historic District Hunts Point landmark designated 2020" · Firecrawl scrape · https://www.nyc.gov/site/lpc/about/pr2020/lpc-designates-manida-street-historic-district-in-hunts-point-bronx.page · Jun 23 2020, NYC's 150th district, 42 semi-detached row houses 1908-09, Lafayette–Garrison Aves · FAQ (houses out of scope)
+- "Hunts Point peninsula boundaries ..." · Firecrawl scrape · https://en.wikipedia.org/wiki/Hunts_Point,_Bronx · bounds Bruckner Expwy W/N, Bronx River E, East River S; CD2; ZIP 10474; 15,131 residents (2020); 91.7% renter; produce 1967, meat 1974, fish 2005; 6 at Longwood Av and Hunts Point Av; 41st Pct · At a glance; FAQ
+- same search · Wikipedia (Select Bus Service) · https://en.wikipedia.org/wiki/Select_Bus_Service · Bx6 SBS stops at Food Center Dr/Halleck St, Viele Ave/Halleck St, Ryawa Ave/Halleck St · At a glance (transit)
+- "reddit Hunts Point warehouse fire alarm Bronx" · Firecrawl search (reddit.com) · EMPTY (no Hunts Point-specific threads; only generic r/AskNYC / r/bronx results)
+- PAA / PASF / Answer the Public / Google AI Overview / Bing / DuckDuckGo / Yelp for "fire alarm installation Hunts Point": EMPTY (not accessible in build env)
+
+### B. Code and service facts used
+- FDNY Tips for Fire Alarm Systems · Firecrawl scrape · https://www.nyc.gov/assets/fdny/downloads/pdf/business/tips-fire-alarm-systems.pdf · registered design professional prepares plans + TM-1; CO/Schedule A or DOB Letter of No Objection; initial review up to 8 weeks; then hire NYC licensed electrician / vendor with FDNY Fire Alarm Company Certificate; acceptance test per NFPA 72 as modified by BC Appendix Q; FAIU at 9 MetroTech (Tue/Thu 9–12) to arrange inspection; central station connection must be active; at least one S97/S98 holder + adequate staff at inspection; average plan submission to final ~20–24 weeks; "file Fire alarm systems for Group R-2 occupancies separately from other occupancy groups"; provide area of mechanical/electrical rooms for BC 907.2.9; Input/Output Matrix required · Quick answer; Process; AI check; Peninsula Q&A
+- FDNY Fire Alarm Company Certificate FAQ · Firecrawl scrape · https://www.nyc.gov/assets/fdny/downloads/pdf/business/fire-alarm-company-cert-faq.pdf · certificate valid one year; at least one principal holds S-97; S-97/S-98 needs NICET Level 2+ or NYC master/special electrician license · Contractor section
+- NYC Business, fire alarm application · Firecrawl scrape · https://ht.nyc-business.nyc.gov/nycbusiness/description/fire-alarm-application · new application $420; complex technical analysis $525; withdrawal $585; Project Authorization = FDNY approval to begin work · Pricing section (government fees only)
+- FDNY high-piled storage permit · Firecrawl scrape · https://www.nyc.gov/site/fdny/business/all-certifications/per-highpiledstorage.page · permit for >500 sq ft high-piled storage; $210; annual FDNY inspection; design/installation documents to Fire Prevention Technology Management Unit · Storage Q&A
+- NYC Fire Code 3206.2 (amlegal) · Firecrawl search · https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-147322 · where FC Table 3206.2 requires fire detection systems they extend lesser of 15 ft beyond the high-piled area or to a permanent partition · Storage Q&A
+- NYC Building Code 907.2.4 Group F · Firecrawl scrape · https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-171777 · manual and automatic fire alarm in Group F two+ stories with occupant load 100+, or 25+ persons above/below lowest exit discharge level · Processing plant Q&A
+- NYC Mechanical Code 1105.3 · Firecrawl scrape · https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-195767 · "Refrigerant detectors in machinery rooms shall be provided as required by ASHRAE 15." · Refrigerant Q&A
+- Honeywell FAAST cold storage whitepaper · Firecrawl scrape · https://prod-edam.honeywell.com/content/dam/honeywell-edam/hbt/en-us/documents/literature-and-specs/whitepapers/whitepaper-cold-storage_applications.pdf · cold storage −40°C to 18°C; low temps often disallow normal UL listings of traditional devices; aspirating unit mounted remotely outside extreme conditions; sample holes sideways in freezers; avoid holes near doors/supply air (≥1/8 in, faced away); avoid vertical pipe penetrations; avoid capillary tubes; heater cable where exterior pipe too short; defrost 1–2×/day for 20–30 min, local to the coil, little effect on the space; door traffic raises RH → condensation/frost · Cold rooms section; Q&A
+- NOTIFIER/System Sensor refrigerated storage app note (search result only) · https://www.notifier.lu/docs/notifierfiresystems/nl/appnote/SSE-Application_Note_refrigerated-storage.pdf · ASD used to protect refrigerated storage "for many years" · Equipment section (context)
+
+### Question register (this page)
+Page: /fire-alarm-installation-hunts-point-bronx-ny
+
+Q&A (H3, section "Your Questions Answered"):
+1. Our produce company trades from late night into the morning and the market never fully closes. When does fire alarm work happen in a unit like ours?
+2. The Cooperative Market has its own security staff. When the fire alarm in our unit goes off, who finds out first?
+3. If the produce market is rebuilt in phases while trading goes on, how do the old buildings stay protected during construction?
+4. Our freezer goes through a defrost cycle twice a day. Can the warm-up set off the fire alarm?
+5. Forklifts run in and out of our freezer door all shift. Why does the sampling pipe near the doorway keep icing over?
+6. Our cold room is built from insulated metal panels. Is it a problem to run fire alarm pipe or cable through them?
+7. We stack produce cases high in our warehouse. Does the FDNY's high-piled storage permit have anything to do with our fire alarm?
+8. Our food processing plant has two floors and more than 100 workers. Is that by itself enough to require a fire alarm system?
+9. Our refrigeration contractor wants the ammonia or refrigerant leak alarm tied into the fire alarm panel. Are they the same system?
+10. Our lot on Tiffany Street is mostly open yard with a one-story office and shop. Does the yard itself get fire alarm devices?
+11. We are taking space in the light industrial building at the Peninsula. What should we ask about the fire alarm before we sign?
+12. When should a grocery operator for the Peninsula's 2027 store put the fire alarm into its build-out schedule?
+13. Why do the FDNY's filing tips ask for a building's apartments to be filed separately from its stores and workshops?
+14. The 2017 fire at 860 Hunts Point Avenue climbed an interior shaft. Does a building fire alarm put detectors in places like that?
+
+FAQ (visible + FAQPage schema):
+1. Does this page cover the whole Hunts Point peninsula or only the residential blocks?
+2. Do you install fire alarms in the two-family houses on Manida Street?
+3. Does a refrigerated trailer parked at our dock count as part of our building's fire alarm?
+4. Our company has units in more than one Food Distribution Center building. Can one service agreement cover all of them?
+5. The produce market rebuild stalled in August 2026. Should tenants still plan fire alarm work in the current buildings?
+6. Which FDNY companies respond to Hunts Point, and does the fire alarm design need to know?
+7. Why does a market unit need written programming records if the system already passed its test years ago?
+8. We stack empty pallets and cardboard against the outside of our warehouse. Can the fire alarm watch that pile?
+
+Dropped before publishing (intent already used elsewhere in the silo): moving panel/devices between Food Center Drive buildings (cut for length), flood-prone panel relocation (Brighton Beach/Canarsie/Columbia St), generator vs battery standby (Fort Hamilton/Putnam), survey during market hours (same intent as Q&A 1).
