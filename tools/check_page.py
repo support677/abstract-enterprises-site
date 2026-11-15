@@ -309,6 +309,18 @@ def identify(slug):
                for b in BOROUGHS if b != borough for sfx in ("-ny", "-new-york", "")):
             return base, borough
         return parts[0], borough
+    # Nov 15 2026: older silos also use a "-new-york" suffix (fire-alarm-installation-queens-new-york,
+    # -westchester-county-new-york) and duplicate NYC hubs named <silo>-new-york / <silo>-ny.
+    # Only slugs that fell through everything above reach this, so nothing already identified changes.
+    if slug.endswith("-new-york"):
+        s, a = identify(slug[:-9] + "-ny")
+        if a:
+            return s, a
+    for sfx in ("-new-york", "-ny"):
+        if slug.endswith(sfx):
+            base = slug[: -len(sfx)]
+            if os.path.isfile(os.path.join(REPO_ROOT, f"{base}-nyc.html")):
+                return base, "nyc"
     return None, None
 
 

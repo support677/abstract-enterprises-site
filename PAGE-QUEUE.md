@@ -445,9 +445,9 @@ TODO | mag-lock-installation-ulster-county | Mag Lock Installation | Ulster | up
 # NO bundles/combos with cameras. NO single-family/two-family/home smoke-alarm content — only buildings where code requires a fire alarm (commercial, mixed-use, multifamily).
 # Educate per jurisdiction: step 1 engineer/architect drawings, step 2 vendor; NYC = FDNY TM-1 plan exam, FDNY Fire Alarm Company Certificate, S-97 (NICET II), FDNY inspection, ~20-24 wks;
 # Nassau = County Fire Marshal plan review + FM company number; Suffolk = town/village fire marshal; Hudson Valley = local code enforcement under NYS Uniform Code. Keep the photo gallery images.
-BUILDING 2026-11-15T06:46Z | fire-alarm-installation-nyc | Fire Alarm Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-15T06:46Z | fire-alarm-installation-new-york | Fire Alarm Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-15T06:46Z | fire-alarm-installation-ny | Fire Alarm Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE | fire-alarm-installation-nyc | Fire Alarm Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE | fire-alarm-installation-new-york | Fire Alarm Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE | fire-alarm-installation-ny | Fire Alarm Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 REBUILD | fire-alarm-installation-manhattan-ny | Fire Alarm Installation | Manhattan | up /fire-alarm-installation-nyc | (929) 560-0737 | GBP Bronx
 REBUILD | fire-alarm-installation-brooklyn-ny | Fire Alarm Installation | Brooklyn | up /fire-alarm-installation-nyc | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-queens-new-york | Fire Alarm Installation | Queens | up /fire-alarm-installation-nyc | (347) 434-6392 | GBP Bronx
