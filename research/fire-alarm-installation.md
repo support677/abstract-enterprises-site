@@ -6385,3 +6385,158 @@ FAQ:
 - Who in our company should be the impairment coordinator for the fire alarm?
 - Does a vehicle storage lot with no building need a fire alarm at all?
 Checked against sibling registers/pages for meaning overlap; dropped/rewrote: bid comparison (Co-op City, Crotona), handy super/foreman (Crotona), tenant-floor responsibility (Crotona), floodplain panel placement (Country Club, Bronx River), auto-shop exhaust (East Tremont), dust on detectors (East Tremont, Port Morris), yard trailer (Hunts Point).
+
+
+## Fiske Terrace, Brooklyn — /fire-alarm-installation-fiske-terrace-brooklyn-ny (commercial rebuild research, 2026-11-15) — HOLD-THIN
+
+Outcome: HOLD-THIN. The old page file was left untouched. Fiske Terrace is a landmarked enclave of detached houses (out of NFPA 72 commercial scope). Its code-required stock is a handful of six-story elevator co-ops (1927–1948) on its Ocean Avenue and Avenue H rims. That is the same building type, buyer (co-op board) and strip of Ocean Avenue that the Ditmas Park rebuild already covers (1111/1155/1212 Ocean Ave), and Kensington covers the occupied co-op upgrade angle. No storefront corridor, school, church, nursing home or other institution was found inside the boundaries. A 12,000-word page would mean either taking Ditmas Park's angle or padding with generic NYC regulatory text. Earlier factory research (section "Fiske Terrace, Brooklyn … factory research, 2026-10-27" above) reached the same picture: houses, with commercial activity outside. Format: exact query · platform · URL · finding · use (all "not built" because the page is on hold).
+
+### Boundaries / definition
+- "Fiske Terrace Brooklyn boundaries Avenue H Glenwood Road Ocean Avenue Brighton line apartment buildings" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Fiske_Terrace (redirects into the Flatbush article) · Fiske Terrace sub-area: Foster Ave (N), Ocean Ave (E), Bay Ridge Branch rail right-of-way (S), BMT Brighton Line (W). The Fiske Terrace–Midwood Park HD was designated 2008 and covers 250 homes; Ackerson built ~150 custom houses c. 1905. Six-story Art Deco/Colonial Revival elevator apartment houses stand on Ocean Ave and its periphery.
+- same · WebFetch · https://www.longislandexchange.com/new-york-city/brooklyn/fiske-terrace · same four boundaries; Ackerson houses replaced by apartment buildings in the 1920s, mainly along Ocean Ave and Avenue H.
+- same · WebFetch · https://www.cityneighborhoods.nyc/midwood-park-fiske-terrace · conflicting definition (Fiske Terrace east of the Brighton Line, Midwood Park west); describes only freestanding single-family houses; residents fought multifamily conversions and commercial structures.
+- "Fiske Terrace Midwood Park historic district designation report boundaries …" · WebSearch → WebFetch · https://www.brownstoner.com/architecture/midwood-brooklyn-architecture-fiske-terrace-historic-district · ~12 blocks between Foster Ave, Avenue H, Ocean Ave and the B/Q tracks; most houses 1903–1914; Driesler designed 100+ houses.
+- WebFetch · https://hdc.org/hdc-across-nyc/brooklyn/brooklyn-landmarked/fiske-terrace-midwood-park/ · designated March 18 2008; "suburban residences" c. 1890–1930; no non-house buildings mentioned. The designation report PDF link (nyc.gov/html/lpc/downloads/pdf/reports/fiske_terrace-midwood_park-report.pdf) was not fetched.
+- WebFetch · https://6tocelebrate.org/site/midwood-park-and-fiske-terrace/ · medians on Glenwood Rd and E 17th St; gateposts at block entrances.
+- WebFetch · https://www.elliman.com/localguide/fiske-terrace-brooklyn-ny · "Not much shopping or dining in the neighborhood"; "Apartment buildings have replaced some of the original houses, especially on Ocean Avenue."
+
+### Code-required buildings found (all six-story elevator co-ops on the rim)
+- "Ocean Avenue Brooklyn 11230 prewar elevator co-op between Glenwood Road and Avenue H" · WebSearch → WebFetch · https://streeteasy.com/building/1280-ocean-avenue-brooklyn · 1280 Ocean Ave: 1935, 6 stories, 66 units, D4 elevator co-op, StreetEasy neighborhood "Fiske Terrace", 0.21 mi from Avenue H station.
+- same · WebFetch · https://streeteasy.com/building/1150-ocean-avenue-brooklyn · 1150 Ocean Ave: 1939, 6 stories, 67 units, D4 elevator co-op, live-in super; labeled Ditmas Park (0.24 mi from Newkirk Av).
+- same · WebFetch · https://streeteasy.com/building/1348-ocean-avenue-brooklyn · 1348 Ocean Ave: 1927, 6 stories, 83 units, D4; labeled Midwood, probably south of the Bay Ridge Branch (outside).
+- "Fiske Terrace apartment building elevator Avenue H …" · WebSearch → WebFetch · https://realestaterebatesnewyork.com/buildings/new-york-city/brooklyn/fiske-terrace and https://corcoran.com/building/ditmas-park/60799 · "Fiske Terrace" co-op, 1710 Avenue H: 1937, 6 stories, 37 units, prewar co-op, live-in super.
+- same · WebFetch · https://realnewyork.com/ditmas-park/coop-for-sale/800-east-17th-street-5b/1273199/RLS · listing refers to "Historic Fiske Terrace": prewar 6-story elevator co-op with courtyard, virtual doorman and live-in super. The address on the page is not confirmed (the search result title said 800 E 17th St).
+- "915 East 17th Street OR 920 East 17th Street Brooklyn co-op 1948" · WebSearch → WebFetch · https://www.cityrealty.com/nyc/flatbush/terrace-gardens-plaza-920-east-17th-street/75132 · Terrace Gardens Plaza (915 and 920 E 17th St, 1948, 6 stories, 114 and 132 homes per realestaterebatesnewyork): elevator, attended lobby, laundry, on-site parking garage, 0.06 mi from the Avenue H station. Labeled "border of Midwood and Ditmas Park", probably just south of Avenue H / the rail cut (edge, not confirmed inside).
+- "Foster Avenue Brooklyn 11230 apartment building elevator …" · WebSearch → WebFetch · https://streeteasy.com/building/1815-foster-avenue-brooklyn and https://www.homes.com/building/1825-foster-ave-brooklyn-ny/b-75lwch0chmexm · 1815 and 1825 Foster Ave (The Foster Arms): 1931, 6 stories, 54 units each; labeled Ditmas Park, likely the north side of Foster (outside).
+- Already used by a sibling (not usable): 1111, 1155 and 1212 Ocean Ave (Ditmas Park rebuild).
+- WebFetch · https://streeteasy.com/building/1915-avenue-h-brooklyn · 1915 Avenue H is a 1901 single-family house (confirms Avenue H inside the district is mostly houses).
+
+### Landmark
+- "Avenue H station house Fiske Terrace real estate office landmark Ackerson 1906" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Avenue_H_station · sales office built 1906; became a station Aug 23 1907; exterior landmarked June 29 2004; 2025 ridership 735,466; the 2003 MTA plan to demolish it cited fire risk from its wood construction; rebuilt 2009–2011; northbound ADA ramp finished June 29 2021 ($14M).
+- same · WebFetch · https://www.brownstoner.com/architecture/building-of-the-day-802-east-16th-street/ · 802 E 16th St at Avenue H, built 1905 (date conflict with 1906), Shingle Style; 2003 MTA demolition plan cited "fire risk from its wood construction"; "the only MTA station adapted from a building with another original purpose." This is an MTA facility, not a private fire alarm customer.
+- WebFetch · https://hdc.org/buildings/avenue-h-station-house/ · "the city's only shingled wooden cottage turned transit station house".
+
+### Institutions / commercial — searched, none inside
+- "church OR synagogue OR school 'Avenue H' 'East 18th Street' … Fiske Terrace" · WebSearch · returned only 1901 Avenue H (LPC fence application, a house), the 817 Avenue H synagogue (Kensington, outside) and East Midwood Jewish Center (Ocean Ave near Avenue K, outside) · EMPTY inside.
+- "school OR yeshiva OR daycare 'Glenwood Road' OR 'Avenue H' Brooklyn 11230 …" · WebSearch · no school with an address inside the boundaries · EMPTY.
+- "nursing home OR adult care … 'Ocean Avenue' OR 'Avenue H' OR 'Foster Avenue' 11230" · WebSearch · nothing inside · EMPTY.
+- Brooklyn College and Midwood High School are east of Ocean Avenue (outside); cityneighborhoods.nyc calls them "nearby".
+
+### Local fire news
+- "Avenue H Brooklyn fire FDNY 2025 OR 2026 …" · WebSearch → WebFetch · https://brooklyn.news12.com/1-person-critically-injured-1-firefighter-hurt-in-midwood-fire · Oct 9 2025 ~7:10 a.m., fire in a fourth-floor apartment at 1921 Avenue I (E 19th St–Ocean Ave, Midwood, just south of the rail cut); one person critical, one firefighter with minor injuries; cause under investigation. Edge context only.
+- same · WebFetch · https://brooklyn.news12.com/2025/10/18/1-firefighter-injured-in-midwood-warehouse-fire/fjt2wEFgTOCdcSyC1qVVO · one-story warehouse fire on E 14th St, Midwood (outside, west of the Brighton Line).
+- Nothing inside Fiske Terrace · EMPTY.
+
+### Community / SERP
+- "reddit Fiske Terrace Brooklyn co-op building fire alarm OR fire …" · WebSearch · no relevant Reddit thread · EMPTY.
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp 1–3★ for "fire alarm installation Fiske Terrace": EMPTY (not accessible in build env).
+
+### What a future build could use (if Anwar overrides the hold)
+- Angle: "Fiske Terrace's apartment rim" — 1280 Ocean Ave (StreetEasy "Fiske Terrace"), 1150 Ocean Ave, the 1937 "Fiske Terrace" co-op at 1710 Avenue H, and Terrace Gardens Plaza's 1948 garage co-op at the Avenue H edge, with the wood Avenue H station house as the landmark story. Risk: the same type, buyer and street as Ditmas Park. Possible fix: fold these buildings into the future Midwood rebuild instead.
+
+### Question register (this page)
+None — page not built (HOLD-THIN).
+
+## Flatbush, Brooklyn — /fire-alarm-installation-flatbush-brooklyn-ny (commercial rebuild research, 2026-11-15)
+
+Neighborhood rebuild (NFPA 72 commercial only; stay-in-area rule — only "fire alarm installation Brooklyn" of the 13 area phrases; no 1-2 family / HPD HIP content). Regulatory base (PE/RA sealed drawings, TM-1, FDNY Fire Alarm Company Certificate, S-97 via NICET II+ or master/special electrician, S-98, company cert 1 yr, FAIU at 9 MetroTech, ~20-24 weeks, initial review up to 8 weeks, B-45/A-433/TB-60/central station contract, 40-70 business days test lead time, FA-27 $105, 2012 central station bulletin, FDNY smoke/CO guidance incl. barber/beauty shops and 2+ unwarranted alarms in 3 months, 36 in. from diffusers, >2,000 cfm fans, BC 907.2 A 300+ / E all / R-2 thresholds via ny-engineers, LPC expedited reviews) reused as facts from "## NYC hubs", "## Manhattan" and the East Flatbush/East New York sections — not wording. Tools: Firecrawl search/scrape (WebSearch/WebFetch not used).
+
+**Unique angle:** "crowds and corridors" — Flatbush Avenue's assembly/institutional anchors (Kings Theatre, Erasmus Hall campus, Flatbush Reformed Church) beside the six- and seven-story prewar elevator apartment houses on Lenox Road / Linden Blvd / side streets, where the 2025 Lenox Road fires showed corridor smoke as the hazard. Avoided: 1693 Nostrand Ave fire (old Flatbush page / East Flatbush note), Kings County/Downstate/Kingsbrook (East Flatbush), Ocean Ave 1925-1954 co-ops and Newkirk Plaza (Ditmas Park), 180 E 18th St (Ditmas Park side), Lenny's Pizza/Church & E 31st (borough page), Ocean Ave Feb 2025 fire (Beverley Square).
+
+Each entry: exact query · platform · URL · finding · section used.
+
+### Assembly and institutional anchors
+- "Kings Theatre Flatbush Avenue restoration 2015 seats" · Firecrawl search → scrape · https://en.wikipedia.org/wiki/Kings_Theatre_(Brooklyn) · 1027 Flatbush Ave; opened Sept 7 1929 (Loew's Kings), Rapp and Rapp, 3,690 seats; closed 1977; NYCEDC owner; reopened Jan 23 2015 after restoration bringing building to modern codes; ~3,250 seats; ATG Entertainment; NRHP · hero, §5, facts table, §7 theater, landmarks. Restoration dollar figure deliberately not used.
+- same · search snippet · https://www.atgentertainment.com/aka_venues/kings-theatre/ · "over 3,000 seats—the largest of its kind in Brooklyn" · facts table, sources.
+- "Erasmus Hall High School campus 911 Flatbush Avenue schools building" · search → scrape · https://www.brownstoner.com/architecture/erasmus-hall-academy-high-school-flatbush-history-architecture/ · Academy 1786, NYC landmark 1966, NRHP; HS buildings 1905-06, 1909-11, 1924-25, 1939-40 by C.B.J. Snyder; block Flatbush–Bedford, Snyder–Church; five schools on campus · §5, facts, §7 school campus, Q&A, landmarks.
+- same · search snippet · https://www.schools.nyc.gov/schools/K539 · 911 Flatbush Ave building K465, at least one elevator serves all floors · sources (address confirmation).
+- "Flatbush Reformed Dutch Church 890 Flatbush Avenue Church Avenue landmark 1798" · search snippets · https://hdc.org/buildings/flatbush-dutch-reformed-church-expanded-site/ ; https://6tocelebrate.org/site/flatbush-dutch-reformed-church/ ; City Record 7/13/2026 (LPC-26-11743 C of A at 890 Flatbush Ave) · church 1793-98 by Thomas Fardon; expanded site designated Jan 9 1979; parsonage 1853; church house Meyer & Mathieu · §5, facts, §7 churches, FAQ (LPC), landmarks.
+
+### Corridors and demographics
+- SBS CDNA · scrape (pdf) · https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-flatbush.pdf · Oct 2021–June 2022; corridors Church Ave (Coney Island Ave–E 56th), Flatbush Ave (Parkside–Ave H), Nostrand (Parkside–Ave J), Rogers (Clarkson–Church); 1,662 storefronts; 10.6% vacant; 13% poor condition; pedestrians Flatbush Ave Martense–Church 2,680 weekday pm; Church Ave Nostrand–E 31st 3,135 weekday pm; Little Haiti (Nostrand Parkside–Glenwood) merchants 55% salons/barbers, 22% houses of worship; partners Church Avenue BID, Flatbush Nostrand Junction BID; merchant quote "Everything you need on one block." · §5 facts, §8 corridors.
+- Furman Center · scrape · https://furmancenter.org/neighborhoods/view/flatbush-midwood · 2024: 66,991 units, 147,911 residents, 16.7% 65+, 43.4% foreign-born; 2025: 261.7 serious violations per 1,000 private rental units, 583 new C of O units, 132 units permitted · facts table.
+- "Caton Flats 794 Flatbush Avenue" · search → scrape · https://thenyhc.org/projects/caton-flats/ (+ catonflatsbk.com snippet: 14 stories) · 255 affordable apartments, ~11,000 sq ft retail, 16,000 sq ft market/incubator (Flatbush Caton Market), 5,000 sq ft CACCI HQ; NYCEDC awarded 2015; completed 2021 (CityRealty labels it PLG; NYHC says Flatbush) · §6, §7 new mixed-use, landmarks.
+- "Flatbush tenants association ... 2025 2026" · search → scrape · https://www.legalservicesnyc.org/news/tenants-advocates-win-moratorium-on-300-open-eviction-cases-at-flatbush-gardens-demand-landlord-comply-with-terms-of-191m-city-tax-break/ · May 6 2026: Flatbush Gardens 59 buildings, ~2,500 rent-stabilized apts, ~7,000 residents; 3,000+ housing code violations; UTFG/FTC tenant leaders (quotes not used) · §7 garden complexes, Q&A, landmarks.
+
+### Local fires and incidents
+- "Flatbush fire Ocean Avenue OR Linden Boulevard OR Parkside Avenue OR Lenox Road apartment building 2025" · search → scrape · https://www.brooklynpaper.com/flatbush-family-displaced-apartment-fire/ · Apr 17 2025, 222 Lenox Rd, seven stories, two-alarm, 3rd-floor bedroom, 100+ firefighters, hydrant blocked, ≥13 units destroyed; Nov 2021 four-alarm ≥33 apts; partial vacate still in effect · §5, facts table, AI check.
+- same · scrape · https://longisland.news12.com/2025/04/19/tenants-at-flatbush-building-call-on-landlord-to-make-structural-fixes-to-prevent-next-fire/1FejUKmZWbPonuCEcI7bz9 · tenants cite water damage, cracking walls, electrical issues; quote Janice Fortune-Boyd "They are covering up the issue not fixing the issue" · §5 (quote).
+- same · scrape · https://brooklyn.news12.com/fire-leaves-1-man-dead-in-flatbush · May 28 2025 ~10:20 p.m., 55 Lenox Rd, six-story, 2nd floor, 50-year-old man died, 60+ FDNY/EMS; resident quote "It was very bad choking ... 'Walk! Open the windows! Everybody get out of the building.'" · §5 (quote), facts table.
+- "1321 Flatbush Avenue building collapse November 2026" · search · https://www.6sqft.com/flatbush-brooklyn-building-collapse/ ; https://www.nbcnewyork.com/brooklyn/nyc-apartment-collapse-1321-flatbush-avenue-brooklyn/6571498/ ; https://www.curbed.com/article/on-the-scene-at-the-collapse-at-1321-flatbush-avenue.html · Nov 11 2026 ~4 p.m., three-story mixed-use (medical-uniforms store + apartments) collapsed into excavation at 2625 Bedford Ave; 8 dead (6 adults, 2 children), 18 injured incl. 4 firefighters; DOB stop-work violation Apr 2026 at the site next door; cause under investigation · §5 (stated as not a fire alarm matter), facts table, Q&A (excavation next door).
+- https://abc7ny.com/post/flatbush-brooklyn-apartment-fire-kills-2-injured-others/19156214/ · May 23 2026 Nostrand Ave near Beverley Rd (=1693 Nostrand) · NOT USED (claimed by other pages).
+- https://brooklyn.news12.com/flames-erupt-in-basement-of-flatbush-building · July 18 2026, vacant 1950 Nostrand Ave (address conflicts with Brooklyn Paper's 1952) · NOT USED.
+- 180 E 18th St Feb fire · NOT USED (Ditmas Park side).
+
+### Community / SERP
+- "reddit Flatbush Brooklyn apartment building fire alarm going off hallway" · Firecrawl search · only generic r/Apartmentliving, r/AskNYC (neighboring building alarm), r/firealarms threads — no Flatbush-specific threads · Reddit: EMPTY (no relevant local threads).
+- "fire alarm installation Flatbush Brooklyn commercial" · Firecrawl search (Bing/DDG-style cross-check) · results: our Brooklyn page, ablefireprevention, irlsystems (Edwards EST), Yelp East Flatbush listing, FDNY approved companies PDF (https://www.nyc.gov/assets/fdny/downloads/pdf/business/approved-companies-fire-alarm-system-inspection-testing-service.pdf → used in contractor section) · sources.
+- Google PAA / PASF / Answer the Public / AI Overview / Yelp 1-3★: EMPTY (not accessible in build env). Question set from Anwar's keyword list woven into prose; AI reality check written against common generic AI/lead-site claims (Angi/HomeAdvisor/Fixr), corrected with FDNY sources.
+
+### Images
+11 copies (subject set: panel-zone-map-review [hero], smoke-detector-and-panel-retail, control-panel-meter-test-drawings, horn-strobe-corridor-block-wall, lobby-annunciator-check, kitchen-heat-detector, pull-station-lobby-check, pull-station-and-panel-two-techs, ceiling-horn-strobe-basement, panel-check-sprinkler-riser, power-supply-battery-meter) as images/fire-alarm-installation/fire-alarm-installation-flatbush-brooklyn-ny-<subject>.webp; each viewed before alt/caption. pull-station-storefront-conduit avoided.
+
+### Question register (this page)
+§9 Q&A (H3s): Our church wants to rent its hall for catered events on weekends. Does the fire alarm have to change before the first booking? · Excavation next door has cracked plaster in our Flatbush Avenue building. Should the fire alarm be checked? · Our seven-story apartment house on Lenox Road has no building fire alarm, only smoke alarms in each apartment. Are we breaking the law? · Our co-op board wants corridor smoke detection even though nobody is making us add it. Is that allowed? · Five schools share our campus building. Whose name goes on the fire alarm service contract? · The stage fog in our performance space keeps setting off smoke detectors. What can be changed? · We are converting a former bank on Church Avenue into a medical office with apartments upstairs. Does the whole building need a new system? · Our salon on Nostrand Avenue shares a building with apartments. Why did the landlord's alarm company say our dryers are a problem? · Our parish house kitchen serves a weekly meal for a hundred people. Does the hood have to report to the fire alarm? · Tenants keep propping the stair doors open in our apartment house. Does the fire alarm have anything to do with that? · Our garden complex has dozens of buildings and nobody knows which ones have fire alarm panels. Where do we start? · A tenant fit-out painted over three detectors in our Flatbush Avenue store building. Who pays to fix it? · How long does an FDNY review take for a theater or hall that needs voice evacuation?
+§17 FAQ: How many people can a Flatbush hall hold before a fire alarm system is required? · We bought a Linden Boulevard apartment house with an old fire alarm panel in the cellar that nobody uses. Can we take it out? · Does interior fire alarm work in a landmarked church need approval from the Landmarks Preservation Commission? · Can a fire alarm upgrade at a school be finished over one summer break? · What should tenants in a big Flatbush apartment house ask to see about their building's fire alarm? · Our panel switched to battery power during a Con Edison outage. What should we do when the power comes back? · Does a barbershop or salon in a building with a fire alarm need carbon monoxide detection? · Should tenants be told before a fire alarm test in an apartment building? · How do we confirm that our central station is approved to receive fire alarm signals? · Can we renovate one floor using our building's existing approved fire alarm drawings? · Our theater rental contract makes the renter responsible for fire safety. Does that include the building fire alarm? · How fast can someone get to a Flatbush building when the fire alarm panel is in trouble?
+
+
+## Fieldston, Bronx — /fire-alarm-installation-fieldston-bronx-ny (commercial rebuild research, 2026-11-15)
+
+Angle: landmarked, privately owned enclave of single-family houses (OUT of scope) whose code-required fire alarm buildings are its institutions — Horace Mann (1,800+ students, 18-acre campus + Lower Division 4440 Tibbett), Ethical Culture Fieldston School Bronx campus (3901 Fieldston Rd), Manhattan University on the southern boundary (residence halls), Riverdale Presbyterian Church (NYC landmark 1966 → LPC permit angle), Adath Israel synagogue (1962), Riverdale-Yonkers Society for Ethical Culture (4450 Fieldston Rd), 6035 Broadway co-op. Planned around the school calendar, NYC BC 907.2.3 Group E EVAC and 907.2.1 Group A ≥300, LPC rules for designated buildings, FPOA private streets. Not claimed: 5500 Fieldston Rd and 5435 Fieldston Rd (North Riverdale, north of W 250th), 3875 Waldo Ave (StreetEasy says Riverdale), Christ Church (W 252nd), 461 W 238th St house fire (house, out of scope). Sibling check: Riverdale / Kingsbridge / Spuyten Duyvil / Van Cortlandt Village pages are NOT yet rebuilt (only factory text); the Riverdale page may later want Horace Mann/ECFS/Riverdale Presbyterian — flag for overlap (Wikipedia places all of them in Fieldston, outside the historic district).
+
+### Neighborhood / institutions
+- "Fieldston Bronx Horace Mann School Ethical Culture Fieldston School campus address" · Firecrawl search · https://www.ecfs.org/about-us/who-we-are/bronx-campus/ · ECFS Fieldston campus 3901 Fieldston Rd 10471; Fieldston Lower/Middle/Upper on Bronx campus · §5, §7, landmarks
+- Firecrawl scrape · https://en.wikipedia.org/wiki/Fieldston,_Bronx · boundaries MCP S / HHP W / W 250th N / Broadway E; CD8; 10471; 0.426 sq mi; pop 3,292 (2011); privately owned; FPOA plows, sewers, ~1,000 trees, security patrol; ~250 homeowners; streets closed once a year; parking residents+guests; 1938 special zoning bars multiple-family; outside district: Riverdale Presbyterian Church 4763 HHP at W 249th, Adath Israel 475 W 250th (1962, Percival Goodman), Horace Mann 231 W 246th at Tibbett, ECFS 3901 Fieldston at MCP (Middle School & Athletic Bldg 2007), Manhattan University 4513 MCP · §5 glance, §7, §8, AI check
+- Firecrawl scrape (PDF query) · https://s-media.nyc.gov/agencies/lpc/lp/2138.pdf · LPC designation report: boundary text; ~257 houses, 140 acres; "There could be no businesses, no two-family homes or apartment buildings."; Horace Mann representative among 9 opposing speakers; streets deeded to FPOA 1948 · §5 (quote), AI check, landmarks
+- "Horace Mann School Riverdale campus buildings…" · Firecrawl search+scrape · https://www.horacemann.org/our-school/campuses · 18-acre Middle/Upper campus; Pforzheimer 1956 (ren. 1999, 2019), Gratwick Science Wing 1975, Mullady Hall rebuilt 2005 w/ 650-seat Gross Theatre, Rose & Fisher Halls 1999 (Fisher: arts, dining commons), Prettyman (ren. 2018), Friedman, Lutnick Hall, Loria aquatic center 2018 · §7, Q&A theater
+- "Horace Mann School Lower Division 4440 Tibbett…" · Firecrawl search · https://www.horacemann.org/our-school/contact-us (4440 Tibbett Ave); https://www.horacemann.org/ (more than 1,800 students); https://www.usnews.com/education/k12/new-york/horace-mann-school-lower-division-434897 (457 students K-5) · §5, §7
+- "Ethical Culture Fieldston School … enrollment" · Firecrawl search · https://www.ecfs.org/admissions/admissions-faq/ (~1,700 students across two campuses); ecfs.fsenrollment.com (18-acre Bronx campus) · §5
+- "Manhattan University … residence halls" · Firecrawl search+scrape · https://manhattan.edu/offices/residence-life/residence-halls · Lee Hall ~550 on 10 floors, Horan ~400, Jasper ~125 over 5 floors, Chrysostom ~60; address 4513 MCP · §7, landmarks, FAQ
+- "Riverdale Presbyterian Church 4763 Henry Hudson Parkway…" · Firecrawl search+scrape · https://en.wikipedia.org/wiki/Riverdale_Presbyterian_Church_Complex · 4761-4765 HHP; Renwick; 1863-64; NYC landmark 1966; NRHP 1982; Duff House manse; 1875 Stick Style cottage · §7, AI check, landmarks
+- "Riverdale-Yonkers Society for Ethical Culture 4450 Fieldston Road" · Firecrawl search · https://www.rysec.org/ and /directions/ · 4450 Fieldston Rd where MCP meets Fieldston Rd; in the Bronx since 1946; Sunday platforms, workshops · §7, Q&A rental
+- "6035 Broadway Bronx co-op Fieldston" · Firecrawl search · https://streeteasy.com/building/6035-broadway-bronx · co-op, Fieldston, 103 units, 6 stories, 1961; Bond: across from green space · §5, §7, Q&A
+- "3875 Waldo Avenue…" · Firecrawl search · StreetEasy labels Riverdale (105 units, 11 stories, 1931) vs Compass "Fieldston" — conflicting, NOT used.
+
+### Local news
+- "Riverdale Press Fieldston fire FDNY" · Firecrawl search+scrape · https://www.riverdalepress.com/stories/firefighters-rapid-response-contains-blaze,65493 · Apr 30, 2018 two-alarm top-floor kitchen fire, 3900 Greystone Ave across from Fieldston Lower; Ladder 52 on HHP; quote Capt. Robert Keating "It's an old building, probably about 80 or 100 years old, so the potential was there for (the fire) to be really big"; porter pounded on doors · §5 (quote)
+- (same search) · https://www.riverdalepress.com/stories/building-blaze-injures-elderly-woman,55831 · 5500 Fieldston Rd co-op fire — North Riverdale, NOT used
+- (same search) · Firecrawl scrape · https://www.riverdalepress.com/stories/fallen-tree-knocks-out-power-causes-wire-fire,101807 · Feb 20, 2023, 5435 Fieldston Rd at W 254th, 142 ConEd customers — North Riverdale, NOT used
+- (same search) · Firecrawl scrape · https://www.riverdalepress.com/stories/four-riverdale-area-911-calls-affected-by-bronx-outage-officials-seek-answers,245787 · Aug 18 (2026) seven-hour PSAC II outage, ~1,700 calls citywide, 4 in Riverdale area (article Sept 25, 2026; keywords include Fieldston) · AI check (central station → dispatch)
+- "News 12 Bronx Horace Mann OR Fieldston OR Manhattan University fire 2025 2026" · Firecrawl search · no results → EMPTY
+
+### Regulatory
+- "LPC permit required interior work…" · Firecrawl search+scrape · https://www.nyc.gov/site/lpc/applications/permit-types.page · LPC permit for exterior work on individual landmark/historic district bldg even without DOB permit; interior work requiring DOB permit; 95% staff-level; no application fee, fees for certain permits · §7, §8, Q&A, AI check, FAQ
+- "NYC Building Code 907.2.3 Group E…" · Firecrawl search · https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-171774 and …171714; https://www.nyc.gov/assets/buildings/pdf/presentations/bsls22-fire_protection.pdf · 907.2.3 Group E manual+automatic + EVAC; 907.2.1 Group A assembly occupant load ≥300 · §5, §8, Q&A, AI check, FAQ
+- Reused from silo sections (not re-fetched): FDNY Tips for Fire Alarm Systems (PE/RA, TM-1, "Landmark certification as required" in plan package, 20–24 weeks, active central station, S-97/S-98 at test, 36 in. from diffusers); FDNY company certificate FAQ; FA-27 $105; NYC Business application $420 / $525 / Project Authorization; FDNY MMR FY2025 21,966 malicious false alarms.
+
+### Community / SERP
+- "reddit Fieldston Bronx" · Firecrawl search · r/todayilearned TIL title "Its 1.1 km2 is entirely privately owned, including the streets, sewers, and trees." (not used on page); r/bronx, r/AskNYC threads about living there / ECFS — no fire alarm content · context only
+- "fire alarm installation Fieldston Bronx" · Firecrawl search (Bing/DDG substitute) · Yelp Bronx list (County Fire, Metrocom, Inter County Alarm, Abstract Enterprises); cc-tek "94 customer sites in Bronx"; County Fire "healthcare, education" — no Fieldston-specific competitor page · competition note
+- Google PAA / PASF / Answer the Public / Google AI Overview / Yelp 1–3★ for Fieldston: EMPTY (not accessible in build env); silo-level PAA/AI claims reused for §9/§10.5.
+- Bronx Times / News 12 Fieldston fire alarm stories: EMPTY.
+
+### Question register (this page)
+- Our school's capital committee wants a fire alarm line in next summer's budget. How do Fieldston campuses build that number before drawings exist?
+- Does a landmark church at the edge of Fieldston pay more for fire alarm work because of the Landmarks Preservation Commission?
+- How can a Fieldston school's facilities director confirm that the company testing its panels is FDNY-certified?
+- Our co-op board at 6035 Broadway got three fire alarm proposals that look nothing alike. How do we compare them?
+- Who files with the FDNY when a Fieldston school adds a new science wing: the architect, the electrician or the fire alarm company?
+- Why does a Fieldston school need voice evacuation instead of plain horns?
+- The 650-seat theater on our campus is being renovated. Does that change the fire alarm design?
+- Our dining commons kitchen got a new hood over spring break. Why is the panel now showing a supervisory signal?
+- Our Broadway co-op wants to replace its panel while shareholders live in the building. How is that scheduled?
+- A community group rents the Ethical Society's hall in Fieldston for evening events. Who is responsible for the fire alarm when the hall is rented?
+- Students pull the alarm as a prank every spring at our Fieldston school. What can actually reduce that?
+- A contractor on our Fieldston campus left the fire alarm in bypass over a weekend. What should we do now?
+- Is there an office in Fieldston, and which line should a campus or congregation call?
+- Do the houses in the Fieldston Historic District fall under this commercial fire alarm service?
+- Does fire alarm work at a Fieldston school need a Landmarks Preservation Commission permit?
+- When can a Fieldston school schedule tests that sound speakers and strobes?
+- What should a Fieldston facilities manager send before the first survey?
+- How do Fieldston's private streets affect a fire alarm job?
+- Can several buildings on one Fieldston campus share a single fire alarm panel?
+- What does the FDNY charge to review a Fieldston fire alarm application?
+- Do Manhattan University's residence halls follow the same FDNY path as the schools?
+- What happens to a Fieldston campus's alarm signals if the copper phone lines are retired?
+- Does a Fieldston house of worship need a fire alarm for its social hall?
+- How quickly can Abstract Enterprises Security Systems get to a Fieldston building?
