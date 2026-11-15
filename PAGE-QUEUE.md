@@ -508,9 +508,9 @@ LIVE | fire-alarm-installation-east-new-york-brooklyn-ny | Fire Alarm Installati
 BUILDING 2026-11-15T16:36Z | fire-alarm-installation-east-tremont-bronx-ny | Fire Alarm Installation | East Tremont, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-15T16:36Z | fire-alarm-installation-east-williamsburg-brooklyn-ny | Fire Alarm Installation | East Williamsburg, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-15T16:36Z | fire-alarm-installation-eastchester-bronx-ny | Fire Alarm Installation | Eastchester, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | fire-alarm-installation-edenwald-bronx-ny | Fire Alarm Installation | Edenwald, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | fire-alarm-installation-edgewater-park-bronx-ny | Fire Alarm Installation | Edgewater Park, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | fire-alarm-installation-fairmount-bronx-ny | Fire Alarm Installation | Fairmount, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-15T16:45Z | fire-alarm-installation-edenwald-bronx-ny | Fire Alarm Installation | Edenwald, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-15T16:45Z | fire-alarm-installation-edgewater-park-bronx-ny | Fire Alarm Installation | Edgewater Park, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-15T16:45Z | fire-alarm-installation-fairmount-bronx-ny | Fire Alarm Installation | Fairmount, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-fieldston-bronx-ny | Fire Alarm Installation | Fieldston, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-fiske-terrace-brooklyn-ny | Fire Alarm Installation | Fiske Terrace, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-flatbush-brooklyn-ny | Fire Alarm Installation | Flatbush, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
