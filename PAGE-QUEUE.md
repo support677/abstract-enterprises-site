@@ -481,9 +481,9 @@ LIVE | fire-alarm-installation-brooklyn-chinatown-brooklyn-ny | Fire Alarm Insta
 BUILDING 2026-11-15T13:44Z | fire-alarm-installation-brooklyn-heights-brooklyn-ny | Fire Alarm Installation | Brooklyn Heights, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-15T13:44Z | fire-alarm-installation-brooklyn-navy-yard-brooklyn-ny | Fire Alarm Installation | Brooklyn Navy Yard, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-15T13:44Z | fire-alarm-installation-brownsville-brooklyn-ny | Fire Alarm Installation | Brownsville, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-15T13:50Z | fire-alarm-installation-bushwick-brooklyn-ny | Fire Alarm Installation | Bushwick, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-15T13:50Z | fire-alarm-installation-cadman-plaza-brooklyn-ny | Fire Alarm Installation | Cadman Plaza, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-15T13:50Z | fire-alarm-installation-canarsie-brooklyn-ny | Fire Alarm Installation | Canarsie, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | fire-alarm-installation-bushwick-brooklyn-ny | Fire Alarm Installation | Bushwick, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | fire-alarm-installation-cadman-plaza-brooklyn-ny | Fire Alarm Installation | Cadman Plaza, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | fire-alarm-installation-canarsie-brooklyn-ny | Fire Alarm Installation | Canarsie, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-carroll-gardens-brooklyn-ny | Fire Alarm Installation | Carroll Gardens, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-castle-hill-bronx-ny | Fire Alarm Installation | Castle Hill, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-city-line-brooklyn-ny | Fire Alarm Installation | City Line, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
