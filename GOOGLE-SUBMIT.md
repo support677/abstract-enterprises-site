@@ -98,6 +98,9 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 
 <!-- 2026-11-15 (Anwar): CCTV INSTALLATION HUBS GO FIRST — above every other line in this file. Big gap: 256 CCTV searches, 15,522 impressions, 4 clicks, no CCTV page. The builder adds each cctv-installation-* hub here as QUEUED the moment it ships; the morning Request-indexing run requests these before anything else. Only request a URL that returns 200. -->
 <!-- CCTV-PRIORITY-START -->
+2026-11-15 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-nyc | QUEUED
+2026-11-15 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-long-island | QUEUED
+2026-11-15 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-hudson-valley | QUEUED
 <!-- CCTV-PRIORITY-END -->
 
 <!-- 2026-10-29: brand price pages NOT on Google per URL Inspection API (184). Highest-search brands first, NYC areas first. Request these before everything else. -->
