@@ -9072,3 +9072,304 @@ FAQ (§17):
 11. Who in a Norwood co-op should have authority to sign the fire alarm contract and talk to the FDNY?
 12. Why does a common-area detector outside an apartment door in a Norwood building trip when someone cooks, and what fixes it?
 Other headings ending in "?": none (repair H2 and mid-CTA H2 end without "?").
+
+## Olinville, Bronx — /fire-alarm-installation-olinville-bronx-ny (commercial rebuild research, 2026-11-16)
+
+NFPA 72 commercial only. Up-link /fire-alarm-installation-bronx-ny · phone (646) 490-0629 · GBP Bronx (460 E Fordham Rd, #bronx). Area phrase used: "commercial fire alarm contractor Bronx" only (0 other-area phrases). Nothing from the old page text reused (interim "Commercial Fire Alarm Services in [Area]" block and "How a Commercial Fire Alarm Gets Installed" placeholder gone). Regulatory base reused as facts (not wording) from "## NYC hubs", "## Bronx" and "## Norwood, Bronx" in this file (not re-fetched this session): PE/RA seal, TM-1 via FDNY Business, C of O / Schedule A / DOB Letter of No Objection, installer = NYC licensed electrician or FDNY Fire Alarm Company Certificate holder, principal S-97 (NICET II+ or NYC master/special electrician), company cert renewed yearly / no FDNY reminders / lapse stops servicing, FA-27 $105 (FDNY company cert FAQ), ~20-24 weeks, initial review up to 8 weeks, Project Authorization, B-45, FAIU at 9 MetroTech, 100% complete / central station active / sprinklers operational / permanent power, S-97/S-98 at test; NYC Business $420 / $525, no fee to resubmit within 6 months; BC 907.2.9 R-2 triggers (3+ stories above lowest exit discharge, >1 below highest, >16 units); 75-ft high-rise line (NFSA, NYC hubs section).
+
+**Unique angle:** Olinville as an elevator-building neighborhood frozen in height — two 1950/1951 federal NYCHA campuses (Gun Hill Houses 6 × 14 stories; Parkside 14 buildings of 6/7/14/15 stories) plus a 20-story 1961 co-op (3000 Bronx Park East), inside the 2005 DCP "Olinville Rezoning" that keeps everything else low. Fire alarm scope is set by elevator recall (lobby/machine room/shaft detectors, Phase I, fire hat indicator), DOB elevator retroactive deadlines (door-lock monitoring 1/1/2020, single-plunger brakes 1/1/2027) as the moment to check the recall interface, mixed-height campuses where neighboring buildings fall on different sides of the 75-ft line, and the non-apartment ground floors NYCHA lists (day care, senior center, community centers, vacant community operations spaces, boilers, trade shops). Mostly retrofit/replacement, not new construction.
+Avoided (sibling pages): Allerton (Wallace Ave and Adee Ave deli fires, Allerton Ave merchants, Christopher Columbus campus, St. Lucy's), Bronxwood (Beth Abraham, defend-in-place care, 601 Pelham Pkwy N), Williamsbridge/Laconia (E Gun Hill Rd store-row fire), Norwood (R-2 "no notification" angle as lead, DeKalb/209th fires — Norwood linked only as adjacent), Bronx River (NYCHA ground-floor trade shops as lead angle — shops only mentioned in a list), Morrisania/Edenwald/New Lots (NYCHA towers/PACT/replacement program as lead — NYCHA fact sheet used only as a timeline/components fact), Highbridge/Brighton (el noise), Allerton Q3775 (store under el), Bronxwood Q4503 (el vibration), East New York Q6033 (rezoning). Elevator questions checked against register lines 5251, 5529, 8272, 8466, 8588, 8698, 8953 and written to different intents (DOB retroactive deadlines, fire-hat indicator, waterflow-initiated recall, bypass during repairs). Topic grep also run for: hearing/deaf, senior center, day care, vacant, hot plate, gas, school, rezoning, vibration/train/el, walk-up, grandfather/built before, NYCHA, door, fire watch, bypass, central station lapse, rewire, managing agent, waterflow, Williamsbridge, keys, acceptance test attendees, stay home during work (dropped a "residents stay home during panel replacement" FAQ — overlaps 8760; dropped a "check open FDNY violation" FAQ for length).
+
+Format: exact query · platform · URL · finding · page section used.
+
+### Neighborhood definition / history
+- "Olinville Bronx neighborhood boundaries history Olinville Avenue" · WebSearch → WebFetch · https://www.nyc.gov/site/bronxcb12/about/about-bxcb12.page · "Olinville is today considered part of the Williamsbridge neighborhood, and shares the 10467 zip code"; "situated west of White Plains Road between Allerton Avenue and Gun Hill Road"; 2 and 5 lines · §5 para 1, at a glance, FAQ 1.
+- same · WebFetch · https://www.cityneighborhoods.nyc/olinville · bounded by E Gun Hill Rd (N), Boston Rd (E), Arnow Ave (S), Bronx Park East (W); Olin family subdivided farmland; Olinville Ave laid out 1890s (earlier Olin Ave); "the village by the park"; annexed 1895 from Town of Westchester; two- and three-story brick houses, mid-20th-c and prewar apartment buildings; White Plains Road main commercial spine (West Indian takeout, Dominican salons, halal markets, Jewish delis); Olinville Civic Association 1970s; 2/5 at Allerton Ave and Gun Hill Rd · §5, corridors, landmarks (Bronx Park). Page itself unsourced — FLAG (used only for boundaries/history/business mix, attributed on page). Boston Rd east edge NOT used (CB12 says White Plains Rd).
+- same · WebFetch · https://www.wikiwand.com/en/Olinville,_Bronx · redirects to Williamsbridge; no Olinville text · not used.
+- "Olinville rezoning" (surfaced by same search) · WebFetch · https://www.nyc.gov/assets/planning/download/pdf/plans/olinville/olinville.pdf · DCP Olinville Rezoning (C 060084 ZMX), 36 blocks CD12, certified Aug 22 2005, CB12 29-0 Sept 22 2005, CPC Nov 16 2005, Council adopted Dec 8 2005; study area Bronx River to White Plains Rd, E 219th St to Adee Ave (+ area S/E of Gun Hill Houses and Evander Childs); "few buildings are higher than 70 feet"; new R5A (1-2 family detached, 35 ft max); R4A, R4, R5; R6 along Olinville/Willett/Barker/S Oak Dr; R7-1 along Bronx Blvd/Olinville/Barker; WPR and E Gun Hill Rd main retail corridors · §5 rezoning para, existing-systems intro, Q&A (Bronx Blvd R6), corridors. Note on page wording: rezoning area extends north of Olinville into Williamsbridge; page says "covered 36 blocks" without claiming all 36 are Olinville.
+
+### Public housing campuses (central angle)
+- "Gun Hill Houses NYCHA location Holland Avenue Magenta Street buildings stories" · WebSearch → WebFetch · https://www.nyc.gov/assets/nycha/downloads/pdf/pdb2023.pdf · PARKSIDE: 14 res. bldgs, 6/7/14/15 stories, 877 current/879 total apts, pop 1,629, completed 6/12/1951, Adee Ave–White Plains Rd–Arnow Ave–Bronx Park East, federal conventional (not PACT); GUN HILL: 6 bldgs, 14 stories, 732/733 apts, pop 1,373, completed 11/30/1950, Holland Ave–White Plains Rd–Gun Hill Rd–Magenta St, federal conventional · hero, §5, at a glance, building types, landmarks, Q&A 1.
+- same · WebFetch · https://www.nyc.gov/assets/nycha/downloads/pdf/Gun%20Hill.pdf · Aug 2021 address list: 711 Magenta (grounds/garden shop), 3440 WPR day care center, 3444 WPR elevator/paint/plasterers/X-shop, 3450 WPR + 744 Gun Hill Rd + 3445 Holland Ave community operations space (vacant), 3415 Holland maintenance office, 731 Magenta management office/laundry, 735 Magenta boiler/storeroom, 745 Magenta community center · at a glance, building types, Q&A (vacant spaces, boiler), landmarks.
+- "Parkside Houses Bronx NYCHA community center senior center day care Arnow Avenue" · WebSearch → WebFetch · https://www.nyc.gov/assets/nycha/downloads/pdf/Parkside.pdf · Aug 2021: addresses on Bronx Park East (2910-2972), Adee Ave (640-680), Arnow Ave (635-671), WPR (2945-2975), 2825 Olinville Ave; community center 2972 BPE; senior center 644 Adee; tenant assoc 671 Arnow; boiler 635 Arnow; X-shop 669 Arnow; plasterers 650 Adee; exterminator/paint 670 Adee; maintenance office 2973 WPR; carpenters/grounds 2955 WPR; management office/laundry 2963 WPR · at a glance, building types, corridors, Q&A boiler.
+- same · WebFetch · https://pssusa.org/parkside/ · PSS Parkside Center, 644 Adee Ave, ground floor of NYCHA Parkside, adults 60+, M-F 8 a.m.-4 p.m., roots early 1960s, PSS sponsor ~20 yrs, wheelchair accessible · Q&A senior center.
+- "Gun Hill Houses Bronx fire OR elevator OR repairs ..." · WebSearch → WebFetch · https://bronx.news12.com/exclusive-gun-hill-houses-residents-without-gas-yet-again · May 4 2023: 735 Magenta St without gas (article gives both "two weeks" and "since March 20"), hot plates; Carmen Lugo's home health aide considers it a fire hazard; TA president Robert Hall quote "I'm going to see to it that this problem goes away."; NYCHA cites gas service line leak · Q&A hot plates (duration stated only as "for weeks").
+- same · WebFetch · https://bronx.news12.com/residents-await-repairs-following-fire-at-east-gun-hill-road-building-tenants-say-there-has-been-lack-of-communication-from-management · Mar 5 2025, fire at a new affordable building on E Gun Hill Rd (no number; Williamsbridge-linked; shelter units via Acacia) · NOT used (location likely north side = Williamsbridge).
+- "Olinville Bronx reddit apartment building fire alarm OR smoke detector" · WebSearch → WebFetch · https://www.nyc.gov/assets/nycha/downloads/pdf/Learn-More-About-NYCHA-Fire-Alarm-System-Replacements.pdf · components (FACP, communicators, strobes, mag door holders, pull stations, CO/heat/smoke detectors, standpipe/sprinkler work); planning/design/procurement 6-12 months each, construction 24-30 months; noise/dust/outages/asbestos; no development list (Parkside/Gun Hill not named — not claimed on page) · building types, AI check.
+
+### Co-op tower / apartment stock
+- "\"3000 Bronx Park East\" OR ... building stories units co-op" · WebSearch → WebFetch · https://www.cityrealty.com/nyc/bronx-other/3000-bronx-park-east/107732 · 1961, 20 floors, 297 apts, co-op, alt address 601 Adee Ave, between Adee Ave and Bronx Blvd, nearest stop WPR/Burke Ave · hero, §5, building types, landmarks, Q&A 4.
+- same · WebFetch · https://www.cityrealty.com/nyc/bronx-other/2550-olinville-avenue/107914 · 1965, 18 fl, 213 units, co-op, between Mace and Allerton (Allerton) · NOT used (outside Olinville).
+- same · WebFetch · https://www.cityrealty.com/nyc/bronx-other/3555-olinville-avenue/108066 · 1965, 16 fl, 142 units, near 211th St (Williamsbridge) · NOT used (outside).
+
+### Fires
+- "\"Olinville\" Bronx Norwood News OR \"Bronx Times\" fire OR building OR school" · WebSearch → WebFetch · https://www.norwoodnews.org/parkside-housing-project-no-injuries-reported-after-fire-breaks-out-on-7th-floor-at-669-arnow-ave/ · Jan 16 2025, call 8:27 p.m., 669 Arnow Ave (Parkside, between Olinville and Barker Aves), 7th floor, under control 8:59 p.m., 12 units/60 personnel, no injuries, Red Cross 1 household (4 adults, 1 child), FDNY "During a fire, always close the door behind you!", DOB FISP violation; article places Parkside "south of the Olinville section" (CB12 definition puts it inside — page just says "a Parkside building") · §5, Q&A doors.
+- same · WebFetch · https://www.norwoodnews.org/update-olinville-mothers-day-residential-fire-under-control/ · May 14 2023, 3003 Olinville Ave, "just north of Parkside", 3rd-floor fire in multiple dwelling, 2:34 p.m., under control 3 p.m., 60 FF/12 units, no injuries · §5.
+- same · WebFetch · https://abc7ny.com/19-hurt-2-critically-in-bronx-apartment-fire/5171201/ · Mar 6 2019, Holland Ave apartment building (no number), Olinville, ~6:15 a.m., 19 hurt (2 critical), residents jumped from 2nd/3rd-story windows, failed extinguisher attempt, not criminal; no alarm mention · §5, Q&A Holland walk-up (no conclusion drawn).
+- same · WebFetch · https://bronx.news12.com/fdny-4-people-3-firefighters-injured-in-overnight-fire-in-olinville · Jul 17 2024, 3024 Bronx Park East at Adee/Burke, house fire, 4 hurt incl. 3 FF · NOT used (house = out of scope).
+
+### Elevators / code
+- "NYC elevator alteration modernization firefighter emergency operation Phase I recall smoke detectors fire alarm required DOB" · WebSearch → WebFetch · https://www.nyc.gov/assets/buildings/pdf/2019-elevators-door-monitoring-other-retroactive-requirements.pdf · door lock monitoring (ASME 3.10.12) all automatic passenger/freight elevators by Jan 1 2020; single-plunger brakes converted or UCMP by Jan 1 2027; permit/Elevator Director self-cert · Q&A 2, field notes context.
+- same · WebFetch · https://ny-engineers.com/elevator-recall-design · recall initiated by smoke detectors in elevator lobbies and machine rooms (NFPA 72A history); designated floor; alternate level since 1981 code; NYC BC Ch. 30 elevator readiness applies to high-rise B/M/E/I/F/A/H, B ≥200,000 sf, R-1 and R-2 · integration, AI check.
+- "commercial fire alarm installation Olinville Bronx elevator recall co-op high rise" · WebSearch → WebFetch · https://nyrej.com/your-guide-to-fire-alarms-for-residential-building-occupancies · Steven Wasserman (American Security Systems), Oct 4 2007 (pre-2008 code; vendor-written): smoke detection at top of shaft for buildings after April 2003 or with elevator renovations; shaft + machine room detectors initiate Phase 1; waterflow interconnected and initiates recall; duct detection on supply >2000 CFM; waterflow alarms >36 heads · integration, devices (duct), AI check, FAQ 2 — always attributed as a 2007 guide. FLAG (dated, vendor source).
+- Fire hat indicator flashing for machine room/hoistway activation — general ASME A17.1 practice (also stated on Norwood page); no fetched source this session · Q&A 3. FLAG.
+- "pre-1968 code buildings not automatically retrofitted; work triggers current requirements" — general NYC code principle, no fetched source · Q&A 4, AI check. FLAG.
+- Public school capital work (fire alarm replacement) through city school construction/facilities agencies via public procurement — general knowledge, worded without naming the agency · Q&A P.S. 41. FLAG.
+
+### Schools / transit
+- "\"3352 Olinville Avenue\" P.S. 41 Gun Hill Road school" · WebSearch → WebFetch · https://schooldigger.com/go/NY/schools/0008802185/school.aspx · 3352 Olinville Ave 10467-6312, K-5, 592 students 2022-23 · at a glance, building types, landmarks, Q&A.
+- "Burke Avenue station IRT White Plains Road Line opened ..." · WebSearch → WebFetch · https://wikiwand.com/en/articles/Burke_Avenue_(IRT_White_Plains_Road_Line) · opened Mar 3 1917, Burke Ave & WPR, elevated, 3 tracks / 2 side platforms, 2 all times, 5 rush peak; Wikipedia lists it under Allerton/Williamsbridge · at a glance, corridors, landmarks.
+- Gun Hill Road station (IRT WPR Line) existence from the same search result list (https://wikiwand.com/en/Gun_Hill_Road_(IRT_White_Plains_Road_Line)), not fetched · at a glance (name only).
+
+### Corridors
+- "\"White Plains Road\" \"Burke Avenue\" Bronx fire store OR restaurant OR building" · WebSearch · results were Wakefield/Allerton/Kingsbridge/Laconia fires; none in Olinville's WPR stretch · nothing used (store fire record for the Olinville stretch: EMPTY).
+
+### Community / SERP
+- Reddit (r/bronx, r/AskNYC) for Olinville fire alarm / building issues: EMPTY (no threads returned by "Olinville Bronx reddit apartment building fire alarm OR smoke detector").
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp 1-3★ for "commercial fire alarm installation Olinville Bronx": EMPTY (not accessible in build env). Question-type keywords from keywords/fire-alarm-installation.md woven into prose as the PAA stand-in; AI-check claims paraphrase generic national answers (Angi, HomeAdvisor, Fixr named generically, no quotes attributed to them).
+- FDNY tips PDF / company cert FAQ / NYC Business fee page: not re-fetched this session (facts reused from "## NYC hubs" / "## Norwood" entries above).
+
+### Images used (11, copied with cp from the generic set to page names; each viewed; none shows a readable street number — storefront-conduit photo rejected because "451" is visible)
+- fire-alarm-installation-ny-control-panel-touchscreen-tablet → …-olinville-bronx-ny-notifier-touchscreen-tablet-check (hero)
+- …-new-york-ceiling-horn-strobe-basement → …-ceiling-horn-strobe-concrete-ladder (§5)
+- …-new-york-power-supply-battery-meter → …-power-supply-battery-probe (repair)
+- …-ny-lobby-annunciator-check → …-annunciator-marble-lobby (building types)
+- …-ny-smoke-detector-and-panel-retail → …-smoke-detector-ladder-panel-store (corridors)
+- …-ny-panel-wiring-drawings → …-open-panel-screwdriver-floor-plans (system types)
+- …-ny-pull-station-terminal-wiring → …-pull-station-terminals-corridor (devices)
+- …-ny-pull-station-and-panel-two-techs → …-pull-station-two-techs-panel-room (process)
+- …-nyc-strobe-meter-test-mechanical-room → …-strobe-multimeter-pump-room (existing systems)
+- …-nyc-horn-strobe-corridor-block-wall → …-horn-strobe-drill-exit-corridor (contractor)
+- …-ny-panel-zone-map-review → …-system-normal-floor-map-point (integration)
+- Old fire-alarm-installation-olinville-bronx-ny-*.webp files from the previous page left on disk, unreferenced.
+
+### Checks (2026-11-16)
+- check_page --no-registration: all page-level checks pass; full run leaves only wiring lines: 15 × "live sibling <hub/borough/county> doesn't link back" and "_redirects needs exactly one '/fire-alarm-installation-olinville-bronx-ny /fire-alarm-installation-olinville-bronx-ny.html 200' rule".
+- Words 13,876. Keywords 364/376 (all 363 non-area + "commercial fire alarm contractor Bronx"; 0 other-area). AI reality check ~916 words, 7 H3 × 3 paragraphs. 13 Q&A, 11 FAQ (= FAQPage schema).
+- Masked-geo 5-gram Jaccard (simcheck) vs all fire-alarm-installation-*: max 0.127 (Norwood), next 0.101 (Parkchester, in progress this batch).
+- $ figures: $420 / $525 (NYC Business fire alarm plan application) and $105 (FDNY company certificate FAQ) — government fees only.
+- Mobile 390px (playwright chromium via local http server so js/mega-nav.js loads): scrollWidth 390, no element past viewport, full-page screenshot reviewed after scrolling, no blank gaps.
+
+### Question register (this page)
+Q&A headings (§9):
+1. Parkside Houses puts 6- and 7-story buildings beside 14- and 15-story ones across the same courtyards. Why can two buildings that share a campus need such different fire alarms?
+2. New York City set January 1, 2020 for elevator door-lock monitoring and January 1, 2027 for replacing single-plunger brakes. While the elevator crew is in an Olinville machine room for that work, what should the fire alarm side check?
+3. What does the small fire hat symbol that lights up inside an elevator car mean, and what does the building fire alarm have to do with it?
+4. 3000 Bronx Park East went up in 1961 as a 20-story co-op. Does a building that predates the 1968 Building Code have to bring its fire alarm up to today's rules?
+5. Gun Hill Houses lists three ground-floor community operations spaces as vacant. If one reopens as a youth or tenant program room, what happens to the fire alarm?
+6. The PSS Parkside Center serves adults 60 and over on the ground floor of a public housing building on Adee Avenue. What does a fire alarm designer ask about a senior center that an apartment floor never raises?
+7. Most stair and corridor doors in 1950s buildings were never meant to be held open. When do magnetic door holders tied to the fire alarm make sense, and when don't they?
+8. During the 2023 gas outage at 735 Magenta Street, tenants cooked on hot plates for weeks. Does a long outage like that change anything the building's fire alarm company should do?
+9. P.S. 41 on Olinville Avenue serves about 600 children in grades K to 5. Who is responsible for the fire alarm in a city public school building, and can a neighborhood contractor work on it?
+10. If an owner on Bronx Boulevard's R6 blocks replaces an old two-story house with a six-story apartment building, at what size does the new building need a fire alarm?
+11. Residents of a Holland Avenue apartment building jumped from second- and third-story windows during a 2019 fire. How can the owner of a small walk-up find out whether the building needs a building fire alarm at all?
+12. A White Plains Road store sits under apartments that have no building fire alarm. Does the store need a system of its own?
+13. NYCHA lists boiler rooms at 635 Arnow Avenue and 735 Magenta Street, one building on each Olinville campus. What detection belongs in a boiler room on a campus of several buildings?
+FAQ (§17):
+1. Is Olinville its own neighborhood or part of Williamsbridge, and does that matter for a fire alarm filing?
+2. Does a sprinkler waterflow signal on an upper floor of an Olinville tower call the elevators down?
+3. What does the FDNY charge to review fire alarm plans for an Olinville building?
+4. What can a co-op board get done while its fire alarm plans wait for FDNY approval?
+5. What should a White Plains Road store owner do when a device the landlord owns inside the store shows trouble?
+6. Does a new panel in an old Olinville tower mean rewiring every floor?
+7. Can an elevator company bypass fire alarm recall to keep a car in service during repairs?
+8. How is a fire watch handled in a 14-story building while the fire alarm is out of service?
+9. Should the staff of a ground-floor day care in a tower take part in the building's fire alarm tests?
+10. Will a fire alarm upgrade in an Olinville tower change what residents see in their hallways?
+11. Does an Olinville tower's fire alarm need to cover the roof bulkhead and elevator penthouse?
+Other headings ending in "?": none (repair H2 and mid-CTA H2 end without "?").
+
+## Park Slope, Brooklyn — /fire-alarm-installation-park-slope-brooklyn-ny (commercial rebuild research, 2026-11-16)
+
+Neighborhood rebuild (NFPA 72 commercial only; stay-in-area rule — only "fire alarm installation Brooklyn" of the 13 area phrases; 1-2 family brownstones out of scope; no prices; no CCTV). Regulatory base reused as facts from "## NYC hubs" (FDNY tips PDF: PE/RA sealed drawings, TM-1, certified company + licensed electrician, ~20-24 weeks, initial review up to 8 weeks; FDNY Fire Alarm Company Certificate FAQ: S-97 via NICET II+ or NYC master/special electrician, company cert 1 yr / S-97 3 yrs, servicing stops if cert lapses; FA-27 $105; NYC Business $420/$525 + Project Authorization + 3-year records; Jan 5 2012 central office bulletin; doc-app requirements lead time; ny-engineers BC 907.2 summary; MMR FY2025 21,966 malicious false alarms). BC 403 high-rise citation (amlegal 0-0-0-166705) reused from "## Downtown Brooklyn". LPC exterior-permit point reused as general fact from the Boerum Hill / Brooklyn Heights sections (LPC guidebook) — no new LPC source fetched.
+
+**Unique angle:** "The person on shift." Park Slope's code-required fire alarm buildings are a short list of institutions and larger buildings scattered through New York's largest landmark neighborhood (~2,575 buildings), and many are run day to day by people who rotate rather than permanent building staff: Park Slope Food Coop member-workers (each works 2 h 45 min every six weeks; ~16,000 members; three buildings on Union St; Squad 1 next door), volunteer sextons/congregants (Beth Elohim 1,200-seat sanctuary + Temple House early childhood center; Old First Reformed 400+200 seats under plaster restoration), the 14th Regiment Armory with three operators (CAMBA shelter overnight, YMCA early morning, veterans' museum), the Montauk Club (club rooms + condos), the Carnegie library (2012 renovation incl. upgraded fire alarm), the hospital's 2021 Center for Community Health and nearby practices, PPW prewar elevator houses (9 PPW, 15 stories 1929) and Fourth Ave R8A mid-rises from the 2003 rezoning. Page centers on plain-language labels, posted panel cards, duty maps (who is on site when), call lists, and concealed routing in fragile historic interiors. Field notes = writing the panel sheet for the person on shift.
+
+**Avoided (sibling pages):** Ocean Hill (shared one-panel/many-occupants, co-located schools, PACT) — John Jay campus mentioned once as a building, no shared-school questions. Brooklyn Heights (LPC permit track, concealed routing via dumbwaiters, converted hotels, co-op governance) — LPC appears only as one compliance bullet + one AI-check H3 framed around the library renovation. Boerum Hill (landmarked storefronts, Atlantic Ave), Carroll Gardens (Court St redesign), Gowanus (canal flood, IBZ, rezoning towers), Greenwood Heights (Fourth Ave M1 lots south of 15th St / change of use at the cemetery edge), Fulton Ferry (firehouse-nearby FAQ, park-owned buildings), Fort Greene (haze/venues) — firehouse appears only as an AI-check claim (different framing); haze question not used; Parks-owned building Q drafted then removed. Prospect Heights / Windsor Terrace / South Slope pages are still old templates (no angle to collide with).
+
+Each entry: exact query · platform · URL · finding · page section used.
+
+### Boundaries / background
+- "Park Slope Brooklyn neighborhood boundaries Park Slope Historic District extension 2012 2016 Landmarks" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Park_Slope · boundaries Prospect Park/PPW (E), Fourth Ave (W), Flatbush Ave (N), Prospect Expwy (S); CD6; ZIP 11217 N of Union / 11215 S; 2020 Park Slope–Gowanus NTA 74,731 (+10.46% from 67,649); 78th Pct 65 Sixth Ave (cut from final copy); rowhouses + 6-8 story apartments; Fourth/Fifth/Seventh mixed-use; light industrial toward canal; HD ~2,575 buildings, "New York's largest landmark neighborhood"; Park Slope library 431 Sixth Ave 1906 Carnegie; armory; Berkeley Carroll, Poly Prep lower (not used). · §5, facts table, §8 Fourth Ave.
+- same · WebFetch · https://en.wikipedia.org/wiki/Park_Slope_Historic_District · LPC 1973; NRHP Nov 21 1980 (1,802 contributing); 2012 expansion to 2,575 buildings; 2016 extension north. · §5, facts table.
+- same · WebFetch · https://newyorkyimby.com/2016/04/landmarks-designates-park-slope-historic-district-extension-ii.html · Extension II, 292 buildings, St. Marks Ave–Sterling Pl around 5th/6th Aves + Berkeley/Union cluster + Plaza St W; St. Augustine's RC Church & Rectory (1888) 49 Sterling Pl; Srinivasan quote "predominant defining factor" (cut in trim). · §5, facts table.
+- LPC original designation date July 17 1973 · from https://en.wikipedia.org/wiki/Congregation_Beth_Elohim · §5.
+
+### Zoning / corridors
+- "Fourth Avenue Park Slope 2003 rezoning towers apartments R8A history Brooklyn" · WebSearch → WebFetch · https://www.nyc.gov/assets/planning/download/pdf/plans/park-slope/parkslope.pdf · CPC Apr 2 2003, Council Apr 30 2003; 110 blocks Union St–15th St, PPW–3rd/4th Aves; Fourth Ave R6/R7A → R8A (FAR 6.02, base 85 ft, max 120 ft); >70% midblocks R6B/R7B; R6A on 3rd/5th/7th (70 ft); R7A on PPW (80 ft); Fifth & Seventh generally 4-6 stories with ground-floor commercial + apartments above. · §5 table, §7, §8, new construction, FAQ 7.
+- same · WebFetch · https://www.amny.com/real-estate/fourth-avenue-in-brooklyn-spanning-park-slope-and-gowanus-is-transforming-1-12207583 · Aug 21 2016; Warren–15th St most turbulent stretch; 2003 rezoning; Instrata 150 4th Ave 12 stories opened 2010; civic push for ground-floor local business space. Rents/condo prices NOT used. · §7, §8.
+- "Park Slope Fifth Avenue BID storefronts number businesses" · WebSearch → WebFetch · https://patch.com/new-york/parkslope/new-data-shows-scope-park-slopes-vacant-storefronts · July 30 2021: city data 36 vacant on Fifth, 36 on Seventh; Fifth Ave BID count 66. · §8.
+
+### Institutions (core of the angle)
+- "NewYork-Presbyterian Brooklyn Methodist Hospital Center for Community Health building Park Slope opened" · WebSearch → WebFetch · https://www.brooklynpaper.com/new-york-presbyterian-opens-boroughs-largest-ambulatory-care-center-at-brooklyn-methodist · six stories, 400,000 sq ft, 12 ORs, 6 procedure rooms, imaging, infusion center; first major outpatient facility in Brooklyn in 40 years. · §5, §7.
+- same · WebFetch · https://www.star-revue.com/methodist-opens-the-new-facility-that-replaces-8-historic-brownstones/ · Apr 16 2021; opened March (2021); Sixth St between Seventh and Eighth Aves; headline: replaced 8 historic brownstones; Corwin quote "dedicated to making world-class care more accessible, convenient and equitable in all the communities we serve." · §5, §7, landmarks text.
+- "NewYork-Presbyterian Brooklyn Methodist Hospital 506 Sixth Street beds" · WebSearch → WebFetch · https://www.nyp.org/news/nyp-brooklyn-methodist-hospital-cuts-the-ribbon · Mar 1 2017: 591 licensed inpatient beds. · §5.
+- "Park Slope Food Coop 782 Union Street building members" · WebSearch → WebFetch · https://linewaitersgazette.com/2024/08/14/the-coop-is-at-capacity-and-crowded-can-anything-be-done/ · ~16,000 members (2024); expanded into adjacent buildings; Squad 1 next door on east side; quotes Hoagland "there is only so much our store can hold," Holtz "Union Street is zoned residential." · §5, §7, Q&A 1/12.
+- same · WebFetch · https://linewaitersgazette.com/2024/09/24/squad-1-firefighters-a-devoted-coop-fan/ · Squad 1 began as Engine 269, closed early 1970s, reopened 1977 after activism; 12 killed on 9/11; McHugh quote "We lost more people than we had." · AI check H3 6, landmarks card.
+- same · WebFetch · https://en.wikipedia.org/wiki/Park_Slope_Food_Coop · founded 1973; each adult member works 2 h 45 min every six weeks; ~16,700 members (July 2025); owns three buildings (782 Union bought 1980, two buildings to its west 1988/1999). · §5, §7, landmarks card, AI check.
+- "Park Slope Armory YMCA women's shelter 14th Regiment Armory Eighth Avenue" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/14th_Regiment_Armory · 1402 Eighth Ave between 14th/15th Sts; 1891–95; William A. Mundell; NRHP + NYS 1994, NYC landmark 1998; CAMBA women's shelter (opened 1986, 70 beds), veterans' museum, Prospect Park YMCA facility (2010). · §5, §7, Q&A 4, landmarks.
+- "Congregation Beth Elohim Garfield Place Park Slope" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Congregation_Beth_Elohim · 274 Garfield Pl at Eighth Ave; sanctuary 1909–10 seats ~1,200; Temple House 1928–29; early childhood + after-school centers since 1978; 2009 sanctuary ceiling collapse before Yom Kippur. · §5, §7, Q&A 3, landmarks.
+- "Grace United Methodist ... OR Old First Reformed Church Carroll Street Park Slope" · WebSearch → WebFetch · https://www.brownstoner.com/interiors-renovation/brooklyn-park-slope-old-first-reformed-church-126-7th-avenue-plaster-ceiling-repair-restoration-historic · May 20 2019: 126 Seventh Ave; 1893, George L. Morse; NRHP, not an individual city landmark; calcimine paint/rusting screws; seats 400 + 200 balcony; Devonshire quote "The problem was when it gets damp, even from atmospheric condensation, it wants to turn back into milk." Restoration $ figure NOT used. · §5, §7, Q&A 2.
+- "Montauk Club Eighth Avenue ... Park Slope" · WebSearch → WebFetch · https://brooklyneagle.com/articles/2018/07/23/montauk-club-is-park-slopes-survivor-of-gilded-age-private-club-era/ · 25 Eighth Ave; opened 1889; Francis H. Kimball; modeled on Ca' d'Oro; basement and upper floors converted to condos. · §5, §7, Q&A 8, landmarks.
+- "Brooklyn Public Library Park Slope branch 431 Sixth Avenue Carnegie renovation reopened" · WebSearch → WebFetch · https://brooklyneagle.com/articles/2012/09/14/historic-park-slope-library-reopens-with-new-computers-reading-spaces-and-even-books/ · Sept 2012 reopening after ~3 years; ADA ramp, elevator, "upgraded fire alarm system," HVAC; Burney quote "Our goal was to keep what's best about the Park Slope Library by restoring its historic interior". · §7, AI check H3 1, landmarks.
+- "John Jay Educational Campus 237 7th Avenue Park Slope" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/John_Jay_Educational_Campus · 237 Seventh Ave (4th–5th Sts); C.B.J. Snyder; four schools. Built 1902 (Wikipedia) vs 1904 (https://www.brownstoner.com/architecture/building-of-the-209/, "originally the Manual Training School") — page says "early 1900s". · §7, §8.
+- "Old Stone House Washington Park Park Slope Third Street" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Old_Stone_House_(Brooklyn) · Third St between 4th/5th Aves, J.J. Byrne Playground/Washington Park; c.1699, razed 1897, rebuilt 1934 with original stones; nonprofit under Parks license; exhibits, school programs, concerts. · landmarks card.
+- "Prospect Park West apartment building prewar co-op history" · WebSearch → WebFetch · https://www.brownstoner.com/history/park-slope-brooklyn-9-prospect-park-west-history · The Hampton (1903, first elevator apartment house on the street, 24 apts) demolished 1928; replacement 15 stories + penthouse, 43 units, late 1929; outside the historic district. · §7.
+
+### Local fires
+- "Park Slope fire 2025 FDNY building ..." · WebSearch → WebFetch · https://brooklyn.news12.com/fire-breaks-out-in-park-slope-apartment-building · May 2 2025, 118 Sterling Pl (6th–7th Aves), top two floors, 25 units/100+ members, no injuries. · research only (not on page; apartment-house fire with no fire-alarm detail).
+- same · WebFetch · https://brooklyn.news12.com/2025/12/09/fdny-responds-to-apartment-fire-in-park-slope/3g84EqZdwTt38Y83xhMf7e · Dec 8 2025 evening, 182 8th Ave (Garfield Pl–1st St), third floor, 60 personnel, no injuries. · research only.
+- "Park Slope Seventh Avenue fire stores apartments FDNY 2024" · WebSearch → WebFetch · https://brooklyn.news12.com/park-slope-restaurant-leans-on-the-community-after-a-devasting-fire · Aug 2025 (article Aug 12): Empanada Loca, Fifth Ave, basement fire, FDNY told owner likely electrical; quote George Kontolios "The FDNY is amazing. They got here very quickly." Repair $ estimate NOT used. · repair §, Q&A 7.
+- same · WebFetch · https://patch.com/new-york/parkslope/4-hurt-after-blaze-erupts-apartment-building-near-park-slope-fdny · July 7 2022, 248 Seventh St near 4th Ave, four-story residential, 1 critical + 3 FFs minor. · research only.
+
+### Community / SERP
+- "reddit r/parkslope fire alarm building going off" · WebSearch · EMPTY (no r/parkslope or r/Brooklyn threads returned; only unrelated r/firealarms mirrors).
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp 1-3★ for "fire alarm installation Park Slope": EMPTY (not accessible in build env). Question keywords from keywords/fire-alarm-installation.md woven into prose (not as headings); AI reality check built on generic Angi/HomeAdvisor/Fixr-style claims corrected with the sources above.
+- Park Slope Patch / Brownstoner / THE CITY / NY YIMBY for Park Slope fire alarm-specific stories (filings, violations): EMPTY (no relevant results surfaced in the searches above).
+
+### Images used (11, cp from the shared generic set to new Park Slope names; each viewed before writing alt; no camera/network photos; storefront-conduit photo rejected because it shows a "451" street number)
+- fire-alarm-installation-ny-lobby-annunciator-check.webp → …-park-slope-brooklyn-ny-annunciator-marble-lobby-system-normal.webp (hero)
+- fire-alarm-installation-ny-control-panel-touchscreen-tablet.webp → …-notifier-touchscreen-floor-plan-tablet.webp
+- fire-alarm-installation-ny-panel-zone-map-review.webp → …-panel-zone-map-tattooed-tech.webp
+- fire-alarm-installation-ny-fire-alarm-cable-pull-steel-studs.webp → …-red-fire-alarm-cable-steel-stud-rough-in.webp
+- fire-alarm-installation-new-york-warehouse-smoke-detector-lift.webp → …-detector-steel-beam-scissor-lift.webp
+- fire-alarm-installation-ny-panel-wiring-drawings.webp → …-open-panel-terminal-screwdriver-drawings.webp
+- fire-alarm-installation-ny-pull-station-terminal-wiring.webp → …-pull-station-terminals-hallway.webp
+- fire-alarm-installation-ny-smoke-detector-and-panel-retail.webp → …-smoke-detector-ladder-panel-glass-storefronts.webp
+- fire-alarm-installation-ny-kitchen-heat-detector.webp → …-heat-detector-stainless-kitchen-hood.webp
+- fire-alarm-installation-new-york-ceiling-horn-strobe-basement.webp → …-ceiling-horn-strobe-concrete-cellar.webp
+- fire-alarm-installation-nyc-horn-strobe-corridor-block-wall.webp → …-horn-strobe-drill-corridor-exit-sign.webp
+(The 11 older park-slope image files from the previous template remain on disk, unused, not deleted.)
+
+### Checks (2026-11-16)
+- tools/check_page.py --no-registration: all page-level checks pass; remaining items are wiring only — 15 area hubs don't link back to /fire-alarm-installation-park-slope-brooklyn-ny, and (full run) _redirects lacks the `/fire-alarm-installation-park-slope-brooklyn-ny /fire-alarm-installation-park-slope-brooklyn-ny.html 200` rule. With both simulated in a scratch root: PASS.
+- Rendered words 13,882. Keywords 364/376 (all non-area phrases + "fire alarm installation Brooklyn"; no other area phrase). Masked-geo 5-gram Jaccard max 0.210 vs fire-alarm-installation-ocean-hill-brooklyn-ny (shared chrome/forms/silo block); next 0.144 New Utrecht.
+- Mobile 390px (playwright chromium): scrollWidth 390, no element past 390px, no blank runs >500px in full-page screenshot.
+- Title 46 chars, meta 159, one H1, 11 figures, 6 JSON-LD blocks (LocalBusiness #brooklyn 1282 Troy Ave, Service, FAQPage, BreadcrumbList, ImageObject @graph, HowTo), AggregateRating 4.7/201, 10 FAQ = FAQPage, no $ amounts / Offer / priceRange, no "AESS", no camera/CCTV in body (shared nav only), dateModified 2026-11-16.
+
+### Question register (this page)
+Q&A (§9):
+1. Member-workers at our Union Street store change every few hours. What should the fire alarm signs and annunciator say so someone on a first shift can act on them?
+2. Our sanctuary ceiling was just restored. Can detection be added without anchoring anything into the new plaster?
+3. Our temple house wants to open a licensed early childhood program on a floor that has only been used for meetings. Does the fire alarm have to change first?
+4. The shelter, the gym and the veterans' museum in the Eighth Avenue armory keep different hours. How should overnight trouble signals be handled so the right operator responds?
+5. A dental or medical practice is moving into the garden floor of a building near the hospital. Is its space covered by the building's fire alarm, or does it need devices of its own?
+6. Our Prospect Park West co-op's panel is about thirty years old. Can a replacement reuse the wiring already behind the apartment walls?
+7. After the basement fire at our Fifth Avenue restaurant, should the rebuilt cellar get heat detection tied to the building panel?
+8. Club members use our ballroom and private owners live upstairs. Does a building like the Montauk Club run one fire alarm or two?
+9. Our new Fourth Avenue building has ground-floor retail that is still unleased. How do we finish the fire alarm for spaces with no tenant yet?
+10. A historic library or church in Park Slope is adding its first elevator. What fire alarm work does the elevator bring with it?
+11. Our congregation's volunteers lock up after evening events. What should the last person out check on the fire alarm before leaving?
+12. The store is packed at peak hours. How loud and bright must notification be in an aisle full of shoppers and a long checkout line?
+FAQ (§17):
+1. How long should a Park Slope congregation plan between signing a fire alarm proposal and receiving the FDNY Letter of Approval?
+2. Can a busy member-run or retail store keep its checkout lanes open while fire alarm devices are being tested?
+3. Our church office dropped its copper phone lines. How will the fire alarm keep reporting to the central station?
+4. Will replacing the fire alarm panel in our Park Slope co-op mean horns sounding in occupied apartments during the workday?
+5. What belongs in the fire alarm binder kept at the panel in a Park Slope building?
+6. What should overnight staff in a Park Slope shelter or care building do first when the panel shows a trouble at 3 a.m.?
+7. Did the 2003 rezoning of Fourth Avenue require older buildings there to upgrade their fire alarms?
+8. Is our sanctuary covered by the existing fire alarm when we rent it out for weddings and concerts?
+9. Why would a Park Slope building get spoken voice messages instead of only horns?
+10. How can a Park Slope board or congregation confirm its current fire alarm company is still certified by the FDNY?
+
+## Parkchester, Bronx — /fire-alarm-installation-parkchester-bronx-ny (commercial rebuild research, 2026-11-16)
+
+NFPA 72 commercial only. Up-link /fire-alarm-installation-bronx-ny · phone (646) 490-0629 · GBP Bronx (460 E Fordham Rd, #bronx). Area phrase used: "commercial fire alarm contractor Bronx" only. Nothing from the old page text reused (incl. interim "Commercial Fire Alarm Services in [Area]" block and "How a Commercial Fire Alarm Gets Installed" placeholder).
+
+**Unique angle:** "whose system is it?" — Parkchester is one planned property (MetLife, 171 buildings from 3 core types / 5 wing types, central steam plant feeding boiler rooms in 29 buildings, five garages, ~500,000 sq ft shopping built INTO the residential buildings) that is now split among Parkchester North Condominium, Parkchester South Condominium (S/E/W quadrants), a ~6,000-unit large owner (Parkchester Preservation Company affiliates) and store operators. Page centers on drawing ownership/panel lines on the drawings, repeating a survey/documentation standard across look-alike buildings without assuming one approval covers them, store-in-residential-base tie-ins, garages/boiler rooms, plus new mixed-use infill after the Aug 2024 46-block rezoning.
+Avoided (sibling pages): Castle Hill (elevator recall / towers first hour — elevators kept brief here; Engine 64/L47 mentioned only as location), Co-op City (campus/shopping centers), Norwood (R-2 hallway-silent angle, converted synagogue, vertical enlargement), Bronx hub (Parkchester tower mentions only), Van Nest/Westchester Square/Unionport (interim template pages; Metro-North rezoning mentioned only as context), Soundview/Bronx River (CB9 list). 1450 Rosedale Ave filing NOT used (YIMBY places it by Cross Bronx Expwy/Merrill St — boundary uncertain).
+
+Format: exact query · platform · URL · finding · page section used.
+
+### History / building stock / ownership
+- "Parkchester Bronx history Metropolitan Life 1940 171 buildings condominium" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Parkchester · built 1939-42 by MetLife on NY Catholic Protectory land; 171 buildings 8 or 13 stories (sic); 12,271 apts (1968 NYT); 210.76 acres; Aileen B. Ryan Oval (formerly Metropolitan Oval) 2 acres; condo conversions 1974 (~1/3) and 1986 (South); Macy's Oct 1941 ~175,000 sq ft first branch; Fantasia fountain by Raymond Granville Barger 1941; ~500 terra cotta statuettes/600 plaques, ~45 removed 2018-21; 6 at Parkchester and Castle Hill Ave; planned Metro-North station late 2027; schools PS 106, MS 127, St. Raymond schools, St. Helena, Bronx Charter School for Excellence; NYPL branch 1985 Westchester Ave; Parkchester (Police) ~100 officers 2022; Engine 64/Ladder 47 at 1224 Castle Hill Ave; boundaries (complex: E Tremont/Castle Hill/McGraw/White Plains Rd; neighborhood: to Westchester Ave and E 177th St); 2020 pop 33,602 (+12.7%); Aug 2024 Council rezoning 46 blocks Parkchester/Van Nest/Morris Park · §5, at a glance, building types, landmarks, Q&A.
+- same · WebFetch · https://www.parkchesternyc.com/about-us/history · July 1938 MetLife announcement "a self-contained … apartment community"; 129-acre site; 51 clusters/171 entrances; central heating plant; Richmond H. Shreve; first 500 families South Quadrant; all 12,271 rented (1943); PPC bought 6,362 unsold sponsor apts 1998; shopping center 500,000+ sq ft near Hugh Grant Circle largely integrated into residential structures; North Condo (listed 1972) / South Condo (S,E,W quadrants, 1986); 1999-2005 modernization: windows, water lines, upgraded electrical in all 12,271 apts · §5, Q&A (modernization), AI check. FLAG: North condo year differs by source (1972 history page vs 1974 Wikipedia/Cooperator) — page gives no year for North.
+- "Parkchester North Condominium board 1972 buildings units quadrant" · WebSearch → WebFetch · https://www.parkchestersouth.com/About-Us · South covers south/east/west quadrants, North covers north; both not-for-profit associations operating separately · §5, Q&A 2.
+- "Parkchester central heating plant boiler steam 1940" · WebSearch → WebFetch · https://hdc.org/wp-content/uploads/2025/06/Parkchester_brochure_ESP_web.pdf · Board of Design (Shreve, Clarke, Clavan, Dowling, Eken, Gove, Meyer); Starrett Brothers & Eken; 171 buildings / 51 complexes / 12,271 apts; 7-13 stories, ≥60 ft apart; 3 core types + 5 wing types; ~37% land built; central heating plant north quadrant, 4 boilers, ~14,000 ft steam pipe to boiler rooms in 29 buildings; five 5-story garages, three operate, one demolished 2006; >500 terra cotta pieces, nine sculptors; largest commercial zone SW corner Metropolitan Ave/Unionport Rd, Macy's, USPS, ~200 shops; Loew's American theater by John Eberson 1940 · §5, building types, corridors, Q&A, landmarks.
+- same · WebFetch · https://cooperatornews.com/article/a-successful-experiment-in-living · 2006: Helmsley 1968; condo 1974 north / 1986 south; 1998 PPC (CPC subsidiary) bought 6,000+ rentals, 500,000 sq ft shopping center and five garages (per NYT); $175-200M renovation · §5 (shopping center + garages purchase).
+- same · WebFetch · https://welcome2thebronx.com/2020/05/parkchester-80-years-later-a-brief-history-of-a-city-within-a-city · theater now a Marshalls; 100+ stores; Met Life bought site $5M 1938 · §5, building types, Q&A (theater).
+- "Parkchester South Condominium board lawsuit OR audit" · WebSearch → WebFetch · https://ag.ny.gov/sites/default/files/settlements-agreements/attorney-general-of-the-state-of-new-york-v-parkchester-preservation-management-llc-ppc-residential-llc-assurance-of-discontinuance-2025.pdf · AOD No. 25-051, Sept 22 2025; PPC affiliates own ~6,000 units in North and South condos (topic: rental screening, not building systems) · §5, Q&A 3 (unit count only).
+- same · WebFetch · https://www.bxtimes.com/parkchester-south-condo-owners-sue-management/ · Apr 2016 suit over 15.19% increase for roof slab/water infiltration repairs · NOT used on page (background).
+
+### Fires (News 12 Bronx)
+- "Parkchester fire 2026 Bronx apartment" · WebSearch → WebFetch · https://bronx.news12.com/2026/04/12/person-critically-injured-in-parkchester-home-fire/5vEXUyMLaDloEJ31d9K6ca · Leland Ave, ~3:30 a.m., 80-year-old woman died, 25 residents + 2 pets displaced, neighbors' complaints about dozens of candles, neighbor "did not hear any smoke alarms", cause not known · at a glance, Q&A (owner vs resident alarms). FLAG: article URL says "critically injured", body says died; page says "fatal fire" — verify.
+- same · WebFetch · https://bronx.news12.com/2025/12/12/4-injured-in-parkchester-apartment-building-fire/1AeCpUtRiEfJtNylK3RZ2A · Dec 11 2025, 1940 E Tremont Ave, eight-story, 7th floor, 4 minor injuries, under control just over 20 min · at a glance, Q&A.
+- same · WebFetch · https://bronx.news12.com/2025/09/21/1-injured-in-parkchester-apartment-fire/fXAVjXKQUHcU2vEAjbEZG · Sept 21 2025, Purdy St building 6th floor, 1 to Montefiore, charred stove · at a glance.
+- "reddit r/bronx Parkchester building fire alarm" · WebSearch → WebFetch · https://bronx.news12.com/fdny-fire-erupts-at-parkchester-apartment-building · Apr 5 2024, Unionport Rd between Metropolitan Oval and Laurel Rd, 4th floor, no injuries · at a glance, Q&A (after-fire check).
+- Reddit r/bronx Parkchester fire alarm threads: EMPTY (none returned).
+
+### New construction
+- "newyorkyimby Parkchester Bronx permits filed 2025 OR 2026" · WebSearch → WebFetch · https://blog.marketproof.com/new-building-permit-filed-for-1780-e-tremont-ave-in-parkchester-bronx/ · filed Mar 16 2026, six stories, 11,492 sf residential + 5,589 sf commercial · §5, corridors, Q&A, new construction.
+- same · WebFetch · https://newyorkyimby.com/neighborhoods/parkchester/page/3 · 1358 Odell St six-story mixed-use (7 units + commercial/community), 1360-64 Purdy St two four-story buildings, 1609-1623 Unionport Rd large mixed-use (undated) · §5, corridors, new construction.
+- same · WebFetch · https://newyorkyimby.com/?p=1989162 · 1450 Rosedale Ave 4 stories/19 units, near Cross Bronx Expwy/Merrill St · NOT used (boundary). Direct .html URL fetch: EMPTY (client error).
+
+### Landmarks / transit / institutions
+- "St. Raymond Church Bronx …" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/St._Raymond%27s_Church_(Bronx) · Castle Hill Ave at Tremont Ave; parish 1842; church 1897-98, George H. Streeton, Byzantine Revival; school current building 1951; academy 1960; boys HS 1962 · building types, Q&A, landmarks.
+- "Hugh J. Grant Circle Parkchester station …" · WebFetch · https://en.wikipedia.org/wiki/Parkchester_station · opened May 30 1920, elevated, above Hugh J. Grant Circle (E 177th/Metropolitan/Westchester), 2010 rehab, elevators opened Jan 2026 · at a glance, corridors, landmarks. FLAG: Jan 2026 elevator opening from Wikipedia only.
+- same · WebFetch · https://prd1.nycgovparks.org/parks/hugh-j-grant-circle/history · named Dec 5 1911; Grant youngest mayor · corridors, landmarks.
+- "Parkchester Library 1985 Westchester Avenue NYPL" · WebSearch → WebFetch · https://gopher.nypl.org/about/locations/parkchester · served from housing development 1942; moved June 1985; two-floor brick, recessed courtyard sculptures (1984 Art Commission award), 7,500 sf · building types, Q&A, landmarks.
+- Macy's: https://bronx.news12.com/macys-in-parkchester-marks-milestone-of-80-years-in-the-community (Mar 1 2021, opened 1941) · background only.
+
+### Regulatory (re-fetched this run)
+- FDNY tips PDF · WebFetch · https://www.nyc.gov/assets/fdny/downloads/pdf/business/tips-fire-alarm-systems.pdf · NYS PE/RA prepares plans; TM-1 "Fire Alarm Plan Examination form"; initial review up to 8 weeks; ~20-24 weeks to final approval; NFPA 72 as modified by BC Appendix Q; B-45 after checklist ("100% complete"); FAIU 9 MetroTech Center Brooklyn · quick answer, AI check, process, permits, FAQ.
+- FDNY company cert FAQ · WebFetch · https://www.nyc.gov/assets/fdny/downloads/pdf/business/fire-alarm-company-cert-faq.pdf · S-97 principal (NICET Level 2+ or NYC master/special electrician); $105 application fee; certificate valid one year; servicing must stop if expired; "FDNY does not send renewal notices" · contractor section, permits, FAQ.
+- NYC Business fire alarm plan application · WebFetch · https://nyc-business.nyc.gov/nycbusiness/description/fire-alarm-application · $420 new; $525 complex technical analysis; no fee to resubmit within 6 months of Letter of Deficiency; any authorized agent can file; Project Authorization "FDNY approval to start the work…" requested online after plan approval · pricing §14, permits, FAQ, Q&A.
+- NYC BC 907.2 (occupancy triggers) and 75-ft high-rise threshold: reused as facts from "## NYC hubs"/Norwood sections, not re-fetched.
+
+### SERP / community
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG for "commercial fire alarm installation Parkchester Bronx": EMPTY (not accessible in build env). Question keywords from keywords/fire-alarm-installation.md used as the PAA stand-in; AI-check claims written as common generic answers (Angi/HomeAdvisor/Fixr named) and corrected with FDNY sources.
+- Yelp 1-3★ Bronx fire alarm companies: EMPTY (not accessible in build env).
+- Reddit r/bronx: EMPTY (no relevant threads returned).
+
+### Images used (11, cp'd from the generic set to page names; each viewed; storefront-conduit photo rejected because it shows a "451" street number)
+- fire-alarm-installation-ny-control-panel-touchscreen-tablet → …-parkchester-bronx-ny-panel-touchscreen-floor-plan-tablet (hero)
+- …-ny-panel-zone-map-review → …-panel-system-normal-zone-map (§5)
+- …-ny-pull-station-and-panel-two-techs → …-pull-station-two-tech-crew (building types)
+- …-ny-smoke-detector-and-panel-retail → …-smoke-detector-ladder-retail-panel (corridors)
+- …-ny-panel-wiring-drawings → …-panel-terminal-wiring-floor-plans (system types)
+- …-nyc-strobe-meter-test-mechanical-room → …-horn-strobe-meter-mechanical-room (devices)
+- …-ny-fire-alarm-cable-pull-steel-studs → …-cable-spool-steel-stud-rough-in (process)
+- …-ny-pull-station-terminal-wiring → …-pull-station-open-terminals-corridor (existing systems)
+- …-ny-kitchen-heat-detector → …-heat-detector-kitchen-hood-notifier (contractor)
+- …-ny-lobby-annunciator-check → …-annunciator-marble-lobby-floor-plan (integration)
+- …-new-york-power-supply-battery-meter → …-power-supply-battery-meter-check (new construction)
+- Old …-parkchester-bronx-ny-*.webp files left in place, unreferenced.
+
+### Checks (2026-11-16)
+- check_page --no-registration: only the 15 "live sibling … doesn't link back" lines; full run adds only the _redirects 200 rule (main-run wiring).
+- Keywords 364/376, no MISSING, no OTHER-AREA. Words 13,922. AI reality check 890 words, 7 H3 × 3 paragraphs. 14 Q&A H3 questions + 12 FAQ (schema matches).
+- Masked-geo similarity max 0.174 (Norwood); Olinville (built in same batch) 0.102.
+- Mobile 390px (playwright chromium): scrollWidth 390, 11/11 figure images loaded, full-page screenshot reviewed, no blank gaps (comparison table scrolls inside itself).
+- No $ amounts except FDNY/NYC Business government fees ($420, $525, $105) with sources.
+
+### Question register (this page)
+Q&A headings (§9):
+1. Parkchester's 171 buildings were drawn from three core types and five wing types. If two condominium buildings share the same floor plan, can one set of fire alarm drawings be filed for both of them?
+2. Parkchester South Condominium covers three quadrants and Parkchester North covers one. When a fire alarm project crosses from one association's building to the other's, who signs the paperwork?
+3. Parkchester Preservation Company affiliates hold about 6,000 apartments inside the two condominiums. Does a large unit owner have any say over the building fire alarm, or is that only the association's job?
+4. A store sits in the base of a residential building on Metropolitan Avenue. Whose fire alarm panel watches the store's detectors: the condominium's or the store's own?
+5. MetLife's central heating plant once fed steam to boiler rooms in 29 buildings. Why do boiler rooms in a steam-heated complex get heat detection instead of smoke detection?
+6. Parkchester's original garages are five-story structures at the edges of the complex. What does a fire alarm in a parking garage usually watch, and why is it designed differently from an apartment building's?
+7. Parkchester's 1999–2005 modernization upgraded electrical systems in all 12,271 apartments. When a building's electrical service is upgraded, does the fire alarm have to be refiled with the FDNY?
+8. The former Eberson movie theater in the shopping district is now a Marshalls. When a theater becomes a store, what changes in its fire alarm?
+9. After the April 2026 Leland Avenue fire, a neighbor told News 12 she never heard a smoke alarm. In a multifamily building, which alarms are the owner's job and which are the residents' to keep working?
+10. The December 2025 fire at 1940 East Tremont Avenue was on the seventh floor of an eight-story building. How does a building fire alarm help firefighters who arrive at a tall Parkchester building?
+11. Our building is near the Metropolitan Oval and had a fourth-floor apartment fire in 2024. After a fire, which building fire alarm devices should be checked even if they look undamaged?
+12. St. Raymond's parish runs an elementary school, a girls' academy and a boys' high school around its 1898 church. When a parish campus adds classrooms, does each school building need its own fire alarm?
+13. The Parkchester Library moved into its two-story brick building on Westchester Avenue in 1985. What fire alarm work can be done in a public library while it stays open?
+14. New six-story mixed-use buildings are being filed on East Tremont Avenue. At what point in a new building's design should the fire alarm designer be at the table?
+FAQ (§17):
+1. How many Parkchester buildings can one fire alarm service contract cover, and how should the records be split?
+2. Can a Parkchester condominium unit owner add or move a building fire alarm device during an apartment renovation?
+3. Who should a store manager on Metropolitan Avenue call when the store's horn strobe sounds but the building lobby is quiet?
+4. Do the terra cotta figures and plaques on Parkchester buildings limit where exterior fire alarm devices can go?
+5. What does the FDNY charge to file a fire alarm plan for a Parkchester building?
+6. Does a new mixed-use building near Parkchester need its fire alarm approved before residents and stores move in?
+7. How far ahead should a Parkchester board plan a panel replacement?
+8. Will residents of a Parkchester building hear anything during an annual fire alarm inspection?
+9. What should a Parkchester superintendent write down when a trouble signal appears at night?
+10. Can a contractor keep servicing a Parkchester building's existing panel if its FDNY company certificate has lapsed?
+11. Can a small store in Parkchester keep a conventional panel when the building above it has an addressable system?
+12. Who keeps the fire alarm records when a Parkchester building changes managing agent?
+Other headings ending in "?": none beyond the above.
