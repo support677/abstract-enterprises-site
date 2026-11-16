@@ -1979,6 +1979,8 @@ Add neighborhood spokes here when a silo's 16 area pages are LIVE, same line for
 
 ## Format
 
+- PRIORITY (Anwar, Nov 15 2026): hub, borough and county lines (TODO or REBUILD) are always taken before ANY neighborhood line, for every service. Neighborhood lines only in slow periods, except neighborhood pages an active paid ad campaign points to (build those right away). See DAILY-RUN.md "PAGE PRIORITY".
+
 - One line per page. STATUS is TODO or LIVE; the daily run edits only the STATUS word of the line it built.
 - Order (Anwar 2026-10-16): ALL hub pages first (NYC, Long Island, Hudson Valley hubs of every silo), then the area pages silo by silo (Soundbar > Smart Lock > Fiber Optic > Sonos > Cat6 Repair). Runs build three lines at a time; within a silo NYC hub, Manhattan, Brooklyn, Queens, Bronx, Staten Island, Long Island hub, Hudson Valley hub, Nassau, Suffolk, Westchester, Rockland, Orange, Putnam, Dutchess, Ulster.
 - Pages that already existed when the queue was built were left out: none (none of the five silos had any page on 2026-09-28).
