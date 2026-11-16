@@ -565,9 +565,9 @@ LIVE | fire-alarm-installation-ocean-hill-brooklyn-ny | Fire Alarm Installation 
 LIVE | fire-alarm-installation-olinville-bronx-ny | Fire Alarm Installation | Olinville, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-park-slope-brooklyn-ny | Fire Alarm Installation | Park Slope, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-parkchester-bronx-ny | Fire Alarm Installation | Parkchester, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-16T01:45Z | fire-alarm-installation-pelham-parkway-bronx-ny | Fire Alarm Installation | Pelham Parkway, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-16T01:45Z | fire-alarm-installation-port-morris-bronx-ny | Fire Alarm Installation | Port Morris, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-16T01:45Z | fire-alarm-installation-prospect-heights-brooklyn-ny | Fire Alarm Installation | Prospect Heights, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | fire-alarm-installation-pelham-parkway-bronx-ny | Fire Alarm Installation | Pelham Parkway, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-port-morris-bronx-ny | Fire Alarm Installation | Port Morris, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-prospect-heights-brooklyn-ny | Fire Alarm Installation | Prospect Heights, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-prospect-lefferts-gardens-brooklyn-ny | Fire Alarm Installation | Prospect Lefferts Gardens, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-prospect-park-south-brooklyn-ny | Fire Alarm Installation | Prospect Park South, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-ridgewood-brooklyn-ny | Fire Alarm Installation | Ridgewood, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn

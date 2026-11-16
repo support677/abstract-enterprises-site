@@ -3662,3 +3662,6 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-16 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-olinville-bronx-ny | QUEUED
 2026-11-16 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-park-slope-brooklyn-ny | QUEUED
 2026-11-16 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-parkchester-bronx-ny | QUEUED
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-pelham-parkway-bronx-ny | QUEUED
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-port-morris-bronx-ny | QUEUED
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-prospect-heights-brooklyn-ny | QUEUED

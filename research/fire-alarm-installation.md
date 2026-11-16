@@ -9373,3 +9373,308 @@ FAQ (§17):
 11. Can a small store in Parkchester keep a conventional panel when the building above it has an addressable system?
 12. Who keeps the fire alarm records when a Parkchester building changes managing agent?
 Other headings ending in "?": none beyond the above.
+
+## Pelham Parkway, Bronx — /fire-alarm-installation-pelham-parkway-bronx-ny (commercial rebuild research, 2026-11-16)
+
+NFPA 72 commercial only. Up-link /fire-alarm-installation-bronx-ny · phone (646) 490-0629 · GBP Bronx (460 E Fordham Rd, #bronx). Area phrase used: "commercial fire alarm contractor Bronx" only. Nothing from the old page text reused.
+
+**Unique angle:** "classification first" — on Pelham Parkway's blocks the same six-story height holds very different uses (six/seven-story elevator co-ops that converted from rentals in the 2000s, Lydig Ave / White Plains Rd stores under apartments incl. delis, dry cleaners, merged storefronts, Bronx House settlement house with Pre-K/after-school/pool/gym/senior NORC programs, the Pelham Parkway Jewish Center shared/merged by two congregations, and BRC's planned 9-story building of rooms with shared kitchens at the former Apple Bank site), so the page centers on the design professional settling occupancy classification per floor before devices are counted; plus cellar fires below apartments (1144 Pelham Pkwy S boiler room 2025; Lydig Ave cellar fire that reignited 2023) → device labeling by room and restoring the system after a fire.
+Avoided (siblings): Allerton (2910 Wallace Ave fire, 700 Adee Ave deli fire, Christopher Columbus campus, Allerton Ave merchants), Bronxwood (601 Pelham Pkwy N fire, Beth Abraham, FDNY CRA BX11 stats, defend-in-place), Morris Park (Jacobi/Einstein/Calvary hospital row, 626 Pelham Pkwy S, Morris Park BID shared test day), Parkchester (whose-system/condo split, boiler-room heat Q), Olinville (elevator recall deadlines), Laconia/Williamsbridge (E Gun Hill Rd strip fire), Highbridge/Kensington (which-entrance annunciator Qs), Longwood (SRO/change of use lead), Mapleton/Midwood (threshold / 75-ft lines). Jacobi/Einstein NOT used. Pelham Parkway Houses mentioned once as "just north of the parkway", NYCHA-maintained.
+
+Format: exact query · platform · URL · finding · page section used.
+
+### History / building stock / boundaries
+- "Pelham Parkway Bronx neighborhood history Art Deco apartment buildings Lydig Avenue" · WebSearch → WebFetch · https://wikiwand.com/en/Pelham_Parkway,_Bronx (mirror of en.wikipedia Pelham_Parkway,_Bronx) · boundaries Pelham Pkwy S (N), Dyre Ave tracks (E), Bronxdale Ave (S), Bronx Park East (W); CD11; ZIP 10461/10462; 2010 pop 30,073; parkway 400 ft wide, no building within 150 ft of center, NYW&B (Dyre Ave line) in tunnel beneath, bars/hotels prohibited; dominated by 6- and 7-story elevator apartment and co-op buildings; Art Deco/Tudor apartment houses + detached houses on side streets; six-story elevator type "under-recognized", area one of few cohesive examples; 2000s rehab, many buildings became co-ops; White Plains Rd/Lydig Ave restaurants, kosher and Italian butchers, bakeries; Bronx House moved 1950s (social services, English classes, free senior lunches, gym); Pelham Parkway-Van Nest Library 2147 Barnes Ave (current bldg 1968); Engine 90/Ladder 41 1843 White Plains Rd; 49th Pct 2121 Eastchester Rd; stations Pelham Parkway + Bronx Park East (2/5), Morris Park (5); largest Albanian concentration in NYC (not used); Christopher Columbus HS closed 2014 (not used) · hero, §5, at a glance, building types, landmarks, Q&A.
+- same · WebFetch · https://www.cityneighborhoods.nyc/pelham-parkway · Lydig Ave and Bronxdale Ave early commercial spines; White Plains Rd subway reached area 1917; developed 1910s–1930s as "parkway suburb"; north of parkway Art Deco, south lower-density toward Bronxdale; Pelham Parkway Jewish Center (1930s), P.S. 105 · §5, corridors, existing systems, landmarks. FLAG: City Neighborhoods puts Art Deco north of the parkway; Wikipedia puts the 6–7 story elevator stock in the neighborhood south of it — page attributes each claim to its source.
+- "Pelham Parkway NYC Parks history service roads malls" · WebSearch → WebFetch · https://prd2.nycgovparks.org/parks/X003/history · modeled on Eastern/Ocean Parkways; land condemned 1884; three lanes each way, two center plots, two marginal streets, bridle path; American elms up to 120 ft; ~2.5 mi (Wikipedia says 2.3 mi — page avoids length) · §5, landmarks.
+- "Pelham Parkway Bronx … 2081 Cruger" (openigloo result from reddit search) · WebFetch · https://www.openigloo.com/building/nyc/2048785-2042870001/bronx-pelham-parkway-2081-cruger-avenue-10462 · 6 floors, 85 units, built 1931 · building types, Q&A 2.
+- "Pelham Parkway Houses NYCHA 23 buildings" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Pelham_Parkway_Houses · 23 six-story buildings completed June 1950, Rogers & Butler, 22.3 acres, north of parkway · landmarks note only.
+
+### Institutions
+- "Pelham Parkway Jewish Center address history synagogue Bronx" · WebSearch → WebFetch · https://digital.bronxhistoricalsociety.org/msppjc · 900 Pelham Parkway; started 1930; acquired temple/building complex 1953; Soviet-immigrant revival 1980s–90s; 1993 lease dispute settlement with Rainbow School for Child Development; Young Israel of Pelham Parkway rented space from 2010 and merged → Young Israel of Pelham Parkway Jewish Center · §5, building types, Q&A, landmarks.
+- "Bronx House 990 Pelham Parkway South community center pool gym history" · WebSearch (address from propertyshark result titles "990 Pelham Pkwy S") → WebFetch · https://thedesignofart.blogspot.com/2024/04/bronx-house-community-center-in-the-bronx.html (secondary listing) · Pre-K For All, after-school, pool/aquatics, gym, fitness, Pelham Parkway NORC (60+), day camp · building types, Q&A. FLAG: secondary blog source; core facts (settlement house, senior lunches, English classes, gym) also in Wikipedia.
+- "Pelham Parkway-Van Nest Library 2147 Barnes Avenue" · WebSearch → WebFetch · https://live-legacy-admin.nypl.org/about/locations/pelham-parkway-van-nest · one story, glass-enclosed community room, current location 1968, renamed 2014 · landmarks.
+
+### Commercial corridors
+- "White Plains Road BID Pelham Parkway Lydig Avenue merchants stores" · WebSearch → WebFetch · https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-morrispark-vannest.pdf · data Sept 2020–June 2021: White Plains Rd 122 storefronts 6.56% vacancy; Lydig Ave 114 storefronts 4.4% vacancy, delis/bodegas 33, salons/barbers 16, restaurants 16, medical 10, professional 5; Lydig merchant top concern parking 88%; litter and poor lighting under the el · at a glance, building types, corridors. FLAG: fetch summary said Lydig pairing layout ambiguous — verify against PDF.
+- same · WebFetch · https://norwoodnews.org/business-beat-white-plains-road-bid-on-the-rise · Apr 2014: BID founded 1994 (formerly Pelham Parkway Merchants Association), "the borough's smallest BID", ~88 businesses, Pelham Pkwy S to Brady Ave; considering annexing Lydig strip (99-cent stores, fruit markets, Key Food, dry cleaners) · corridors.
+
+### Fires
+- "Lydig Avenue Bronx fire store apartments FDNY" · WebSearch → WebFetch · https://bronx.news12.com/fdny-reignited-flames-destroy-lydig-avenue-storefront · Oct 20–21 2023, Yummy Juice Bar, fire Friday night reignited Saturday, destroyed storefront; FDNY member: started in cellar; apartments above; no injuries · §5, at a glance, Q&A 4, AI check.
+- "Bronx apartment building fire Pelham Parkway …" · WebSearch → WebFetch · https://www.1strespondernews.com/news/072525115/fdny-battles-bronx-basement-blaze-in-6-story-apartment · July 22 2025, 1144 Pelham Pkwy S, six-story, basement boiler room, barred windows, tight access, smoke spread, out in under 30 min (street report, not newsroom-edited) · §5, at a glance, Q&A 3.
+- News 12 Bronx search for Holland/Cruger/Wallace fires 2025-26: nothing south of the parkway beyond the above (2910 Wallace is Allerton — not used).
+
+### New construction
+- "newyorkyimby Pelham Parkway Bronx permits filed mixed-use building" · WebSearch → WebFetch · https://www.bxtimes.com/?p=129279 · June 19 2025: 2184 Muliner Ave, 6 stories, 60 ft, 28 units, 19,372 sq ft, architect John Backos of GRID Drafting and Consulting, applicant AAA Durgaj Properties, demo permits Dec 2024 for 2-story structure · at a glance, Q&A, new construction. YIMBY .html URL: EMPTY (client error).
+- (from Bronxwood "not used" lead) WebFetch · https://westchester.news12.com/2026/04/10/pelham-parkway-residents-rally-at-city-hall-against-proposed-supportive-housing/5pmirlptcyNxQoDnt8cX02 · BRC, former Apple Bank site on Pelham Pkwy S, 9 stories, 100+ units mostly formerly homeless, rooms w/ private bathrooms + shared kitchens/laundry, on-site services, as-of-right, opening 2029; BP Vanessa Gibson quote "I am not funding this project, and I will work with BRC as I work with anyone." · §5, building types, Q&A, new construction (quote), FAQ.
+
+### Regulatory (re-fetched this run)
+- FDNY tips PDF · WebFetch · https://www.nyc.gov/assets/fdny/downloads/pdf/business/tips-fire-alarm-systems.pdf · PE/RA certifies plans & completes TM-1; floor numbers/job description match C of O/Schedule A; initial review up to 8 weeks; ~20–24 weeks to approval; NFPA 72 as modified by BC Appendix Q; Letter of Approval of base system for additions; central station active + TB-60/A-433 before inspection; B-45, 100% complete, permanent power; FAIU 9 MetroTech Tue/Thu · quick answer, AI check, process, permits, Q&A.
+- FDNY company cert FAQ · WebFetch · https://www.nyc.gov/assets/fdny/downloads/pdf/business/fire-alarm-company-cert-faq.pdf · S-97 principal (NICET II+ or NYC master/special electrician), need not be owner; $105; company 1 yr, S-97/S-98 3 yrs; no renewal notices; lapse → stop servicing · contractor section, AI check, FAQ.
+- NYC Business · WebFetch · https://nyc-business.nyc.gov/nycbusiness/description/fire-alarm-application · $420 new; $525 complex technical analysis; no fee to resubmit within 6 months of Letter of Deficiency; Project Authorization "FDNY approval to start the work specified in the approved application" (page header also shows $585 — withdrawal fee in list; page uses $420/$525 only) · pricing, FAQ.
+- BC 907.2.9 R-2 ("without alarm notification appliances", >16 units / 3+ stories above exit discharge) and NY Engineers occupancy summary: reused from earlier lines in this file (amlegal + ny-engineers URLs), not re-fetched · §5, building types, AI check.
+
+### SERP / community
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG: EMPTY (not accessible in build env); keyword-list questions used as PAA stand-in; AI-check claims written as common generic answers (Angi/HomeAdvisor/Fixr named) and corrected with FDNY sources.
+- Reddit r/bronx Pelham Parkway fire alarm / co-op threads: EMPTY (search returned news and building-listing pages only).
+- Yelp 1-3★: EMPTY (not accessible).
+
+### Images used (11, cp'd from the generic set to new page names; each viewed; no street numbers/plates/readable documents; no camera/network photos)
+- nyc-lobby-annunciator-check → fire-alarm-installation-pelham-parkway-bronx-ny-annunciator-touchscreen-marble-lobby (hero)
+- nyc-panel-check-sprinkler-riser → …-sprinkler-riser-panel-tablet-review (§5)
+- nyc-pull-station-lobby-check → …-pull-station-glass-entry-check (building types)
+- nyc-smoke-detector-and-panel-retail → …-storefront-corridor-smoke-detector-panel (corridors)
+- nyc-control-panel-meter-test-drawings → …-honeywell-panel-meter-binder (system types)
+- new-york-horn-strobe-corridor-block-wall → …-corridor-horn-strobe-drill-install (devices)
+- ny-fire-alarm-cable-pull-steel-studs → …-red-cable-spool-steel-stud-framing (process)
+- ny-pull-station-terminal-wiring → …-pull-station-terminal-screwdriver (existing systems)
+- ny-kitchen-heat-detector → …-restaurant-kitchen-heat-detector-hood (contractor)
+- new-york-power-supply-battery-meter → …-nac-power-supply-meter-test (integration)
+- new-york-ceiling-horn-strobe-basement → …-cellar-horn-strobe-sprinkler-pipes (new construction)
+- Rejected/not used: *-pull-station-storefront-conduit (readable "451"), *-smoke-detector-office-lift (not needed). Old …-pelham-parkway-bronx-ny-*.webp files (11) left in place, unreferenced.
+
+### Checks (2026-11-16)
+- check_page --no-registration: only the 15 "live sibling … doesn't link back" lines; full run adds only the _redirects 200 rule (main-run wiring).
+- Words 13,929. Title 47 chars, meta 160. AI reality check 896 words, 7 H3 × 3 paragraphs. Field Notes 226 words. 14 Q&A + 12 FAQ (schema matches).
+- Keywords 364/376, no MISSING, no OTHER-AREA.
+- Masked-geo similarity max 0.138.
+- Mobile 390px: scrollWidth 390, 11/11 figures loaded; screenshot reviewed in crops, no blank gaps (comparison table scrolls inside itself, as on exemplar).
+- No AESS; no $ except $420/$525/$105 government fees with sources; no camera/CCTV words; LI/HV/county names only in shared nav/silo footer (one source URL host westchester.news12.com).
+
+### Question register (this page)
+Q&A headings (§9):
+1. Many Pelham Parkway rental buildings became co-ops when the neighborhood revived in the 2000s. Does converting a rental building to a co-op change which fire alarm the building is required to have?
+2. Our 1931 six-story building on Cruger Avenue has smoke detectors only in the elevator machine room and the top-floor landing. Is a setup like that a fire alarm system in the code's sense?
+3. The July 2025 fire at 1144 Pelham Parkway South started in the basement boiler room, and firefighters had to work past barred windows and tight access. What can the fire alarm in a cellar tell firefighters before they open the cellar door?
+4. In October 2023 a juice bar fire on Lydig Avenue started in the cellar, was put out, and reignited hours later. Can a building fire alarm do anything about a fire that comes back after the trucks leave?
+5. A dry cleaner on Lydig Avenue runs steam presses and a solvent machine in a store under apartments. What does the fire alarm design have to account for in a space like that?
+6. A Lydig Avenue store owner is taking over the empty store next door and opening the wall between them. Does joining two storefronts into one store change the fire alarm?
+7. Bronx House at 990 Pelham Parkway South brings in older adults for lunch and English classes, many of whom don't know the building. What helps a first-time visitor get out when the fire alarm sounds?
+8. Young Israel of Pelham Parkway merged into the Pelham Parkway Jewish Center at 900 Pelham Parkway. When two organizations combine into one building, whose name should be on the fire alarm records and the central station account?
+9. BRC's planned nine-story building at the former Apple Bank site on Pelham Parkway South was described as "as of right." Does an as-of-right project skip review of its fire alarm too?
+10. The same building is planned as individual rooms with private bathrooms and shared kitchens and laundry. Is a building of rooms around shared kitchens treated like an ordinary apartment house for the fire alarm?
+11. 2184 Muliner Avenue was filed as a six-story, 28-unit building with drafting by a consulting firm. On a small job like that, who has to prepare and seal the fire alarm plans?
+12. A new six-story building replaces a two-story store on a Pelham Parkway side street. Does the fire alarm have to be finished before the developer can rent the ground-floor store?
+13. The FDNY puts submission to approval at roughly 20 to 24 weeks. For a small developer building one six-story building near Pelham Parkway, what should happen in those months besides waiting?
+14. Pelham Parkway's co-op boards often learn about the fire alarm only when a bill or a violation arrives. What is one document every board should be able to find in five minutes?
+FAQ (§17):
+1. Is a fire alarm upgrade in a Pelham Parkway co-op paid from maintenance, or can it be charged only to the floors that get new devices?
+2. Which government fees come with a fire alarm filing for a building on Pelham Parkway South, and who pays them?
+3. Can a Lydig Avenue store stay open while fire alarm devices are installed in its ceiling?
+4. How soon after the FDNY approves the plans can work start in a Pelham Parkway building?
+5. If our panel is disconnected so a new one can be installed, what keeps the building protected overnight?
+6. Can a store on White Plains Road and the apartments above share one central station account?
+7. What should be written inside the door of a Pelham Parkway building's fire alarm panel?
+8. How can a Pelham Parkway board confirm that the S-97 holder named in a proposal really belongs to the bidding company?
+9. Does a building facing the parkway need an outside bell or strobe for the fire department?
+10. Can the FDNY acceptance test for a store and the apartments above it be done in one visit?
+11. After the BRC building opens, can neighbors on Pelham Parkway South find out whether its fire alarm was approved?
+12. When is the deposit due on a fire alarm job in a Pelham Parkway building, and what does it cover?
+Other headings ending in "?": the H2 "Need Fire Alarm Repair in Pelham Parkway? Tell Us What the Building Is Used For" only.
+
+## Port Morris, Bronx — /fire-alarm-installation-port-morris-bronx-ny (commercial rebuild research, 2026-11-16)
+
+NFPA 72 commercial only. Up-link /fire-alarm-installation-bronx-ny · phone (646) 490-0629 · GBP Bronx (460 E Fordham Rd, #bronx). Area phrase used: "commercial fire alarm contractor Bronx" only. Nothing from the old page text reused (incl. interim "Commercial Fire Alarm Services in [Area]" block and process placeholder).
+
+**Unique angle:** the fire alarm as the watchman for sprinklers and building machinery in Port Morris's logistics and industrial stock — ESFR high-bay last-mile warehouses (307 Bruckner Blvd: 46,000 sf high bay over 46,000 sf covered fleet parking, 36 ft clear, 4,000 A; 295 Locust Ave 50 ft clear ESFR), what the alarm still does when sprinklers are designed to suppress (waterflow per level, valve/tamper, pump, generator, roof vents not opened early, conveyor openings, rolling fire doors), FreshDirect's conveyor/robotic campus at Harlem River Yards, the proposed Prologis last-mile warehouse on the former NY Post plant (demolition sequencing), plus the old piano-factory stock built in additions (Estey 1885-86 + 1890/1895/1909/1919), the seven-story Union Crossing factory re-let to mixed tenants, recycling/industrial fires (Parallel Products 2019, E 136th St July 2024), and new rentals on the MX-1 blocks (The Arches, 101 Bruckner).
+Avoided (siblings): Longwood (change of use/second-life buildings, high-rise line), Hunts Point (Food Distribution Center, freezers, high-piled storage permit, outdoor pallet piles, market rebuild), Bronx hub (Port Morris storage→offices question; sprinkler-monitoring-as-fire-alarm question), East Williamsburg/Bushwick (warehouse→venue assembly, Loft Board, soundstage voice evac, brewery heat detectors), Highbridge (steep-lot entrance/annunciator), Queens/Long Island/Hudson Valley/Suffolk (high ceiling spot/beam detectors, forklift charging, testing under high roofs), Kingsbridge (racked aisle strobes), Gravesend (loading dock exhaust), Clason Point (truck hits exterior device), Fulton Ferry (old gong, artwork detectors), all LPC-permit questions (page mentions landmark status only as background). Mott Haven, Melrose, Bruckner sibling pages are interim templates (no unique angle). Bankside towers (YIMBY/6sqft place them in Mott Haven) NOT used.
+
+Format: exact query · platform · URL · finding · page section used.
+
+### Logistics / warehouses
+- "307 Bruckner Boulevard Port Morris logistics ESFR 2026" · WebSearch → WebFetch · https://newyorkyimby.com/2026/08/construction-nears-completion-on-307-bruckner-boulevard-in-port-morris-the-bronx.html · Sterling Organization; AO Architects; two-story last-mile logistics, 59 ft, ~100,000 sf; ground ~46,000 sf covered fleet parking + storage; 46,000 sf high-bay, 36 ft clear; 8,200 sf mezzanine; 4 docks + 2 drive-in doors; ESFR; 4,000 A; opening Q3 2026; Cypress Ave 6 station two blocks south · §5, at a glance, building types, Q&A 1/2/5, AI check, new construction.
+- same · WebFetch · https://www.bxtimes.com/construction-logistics-facility-port-morris/ · Bronx Times, Ethan Marshall, Aug 12 2026; same specs + LED lighting, high-speed freight elevator; quote "The facility is on track to open sometime in the third quarter of 2026."; E 143rd St–St. Mary's St and Cypress Ave 6 stations; Bx17/Bx33 · §5 (quote), corridors.
+- same search · WebFetch · https://nyrej.com/property-of-the-month-simone-development-brings-90-000-s-f-distribution-facility-to-bronx-market-295-locust-avenue-in-port-morris-section-offers-50-ft-ceilings-8-interior-loading-docks · 295 Locust Ave: 90,000 sf (70,000 ground + 20,000 mezzanine), 50 ft clear, 8 interior docks, fully sprinklered ESFR, built 2002, former Murray Feiss lighting distributor, Simone Development, posted Apr 11 2011 · building types, corridors, landmarks.
+- Wikipedia (below): Silvercup North = 115,000 sf warehouse at 295 Locust Ave converted to film/TV production, opened mid-2016 · corridors, landmarks (sq ft differs from NYREJ: page attributes each figure to its source).
+- "Harlem River Yards FreshDirect Bronx facility" · WebSearch → WebFetch · https://www.bxtimes.com/freshdirect-opens-bronx-facility/ · ribbon cutting July 2018; 2 St. Ann's Ave at Harlem River Yards; robotic pick towers, smart routing, nine miles of conveyor belts; BP Diaz 1,500 Bronx residents employed; South Bronx Unite: ~1,000 diesel truck trips daily · §5, building types, Q&A 4, corridors.
+- (search result, not fetched) https://www.bxtimes.com places FreshDirect "in Mott Haven"; Streetsblog places Harlem River Yards next to the Post plant in Port Morris · page says "at Harlem River Yards" without assigning neighborhood boundary.
+- WebFetch · https://nyc.streetsblog.org/2026/11/03/bronxites-dont-sacrifice-our-waterfront-access-for-yet-another-last-mile-warehouse · Nov 3 2026: Prologis VP told South Bronx Unite (Oct 6) it planned to demolish the former NY Post printing plant (across from Randalls Island, next to Harlem River Yards) for a last-mile warehouse; Prologis: "not currently under contract to buy"; NYS DOT owns part of HRY, leased to Galesi affiliate; quote David Rosales: "There's this feedback loop of 'Oh well, there's warehouses here, so it's a great place to put another warehouse'" · §5 (quote), Q&A 11, AI check.
+- Wikipedia: New York Post printing plant operated 2001–2021 · Q&A 11.
+
+### History / building stock / zoning
+- "Port Morris Bronx" · WebFetch · https://en.wikipedia.org/wiki/Port_Morris,_Bronx · boundaries (Major Deegan/Bruckner Expwy N, E 149th St E, East River SE, Bronx Kill S, Harlem River W); ZIPs 10451/10454; 40th Precinct; Gouverneur Morris Jr. port 1842; piano factories; R. Hoe Co., Cutler & Hammer; 1970s arson; 1997 MX-1 (first), 2005 expansion, Dec 2017 Special Harlem River Waterfront District; eastern half still IBZ; Estey "Clock Tower" w/ Charlie's Bar & Kitchen; Silvercup North 295 Locust; Bronx Grit Chamber 1937 McKim Mead & White, E 132nd St/St. Ann's; Union Crossing 235,584 sf at 825 E 141st bought 2016, renovated 2019; Per Scholas 804 E 138th; NY Post plant 2001–2021; Oak Point Yard; The Arches 224-228 E 135th first market-rate high-rise rental (2020); 101 Bruckner 55 units; 6 train Cypress Ave & E 143rd–St. Mary's; Bx17, Bx33, M125; Hell Gate Bridge northern approach 1917 · §5, at a glance, corridors, landmarks.
+- "Port Morris DCP rezoning" · WebFetch · https://www.nyc.gov/assets/planning/download/pdf/plans/port-morris/port_morris.pdf · MX district 5 blocks along Bruckner, expansion 11 blocks (Park Ave–Willow Ave, E 134th–Harlem River); "Antique Row"; 2–3-story row houses E 133rd/134th near Willow; large brick/concrete industrial bldgs 1–6 stories; 3–5-story multifamily on Bruckner with ground-floor shops; industrial uses 38 of 129 lots (29%); Harlem River train yards built 1906; CPC approval Jan 31 2005, Council Mar 9 2005; M1-2/R6A, residential max 70 ft · §5, building types, corridors.
+- LPC · WebFetch · https://s-media.nyc.gov/agencies/lpc/lp/2195.pdf · Estey Piano Company Factory LP-2195: east side of Lincoln Ave between Bruckner Blvd and E 134th; 1885–86 A.B. Ogden & Son; 1890 east addition John B. Snook & Sons; 1895 Lincoln Ave additions Hewlett S. Baker; 1909 raised (S. Gifford Slocum); 1919 two-story addition George F. Hogue; corner clock tower, four faces; 2006 use artists' live-in studios (Carnegie Management); Block 2309 Lot 1 in part · building types, Q&A 6, FAQ 10, landmarks.
+- "Estey Piano Company Factory landmark" · WebFetch · https://www.citylandnyc.org/bronx-piano-factory-and-si-cottage-landmarked/ · designated 2006, report May 16 2006; "the oldest piano factory in New York"; 112 Lincoln Ave · landmarks, Q&A 6.
+- Old factory section (2026-10-30) items re-used only where re-verified above; Real Deal (Clock Tower 90-unit rental, 2002) and DNAinfo 25 Bruckner NOT re-verified → not used.
+- Proposed Bruckner Blvd historic district 39-69 Bruckner (Village Preservation PDF from old section) · NOT re-fetched → Q&A 13 rephrased as general "if a block is designated later" without claiming a proposal. (Page text does not cite it.)
+
+### Mixed-use / new residential
+- "Union Crossing 825 East 141st Street" · WebFetch · https://commercialobserver.com/2019/09/under-construction-union-crossing-in-the-south-bronx/ · ~300,000 sf, seven stories; built for Atlantic & Pacific Tea Co.; Union Standard Equipment (cotton candy machines); $45M renovation, new windows, ground-floor retail, mechanical, elevators, lobby, HVAC; floor heights 20–25 ft; multiple entrances on steep block; prospective tenants incl. tea company, caterer, nonprofits, city agencies, tech, trade schools, event companies, photographers, climbing gym (basement) · building types, Q&A 7, FAQ 8.
+- same · WebFetch · https://commercialobserver.com/2019/11/union-crossing-in-the-south-bronx-signs-affordable-housing-org-westhab · Westhab first tenant, 8,233 sf ground floor, 10-yr lease, Nov 4 2019 · Q&A 7.
+- WebFetch · https://rebusinessonline.com/chess-builders-begins-leasing-25-story-apartment-tower-in-the-bronx/ · The Arches, 224-228 E 135th St, 25 stories, 430 apts, smart-home technology, in-unit laundry, screening room, coffee bar, workspace, children's room, rooftop; Chess Builders; Aug 19 2020 · building types, Q&A 12.
+- WebFetch · https://newyorkyimby.com/2021/03/housing-lottery-launches-for-101-bruckner-boulevard-in-port-morris-the-bronx.html · seven stories, 55 units, 46,237 sf, S. Wieder Architect; gym, music room, co-work, bike lockers, rooftop, parking for eight · building types, new construction.
+
+### Fires
+- "Port Morris Bronx fire 2026 warehouse" · WebSearch → WebFetch · https://bronx.news12.com/2024/07/02/fdny-4-firefighters-hospitalized-after-massive-fire-in-port-morris/56RGslJWGXj4BGxmSnLBb7 · Mon July 1 2024, commercial building on E 136th St between Willow and Walnut Aves; at least three firefighters hospitalized (headline says 4); roof partially collapsed; nearby residents evacuated because of smoke; cause under investigation · at a glance, Q&A 10, AI check. FLAG: headline 4 vs body "at least three" → page says "firefighters were hospitalized".
+- same · WebFetch · https://bronx.news12.com/fdny-3-alarm-fire-at-commercial-building-in-port-morris-no-injuries · same night: three alarms, 30+ units, "the cause of the fire is unknown" · Q&A 10.
+- WebFetch · https://www.bxtimes.com/3-alarm-fire-in-a-port-morris-recycling-warehouse-injures-5/ · June 27 2019 just after midnight, Parallel Products, 900 E 136th St, aluminum/plastic/glass recycling; 138 FDNY members, 33 units; 5 firefighters minor injuries; 3 employees evacuated; began in ceiling; faulty electrical panel; under control 4:07 a.m.; "regroup and call for backup" · at a glance, Q&A 8, field notes, AI check.
+- Citizen app items (old section) NOT used (years not shown).
+
+### Businesses
+- WebFetch · https://www.brewbound.com/news/gun-hill-opens-new-tavern-historic-port-morris-bronx · Gun Hill Tavern 780 E 133rd St, opened Nov 4 2016, on-site still, horseshoe bar, 20 draft lines · corridors, Q&A 9.
+- Bronx Brewery taproom closing (prismnews) · EMPTY (robots_disallowed) → not used.
+
+### Regulatory (re-fetched this run)
+- FDNY tips PDF · WebFetch · https://www.nyc.gov/assets/fdny/downloads/pdf/business/tips-fire-alarm-systems.pdf · PE/RA prepares/certifies plans; TM-1; initial review up to 8 weeks; ~20–24 weeks to final approval; NFPA 72 as modified by BC Appendix Q; B-45; FAIU 9 MetroTech Center Brooklyn, Tue/Thu 9–12; sprinkler system operational before scheduling, licensed plumber or knowledgeable staff to flow water for waterflow testing, elevators recall on waterflow; central station connection active, monitoring agreement + TB-60 recommended · quick answer, AI check, process, Q&A 1, permits.
+- FDNY company cert FAQ (S-97, NICET II or master/special electrician, $105, 1-year, stop servicing if expired, no renewal notices) and NYC Business plan application ($420, $525, no fee resubmit within 6 months, Project Authorization) · reused from the Parkchester section of the same day (fetched 2026-11-16), not re-fetched · pricing, permits, contractor.
+
+### SERP / community
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG for "commercial fire alarm installation Port Morris Bronx": EMPTY (not accessible in build env). Question keywords from keywords/fire-alarm-installation.md used as PAA stand-in; AI-check claims written as common generic answers (Angi/HomeAdvisor/Fixr named) and corrected with FDNY sources.
+- "reddit Port Morris Bronx living fire alarm building" · WebSearch · no Port Morris threads returned → Reddit EMPTY.
+- Yelp 1-3★ Bronx fire alarm companies: EMPTY (not accessible in build env).
+
+### Images used (11, copied from the generic set to new page names; each viewed)
+- fire-alarm-installation-nyc-warehouse-smoke-detector-lift → fire-alarm-installation-port-morris-bronx-ny-high-bay-smoke-detector-scissor-lift (hero)
+- …-nyc-panel-check-sprinkler-riser → …-sprinkler-room-panel-system-normal-tablet (§5)
+- …-new-york-ceiling-horn-strobe-basement → …-parking-level-ceiling-horn-strobe (building types)
+- …-nyc-horn-strobe-corridor-block-wall → …-loft-corridor-horn-strobe-drill (corridors)
+- …-nyc-panel-wiring-drawings → …-open-panel-screwdriver-tablet-plans (system types)
+- …-nyc-strobe-meter-test-mechanical-room → …-flashing-strobe-meter-valve-room (devices)
+- …-ny-fire-alarm-cable-pull-steel-studs → …-red-cable-spool-steel-stud-framing (process)
+- …-nyc-control-panel-meter-test-drawings → …-notifier-panel-multimeter-binder (existing systems)
+- …-ny-pull-station-and-panel-two-techs → …-pull-station-keypad-panel-two-crew (contractor)
+- …-nyc-smoke-detector-office-lift → …-mezzanine-office-detector-blue-lift (integration)
+- …-new-york-power-supply-battery-meter → …-power-supply-cabinet-meter-probe (new construction)
+- Rejected: …-pull-station-storefront-conduit (shows a "451" street number). Old …-port-morris-bronx-*.webp files left in place, unreferenced.
+
+### Checks (2026-11-16)
+- check_page --no-registration and full run: FAIL (15) = only the 15 "live sibling … doesn't link back" lines (hubs/boroughs/counties; main-run wiring). No _redirects line in the full run. Words 13,870; title 44; meta 160; 11 figures; 6 JSON-LD blocks; 12 FAQ = 12 schema.
+- Keywords 364/376 (fa_kw), no MISSING, no OTHER-AREA; own area phrase "commercial fire alarm contractor Bronx" once (contractor section).
+- AI reality check 957 words, 7 H3 × 3 paragraphs. Field Notes 209 words. 14 Q&A H3 + 12 FAQ.
+- Masked-geo similarity max 0.148 (Parkchester); Norwood 0.115; Pelham Parkway (same batch) 0.104.
+- Mobile 390px (playwright chromium): scrollWidth 390, 11/11 figure images loaded; screenshot crops reviewed, no layout breaks (comparison table scrolls inside itself). Q&A section split into one reveal block per question after finding the single tall .rv block never crossed the 12% IntersectionObserver threshold at 390px (would have rendered blank); re-check: every .rv gets .vis after scrolling.
+- No "AESS"; only $ = $420/$525/$105 government fees (sourced); a "$45 million" renovation figure was removed. No camera/CCTV words; no Long Island/Hudson Valley/county names in body outside shared nav/footer.
+
+### Question register (this page)
+Q&A headings (§9):
+1. The high-bay floor at 307 Bruckner Boulevard is protected by ESFR sprinklers. When the sprinklers are designed to put a storage fire down rather than just hold it, what is left for the fire alarm to do?
+2. That building also puts about 46,000 square feet of covered fleet parking under the warehouse floor. How does one fire alarm keep the parking level and the storage level apart, so firefighters know which one is burning?
+3. Our new high-bay building has roof hatches that older drawings call smoke vents. Should the fire alarm open them automatically when ESFR sprinklers protect the floor?
+4. FreshDirect's building at the Harlem River Yards runs on robotic pick towers and nine miles of conveyors. When a conveyor passes through a fire-rated wall, what does the fire alarm have to do about the opening?
+5. A new Port Morris warehouse is being marketed with 4,000 amps of power. Does the building's emergency generator report to the fire alarm, and what does the alarm do when the utility power fails?
+6. The Estey Piano Factory was built in 1885–86 and added to in 1890, 1895, 1909 and 1919 by different builders. Why does a fire alarm survey treat each addition of an old factory as its own piece?
+7. Union Crossing's owners marketed its seven floors to tech firms, trade schools, event companies, nonprofits and a climbing gym. When uses that different share one building, does each new tenant change the whole building's fire alarm sequence?
+8. The 2019 fire at the Parallel Products recycling plant on East 136th Street began in a ceiling and was blamed on a faulty electrical panel. In a recycling plant full of bales and dust, where does detection go so it sees a ceiling fire early?
+9. Gun Hill Tavern on East 133rd Street opened with a still on site. Does a working still change how the fire alarm treats that room?
+10. The July 2024 fire on East 136th Street sent smoke into a nearby residential building and forced residents out. Can smoke from a burning warehouse next door set off our building's duct detectors, and is that a false alarm?
+11. Streetsblog reports that Prologis looked at demolishing the former New York Post printing plant for a last-mile warehouse. If an old industrial building is going to be torn down, how long should its fire alarm stay in service?
+12. The Arches on East 135th Street was marketed with smart-home technology in the apartments. Can an apartment's smart-home system be connected to the building fire alarm?
+13. Our block of Bruckner Boulevard storefront buildings could be designated by the Landmarks Preservation Commission someday. If the fire alarm was approved before designation, does it have to be approved again?
+14. Per Scholas trains technicians at its main branch on East 138th Street. Can students in a training program help install or service a live building fire alarm?
+FAQ (§17):
+1. Can a developer file a Port Morris warehouse's fire alarm before the operator's racking plan is final?
+2. Do the rolling steel doors in a warehouse's fire walls have to close when the fire alarm activates?
+3. Does the mezzanine office in a last-mile warehouse need its own horns and strobes, or do the ones on the warehouse floor cover it?
+4. Can fire alarm cable or detectors be hung close to ESFR sprinkler heads?
+5. Does an automated picking area with no people in it still need horns and strobes?
+6. An antique dealer on Bruckner Boulevard keeps furniture stock in the cellar under apartments. Does that cellar need detection on the building's system?
+7. How does a Port Morris warehouse keep its fire alarm working while the operator re-racks the floor?
+8. A climbing gym wants space in the basement of a converted factory. Where do the strobes go when climbers face a wall?
+9. Can an old freight elevator shaft in a Port Morris factory be used as a riser for fire alarm cable?
+10. Do artists' live-in studios in an old piano factory count as apartments for the fire alarm?
+11. A delivery operator wants to cut a new loading door into an outside wall. Does that touch the fire alarm?
+12. Can a restaurant inside a sprinklered Port Morris warehouse skip the kitchen hood suppression system?
+Other headings ending in "?": none beyond the above
+
+## Prospect Heights, Brooklyn — /fire-alarm-installation-prospect-heights-brooklyn-ny (commercial rebuild research, 2026-11-16)
+
+NFPA 72 commercial only. Up-link /fire-alarm-installation-brooklyn-ny · phone (347) 934-8335 · GBP Brooklyn (1282 Troy Ave, #brooklyn). Area phrase used: "fire alarm installation Brooklyn" only. Nothing from the old page text reused.
+
+**Unique angle:** "Never closed, never finished" — Prospect Heights' big fire alarm jobs are done in PHASES inside buildings that stay open (Central Library: phase two Sept 2024–2027, BPL says open throughout; Brooklyn Museum renovating gallery by gallery; Co-Cathedral campus) or beside construction that never stops (Pacific Park: 9 of 15 buildings by Dec 2023, June 2026 Phase II plan of 7 towers incl. platforms over the rail yard; Brooklyn Crossing leasing Jan 2022 while finishing; Newswalk printing-plant conversion sold in phases; new 16-story 563 Washington Ave). Page centers on the line between protected space and work zone: old/new panel changeover chart, filing per phase vs together, trade coordination to avoid false evacuations (2019 Central Library evacuation tied to sprinkler work), notice before system tests (2021 Pacific Park test), floor-numbering and I/O matrix defects on towers. Field notes = the changeover chart + end-of-day walk.
+
+**Avoided (siblings):** Park Slope (person on shift/rotating staff) — no duty-map content; Crown Heights (770/yeshiva/Medgar Evers/BBG-adjacent rezoning) — Brooklyn Botanic Garden NOT used (Wikipedia gives its address as Crown Heights); Fort Greene (audiences/BAM/haze/venues) — Barclays Center mentioned only as a boundary/landmark, no venue/show content; Clinton Hill (academic calendar/Pratt); Boerum Hill (landmarked storefronts) — LPC kept to one compliance bullet; Downtown Brooklyn (fire command centers/towers) — FCC mentioned only in passing for high-rise rule. Mount Hope "rebuilt from inside" differs (nonprofit occupied rehab) — no overlap in questions.
+
+Format: exact query · platform · URL · finding · page section used.
+
+### Boundaries / building stock
+- "Prospect Heights Brooklyn neighborhood boundaries history Wikipedia" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Prospect_Heights,_Brooklyn · Flatbush Ave W, Atlantic Ave N, Eastern Pkwy/Grand Army Plaza S, Washington Ave E; CD8; ZIP 11217/11238; 2010 pop 19,849 (237.30 acres, 1889 Eagle letter — cut in trim); brownstones + apartment buildings on Lincoln Pl/St. Johns Pl; HD NR 1983, LPC June 23 2009, Council Sept 17 2009; Vanderbilt/Washington commercial zone since 2000; Barclays Center 2012 in Pacific Park; Co-Cathedral; schools PS 9, IS 340, Pacific Park Campus; 2/3 Bergen St, Grand Army Plaza, Brooklyn Museum, B/Q 7th Ave; Engine 219/Ladder 105, 494 Dean St; One Grand Army Plaza Meier 2008 (not used) · §5, table, corridors, landmarks.
+- "Prospect Heights Historic District Landmarks Preservation Commission 2009 850 buildings" · WebSearch → WebFetch · https://hdc.org/buildings/prospect-heights-historic-district/ · designated June 23 2009, ~850 buildings, 1850s–early 20th c., Italianate/Neo-Grec/Romanesque & Renaissance Revival; row houses + apartment buildings · §5, table.
+
+### Institutions (core of angle)
+- "Brooklyn Museum" · WebFetch · https://en.wikipedia.org/wiki/Brooklyn_Museum · 200 Eastern Pkwy; McKim Mead & White; opened Oct 2 1897, built in stages to 1927; 560,000 sq ft; ~500,000 objects; libraries/archives ~300,000 vols + 3,200 ft archives; 2004 entrance, Great Hall 2011, Asian galleries 12-yr renovation done 2022, African galleries 6,400 sq ft 3rd floor planned 2026 · §5, building types, Q&A 10, landmarks. Note: museum sits on the south side of Eastern Pkwy; Wikipedia Prospect Heights lists it among the neighborhood's landmarks; page says "along Eastern Parkway".
+- "Central Library" · WebFetch · https://en.wikipedia.org/wiki/Central_Library_(Brooklyn_Public_Library) · opened Feb 1 1941 (dedicated Mar 29 1941) as Ingersoll Memorial Library; Githens & Keally; >350,000 sq ft; ~1M visitors/yr; >1.7M items; phase one completed May 2021 · §5, building types, landmarks.
+- "Brooklyn Central Library renovation phase two 2024 2027 building stays open Grand Army Plaza" · WebSearch → WebFetch · https://bklynlibrary.org/media/press/phase-two-brooklyn-public · Sept 5 2024; Teen Center, Adult Learning Center, Children's Center, Trustees Rooms, facades, roof; open throughout all phases; completion 2027; Toshiko Mori; full mechanical/plumbing/electrical upgrades in renovated areas; Johnson quote (cut in trim) · §5, building types, AI check H3 1.
+- "reddit Prospect Heights building fire alarm going off Pacific Park tower" · WebSearch → WebFetch · https://patch.com/new-york/prospectheights/brooklyn-public-library-evacuated-monday-fdny-says · Mar 25 2019 Central Library evacuated, false alarm, spokeswoman tied it to sprinkler work; patron post "evacuating just now for unknown reason. Not first time in this year" · AI check H3 2, Q&A 1.
+- "Co-Cathedral of St. Joseph Pacific Street Prospect Heights restoration 2013 reopened" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Co-Cathedral_of_St._Joseph_(Brooklyn) · 856 Pacific St (Vanderbilt–Underhill); 1912 Spanish Colonial; 1,500 seats; co-cathedral Feb 14 2013; rectory 834 Pacific c.1860; former school 683 Dean c.1920 now senior center · building types, Q&A 8, landmarks.
+
+### Pacific Park / towers / conversions
+- "Pacific Park Brooklyn towers completed 2025 2026 Site B platform Atlantic Yards Prospect Heights" · WebSearch → WebFetch · https://www.6sqft.com/pacific-park-brooklyn-plan-unveiled-finish/ · June 29 2026 plan (ESD, Cirrus, LCOR, Greenland); 7 towers on 6 sites; 5,600 units; platforms over MTA rail yard; tallest 799 ft (Site 5); env. review Sept 2026; construction as early as 2028; 9 of 15 buildings complete Dec 2023 · §5, table, building types, Q&A 13, landmarks.
+- same · WebFetch · https://www.brownstoner.com/development/affordable-housing-brooklyn-18-6th-avenue-37-6th-avenue-pacific-park-atlantic-yards-prospect-heights · Oct 8 2020: 18 Sixth Ave (51 stories, 858 units, Perkins Eastman); 662 Pacific St / 37 Sixth Ave 28 stories, 316 units, school on first five floors (Marvel) · building types, Q&A 4.
+- "\"18 Sixth Avenue\" Pacific Park opened leasing..." · WebSearch → WebFetch · https://brooklyneagle.com/articles/2022/01/04/leasing-begins-at-51-story-brooklyn-crossing-in-prospect-heights/ · Jan 4 2022: Brooklyn Crossing leasing, 51 stories, 858 units, 258 affordable, ~26,000 sq ft amenities · building types, Q&A 5, AI check H3 6. (YIMBY headline Nov 2022 "Completes Construction" seen in search results only — page says "while still being finished/completed", no completion date stated.)
+- same reddit query · WebFetch · https://atlanticyardsreport.blogspot.com/2021/08/an-alarming-day-around-pacific-park.html · Aug 5 2021 water jets from 18 Sixth Ave windows; Greenland's Scott Solish: fire system test; author "OK, but... why weren't neighbors alerted?" · AI check H3 3.
+- "Newswalk 535 Dean Street Daily News printing plant condo conversion Prospect Heights" · WebSearch → WebFetch · https://www.6sqft.com/brooklyn/prospect-heights/535-dean-street/ · built 1927 Daily News printing facility, presses 70+ yrs, converted to condos 2002 (Boymelgreen) · §5, table, building types, Q&A 3, landmarks.
+- same · WebFetch · https://www.cityrealty.com/nyc/prospect-heights/newswalk-535-dean-street/43128 · 137 units, 10 floors, between Sixth and Carlton; 16,000 sq ft roof deck; indoor valet parking · building types, landmarks.
+- StreetEasy listing titles "Newswalk Phase 3 …" (search results, e.g. https://streeteasy.com/property/942586-newswalk-phase-3-214) · units named by phase · Q&A 11 (phrased generally: "listings still call some units Phase 3").
+
+### Corridors / new construction
+- "Vanderbilt Avenue Prospect Heights Open Street restaurants bars weekend car-free" · WebSearch → WebFetch · https://brooklyncb8.org/news-listing/5-blocks-on-vanderbilt-ave-closed-on-weekends · Vanderbilt between Park Pl and Pacific St closed weekends, announced July 31 2020 · corridors, Q&A 7.
+- same · WebFetch · https://www.bkmag.com/2022/10/26/open-streets/ · DOT study: sales +20% vs pre-pandemic; Bierwax owner Chris Maestro: "single-handedly responsible" · corridors.
+- "newyorkyimby Prospect Heights Brooklyn permits filed 2025 mixed-use..." · WebSearch → Firecrawl scrape (WebFetch client error) · https://newyorkyimby.com/2026/01/permits-filed-for-563-washington-avenue-in-prospect-heights-brooklyn.html · Jan 16 2026: 16 stories, 184 ft, 74,704 sf (71,572 res / 3,132 commercial), 99 units, EMP Capital / Fogarty Finger, replaces two-story structure · corridors, new construction, Q&A 12.
+- same · Firecrawl · https://newyorkyimby.com/2026/10/new-rendering-revealed-for-650-washington-avenue-in-prospect-heights-brooklyn.html · Oct 18 2026: seven-story residential, Bergen–Dean, ARC + Decatur Partners · corridors, new construction.
+- Not used: 684 Dean, 595 Dean (29 st, 2019), 840 Atlantic, 858 Atlantic (search results only; not fetched).
+
+### Local fires
+- "Prospect Heights fire News 12 Brooklyn 2025 Vanderbilt Avenue OR Washington Avenue OR St. Marks Avenue building fire" · WebSearch → WebFetch · https://brooklyn.news12.com/2026/02/20/overnight-fire-forces-residents-out-of-prospect-heights-building-no-injuries-reported/4pKdK2FTlxehwcRZ0svczA · Thursday (Feb 19) 2026, 425 Sterling Pl, reported on roof, top floors, 2nd alarm, under control 10:34 p.m., no injuries, DOB full vacate, marshals investigating · repair §, Q&A 9.
+- same · WebFetch · https://patch.com/new-york/prospectheights/fire-breaks-out-prospect-heights-apartment-building · Mar 1 2016, 718 Washington Ave fourth-floor fire, no injuries · research only.
+- same · WebFetch · https://brooklyn.news12.com/flames-erupt-across-from-prospect-heights-firehouse-34787000 · Oct 15 2014, fire across from firehouse, details truncated · NOT used.
+
+### Regulatory (re-fetched this run)
+- FDNY tips PDF · https://www.nyc.gov/assets/fdny/downloads/pdf/business/tips-fire-alarm-systems.pdf · PE/RA; TM-1 via FDNY Business; initial review up to 8 weeks; ~20–24 weeks to approval; licensed electrician or vendor with FDNY Fire Alarm Company Certificate; central station active + 100% complete; B-45; FAIU 9 MetroTech; common defects (C of O/Schedule A mismatch, floor numbering/marketing floor designations, missing I/O matrix, detectors near diffusers, CO shutdowns, as-built riser) · quick answer, compliance, AI check, FAQ 1/7/8, process.
+- FDNY company cert FAQ · https://www.nyc.gov/assets/fdny/downloads/pdf/business/fire-alarm-company-cert-faq.pdf · S-97 (NICET 2+ or NYC master/special electrician), $105 app, company cert 1 yr, S-97 3 yrs, no renewal notices, servicing must stop if expired · repair, AI check H3 4, choosing.
+- NYC Business · https://nyc-business.nyc.gov/nycbusiness/description/fire-alarm-application · $420 new, $525 complex technical analysis, no fee resubmit within 6 months of Letter of Deficiency, Project Authorization required (also for Rangehood Plan) · compliance, pricing, FAQ 2/4.
+- Reused as facts from "## NYC hubs"/exemplars (not re-fetched): NY Engineers BC 907.2 thresholds; BC 403 high-rise (amlegal); FA-27 $105; MMR FY2025 21,966 malicious false alarms; NYC Business 3-year record keeping.
+
+### SERP / community
+- Reddit r/Brooklyn / r/ProspectHeights fire alarm threads: EMPTY (searches returned news/Patch only). Page states this once in Sources intro.
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp 1-3★ for "fire alarm installation Prospect Heights": EMPTY (not accessible in build env). Question keywords from keywords/fire-alarm-installation.md used as PAA stand-in; AI-check claims written as common generic answers (Angi/HomeAdvisor/Fixr named) and corrected with sources above.
+
+### Images used (11, cp'd from the generic set to new names; each viewed; no camera/network photos; storefront-conduit rejected for "451" street number; office-lift rejected because background office workers' faces are visible; old prospect-heights-*.webp files left in place, unreferenced)
+- ny-panel-check-sprinkler-riser → …-prospect-heights-brooklyn-ny-panel-floor-plan-red-sprinkler-riser (hero)
+- nyc-control-panel-meter-test-drawings → …-multimeter-open-notifier-panel-binder (§5)
+- nyc-pull-station-lobby-check → …-pull-station-glass-lobby-doors (repair)
+- ny-fire-alarm-cable-pull-steel-studs → …-red-cable-spool-stud-wall-rough-in (services)
+- new-york-warehouse-smoke-detector-lift → …-detector-steel-beam-storage-racks (building types)
+- ny-kitchen-heat-detector → …-heat-detector-kitchen-hood-panel (corridors)
+- ny-pull-station-and-panel-two-techs → …-two-tech-pull-station-laptop-plans (field notes)
+- ny-lobby-annunciator-check → …-annunciator-marble-lobby-floor-map (Q&A)
+- new-york-ceiling-horn-strobe-basement → …-ceiling-horn-strobe-concrete-cellar-screwdriver (devices)
+- new-york-power-supply-battery-meter → …-power-supply-cabinet-meter-leads (existing systems)
+- nyc-strobe-meter-test-mechanical-room → …-strobe-flash-meter-pipe-room (interfaces)
+
+### Checks (2026-11-16)
+- check_page --no-registration: only the 15 "live sibling … doesn't link back" lines; full run adds only the _redirects 200 rule (main-run wiring).
+- Words 13,923. Title 52 chars, meta 157. Keywords 364/376, no MISSING, no OTHER-AREA. AI reality check 841 words, 7 H3 × 3 paragraphs. 14 Q&A H3 + 12 FAQ (schema matches). Field notes 174 words.
+- Masked-geo similarity max 0.157 (Park Slope), next 0.134 (Ocean Hill).
+- Mobile 390px: scrollWidth 390, 11/11 figures loaded, no overflow; full-page screenshot reviewed in crops. First pass showed a ~7,600px blank: the Q&A block was a single .rv div too tall to reach the 12% IntersectionObserver threshold, so it never revealed; fixed by wrapping each Q&A pair in its own .rv div — no blank runs >300px after.
+- No $ amounts in body (government fees written as "420 dollars", "525 dollars", "105-dollar"); no "AESS"; no camera/CCTV in body; no other-region names outside shared nav/silo footer.
+
+### Question register (this page)
+Q&A (§9):
+1. The Central Library's renovation is being staged so the building never closes, and in 2019 the branch was evacuated after work on its sprinklers. In a public building that stays open, how should the sprinkler crew and the fire alarm crew work together?
+2. A museum renovates one gallery at a time over many years. Does each gallery's new detection and notification go to the FDNY as its own filing, or can a design professional file the whole program at once?
+3. Newswalk at 535 Dean Street was a Daily News printing plant before it became condominiums. Why would a fire alarm in a converted printing hall need different detector spacing than one in a newer apartment house?
+4. A school fills the first five floors of the 28-story tower at 662 Pacific Street, with apartments starting on the sixth. If the school's floors need a fire alarm change during the school year, who has to sign off?
+5. Brooklyn Crossing at 18 Sixth Avenue began leasing in January 2022 while the 51-story tower was still being finished. How does a fire alarm protect the floors people live on while trades are still working on other floors?
+6. A Vanderbilt Avenue restaurant wants to turn the apartment above it into a private dining room. Does a dining room upstairs change what the building's fire alarm has to do?
+7. On weekends Vanderbilt Avenue between Park Place and Pacific Street closes to cars and fills with tables. Where should a restaurant building's annunciator and fire department entrance be so firefighters can find them on a crowded Saturday?
+8. The Co-Cathedral of St. Joseph seats 1,500, and the former parish school on Dean Street is now a senior center open by day. When a building on a parish campus is used only in daytime, who should its fire alarm reach at night?
+9. Fire marshals are still investigating the February 2026 fire at 425 Sterling Place. Can a building fire alarm's event history help an investigation, and who should keep it?
+10. The Brooklyn Museum's library and archives hold about 300,000 volumes. Can a records room's detection warn staff at a lower smoke level than the level that evacuates the building?
+11. Our Prospect Heights condominium was sold in phases, and listings still call some units Phase 3. Does a building developed in phases end up with one fire alarm or several?
+12. A 16-story mixed-use building is planned at 563 Washington Avenue with a store on the ground floor. Will the store's customers hear the same voice instructions as the residents above?
+13. The Pacific Park plan announced in June 2026 puts seven more towers on platforms over the rail yard. What changes for a fire alarm when a building sits on a deck above active tracks?
+14. Our 1920s apartment house on St. Johns Place still runs an old zoned panel, and every renovation since has added devices piece by piece. How do we find out what the system actually covers today?
+FAQ (§17):
+1. If a Prospect Heights renovation is split into four phases, does each phase wait 20 to 24 weeks for FDNY plan review?
+2. Does the FDNY charge a filing fee for every phase of a fire alarm project?
+3. During a phased replacement, who makes sure the old panel and the new panel are not both silent for the same floor?
+4. What does a Vanderbilt Avenue restaurant need from the fire alarm before it opens with a new hood suppression system?
+5. Can the bells or public address system in a large church be used for fire announcements?
+6. Our general contractor tests the sprinkler system on Thursdays. What has to happen at the central station before each test?
+7. Why might the FDNY return drawings for a new tower whose marketing floor numbers skip a number?
+8. What is the Input/Output Matrix on fire alarm drawings, and why does the FDNY ask for it?
+9. Who signs what on a Prospect Heights fire alarm job hired through Abstract Enterprises Security Systems?
+10. Can detectors added in a later phase come from a different manufacturer than the panel installed in the first phase?
+11. How long should a Prospect Heights owner keep fire alarm inspection and test records?
+12. What should building staff do when they find a smoke detector covered with a plastic bag after construction crews leave for the day?
