@@ -6,7 +6,8 @@
      PageView           every page
      ViewContent        every page, tagged with service / area / region from the slug
      Contact            tap on a phone (tel:) or text (sms:) link
-     Lead               a quote/contact form sent (and the camera quote builder)
+     Lead               a quote/contact form sent (and the camera quote builder), and since Nov 16 2026
+                        also a call/text tap (lead_type call_tap / text_tap) so lead campaigns learn from callers
      InitiateCheckout   click to a Stripe checkout link
      SubmitApplication  a form sent from /careers (job seekers — kept out of customer audiences)
    No form field values (names, phones, emails) are ever sent to Meta. */
@@ -49,8 +50,12 @@
     var h = a.getAttribute('href') || '';
     if (h.indexOf('tel:') === 0) {
       fbq('track', 'Contact', { content_name: slug, content_category: ctx.content_category, method: 'call', line: digits(h.slice(4)).slice(-4) });
+      /* Nov 16 2026: most customers call instead of filling out a form, so a call tap also counts as a Lead.
+         The Facebook lead campaigns optimize for Lead, so this lets them learn from callers, not just forms. */
+      if (!isCareers) fbq('track', 'Lead', { content_name: slug, content_category: ctx.content_category, region: ctx.region, lead_type: 'call_tap' });
     } else if (h.indexOf('sms:') === 0) {
       fbq('track', 'Contact', { content_name: slug, content_category: ctx.content_category, method: 'text' });
+      if (!isCareers) fbq('track', 'Lead', { content_name: slug, content_category: ctx.content_category, region: ctx.region, lead_type: 'text_tap' });
     } else if (/buy\.stripe\.com|checkout\.stripe\.com/.test(h)) {
       fbq('track', 'InitiateCheckout', { content_name: slug, content_category: ctx.content_category });
     }
