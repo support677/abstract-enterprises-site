@@ -415,9 +415,9 @@ TODO | elevator-access-control-installation-ulster-county | Elevator Access Cont
 LIVE | cctv-installation-nyc | CCTV Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | cctv-installation-long-island | CCTV Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | cctv-installation-hudson-valley | CCTV Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-BUILDING 2026-11-16T01:26Z cctv-areas | cctv-installation-manhattan | CCTV Installation | Manhattan | up /cctv-installation-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-11-16T01:26Z cctv-areas | cctv-installation-brooklyn | CCTV Installation | Brooklyn | up /cctv-installation-nyc | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-16T01:26Z cctv-areas | cctv-installation-queens | CCTV Installation | Queens | up /cctv-installation-nyc | (347) 434-6392 | GBP Bronx
+LIVE | cctv-installation-manhattan | CCTV Installation | Manhattan | up /cctv-installation-nyc | (929) 560-0737 | GBP Bronx
+LIVE | cctv-installation-brooklyn | CCTV Installation | Brooklyn | up /cctv-installation-nyc | (347) 934-8335 | GBP Brooklyn
+LIVE | cctv-installation-queens | CCTV Installation | Queens | up /cctv-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | cctv-installation-bronx | CCTV Installation | Bronx | up /cctv-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | cctv-installation-staten-island | CCTV Installation | Staten Island | up /cctv-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | cctv-installation-nassau-county | CCTV Installation | Nassau | up /cctv-installation-long-island | (516) 346-5778 | GBP Brooklyn

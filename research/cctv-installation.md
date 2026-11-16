@@ -179,3 +179,194 @@ Format per entry: exact query · platform · URL · finding · page section used
 - Can CCTV footage help with a police report or an insurance claim after a break-in?
 - Is it legal to record audio on security cameras in New York?
 - What should I have ready before the CCTV installation survey?
+
+## Queens (cctv-installation-queens)
+
+Page: /cctv-installation-queens (borough page, Bronx GBP #bronx 460 E Fordham Rd, direct line (347) 434-6392, up-link /cctv-installation-nyc). Researched 2026-11-16.
+Format: exact query · platform · URL · finding · page section used.
+
+- "CCTV installation Queens" · Firecrawl web search (Google-style SERP) · yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Queens%2C+NY; abstractenterprisessecuritysystems.com/security-camera-installation-queens; intengine.com directory; elmhurstelectric.net/electronic-security-systems-queens/; thumbtack.com/ny/queens/security-camera-install; elcosecurity.com; 3aservices.net (Queens Village); totalsecuritynewyork.com · Top results are directories (Yelp, Thumbtack, Intengine) and short generic service pages with a phone number; none show Queens housing data, NYPD Queens North/South numbers, driveway/vehicle-theft camera framing, garden co-op campus layouts, real prices or real job photos. · Gap analysis → unique angle (below).
+- Google PAA / PASF / Answer the Public / AI Overview · direct access · EMPTY (not accessible) — question seeds from Anwar's keyword list plus the Reddit/DA findings below.
+- Bing / DuckDuckGo · direct access · EMPTY (not accessible); Firecrawl index used as cross-check.
+- Yelp 1–3★ review text (Queens security camera installers) · yelp.com search page · listing excerpt only → EMPTY (not accessible) for complaint themes.
+- "reddit r/Queens security cameras installer house driveway" · Firecrawl web · reddit.com/r/homeowners/comments/18dr423 (driveway camera facing neighbor: "As long as you're not putting a camera to look into their private areas it should be fine"); r/homeowners/159rfv7 (Wi-Fi range vs drilling for wired); r/Ubiquiti/1tttm4w (60x25 ft driveway, camera 14 ft up) · No Queens-specific thread returned; general driveway/neighbor-privacy and wired-vs-Wi-Fi themes. · Q&A (neighbor's yard, shared driveway, 4K vs 4MP driveway), AI check (battery cams).
+- NYPD CompStat Queens North · NYPD PDF via Firecrawl · https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-pbqn.pdf · Vol 33 No 45, week 11/2–11/8/2026, YTD 2026 vs 2025: burglary 1,099 vs 1,642 (−33.1%); G.L.A. 2,471 vs 2,203 (+12.2%); grand larceny 5,207 vs 5,106 (+2.0%); retail theft 5,559 vs 6,527 (−14.8%); robbery 1,453 vs 1,443. Preliminary. · Neighborhood paras + stats list, AI check ("crime is down").
+- NYPD CompStat Queens South · NYPD PDF via Firecrawl · https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-pbqs.pdf · same week, YTD: burglary 819 vs 911 (−10.1%); G.L.A. 1,465 vs 1,678 (−12.7%); retail theft 2,975 vs 3,156 (−5.7%). Combined QN+QS 2026: 3,936 vehicle thefts, 1,918 burglaries, 8,534 retail thefts. · Neighborhood stats list, AI check.
+- ACS 2023 5-year DP04, Queens County (0500000US36081) · Census Data API via Firecrawl census-gov provider · https://api.census.gov/data/2023/acs/acs5/profile?get=group(DP04)&ucgid=0500000US36081 · 903,598 housing units; 1-unit detached 19.1% (172,141); 1-unit attached 9.3% (83,924); 2 units 19.4%; 3–4 units 10.5%; 20+ units 32.4%; built 1939 or earlier 30.3%, 1940–49 14.1%, 1950–59 19.7% (≈64% pre-1960); owner-occupied 44.9%. · Neighborhood paras + stats list, Building Specialists.
+- "Queens District Attorney Katz ... vehicle theft ring" · Firecrawl web + scrape · https://queensda.org/twenty-defendants-indicted-in-vehicle-theft-ring-dubbed-operation-hellcat/ · May 8 2025, Operation Hellcat: 20 indicted, 126 cars, >$4.6M; 52 stolen in Queens; some stolen from driveways; thieves punched door locks and programmed new fobs via the OBD port. QUOTE used (DA Melinda Katz): "With these indictments, we have dismantled a criminal enterprise that stole at least $4.6 million worth of vehicles from our streets and driveways." · Neighborhood (quote), Q&A (key-fob theft).
+- "Queens District Attorney Katz JFK cargo theft charged quote" · Firecrawl web + scrape · https://abc7ny.com/post/david-lacarriere-gary-mcarthur-jfk-cargo-heist-airport/7453005/ · Oct 29 2020: six charged in two JFK air-cargo heists (~$6M designer goods) using forged release documents; a trailer found on 56th Road in Maspeth; surveillance video at a closed Jamaica beauty shop used as stash house. QUOTE used (Katz): "The safety and security of this county's airports are a top priority." · Commercial (warehouses/JFK), AI check (warehouse doors).
+- "2006 Queens blackout Con Edison Long Island City" · Firecrawl web + scrape · https://en.wikipedia.org/wiki/2006_Queens_blackout (cites NYT, NY PSC) · July 2006 Long Island City network feeder failures; Astoria, LIC, Sunnyside, Woodside; ~174,000 people affected; many still out a week later in a heat wave. · AI check (UPS/battery backup).
+- "Landmarks Preservation Commission Queens historic districts" · Firecrawl web · https://www.nyc.gov/site/lpc/designations/historic-district-queens.page · 13 Queens historic districts: Addisleigh Park, Cambria Heights–222nd St, Cambria Heights–227th St, Central Ridgewood, Douglaston Hill, Douglaston, Fort Totten, Hunters Point, Jackson Heights, Ridgewood North, Ridgewood South, Stockholm Street, Sunnyside Gardens. LPC camera guidance (small/discreet, mortar joints, concealed conduit) from the hub's LPC Guidebook Ch.11 entry. · Stats list, Building Specialists (historic districts).
+- Laws (same statutes as hub, rewritten): NY Labor Law §203-c; Penal Law §250.05, §250.45; NYC Admin Code §22-1202. · Commercial compliance callouts, Q&A (signs, neighbor's yard), FAQ. Not legal advice.
+- Corridors/landmarks (common geography, no stats): Main Street & Roosevelt Ave (Flushing), Roosevelt Ave under the 7 (Jackson Heights–Corona), Jamaica Ave & 165th St, Steinway St & 30th Ave (Astoria), Liberty Ave (Richmond Hill/Ozone Park), Northern Blvd auto corridor, LIC/Maspeth/College Point industrial, JFK cargo area (Springfield Gardens, Rosedale); landmark cards: Citi Field/Willets Point, JFK cargo area, Jamaica Center/LIRR, Astoria Park/Hell Gate Bridge, Queens Center (Elmhurst), Rockaway Beach Boardwalk. · Commercial, Coverage Area.
+- Prices: only from security-camera-installation-queens-ny.html packages/pricing: A $950, F $998, E $1,157, C $1,392, D $1,392 (top tier); residential 4–8 cameras $1,062–$2,500; commercial $1,500–$5,000+; $0 monthly. (That page's PAA box also says "$950 to $2,000" — inconsistent with its own $1,062–$2,500 card; NOT used.) Repair $150–$800 is not on the Queens page → not used.
+
+Unique angle: Queens as the borough of driveways — almost half of homes are one-family or two-unit houses (ACS), and the two Queens patrol boroughs report about twice as many vehicle thefts (3,936) as burglaries (1,918), with Queens North vehicle theft up 12.2%. Page leads with driveway/curb-cut camera framing and the Operation Hellcat quote, then two-family shared recorders with tenant logins, shared driveways/privacy masking, balloon-frame cable paths, garden co-op campus layouts, 13 LPC historic districts, multilingual family-run storefront corridors, auto shops, and the JFK/Maspeth freight belt (JFK cargo-heist quote), plus 2006 LIC-network blackout for the UPS case. Hubs: NYC = pre-war/landmarks/delis; LI = PSEG/seasonal; HV = rural/barns.
+
+Images (11, all real jobs, new crops in images/cctv-installation/cctv-installation-queens-*.webp): deli exterior camera (awning corner turret, tight crop), deli exterior (wall-arm camera; "Galaxy Gourmet Deli" sign, "3778" street number and sign phone number BLURRED), deli interior ceiling domes, deli monitor grid; Nassau window-depot monitor (right column only — CAM 4 tile with the door street number and CAM 1 tile with people cropped out; handwritten note cropped out), Nassau office dome + motion sensor (company banner and framed certificates cropped out), Nassau storeroom dome (portrait crop); Rockland Toyota NVR 32-channel screen, corridor bullet, ceiling pendant bullet, turret dome close-up (no logos, people or signs in frame). Captions name the real source location (Manhattan / Nassau / Rockland).
+
+FLAGS for Anwar:
+- No real Queens job photos exist yet; all 11 are Manhattan/Nassau/Rockland jobs captioned honestly. Field Notes is written as "what our crew checks on a Queens driveway survey" (process facts only), not a specific Queens job story — swap in a real Queens job when photos arrive.
+- Queens security camera page carries a "$950 to $2,000" PAA answer that conflicts with its own $1,062–$2,500 residential card; this page uses only the package prices and the $1,062–$2,500 / $1,500–$5,000+ ranges.
+- NYPD figures are preliminary YTD through Nov 8 2026; refresh when updated.
+- Wall-arm photo has a visible blur block over the deli sign.
+
+### Question register
+Page: /cctv-installation-queens
+
+Q&A (YOUR QUESTIONS ANSWERED):
+- What does a driveway-and-backyard CCTV setup cost on a Queens one-family house?
+- Which camera angle actually catches a face or a plate in a Queens driveway at night?
+- Can one recorder cover both units of a two-family house, with a separate login for the tenant?
+- Who decides where cameras go on a driveway shared by two attached houses?
+- Can a garden co-op put cameras on courtyards, paths and parking bays between its buildings?
+- Can my CCTV camera look at the street, the sidewalk or my neighbor's yard?
+- Can a camera stop a key-fob or diagnostic-port car theft from my driveway?
+- How should a loading door and truck yard be covered at a warehouse near JFK or in Maspeth?
+- Should an auto repair shop record the service bays, the lot, or both?
+- Can staff at a Flushing or Jackson Heights store use the CCTV app in their own language?
+- How many recorder channels should I buy if I may add the basement unit or the garage later?
+- Is a 4K camera worth it for a long Queens driveway, or is 4MP enough?
+- Can I see my store's cameras and my home's cameras in one app?
+- Does a Queens store need a sign saying the premises are under video surveillance?
+
+FAQ:
+- Can the camera over my store door also count how many customers come in?
+- Can you mount a camera on the utility pole or the street tree in front of my house?
+- Will my CCTV system work with Verizon Fios or Spectrum internet in Queens?
+- Do you install license plate cameras for Queens auto shops, lots and warehouse gates?
+- Can you put cameras inside the elevators of a Queens co-op or rental building?
+- I mounted my own cameras. Can you set up only the recorder and the phone app?
+- What paperwork do I get when the CCTV job is finished?
+- Can a tenant in a Queens house or building ask to see footage from the landlord's cameras?
+- Do you install CCTV for churches, mosques, temples and community centers in Queens?
+- Do I need to stay home for the whole CCTV installation?
+
+## Manhattan (cctv-installation-manhattan)
+
+Page: /cctv-installation-manhattan (child of /cctv-installation-nyc; Bronx GBP #bronx, 460 E Fordham Rd; direct line (929) 560-0737). Researched 2026-11-16.
+Format: exact query · platform · URL · finding · page section used.
+
+**Unique angle:** the building-operations view of CCTV in Manhattan: managing agents, co-op/condo boards, doorman desks and supers. COI / alteration-agreement paperwork, riser cabling up high-rises with firestopping, live-view-only desk accounts vs playback/export accounts, package rooms, elevator-cab coordination, sidewalk sheds under the FISP (Local Law 11) cycle, landmark frontage (20% of lot area), and the uptown (Broadway / Washington Heights deli job) vs downtown (tower / tenant-suite) split. Hub covers five-borough building types; LI/HV cover houses, outages, rural. No section on other regions.
+
+### Sources
+- "CCTV installation Manhattan" · Firecrawl web search (Google-style SERP) · cctvcamerapros.com/New-York-CCTV-Installation-s/236.htm; imperasecurity.com/security-systems/security-cameras-manhattan; yelp.com (UWS CCTV search); dtv-installations.com/service/cctv-security-cameras/; zefsecurity.com/security-camera-cctv-installation-manhattan-ny/ · Top 5: generic service pages and a directory; zefsecurity summary = brands (Uniview, Hikvision, Bosch), free consult, neighborhoods list. None show prices, real job photos, CompStat borough data, riser/firestop method, board/COI/alteration process, footage-access policy, or FISP sidewalk-shed handling. · Chose angle + "what none have" (prices, deli job, riser, COI, access policy, FISP).
+- Google PAA / PASF / AI Overview / Answer the Public / Bing / DuckDuckGo · direct · EMPTY (not accessible in build env); Firecrawl SERP used as the cross-check; question seeds from the keyword list and Reddit/Brick Underground below.
+- Yelp 1–3★ · yelp.com search page above · EMPTY (review text not accessible).
+- "NYPD CompStat Patrol Borough Manhattan South burglary retail theft 2026 year to date" · Firecrawl search + scrape (PDF) · https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-pbms.pdf · Vol 33 No 45, week 11/2–11/8/2026, YTD 2026 vs 2025: retail theft 11,973 vs 14,115 (-15.2%); burglary 1,459 vs 1,719 (-15.1%); robbery 1,145 vs 1,426; petit larceny 16,013 vs 17,660. Preliminary. · Neighborhood paragraph + stats list, AI reality check.
+- same · https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-pbmn.pdf · Manhattan North YTD: retail theft 5,080 vs 6,077 (-16.4%); burglary 1,198 vs 1,297 (-7.6%); housing 1,013. Combined MS+MN retail theft 17,053 = ~43% of citywide 39,978 (cs-en-us-city.pdf, same week) — our arithmetic, labeled as such on page. · Neighborhood stats, AI reality check.
+- same search · ourtownny.com/news/citywide-crime-falling-says-nypd-but-manhattan-a-mixed-bag-GX5909594 (June 5 2026) · PBMS = precincts 1–18, PBMN = 19–34; Comm. Tisch quotes (not used). · Stats list (precinct ranges).
+- "Manhattan District Attorney Bragg retail theft surveillance video businesses quote" · Firecrawl search + scrape · https://manhattanda.org/d-a-bragg-manhattan-small-business-alliance-announce-comprehensive-plan-to-help-tackle-rise-in-retail-theft/ (June 17 2022) · QUOTE USED: Isidrio Medina, Exec. Dir., Washington Heights BID: "Our small business community has been plagued by this insidious problem for some time." Fact: 2015–2021, 18% of people arrested for shoplifting = nearly half of shoplifting arrests. · Neighborhood (quote + stats list).
+- same search · crainsnewyork.com (Oct 14 2026) Bragg "retail theft drop 23% compared to two years ago" · paywalled, snippet only → NOT used.
+- "Manhattan co-op condo share of housing units Housing and Vacancy Survey 2023 Manhattan" · Firecrawl search/scrape · https://chpcny.org/visualization/housing-stock-visualization/ and https://www.nyc.gov/assets/hpd/downloads/pdfs/about/2023-nychvs-selected-initial-findings.pdf · Manhattan 927,000 housing units (25% of city) on 7.5% of land; 97% in 6+ unit buildings (hub already uses the 97% figure, so this page uses the 927k / 7.5% land figures). · Neighborhood + stats list.
+- "Landmarks Preservation Commission number of historic districts and landmarks by borough Manhattan" · Firecrawl search · https://nylandmarks.org/wp-content/uploads/2020/09/Reality-and-Recovery-2020.pdf · "Manhattan has slightly more than 20% of its lot area under the oversight of the Landmarks Preservation Commission." · Stats list, Building Specialists (landmarked frontage).
+- LPC camera rules (staff-level, mortar joints/plain masonry, no cast iron) · reused from NYC hub research row (LPC Permit Guidebook Ch.11) · Building Specialists.
+- NYC DOB Facade Inspection & Safety Program · https://www.nyc.gov/site/buildings/safety/facade-local-law.page (verified: owners of buildings higher than six stories must inspect every five years) · buildings taller than six stories inspected every five years (well-established; page linked, not re-scraped). · Building Specialists (sidewalk sheds), Q&A, FAQ.
+- "reddit Manhattan co-op board security cameras lobby installer old DVR building" · Firecrawl search · reddit.com/r/AskNYC/comments/1gjhqzk (tenant cameras on condo lobby/common areas), reddit.com/r/AskNYC/comments/1bfjfdu (lobby cameras, no doorman, packages keep getting stolen, can't get footage), reddit.com/r/videosurveillance/comments/1n630lq (condo association upgrading system); brickunderground.com/blog/2014/06/ask_an_expert_security_camera (manager controls footage access; lobby/entrance common, residential hallway cameras less common); guzovllc.com (no NYC law banning hallway doorbell cams; building rules govern) · snippets only (Reddit bodies blocked). · Q&A (package room, desk live-view vs playback, resident viewing FAQ), AI reality check (boards can watch anytime).
+- same · https://www.fsresidential.com/new-york/news-events/articles-and-news/security-cameras-best-practices-nyc-condos-co-ops/ · managing-agent guidance: limit footage access to manager/third party; written access policy; retention typically 30–90 days; common areas only; audio discouraged. · Equipment (retention), AI reality check.
+- Laws (cited "not legal advice"): NYS Penal Law §250.45; NYS Labor Law §203-c; NYC Admin Code §22-1202 (from hub research rows). · Commercial, Q&A, FAQ.
+- Prices: ONLY from security-camera-installation-manhattan-ny.html: A $1,099; F $1,147; E $1,306; C $1,541; D $1,541 (top tier); residential 4–8 cam $1,228–$2,500; commercial $1,500–$5,000+; $0 monthly. No repair price range (not on that page) → "priced per camera after we confirm the layout".
+- First-hand job: Manhattan corner deli at Broadway & W 157 St by the 157 Street (1) station (photos manhattan-deli-*). Field Notes describe only what is visible (turret at awning corner, under-awning domes, wall-arm dome on stone facade, ceiling domes, back-wall dome, ~12-tile wall monitor). Business name not used.
+
+### Images (11, new crops in images/cctv-installation/cctv-installation-manhattan-*.webp)
+- Deli (Manhattan, 6): turret-dome-at-awning-corner-close; awning-cameras-by-157-street-subway-stairs (BLURRED: deli sign name, street number, phone, adjoining store sign, two passers-by); wall-arm-camera-on-prewar-stone-facade (BLURRED: sign name, street number, phone); ceiling-domes-between-light-panels (cropped above people); dome-above-shelving-wall-wide; live-view-monitor-tile-grid.
+- Rockland dealership (4, captioned as Rockland County): bullet-camera-on-ceiling-down-service-corridor (cropped out brand poster); recorder-channel-bitrate-table; overhead-cable-bundles-at-recorder-rack; small-bullet-on-high-wall-over-ceiling-grid.
+- Nassau showroom (1, captioned as Nassau County): corner-dome-under-stained-ceiling-close (cropped above dated boxes).
+
+### FLAGS for Anwar
+- BLUEPRINT Appendix B says "NYPD crime-data citations — keep only on the six NYC solar pages"; this page cites CompStat Manhattan South/North because the build brief suggested it (the NYC hub does the same). Remove if that rule still stands.
+- "~43% of citywide retail theft" is our own arithmetic from the three CompStat PDFs (17,053 / 39,978).
+- Medina quote is from a June 2022 release (older but real, sourced).
+- Package spec lines and price numbers on this page are copied verbatim from the Manhattan security camera page (sim ≥0.65 vs hubs on those spec lines only).
+- Scratchpad was shared with the Queens/Brooklyn builders (same filenames build.py / mkimg.py / p*.html collided once); Manhattan build files were moved to scratchpad/mh/.
+
+### Question register
+#### cctv-installation-manhattan — Q&A (YOUR QUESTIONS ANSWERED)
+- What does a Manhattan managing agent usually ask a CCTV contractor for before the job starts?
+- How do you get CCTV cable from the cellar to the roof of a tall building without opening apartment walls?
+- Can the doorman's desk show the live cameras without letting the desk staff scroll back through recordings?
+- For a pre-war doorman co-op, what is a realistic common-area camera count?
+- Can CCTV cameras be installed inside a building's elevator cars?
+- How should cameras cover a Manhattan package room so missing deliveries can actually be traced?
+- What happens to our cameras when a sidewalk shed goes up for Local Law 11 facade work?
+- Will a tenant's office CCTV system interfere with the landlord's building cameras?
+- Can a Manhattan store's camera record the public sidewalk in front of it?
+- What hours can a CCTV crew work in a Manhattan co-op or condo, and who sets them?
+- How do you keep motion alerts useful on a busy avenue where people walk past all day?
+- Can a CCTV system be shared between two co-op buildings or a building and its retail tenants?
+#### cctv-installation-manhattan — FAQ
+- Do you install CCTV in every Manhattan neighborhood, from the Financial District to Inwood?
+- What is the direct number for Manhattan CCTV installation?
+- Can you send a certificate of insurance naming our co-op and managing agent before the survey?
+- Will you sign our building's alteration or contractor agreement for common-area camera work?
+- Do you install CCTV for Manhattan schools, daycares and houses of worship?
+- Can you install CCTV in a Manhattan hotel or short-stay building?
+- Can a camera on our garage ramp read license plates?
+- Why does CCTV in a Manhattan building cost more than the same cameras on a suburban house?
+- Can you install a hidden camera in a Manhattan apartment or office?
+- Can CCTV be connected to our building's intercom or key-fob entry?
+- Can residents of our building view the lobby cameras on their own phones?
+- Do you remove old cameras and recorders when you replace a building's CCTV system?
+
+## Brooklyn (cctv-installation-brooklyn)
+
+Page: /cctv-installation-brooklyn (child of /cctv-installation-nyc; Brooklyn GBP #brooklyn, 1282 Troy Ave; direct line (347) 934-8335). Researched 2026-11-16. Format: exact query · platform · URL · finding · page section used.
+
+**Unique angle:** Brooklyn as a borough of small owner-landlords — the owner-occupied two-to-four-family house (stoop, vestibule/mailboxes, basement-unit door, alley, yard, cellar, garage; owner vs tenant views, admin/user accounts, privacy masks, siding/brick/brownstone mounting), backed by ACS units-in-structure data; plus avenue storefronts (NYS Commercial Security Credit) and the industrial waterfront (Navy Yard, Sunset Park, Red Hook: long runs, fiber, cold warehouses, dock glare). Brooklyn North vs South CompStat comparison. Differs from the NYC hub (citywide delis/co-ops/LPC/NYPD pilot), Manhattan (doorman/co-op/managing agent) and Queens (driveways, one-family, Fios/Spectrum).
+
+| Query | Platform | URL | Finding | Section used |
+|---|---|---|---|---|
+| CCTV installation Brooklyn | Firecrawl web search (Google-style) | cctvcamerapros.com/security-camera-installation-brooklyn-s/1507.htm; our security-camera-installation-brooklyn-ny; yelp.com search; totalsecurityny.com; lockwizlocksmith.net; imperasecurity.com/security-system-installation-brooklyn; thumbtack.com/ny/brooklyn/security-camera-install; roloelectronics.com/brooklyn-ny-security-systems; momentumsecuritysystems.com | Top results are generic installer/directory pages: no published prices (except ours), no owner-vs-tenant camera plans for two-families, no Brooklyn crime/housing data, no siding/brownstone mounting detail, no tax-credit info. | Gap analysis → angle |
+| NYPD CompStat Brooklyn South | NYPD PDF (Firecrawl, live) | https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-pbbs.pdf | Vol 33 No 45, week 11/2–11/8/2026, YTD 2026 vs 2025: burglary 1,172 vs 1,265 (−7.4%); retail theft 4,232 vs 4,648 (−9.0%); G.L.A. 1,459 vs 1,569 (−7.0%); petit larceny 11,352 vs 11,520 (−1.5%); 28-day G.L.A. 154 vs 118 (+30.5%). Preliminary. | Neighborhood table + stats list, AI reality check |
+| NYPD CompStat Brooklyn North | NYPD PDF (Firecrawl, live) | https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-pbbn.pdf | Same week: burglary 1,307 vs 1,519 (−14.0%); retail theft 3,868 vs 4,072 (−5.0%); G.L.A. 1,177 vs 1,336 (−11.9%); petit larceny 10,739 vs 10,762 (−0.2%). Borough totals computed: burglary 2,479 vs 2,784 (−11.0%); retail theft 8,100 vs 8,720 (−7.1%); GLA 2,636 vs 2,905; petit larceny 22,091. | Neighborhood, AI reality check |
+| ACS 2023 5-yr DP04 Kings County | Census Data API via Firecrawl census-gov provider | https://api.census.gov/data/2023/acs/acs5/profile?get=group(DP04)&ucgid=0500000US36047 | 1,090,187 housing units; 1-unit detached 4.8%, attached 8.6%; 2 units 16.1% (175,805); 3–4 units 15.7% (170,655) → 2–4 unit = 346,460 (31.8%); 5–9 10.7%; 10–19 6.4%; 20+ 37.6%; built 1939 or earlier 47.1%; renter-occupied 70.3%. | Neighborhood paras + stats list |
+| Brooklyn Chamber of Commerce retail theft small businesses cameras said | Firecrawl search + scrape | https://ny1.com/nyc/all-boroughs/public-safety/2024/03/20/survey--theft--inflation-are-top-concerns-for-brooklyn-business-owners | Spectrum News NY1, Mar 20 2024: Brooklyn Chamber survey — 48% of business owners felt less safe in 2023, 40% installed security cameras. QUOTE used (Randy Peers, President & CEO, Brooklyn Chamber of Commerce): "It could be security cameras. It could be a new buzzer system on the door. It could be configuring the space in a way that makes it harder to take things. These are real costs for a small business." Bar owner quote "rip all of my old cameras out and put something in that's functional" (Megan Rickerson) also used. | Neighborhood, AI reality check (quote) |
+| New York retail theft prevention tax credit security cameras | Firecrawl search + scrape | https://www.tax.ny.gov/pit/credits/commercial-security-credit.htm ; https://www.tax.ny.gov/data/stats/ter/fiscal-year27/cross-article-tax-credits.htm ; https://www.nysenate.gov/legislation/laws/EXC/845-E ; https://www.criminaljustice.ny.gov/nys%20cstc.html | Commercial Security Credit: refundable, $3,000 per qualifying NY retail location; DCJS certificate required; small retail ≤50 employees; expenses must exceed $4,000 (≤25 employees) or $6,000 (26–50); security cameras listed (Exec Law §845-e). Allocation-year availability not confirmed for 2026 → page says check DCJS/accountant, not tax advice. | Commercial, Q&A |
+| Brooklyn Navy Yard number of businesses | Firecrawl search | https://www.brooklynnavyyard.org/brooklyn-navy-yard-fy25-impact-report/ | 300+ acres, 550+ businesses, 13,000+ jobs, $2.5B+ annual impact (FY25 report). | Neighborhood, stats list, Coverage |
+| reddit Brooklyn landlord security cameras package theft | Firecrawl search (snippets only; Reddit bodies not scraped) | reddit.com/r/Brooklyn/comments/1v5vuus ("Package theft from our building is out of control.."); r/AskNYC/100v3n5 (camera in lobby for package thieves); r/Bushwick/1ofxzt5 (tenant's camera stolen); r/Brooklyn/1ox1y84 | Recurring: package theft, tenants wanting lobby cameras, landlord not providing cameras, advice to get a camera + file police report every time. | Neighborhood "Package theft on the stoop", Q&A |
+| same search | Brick Underground | https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera | Landlord isn't obligated to let a tenant view building camera footage. | Q&A (mailboxes/package spot) |
+| LPC camera rules | LPC Permit Guidebook Ch.11 (from NYC hub research) | https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf | Discreet cameras, attach via mortar joints/plain surfaces, conduit concealed/minimal painted, cut sheets. Brooklyn historic districts named (Brooklyn Heights, Park Slope, Fort Greene, Clinton Hill, Cobble Hill, Stuyvesant Heights, Prospect Lefferts Gardens, Ditmas Park) — common knowledge, no count used. | Building specialists |
+| Laws | NYS Senate pages (from hub research) | PEN 250.45, PEN Art. 250, LAB 203-C; NYC Admin Code §22-1202 | as hub | Q&A landlord, compliance callouts, AI check |
+| Prices | our page | /security-camera-installation-brooklyn-ny | A $850, F $898, E $1,057, C $1,292, D $1,292 (4-camera, incl. 2 wks recording); residential 4–8 cam NVR $950–$2,500; commercial $1,500–$5,000+; $0 monthly; storage 2 wks $100 incl., 1 mo $180, 2 mo $270, 3 mo $360, 4 mo $450. Nothing else used. | Hero, Pricing, Packages, Q&A |
+| Google PAA / PASF / AI Overview / Answer the Public / Bing / DDG | — | EMPTY (not accessible in build env) | Question seeds from keyword file + Reddit + competitor pages. | Q&A, FAQ |
+| Yelp 1–3★ Brooklyn security camera installation | Firecrawl search | yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Brooklyn%2C+NY | Listing snippets only; review text EMPTY (not accessible). | — |
+| Corridors (common geography) | — | — | Flatbush/Church/Nostrand/Utica/Rogers Aves, 86th St, Kings Highway, Fulton St/Fulton Mall, Knickerbocker Ave/Broadway, Fifth & Eighth Aves Sunset Park, Pitkin Ave, Avenue U; landmarks Navy Yard, Industry City, Brooklyn Museum, Kings Plaza, Coney Island Boardwalk, Barclays Center. | Commercial, Coverage |
+
+Images (11, new crops in images/cctv-installation/cctv-installation-brooklyn-*.webp, captions say the real job location): deli exterior sign band (Manhattan), deli ceiling domes (cropped above people), deli wall TV (Manhattan), window-depot monitor bottom tiles only (Nassau; CAM 4 tile with street number and date stamp cropped out; people in CAM 1 tile blurred), window-depot storage corner dome (Nassau; box text cropped), Toyota lobby active deterrence, bullet on tall wall (cropped above the dealership sign), ceiling bullet, corridor camera, NVR bitrate table, office dome (cropped above person and signage) (Rockland). Office certificate photo and storefront-with-name photo not used.
+
+FLAGS for Anwar:
+- No real Brooklyn job photo exists yet; all 11 images are from Manhattan/Nassau/Rockland jobs and captioned that way. Replace with Brooklyn two-family/storefront photos when available.
+- Field-notes box uses an unnamed crew line ("We don't put a camera up until we know where its cable goes.") stating process only — confirm wording is OK.
+- Commercial Security Credit: 2026 allocation availability not confirmed; page tells readers to check DCJS/accountant.
+- FAQ "How much is the deposit" states 50% (from the warranty/terms sentence).
+- check_page cross-link/backlink fails remain for sibling wiring (hubs, Manhattan, Queens) — main run fills the silo placeholder and backlinks.
+
+### Question register
+Q&A (YOUR QUESTIONS ANSWERED):
+- Which views matter most if a two-family starts with only four cameras?
+- Who should hold the admin password on a CCTV system in a house with tenants?
+- As a landlord in my own two-family house, can I record the shared hallway and the yard?
+- Should the mailboxes and the package drop spot have separate cameras?
+- How do I stop anyone in the building from unplugging the recorder?
+- Will cameras on vinyl or aluminum siding stay put, and how do you seal the holes?
+- Can a camera cover the rear fire escape on a walk-up or a mixed-use building?
+- What camera catches a face at the top of a brownstone stoop?
+- Can I watch my Brooklyn cameras on a TV in my apartment as well as on my phone?
+- Can my Brooklyn store claim the state commercial security credit for a new CCTV system?
+- Will cameras and a recorder in an unheated Brooklyn warehouse survive the winter?
+- What does it cost to keep a month of footage instead of two weeks?
+- Should a Brooklyn store's camera monitor face the customers or stay behind the counter?
+- Should the cameras in a two-family share the tenants' internet connection?
+- What happens to the CCTV system when I sell the house?
+FAQ:
+- Will the cameras' night lights bother my neighbors?
+- Can you install CCTV at a Brooklyn house I own but don't live in?
+- Where do you put the recorder in a Brooklyn house near the water that has flooded before?
+- Can you add cameras to the recorder my house already has?
+- Can a camera on my house record my car parked on the street?
+- Do you install CCTV in Brooklyn bars and nightlife spots that open late?
+- Can you set up CCTV on a Brooklyn construction site or a house under renovation?
+- How much is the deposit for a Brooklyn CCTV job?
+- Can the cameras match a brownstone, dark brick or dark siding?
+- Can a camera inside my apartment record the street through the window?
+- Can a camera go on a fence or a pole in a Brooklyn backyard?
