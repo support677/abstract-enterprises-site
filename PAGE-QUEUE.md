@@ -421,12 +421,12 @@ LIVE | cctv-installation-queens | CCTV Installation | Queens | up /cctv-installa
 LIVE | cctv-installation-bronx | CCTV Installation | Bronx | up /cctv-installation-nyc | (646) 490-0629 | GBP Bronx
 LIVE | cctv-installation-staten-island | CCTV Installation | Staten Island | up /cctv-installation-nyc | (347) 934-8335 | GBP Brooklyn
 LIVE | cctv-installation-nassau-county | CCTV Installation | Nassau | up /cctv-installation-long-island | (516) 346-5778 | GBP Brooklyn
-BUILDING 2026-11-16T02:06Z cctv-areas | cctv-installation-suffolk-county | CCTV Installation | Suffolk | up /cctv-installation-long-island | (631) 407-2884 | GBP Brooklyn
-BUILDING 2026-11-16T02:06Z cctv-areas | cctv-installation-westchester-county | CCTV Installation | Westchester | up /cctv-installation-hudson-valley | (914) 877-2578 | GBP Bronx
-BUILDING 2026-11-16T02:06Z cctv-areas | cctv-installation-rockland-county | CCTV Installation | Rockland | up /cctv-installation-hudson-valley | (845) 640-3835 | GBP Bronx
-TODO | cctv-installation-orange-county | CCTV Installation | Orange | up /cctv-installation-hudson-valley | (845) 640-3835 | GBP Bronx
-TODO | cctv-installation-putnam-county | CCTV Installation | Putnam | up /cctv-installation-hudson-valley | (845) 640-3835 | GBP Bronx
-TODO | cctv-installation-dutchess-county | CCTV Installation | Dutchess | up /cctv-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+LIVE | cctv-installation-suffolk-county | CCTV Installation | Suffolk | up /cctv-installation-long-island | (631) 407-2884 | GBP Brooklyn
+LIVE | cctv-installation-westchester-county | CCTV Installation | Westchester | up /cctv-installation-hudson-valley | (914) 877-2578 | GBP Bronx
+LIVE | cctv-installation-rockland-county | CCTV Installation | Rockland | up /cctv-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+BUILDING 2026-11-16T02:29Z cctv-areas | cctv-installation-orange-county | CCTV Installation | Orange | up /cctv-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+BUILDING 2026-11-16T02:29Z cctv-areas | cctv-installation-putnam-county | CCTV Installation | Putnam | up /cctv-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+BUILDING 2026-11-16T02:29Z cctv-areas | cctv-installation-dutchess-county | CCTV Installation | Dutchess | up /cctv-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | cctv-installation-ulster-county | CCTV Installation | Ulster | up /cctv-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | doorbird-vs-2n | Comparison: DoorBird vs 2N | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | akuvox-vs-butterflymx | Comparison: Akuvox vs ButterflyMX | NYC hub | up / | (800) 486-0943 | GBP Brooklyn

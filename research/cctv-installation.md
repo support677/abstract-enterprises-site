@@ -574,3 +574,209 @@ FAQ:
 - Can I check on an elderly parent's house in Nassau through a CCTV system?
 - Can a camera watch my mailbox at the curb?
 - A neighbor asked for our footage after a break-in on the block. Should we share it?
+
+## Suffolk County (cctv-installation-suffolk-county)
+
+Page: /cctv-installation-suffolk-county (child of /cctv-installation-long-island; Brooklyn GBP #brooklyn, 1282 Troy Ave; direct line (631) 407-2884). Researched 2026-11-16. Format: exact query · platform · URL · finding · page+section used.
+
+**Unique angle:** "the long county": CCTV planned around distance and seasons. Lead question is how video gets back from the far camera (barn, gate, stand, dock): 328 ft Cat6/PoE limit, PoE extenders, fiber to an outbuilding switch, point-to-point bridges, separate recorder (comparison table); empty second homes (44,038 seasonal units) with health/offline alerts, caretaker/renter accounts, interior-camera law for rentals, keeping internet on, clock sync; farms/stands/nurseries/wineries/shellfish farms (OSC farm data, Newsday farm-stand thefts + Southold chief quote, Goodale Farms camera theft + "two hours ... to get the video" → staff export accounts); July 4 2026 East End storm (PSEG LI quote) → UPS/generator; western commerce (Hauppauge Industrial Park 1,300 cos/55,000 jobs, Route 110, Ronkonkoma/MacArthur, multi-tenant flex buildings); commissioning tests at hand-over. Not reused from LI hub: SCPD SHIELD registry, Isaias, Bridgehampton/Water Mill seasonal %, porch-pirate ring, hub landmarks. Not reused from Nassau: village/town/police-department rules, alarm permit, house-type list.
+
+- "CCTV installation Suffolk County NY" · Firecrawl web search (Google-style SERP) · our /security-camera-installation-suffolk-county (#1, the duplicate page); yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Long+Island%2C+NY; totalsecurityny.com; ezsecurityny.com/pages/areas/suffolk-county.html; vertexsecurity.com/.../security-camera-installation-long-island/; facebook.com/fb-answers/camera-systems-services-suffolk-county-ny/; cwcsny.com; totalsecurityny.com/cctv-camera-installation-in-suffolk-county-ny/; securitycamerainstallationlongisland.com; m.yelp.com CCTV System Installation Suffolk · Top 5 = our own page, a directory and generic installer pages (phone, "free onsite quote", "4K CCTV", monitoring). None cover cable distance/fiber/bridges to outbuildings, seasonal-home health alerts, farm/stand layouts, Suffolk data, real prices or real job photos. · Gap analysis → angle.
+- Google PAA / PASF / AI Overview / Answer the Public / Bing / DuckDuckGo · direct · EMPTY (not accessible in build env); Firecrawl SERP used as cross-check; question seeds from keyword file + sources below.
+- Yelp 1–3★ (Suffolk CCTV) · m.yelp.com search above · listing snippet only (Metrocom Security, BAB Communications, Associated Security); review text EMPTY (not accessible).
+- "Suffolk County 10 towns 33 incorporated villages" · Firecrawl web · https://www.suffolkcountyny.gov/Portals/0/FormsDocs/fres/CEMPWD/Suffolk-CEMP-01-2024-REV.2.0.pdf · "Within Suffolk, there are 10 towns, 33 villages" (CAFR says 31 incorporated villages — page uses the 2024 CEMP figure). · Hero badge, Neighborhood para 1.
+- ACS 2023 5-year DP04 + B25004, Suffolk County (0500000US36103) · Census Data API via Firecrawl census-gov provider · https://api.census.gov/data/2023/acs/acs5/profile?get=group(DP04)&ucgid=0500000US36103 ; https://api.census.gov/data/2023/acs/acs5?get=group(B25004)&ucgid=0500000US36103 · 579,790 units; vacant 67,510 (11.6%); seasonal/recreational/occasional 44,038 (65% of vacant, 7.6% of all — our arithmetic); 1-unit detached 463,095 (79.9%); owner-occupied 81.9%; built 1960–69 19.8%, 1970–79 17.7% (≈38% combined, our arithmetic). · Neighborhood paras + stats list, Building Specialists intro.
+- DCJS Index Crimes by County (ca8h-8gjq), agency='County Total', Suffolk 2022–2024 · data.ny.gov SODA via Firecrawl · https://data.ny.gov/resource/ca8h-8gjq.json?$where=agency='County Total' AND county='Suffolk' AND year>=2022 · 2024: index 19,213, burglary 710, larceny 15,811, MVT 1,241; 2023: 20,999 / 816 / 17,097 / 1,534; 2022: 20,882 / 1,018 / 16,935 / 1,471. Larceny share 2024 = 82% (our arithmetic). · Stats list, AI reality check.
+- "Suffolk County agriculture ... wineries" · Firecrawl web · https://www.osc.ny.gov/files/reports/pdf/profile-of-agriculture-in-nys.pdf · Suffolk 2022: 578 farms, 33,821 acres, $364,160k product sales; 79 wineries harvested 4,683 acres of grapes; 187 greenhouse/nursery/floriculture farms, 155 aquaculture & other animal; Suffolk farms lead the State in direct sales. · Stats list, Farms section (shellfish H3).
+- "Hauppauge Industrial Park number of companies employees" · Firecrawl web · https://rpa.org/work/reports/hauppauge-industrial-park-economic-opportunity-analysis (+ RPA PDF) · 1,300 companies, 55,000+ employees, ~5% of Nassau-Suffolk jobs. · Stats list, Commercial card.
+- "farm stand theft honor system East End" · Firecrawl web/news · https://www.newsday.com/long-island/towns/east-end-farm-stands-thefts-hx2x5swv (Sept 5 2026) · self-serve stands increasingly report thefts, crops stolen, cashboxes smashed. QUOTE USED (Southold Police Chief Steven Grattan): "It's discouraging, but the fact that we still have so many farm stands that operate on the honor system, I think, is a reflection of the character of this community and the good ethics of the people in this community." · Neighborhood (quote).
+- same search → Firecrawl scrape · https://riverheadnewsreview.timesreview.com/2026/08/136450/caught-on-camera-crowbar-wielding-thief-ransacks-goodale-farms/ (Aug 4 2026) · Goodale Farms, Main Road, Aquebogue: masked man with crowbar at 1:50 a.m. ripped cash box off counter, ~$9 in coins; owner Hal Goodale: "They come down, and that's two hours of my time with them trying to get the video." (partial used, owner not named on page). · Neighborhood para 4, Farms section intro, Q&A staff export.
+- "PSEG Long Island Suffolk customers without power 2026 storm" · Firecrawl news + scrape · https://riverheadlocal.com/2026/07/05/a-wall-of-water-and-wind-severe-storm-leaves-thousands-without-power-in-riverhead/ (July 5 2026) · 3,700+ PSEG-LI customers out in Riverhead Town, 13,789 systemwide at 9 a.m.; ≥50 trees down in Riverhead; NWS spotter 87 mph gust Baiting Hollow. QUOTE USED (PSEG-LI statement): "While outages are scattered across the service area, eastern Suffolk County received the worst weather, with more than 70 MPH wind gusts, hail and heavy rain." · Storms & Power section.
+- same search · longisland.news12.com (Sept 28 2026 nor'easter, ~112,000 restored) · not used (Nassau page used the Sept 2026 storm).
+- "Suffolk County Police Real Time Crime Center cameras" · Firecrawl web · scpdshield.org, Facebook snippets (Huntington ALPR, illegal dumping investigation) · nothing new beyond the hub's SHIELD entry; registry deliberately NOT repeated. Illegal-dumping snippet used only as FAQ seed (no claim made).
+- "reddit r/longisland Suffolk security cameras ... detached garage PoE" · Firecrawl web · reddit.com/r/longisland/comments/1kc5ygw, /1ow2won, /1edj45z, /nbmls1, /1wvcny4; r/homesecurity/1ice3v7 (direct-burial Ethernet to detached garage); r/reolinkcam/1mo42mx (PoE to detached garage); r/it/1neqqjg · snippets only (Reddit bodies blocked): recurring problem = getting PoE to a detached garage/outbuilding, finding an installer for PoE + new wiring. · Long Runs section, Q&A (buried cable, no-power field camera).
+- Laws (from hub research rows, rewritten): NY Penal Law §250.45, §250.05; Labor Law §203-c · Commercial compliance H3, Q&A rentals, AI check, FAQ gate audio. Not legal advice.
+- Technical (general knowledge, no stat claimed as sourced): Ethernet/PoE 100 m (328 ft) channel limit; storage arithmetic 8MP H.265 ~6 Mbps ≈ 65 GB/day (our arithmetic).
+- Corridors/landmarks (common geography): Route 110, Hauppauge Industrial Park, Bohemia/Ronkonkoma/Holbrook around MacArthur Airport, Route 58 & Tanger (Riverhead), Route 25 & Sound Avenue wine/farm belt, Port Jefferson, Northport, Patchogue, Sag Harbor, Greenport, Montauk; landmark cards MacArthur Airport, Stony Brook University, Long Island Aquarium (Riverhead), Shinnecock Canal (Hampton Bays), Greenport & Shelter Island ferries, Montauk Point Lighthouse (none used on the LI hub's landmark cards).
+- Prices: ONLY from security-camera-installation-suffolk-county-ny.html: A $1,099; F $1,147; E $1,306; C $1,541; D $1,541 (top tier), each 4 cameras incl. 2 wks recording, spec lines/models copied; residential 4–8 cam NVR/PoE $1,228–$2,500; commercial $1,500–$5,000+; $0 monthly; financing available. Its "$1,099 to $2,000" PAA answer NOT used. Long runs, extra cameras, outbuildings = "priced per camera after we confirm the layout".
+
+### Images (11, new crops in images/cctv-installation/cctv-installation-suffolk-county-*.webp; captions name the real job location)
+- Rockland dealership (8): recorder-screen-and-cable-loom-wide (hero; NVR + cable bundle, wider than sibling crops), camera-high-on-showroom-mezzanine-wall (top band only, above all people; partial generic banner text), bullet-camera-on-two-story-wall-by-fan (cropped above the dealership sign), ceiling-mount-bullet-close-on-drop-tile, dome-camera-in-corner-above-tv-wall (logo lettering at left cropped out), ceiling-camera-over-back-hallway-door (warranty poster cropped out), dome-camera-above-window-band (cropped above poster and person), wall-camera-on-bare-stucco-wall.
+- Nassau showroom (1): storage-dome-high-in-wall-corner (box labels cropped out).
+- Manhattan deli (2): ceiling-cameras-over-store-aisle (cropped above shoppers), dome-under-sign-band-beside-mural (below the sign lettering; no name, number or people).
+- No blurs needed: every sign name, street number, certificate and face cropped out.
+
+### FLAGS for Anwar
+- No real Suffolk job photos yet; all 11 are Rockland/Nassau/Manhattan jobs, captioned with the true location. Field Notes describe our large-lot survey process with one unnamed crew line ("Tell us where the far camera goes before you tell us how many cameras you want.") — confirm wording.
+- Price source security-camera-installation-suffolk-county-ny.html: residential card says "...homes across Queens" (copy bug) and its PAA says "$1,099 to $2,000" vs its own $1,228–$2,500 card; it also says "We'll call you back within the hour". Not edited (out of scope).
+- Goodale quote is a private farm owner quoted in the Riverhead News-Review; page attributes it only to "the farmer quoted in the Riverhead News-Review" (owner not named). Remove if you prefer officials only.
+- Page says solar cameras/trailers are a fallback and links /solar-surveillance-trailer-suffolk-county; FAQ says some of our cameras have two-way talk (D Series spec) — confirm.
+- check_page cross-link/back-link fails remain until the main run fills the silo placeholder and back-links; with simulated wiring the page PASSes (12,737 words).
+
+### Question register
+Page: /cctv-installation-suffolk-county
+Q&A (YOUR QUESTIONS ANSWERED):
+- How do I keep a mower, a plow or a landscaper from damaging buried camera cable?
+- What are the options for a camera in a vineyard block, nursery field or paddock with no power nearby?
+- Can a camera watch the oil tank, propane tank or generator at a house we rarely visit?
+- Are cameras allowed inside a house I rent out for the season?
+- How much upload speed does a Suffolk house need for watching cameras away from home?
+- Should I keep the internet service on at a house that closes for the winter?
+- Why does the time on the recorder matter, and how is it kept right after an outage?
+- Can anyone on staff export a clip for police without the admin password?
+- Will my CCTV system see through the fog that rolls in off the Sound and the ocean?
+- What should cameras cover at a boatyard where boats are stored on the hard over winter?
+- What should a tenant in a Suffolk flex building or plaza clear with the landlord before adding cameras?
+- What should a Suffolk school district, library or fire district ask for in a CCTV bid?
+- (CTA heading) How Far Is Your Farthest Camera?
+FAQ:
+- Do you cover the East End and Shelter Island, or only western Suffolk?
+- Can a camera help stop illegal dumping on my vacant lot or farm road?
+- Can my cameras keep recording if someone cuts the cable or phone line outside the house?
+- Can cameras help settle a damage dispute with a summer tenant or a contractor?
+- Can I watch my horses in the barn overnight from my phone?
+- Does a freestanding camera post on my own land need a town permit?
+- Can a gate camera let me talk to a delivery driver at the end of the driveway?
+- Do you install CCTV at Suffolk gas stations and convenience stores open overnight?
+- Do you install CCTV for veterinary hospitals and kennels in Suffolk?
+- Is there a minimum number of cameras for a Suffolk CCTV job?
+
+
+## Rockland County (cctv-installation-rockland-county)
+Page: cctv-installation-rockland-county · child of /cctv-installation-hudson-valley · Bronx GBP (#bronx, 460 E Fordham Rd) · direct line (845) 640-3835 · researched 2026-11-16.
+Format: exact query · platform · URL · finding · page section used.
+
+**Unique angle:** Rockland as five towns that build and police differently (Clarkstown / Orangetown / Ramapo / Haverstraw / Stony Point): ACS housing stock BY TOWN + DCJS 2024 property crime BY POLICE DEPARTMENT, the Clarkstown PD private-camera registry (no remote access) and why the recorder clock / clip export matters, and O&R outage numbers by town (PoE cameras die without a UPS). Dealership job told from a different aspect than the hub: the rack room, the recorder clock stamp (2026-03-12 17:04:51), nine spare channels, the per-channel Kb/s table as a health check, cameras placed around existing alarm motion sensors, and the hallway-door view.
+
+### Sources
+- `county='Rockland' AND year in ('2023','2024')` · NYS Open Data SODA via Firecrawl scrape · https://data.ny.gov/resource/ca8h-8gjq.json (dataset https://data.ny.gov/Public-Safety/Index-Crimes-by-County-and-Agency-Beginning-1990/ca8h-8gjq) · 2024 (2023): County total burglary 255 (237), larceny 3,346 (3,335), MVT 109 (103), property 3,710; Clarkstown PD burg 54 (63) / larc 1,427 (1,347) / MVT 36 (44); Ramapo PD 83 (72) / 628 (640) / 28 (36); Spring Valley Vg PD 64 (21) / 577 (607) / 12 (4); Haverstraw Town PD 22 (29) / 315 (270) / 20 (2); Orangetown PD 21 (39) / 229 (298) / 3 (13); Stony Point PD 6 (5) / 50 (65) / 3 (0); Suffern Vg PD 3 (7) / 76 (72) / 4 (3). Clarkstown = ~43% of county larceny. No Nyack, Haverstraw-village or West Haverstraw PD rows. · THE COUNTY police table + text, AI reality check.
+- ACS 2023 5-year DP04 by county subdivision (DP04_0001E, 0007PE–0013PE, 0024PE–0026PE, 0046PE/0047PE) · Firecrawl Alexandria census-gov provider · https://api.census.gov/data/2023/acs/acs5/profile?get=group(DP04)&ucgid=pseudo(0500000US36087$0600000) and ucgid=0500000US36087 · units / detached / 2+ unit / renter / pre-1940: Clarkstown 30,256 / 69.0 / 21.2 / 19.1 / 8.6; Orangetown 18,780 / 65.8 / 29.4 / 25.8 / 21.4 (1950s 21.7); Ramapo 40,715 / 45.8 / 44.8 / 45.3 / 9.1; Haverstraw 13,240 / 42.1 / 40.6 / 35.8 / 12.2; Stony Point 5,585 / 81.8 / 9.2 / 12.4 / 10.8; County 108,576 / 57.1 / 33.2 / 31.7 / 11.5. · THE COUNTY housing table, town notes, building specialists.
+- "Orange and Rockland Utilities outage customers without power Rockland County storm 2025" · Firecrawl search + scrape · https://www.oru.com/en/about-us/media-center/news/2025/12-19/oru-working-through-the-night-to-repair-damage-and-restore-service · Dec 19 2025 9:30 p.m.: 3,760 O&R customers out; Rockland 2,596 (Clarkstown 1,430, Spring Valley 394, Orangetown 340); gusts 40–50 mph; O&R ~300,000 electric customers NY/NJ; dateline Pearl River. · THE COUNTY power paragraph, AI reality check (PoE blackout claim).
+- "Rockland County police home business security camera registry program Clarkstown Orangetown Ramapo" · Firecrawl search · https://www.clarkstown.gov/police/surveillance-camera-registration/ ; Clarkstown PD press release (Facebook, Apr 4 2018) https://www.facebook.com/clarkstownpd/posts/press-releaseoffice-of-public-informationvideo-surveillance-camera-registration-/1634903633252309/ · voluntary registry of private camera locations; police may request footage for a date/time; "This program is not one that has remote access to your cameras." No equivalent found for Orangetown/Ramapo (search returned only Clarkstown) — page tells others to ask their own department. · THE COUNTY, Q&A, AI reality check.
+- QUOTE · Firecrawl scrape · https://rocklandtimes.com/2018/05/03/hometown-happenings-help-us-keep-an-eye-out-for-clarkstowns-safety/ · Supervisor George Hoehmann (Rockland County Times, May 3 2018): "It is important to note that the Police Department does NOT have unfettered, direct and remote access to the cameras that are registered. This is an enhanced Community Watch program for the 21st century." Also: "Clarkstown is consistently rated as one of the safest communities in the nation." · THE COUNTY blockquote + crime paragraph.
+- "Rockland County five towns nineteen villages ..." · Firecrawl search · https://explorerocklandny.com/about/communities/ ; https://en.wikipedia.org/wiki/Rockland_County,_New_York · 5 towns, ~200 sq mi, 338,329 residents (2020); Ramapo 148,919 most populous, Stony Point 14,655 least; village list (Airmont … West Haverstraw). · THE COUNTY intro, coverage list.
+- "Village of Nyack police department dissolved Orangetown police patrol Nyack" · Firecrawl search · https://www.orangetown.com/history-of-the-orangetown-police-department/ ; https://www.nyack.gov/emergency-services · Orangetown took over Nyack police services Jan 1 1991. · THE COUNTY police paragraph.
+- "Village of South Nyack dissolution 2022 Orangetown" · Firecrawl search · https://www.orangetown.com/wp-content/uploads/2022/01/Final-Village-of-South-Nyack-Dissolution-Plan-July-2021.pdf ; DPS doc · South Nyack dissolved effective Mar 31 2022. · THE COUNTY police paragraph.
+- "Orangetown Historical Areas Board of Review historic areas Tappan Palisades" · Firecrawl search · https://ecode360.com/26862929 (Orangetown Code ch. 12) ; https://ecode360.com/26879953 (ch. 18A) · historic areas in hamlets of Tappan and Palisades; building permit applications in those areas reviewed by HABR. · BUILDING SPECIALISTS (historic areas), town notes.
+- "Pearl River NY downtown Central Avenue shops train station Pascack Valley Line" · Firecrawl search · https://www.mta.info/schedules/metro-north/pascack-valley (Pearl River station) + realtor snippets naming the Central Avenue downtown · COVERAGE card, commercial list.
+- "CCTV installation Rockland County NY" · Firecrawl web search (Google-style) · our own security-camera page #1; yelp.com/search (Rockland), secureitsecurities.com, smartbizsystem.com/rockland-county-ny-cctv-installation.html (scraped: generic brand list, no prices, no photos, no local facts), dtminstallations.com, rappaportlocks.com, rockland-orange-security.com, aaofrockland.com · none show prices, job photos, town-level data, outage/UPS planning, police-registry or recorder-clock guidance → gap used for the angle.
+- "reddit Rockland County security cameras installer recommend" · Firecrawl search · reddit r/homedefense threads (store owner wanting 8 cameras; "who would I hire to install a POE camera system") — not Rockland-specific · labor-only box, Q&A seeds. Rockland-specific Reddit thread: EMPTY (not accessible in build env / none returned).
+- Local news with official quote on Rockland vehicle theft · Firecrawl search · only social posts (Stony Point PD Facebook citing DA Tom Walsh urging residents to lock cars and remove key fobs) — Facebook text not verifiable as a direct quote → NOT used.
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DuckDuckGo · EMPTY (not accessible in build env); AI reality check written against common generic claims and the national cost-guide pattern (Angi/HomeAdvisor/Fixr named generically, no numbers quoted).
+- Yelp 1–3★ Rockland camera installers · EMPTY (listing excerpts only, reviews not readable).
+- Prices: ONLY from security-camera-installation-rockland-county-ny.html — A $1,099, F $1,147, E $1,306, C $1,541, D $1,541 (top tier) incl. 2 wks recording; residential 4–8 camera NVR/PoE $1,228–$2,500; single-family 4-camera $1,099–$2,000; commercial $1,500–$5,000+; $0/month; financing link present.
+- Laws (statute pages, cited as general info, not legal advice): NY Labor Law §203-c; Penal Law §250.00/§250.05; Penal Law §250.45.
+
+### Images (11, new crops in images/cctv-installation/cctv-installation-rockland-county-*.webp; all from the Rockland County dealership job, images/rockland-toyota-*.jpeg)
+nvr-screen-live-tiles-and-empty-channels (hero, screen only) · bitrate-table-under-camera-grid · network-cable-bundles-over-recorder-rack · mezzanine-wall-camera-over-glass-offices · wall-camera-by-exit-sign-and-tall-windows · black-bullet-close-on-plain-white-wall · high-bullet-and-mini-dome-over-entry-ceiling · ceiling-mount-bullet-on-drop-tile-grid · corner-dome-where-ceiling-meets-tall-wall · hallway-bullet-facing-grey-service-door · turret-dome-over-glass-storefront-and-lot. Dealership signs/logos ("Toyota of Rockland", Lia logo, Toyota desk logo, Tundra banner), banner text and all people were CROPPED OUT rather than blurred; no faces, plates or readable documents remain.
+
+### FLAGS for Anwar
+- The Hudson Valley hub's dealership photos show the dealership sign ("Toyota of Rockland" in the bullet-camera and showroom images) and showroom staff/customers unblurred — the brief says to blur the sign. Not touched (hub is off-limits to builders).
+- security-camera-installation-rockland-county-ny.html pricing card says "4–8 camera home security system … across Queens" (template leftover) and also states "$1,099 to $2,000 for a single-family home"; both numbers reused here as published, Queens wording not copied.
+- check_page.py --no-registration on the live repo fails ONLY on the sibling cross-link lines (needs the main run's silo wiring + back-links). In a simulated wired copy (wire.py run on a scratch root) it prints PASS, 12,781 words.
+- Spring Valley burglary jump (21 → 64) is DCJS's figure as published; worth a glance before promoting it anywhere else.
+
+### Question register
+#### cctv-installation-rockland-county — Q&A (YOUR QUESTIONS ANSWERED)
+- Should my house get a DVR or an NVR?
+- Does a PoE camera need an outlet next to it, or an electrician?
+- What cable goes outside on a Rockland house, and why not the cheapest roll?
+- Where should the camera for the front door go on a raised ranch or split-level?
+- How do you get cable to the cameras on a 1950s cape with a finished upstairs?
+- Does joining Clarkstown's police camera list let officers see into my recorder?
+- Can a store's lot camera settle a fender-bender or a slip-and-fall claim?
+- Will new cameras clash with the alarm system's motion sensors on the same wall?
+- Can I see each camera's actual view before it is screwed down?
+- What does the per-channel number table on my recorder screen tell me?
+- What should cameras at a house of worship cover when the lot fills for services and holidays?
+- Can each person in the family get only the alerts they care about?
+- How should a strip-center store cover a rear delivery door on a lane it shares with other tenants?
+- How do you mount a camera on the foam-and-stucco front of a strip-center store?
+- (CTA heading) Old DVR in the basement and half the cameras dark?
+#### cctv-installation-rockland-county — FAQ
+- Can some cameras record all the time while others record only when something moves?
+- What happens to the footage when the recorder's hard drive is full?
+- I bought a Rockland house that already has cameras. How do I get the previous owner off the system?
+- Will I see a camera plan before I pay the deposit?
+- Is there any CCTV work you turn down?
+- What if I forget the password to my CCTV recorder?
+- Do outdoor cameras keep working through a hard January cold snap in Rockland?
+- Should a home EV charger or a business's charging spaces have a camera?
+- What does H.265 on a recorder spec sheet mean for me?
+- Does a CCTV system add much to the electric bill?
+
+## Westchester County (cctv-installation-westchester-county)
+
+Built 2026-11-16. Phone (914) 877-2578, GBP Bronx (460 E Fordham Rd, #bronx). Up-link /cctv-installation-hudson-valley. Prices copied from /security-camera-installation-westchester-county-ny (linked once in the "What We Install" section).
+
+### Unique angle
+Westchester is two counties for CCTV. The four southern cities (Yonkers, Mount Vernon, New Rochelle, White Plains) hold 173,236 of 391,861 housing units (44%) but reported 58.6% of the county's 2024 burglaries, 55.6% of its larcenies and 73.0% of its vehicle thefts; 33.8–49.5% of their homes are in 20+ unit buildings. So the page is organized city by city around multi-camera recorder systems for apartment buildings, downtown towers and storefronts, with Yonkers City Code Chapter 84 (mandatory business video systems: entrances, full-face, 8 fps, 30-day retention, access log, Jan 31 certification) as the regulatory spine; estates north of I-287 get one short section. Differs from the Hudson Valley hub (distance/rural/outbuildings angle) and from the NYC/LI/county siblings.
+
+### Sources (exact query · platform · URL · finding · page + section used)
+- "CCTV installation Westchester County" · Firecrawl web search (Google-style SERP) · roloelectronics.com/services; yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Westchester+County%2C+NY; knightprotect.com; our /security-camera-installation-westchester-county-ny (#4); datawiresolutions.com (UniFi); westchestersecuritysystems.com; digitalprovisions.com · Top 5 are generic installer/brand pages and a Yelp list; none covers Yonkers Chapter 84, city-by-city building stock, 30-day retention sizing, riser/tower cabling or DCJS/ACS data · whole page (angle).
+- "CCTV installer Yonkers NY DVR NVR" · Firecrawl web search (Bing/DDG cross-check) · facebook.com/yonkerstech, yelp Yonkers list, vivint.com/locations/new-york/yonkers, thumbtack, cctvcamerapros.com, camerasecuritynow.com · Same pattern: no local rules, no retention guidance · AI Reality Check framing.
+- DCJS Index Crimes by County and Agency 2024, county=Westchester · data.ny.gov SODA via Firecrawl scrape · https://data.ny.gov/resource/ca8h-8gjq.json?county=Westchester&year=2024 · County total burglary 831, larceny 7,679, MVT 812; Yonkers 284/1,538/315 (total 2,942); New Rochelle 50/985/56; Mount Vernon 97/737/193; White Plains 56/1,006/29. Four-city share computed: 487 burglaries (58.6%), 4,266 larcenies (55.6%), 593 MVT (73.0%) · "The Neighborhood" table + city H3s; AI section.
+- ACS 2023 5-year DP04 (DP04_0001E, 0007PE, 0011PE, 0012PE, 0013PE, 0017PE, 0026PE, 0047PE) for places 84000, 50617, 49121, 81677 and county 119 · Firecrawl Alexandria census-gov provider · https://api.census.gov/data/2023/acs/acs5/profile?get=group(DP04)&ucgid=1600000US3684000 (and the other ucgids) · Units: Yonkers 83,851; New Rochelle 32,138; Mount Vernon 30,890; White Plains 26,357; county 391,861. 20+ unit share: 38.0/37.1/33.8/49.5 vs 24.8. Renter: 52.8/48.6/57.9/47.6 vs 37.8. Pre-1940: 26.7/34.9/34.9/30.4 vs 28.0. Built 2020+: New Rochelle 1.5% vs county 0.5%. 5+ unit share computed: NR 44.5%, WP 59.2% · "The Neighborhood", AI section.
+- "Yonkers police private camera registration program" · Firecrawl web search → https://ecode360.com/29925107 (scraped) · Yonkers City Code Ch. 84 Video Camera Systems (G.O. 11-2014, adopted 10-28-2014): covered businesses (state alcohol licensees, open to public midnight–4 a.m., check cashers, licensed precious-metal secondhand dealers, state-licensed pharmacies, city-licensed pawn shops); cameras at every entrance/exit, full-frame face, activity within 15 ft; discernible faces at all times; ≥8 fps; digital recorder exporting to portable media; date/time index; record all business hours + 2 hours after close; audio not required; 30-day retention; police access on demand; locked storage; access log; inspection by Building and Police Departments; annual certification to Police Dept by Jan 31; Class I/III offense tiers · Commercial section H3, Q&A #1–2, FAQ #1, #6, #8, CTA, equipment table.
+- "New Rochelle downtown redevelopment" · Firecrawl web search → https://www.governor.ny.gov/news/governor-hochul-announces-completion-more-200-affordable-apartments-new-rochelle (scraped) · July 25, 2024: Highgarden Tower, 219 units, 19 stories, adjacent to New Rochelle station; QUOTE used: Mayor Yadira Ramos-Herbert, "As the fastest growing city in Westchester County and a designated Pro-Housing Community by Governor Hochul, buildings like Highgarden Tower ensure that New Rochelle remains a livable and accessible city for all." · "The Neighborhood" blockquote.
+- New Rochelle State of the City 2025 (newrochelleny.gov/1897) · Firecrawl scrape · redirects to 2026 page, content dynamic → EMPTY (not accessible in build env); search snippet ("11,000 housing units authorized … 7,941 approved") NOT used because speaker could not be verified.
+- "Con Edison Westchester customers lost power storm" · Firecrawl news search → https://www.coned.com/en/about-us/media-center/news/2026/06-06/con-edison-restoring-power--to-customers-affected-by-storm (scraped) · Release dated June 7, 2026: "More than 5,000 customers lost power in Westchester as the storm brought down trees across parts of Bronxville, Mount Vernon, New Rochelle, Pelham Village, Scarsdale, White Plains, and Yonkers." · "North of I-287" paragraph, AI section (battery backup).
+- "Westchester County Real Time Crime Center cameras" · Firecrawl search · publicsafety.westchestercountyny.gov/crime-analysis-unit (scrape failed: proxy tunnel error → EMPTY (not accessible in build env)) · not used on page.
+- "reddit Westchester security camera installer" · Firecrawl search · reddit.com/r/Westchester/comments/1hu8zqf (owner looking for installer for outdoor parking lots ~40x20'), 1jezgj3, 1xhyy4l · Residents ask for local installers for lots and homes; recommendations are word-of-mouth · informed the parking/lot and "questions to ask" sections (no quotes used).
+- Yelp 1–3★ Westchester/Yonkers security camera installation · yelp.com search pages · listing snippets only, reviews not readable → EMPTY (not accessible in build env).
+- People Also Ask / Answer the Public / Google AI Overview for this geo · not separately reachable → reused silo-level PAA/ATP from the NYC and Long Island sections of this file; AI Overview claims paraphrased from generic search summaries (Westchester = suburb, cloud is simpler, two weeks is enough, any camera satisfies a business rule) · AI Reality Check.
+- NY law (Labor Law §203-c; Penal Law §250.05, §250.45; NYS DOS Division of Licensing Services licenses security/fire alarm installers) · same citations as the Hudson Valley hub section · privacy bullets, FAQ #3.
+
+### Images (11, new crops in images/cctv-installation/cctv-installation-westchester-county-*.webp; captions name the real job location, none claimed as Westchester)
+- recorder-screen-tiles-and-stream-table (rockland-toyota-nvr-monitor, right/lower crop) — hero
+- wall-monitor-camera-grid-above-shelves (manhattan-deli-monitor, tight monitor crop, upscaled to 1140w)
+- corner-dome-over-wall-sensor-and-flag (nassau-window-depot-office-camera, right strip crop that EXCLUDES the framed certificates and the wall graphic text)
+- store-ceiling-domes-between-light-panels (manhattan-deli-interior-cameras, ceiling band)
+- entrance-and-side-lot-camera-tiles (nassau-window-depot-monitor, top two tiles; door street number BLURRED)
+- back-hallway-camera-toward-steel-door (rockland-toyota-hallway-camera)
+- bullet-on-ceiling-bracket-over-desks (rockland-toyota-ceiling-bullet)
+- stockroom-corner-dome-above-ladders (nassau-window-depot-storage-camera)
+- small-camera-on-lobby-ceiling-near-exit-sign (rockland-toyota-active-deterrent, upper crop, mural/desk excluded)
+- dome-above-front-counter-and-windows (rockland-toyota-office-camera, top crop; standee text excluded)
+- small-camera-high-on-pale-wall-over-glass-offices (rockland-toyota-bullet-camera, top crop that EXCLUDES the dealership sign)
+No faces readable; no other blurs needed.
+
+### Prices used (all from /security-camera-installation-westchester-county-ny)
+A $1,099 · F $1,147 · E $1,306 · C $1,541 · D $1,541 (4-camera packages incl. recorder, install, 2 weeks recording) · residential 4–8 camera NVR + PoE $1,228–$2,500 · commercial $1,500–$5,000+ · $0 monthly. 30-day drives, risers, concealed wiring, extra cameras: "priced after we confirm the layout".
+
+### FLAGS for Anwar
+- The source security-camera page's RESIDENTIAL price card says "…homes across Queens" (copy error on that page, not touched).
+- Yonkers Chapter 84 is summarized from eCode360 as of Nov 2026; amendments after that would need a re-check. Page says "not legal advice".
+- Our standard 2-week retention is below Chapter 84's 30 days; page tells Yonkers covered businesses the drive is sized up and priced after layout. Confirm you are happy quoting 30-day builds.
+- Storage math on page (4MP H.265 ≈ 21–22 GB/day; 6 cameras × 30 days ≈ 3.9 TB) is a rule of thumb, stated as such.
+- check_page.py cross-link/link-back failures are expected until the main run fills the CCTV-SILO-LINKS placeholder (verified PASS in a temp copy with silo links simulated).
+
+### Question register
+#### cctv-installation-westchester-county — Q&A (YOUR QUESTIONS ANSWERED)
+- What does Yonkers' video camera law require from a bar, pharmacy, pawn shop or late-night store?
+- How big a hard drive does a store need to hold 30 days of footage?
+- What cable do you run in a pre-war Yonkers or Mount Vernon building, and what changes in a new tower?
+- How do you size the PoE switch when a building needs 30 or more cameras?
+- Is a fisheye camera a good choice for a lobby or a mailroom?
+- What lens does a camera need to cover a long apartment corridor?
+- Can a restaurant on Mamaroneck Avenue or Main Street record its outdoor dining tables?
+- Can office cameras share the company network in a White Plains or I-287 office park without exposing it?
+- When does a PTZ camera make sense on a Westchester property?
+- Can cameras cover a building's bike room and storage cages without looking into residents' cages?
+- How often does a CCTV hard drive need replacing in a recorder that writes around the clock?
+- Can you move cameras when a store renovates or changes its layout?
+- (CTA heading) Got an inspector's notice or a board deadline?
+
+#### cctv-installation-westchester-county — FAQ
+- Who sends the January 31 compliance certificate to the Yonkers Police Department, the business or the installer?
+- Will CCTV cameras work on the building-wide internet that a new Westchester tower gives its residents?
+- How can I check that a CCTV company is really licensed in New York State?
+- Is a 4- to 8-camera house system in Westchester priced as a package or per camera?
+- How should a Westchester restaurant cover its takeout pickup shelf so orders stop disappearing?
+- Can a pharmacy record its pickup counter without capturing customers' prescriptions?
+- Can a Westchester daycare let parents watch the classroom cameras?
+- Do check-cashing and tax-preparation offices need special camera coverage?
+- Can I put a camera on my own balcony or terrace in a Westchester condo tower?
+- Do you install cameras for Westchester tenant associations or block associations?
+- Will the building lose power or internet while you install the recorder?
+- How do you name the cameras so a super or manager can find the right one fast?

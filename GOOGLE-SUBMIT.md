@@ -109,6 +109,9 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-bronx | QUEUED
 2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-staten-island | QUEUED
 2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-nassau-county | QUEUED
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-suffolk-county | QUEUED
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-westchester-county | QUEUED
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-rockland-county | QUEUED
 <!-- CCTV-PRIORITY-END -->
 
 <!-- 2026-10-29: brand price pages NOT on Google per URL Inspection API (184). Highest-search brands first, NYC areas first. Request these before everything else. -->
