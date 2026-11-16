@@ -1,0 +1,4 @@
+# HubSpot blog log — one public blog post per site page
+Date | Page | Post URL | Site page
+# 2026-11-16: NOT PUBLISHED. HubSpot connector lacks scopes cms.blogs.settings.read and cms.blogs.blog_posts.write (also needs blog-posts-publish).
+#   Fix: reconnect HubSpot in Claude and tick the blog permissions. Draft for access-control-installation-hudson-valley saved in seo/hubspot-drafts/ (angle not yet used live).
