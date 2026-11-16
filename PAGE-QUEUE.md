@@ -412,9 +412,9 @@ TODO | elevator-access-control-installation-orange-county | Elevator Access Cont
 TODO | elevator-access-control-installation-putnam-county | Elevator Access Control Installation | Putnam | up /elevator-access-control-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | elevator-access-control-installation-dutchess-county | Elevator Access Control Installation | Dutchess | up /elevator-access-control-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | elevator-access-control-installation-ulster-county | Elevator Access Control Installation | Ulster | up /elevator-access-control-installation-hudson-valley | (845) 640-3835 | GBP Bronx
-BUILDING 2026-11-15T23:59Z cctv-now | cctv-installation-nyc | CCTV Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-15T23:59Z cctv-now | cctv-installation-long-island | CCTV Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-15T23:59Z cctv-now | cctv-installation-hudson-valley | CCTV Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+LIVE | cctv-installation-nyc | CCTV Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE | cctv-installation-long-island | CCTV Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE | cctv-installation-hudson-valley | CCTV Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | cctv-installation-manhattan | CCTV Installation | Manhattan | up /cctv-installation-nyc | (929) 560-0737 | GBP Bronx
 TODO | cctv-installation-brooklyn | CCTV Installation | Brooklyn | up /cctv-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | cctv-installation-queens | CCTV Installation | Queens | up /cctv-installation-nyc | (347) 434-6392 | GBP Bronx
