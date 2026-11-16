@@ -418,9 +418,9 @@ LIVE | cctv-installation-hudson-valley | CCTV Installation | Hudson Valley hub |
 LIVE | cctv-installation-manhattan | CCTV Installation | Manhattan | up /cctv-installation-nyc | (929) 560-0737 | GBP Bronx
 LIVE | cctv-installation-brooklyn | CCTV Installation | Brooklyn | up /cctv-installation-nyc | (347) 934-8335 | GBP Brooklyn
 LIVE | cctv-installation-queens | CCTV Installation | Queens | up /cctv-installation-nyc | (347) 434-6392 | GBP Bronx
-TODO | cctv-installation-bronx | CCTV Installation | Bronx | up /cctv-installation-nyc | (646) 490-0629 | GBP Bronx
-TODO | cctv-installation-staten-island | CCTV Installation | Staten Island | up /cctv-installation-nyc | (347) 934-8335 | GBP Brooklyn
-TODO | cctv-installation-nassau-county | CCTV Installation | Nassau | up /cctv-installation-long-island | (516) 346-5778 | GBP Brooklyn
+BUILDING 2026-11-16T01:46Z cctv-areas | cctv-installation-bronx | CCTV Installation | Bronx | up /cctv-installation-nyc | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-16T01:46Z cctv-areas | cctv-installation-staten-island | CCTV Installation | Staten Island | up /cctv-installation-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-16T01:46Z cctv-areas | cctv-installation-nassau-county | CCTV Installation | Nassau | up /cctv-installation-long-island | (516) 346-5778 | GBP Brooklyn
 TODO | cctv-installation-suffolk-county | CCTV Installation | Suffolk | up /cctv-installation-long-island | (631) 407-2884 | GBP Brooklyn
 TODO | cctv-installation-westchester-county | CCTV Installation | Westchester | up /cctv-installation-hudson-valley | (914) 877-2578 | GBP Bronx
 TODO | cctv-installation-rockland-county | CCTV Installation | Rockland | up /cctv-installation-hudson-valley | (845) 640-3835 | GBP Bronx
