@@ -35,3 +35,9 @@ Date | Phrase | Gamma URL | AESS page
 2026-11-16 | wireless camera installation Hudson Valley | https://gamma.app/docs/84a5e66enh2br1w (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-hudson-valley
 2026-11-16 | apartment building security camera installation Hudson Valley | https://gamma.app/docs/tordm9c21lkwelg (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-hudson-valley
 2026-11-16 | Cat6 installation Hudson Valley | https://gamma.app/docs/aftcfgxinx21ot0 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/cat6-installation-hudson-valley
+2026-11-16 | apartment building security camera installation Long Island | https://gamma.app/docs/60qc2jzk4n1fl41 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-long-island
+2026-11-16 | Cat6 installation Long Island | https://gamma.app/docs/nj94c3ypouy4b38 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/cat6-installation-long-island
+2026-11-16 | apartment building security camera installation NYC | https://gamma.app/docs/op2t9guxnjgrpmh (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-nyc
+2026-11-16 | Cat6 installation NYC | https://gamma.app/docs/guzkkpm40rd3shz (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/cat6-installation-nyc
+2026-11-16 | commercial security camera installation Hudson Valley | https://gamma.app/docs/8n1yx3zdnw14xnq (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/commercial-security-camera-installation-hudson-valley
+2026-11-16 | commercial security systems Hudson Valley | https://gamma.app/docs/ve9w2xf2wleuaqz (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/commercial-security-systems-hudson-valley
