@@ -94,6 +94,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 
 2026-11-15 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 9 requested, 6 indexed (dvr-upgrade queens/ulster/westchester; floodlight brooklyn/orange county; hik-connect manhattan), 0 failed, 2724 queued. Not-indexed URLs were Crawled - currently not indexed. dvr-upgrade staten island and floodlight hudson valley: first Request-indexing click closed the live-test dialog with no result; succeeded on retry (the confirmation can take ~25s to appear). "Quota Exceeded" on the 10th request (nvr-installation-hudson-valley, Crawled - currently not indexed), which stays QUEUED; next run starts there.
 
+2026-11-15 evening (scheduled, 01:57 UTC Nov 16, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2787 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-16T01:53:03Z, 3003 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2139 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected cctv-installation-nyc (new top of PRIORITY; URL is not on Google; URL is unknown to Google); Request indexing returned "Quota Exceeded" on the first try, because the 9 requests this morning used the daily allowance. Queue unchanged; next run starts at cctv-installation-nyc.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-11-15 (Anwar): CCTV INSTALLATION HUBS GO FIRST — above every other line in this file. Big gap: 256 CCTV searches, 15,522 impressions, 4 clicks, no CCTV page. The builder adds each cctv-installation-* hub here as QUEUED the moment it ships; the morning Request-indexing run requests these before anything else. Only request a URL that returns 200. -->
