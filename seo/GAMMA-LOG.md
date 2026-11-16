@@ -29,3 +29,9 @@ Date | Phrase | Gamma URL | AESS page
 2026-11-15 | solar surveillance trailer Hudson Valley | https://gamma.app/docs/u8a4z0fvqvxzynu (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/solar-surveillance-trailer-hudson-valley
 2026-11-15 | security camera repair NYC | https://gamma.app/docs/j6mj69yvkq4mkbk (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/security-camera-repair-nyc
 2026-11-15 | solar surveillance trailer Long Island | https://gamma.app/docs/9f76y4l7bt7aivc (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/solar-surveillance-trailer-long-island
+2026-11-16 | security camera repair Hudson Valley | https://gamma.app/docs/9tqfljxnwmkig0g (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/security-camera-repair-hudson-valley
+2026-11-16 | wireless camera installation NYC | https://gamma.app/docs/jrkwsxrqtywqlij (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-nyc
+2026-11-16 | security camera repair Long Island | https://gamma.app/docs/hskk11xpkjujw1j (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/security-camera-repair-long-island
+2026-11-16 | wireless camera installation Hudson Valley | https://gamma.app/docs/84a5e66enh2br1w (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-hudson-valley
+2026-11-16 | apartment building security camera installation Hudson Valley | https://gamma.app/docs/tordm9c21lkwelg (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-hudson-valley
+2026-11-16 | Cat6 installation Hudson Valley | https://gamma.app/docs/aftcfgxinx21ot0 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/cat6-installation-hudson-valley
