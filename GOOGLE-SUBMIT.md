@@ -3674,3 +3674,9 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-16 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-pelham-parkway-bronx-ny | QUEUED
 2026-11-16 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-port-morris-bronx-ny | QUEUED
 2026-11-16 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-prospect-heights-brooklyn-ny | QUEUED
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/elevator-access-control-installation-manhattan | QUEUED
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/elevator-access-control-installation-brooklyn | QUEUED
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/elevator-access-control-installation-queens | QUEUED
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/elevator-access-control-installation-bronx | QUEUED
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/elevator-access-control-installation-staten-island | QUEUED
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/akuvox-vs-butterflymx | QUEUED
