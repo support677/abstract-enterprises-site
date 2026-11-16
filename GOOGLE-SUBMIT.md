@@ -96,25 +96,27 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 
 2026-11-15 evening (scheduled, 01:57 UTC Nov 16, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2787 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-16T01:53:03Z, 3003 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2139 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected cctv-installation-nyc (new top of PRIORITY; URL is not on Google; URL is unknown to Google); Request indexing returned "Quota Exceeded" on the first try, because the 9 requests this morning used the daily allowance. Queue unchanged; next run starts at cctv-installation-nyc.
 
+2026-11-16 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 3 indexed (cctv-installation nassau/rockland/putnam county, URL is on Google), 0 failed, 2786 queued. All 11 requested CCTV hubs inspected as not on Google (Discovered/Crawled - currently not indexed or URL is unknown to Google). cctv-installation-westchester-county returned "Oops! Something went wrong" twice and stays QUEUED for retry. "Quota Exceeded" on the 12th request (cctv-installation-ulster-county, Discovered - currently not indexed), which stays QUEUED; next run starts at cctv-installation-westchester-county.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-11-15 (Anwar): CCTV INSTALLATION HUBS GO FIRST — above every other line in this file. Big gap: 256 CCTV searches, 15,522 impressions, 4 clicks, no CCTV page. The builder adds each cctv-installation-* hub here as QUEUED the moment it ships; the morning Request-indexing run requests these before anything else. Only request a URL that returns 200. -->
 <!-- CCTV-PRIORITY-START -->
-2026-11-15 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-nyc | QUEUED
-2026-11-15 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-long-island | QUEUED
-2026-11-15 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-hudson-valley | QUEUED
-2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-manhattan | QUEUED
-2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-brooklyn | QUEUED
-2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-queens | QUEUED
-2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-bronx | QUEUED
-2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-staten-island | QUEUED
-2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-nassau-county | QUEUED
-2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-suffolk-county | QUEUED
+2026-11-15 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-nyc | REQUESTED 2026-11-16
+2026-11-15 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-long-island | REQUESTED 2026-11-16
+2026-11-15 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-hudson-valley | REQUESTED 2026-11-16
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-manhattan | REQUESTED 2026-11-16
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-brooklyn | REQUESTED 2026-11-16
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-queens | REQUESTED 2026-11-16
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-bronx | REQUESTED 2026-11-16
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-staten-island | REQUESTED 2026-11-16
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-nassau-county | INDEXED 2026-11-16
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-suffolk-county | REQUESTED 2026-11-16
 2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-westchester-county | QUEUED
-2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-rockland-county | QUEUED
-2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-orange-county | QUEUED
-2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-putnam-county | QUEUED
-2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-dutchess-county | QUEUED
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-rockland-county | INDEXED 2026-11-16
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-orange-county | REQUESTED 2026-11-16
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-putnam-county | INDEXED 2026-11-16
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-dutchess-county | REQUESTED 2026-11-16
 2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-ulster-county | QUEUED
 <!-- CCTV-PRIORITY-END -->
 
