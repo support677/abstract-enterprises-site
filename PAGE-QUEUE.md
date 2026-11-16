@@ -559,9 +559,9 @@ LIVE | fire-alarm-installation-morrisania-bronx-ny | Fire Alarm Installation | M
 LIVE | fire-alarm-installation-mount-eden-bronx-ny | Fire Alarm Installation | Mount Eden, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-mount-hope-bronx-ny | Fire Alarm Installation | Mount Hope, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-new-lots-brooklyn-ny | Fire Alarm Installation | New Lots, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-15T23:44Z | fire-alarm-installation-new-utrecht-brooklyn-ny | Fire Alarm Installation | New Utrecht, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-15T23:44Z | fire-alarm-installation-norwood-bronx-ny | Fire Alarm Installation | Norwood, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-15T23:44Z | fire-alarm-installation-ocean-hill-brooklyn-ny | Fire Alarm Installation | Ocean Hill, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | fire-alarm-installation-new-utrecht-brooklyn-ny | Fire Alarm Installation | New Utrecht, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | fire-alarm-installation-norwood-bronx-ny | Fire Alarm Installation | Norwood, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-ocean-hill-brooklyn-ny | Fire Alarm Installation | Ocean Hill, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-olinville-bronx-ny | Fire Alarm Installation | Olinville, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-park-slope-brooklyn-ny | Fire Alarm Installation | Park Slope, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-parkchester-bronx-ny | Fire Alarm Installation | Parkchester, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx

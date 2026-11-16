@@ -8777,3 +8777,298 @@ FAQ (§17):
 6. What does a PACT partner in New Lots inherit if the FDNY issued a Notice of Defect before the conversion?
 7. Do the store buildings along Linden Boulevard need building fire alarms?
 8. What fire alarm paperwork should a New Lots nonprofit ask for before signing a lease in a building with a system?
+
+## New Utrecht, Brooklyn — /fire-alarm-installation-new-utrecht-brooklyn-ny (commercial rebuild research, 2026-11-15)
+
+Neighborhood rebuild (NFPA 72 commercial only; stay-in-area rule — only "fire alarm installation Brooklyn" of the 13 area phrases; no 1-2 family home content; no prices; no CCTV). Up-link /fire-alarm-installation-brooklyn-ny · phone (347) 934-8335 · GBP Brooklyn (1282 Troy Ave, #brooklyn). Regulatory base reused as facts from "## NYC hubs" / New Lots section (same URLs, not re-fetched): PE/RA sealed drawings, TM-1 via FDNY Business, Project Authorization, NYC Business $420 / $525 fees, FDNY Fire Alarm Company Certificate + S-97 (NICET II+ or NYC master/special electrician), FDNY Fire Alarm Inspection Unit, ~20-24 weeks submission to approval, up to 8 weeks first review, B-45, FA-27 $105, Jan 5 2012 central station bulletin, NY Engineers BC 907 summary (every E; A 300+; R-2 units 3+ stories above lowest exit discharge or 16+ units), NYC Business 3-year record keeping. Old page text (incl. interim "Commercial Fire Alarm Services" block) not reused.
+
+**Unique angle:** "Where one system ends and the next begins." New Utrecht's old town center is a cluster of buildings whose fire alarm question is boundaries: (1) the 1956 New Utrecht Library at 1743 86th St, subject of a June 10 2026 HPD/BPL RFP for a new branch plus 200+ affordable homes on the library lot and the adjacent 33,500 sq ft municipal lot — library (assembly) under apartments (R-2), possibly two owners, governed by FDNY Office of Technology Management Bulletin 12-1/2015 (networked vs interconnected systems for mixed-use buildings); (2) the landmark New Utrecht Reformed Church campus of separate buildings — 1828 church, 1892 parish house (lightning steeple fire June 9 2011), 1906 parsonage, garage at 1827 84th St (fire Jan 21 2016), closed 2003-2018 for restoration; (3) New Utrecht HS joined to its 2000s cafeteria building by a corridor; (4) twin four-story 11-unit filings with community facility floors at 1710/1722 84th St. Field notes: drawing the line between two panels.
+
+**Avoided (sibling pages):** Bensonhurst used New Utrecht HS address/1924/3,125 students, West End el build dates 1917-1919, Loew's Oriental, El Divino Rey fire on New Utrecht Ave (May 2022), Engine 253, SBS corridor stats, 1476 86th St bakery fire — none reused (HS used only for annexes / 2000s cafeteria-corridor overhaul). Borough Park (Paradise Manor catering hall fire on New Utrecht Ave, Shabbos scheduling, 50th/55th St stations), Bath Beach (Shoreline towers, Bath Ave fires, Engine 253, 62nd Pct), Dyker Heights (parish campuses, golf clubhouse, 13th Ave), Gravesend (change of use), Mapleton (threshold angle, 18th Ave corner filed twice, FDR HS) — not reused. New Lots angle (PACT handovers, timber church, mass-timber library) not reused; FDNY bulletin 12-1/2015 not used on any other fire-alarm page (Downtown Brooklyn cites a different bulletin, 03-01-2019).
+
+Each entry: exact query · platform · URL · finding · page section used.
+
+### Boundaries / history
+- "New Utrecht Brooklyn neighborhood boundaries history New Utrecht Reformed Church 18th Avenue" · WebSearch → WebFetch · https://cavac.at/cavacopedia/New%20Utrecht%2C%20Brooklyn (Wikipedia mirror) · town est. 1652 by Dutch settlers, last of six original Kings County towns; covered Bath Beach, Bay Ridge, Bensonhurst, Borough Park, Dyker Heights, Fort Hamilton; town center on 84th St between 16th and 18th Aves; annexed to City of Brooklyn 1894; NYC Jan 1 1898; Free Library of the Town of New Utrecht founded 1894 by the "Winter Society". · §5, landmarks (library card).
+- same · WebFetch · https://forgotten-ny.com/2010/02/the-heart-of-new-utrecht/amp · 18th Ave overlays old New Utrecht–Flatbush road; 84th St unusually wide between 16th and 18th Aves (remnant of Kings Highway, carried Brooklyn, Bath & Coney Island RR track); New Utrecht Ave began as Brooklyn, Greenwood & Bath Plank Road, steam railroad 1864; Bay 16th St only Bay street past 86th St, to New Utrecht Ave near 81st St (former rail ROW); cemetery 16th Ave 84th-85th Sts; Milestone Park 18th Ave & 82nd St with granite replica of oldest remaining NYC milestone (original to Brooklyn Historical Society 1970s); Liberty Pole sixth on site, first 1783, current 1946. · §5, §8 streets, landmarks.
+
+### Church campus
+- "New Utrecht Reformed Church ..." · WebFetch · https://en.wikipedia.org/wiki/New_Utrecht_Reformed_Church · 18th Ave between 83rd and 84th Sts; built 1828 from stones of 1700 church; congregation 1677 (Forgotten NY); parish house 1892; parsonage 1906; cemetery consecrated 1654, ~1,300 interred; NYC landmark Mar 15 1966, extension Jan 13 1998; NRHP Apr 9 1980 (Wikipedia places it "in Bensonhurst"). · §5, §7, landmarks.
+- https://s-media.nyc.gov/agencies/lpc/lp/0172E.pdf · WebFetch · LP-0172E designated Jan 13 1998: "Georgian-Gothic" church on wooded lot behind iron fence, Liberty Pole in front; parish house 1892 by Lawrence B. Valk, simplified Romanesque Revival, two-story, pyramidal towers, dark red brick, raised basement with rusticated granite band course, most original wood sash survives, main entrance in tower on 84th St. · §5, §7, Q&A, landmarks.
+- "New Utrecht Reformed Church fire OR renovation ..." · WebSearch → WebFetch · https://brooklyneagle.com/articles/2011/06/17/fire-damages-new-utrecht-church-steeple/ · Thu June 9 2011 lightning struck parish house steeple during thunderstorms; ~15 neighbors called; Engine 243/Ladder 168, Engine 284/Ladder 149, Engine 330/Ladder 172; out <90 seconds after arrival, embers watered 15 min; firefighters broke chains on wrought iron gates; sexton Michael Blydenburgh; steeple separated from main building and second floor by ~15-20 ft of brick; quote Susan Hanyen (parishioner, consistory VP): "They had to snap the chains on our wonderful wrought iron gates to get around." · §5 table, repair, AI check (quote), Q&A.
+- https://bklyner.com/fire-at-new-utrecht-reformed-church-sets-back-restoration-project-bensonhurst · WebFetch · Jan 21 2016 1:28 pm fire in brick garage behind church at 1827 84th St, under control 2:45 pm; snowblower destroyed; church officer (named "Suzanne Hayman, VP Board of Deacons" in Bklyner): "We were very fortunate that the fire did not spread to our sanctuary." · §5, Q&A. Officer's name NOT used (spelling conflicts with Eagle/Reporter "Susan Hanyen" — FLAG).
+- https://brooklynreporter.com/2018/12/new-utrecht-reformed-church-reopens-after-major-restoration · WebFetch · services ended 2003 for roof deterioration; closed ~15 years; reopened Sun Dec 16 2018; new cedar shake roof, new barrel-vaulted interior ceiling, upgraded electrical service; quote Susan Hanyen (VP of the Consistory): "We actually had to recreate what was here and it was difficult." · AI check, Q&A, landmarks.
+
+### Library (unique angle)
+- ""New Utrecht Library" Brooklyn Public Library 86th Street renovation" · WebSearch → WebFetch · https://home4.nyc.gov/site/hpd/services-and-information/new-utrecht-library-rfp.page · HPD + BPL; new library + 100% affordable housing; site includes adjacent DOT municipal lot; Living Libraries; library City-owned, built 1956; RFP released June 10 2026, due Sept 4 2026, under review; branch open until construction; approvals "can take several years". · §5, §7, FAQ.
+- https://www.nyc.gov/site/hpd/services-and-information/new-utrecht-library-rfp-site-overview.page · WebFetch · library on 12,500 sq ft City-owned lot; adjacent 33,500 sq ft municipal lot fronting 85th and 86th Sts; 18 Ave D one block; B1, B8 buses; P.S. 163 and P.S. 748 "nearby" (not used). · §5, §8.
+- https://www.nyc.gov/site/hpd/news/038-26/city-housing-agency-brooklyn-public-library-celebrate-milestone-new-utrecht-library-project · WebFetch · June 10 2026 RFP release, 1743 86th St; >200 affordable homes; branch at least as large as current; respondents assume rezoning maximizing housing and library footprint. Quotes (Sandler, Johnson, Avilés) not used. · §5, §19 new work.
+- https://brooklyn.news12.com/2025/09/25/city-to-replace-new-utrecht-library-with-new-building-and-100-affordable-housing/rA0n00FpTXwv6Yc0kC4PV · WebFetch · "nearly 250 units of affordable housing"; engagement began; Adams quote (not used). · §5.
+- https://www.6sqft.com/bensonhurst-library-to-become-new-modern-branch-with-100-affordable-housing/ · WebFetch · 1743 86th St; 1894 Free Library, BPL 1901, current address 1956; Sunset Park = city's first 100% affordable + library development, opened Nov 2023; quote Linda E. Johnson "reinvigorate the aging New Utrecht Library building and provide the community with a modern branch for the 21st century". · §7 (quote).
+- https://brooklyneagle.com/358441/town-hall-held-as-locals-raise-concerns-on-new-utrecht-library/ · WebFetch · Dec 16 (year not stated) town hall by Sen. Steve Chan and AM William Colton at FIAO Il Centro on 18th Ave; Colton: building up to 13 stories "would be too large"; Chan: "this project will take years until it will become a reality"; residents wanted more library space than current two floors. · §5, Q&A 9.
+- NYC YIMBY Sept 2025 article https://newyorkyimby.com/2025/09/city-announces-plan-to-redevelop-new-utrecht-library-in-bensonhurst-brooklyn.html · EMPTY (not accessible — client_error).
+
+### FDNY mixed-use guidance
+- "does a library with apartments above need separate fire alarm systems NYC mixed occupancy" · WebSearch → WebFetch · https://www.nyc.gov/site/fdny/news/b1215/office-technology-management-bulletin-12-1-2015 · Dec 1 2015 OTM Bulletin 12-1/2015: Advisory #1 shared lobby/stairs/elevators in high-rise or large-area mixed-use → one system with one-way voice, "may consist of multiple fire alarm systems networked together"; Advisory #2 no shared lobby but shared stairs/elevators/services → "Interconnect fire alarm systems for alarm activation", "Provide two-way voice communications between the FCC's", selective one-way voice from all FCCs to shared stairs; separate Group E school on low-rise floors of a high-rise = notification zone. · §5, §8 callouts, §9 Q&A 1-2, types, interfaces, AI check.
+- https://meyerfire.com/daily/separate-fire-alarm-for-connected-buildings · WebFetch · forum discussion; no code requires separate systems per building; AHJ decides. · background only, not cited on page.
+
+### School / transit
+- "New Utrecht High School fire OR renovation" · WebSearch (no local results) → WebFetch https://en.wikipedia.org/wiki/New_Utrecht_High_School · late 1920s main building + four annexes; 2000s overhaul added two-story cafeteria building, old cafeteria → classrooms, new entrance with corridor linking buildings; Welcome Back, Kotter / It Happened in Brooklyn (not used). · §7, Q&A 10.
+- "18th Avenue station BMT West End Line" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/18th_Avenue_station_(BMT_West_End_Line) · at 18th Ave & New Utrecht Ave; stairs at NE and SE corners of 18th Ave & 85th St; opened June 24 1916 as first terminal of West End line; rehab 2012 (Bensonhurst Gardens art); MTA July 2026 announced two elevators. · §8, landmarks, Q&A 12.
+
+### New construction filings
+- "newyorkyimby permits filed Bensonhurst 18th Avenue OR New Utrecht Avenue OR 86th Street" · WebSearch → WebFetch · https://newyorkyimby.com/2023/08/permits-filed-for-1710-84th-street-in-bensonhurst-brooklyn.html and https://newyorkyimby.com/2023/10/permits-filed-for-1722-84th-street-in-bensonhurst-brooklyn.html · each four stories, 39 ft, 11 residences, 14,134 sq ft (9,899 residential / 4,234 community facility), cellar, Simino Architect, between 17th Ave and Bay 16th St near 18 Ave D; 1722 replaces two-story building. · §5 table, §7, §8, Q&A 8, new work.
+- https://blog.marketproof.com/?p=165351 · WebFetch · Mar 31 2026 filing 1833 78th St: three stories, six units, 7,278 sq ft residential, 3,966 sq ft commercial, replaces 1925 two-story house; listed height 75 ft inconsistent with three stories — height NOT used. · §7, new work.
+- https://www.pincusco.com/owner-seeks-city-zoning-change-to-develop-74-units-in-bensonhurst/ · WebFetch · Mar 23 2026, 7502 New Utrecht Ave owner seeks zoning change for up to 74 units (rest paywalled). · §8, new work. FLAG: 7502 New Utrecht Ave sits at the northern edge of the New Utrecht area (near 75th St).
+
+### Local fires / community / SERP
+- "Bensonhurst fire 18th Avenue 2025 OR 2026" and ""New Utrecht Avenue" fire Brooklyn 2024-2026" · WebSearch → WebFetch (News 12: 1801 Bay Ridge Ave Sept 10 2025 e-bike fire; Jan 7 2026 64th St basement lithium-ion fire) · outside the New Utrecht center or already used on the Brooklyn borough page / residential — NOT used. No 2024-2026 commercial fire found inside the old town center: EMPTY.
+- "reddit Bensonhurst New Utrecht library affordable housing OR church OR fire alarm" · WebSearch · no Reddit threads returned — Reddit: EMPTY. Assembly forum page (https://assembly.ny.gov/mem/William-Colton/story/116749) not fetched.
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp 1-3★ for "commercial fire alarm installation New Utrecht": EMPTY (not accessible). Question keywords from keywords/fire-alarm-installation.md woven into prose; AI reality check written against generic Angi/HomeAdvisor/Fixr-style answers, corrected with FDNY/HPD/LPC sources.
+
+### Images used (11, copied from the shared fire alarm set to new page names; all 20 unique base images viewed as contact sheets; "451" storefront image skipped; no camera/network photos)
+- marble-lobby-annunciator-touch ← ...bedford-stuyvesant-brooklyn-ny-lobby-annunciator-check.webp (hero)
+- touchscreen-panel-system-normal-tablet ← ...allerton-bronx-control-panel-touchscreen-tablet.webp
+- open-panel-circuit-board-floor-plan ← ...allerton-bronx-panel-wiring-drawings.webp
+- honeywell-panel-multimeter-binder ← ...bathgate-bronx-ny-control-panel-meter-test-drawings.webp
+- power-supply-cabinet-meter-test ← ...allerton-bronx-power-supply-battery-meter.webp
+- strobe-meter-check-red-piping-room ← ...allerton-bronx-strobe-meter-test-mechanical-room.webp
+- ceiling-horn-strobe-yellow-ladder ← ...bathgate-bronx-ny-ceiling-horn-strobe-basement.webp
+- corridor-strobe-drill-exit-sign ← ...allerton-bronx-horn-strobe-corridor-block-wall.webp
+- lobby-pull-station-gray-beard-check ← ...bay-ridge-brooklyn-ny-pull-station-lobby-check.webp
+- office-smoke-detector-scissor-lift ← ...allerton-bronx-smoke-detector-office-lift.webp
+- kitchen-hood-heat-detector-panel ← ...bathgate-bronx-ny-kitchen-heat-detector.webp
+(all prefixed fire-alarm-installation-new-utrecht-brooklyn-ny-; images: 11 reused from images/fire-alarm-installation/ shared set, no real New Utrecht job photos)
+
+### Checks (2026-11-15)
+- tools/check_page.py: all page-level checks pass; 13,910 rendered words; title 47; meta 158; 11 figures; 6 JSON-LD blocks; 8 FAQ = schema. Remaining FAILs are wiring for the main run only: _redirects `/fire-alarm-installation-new-utrecht-brooklyn-ny /...html 200` rule missing, and 15 area hubs (nyc, manhattan, queens-new-york, bronx, staten-island, long-island, nassau, suffolk, hudson-valley, westchester, rockland, orange, putnam, dutchess, ulster) don't link back to this page.
+- Keywords: 364/376 (all 363 non-area phrases + "fire alarm installation Brooklyn"; the 12 other area phrases deliberately absent).
+- Masked-geo similarity (8-word shingles, check_page mask): max containment 0.261 / Jaccard 0.150 vs fire-alarm-installation-new-lots-brooklyn-ny (exemplar chrome + shared FDNY phrasing); next Ocean Hill 0.198.
+- Mobile 390px (Playwright chromium): scrollWidth 390; no blank runs >500 px in full-page screenshot.
+- No "AESS", no $ amounts other than cited FDNY fees (written as dollars), no camera/CCTV, no LI/HV content in body.
+
+### Question register (this page)
+Q&A (§9):
+1. Under the FDNY's mixed-use bulletin, what decides whether the new library and the apartments above it get networked panels or separate interconnected systems?
+2. If the library and the housing end up with separate panels, how does a fire in one part warn the other?
+3. The library site includes the municipal parking lot next door. If the new building ends up with parking or a loading area, whose fire alarm covers it?
+4. The parish house steeple sits apart from the rest of the building. Can a fire alarm watch a space like that?
+5. The 1892 parish house still has much of its original wood window sash and brick walls. How do installers run fire alarm cable without harming historic material?
+6. After the 2016 garage fire behind the church, should an outbuilding on a church campus be tied into the fire alarm?
+7. The church's 2018 restoration upgraded its electrical service. Does new electrical work mean the fire alarm must be upgraded too?
+8. 1710 and 1722 84th Street were filed as matching four-story buildings. Can twin buildings use one fire alarm design?
+9. At the town hall, residents asked for more library space than the current two floors. Does adding library floors change the fire alarm more than adding apartment floors?
+10. New Utrecht High School's cafeteria building joins the main building by a corridor. Is a connected wing on the same fire alarm as the main building?
+11. Our building on 86th Street backs onto the parking lot that will become part of the library site. What should we ask about our fire alarm before construction starts next door?
+12. The MTA has announced two elevators for the 18th Avenue station. Does station construction affect fire alarms in the buildings beside it?
+FAQ (§17):
+1. Who files the fire alarm plans for the new New Utrecht Library building: the library, the housing developer or both?
+2. Is a library on the lower floors treated as a place of assembly when apartments sit above it?
+3. If the parish house at New Utrecht Reformed Church comes back into regular use for programs, who decides whether it needs a fire alarm?
+4. Can strobes in a church sanctuary be placed so they do not distract during services?
+5. Can the fire alarm panels for the new library building be chosen before the city picks a development partner?
+6. Should the current New Utrecht Library building keep paying for fire alarm repairs if it is going to be replaced?
+7. Does running fire alarm conduit between buildings on a landmark site with historic burials need special care?
+8. Does the FDNY test the library's fire alarm and the apartments' fire alarm on the same visit?
+
+## Ocean Hill, Brooklyn — /fire-alarm-installation-ocean-hill-brooklyn-ny (commercial rebuild research, 2026-11-15)
+
+Neighborhood rebuild (NFPA 72 commercial only; stay-in-area rule — only "fire alarm installation Brooklyn" of the 13 area phrases; no 1-2 family home content; no prices; no CCTV). Regulatory base reused as facts from "## NYC hubs" (FDNY tips PDF: PE/RA sealed drawings, TM-1, certified company + licensed electrician, ~20-24 weeks, first review up to 8 weeks; FDNY Fire Alarm Company Certificate FAQ: S-97 via NICET II+ or NYC master/special electrician; FA-27 $105; NYC Business $420/$525 + Project Authorization + 3-year records; Jan 5 2012 central office bulletin; doc-app requirements; ny-engineers BC 907.2 summary; MMR FY2025 21,966 malicious false alarms). BC 403 high-rise citation (amlegal 0-0-0-166705) reused from "## Downtown Brooklyn".
+
+**Unique angle:** Ocean Hill's big buildings are shared — one panel, one TM-1, one acceptance test and one Letter of Approval serving several organizations with separate bosses: the former JHS 271 (1137 Herkimer St, the 1968 strike school) now holding three schools; the 1965 windowless Brutalist school at 2021 Bergen St; Saratoga Village with a Medgar Evers/CUNY community center inside public housing, and Ocean Hill Apartments, both converted to PACT on Sept 25 2025 (owner + Kalel/Dantes + Wavecrest + BSRC); rebuilt Prospect Plaza stacking NYCHA and income-restricted units over a grocery, retail and garage; Henry Apartments supportive housing over storefronts on Broadway/Rockaway; and the Herkimer-Williams towers at Broadway Junction (office/retail/residential/light industrial/college/possible church) plus 50 Sackman St crossing the 75-ft high-rise line. Page centers on coordinating occupants (Building Council/BRT, call lists, test windows, tenant turnover on the SBS-studied corridors).
+
+**Avoided (sibling pages):** New Lots (PACT handover-records angle for Linden/Penn-Wortman/Boulevard; key-fob door release Q; NoD inheritance FAQ; lease-paperwork FAQ) — PACT here used only for Ocean Hill Apartments/Saratoga Village scope (roof/over-clad, elevators, in-unit detectors), with distinct questions. Bedford-Stuyvesant (MacDonough St brownstone fires Apr 7 2025 / Feb 13 2026, Restoration Plaza, Interfaith Medical Center, Stuyvesant Heights/Bedford historic districts, Marcy/Sumner, office-location FAQ) — not used (Stuyvesant Gardens named only as part of the same PACT package). East New York (2016 rezoning 45-1 / 6,000 units, Atlantic Ave rezoning sites, IBZ) — not used; Broadway Junction/Herkimer-Williams not on any sibling research section. Brownsville (Brownsville Plan RFP lots, BACA 366 Rockaway, Pitkin/Belmont upper floors, Loew's Pitkin, Newport Ave deli fire) — not used. Cypress Hills (supportive/transitional "who runs the panel" angle) — Henry Apartments used as a building type only, questions differ. Bushwick (venues/lofts/breweries, cockloft FAQ, "how fast can you reach" FAQ) — not used. Crown Heights (770, armory, Medgar Evers Bedford Ave campus, St. Mary's) — Medgar Evers appears only as the operator name of the Saratoga Village center. Shared-school campus questions on Jerome Park (Bronx) and Morrisania (Bronx) checked: no question repeats their meaning (whole-building evacuation, annunciator in which school office, new school mid-year).
+
+Each entry: exact query · platform · URL · finding · page section used.
+
+### Boundaries / background
+- "Ocean Hill Brooklyn neighborhood boundaries history Broadway Atlantic Avenue Saratoga Park" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Ocean_Hill,_Brooklyn · Broadway (N, Bushwick), Ralph Ave (W), East New York Ave (S), Van Sinderen Ave (E); CB16; ZIP 11233; "slightly hilly"; subdivided from Stuyvesant Heights; Italian enclave early 1900s-1960s; 1968 strike; 1977 blackout arson, revitalization 1990s; 2020 pop 37,952 (+18.8% from 31,935); 73rd Pct; A/C/J/L/Z at Broadway Junction; Prospect Plaza HOPE VI. · §5 neighborhood, facts table.
+- same query · WebFetch · https://cityneighborhoods.nyc/ocean-hill · tighter boundaries (Fulton St N, Ralph Ave W — sources disagree, noted on page); name credited to late-1800s developers (naming sentence later cut); 1870s-1890s Italianate/Neo-Grec rowhouses; Fulton St main commercial strip "synagogues, bakeries, and groceries". (Howard Houses and St. Paul Community Baptist listed there are Brownsville/East New York — NOT used.) · §5, §8 Fulton.
+- same query · WebFetch · https://www.nyc.gov/site/brooklyncb16/about/neighborhoods.page · CD16: Broadway N, Linden Blvd S, Van Sinderen E; 1,230.6 acres. · research only.
+- "Ocean Hill Brooklyn neighborhood boundaries ..." · WebFetch · https://www.nyc.gov/site/brooklyncb16/resources/public-safety-facilities.page · EMS 266 Rockaway Ave; Engine 227 423 Ralph Ave; Engine 233/Ladder 176 25 Rockaway Ave; Engine 231/Ladder 120 107 Watkins St; Engine 283 885 Howard Ave; 73rd Pct 1470 East New York Ave. · §8 Rockaway, landmarks card.
+- "Saratoga Park Ocean Hill Brooklyn Halsey Macdonough Saratoga Avenue history NYC Parks" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Saratoga_Park · Halsey St / Saratoga Ave / Macon St / Howard Ave; 3.21 acres; bought 1896; WWI memorial (104 men) dedicated Sept 11 1921, rededicated Sept 10 2014; Wikipedia files it under Bedford-Stuyvesant (noted on page). · landmarks.
+
+### Schools (core of the angle)
+- "JHS 271 Ocean Hill 1968 strike building Herkimer Street today schools co-located" · WebSearch → WebFetch · https://www.chalkbeat.org/posts/ny/2018/05/10/fifty-years-ago-teacher-oustings-that-led-to-new-york-citys-massive-teacher-strikes/ · May 9 1968 termination letters to 19 educators (13 teachers, 6 administrators), mostly JHS 271; JHS 271 closed 2008; building now houses Eagle Academy for Young Men II, Mott Hall IV, Uncommon Ocean Hill Collegiate; quote Nick Juravich "I think it's fair to say this is the spark." · §5, facts table, landmarks, AI check.
+- ""Eagle Academy for Young Men II" "1137 Herkimer" ..." · WebSearch → WebFetch · https://insideschools.org/school/23K644 · 1137 Herkimer St, grades 6-12, shares building with Mott Hall IV and Ocean Hill Collegiate. · §5, facts table, landmarks, Q&A 1.
+- same JHS 271 search · WebFetch · https://www.brownstoner.com/neighborhood/ocean-hill/ocean-hill-brooklyn-2021-bergen-st-brutalist-school-architecture/ · Suzanne Spellen Oct 19 2015: I.S. 55, 2021 Bergen St (Thomas S. Boyland–Rockaway), 1965, brick Brutalist, few windows in aluminum strips, "a fortress with very few windows"; now Brooklyn Collegiate HS; FDNY/EMS station facing Rockaway Ave behind a planned park; PS 155 at 1355 Herkimer (C.B.J. Snyder 1908). Article inconsistent on I.S. 55 vs 155 — page uses only the address. · §5, §7, Q&A 3, landmarks.
+- "co-located schools shared building fire drills fire alarm NYC DOE charter school shared space building council" · WebSearch → WebFetch (offset 100000) · https://www.schools.nyc.gov/school-life/space-and-facilities/campus-governance · more than half of NYC schools share campuses; Building Councils (Chancellor's Reg. A-190) required for 2+ co-located schools, district/D75/charter leaders as equal partners; 12 meetings Aug–July; topics incl. facilities, safety; Building Response Team with one rep per school, five core members + leader. Fire drill / custodian specifics: EMPTY (not on page). · §5, field notes, AI check, FAQ.
+
+### NYCHA / PACT
+- "NYCHA "Ocean Hill Apartments" OR "Saratoga Village" Brooklyn PACT" · WebSearch → WebFetch · https://nychajournal.nyc/nycha-partners-close-on-financing-for-433m-pact-project-to-renovate-5-brooklyn-developments/ · Sept 25 2025 closing; Bedford-Stuyvesant Rehab, Ocean Hill Apartments, Saratoga Village, Stuyvesant Gardens I & II; 14 buildings, 927 apartments, ~2,000 residents; RAD/PBV; Kalel Companies + Dantes Partners; Wavecrest Management; BSRC social services; facade/roof/windows/elevator overhaul; ~3 years; fire alarm not mentioned. Dollar figure NOT used. · §5, facts table, §7.
+- same · WebFetch · https://www.nyc.gov/assets/nycha/downloads/pdf/ohstuyg-communityplan.pdf · Ocean Hill Apartments 4 bldgs/236 apts (mgmt office 24 Mother Gaston Blvd, community room 305 MacDougal St); Saratoga Village 1 bldg/125 apts (33 Saratoga Ave), Medgar Evers College/CUNY Cornerstone Community Center 940 Hancock St; "All apartments will receive new hardwired carbon monoxide/smoke detectors and natural gas detectors"; new video intercom at all entrances; key fobs; elevators "fully modernized"; Saratoga facade over-cladding, roofs replaced (windows replaced 2023); relocation only for abatement/health. Fire alarm: not mentioned. · §5, §7, Q&A 4-6, interfaces, AI check, FAQ.
+- same · WebFetch · https://home4.nyc.gov/assets/nycha/downloads/pdf/saratoga_village.pdf · addresses 946/940 Hancock St, 23/33/35 Saratoga Ave, 881 Halsey St; one BIN; Wavecrest; BSRC; conversion 9/25/2025. · landmarks, research.
+- same · WebFetch · https://home4.nyc.gov/assets/nycha/downloads/pdf/ocean_hill_apartments.pdf · addresses 15-30 Mother Gaston Blvd, 301-319 MacDougal St, 386 Sumpter St; 4 buildings; stories/units not in content. · research only.
+- same · WebFetch · https://brooklyn.news12.com/ocean-hill-houses-receive-long-overdue-overhaul-as-nycha-launches-433m-pact-renovation-project · Sept 29 2025 (Aurora Fowlkes): 920 apartments across 14 buildings (NYCHA says 927 — page uses NYCHA figure); quote Claribel Serrano "It's overdue. It's well overdue - we needed the change". Quote not used in final copy (trimmed). · sources list.
+
+### Rebuilt / new buildings
+- "Prospect Plaza Ocean Hill redevelopment Saratoga Avenue Sterling Place new buildings completed" · WebSearch → WebFetch · https://www.brownstoner.com/development/prospect-plaza-affordable-housing-brooklyn-development-dattner-ocean-hill-1835-sterling-place · Aug 28 2017: 1845 Sterling Pl, 5 stories, 123 apts, garage, ground-floor grocery, retail, 2-story community center w/ rooftop greenhouse planned; 364 units in 5+ buildings on 4.5 acres; 80 NYCHA units; complex emptied 2000; Dattner; NYCHA/HPD + Pennrose, Blue Sea, Duvernay + Brooks, Rosenberg. · §7, facts table, Q&A 7-8, landmarks.
+- "newyorkyimby "Ocean Hill" permits filed ..." · WebSearch → WebFetch · https://newyorkyimby.com/neighborhoods/ocean-hill/page/10 · Prospect Plaza on Park/Prospect Places between Saratoga and Howard; NYCHA demolished four towers; 2414A Atlantic Ave (Sackman St–East New York Ave) six-story supportive housing filing (no date in snippet). · §7, new construction.
+- ""Henry Apartments" Broadway Ocean Hill Brooklyn affordable stories units" · WebSearch → WebFetch · https://www.nychdc.com/newsroom/hpd-hdc-alembic-sus-and-partners-announce-completion-134-unit-new-supportive-housing · May 8 2017: 1676 Broadway + 8 Rockaway Ave, two six-story buildings, 134 units (55 + 79), 78 for formerly homeless; SUS on-site services; Alembic; ground-floor commercial 2,500 + 4,500 sq ft; quote Maria Torres-Springer (not used). Dollar figures NOT used. · §7, facts table, §8, Q&A 9.
+- "Ocean Hill Brooklyn new building Broadway under elevated J train mixed-use permits filed newyorkyimby 2025 OR 2026" · WebSearch → WebFetch · https://newyorkyimby.com/2022/01/permits-filed-for-50-sackman-street-in-ocean-hill-brooklyn.html · 50 Sackman St (Herkimer–Fulton), 11 stories, 115 ft, 123 units (31 affordable), 46 enclosed parking, JFA, TOT Developers, replaces one-story industrial building. · facts table, AI check (high-rise), Q&A, new construction.
+- "Broadway Junction plan Ocean Hill 2025 2026 rezoning city announcement" · WebSearch → WebFetch · https://www.brownstoner.com/development/herkimer-williams-rezoning-ocean-hill-broadway-junction-totem-application/ · Nov 29 2023: triangle Van Sinderen / East New York Ave / Atlantic / Fulton "in Ocean Hill"; Broadway Junction station "in Ocean Hill close to the borders of Bushwick, Brownsville, Crown Heights, and East New York"; four towers 21-29 stories; 29-story 384 units; 24-story 212 units; two commercial towers on 3-story retail podium; church space; Calvary Free Will Baptist Church may be demolished or kept; elevated tracks through site; quote Tucker Reed "It's a conversation and the tradeoff between density and height versus desired uses." Height figures 445/455 ft inconsistent in article — NOT used. · §5, §7, AI check, Q&A 10.
+- same · WebFetch · https://www.6sqft.com/broadway-junction-development-with-1000-affordable-units-moves-ahead-after-council-approval/ · Dec 2025 Council approval; up to 1,000 affordable; office cut to 440,000 sf; 100,000 sf light industrial; 114,000 sf retail; up to 85,000 sf community facility (possibly college); phases over 10 years. · new construction, facts table.
+- same · WebFetch · https://www.bkreader.com/featured-news/broadway-junction-project-to-redefine-eastern-brooklyn-12210392 · Apr 30 2026: Ocean Hill listed among six neighborhoods at the site; ULURP approval Dec 2025; construction 2028 at earliest; at least a decade; quote Sandy Nurse "There is space dedicated to a higher educational facility that we are working towards". · §7, new construction.
+
+### Corridors
+- same boundary search · WebFetch · https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/n360-cdna-oceanhill-weeksville.pdf · SBS Neighborhood 360 CDNA (Bridge Street Development Corp; fieldwork Sept 2023–June 2024): Broadway (Lexington–Conway), Ralph & Rockaway (Broadway–East New York Ave), Fulton (Utica–Mother Gaston); 560 storefronts; 11.3% vacancy; 83% rent / 9% own; poor lighting under the el on Broadway; poorest storefronts on Fulton between Howard and Rockaway; merchant quote "It is a space for Black and Brown businesses." · §8, FAQ/Q&A (el lighting).
+
+### Local fires
+- "Ocean Hill Brooklyn fire 2025 FDNY Broadway building apartments" · WebSearch → WebFetch · https://brooklyn.news12.com/1-person-injured-in-ocean-hill-fire · Feb 15 2026 ~11 p.m., 670-672 Decatur St (Saratoga Ave–Thomas S. Boyland St); one to Interfaith with moderate injuries; rekindle Feb 16; full vacate 670; Red Cross 2 households. · repair §, Q&A 12.
+- same · WebFetch · https://www.brooklynpaper.com/one-injured-fire-vacant-ocean-hill-home/ · 672 vacant under full vacate since a 2013 fire; previously found illegally converted to 28-bed transitional housing; two alarms; cockloft; 100+ firefighters. · repair §, Q&A 12.
+- "reddit Ocean Hill Brooklyn fire alarm building ..." · WebSearch → WebFetch · https://brooklyn.news12.com/fdny-no-injuries-reporter-in-fire-outside-ocean-hill-building-lithium-ion-battery-found-at-the-scene · Oct 10 2024: fire outside a building on Atlantic Ave in Ocean Hill, ~60 personnel, lithium-ion battery found, under control 5:18 a.m. · §8 Atlantic.
+- same · WebFetch · https://brooklyneagle.com/280001/more-than-30-left-homeless-after-ocean-hill-fire/ · undated Dean St row fire, 31 displaced, 6 firefighters hurt — no date, NOT used.
+
+### Community / SERP
+- Reddit (r/Brooklyn, r/AskNYC, r/BedStuy) "Ocean Hill fire alarm": EMPTY (search returned news only, no relevant threads).
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp 1-3★ for "fire alarm installation Ocean Hill": EMPTY (not accessible in build env). Question keywords from keywords/fire-alarm-installation.md woven into prose; AI reality check built on generic Angi/HomeAdvisor/Fixr-style answers corrected with the sources above.
+- Patch / THE CITY / City Limits for Ocean Hill fire alarm topics: EMPTY (no relevant results surfaced in searches above).
+
+### Images used (11, cp from the shared generic set to new Ocean Hill names; each viewed before writing alt; no camera/network photos; no readable street numbers)
+- fire-alarm-installation-new-york-ceiling-horn-strobe-basement.webp → …-ocean-hill-brooklyn-ny-ceiling-horn-strobe-basement-conduit.webp
+- fire-alarm-installation-new-york-horn-strobe-corridor-block-wall.webp → …-corridor-horn-strobe-drill-pull-station.webp
+- fire-alarm-installation-new-york-power-supply-battery-meter.webp → …-power-supply-cabinet-meter.webp
+- fire-alarm-installation-new-york-smoke-detector-office-lift.webp → …-smoke-detector-lift-open-office.webp
+- fire-alarm-installation-new-york-strobe-meter-test-mechanical-room.webp → …-strobe-meter-test-mechanical-room.webp
+- fire-alarm-installation-nyc-control-panel-meter-test-drawings.webp → …-notifier-panel-meter-binder.webp
+- fire-alarm-installation-nyc-pull-station-lobby-check.webp → …-lobby-pull-station-horn-strobe.webp
+- fire-alarm-installation-ny-lobby-annunciator-check.webp → …-marble-lobby-annunciator-tablet.webp
+- fire-alarm-installation-ny-panel-check-sprinkler-riser.webp → …-panel-system-normal-sprinkler-riser.webp
+- fire-alarm-installation-ny-kitchen-heat-detector.webp → …-kitchen-detector-hood-panel.webp
+- fire-alarm-installation-ny-pull-station-and-panel-two-techs.webp → …-two-tech-pull-station-panel-laptop.webp
+(The 11 older ocean-hill image files from the previous template remain on disk, unused, not deleted.)
+
+### Checks (2026-11-15)
+- tools/check_page.py: all page-level checks pass; in the live repo it still lists 16 wiring items for the main run (15 area hubs don't link back to /fire-alarm-installation-ocean-hill-brooklyn-ny; _redirects lacks the `/fire-alarm-installation-ocean-hill-brooklyn-ny /fire-alarm-installation-ocean-hill-brooklyn-ny.html 200` rule — the 301! rule exists). With those two wiring items simulated in a scratch root: PASS.
+- Rendered words 13,803. Keywords 364/376 (all 363 non-area phrases incl. duplicates + "fire alarm installation Brooklyn"; no other area phrase present). Masked-geo 8-word shingle similarity: max containment 0.206 / Jaccard 0.115 vs fire-alarm-installation-new-lots-brooklyn-ny (all other fire-alarm-installation-* pages lower; New Utrecht in-progress 0.20).
+- Mobile 390px (playwright chromium, DSF 1): scrollWidth 390, no element past 390px, no blank runs in full-page screenshot.
+- Title 46 chars, meta 158 chars, 11 figures, 6 JSON-LD blocks, 10 FAQ = FAQPage schema, no prices/Offer schema, no "AESS", no CCTV in body (nav only, shared).
+
+### Question register (this page)
+Q&A (§9):
+1. Three schools share our building on Herkimer Street. Which principal is responsible when the fire alarm panel shows a trouble signal?
+2. Can a charter school sharing a district building add its own horns or strobes in its wing?
+3. Our school building from the 1960s has very few windows. Does that change what the fire alarm has to do?
+4. Saratoga Village is getting new roofs and facade over-cladding. What happens to the fire alarm equipment on the roof and outside walls while that work goes on?
+5. Our PACT renovation is modernizing every elevator in the building. When does the fire alarm get retested?
+6. Prospect Plaza mixes public housing apartments and income-restricted apartments in the same buildings. Do the public housing units get a different fire alarm?
+7. The grocery under the new Sterling Place building is changing operators. Does the fire alarm need to be reviewed?
+8. We run supportive housing over stores on Broadway. Do our case managers need training on the fire alarm?
+9. An 11-story building is going up on Sackman Street. Does it need more than the walk-ups around it?
+10. If Calvary Free Will Baptist Church is kept inside the Herkimer-Williams project, does it join the towers' fire alarm?
+11. The city's study flagged poor lighting under the Broadway el. Does that affect where firefighters find our building's fire alarm panel at night?
+12. An owner wants to turn a rowhouse near Saratoga Avenue into rooms for transitional housing. Does that call for a fire alarm system?
+FAQ (§17):
+1. Did the Ocean Hill-Brownsville school fight of 1968 leave local school buildings with their own rules for fire safety?
+2. After a fire, what should Ocean Hill tenants expect to be done to the building fire alarm before they move back in?
+3. Which company signs the FDNY fire alarm paperwork on an Ocean Hill job that Abstract Enterprises Security Systems coordinates?
+4. Does the CUNY community center inside Saratoga Village need its own fire alarm panel?
+5. What should a Fulton Street landlord check before a vacant storefront reopens as a church or clinic?
+6. Can routine fire alarm testing in a shared Ocean Hill school building be done when classes are out?
+7. Will the Herkimer-Williams towers change anything for older buildings next door?
+8. Can a PACT partner reuse the old NYCHA fire alarm panel in an Ocean Hill development?
+9. Ocean Hill Apartments will be under PACT construction for about three years. Should the fire alarm be inspected more often than the code minimum during that time?
+10. Does a supportive housing building on Broadway need more fire alarm features than ordinary apartments?
+
+## Norwood, Bronx — /fire-alarm-installation-norwood-bronx-ny (commercial rebuild research, 2026-11-15)
+
+NFPA 72 commercial only. Up-link /fire-alarm-installation-bronx-ny · phone (646) 490-0629 · GBP Bronx (460 E Fordham Rd, #bronx). Area phrase used: "commercial fire alarm contractor Bronx" only. Facts from the 2026-10-30 "## Norwood, Bronx" factory section above were re-verified where marked; nothing from the old page text was reused. Regulatory base reused as facts (not wording) from "## NYC hubs" and the Mount Hope section (FDNY tips PDF re-fetched there today; my own WebFetch of https://www.nyc.gov/assets/fdny/downloads/pdf/business/tips-fire-alarm-systems.pdf = EMPTY (not accessible — permission request timed out)): PE/RA seal, TM-1 via FDNY Business, C of O / Schedule A / DOB Letter of No Objection, installer = NYC licensed electrician or FDNY Fire Alarm Company Certificate holder, principal S-97 (NICET II+ or NYC master/special electrician), FA-27 $105, company cert lapses stop servicing, no FDNY renewal notices, ~20-24 weeks, initial review up to 8 weeks, Project Authorization, B-45, FAIU at 9 MetroTech, 100% complete / central station active / sprinklers operational / permanent power, S-97/S-98 at test; NYC Business $420 / $525, no fee to resubmit within 6 months; BC 907.2.9 R-2 (amlegal, line in this file) "without alarm notification appliances", >16 units / 3+ stories above exit discharge, smoke detector activation "shall not initiate a signal to alarm notification appliances"; NFSA 75 ft high-rise; MMR FY2025 21,966 malicious false alarms.
+
+**Unique angle:** what Norwood residents expect a building fire alarm to do vs. what the NYC code asks of an R-2 apartment house, told through the two summer-2026 fires (374 E 209th St explosion/5 alarms, Aug 5; 3435 DeKalb Ave cockloft fire, Aug 20, tenants "didn't hear no alarm"), plus Norwood's buildings that changed jobs (Nathan Straus Jewish Center → Head Start/day care/Montefiore medical office/teen program; 1889 Keeper's House → MPC offices + Norwood News; one-story 3196 Webster Ave → six stories by vertical enlargement; 3117 Bainbridge Ave arson lot) and a 17-story public hospital (NCB) replacing its sprinklers while open.
+Avoided (sibling pages): Bedford Park (Lehman, Bronx Science, DeWitt Clinton, Tracey Towers fire, 2011 Webster rezoning detail, Creston/Grand Concourse fires — only "NCB/Montefiore are in Norwood" there), Bronx hub (Montefiore 726/431/345 bed counts and its Moses-campus card — no bed counts used here), Morris Park (Hospital Row, ambulatory surgery/"hospital without beds"), East Flatbush (medical campus district lead angle), Bronxwood (nursing-home defend-in-place), Jerome Park (Keeper's House/Oval were noted as Norwood's, used here), Laconia (1234 E Gun Hill Rd strip fire — not used), Allerton/Woodlawn/Williamsbridge/Kingsbridge facts not used. Montefiore/NCB appear here only as landmarks and as context for medical-office space; no hospital system claimed. Questions checked against the full register by topic grep (hear/cockloft/vacate/synagogue/one-story/landmark/sanctuary/shelter/clinic/central station/annunciator/entrance/swap/malicious/museum/co-op) and rewritten where meaning overlapped (dropped: clinic sharing central station account — overlaps Morris Park #5; tenant disconnecting detectors — overlaps Claremont #10; two-entrance annunciator — overlaps Highbridge/Ocean Parkway; community-center-as-shelter Q&A cut for length).
+
+Format: exact query · platform · URL · finding · page section used.
+
+### Boundaries / background
+- "Norwood Bronx neighborhood boundaries prewar apartment buildings Bainbridge Avenue history" · WebSearch → WebFetch · https://www.cityneighborhoods.nyc/norwood · Webster Ave (SE), E Mosholu Pkwy (SW), W Gun Hill Rd + Jerome Ave (NW), Van Cortlandt Park (N); mostly 5-6 story prewar apartment houses, Art Deco/Tudor Revival/neo-Renaissance, brick rowhomes, co-ops, newer mixed-income; Montefiore opened 1913 at Gun Hill Rd & Bainbridge Ave; St. Brendan's 1908; Mosholu Pkwy 1911; Williamsbridge Oval 1937; CB7; Jerome Ave shops/auto services under the 4; D at Norwood-205 St, 4 at Mosholu Pkwy · hero, §5, at a glance, corridors, landmarks.
+- "Williamsbridge Oval recreation center Reservoir Keeper's House Norwood Bronx history NYC Parks" · WebSearch → WebFetch · https://www.nyc.gov/site/bronxcb7/about/norwood.page · Varian dairy farm; also called Bainbridge (Bainbridge Ave/E 204th St commercial area); "Little Belfast"; DeKalb/Rochambeau/Steuben streets for Revolutionary War officers; Montefiore = Bronx's largest private employer; MPC restored Keeper's House · §5.
+- Forgotten New York, https://forgotten-ny.com/2006/11/norwood-bronx/ · WebFetch EMPTY (not accessible — permission request timed out); fact used (E Gun Hill Rd east of Jerome = large apartment buildings + Montefiore complex) is from the 2026-10-30 factory section above, not re-verified · corridors (Gun Hill Rd). FLAG.
+
+### Summer 2026 fires (central angle)
+- "Norwood News DeKalb Avenue fire August 2026 residents no fire alarm" · WebSearch → WebFetch · https://www.norwoodnews.org/?p=136946 · Aug 20 2026, 3435 DeKalb Ave, one of three-building complex, top floor, call 5:49 a.m., 4 alarms, 4 minor injuries, all three buildings evacuated, Red Cross 60 households / 159 residents / 29 children, reception at Mosholu Montefiore Community Center; Lorens "I didn't hear no alarm at all, not a single alarm."; Jenny (4th floor) smoke detector missing, son smelled smoke; 5th-floor man heard faint alarm from 6th · hero, §5, Q&A 1-3, field notes, AI check.
+- same · WebFetch · https://abc7ny.com/19707451/ · between Kossuth Ave and E 208th St, shortly before 6 a.m., smoldered a long time, cockloft, blown-in insulation held heat/smoke, two cars blocking hydrant, ~75 units · §5, Q&A 3, rebuild section.
+- "Norwood Bronx East 209th Street explosion fire August 2026 Decatur Avenue Parkside Place" · WebSearch → WebFetch · https://www.norwoodnews.org/update-norwood-two-deceased-14-injured-after-explosion-at-e-209th-street-building-gofundme-launched/ · Aug 5 2026, call 12:26 p.m., 374 E 209th St between Decatur Ave and Parkside Pl, 5-story multiple dwelling, 27 units, 5th alarm 1:45 p.m., 84 units/270-300 personnel, three dead (third confirmed Aug 8), 14 injured, full vacate order seen Aug 6, Con Ed cut gas/power, Fire Marshal investigating; Chief John Esposito "It blew out window frames. It blew some of them across the street."; Commissioner Lillian Bonsignore (hillside, hot humid day) · §5, Q&A 4, rebuild section. (Cause not speculated on page.)
+- CBS News, https://www.cbsnews.com/newyork/news/explosion-fire-bronx-building-fdny/ · NOT re-fetched; Dinowitz quote "This building that was on fire was not fireproof." taken from the 2026-10-30 factory section · rebuild section. FLAG (quote not re-verified this session).
+- News 12 Bronx 209th St article https://bronx.news12.com/2026/08/06/one-dead-injured-after-flames-erupt-at-norwood-apartment-building/5EpDQAA7F9q4d3pfvidkk3 · EMPTY (not accessible — permission timeout).
+
+### Commercial corridor / Bainbridge fire
+- "Bainbridge Avenue Norwood fire October 2023 four alarm stores East 206th Street bakery" · WebSearch → WebFetch · https://www.norwoodnews.org/update-norwood-four-alarm-overnight-fire-rips-through-several-small-businesses-on-bainbridge-avenue/ · Oct 10 2023, 3:49 a.m., 3117 Bainbridge Ave between E 205th and E 206th, one-story commercial building, 168 FF/EMS, under control 8:50 a.m. · corridors, Q&A 7.
+- same · WebFetch · https://www.norwoodnews.org/seeking-answers-to-latest-bainbridge-commercial-fire-community-is-largely-stonewalled/ · May 18 2024: seven businesses (Hillside Meat Market since 1983, Bainbridge Bakery, Curry & Kebab, La Familia Market, Shahjalal Grocery & Variety, Mz Mexicana Grocery, 7S Fish Market); NYPD confirmed arson; demolished Oct 17 2023, lot empty; third major commercial fire since 2009; Bainbridge Bakery reopened at 3130 Bainbridge · §5, corridors, Q&A 7.
+- same · WebFetch · https://www.bxtimes.com/businesses-destroyed-as-firefighters-battle-4-alarm-early-morning-fire-in-bainbridge-section · heavy fire through roofs of several small businesses, crews withdrew when roof began to collapse · corridors (roofs), Q&A 7.
+- Norwood News "Foodtown LLC plans multi-story apartments" (URL in factory section) · not re-fetched; NOT stated on page.
+
+### Buildings that changed jobs / new construction
+- "Mosholu Montefiore Community Center 3450 DeKalb Avenue Norwood" · WebSearch → WebFetch · https://www.norwoodnews.org/former-temple-now-houses-day-care-center/ · Dec 1 2005: former Nathan Straus Jewish Center on DeKalb Ave bought by Montefiore late 1990s; MMCC + Montefiore + MPC; classrooms in old social hall and first-floor sanctuary; 51 Head Start + 45 day care; former Hebrew school → medical facility; New Beginnings teen program (45) in basement; quote Ilana Angeliades "Everything is child-sized, even the potties." · §5, building types, Q&A 5, AI check, FAQ 4.
+- same · WebFetch · https://eportfolios.macaulay.cuny.edu/norwoodbronx/?p=121 · MMCC main building 3450 DeKalb Ave, began 1942 in storefronts/basements, classrooms, computer lab, full-size gym, senior programs, ESL · building types, types (beam detection).
+- "newyorkyimby Norwood Bronx permits filed" · WebSearch → WebFetch · https://newyorkyimby.com/2025/04/permits-filed-for-3196-webster-avenue-in-norwood-the-bronx.html · 3196 Webster Ave between E 205th and E 207th, single-story → six stories, 71 ft, 14 residences, 8,438 sq ft residential, cellar, Boaz M. Golani Architect, vertical expansion, no demolition · §5, corridors, Q&A 6, rebuild section.
+- same · WebFetch · https://newyorkyimby.com/category/norwood · 3326 Reservoir Oval East four-story residential filing between Holt Pl and Bainbridge Ave · NOT used on page (background).
+- "The Lenru Wayne Avenue Norwood co-op 1928 Tudor" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/The_Lenru · 3388-3400 Wayne Ave, 1928, Jacobethan/Tudor, 6 stories, 104 units, courtyard, co-op 1991 · at a glance, building types.
+
+### Hospitals
+- "North Central Bronx Hospital Kossuth Avenue renovation news" · WebSearch → WebFetch · https://en.wikipedia.org/wiki/North_Central_Bronx_Hospital · 3424 Kossuth Ave, Norwood, 17 stories, Brutalist, opened Oct 25 1976, NYC H+H, ED, birth center with midwives (1977) · §5, landmarks, Q&A 9.
+- same · WebFetch · https://projects.constructconnect.com/details/7063592-north-central-bronx-sprinkler-upgrade-project&find_loc=new-york-10467 · NYC H+H sprinkler system replacement during renovation of a medical facility at NCB, firestopping; bid May 7 2025, start June 6 2025 · Q&A 9 (phrased as "listed in 2025"; no phasing claimed).
+- same · WebFetch · https://www.pincusco.com/state-city-agency-rehab-roundup-nychhc-finishes-50-2m-rehab-dasny-files-3-7m-plans/ and https://www.pincusco.com/nyc-health-hospitals-is-fully-permitted-for-a-50m-renovation-of-a-hazardous-building-in-riverdale/ · paywalled teasers; scope not visible · NOT used.
+- same · WebFetch · https://www.nyc.gov/html/hhc/html/news/press-release-20141009-NCBH-maternity-services.shtml · $2M L&D modernization, no date/quotes · NOT used.
+- "Montefiore Moses Division Hospital 111 East 210th Street ..." · WebSearch → WebFetch · https://wikiwand.com/en/Montefiore_Medical_Center · Moses campus 111 E 210th St; 1913 move to Bronx; Children's Hospital at Montefiore next to main hospital, est. 2001; Greene Medical Arts Pavilion · at a glance, building types, landmarks. (726-bed figure deliberately NOT used — Bronx hub uses it.)
+- https://montefioreeinstein.org/news/2025/05/14/... · nursing grant only · NOT used. https://montefioreeinstein.org/about/history · EMPTY (permission timeout).
+
+### Landmarks, schools, worship
+- "Valentine-Varian House Museum of Bronx History 3266 Bainbridge Avenue ..." · WebSearch → WebFetch · https://en.wikipedia.org/wiki/Valentine%E2%80%93Varian_House · 3266 Bainbridge Ave, 1758, Isaac Valentine, fieldstone, moved 1965 from across the street, restored 1965-68, Museum of Bronx History + Bronx County Historical Society, NYC landmark Mar 15 1966, NRHP 1978 · §5 at a glance, building types, landmarks, Q&A 8, AI check, FAQ 5.
+- "Williamsbridge Oval ..." · WebFetch · https://en.wikipedia.org/wiki/Keeper%27s_House_at_Williamsbridge_Reservoir · 3400 Reservoir Oval East, 1889, granite from reservoir excavation, slate roof, copper gutters, George W. Birdsall, NRHP Sept 24 1999, NYC landmark Feb 8 2000, MPC HQ + Norwood News · §5, building types, Q&A 8, landmarks, AI check.
+- same · WebFetch · https://php-cms.nycgovparks.org/parks/X104/highlights/6373 · reservoir opened 1889, 925x525 ft, 120M gallons, drained 1925; Parks acquired June 27 1934; Moses opened Sept 11 1937; 20 acres; field house of reservoir stone; 2008-13 renovation · landmarks, Q&A 12.
+- "St. Brendan's Church Norwood Bronx East 207th Street Perry Avenue school" · WebSearch → WebFetch · https://www.wikiwand.com/en/articles/St._Brendan's_Church_(Bronx,_New_York) · E 207th St & Perry Ave; current church 1966, Belfatto & Pavarini, modernist ship-prow; school founded 1912, fireproof building 1923; merged with St. Ann Aug 1 2015 · building types, landmarks, Q&A 11.
+- "public schools Norwood Bronx 10467 ..." · WebSearch → WebFetch · https://schooldigger.com/go/NY/schools/0008702244/school.aspx · P.S. 56 Norwood Heights, 341 E 207th St, K-5, 626 students (2024) · building types. https://www.schools.nyc.gov/Schools/X056 · no school data in fetched text (navigation only).
+
+### Community / SERP
+- "fire alarm installation Norwood Bronx commercial fire alarm contractor" · WebSearch · national vendor pages (getsafeandsound, Pavion, Pye-Barker, BBB category); no local PAA/PASF · AI check claims paraphrased from these generic answers (Angi/HomeAdvisor/Fixr named).
+- "reddit Norwood Bronx apartment building fire alarm landlord hallway smoke detector" · WebSearch · no Reddit threads returned · Reddit EMPTY.
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp 1-3★ for "commercial fire alarm installation Norwood Bronx": EMPTY (not accessible). Question-type keywords from keywords/fire-alarm-installation.md woven into prose as the PAA stand-in.
+
+### Images used (11, copied from the generic set to page names; each viewed; none shows a readable street number)
+- fire-alarm-installation-ny-panel-check-sprinkler-riser → …-norwood-bronx-ny-panel-tablet-check-sprinkler-riser (hero)
+- …-new-york-ceiling-horn-strobe-basement → …-ceiling-horn-strobe-cellar-ladder (§5)
+- …-nyc-pull-station-lobby-check → …-pull-station-strobe-entrance-check (building types)
+- …-ny-kitchen-heat-detector → …-heat-detector-kitchen-hood (corridors)
+- …-nyc-control-panel-meter-test-drawings → …-notifier-panel-meter-binder (system types)
+- …-new-york-power-supply-battery-meter → …-nac-power-supply-meter-test (devices)
+- …-ny-fire-alarm-cable-pull-steel-studs → …-cable-reel-steel-stud-pull (process)
+- …-new-york-smoke-detector-office-lift → …-smoke-detector-drop-ceiling-lift (existing systems)
+- …-nyc-horn-strobe-corridor-block-wall → …-horn-strobe-drill-block-corridor (contractor)
+- …-ny-lobby-annunciator-check → …-annunciator-touchscreen-stone-lobby (integration)
+- …-new-york-warehouse-smoke-detector-lift → …-smoke-detector-steel-beam-lift (rebuild/change of use)
+- Old …-norwood-bronx-*.webp files (no -ny-) left in place, not referenced.
+
+### Checks (2026-11-15)
+- check_page: every page-level check passes; the only 15 lines left are "live sibling <area page> doesn't link back to /fire-alarm-installation-norwood-bronx-ny" (borough/county/hub pages — wiring for the main run).
+- Keywords 364/376 (all 363 non-area phrases + "commercial fire alarm contractor Bronx"; 0 other-area phrases). Words 13,907. AI reality check 854 words, 7 H3s × 3 paragraphs.
+- Masked-geo 8-word shingles vs all 163 other fire-alarm-installation-*.html: max containment 0.100 / Jaccard 0.053 (Mount Hope; shared nav/footer).
+- Mobile 390px (playwright chromium, DSF 1): scrollWidth 390, no element past the viewport, full-page screenshot reviewed after scrolling (lazy images loaded), no blank gaps.
+
+### Question register (this page)
+Q&A headings (§9):
+1. After the August 2026 fire at 3435 DeKalb Avenue, tenants told Norwood News they heard no alarm on their floor. Does the code require a six-story Norwood apartment building's fire alarm to sound in the hallways at all?
+2. The DeKalb Avenue building is one of three in a complex, and residents of all three were evacuated. When a landlord owns three neighboring buildings, does each one need its own fire alarm panel?
+3. Fire officials said the DeKalb fire smoldered in a cockloft packed with blown-in insulation before anyone noticed. Can a building fire alarm put detection up in a cockloft?
+4. 374 East 209th Street was a five-story, 27-unit building the Department of Buildings ordered vacated after the August 5 explosion. If an owner rebuilds after a vacate order, does the old fire alarm approval still count?
+5. The former Nathan Straus Jewish Center on DeKalb Avenue became classrooms and a medical office. When a house of worship is converted like that, what in its old fire alarm can be kept?
+6. The one-story building at 3196 Webster Avenue has a filing to grow to six stories and 71 feet without being torn down. What happens to the fire alarm when floors are stacked on top of an existing store?
+7. The Bainbridge Avenue lot where seven businesses burned in October 2023 has sat empty. If apartments with stores below are built there, when does the fire alarm design start?
+8. The Keeper's House on Reservoir Oval East is an 1889 granite building with a slate roof. How do installers run fire alarm cable in a solid-stone building with no hollow walls?
+9. North Central Bronx Hospital had a sprinkler replacement project listed in 2025. When sprinklers are replaced in a building that stays occupied, what does the fire alarm side of the job involve?
+10. Many Norwood tenants work nights at the hospitals and sleep during the day. Can a building's fire alarm testing be scheduled around them?
+11. St. Brendan's Church was rebuilt in 1966 with a roof shaped like a ship's prow. How is smoke detection laid out under a ceiling that high and steep?
+12. Our building near the Williamsbridge Oval keeps getting malicious pulls at the street-level pull station. What can be done without breaking the code?
+FAQ (§17):
+1. Who approves and who inspects the building fire alarm in a Norwood apartment building: the FDNY, the Department of Buildings or HPD?
+2. What does a building fire alarm system do that the smoke alarms inside Norwood apartments don't?
+3. Can a Norwood landlord add horns or strobes to the hallways of an existing system without new drawings?
+4. Does a Head Start or day care room inside a mixed-use Norwood building need its own pull stations and strobes?
+5. Do fire alarm devices in a museum room like the Valentine–Varian House's need to protect the collections differently?
+6. How long does the FDNY's first plan review take for a fire alarm job in Norwood?
+7. Is the FDNY plan fee charged again if the plan examiner sends Norwood drawings back with comments?
+8. What should a Bainbridge Avenue store owner keep at the register for the fire alarm company?
+9. If the panel in a Norwood building dies and the same model is still sold, can it simply be swapped?
+10. If a building's fire alarm was damaged or shut off during a fire, what has to happen before residents move back?
+11. Who in a Norwood co-op should have authority to sign the fire alarm contract and talk to the FDNY?
+12. Why does a common-area detector outside an apartment door in a Norwood building trip when someone cooks, and what fixes it?
+Other headings ending in "?": none (repair H2 and mid-CTA H2 end without "?").
