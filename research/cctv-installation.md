@@ -780,3 +780,199 @@ A $1,099 · F $1,147 · E $1,306 · C $1,541 · D $1,541 (4-camera packages incl
 - Do you install cameras for Westchester tenant associations or block associations?
 - Will the building lose power or internet while you install the recorder?
 - How do you name the cameras so a super or manager can find the right one fast?
+
+
+## Orange County (cctv-installation-orange-county)
+Page: /cctv-installation-orange-county · child of /cctv-installation-hudson-valley · Bronx GBP (460 E Fordham Rd, #bronx) · direct line (845) 640-3835 · researched and built 2026-11-16.
+
+### Unique angle
+"The crossroads county": CCTV planned by where the loss happens, read from DCJS 2024 numbers broken down by police agency (retail-larceny towns vs Newburgh City burglaries), plus the I-84 warehouse/distribution belt (dock doors, truck gates, yards, freight-claim retention), the Newburgh historic-district facade rule, the O&R / Central Hudson split and black dirt farms. Hub covers distance/barns/six counties; Rockland covers towns/split-levels/Route 59; this page is warehouse- and agency-data-led.
+
+### Sources (exact query · platform · URL · finding · page + section used)
+| Query | Platform | URL | Finding | Section used |
+|---|---|---|---|---|
+| CCTV installation Orange County NY | Firecrawl web search | results: abstractenterprisessecuritysystems.com/security-camera-installation-orange-county-ny (#1), thumbtack.com Middletown, yelp.com search, vivint.com Middletown, rockland-orange-security.com, securitysolutionslockandsafe.com | Top 5 = our own camera page, directories (Thumbtack, Yelp), a national alarm brand, one local low-voltage firm. None show agency-level crime data, warehouse/dock design, freight-claim retention, Newburgh historic-district rule, real job photos or published prices. | Gap analysis → angle, Q&A |
+| data.ny.gov ca8h-8gjq county=Orange year=2024 | NYS DCJS Index Crimes by County and Agency (Socrata JSON via Firecrawl) | https://data.ny.gov/resource/ca8h-8gjq.json?county=Orange&year=2024 | County total 2024: larceny 3,430, burglary 300, MV theft 145. Newburgh Town PD larceny 670 / burg 62 / MVT 17; Woodbury Town PD larceny 560 of 578 index crimes (burg 11, MVT 1); Newburgh City PD larceny 378 / burg 108 / MVT 52; Middletown City PD 333 / 32 / 18; Wallkill Town PD 328 / 17 / 4; New Windsor Town PD 217 / 13 / 4; Port Jervis City PD 120 / 12 / 4. Computed: 4 retail agencies = 1,891 larcenies (55% of county); Newburgh City = 36% of burglaries, 36% of MV thefts. | Neighborhood table + text, commercial, AI reality check |
+| Orange County NY warehouse distribution center I-84 Montgomery Newburgh Wallkill | Firecrawl search → JLL newsroom | https://www.jll.com/en-us/newsroom/ridgecut-road-set-to-break-ground-on-state-of-the-art-northeast-distribution-hub | Feb 25 2025: I-84 Orange County Logistics Center, Montgomery, 146,075 SF, 36 ft clear, 31 dock doors, 2 drive-ins, 16 trailer spaces; neighbors Amazon, FedEx, UPS, Staples, Medline, XPO. QUOTE Scott Shalek (Ridgecut Road): "Montgomery offers a prime logistics location that has seen significant growth thanks to its deep talent pool and business friendly programs." | Neighborhood (warehouse belt + quote), Q&A sizing |
+| (same search) | HGAR Real Estate In-Depth | https://www.hgar.com/walmart-pursues-plans-for-major-distribution-center-in-orange-county | Jul 16 2026: Walmart application #2025-0069, Town of Wallkill, ~1.5M SF on ~200 acres near Route 17K and I-84; early planning board review, Walmart says discussions preliminary. | Neighborhood |
+| Orange and Rockland Utilities Central Hudson Orange County outage | O&R media center | https://www.oru.com/es/about-us/media-center/news/2025/12-20/orange-and-rockland-working-to-restore-service-to-customers-without-power | Dec 20 2025 10:45 a.m.: 238 Orange County customers out (Chester 70, Deerpark 50, Warwick 32); O&R NY service list includes Middletown, Wallkill, Goshen, Chester, Monroe, Woodbury, Warwick, Deerpark, Port Jervis, etc. | Neighborhood (two power companies) |
+| (same search) | Orange County Emergency Management Facebook (snippet only) | https://www.facebook.com/OrangeCountyEmergencyManagement/posts/power-outage-updatescurrently-5018-customers-remain-without-power-at-this-time-e/682035527292724/ | Snippet: "Central Hudson: 1138 customers without power. Primary areas impacted: T. Montgomery, T. Newburgh" → Central Hudson serves the Newburgh/Montgomery corner. | Neighborhood |
+| Central Hudson nor'easter Sept 2026 | cenhud.com news | https://www.cenhud.com/en/news/2026/central-hudson-crews-work-to-restore-power-after-noreaster/ | Sept 26 2026: 19,000+ out, hardest hit Ulster towns (not Orange) — context only, not used as Orange stat. | Not used (background) |
+| Woodbury Common Premium Outlets number of stores | premiumoutlets.com (search snippet) | https://www.premiumoutlets.com/outlet/woodbury-common | "245+ Stores", Central Valley NY 10917. | Commercial, landmarks |
+| City of Newburgh Architectural Review Commission East End Historic District | ecode360 + cityofnewburgh-ny.gov | https://ecode360.com/30538879 ; https://www.cityofnewburgh-ny.gov/267/Architectural-Review-Commission ; https://www.cityofnewburgh-ny.gov/DocumentCenter/View/877/Streamlining-Newburghs-Land-Use-Process-PDF | City Code Ch. 300 Art. VI: ARC certificate of appropriateness required for exterior alteration of designated properties / historic districts; land-use doc: COA needed for material change in appearance incl. light fixtures in East End Historic District. | Commercial compliance list, Q&A (historic facade) |
+| Carmack freight claim filing period | Cornell LII | https://www.law.cornell.edu/uscode/text/49/14706 | 49 U.S.C. §14706: carrier may not set less than 9 months for filing a loss/damage claim. | Q&A (dock footage retention) |
+| NY Labor Law 203-c; Penal Law 250.05, 250.45 | NYS Senate | https://www.nysenate.gov/legislation/laws/LAB/203-C ; /PEN/250.05 ; /PEN/250.45 | No employer video in restrooms/locker/changing rooms; one-party-consent eavesdropping; unlawful surveillance. | Commercial compliance, FAQ (employees) |
+| reddit Orange County NY cameras package theft Middletown Newburgh | Firecrawl web search | results were r/AskNYC, r/SecurityCamera (generic), a California "Orange County" story, a Newburgh Facebook repost of mailroom theft video | No usable Orange County NY Reddit thread. EMPTY (no local thread found). | — |
+| Census ACS 2023 DP04 Orange County | api.census.gov | https://api.census.gov/data/2023/acs/acs5/profile?...for=county:071&in=state:36 | EMPTY (not accessible in build env — API key required). Housing stock described qualitatively instead. | — |
+| Google PAA / PASF / AI Overview / Answer the Public / Bing / DuckDuckGo / Yelp 1–3★ | — | — | EMPTY (not accessible in build env; no SERP-feature capture). Yelp result only a listing page. Q seeds from keyword file + top-5 gaps. | — |
+
+### Prices used (all from /security-camera-installation-orange-county-ny)
+A Series from $1,199 · F Series $1,247 · E Series $1,406 · C Series $1,641 · D Series $1,641 · residential 4–8 cameras $1,340–$2,500 · commercial $1,500–$5,000+ · $0/month. Spec lines copied from that page. Everything else "priced per camera after we confirm the layout".
+
+### Images (11, new crops in images/cctv-installation/cctv-installation-orange-county-*.webp; none claimed as Orange County)
+recorder-tiles-with-timestamp-and-open-channels (rockland-toyota-nvr-monitor) · recorder-split-of-side-lot-and-back-room (nassau-window-depot-monitor, right column only; CAM 4 tile with street number cropped out) · two-ceiling-domes-over-retail-aisle (manhattan-deli-interior, no people) · store-wall-monitor-beside-front-window (manhattan-deli-monitor) · stockroom-dome-over-stacked-lumber-and-ladder (nassau storage) · white-dome-and-wall-sensor-in-office-corner (nassau office; sign, certificates and flag cropped out) · red-light-deterrent-camera-near-ceiling-vent (rockland active-deterrent) · bullet-camera-on-two-story-grey-wall (rockland bullet; dealership sign cropped out) · corridor-camera-toward-grey-steel-door (rockland hallway; paper sign on cabinet blurred) · turret-dome-over-glass-front-facing-lot (rockland office; person and poster text cropped out) · mini-bullet-on-plain-wall-above-ceiling-edge (rockland wall-camera).
+
+### FLAGS for Anwar
+- /security-camera-installation-orange-county-ny pricing card says the $1,340–$2,500 residential range is "for co-ops, condos, apartments, and homes across Queens" — template leftover on the Orange page.
+- /security-camera-repair-orange-county carries a quoted customer line ("We had twelve cameras at our Newburgh waterfront restaurant…") that looks like an invented testimonial — please confirm it is real or remove.
+- The proof strip and the package/price spec lines are shared constants across the silo (sim ≥0.65 by design).
+- Walmart Wallkill DC is a pending application (described as such on page) — re-check status at next refresh.
+
+### Question register
+#### cctv-installation-orange-county — Q&A (YOUR QUESTIONS ANSWERED)
+- How long should a warehouse keep dock footage to answer a freight damage or shortage claim?
+- How many cameras does a mid-size distribution building need, and how big a recorder?
+- How do cameras stay readable when truck headlights or a low winter sun shine into the lens?
+- Can CCTV show which forklift hit a rack, a door or a pallet?
+- How long does a CCTV installation take in a large warehouse that keeps working during the job?
+- Can cameras under a 36-foot ceiling be cleaned and re-aimed later without closing an aisle?
+- What should cameras cover at a bus depot, fleet yard or truck terminal where vehicles park overnight?
+- Can a camera on my building read the plates of cars going by on Route 17K or Route 300?
+- What camera layout helps a store prove a group shoplifting incident, not just one person?
+- Should a closed business use cameras with a speaker or siren to warn people off the lot?
+- Does a camera on a historic Newburgh facade need approval from the city?
+- What should cameras watch on a black dirt farm with fuel tanks and equipment parked in open fields?
+- Can alerts run only on a schedule, such as after closing or while we are at work?
+- Is a CCTV system the same as a monitored alarm, and do we need both?
+- (CTA heading) Dock doors, a store front or a back alley to cover?
+#### cctv-installation-orange-county — FAQ
+- Do your crews really travel to Port Jervis, Deerpark and the western edge of Orange County?
+- What happens if a camera fails a few months after the installation?
+- Do you sell the cameras, or only install them?
+- When is the rest of the bill due after the deposit?
+- Can you mount cameras on the light poles in our parking lot?
+- Can I put cameras on the warehouse floor or in the break room to watch employees?
+- Will wired cameras interfere with the Wi-Fi our scanners and forklift tablets use?
+- Do you install CCTV on single-family houses, or only on businesses?
+- Can I keep a copy of the footage off site in case the recorder is stolen?
+- Is a 4-camera package enough for a small shop or office?
+
+## Dutchess County (cctv-installation-dutchess-county)
+
+Page: cctv-installation-dutchess-county · child of /cctv-installation-hudson-valley · Bronx GBP (#bronx) · (845) 640-3835 · researched and built 2026-11-16.
+Area phrases used: "CCTV installation Dutchess County NY", "CCTV installation Poughkeepsie" only.
+
+### Unique angle
+Owner-held recording in the year Dutchess switched off its county plate readers: after the Sept 2026 Flock forum and the Oct 13 2026 Legislature vote, the page frames private CCTV around who holds the footage (local recorder, owner's admin login, no cloud requirement, voluntary sharing, one-page camera policy), then splits the county by building stock and agency-level crime data: City of Poughkeepsie old 2–4-unit rentals and student houses (60.8% renters, 39.3% pre-1940, balloon framing), the Town of Poughkeepsie's Route 9 retail strip (984 larcenies = ~39% of the county), Beacon mixed-use, and north/east horse country (barn dust/ammonia, honor-box farm stands, generator circuits). Different from the hub (distance/outbuildings across six counties), Rockland, Westchester, Orange (warehouses/I-84) and Putnam (lake/wooded lots).
+
+### Sources (exact query · platform · URL · finding · page + section used)
+- "CCTV installation Dutchess County NY" · Firecrawl web search (Google-style SERP) · our /security-camera-installation-dutchess-county-ny (#1), m.yelp.com CCTV System Installation Dutchess, smartbizsystem.com/dutchess-county-ny-cctv-installation.html, thumbtack Poughkeepsie, rcostaelectric.com, our /commercial-security-camera-installation-dutchess-county (#6), facebook.com/hudsonsec (Fishkill), knightprotect.com/dutchess · No result shows Dutchess crime/housing data, real job photos, rental/tenant guidance, or anything about footage ownership after the Flock decision. · Gap analysis → angle.
+- "CCTV installation Poughkeepsie" · Firecrawl web search · thumbtack (cost "$100 single camera to $1,000-$2,200 system" — NOT used), securitycamerasdirect.com/ny/poughkeepsie (national lead page), yelp Poughkeepsie, linkedupsecurity.com Poughkeepsie page, vivint, vector, safestreets · Generic or national pages; none distinguish City vs Town of Poughkeepsie. · Poughkeepsie section.
+- "Poughkeepsie police real time crime center cameras 2025" · Firecrawl web search → Mid Hudson News · https://midhudsonnews.com/2026/09/25/sheriff-and-da-public-safety-efforts-handcuffed-following-forum/ · Sept 25 2026: Sheriff Kirk Imperati and DA Anthony Parisi withdraw support for county use of Flock after Pleasant Valley forum; 64 Flock/Flock-style cameras under ARTCIC. QUOTE used (Imperati): "But believing a technology can be useful does not mean government should continue using it when the people it serves have raised serious concerns. Public safety depends on public trust. We cannot lose sight of that." · Who Holds the Footage section (blockquote).
+- same search → The Highlands Current · https://highlandscurrent.org/2026/10/16/dutchess-votes-to-cover-flock-cameras/ · Oct 13 2026 Legislature unanimously directed county-owned cameras still installed Nov 1 be covered; 65 county-owned, 372 others on private land or state/municipal roads (Beacon 7); 435,928 plates in 30 days before Oct 14. Quote (Legislator Lisa Kaul): "Cloud-based surveillance technology raises serious questions about who can access our information, how long it is retained, where it can be shared and how it can be used." East Fishkill 3-year data-center moratorium (not used). · Who Holds the Footage; AI reality check.
+- Dutchess County RTCC · dutchessny.gov · https://www.dutchessny.gov/46202.htm · Nov 14 2024: RTCC at Law Enforcement Center, Poughkeepsie; Legislature approved $200,000; funds "new cameras for high crime areas, as well as equipment to integrate existing municipal and community cameras". · Who Holds the Footage.
+- ARTCIC site · artcic.org · https://artcic.org/ · "Community Connect": residents/businesses could register existing cameras (free); private locations not shown on map; 30-day retention. Status after Flock withdrawal unknown → page tells readers to ask their department. · Who Holds the Footage list.
+- DCJS Index Crimes by County and Agency (ca8h-8gjq), county=Dutchess, year=2024 · data.ny.gov SODA via Firecrawl scrape · https://data.ny.gov/resource/ca8h-8gjq.json?county=Dutchess&year=2024 · County total burglary 268 / larceny 2,548 / MVT 142; Town of Poughkeepsie PD 59 / 984 / 25; City of Poughkeepsie PD 84 / 411 / 41; State Police in Dutchess (11 months) 39 / 350 / 22; Sheriff 40 / 288 / 14; Fishkill Town 7 / 118 / 6; East Fishkill 7 / 114 / 10; Beacon 11 / 88 / 10; Hyde Park 16 / 61 / 13. · Neighborhood table; Poughkeepsie section; AI check intro.
+- ACS 2023 5-year DP04 (DP04_0001E, 0007PE, 0009PE, 0010PE, 0026PE, 0046PE, 0047PE) for place 59641 (Poughkeepsie city), place 05100 (Beacon city), county 027 · Firecrawl Alexandria census-gov provider · https://api.census.gov/data/2023/acs/acs5/profile?get=group(DP04)&ucgid=1600000US3659641 (and …3605100, 0500000US36027) · Poughkeepsie city 14,254 units, 27.0% detached, 16.1% 2-unit, 19.3% 3–4 units, 39.3% built ≤1939, 60.8% renter; Beacon 6,658 units, 52.5% detached, 39.3% ≤1939, 40.5% renter; Dutchess 122,636 units, 62.6% detached, 18.0% ≤1939, 31.2% renter. · Neighborhood; Poughkeepsie; AI check.
+- Central Hudson July 2026 storm (reused hub source, re-checked in hub research) · Daily Freeman · https://www.dailyfreeman.com/2026/07/05/nearly-50000-central-hudson-customers-without-power-after-storms-hit-region/ · 27,816 Dutchess customers still out Sunday 5:51 p.m. · Q&A (generator circuit).
+- NY law pages · nysenate.gov · LAB 203-C, PEN 250.05, PEN 250.45 · employer video ban in restrooms/locker/changing rooms; eavesdropping (one-party consent); unlawful surveillance. · Commercial rules; AI check; Q&A. FOIL applies to agency records only (general knowledge of Public Officers Law Art. 6) · FAQ (public record).
+- "reddit Poughkeepsie security camera installer recommendation" · Firecrawl web search · reddit r/homedefense, r/SecurityCamera, r/Ubiquiti "Looking for an Installer in the Hudson Valley" · generic who-to-hire threads, no Dutchess-specific thread. · How to choose section seeds.
+- "Town of Poughkeepsie police organized retail theft Route 9" · Firecrawl web search · Facebook (Town of Poughkeepsie PD joint op with NYSP Troop K), troopers.ny.gov ORT details · snippets only, dates/details not verifiable in build env → NOT used.
+- Google PAA / PASF / AI Overview / Answer the Public / Bing / DuckDuckGo: EMPTY (not accessible in build env) — Firecrawl web index used instead; AI reality-check claims written against common generic advice.
+- Yelp 1–3★ review text for Dutchess installers: EMPTY (not accessible in build env) — listing pages only.
+
+### Prices used (all from /security-camera-installation-dutchess-county-ny)
+A $1,299 · F $1,347 · E $1,506 · C $1,741 · D $1,741 (4-camera, recorder, 2 weeks recording, remote access) · residential 4–8 cameras $1,452–$2,500 · commercial $1,500–$5,000+ · $0 monthly. Spec lines copied from that page's package cards. Monitor: E/F/D 20", C "monitor included", A none listed.
+
+### Images (11, new crops in images/cctv-installation/cctv-installation-dutchess-county-*.webp; captions name the real job location, none claimed as Dutchess)
+- Manhattan deli: wall-tv-camera-grid-above-snack-shelves, ceiling-dome-over-aisle-and-menu-boards (menu-board header incl. a deli-meat brand sign blurred), white-dome-under-yellow-canopy-corner (cropped below the "Coffee, ATM, Juice Bar" sign; no business name).
+- Nassau window depot: recorder-split-screen-lot-and-stockroom (right half only: CAM 2 lot + CAM 3 stockroom; CAM 4 street number and CAM 1 people excluded), office-dome-above-alarm-motion-sensor (banner and framed certificates cropped out), storeroom-dome-in-stained-ceiling-corner.
+- Rockland dealership: nvr-live-tiles-lobby-lot-and-desks (hero), mezzanine-wall-camera-and-exit-sign (dealer-name signs cropped out), ceiling-deterrent-camera-among-recessed-lights, ceiling-turret-above-glass-entry-wall (person at desk cropped out), short-bullet-mount-at-corridor-ceiling-edge.
+
+### FLAGS for Anwar
+- Price source page bug: /security-camera-installation-dutchess-county-ny "Residential $1,452–$2,500" card says "homes across Queens"; the same page also says "$1,299 to $2,000 for a single-family home" in an H3. CCTV page uses the series prices, the $1,452–$2,500 card range and the commercial range only.
+- Flock topic is politically live (election-season quotes). Page stays neutral: one quote from the Sheriff, one from a legislator, no position taken. ARTCIC "Community Connect" registration status after the county leaves Flock is unknown; page tells readers to ask their department.
+- Sources disagree on the Public Safety Committee chair's name (Mid Hudson News "Eric Alexander", Highlands Current "Eric Andrews"); not named on page.
+- Gate-opener/intercom tie-in FAQ says "often, depends on operator and intercom model" — confirm crews offer this.
+
+### Question register
+#### cctv-installation-dutchess-county — Q&A (YOUR QUESTIONS ANSWERED)
+- With the county's Flock plate readers switched off, does a privately owned CCTV system still help police in Dutchess?
+- If police ask for video from my recorder, do I have to hand it over?
+- What cameras make sense outside a house rented to Marist, Vassar or Dutchess Community College students?
+- Should landlords change the camera logins every time a student lease turns over?
+- Does balloon framing in an old City of Poughkeepsie house make camera wiring easier or harder?
+- Our Route 9 store loses stock to daytime walk-outs, not break-ins. How should the cameras be aimed?
+- Will dust and ammonia in a horse barn ruin a camera?
+- Should the camera system go on the generator's essential-loads circuit?
+- Should a bar near the colleges point a camera at the ID check at the door?
+- When in a new build should the CCTV cabling go in?
+- Can I put a camera where it watches my car at the Beacon or Poughkeepsie train station lot?
+- Does old electrical wiring in a pre-war house cause problems for a camera system?
+- What should a camera cover at a self-serve farm stand with an honor box?
+- (CTA heading) Landlord, store owner or farm owner in Dutchess?
+#### cctv-installation-dutchess-county — FAQ
+- What does CCTV installation cost in Dutchess County, from a 4-camera house to a Route 9 business?
+- Does the starting price change between the south county and the farm towns up north?
+- Do you cover the Harlem Valley and the northeast towns along Route 22?
+- Can a CCTV system run with no cloud account at all?
+- Is the footage on my private recorder a public record that anyone can request?
+- Can part of a camera's view be blacked out so it never records a neighbor's window or yard?
+- Does every house-brand package come with a monitor?
+- Can a gate camera on a long private drive work with the gate opener and intercom?
+- Do you install cameras at camps, retreat centers and other properties that close for part of the year?
+- Where do you hide the recorder so a burglar can't walk off with the evidence?
+
+## Putnam County (cctv-installation-putnam-county)
+
+Page: /cctv-installation-putnam-county · child of /cctv-installation-hudson-valley · Bronx GBP (#bronx, 460 E Fordham Rd) · direct line (845) 640-3835 · researched and built 2026-11-16.
+Format: exact query · platform · URL · finding · page section used.
+
+### Unique angle
+"CCTV starts where the public road ends." Putnam's Sheriff runs 48 license-plate readers at 21 fixed sites (808 alerts on 250 vehicles Jan 1–Aug 11 2026; 46% of burglary-crew alerts fired at county-line cameras), but those stop at the pavement; a private wired system covers the long private drive, the house and the outbuildings, with footage kept on the owner's own recorder (tied to the 2026 Putnam LPR / data-privacy debate). Supporting threads: DCJS 2024 crime by police agency (Sheriff + State Police cover the towns with no PD; larceny 341→400, Kent 17→55), ACS town housing (77.7% detached, Putnam Valley 95.6% and 17.3% vacant, 57.8% fuel-oil heat, 1,757 seasonal homes), dead zones (Schumer 2015 / RootMetrics last of 125), NYSEG outages by town (2017, 2018), NYC DEP watershed land behind lots, lake communities with private roads, ledge/stone-wall cable routes, Cold Spring HDRB. Different from the hub (six-county distance/barns/farms), Rockland (five towns + Clarkstown registry), Westchester (four cities + Yonkers Ch. 84), Orange (warehouses/I-84), Dutchess (students/landlords/Flock off).
+
+### Sources
+- "CCTV installation Putnam County NY" · Firecrawl web search (Google-style SERP) · our /security-camera-installation-putnam-county-ny (#1); smartbizsystem.com/putnam-county-ny-cctv-installation.html; yelp.com (Rockland list, wrong county); knightprotect.com/putnam/; vivint.com/locations/new-york/putnam-valley; thumbtack (Valley Stream, wrong area); angi.com Putnam Valley list; linkedupsecurity.com/areas-we-serve/; beaconprotection.com/county/putnam/ · Top results are generic service/area pages and directories (two not even Putnam); none show prices, job photos, Putnam crime/housing data, LPR context, long-drive/ledge cabling, outage or dead-zone planning. · gap analysis → angle.
+- "Putnam County Sheriff McConville security cameras residents footage burglary" · Firecrawl search → scrape · https://www.putnampresstimes.com/post/sheriff-no-flock-cameras-used-in-putnam-county (Aug 23 2026) · County LPRs are not Flock; data on a government server via regional Real Time Crime Center; plates only, no facial recognition; historical search needs active criminal investigation; 2-year retention; Jan 1–Aug 11 2026: 21 active fixed sites, 808 alerts on 250 vehicles, 184 stolen vehicles (546 alerts), 27 burglary-crew vehicles (100 alerts; 46% at county-line cameras), 22 organized-retail-theft vehicles (141 alerts), 17 special alerts. QUOTE used (Sheriff's Office): "When one of these vehicles shows up here, it is a strong indicator that a crew is canvassing our neighborhoods for target homes." Other quotes available (Sheriff Brian Hess; Carmel Chief Anthony Hoffmann; Kent Chief Kevin Owens) not used. · THE NEIGHBORHOOD (stats + quote), Commercial (retail theft crews H3), Q&A (canvassing), AI reality check.
+- same search · https://highlandscurrent.org/2026/09/17/putnam-sheriff-defends-street-camera-system/ (The Current, Sept 17 2026, Leonard Sparks) · 48 cameras, 21 locations; Sept 9 2026 Protective Services Committee meeting; Philipstown residents questioned data sharing; LPRs on Route 9D, Little Stony Point, Nelsonville Main St (Rt 301); suspect who cut internet line at county 911 center identified via LPR. · THE NEIGHBORHOOD (privacy paragraph), AI reality check (cloud privacy).
+- `county=Putnam AND year in (2022,2023,2024)` · NYS Open Data SODA via Firecrawl scrape · https://data.ny.gov/resource/ca8h-8gjq.json (dataset https://data.ny.gov/Public-Safety/Index-Crimes-by-County-and-Agency-Beginning-1990/ca8h-8gjq) · 2024 County Total: 519 index, 456 property, burglary 38, larceny 400, MVT 18 (2023: 453 / 405 / 42 / 341 / 22; 2022: 538 / 474 / 37 / 404 / 33). 2024 by agency (burg/larc/MVT): Sheriff 25/208/9 (2023 larc 166; total index 272); Carmel Town PD 4/91/4 (2023 larc 95); Kent Town PD 5/55/1 (2023 larc 17); State Police 4/37/4 (11 months; 2023 larc 46); Brewster Vg 0/4/0 (6); Cold Spring Vg 0/5/0 (7); MTA and County Park PD 0. · THE NEIGHBORHOOD table + paras, town paras, AI check, FAQ.
+- ACS 2023 5-year DP04/DP02 (DP04_0001E, 0003PE, 0007PE, 0026PE, 0047PE, 0063PE, 0064PE, 0066PE; DP02_0154PE) + B25004_006E, county subdivisions of state 36 county 079 · Firecrawl Alexandria census-gov provider (census/data) · https://api.census.gov/data/2023/acs/acs5/profile?get=group(DP04)&ucgid=0500000US36079 (and per town) · County: 38,369 units; detached 77.7%; vacant 8.6%; pre-1940 17.9%; renter 17.0%; heat utility gas 10.0%, LP 6.3%, fuel oil 57.8%; broadband subscription 94.6%. Towns (units / detached / vacant / seasonal / pre-1940): Carmel 12,783 / 77.6 / 6.6 / 403 / 11.6; Southeast 7,343 / 61.3 / 5.5 / 147 / 17.8 (utility gas 19.5%); Kent 5,098 / 83.9 / 9.0 / 259 / 17.5; Putnam Valley 4,820 / 95.6 / 17.3 / 451 / 25.3; Philipstown 4,429 / 79.1 / 12.4 / 384 / 26.3 (LP 11.5%); Patterson 3,896 / 77.5 / 5.9 / 113 / 20.2. Seasonal total 1,757. · THE NEIGHBORHOOD housing table + town paras.
+- "Putnam County NY cell service dead zones broadband Philipstown Putnam Valley" · Firecrawl search → scrape · https://www.schumer.senate.gov/newsroom/press-releases/schumer-cell-phone-wireless-carriers-are-wrongly-claiming-quality-reception-on-coverage-maps-for-northern-westchester-and-putnam-counties-in-reality-areas-are-often-dead-zones-schumer-calls-for-feds-to-immediately-investigate-deceptive-coverage-maps (Oct 5 2015) · RootMetrics ranked Hudson Valley (incl. N. Westchester and Putnam) last of 125 metro areas; QUOTE used (Sen. Charles E. Schumer): "There are more cell phone dead zones in Northern Westchester and Putnam Counties than post-winter potholes on the West Side Highway." · THE NEIGHBORHOOD (quote + bullet), AI reality check. Also broadband.ny.gov consumer resources (Putnam: 8,859 ABA-eligible households; providers incl. Starlink, T-Mobile, Verizon) · informed Starlink/cellular FAQ (no number used).
+- "NYSEG Putnam County outages customers without power Carmel Kent Patterson storm" · Firecrawl search → scrape · https://dailyvoice.com/article/thousands-still-without-power-in-westchester/ (May 16 2018): NYSEG 28,043 Putnam customers out after the May 15 storms, >4,000 each in Southeast, Putnam Valley, Patterson, Kent, Carmel; https://patch.com/new-york/southeast/13k-without-power-putnam-after-sunday-storm (Oct 30 2017): ~13,000 Putnam customers out (Carmel 4,576; Putnam Valley 2,565; Kent 2,314; Patterson 2,107; Southeast 1,420). · THE NEIGHBORHOOD bullet, AI check (UPS).
+- "NYC DEP watershed land Putnam County reservoirs ..." · Firecrawl search · https://www.nyc.gov/site/dep/water/west-branch-reservoir.page (Kent & Carmel, Route 301 splits basins, 8 bn gal, 1895), https://www.nyc.gov/site/dep/water/boyds-corner-reservoir.page (Kent), https://www.nyc.gov/site/dep/water/croton-falls-reservoir.page (Carmel & Southeast, Route 35/36 causeways), https://dec.ny.gov/places/west-branch-reservoir (DEP access permit) · THE NEIGHBORHOOD bullet, Building Specialists card, Q&A (watershed boundary), Coverage card.
+- "Cold Spring village Historic District Review Board certificate of appropriateness" · Firecrawl search · https://www.coldspringny.gov/242/Historic-District-Review-Board ; https://coldspringny.gov/DocumentCenter/View/1590/Current-Chapter-PDF (Ch. 64); https://www.coldspringny.gov/221/Building-Department · HDRB reviews exterior changes; Certificate of Appropriateness for exterior work in local/national district; Village Hall 85 Main St. · Commercial compliance bullet, Q&A.
+- "reddit Putnam County NY security cameras Mahopac Carmel installer recommend" · Firecrawl search · reddit.com/r/PutnamCountyNY (snippet: resident asking a store manager to review security footage after an incident), r/reolinkcam/1in2zg8 (can't find installers for PoE cameras, only monitoring companies) · Putnam-specific installer threads: EMPTY (none returned; Reddit bodies not scrapable). · labor-only box, Q&A tone.
+- Yelp "Security Camera Installation near Mahopac, NY 10541" · Firecrawl search snippet · listing names only; 1–3★ review text EMPTY (not accessible in build env).
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DuckDuckGo · EMPTY (not accessible in build env) — question seeds from Anwar's keyword list, the sources above and the silo question register; AI reality check written against generic claims (low crime = no need, county cameras cover it, cloud more private, office-store UPS, mulch-covered cable, battery cams on trees); Angi/HomeAdvisor/Fixr named generically, no numbers.
+- Local corridors/landmarks (common geography, no stats): Route 6/6N (Mahopac, Carmel), Route 22 / 312 / I-84 / I-684 (Brewster, Southeast), Route 52 (Kent, Lake Carmel), Route 22 / 311 (Patterson), Main Street Cold Spring + Route 9 (Philipstown), Peekskill Hollow Rd / Oscawana Lake Rd (Putnam Valley); landmark cards: Lake Mahopac, Historic Courthouse Carmel (Lake Gleneida), Main Street Brewster (Metro-North), Main Street Cold Spring, Fahnestock State Park, West Branch & Croton Falls reservoirs. · Commercial, Coverage Area.
+- Laws (statute citations, general info, not legal advice): NY Labor Law §203-c; Penal Law §250.00/§250.05; Penal Law §250.45. · Commercial compliance list.
+
+### Prices used (all from /security-camera-installation-putnam-county-ny, linked once in "What We Install")
+A $1,199 · F $1,247 · E $1,406 · C $1,641 · D $1,641 (top tier), each 4-camera package incl. recorder, install, 2 weeks recording · residential 4–8 cameras $1,340–$2,500 · commercial $1,500–$5,000+ · $0 monthly. Road cameras, long runs, conduit, aerial runs, concealed wiring, extra cameras, UPS: "priced after we confirm the layout". 30-day workmanship warranty + paid 1-yr+ add-on + exact terms sentence.
+
+### Images (11, new crops in images/cctv-installation/cctv-installation-putnam-county-*.webp; captions name the real job location, none claimed as Putnam)
+recorder-spare-channels-and-zero-bitrate-columns (hero; rockland-toyota-nvr-monitor right half: D5–D18 tiles, empty D24/D29/D30, 0 Kb/s columns) · outdoor-dome-under-awning-corner-with-bare-trees (manhattan-deli-exterior-camera, right side; no shop name in frame) · two-ceiling-domes-over-shelving-and-vents (manhattan-deli-interior-cameras, upper right) · store-tv-showing-camera-tiles-close (manhattan-deli-monitor, monitor only) · side-lot-tile-with-brick-wall-and-date-stamp (nassau-window-depot-monitor, CAM 2 tile only — CAM 4 street-number tile, CAM 1 people and handwritten note excluded) · wall-corner-dome-and-motion-sensor (nassau-window-depot-office-camera, narrow crop excluding company banner, framed certificates and flag) · storeroom-dome-above-leaning-trim-boards (nassau-window-depot-storage-camera) · high-camera-on-two-story-showroom-wall (rockland-toyota-showroom, upper crop excluding dealership signs and people) · compact-camera-on-tile-ceiling-by-soffit (rockland-toyota-active-deterrent, excluding mural and ad standee) · bullet-over-hallway-door-frame (rockland-toyota-hallway-camera, upper crop excluding the brand ad on the cabinet) · ceiling-bullet-on-short-drop-mount-close (rockland-toyota-ceiling-bullet, close crop). No blurs needed: every sign, number, document and face was cropped out rather than blurred.
+
+### FLAGS for Anwar
+- /security-camera-installation-putnam-county-ny shows a "Recent Install" card naming a Toyota dealership in Kent Cliffs, NY as a Putnam job, while the build brief (and every CCTV page) treats the rockland-toyota-* photos as a Rockland County job. This page captions them "Rockland County car dealership". Please confirm the real location.
+- That security camera page's RESIDENTIAL price card says "…homes across Queens" (copy error) and its FAQ says "$1,199 to $2,000"; this page uses only the package prices and the $1,340–$2,500 / $1,500–$5,000+ cards.
+- Outage figures are from Oct 2017 and May 2018 storms and the Schumer/RootMetrics item is from 2015 (all dated on the page); swap in newer NYSEG Putnam numbers if a recent storm report appears.
+- LPR figures and quotes come from the Sheriff's Aug 2026 release as printed in the Putnam County Press and from The Highlands Current; the page states them neutrally and does not take a side in the LPR debate.
+- check_page.py --no-registration on the live repo fails ONLY on the sibling cross-link / link-back lines (needs the main run's silo wiring). In a scratch copy wired with the rockland wire_sim logic it prints PASS (13,359 words; full check incl. registration also PASS).
+- Starlink/cellular FAQ says recorder apps usually connect through the maker's relay; true for house-brand/partner P2P apps in general, worth a glance.
+
+### Question register
+#### cctv-installation-putnam-county — Q&A (YOUR QUESTIONS ANSWERED)
+- What does a burglary crew checking out Putnam houses look like on a driveway camera?
+- Our land borders New York City watershed property. Where can our cameras point?
+- Can I still get camera alerts at home when my phone gets no cell signal inside the house?
+- Our driveway curves through the woods. How do you cover a drive no single camera can see end to end?
+- How do you keep mice and squirrels from chewing camera cable in a lake cottage crawl space or attic?
+- Can camera cable follow a stone wall or a fence line where ledge stops any digging?
+- Can camera cable be strung overhead between the house and a garage or shed?
+- Our lake community maintains a private road. Can the road association put a camera at the entrance?
+- Can a camera tell us when someone comes ashore at our lake house from the water side?
+- Does a camera on a building in Cold Spring's historic district need village review?
+- How do we record vehicles that enter a Brewster or Southeast business lot from two different roads?
+- (CTA heading) Is your driveway longer than your Wi-Fi?
+#### cctv-installation-putnam-county — FAQ
+- Do you install CCTV in all six Putnam towns, including the lake hamlets and Garrison?
+- Does Abstract Enterprises Security Systems keep a copy of my footage or have access to my cameras?
+- Will the camera app work if our only internet is Starlink or a cellular home-internet box?
+- Can the system tell me when the power at the house goes out?
+- Is a yearly check-up worth paying for before a Putnam winter?
+- Can you still come if our driveway is icy or has not been plowed?
+- Can one of the cameras just watch wildlife on the property?
+- Should driveway cameras be easy to see from the road, or hidden?
+- Which house-brand series suits a house on a wooded Putnam lot?
+- Is CCTV worth it in a county with as few burglaries as Putnam?
