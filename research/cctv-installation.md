@@ -370,3 +370,207 @@ FAQ:
 - Can the cameras match a brownstone, dark brick or dark siding?
 - Can a camera inside my apartment record the street through the window?
 - Can a camera go on a fence or a pole in a Brooklyn backyard?
+
+## Staten Island (cctv-installation-staten-island)
+
+Page: /cctv-installation-staten-island (child of /cctv-installation-nyc; Brooklyn GBP #brooklyn, 1282 Troy Ave; direct line (347) 934-8335). Researched 2026-11-16. Format: exact query · platform · URL · finding · page section used.
+
+**Unique angle:** "storm-ready CCTV for the suburban borough" — detached and semi-attached houses on their own lots (driveway, narrow side yard, deep backyard, detached garage, hills of Todt/Grymes/Emerson Hill), with the recorder placed above the flood line and on a UPS because of Sandy (14 ft surge at Tottenville, 23 of 43 NYC deaths on SI, East/South Shore inundation, 120k SI+Rockaways customers out) and Con Ed overhead-line outages (Isaias ~29,000 SI customers); raised post-Sandy houses (Appendix G equipment at/above design flood elevation); vehicle theft as the one rising SI property crime (GLA +24.9% YTD, DA McMahon quote; NYPD's own caveat that masked crews are rarely identified → design for getaway vehicle/direction/time stamp); strip-plaza commerce with parking lots (Hylan Blvd, Richmond Ave, Forest Ave, New Dorp Lane, Bay St) and West Shore logistics/contractor yards (Matrix Global Logistics Park, Amazon 975k sq ft). Differs from NYC hub (pre-war/LPC/delis), Manhattan (managing agents/doorman), Brooklyn (two-family owner-landlord), Queens (driveway + vehicle theft framing, garden co-ops, JFK) — SI leads with flood/outage recorder placement and lot geometry; vehicle theft handled as investigative-footage design, not prevention.
+
+| Query | Platform | URL | Finding | Section used |
+|---|---|---|---|---|
+| CCTV installation Staten Island | Firecrawl web search (Google-style) | yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Staten+Island%2C+NY; paragonsecurityny.com/service-area/staten-island/security-cameras/; alarminglyaffordable.com; apbsecurity.com; facebook.com/groups/586512270617995/posts/923415353594350/; richmondalarmsecuritysystems.com; thumbtack.com/ny/staten-island/security-camera-install; our /security-camera-installation-staten-island-ny; safehome.org | Top 5: Yelp directory, a locksmith/security service-area page, two alarm/monitoring companies, a Facebook request ("install 2 outdoor cameras"). None show SI housing data, CompStat SI, flood-zone recorder placement, raised-house mounting, outage/UPS sizing, real prices (Thumbtack gives a national "$100 … $1,000–$2,200" range, not used) or real job photos. | Gap analysis → angle |
+| NYPD CompStat Staten Island | NYPD PDF (Firecrawl, live, maxAge 0) | https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-pbsi.pdf | Vol 33 No 45, week 11/2–11/8/2026, YTD 2026 vs 2025: G.L.A. 256 vs 205 (+24.9%); burglary 222 vs 283 (−21.6%); retail theft 1,378 vs 1,973 (−30.2%); petit larceny 2,764 vs 3,447 (−19.8%); grand larceny 1,271 vs 1,285 (−1.1%). Historical: burglary 3,641 (1990) vs 328 (2025); G.L.A. 7,224 (1990) vs 244 (2025). Preliminary. | Neighborhood stats list, AI reality check |
+| ACS 2023 5-yr DP04 Richmond County | Census Data API via Firecrawl census-gov provider | https://api.census.gov/data/2023/acs/acs5/profile?get=group(DP04)&ucgid=0500000US36085 | 184,074 housing units; 1-unit detached 34.5% (63,421); 1-unit attached 25.6%; 2 units 22.7%; 3–4 units 3.7%; 20+ units 9.9%; built 1980–89 15.5%, 1970–79 16.1%, 1990–99 10.5%, 1939 or earlier 17.8%; owner-occupied 67.9%; vacant 7.6%; 2 vehicles 33.9%, 3+ 13.1%. | Neighborhood, Building Specialists |
+| Staten Island car thefts 2026 District Attorney McMahon said | Firecrawl search + scrape | https://www.silive.com/crime-safety/2026/07/staten-island-car-thefts-spike-47-in-2026-heres-what-law-enforcement-is-doing-about-it.html (SI Advance, Maura Grunlund, July 24 2026) | 163 vehicle thefts through July 19 2026 vs 111 (≈+47%); citywide down 11%. QUOTE USED (DA Michael E. McMahon): "We are closely monitoring the recent increase in auto thefts manifested in [NYPD's] CompStat numbers which reflect a troubling trend that demands immediate attention." NYPD statement (paraphrased on page, partly quoted in AI check): crews wear masks/gloves, work in minutes; "video footage may confirm the commission of the crime but rarely identifies the individuals responsible." | Neighborhood (quote), Q&A vehicle theft, AI reality check |
+| Hurricane Sandy Staten Island deaths … East Shore Midland Beach | Firecrawl search + scrape (PDF, directQuote) | https://www.nyc.gov/html/sirr/downloads/pdf/final_report/Ch_1_SandyImpacts_FINAL_singles.pdf | Surge 14 ft above ground at Tottenville; 43 deaths, 23 on Staten Island (10 in Midland Beach); East and South Shores of SI among five hardest-hit areas; "On Staten Island and in the Rockaways … 120,000 customers lost power due to substation damage." | Neighborhood (storm), AI check, Coverage |
+| NYC Building Code Appendix G flood-resistant construction utilities equipment | Firecrawl search | https://up.codes/viewer/new_york_city/nyc-building-code-2022/chapter/G/flood-resistant-construction ; https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-188316 | G304.1.1 item 6: utilities and attendant equipment located at or above the design flood elevation (ASCE 24) or protected from water entry. | Neighborhood, Building (raised house), Q&A raised house |
+| Tropical Storm Isaias Con Edison outages Staten Island | Firecrawl search + scrape (directQuote) | https://www.foxbusiness.com/energy/tropical-storm-isaias-con-ed-outage-power-outage-storm-severe-weather-new-york (Aug 5 2020) | Con Ed: 257,000 customers out; "In Staten Island, 29,000 customers are without service." | Neighborhood, AI check (UPS) |
+| same search | Con Edison press release | https://investor.conedison.com/news-releases/news-release-details/con-edison-responds-outage-affecting-14000-staten-island | Outage affecting 14,000 SI customers (Dongan Hills, Grasmere, Rosebank, Tompkinsville, Clifton, Emerson Hill, Oakwood, Grant City, New Dorp) due to downed wires. Release date not shown on snippet. | AI check (UPS) |
+| Matrix Global Logistics Park Staten Island Bloomfield … Amazon | Firecrawl search | https://www.margulieshoelzli.com/projects/matrix-global-logistics-park/ ; https://www.silive.com/news/2020/10/amazon-leases-its-third-staten-island-warehouse.html | ~400-acre industrial site at the foot of the Goethals Bridge; Amazon leased a 975,000 sq ft building in the park in Bloomfield (2020). | Commercial (West Shore) |
+| Staten Island package thefts porch doorbell camera silive | Firecrawl search | https://www.silive.com/crime-safety/2025/08/we-have-cameras-and-still-homeowner-decries-package-thefts-on-staten-island.html | Aug 2025: Elm Park homeowner — package taken in daylight in plain view of a big surveillance camera; police report filed. | AI reality check |
+| reddit statenisland security cameras install house recommendations | Firecrawl search | https://www.reddit.com/r/statenisland/comments/18s4hir/any_home_security_recommendations/ | Snippet: resident wants cameras outside plus alarms, asks for company recommendations. Thread body not scrapable (Reddit blocked) → snippet only. | Q&A (alarm + camera clip) |
+| Google PAA / PASF / AI Overview / Answer the Public / Bing / DuckDuckGo | — | EMPTY (not accessible in build env) | Question seeds from keyword file + SI news + Reddit snippet; AI check written against generic claims (basement recorder, Wi-Fi cameras, "SI is safe", cameras identify thieves, national cost averages, 4K fixes night, UPS unnecessary). | Q&A, FAQ, AI check |
+| Yelp 1–3★ Staten Island security camera installation | Firecrawl search | yelp.com search page (above) | Listing only; review text EMPTY (not accessible in build env). | — |
+| Laws | NYS Senate pages (from hub research) | PEN 250.45; PEN Art. 250 (eavesdropping); LAB 203-c; NYC Admin Code §22-1202 | as hub | Commercial rules list, FAQ (nanny/household worker, signs), Q&A medical office |
+| Corridors / landmarks (common geography, no stats) | — | — | Hylan Blvd, Richmond Ave (Staten Island Mall, New Springville), Forest Ave, Victory Blvd, Port Richmond Ave, New Dorp Lane, Bay St / St. George / Empire Outlets, Bricktown Centre (Charleston), Staten Island Teleport (Bloomfield), West Shore Expressway; precincts 120/121/122/123; four bridges (Verrazzano, Goethals, Bayonne, Outerbridge); landmark cards: St. George Ferry Terminal & Empire Outlets, Staten Island Mall, Snug Harbor, FDR Boardwalk (South Beach), Historic Richmond Town, Conference House Park (Tottenville). | Commercial, Coverage, Neighborhood |
+| Prices | our page | /security-camera-installation-staten-island-ny | A $999, F $1,047, E $1,206, C $1,441, D $1,441 (top tier), each 4-camera incl. 2 wks recording; "4-camera residential … single-family home typically $999 to $2,000" (its FAQ/PAA); commercial $1,500–$5,000+; $0 monthly. Nothing else used (no storage-upgrade prices exist on that page). | Hero, Quick answer, Pricing table, Packages, FAQ, AI check |
+
+Images (11, new crops in images/cctv-installation/cctv-installation-staten-island-*.webp; captions name the real job location): Manhattan deli (3): corner-dome-camera-on-yellow-sign-band (crop excludes the deli name, street number and phone — only "…Juice Bar" fragment of the generic sign band visible), ceiling-dome-over-store-wall-shelving (cropped above shoppers), store-tv-nine-camera-split-close (tiles show tiny overhead figures, not identifiable). Nassau showroom (3): monitor-tile-side-lot-along-brick-wall (CAM 2 tile only; CAM 4 tile with door street number and CAM 1 tile with people cropped out; date stamp edge only), corner-dome-above-motion-sensor (company banner and framed certificates cropped out), storage-room-dome-under-stained-tiles (box labels cropped). Rockland dealership (5): red-light-deterrence-camera-and-mini-dome (mural edge only, no logos), ceiling-mount-bullet-on-drop-tile, ceiling-camera-down-hall-to-grey-door (poster cropped out), cable-bundles-beside-recorder-screen (left half of NVR screen), dome-camera-facing-glass-entry (cropped above people and brand displays). No blurs needed — all identifying items were cropped out.
+
+FLAGS for Anwar:
+- No real Staten Island job photos yet; all 11 are Manhattan/Nassau/Rockland jobs, captioned with the true location. Field-notes box describes our survey process (basement/flood check first), not a specific SI job; it carries one unnamed crew line ("the recorder goes where the water doesn't…") stating process only.
+- The Staten Island security camera page (price source) has issues not touched here: its pricing card is headed "Security Camera Installation Cost in Queens" with "RESIDENTIAL $1,117 – $2,500 … homes across Queens" (looks like a copy error — NOT used on this page); it shows phone (718) 957-1295 (not the approved SI line); and it carries named testimonials ("Marcus T. — Brooklyn") that may need checking against the no-invented-reviews rule.
+- NYPD figures are preliminary YTD through Nov 8 2026. BLUEPRINT Appendix B says NYPD crime-data citations belong only on the solar pages; this page follows the CCTV build brief (as the hub and sibling borough pages do). Remove if that rule still stands.
+- FAQ "Does the warranty cover cameras damaged by a storm surge or a lightning strike?" says storm/surge damage is not a product defect and is generally an insurance matter, and points to the service agreement — confirm this matches the agreement's exclusions.
+- FAQ on window stickers/signs says signs aren't part of a standard package — confirm.
+- Con Ed 14,000-customer outage release has no visible date in the snippet; used only as "Con Edison has announced single Staten Island outages … affecting 14,000 customers".
+- check_page cross-link/backlink fails (hubs, Manhattan, Brooklyn, Queens, Bronx) remain for the main run's silo wiring; everything else passes.
+
+### Question register
+Page: /cctv-installation-staten-island
+
+Q&A (YOUR QUESTIONS ANSWERED):
+- Is a camera on a post at the end of the driveway better than one mounted on the house?
+- What camera covers the narrow side yard between two Staten Island houses?
+- What changes when the driveway is steep, as on Todt Hill, Grymes Hill or Emerson Hill?
+- What camera works on a block with no streetlight in front of the house?
+- Can a camera keep an eye on a boat, trailer or RV stored in the driveway over winter?
+- Which footage actually helps police after a car is taken from a Staten Island driveway?
+- Can cameras be mounted on a raised East Shore house without going into the flood-vent enclosure below it?
+- What should we do with the CCTV system when a coastal storm or hurricane warning is issued?
+- How do we check the cameras and recorder after a storm, before the insurance adjuster arrives?
+- How should a West Shore contractor yard be covered when trucks and equipment sit outside overnight?
+- What camera layout suits a pizzeria or restaurant with a drive-through or pickup window?
+- What should a self-storage facility record at the gate and along the unit rows?
+- What should a Staten Island dental or medical office keep off camera?
+- Can the cameras send a clip to my phone whenever the burglar alarm goes off?
+- (CTA heading) Is Your Recorder Above the Water Line?
+
+FAQ:
+- Is the $999 starting price realistic for a typical Staten Island detached house?
+- Will a new CCTV recorder work alongside the Ring or Nest doorbell I already use?
+- How do you keep camera lenses clear of salt spray and spider webs near the water?
+- Will the cameras slow down our home internet when we watch them from work?
+- Will the crew need to get into the attic, the garage ceiling and the basement on install day?
+- What happens when a tree grows or a neighbor's new fence blocks a camera view?
+- Does the warranty cover cameras damaged by a storm surge or a lightning strike?
+- Do you put up stickers or signs saying the property is under video surveillance?
+- Can you install CCTV for a business that is opening in a new Staten Island plaza space?
+- Can I record a nanny, a house cleaner or a contractor working inside my house?
+- Can you finish a store's CCTV job before the holiday shopping rush?
+
+## Bronx (cctv-installation-bronx)
+
+Page: /cctv-installation-bronx (child of /cctv-installation-nyc; Bronx GBP #bronx, 460 E Fordham Rd; direct line (646) 490-0629). Researched 2026-11-16.
+Format: exact query · platform · URL · finding · page section used.
+
+**Unique angle:** the Bronx as the borough of the big rental apartment building (60.6% of homes in 20+ unit buildings, 79.7% renter-occupied, ~44% built before 1950), so CCTV is mostly an owner/agent/board decision for shared spaces: multiple courtyard entrances, mailboxes, laundry rooms, basement corridors, roof doors/bulkheads, garbage set-out areas; Tenant Data Privacy Law (LL63/2021) for key-fob/biometric entry; MDL §50-c tenant lobby patrols and view-only accounts; footage export for NYPD; portfolio viewing for management companies; Art Deco Concourse lobbies, terra cotta block/plaster cable paths; mixed-use corner buildings (store vs landlord systems); plus Bronx commerce: Fordham Road/The Hub retail, 24-hour bodegas (facial-recognition debate: Bodega & Small Business Association vs NYCLU quotes, Admin Code §22-1202), Hunts Point Food Distribution Center cold-storage docks (condensation/freezer ratings), Jerome Avenue auto shops (drop-off condition disputes). Differs from NYC hub (citywide delis/LPC/NYPD pilot), Manhattan (doorman/managing agent/COI/riser/FISP), Brooklyn (owner-landlord two-families/tax credit), Queens (driveways/vehicle theft), Staten Island (houses/storms).
+
+| Query | Platform | URL | Finding | Section used |
+|---|---|---|---|---|
+| CCTV installation Bronx | Firecrawl web search (Google-style SERP) | yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Bronx%2C+NY; abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny; compusettings.com/security-camera-installation-service-bronx-ny/; safehome.org/security-systems/new-york/bronx/; adrny.com/locations/bronx-security-systems/; paxsecurity.com/security-installation-bronx; thumbtack.com/ny/bronx/security-camera-install; uasecurity.com (…bronx-new-york.htm, "starts at $250 per camera"); cctvcamerapros.com; homeadvisor.com | Top 10 = directories (Yelp, Thumbtack, HomeAdvisor, SafeHome) + short generic installer pages with a phone number. None cover apartment-building common areas (mailroom/laundry/roof/courtyard entrances), LL63 smart-access rules, MDL §50-c tenant patrols, NYPD export procedure, Bronx census/CompStat data, Hunts Point cold-storage specifics, or real job photos. Competitor per-camera price NOT used. | Gap analysis → angle; "How to choose" paragraph |
+| NYPD CompStat Patrol Borough Bronx | NYPD PDF via Firecrawl scrape (maxAge 0) | https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-pbbx.pdf | File served was Volume 33 No. 20 (older than the No. 45 files other boroughs served — Bronx PDF appears not updated since spring 2026). YTD 2026 vs 2025: burglary 912 vs 1,096 (−16.8%); G.L.A. 1,195 vs 1,632 (−26.8%); grand larceny 2,911 vs 3,326; retail theft 2,076 vs 2,123 (−2.2%); housing 569 vs 575. Historical full year 2025: burglary 2,857 (1990: 19,326; −85.2%), grand larceny 9,105 (2001: 4,373; +108.2%), G.L.A. 4,258, robbery 4,689. Preliminary. | Neighborhood paras + stats list; AI reality check ("past its burglary problem") |
+| ACS 2023 5-yr DP04 Bronx County (0500000US36005) | Census Data API via Firecrawl census-gov provider | https://api.census.gov/data/2023/acs/acs5/profile?get=group(DP04)&ucgid=0500000US36005 | 553,231 housing units; 20+ units 60.6% (335,481); 10–19 units 6.3% (34,658); 1-unit detached 6.5%; 1-unit attached 5.5%; 2 units 8.3%; 3–4 units 7.9%; built 1939 or earlier 34.3%, 1940–49 10.1% (≈44% pre-1950); renter-occupied 79.7%, owner 20.3%. | Neighborhood paras + stats list |
+| Hunts Point Food Distribution Center acres businesses percent of city's food supply | Firecrawl search + scrape (PDF) | https://www.osc.ny.gov/files/reports/osdc/pdf/report-14-2024.pdf | NYS Comptroller: largest food distribution center in the US; 329 acres; ~150 wholesalers/distributors/processors; ~4.5B lbs/yr, about half for NYC; ~12% of city food incl. ~25% produce, 35% meat, 45% fish; 8,500 jobs (2016 study). Also seen: edc.nyc/project/hunts-point-peninsula (4.5B lbs), NYC Food Forward (155+ businesses) — not used. | Stats list; Commercial "Hunts Point" H3; Q&A cooler/freezer; AI check (cold dock) |
+| Bronx business owners security cameras footage NYPD said quote bodega | Firecrawl search → scrape | https://pix11.com/news/local-news/exclusive-nyc-bodegas-getting-facial-recognition-cameras-with-state-funding/ | PIX11, Mar 26 2024 (Mt. Eden, Bronx): bodegas in the Bronx/Upper Manhattan adding facial recognition cameras under a hoped-for $1M state pilot; 60 installed, 300 planned. QUOTES USED: Francisco Marte (Bodega and Small Business Association): "We've been having a lot of problems with shoplifting, robbing the store, violence in the store." and "So when you come, you're going to be recognized. We're going to know you are here." Daniel Schwarz (NYCLU): facial recognition "could violate New Yorkers' privacy rights and result in dangerous situations"; "a high risk of false identification, especially for people of color." | Neighborhood (quote); AI reality check (facial recognition) |
+| NYC Tenant Data Privacy Act Local Law 63 2021 smart access building biometric data multiple dwelling | Firecrawl gov search + scrape | https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page | LL63/2021: owners of multiple dwellings with smart access (key fobs, apps, RFID, biometrics) must give tenants a data retention/privacy policy, get express consent, collect minimum data, destroy authentication data within 90 days unless anonymized, no sale, no tracking/harassment; private right of action for unlawful sale. | Compliance callouts; Q&A (key fobs); FAQ (HPD registration) |
+| NYC housing maintenance code closed circuit television multiple dwelling | Firecrawl gov search | https://www.nysenate.gov/legislation/laws/MDW/50-C ; https://www.nyc.gov/assets/buildings/pdf/MultipleDwellingLaw.pdf | MDL §50-c: tenants of every class A multiple dwelling with 8+ apartments may maintain and operate a lobby attendant service when the owner's attendant is not on duty; owner/agent may not unreasonably interfere. HMC PDF query for CCTV provisions: answer EMPTY (document too long to process; nothing found) — no HMC CCTV rule claimed on page. | Q&A (tenant patrol) |
+| Fordham Road Business Improvement District shoppers businesses number pedestrians | Firecrawl web search | https://www.nyctourism.com/shopping/fordham-road-business-improvement-district/ ; https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-fordham.pdf | NYC Tourism: Fordham Road has "almost 300 specialty stores". SBS Fordham Commercial District Needs Assessment pedestrian counts: 1,798 weekday morning, 7,296 weekday afternoon, 4,864 weekend (search snippet; count location/interval not read). | Commercial corridors list |
+| reddit bronx building security cameras landlord lobby package theft footage | Firecrawl web search | reddit.com/r/AskNYC/comments/100v3n5; reddit.com/r/AskNYC/comments/1bfjfdu; brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera | No Bronx-specific thread returned; NYC themes: lobby cameras exist but packages still stolen, tenants can't get footage, landlord not obligated to show footage. Snippets only. | Q&A seeds (mailboxes, NYPD export, tenant patrol view-only) |
+| Google PAA / PASF / AI Overview / Answer the Public / Bing / DuckDuckGo | direct | — | EMPTY (not accessible in build env); question seeds from Anwar's keyword list + sources above. | Q&A, FAQ |
+| Yelp 1–3★ Bronx security camera installation | Firecrawl SERP | yelp.com search URL above | Listing snippet only; review text EMPTY (not accessible). | — |
+| Laws (rows from NYC hub research) | NYS Senate | LAB 203-C; PEN 250.45; PEN 250.05; NYC Admin Code §22-1202 | as hub | Compliance callouts; Q&A laundry; AI check (landlord anywhere / facial recognition) |
+| Corridors / landmarks (common geography, no stats) | — | — | Grand Concourse Art Deco buildings (part is an LPC historic district), Jerome Ave auto row under the 4 train, The Hub (E 149th St & Third Ave), Westchester Ave / Southern Blvd / White Plains Rd under elevated lines, Arthur Ave / E 187th St (Belmont), Bruckner Blvd, Zerega Ave, Port Morris; landmark cards Yankee Stadium, Fordham Road/Plaza, Bronx Zoo & NYBG, Hunts Point FDC, Co-op City & Bay Plaza, Orchard Beach & City Island. | Neighborhood, Commercial, Coverage |
+| Prices | our page | /security-camera-installation-bronx-ny | Packages A $950, F $998, E $1,157, C $1,392, D $1,392 (top tier), each incl. 2 wks recording; residential 4–8 cam NVR/PoE $1,062–$2,500; commercial $1,500–$5,000+; $0/month; financing available. Nothing else used (page's ticker chips for cabling/service calls and its "$950 to $2,000" PAA answer NOT used). | Hero quick answer, Cost table, Packages |
+
+### Images (11, new crops in images/cctv-installation/cctv-installation-bronx-*.webp; captions name the real job location)
+- Manhattan deli (3): dome-camera-under-awning-by-painted-pier (cropped below the "Coffee, ATM, Juice Bar" sign band; no business name, number or people); ceiling-dome-between-fluorescent-panels (right half of ceiling, cropped above shelves/people); wall-monitor-camera-grid-over-snack-shelves (wider framing incl. shelves).
+- Nassau window showroom (2): recorder-tile-of-stockroom-shelving (CAM 3 tile only — CAM 4 tile with the door street number, CAM 1 tile with people and the date stamp cropped out); stockroom-corner-dome-over-stored-lumber (box labels cropped out).
+- Rockland dealership (6): deterrence-camera-over-lobby-hallway (cropped above the price poster, mural edge only); bullet-camera-on-high-plain-wall (cropped above the dealership sign); ceiling-mount-bullet-above-office-desks; hall-camera-aimed-at-back-door (cropped right of the warranty poster); nvr-live-view-tile-grid-close (tiles only, tiny figures not identifiable); dome-camera-facing-glass-entrance (cropped above the person and the lineup poster).
+- No blur needed: every readable sign, number, document and person was cropped out. Nassau office photo (framed certificates) and deli exterior photo (sign name/number) not used.
+
+### FLAGS for Anwar
+- No real Bronx job photos yet; all 11 images are Manhattan/Nassau/Rockland jobs, captioned as such. Field Notes describe what the crew checks on a Bronx building survey (process only) plus an unnamed crew line ("Show us the basement before you show us the lobby.") — confirm wording.
+- NYPD's Bronx CompStat PDF was stale (Vol 33 No 20) while other boroughs were at No 45; page labels it "most recent Bronx report posted when we checked" and leans on calendar-2025 full-year figures. BLUEPRINT Appendix B says NYPD crime citations belong only on solar pages — same flag as Manhattan/Queens/Brooklyn.
+- security-camera-installation-bronx-ny.html (the price source) states "New York State has a two-party consent law for audio recording" — NY is one-party consent (Penal Law §250.05); it also lists Hikvision/Dahua etc. under "We install professional-grade … from leading manufacturers" in a way that could read as dealer status, and its PAA answer says "$950 to $2,000" while its own card says $1,062–$2,500. Not changed (out of scope) — please review.
+- Page says large apartment-building systems above the commercial range are "priced per camera after we confirm the layout" (no invented numbers).
+- check_page cross-link/backlink fails remain until the main run fills the silo placeholder and backlinks; with simulated wiring (all cctv pages linking each other) the page PASSes.
+
+### Question register
+Page: /cctv-installation-bronx
+
+Q&A (YOUR QUESTIONS ANSWERED):
+- Where do the first cameras go in a Bronx courtyard building?
+- How is CCTV priced for a 40- to 80-unit Bronx apartment building?
+- Is a camera allowed in a building's laundry room, and where must it never point?
+- Our building uses key fobs. Does adding cameras bring the Tenant Data Privacy law into play?
+- Can a tenant patrol in the lobby use the building's cameras?
+- How do you watch a roof door and bulkhead that trespassers keep opening?
+- Can a camera on the garbage set-out area help with Sanitation tickets?
+- What do we hand an NYPD detective who asks for footage from our building?
+- Can a management company watch a portfolio of Bronx buildings from one office?
+- Do cameras inside a Hunts Point cooler or freezer need special housings?
+- Should a Fordham Road store keep a camera on the roll-down gate after closing?
+- What resolution does a register camera need to read the bills and the screen?
+- Can cameras at a Bronx auto glass or body shop prove a car's condition at drop-off?
+- Can one camera cover a whole Bronx parking lot at night?
+
+FAQ:
+- Is Abstract Enterprises Security Systems actually based in the Bronx?
+- What happens if someone smashes or spray-paints a camera after you install it?
+- Do insurers give a discount for CCTV on a Bronx building or store?
+- Does a Bronx landlord have to register common-area cameras with HPD?
+- Can you install cameras in a 24-hour bodega without shutting the store?
+- Can you work alongside a complex's own public safety or security staff?
+- Do the cameras show color at night, or only black and white?
+- Should we tell tenants before the crew starts work in the hallways?
+- How many people can watch the building cameras at the same time?
+- Can the recorder alert me when a camera goes offline?
+
+## Nassau County (cctv-installation-nassau-county)
+
+Page: /cctv-installation-nassau-county (child of /cctv-installation-long-island; Brooklyn GBP #brooklyn, 1282 Troy Ave; direct line (516) 346-5778). Researched 2026-11-16. Format: exact query · platform · URL · finding · page+section used.
+
+**Unique angle:** Nassau as a patchwork of 2 cities, 3 towns, 64 villages and 60+ hamlets: whose code applies to anything freestanding (poles, gate posts, trenches), which police department (NCPD precinct vs village/city PD) asks for footage, the county alarm permit vs cameras, neighbor privacy (Flower Hill 2017), village plate-reader networks with private cameras sharing video (Old Westbury). Plus the postwar housing stock by type (Levittown capes with knee-wall crawlspaces, ranches, hi-ranches, split-levels, prewar Tudors/colonials, Gold Coast estates with gates, post-Sandy raised South Shore houses, garden co-ops), inherited systems on resale houses, strip-center landlord vs tenant cameras, and a Nassau calendar. Field notes retell the South Hempstead showroom job tile by tile (what each of the four monitor tiles answers), not the install-steps story the LI hub used. Hub = PSEG/Isaias, seasonal East End, SCPD SHIELD, NY Post NCPD data — none reused.
+
+- "CCTV installation Nassau County" · Firecrawl web search (Google-style SERP) · our /security-camera-installation-nassau-county-ny (#1); yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Nassau+County%2C+NY; vertexsecurity.com/security-systems-long-island/security-camera-installation-long-island/; ezsecurityny.com; totalsecurityny.com; securitycamerainstallationlongisland.com/security-camera-installation-nassau-county.html; snzlocksmith.com; angi.com Nassau list; silentguardiansecurity.com/nassau-county-security/ · Top 5 = our own page, a directory and generic installer pages with a phone number and "free onsite quote"; none show Nassau housing data, village/town/police-department differences, alarm-permit vs camera distinction, hi-ranch/cape cable paths, real prices or real Nassau job photos. · Gap analysis → angle.
+- Google PAA / PASF / AI Overview / Answer the Public / Bing / DuckDuckGo · direct · EMPTY (not accessible in build env); Firecrawl SERP used as cross-check; question seeds from keyword file + sources below.
+- Yelp 1–3★ (Nassau security camera installation) · yelp search page above · EMPTY (review text not accessible).
+- "Nassau County incorporated villages number towns cities 64 villages" · Firecrawl web · https://www.ny.gov/counties/nassau ; https://www.nassaucountyny.gov/3406/Cities-Towns-Villages · 2 cities, 3 towns, 64 incorporated villages, "more than 60 unincorporated hamlets" (ny.gov; county site says "over 100 unincorporated areas" — page uses the ny.gov wording). · Hero, Neighborhood, Local Rules, AI check.
+- ACS 2023 5-year DP04, Nassau County (0500000US36059) · Census Data API via Firecrawl census-gov provider · https://api.census.gov/data/2023/acs/acs5/profile?get=group(DP04)&ucgid=0500000US36059 · 477,860 housing units; 1-unit detached 76.3% (364,529); attached 3.2%; 2 units 5.7%; built 1950–59 34.6%, 1940–49 12.9% (1940–59 = 47.5%, our sum), 1939 or earlier 19.5%, 1960–69 13.2%; owner-occupied 81.9%. · Neighborhood paras + stats list, Building Specialists, AI check.
+- DCJS Index Crimes by County (ca8h-8gjq), SODA agency='County Total', Nassau 2022–2024 · data.ny.gov via Firecrawl scrape · https://data.ny.gov/Public-Safety/Index-Crimes-by-County-and-Agency-Beginning-1990/ca8h-8gjq · 2024: total index 16,260, burglary 1,030, larceny 12,385, MVT 551; 2023: 18,086 / 1,241 / 13,698 / 889; 2022: 18,553 / 1,135 / 14,170 / 977. Changes 2023→2024 (our arithmetic): burglary −17%, larceny −10%, MVT −38%. · Neighborhood para + stats list, stamp.
+- "Newsday Nassau villages license plate reader cameras" · Firecrawl search + scrape · https://www.newsday.com/long-island/towns/license-plate-readers-nassau-villages-supziu5p (Nov 18 2024) · body served letter-shifted (paywall obfuscation, decoded ROT-1): nearly 70 LPR cameras installed by Nassau police departments in recent months; Old Westbury PD 34 Flock readers (Chief Stuart Cameron); Muttontown–Upper Brookville, Old Brookville, Brookville, Oyster Bay Cove PDs 34 more across nine villages; Glen Cove approved 9; Old Westbury LPRs to be complemented by 160 security cameras at golf clubs, schools and businesses that agreed to share video with police; Freeport "ring of steel" 2015; NCPD keeps LPR data six months. QUOTE USED (Cameron): "I can't convince criminals not to commit crimes, but I can convince them not to commit crimes in Old Westbury." · Neighborhood (quote + stats), Local Rules, FAQ (clubs).
+- "Nassau County Police Department security camera registration program" · Firecrawl search + scrape · https://www.pdcn.org/143/SPiN · SPiN exists (business info-sharing network); page body JS-only → details EMPTY (not accessible). No NCPD private-camera registry found → page does NOT claim one. · not used (hub already covers SPiN).
+- "Nassau County Police alarm permit required fee" · Firecrawl search (snippet; page body JS-only) · https://www.pdcn.org/343/Alarm-Permit-Section-Communication-Burea · "New Application Fees: Residence: $100.00 Business: $200.00. Permit Renewals Fees: Residence: $100.00 Business: $200.00" · Local Rules, Q&A, AI check (permit is for alarms, not cameras).
+- "Nassau County village police departments list" · Firecrawl search + PDF query · https://www.nassaucountyny.gov/DocumentCenter/View/2827/Police-Departments ; https://www.northhempsteadny.gov/community/police_departments.php · village/city PDs incl. Freeport, Garden City, Floral Park, Hempstead, Lynbrook, Malverne, Rockville Centre, Old Westbury, Kings Point, Lake Success, Sands Point, Glen Cove, Long Beach (named examples only, no count used). · Local Rules, Q&A, AI check.
+- "Nassau County police task force burglaries" · Firecrawl scrape · https://abc7ny.com/post/nassau-county-police-task-force-burglaries-long-island/14337932/ (Jan 18 2024) · NCPD multi-agency burglary/stolen-car task force; "Police believe the burglars are attracted by cars in people's driveways"; Lake Success attempted burglary Jan 13. Ryder quote not used. · Neighborhood para 3.
+- "village code Nassau security camera neighbor privacy ordinance" · Firecrawl search + scrape · https://abc7ny.com/post/village-considers-residential-surveillance-camera-rule/2524365/ (Oct 12 2017) · Village of Flower Hill considered an ordinance after cameras in a neighbor's tree aimed at a backyard; proposed text quoted on page ("preclude the installation and use of an imaging device with no legitimate purpose other than viewing or recording another person..."). Whether adopted: NOT confirmed (ecode360 TOC not readable) → page says "considered". Lake Grove Ch. 161 (Suffolk) seen, not used. · Local Rules, AI check.
+- "PSEG Long Island outages Nassau storm 2025 2026" · Firecrawl news + scrape · https://www.liherald.com/eastmeadow/stories/noreaster-strikes-long-island-east-meadow-salisbury-residents-dealing-with-power-outages-and,225506 (Sept 26 2026) · state of emergency for Nassau and Suffolk; PSEG LI restored power to more than 34,600 customers since early Friday; 19 trees down in Town of Hempstead. · Stats list, Calendar section.
+- "reddit longisland security cameras installer" · Firecrawl web · reddit.com/r/longisland/comments/1ow2won ("good, not super expensive security camera installers in Levittown area?"), /1h8ygon (hardwired cameras on one small monitor, UI complaints), /1kc5ygw · snippets only (Reddit bodies blocked) · Levittown demand, inherited/old hardwired systems → Inherited Systems section.
+- Laws (from hub rows, rewritten): NY Labor Law §203-c; Penal Law §250.00/250.05, §250.45 · Commercial compliance, Q&A, FAQ, AI check. Not legal advice. Mail theft = federal (18 U.S.C. §1708, general knowledge) · FAQ mailbox.
+- Corridors/landmarks (common geography, no stats): Hempstead Tpke (Elmont–Levittown), Sunrise Hwy (Valley Stream–Massapequa), Old Country Rd/Roosevelt Field, Jericho Tpke, village main streets (Garden City Seventh St, Great Neck Middle Neck Rd), industrial Bethpage/Hicksville/Inwood/Garden City Park; landmark cards UBS Arena/Belmont Park, Green Acres Mall, Hofstra, Eisenhower Park, Old Westbury Gardens, Long Beach boardwalk. · Commercial, Coverage.
+- Prices: ONLY from security-camera-installation-nassau-county-ny.html: A $999, F $1,047, E $1,206, C $1,441, D $1,441 (incl. 2 wks recording; spec lines/models copied); residential 4–8 cam NVR $1,117–$2,500; commercial $1,500–$5,000+; $0 monthly. Nothing else.
+- First-hand job: South Hempstead window-and-door showroom (nassau-window-depot-*; location from our Nassau security camera page; business not named here). Field Notes describe only visible facts (4 tiles: sidewalk/front door, side lot along brick wall, office floor, storeroom/rear doorway; date stamp 03-10-2026; dome on wall corner under stained tiles; dome above motion sensor).
+
+### Images (11, new crops in images/cctv-installation/cctv-installation-nassau-county-*.webp)
+- Nassau showroom (4): side-lot-camera-tile-along-brick-wall (CAM 2 tile only; CAM 4 tile with door street number and CAM 1 tile with people excluded), storeroom-and-back-door-camera-tile (CAM 3 tile only), office-dome-camera-above-motion-sensor (tight crop; company banner and framed certificates excluded), storage-room-dome-under-stained-tiles-wide (landscape crop above dated boxes).
+- Rockland dealership (5, captioned Rockland County): recorder-live-grid-on-wall-monitor, hallway-ceiling-camera-near-return-vent (cropped above brand stand), pendant-bullet-camera-over-open-office (cropped above monitors), mini-bullet-on-high-white-wall, lobby-ceiling-camera-between-recessed-lights (mural/signage excluded).
+- Manhattan deli (2, captioned Manhattan): storefront-dome-under-sign-band (cropped below the sign lettering), wall-tv-camera-grid-over-shelves.
+- No blurs needed: every sign name, street number, certificate and face is cropped out rather than blurred.
+
+FLAGS for Anwar:
+- No NCPD private-camera registry was found (only SPiN for businesses); page does not claim one.
+- Flower Hill ordinance: reported as "considered" (2017); adoption not confirmed.
+- Nassau security camera page: residential card says "...homes across Queens" (copy bug on that page) and its PAA box says "$999 to $2,000" vs its own $1,117–$2,500 card; this page uses the package prices and the $1,117–$2,500 card only.
+- Newsday article text was served letter-shifted (paywall); quote and figures decoded verbatim.
+- Alarm-permit fees come from the pdcn.org search snippet (page body is JavaScript-only).
+- check_page cross-link/back-link fails remain until the main run wires siblings; a simulated wiring (copy of wire.py on a temp root) gave PASS including registration.
+
+### Question register
+Page: /cctv-installation-nassau-county
+Q&A (YOUR QUESTIONS ANSWERED):
+- How do I know whether my address is in a village, a town or a hamlet, and why should a camera installer care?
+- Which police department would ask for my footage after a break-in, and how do I hand it over?
+- Do I need the Nassau County alarm permit for a camera system?
+- On a corner lot, does each street side need its own camera?
+- How do you cover the gate and the drive on a North Shore estate?
+- Can the recorder go in the attic or the garage of my house?
+- We are re-roofing and re-siding next spring. Should the cameras wait?
+- Should the pool and the pool gate have their own camera?
+- Who should own the parking-lot cameras in a Nassau strip center, the landlord or the tenant?
+- Should a nail salon or a barbershop record the client chairs?
+- Can I get an alert only when a car pulls into my driveway, not for every car on the street?
+- Should one camera look down the block from a second-floor window or dormer?
+- What happens to my cameras when the internet company swaps my router?
+FAQ:
+- Can you install CCTV in a Nassau house before we move in?
+- Do you install CCTV at car dealerships and used-car lots in Nassau County?
+- Do you install CCTV for Nassau swim clubs, beach clubs and golf clubs?
+- Should the inside of an attached garage have a camera?
+- What should I do when snow or ice covers a camera?
+- Can I keep the cameras running while my house is listed for sale and buyers are touring it?
+- Can I watch my Nassau cameras on a computer at work, not just on my phone?
+- Can I check on an elderly parent's house in Nassau through a CCTV system?
+- Can a camera watch my mailbox at the curb?
+- A neighbor asked for our footage after a break-in on the block. Should we share it?
