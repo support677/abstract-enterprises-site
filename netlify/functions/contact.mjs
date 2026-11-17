@@ -87,6 +87,10 @@ async function captureLead(data) {
     const touch = { ...props, touch_id: `form-${data.ph_session_id || ""}-${Date.now()}`.slice(0, 80),
       ts: new Date().toISOString(), phone: data.phone || data.Phone || data.tel || "",
       email: data.email || data.Email || "", name: data.name || data.Name || data.full_name || "",
+      // Nov 17 2026: the webhook now answers every form lead itself (Web3Forms emails stopped arriving in June),
+      // so it needs what they wrote.
+      message: String(data.message || data.Message || data.details || data.notes || "").slice(0, 1500),
+      sms_consent: data.sms_consent || "",
       test: data.aess_test === "1" };
     const r = await fetch("https://aess-hcp-webhooks.onrender.com/touch/form", {
       method: "POST",
