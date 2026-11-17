@@ -114,12 +114,12 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-staten-island | REQUESTED 2026-11-16
 2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-nassau-county | INDEXED 2026-11-16
 2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-suffolk-county | REQUESTED 2026-11-16
-2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-westchester-county | QUEUED
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-westchester-county | REQUESTED 2026-11-17
 2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-rockland-county | INDEXED 2026-11-16
 2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-orange-county | REQUESTED 2026-11-16
 2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-putnam-county | INDEXED 2026-11-16
 2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-dutchess-county | REQUESTED 2026-11-16
-2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-ulster-county | QUEUED
+2026-11-16 | https://www.abstractenterprisessecuritysystems.com/cctv-installation-ulster-county | INDEXED 2026-11-17
 <!-- CCTV-PRIORITY-END -->
 
 <!-- 2026-10-29: brand price pages NOT on Google per URL Inspection API (184). Highest-search brands first, NYC areas first. Request these before everything else. -->
@@ -567,30 +567,30 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/intercom-repair-staten-island | REQUESTED 2026-11-15
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/network-installation-suffolk-county | REQUESTED 2026-11-15
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-bronx | REQUESTED 2026-11-15
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-hudson-valley | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-ulster-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-westchester-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/parking-lot-camera-installation-queens | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-long-island | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-putnam-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-staten-island | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/school-security-camera-installation-manhattan | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/school-security-camera-installation-orange-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-bronx | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/residential-security-camera-installation-nassau-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/school-security-camera-installation-brooklyn | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/school-security-camera-installation-long-island | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-brooklyn | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-dutchess-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-nyc | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-orange-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-putnam-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-queens | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-rockland-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-westchester-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/smart-pss-support-setup-bronx | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/smart-pss-support-setup-manhattan | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/smart-pss-support-setup-ulster-county | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-hudson-valley | REQUESTED 2026-11-17
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-ulster-county | INDEXED 2026-11-17
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-westchester-county | INDEXED 2026-11-17
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/parking-lot-camera-installation-queens | REQUESTED 2026-11-17
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-long-island | INDEXED 2026-11-17
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-putnam-county | INDEXED 2026-11-17
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-staten-island | INDEXED 2026-11-17
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/school-security-camera-installation-manhattan | INDEXED 2026-11-17
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/school-security-camera-installation-orange-county | INDEXED 2026-11-17
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-bronx | REQUESTED 2026-11-17
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/residential-security-camera-installation-nassau-county | REQUESTED 2026-11-17
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/school-security-camera-installation-brooklyn | INDEXED 2026-11-17
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/school-security-camera-installation-long-island | INDEXED 2026-11-17
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-brooklyn | REQUESTED 2026-11-17
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-dutchess-county | REQUESTED 2026-11-17
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-nyc | REQUESTED 2026-11-17
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-orange-county | INDEXED 2026-11-17
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-putnam-county | INDEXED 2026-11-17
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-queens | REQUESTED 2026-11-17
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-rockland-county | INDEXED 2026-11-17
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-westchester-county | INDEXED 2026-11-17
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/smart-pss-support-setup-bronx | REQUESTED 2026-11-17
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/smart-pss-support-setup-manhattan | REQUESTED 2026-11-17
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/smart-pss-support-setup-ulster-county | INDEXED 2026-11-17
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-bronx | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-long-island | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-manhattan | QUEUED
