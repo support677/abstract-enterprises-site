@@ -11,15 +11,15 @@ Queue + order: seo/gamma-queue.csv (tier 1 hubs -> tier 2 boroughs/counties -> t
 | 1 | Gamma (gamma.app) | TBD (check after indexing on) | Gamma API + Chrome to turn on indexing | LIVE - 53 pages (Nov 17); indexing OFF on all - Claude in Chrome not reachable from the scheduled runs (Nov 14, Nov 15, Nov 16, Nov 17) |
 | 2 | Google Sites | followed | Chrome (one site, silo: hub > borough > neighborhood) | needs Chrome |
 | 3 | Blogger (blogspot) | followed | Blogger API (needs Google connection) or Chrome | needs connection (no Composio connection Nov 16; Chrome not reachable from scheduled runs) |
-| 4 | WordPress.com | followed | WordPress.com API (Composio needs auth config) | needs setup (no Composio connection Nov 16) |
+| 4 | WordPress.com | followed | WordPress.com API (Composio needs auth config) | needs setup (no Composio connection Nov 16, Nov 17) |
 | 5 | LinkedIn articles | nofollow, ranks strong | Chrome (existing weekday task) | LIVE |
 | 6 | Medium | nofollow, ranks strong | Chrome (no account yet) | needs account (not connected Nov 16) |
-| 7 | GitHub Pages / Netlify / Cloudflare Pages | followed | GitHub/Netlify/Cloudflare (connected) | guides site LIVE (130 guides after Nov 16 off-site run; see seo/GUIDES-LOG.md) |
+| 7 | GitHub Pages / Netlify / Cloudflare Pages | followed | GitHub/Netlify/Cloudflare (connected) | guides site LIVE (148 guides after Nov 17 off-site run; see seo/GUIDES-LOG.md) |
 | 8 | Tumblr | check | API (needs connection) | needs connection (not connected Nov 16) |
 | 9 | Substack | nofollow | Chrome | needs account |
-| 10 | HubSpot pages | followed | HubSpot (connected) | BLOCKED Nov 16 - connector missing blog scopes (cms.blogs.settings.read, cms.blogs.blog_posts.write, publish); reconnect HubSpot with blog permissions |
-| 11 | Google Docs published | redirect | Drive (connected) | LIVE - 6 docs (Nov 16), link-shared; "Publish to web" must be switched on by hand (not in connector) |
+| 10 | HubSpot pages | followed | HubSpot (connected) | BLOCKED Nov 16, Nov 17 - connector missing blog scopes (cms.blogs.settings.read, cms.blogs.blog_posts.write, publish); reconnect HubSpot with blog permissions |
+| 11 | Google Docs published | redirect | Drive (connected) | LIVE - 12 docs (Nov 17), link-shared; "Publish to web" must be switched on by hand (not in connector) |
 | 12 | Canva sites / Notion | check | Chrome publish | needs Chrome |
-| 13 | Pinterest | nofollow | Pinterest API (connecting) | not connected - Composio shows no ACTIVE pinterest account (Nov 16) |
+| 13 | Pinterest | nofollow | Pinterest API (connecting) | not connected - Composio shows no ACTIVE pinterest account (Nov 16, Nov 17) |
 | 14 | Patch / Nextdoor | local | Chrome, per town (not per page) | needs accounts |
 | 15 | Scribd / Issuu / SlideShare / Prezi | varies | PDF per hub/county | planned |
