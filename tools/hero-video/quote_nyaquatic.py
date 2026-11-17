@@ -54,7 +54,7 @@ def floor_plan(lf, n):
     """Animated 2-floor plan of the shop: 3 access points on floor 1, 1 on floor 2, coverage rings."""
     cv = bgc(NAVY); ov = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(ov)
     place(cv, txt("YOUR SHOP. FULL COVERAGE.", 74, WHITE), W // 2, 170, *slam(lf, 0))
-    floors = [("2ND FLOOR", 470, [(540,)]), ("1ST FLOOR", 1130, [(250,), (540,), (830,)])]
+    floors = [("4TH FLOOR", 470, [(540,)]), ("1ST FLOOR", 1130, [(250,), (540,), (830,)])]
     order = 0
     for label, top, aps in floors:
         t = clamp(prog(lf, 6, 14))
@@ -70,16 +70,16 @@ def floor_plan(lf, n):
                 d.ellipse((ax - 34, ay - 34, ax + 34, ay + 34), fill=WHITE + (int(255 * al),))
                 d.ellipse((ax - 14, ay - 14, ax + 14, ay + 14), fill=BLUE + (int(255 * al),))
     cv.alpha_composite(ov)
-    place(cv, pill("4 ACCESS POINTS · 3 DOWN · 1 UP", 46, WHITE, BLUE), W // 2, H - 150, *slam(lf, 58))
+    place(cv, pill("3 ON THE 1ST · 1 ON THE 4TH", 46, WHITE, BLUE), W // 2, H - 150, *slam(lf, 58))
     return cv
 
 SCENES = [
     dict(kind="hook", vo="Hi Benjamin, it's Abstract Enterprises Security Systems. Here's your Wi-Fi plan for NYAquatic on Saw Mill River Road."),
-    dict(kind="problem", vo="No more dead spots dropping your live streams. Strong, steady Wi-Fi in every corner of both floors."),
-    dict(kind="plan", vo="Here's the layout we mapped on our walkthrough today. Three access points on the first floor, and one on the second floor."),
+    dict(kind="problem", vo="No more dead spots dropping your live streams. Strong, steady Wi-Fi in every corner of the shop, from the first floor up to the fourth."),
+    dict(kind="plan", vo="Here's the layout we mapped on our walkthrough today. Three access points on the first floor, and one up on the fourth floor."),
     dict(kind="gear", vo="You're getting Ubiquiti UniFi WiFi 7 access points, each on its own dedicated Cat6 cable, all powered by a Ubiquiti PoE switch at your network location."),
     dict(kind="setup", vo="We mount every access point on the ceiling, run and terminate every cable, set up the network, and test it before we leave."),
-    dict(kind="price", vo="Your total is two thousand, five hundred seventy-two dollars and sixty-four cents, tax included."),
+    dict(kind="price", vo="Your total is two thousand, eight hundred twenty-six dollars and nine cents, tax included."),
     dict(kind="next", vo="Pay the invoice from the link we sent you, and we'll lock in your install date with a two-hour arrival window."),
     dict(kind="end", vo="Questions? Just text us at nine one four, four three six, five two one eight. We'll get your shop streaming without a hiccup."),
 ]
@@ -108,7 +108,7 @@ def scene(sc, lf, n):
     elif k == "price":
         cv = bgc(WHITE)
         stack(cv, ["YOUR TOTAL"], lf, [BLACK], size=110, cy=H // 2 - 220)
-        place(cv, txt("$2,572.64", 230, BLUE), W // 2, H // 2, *slam(lf, 8))
+        place(cv, txt("$2,826.09", 230, BLUE), W // 2, H // 2, *slam(lf, 8))
         place(cv, pill("TAX INCLUDED · INVOICE #3466", 44, WHITE, BLACK), W // 2, H // 2 + 230, *slam(lf, 16))
     elif k == "next":
         cv = bgc(NAVY)
