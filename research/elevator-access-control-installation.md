@@ -399,3 +399,275 @@ Prices used: Level 1 from $1,650 per car, Level 2 from $2,750 per car (Staten Is
 - How far ahead should a Staten Island building book the survey so the elevator company's connection fits its schedule?
 - What happens to our Staten Island building's elevator readers when the elevator company runs its periodic inspection or tests?
 (No other headings on the page end in "?".)
+
+
+## Nassau County (elevator-access-control-installation-nassau-county) — research, Nov 17 2026
+
+| Query · platform | URL | Finding | Use |
+|---|---|---|---|
+| "Nassau County co-op apartment buildings elevator Great Neck Garden City Long Beach" · Firecrawl search → DeVito Team (Keller Williams Greater Nassau), OneKey MLS compilation Aug 18 2026 | https://thedevitoteam.com/coops-and-condos/nassau-county-coops/high-rise/ | Only 9 Nassau co-op developments of 7+ storeys: The Wychwood, Great Neck Plaza (built 1929, 7 storeys); Long Beach 8 — Lafayette Terrace (1966, 7), Long Beach Terrace (1965, 9), Neptune Towers (1968, 9), Oakwood House (1965, 7), Sea Pointe Towers (1987, 10), Sherwood House (1965, 7), Surfside (1968, 7), Watersedge (1967, 7). 4–6 storey mid-rises excluded from that list. | Numbers table; "where the buildings are"; Long Beach building type |
+| same · Homes.com Nassau co-op listings | https://www.homes.com/nassau-county-ny/co-ops-for-sale/ | Elevator co-op listings on Shore Rd and E Broadway (Long Beach), Beach Rd and Grace Ave (Great Neck); "elevator building, laundry room, storage and bike". | Background (street names) |
+| same · Leatherman Homes buyer guide | https://leathermanhomes.com/blog/co-ops-for-sale-in-nassau-county | Co-op buildings concentrate near LIRR stations in walkable downtowns. | Background |
+| "Long Beach NY oceanfront condo Hurricane Sandy elevator flooding" · Habitat Magazine, Nov 7 2012 | https://www.habitatmag.com/Publication-Content/Building-Operations/2012/2012-November/Hurricane-Sandy-Long-Beach-Co-op-Condo-Cleanup | Alexander Wolf & Co.: four managed Long Beach buildings lost ground floors; 840 Shore Road ground and first floors flooded; Ocean Club condo lost first floor, pool, heating systems, gym, lobbies; 25 Neptune Blvd lobby and super's apartment flooded, boiler room under 15 feet of water; Oceanside buildings without power, largely senior residents. | Flood section; FAQ on panel height |
+| "Mineola transit-oriented development apartment building" · Firecrawl search → LIBN Aug 1 2023 | https://libn.com/2023/08/01/85m-transit-oriented-development-advances-in-mineola/ | $85M TOD: 119 apartments in an eight-story building on a 0.64-acre site across from the Mineola LIRR station. | Numbers table; station rentals |
+| same · Burman RE | https://www.burmanre.com/work/residential | The Bridge at Mineola: 101 units, $130M, directly across from the Mineola LIRR station. | Station rentals |
+| same · Vision Long Island (Facebook post) | https://www.facebook.com/visionlongisland/posts/mineola-transit-oriented-development-project-advances-planned-locallythe-bridge-/1421490393341488/ | 106 condo units planned at 530 West Broadway; two-story structure above a mezzanine connecting two buildings. | Station condos (two buildings joined — multiple cars) |
+| same · Patch | https://patch.com/new-york/mineola/downtown-mineola-77m-housing-project-boost-western-nassaus-economy-0 | 266-unit apartment building at 199 2nd St, about 27 affordable units, underground parking. | Numbers table; garage stop |
+| same · Aurora Contractors | https://auroracontractors.com/projects/mineola-residences/ | Mineola Residences: 112 units, 67 one-bedrooms. | Background |
+| "Westbury transit-oriented development 187 apartments" · LIBN Sept 4 2026 / Aug 6 2026 / Apr 7 2025 | https://libn.com/2026/09/04/westbury-approves-100m-transit-oriented-development/ | Westbury Village Board unanimously approved Gotham's $100M TOD on a former MTA lot at Westbury LIRR station — MTA's first TOD on Long Island. Westbury created a downtown zoning district in Dec 2019 covering ~50 acres near the station; Alpine Residential's $97M 187-unit TOD across from the station. Instagram (Westbury) says construction expected to begin 2027. | Numbers table; new construction section; "decide access early" |
+| same · r/longisland | https://www.reddit.com/r/longisland/comments/1koazwc/industrial_site_to_become_187unit_apt_complex_in/ | Thread on the industrial site becoming the 187-unit complex in Westbury's TOD district. | Corroboration only |
+| "Garvies Point Glen Cove condo rental buildings" · LIBN Apr 26 2019 | https://libn.com/2019/04/26/long-awaited-1-3b-garvies-point-project-finally-takes-shape/ | $1.3B Garvies Point; a 350-unit condo building of nine stories of residences over two stories of parking planned on the western end. | Glen Cove waterfront type; garage levels |
+| same · garviespoint.com | https://garviespoint.com/ | Garvies Point Glen Cove: The Beacon condominium residences, Village Square luxury rentals, Harbor Landing. | Glen Cove type (names) |
+| "Nassau County affordable senior apartments elevator" · Governor's office / NYHC | https://thenyhc.org/projects/the-allan-and-geraldine-rosenberg-residence/ | Allan and Geraldine Rosenberg Residence, Freeport (Selfhelp Realty Group): five stories, 44 one-bedroom apartments plus one two-bedroom for an on-site manager, all affordable. | Senior housing type |
+| same · Governor's office / HCR | https://hcr.ny.gov/news/governor-hochul-announces-completion-72-million-affordable-and-supportive-housing-development | Estella Housing, Village of Hempstead: $72M, new five-story building, 95 affordable units, supportive housing. | Supportive housing type; numbers table |
+| same · North Hempstead Housing Authority | https://northhempsteadhousingauthority.com/senior_disabled_housing.html | Homestead Senior Apartments: building with elevator access to all levels, completed 1979, 98 studio/1-bedroom units. | Senior housing type (older elevator) |
+| "Garden City Franklin Avenue medical office building" · NYU Langone location directory | https://nyulangone.org/locations/directory/nassau-county | Multi-suite medical buildings on Franklin Ave, Garden City (1000, 1111, 1300 with suites LL2/ML2/ML6/UL3A, 1401) and 120 Mineola Blvd Suite 550, 200 Old Country Rd Mineola. | Medical corridor type (named as corridor only, not as clients) |
+| same · NYU Langone | https://nyulangone.org/locations/nyu-langone-hospital-long-island | NYU Langone Hospital—Long Island: 591-bed medical center in Mineola. | Medical corridor anchor (not a client) |
+| "Nassau County Fire Marshal plan review fire alarm permit" · Nassau County | https://www.nassaucountyny.gov/DocumentCenter/View/1590 | NCFM Contractors Guide to Plan Submission (2013): requires a completed Fire Alarm Plan Approval Application and Fire Alarm Permit Application. No mention of elevator recall or access control interfaces. | Permits section (fire alarm side handled by the alarm contractor) |
+| same · Nassau County Fire Marshal | https://www.nassaucountyny.gov/DocumentCenter/View/47105/Clean-Agent-Fire-extinguishing-System-Contractors | Office of the Fire Marshal, 1194 Prospect Avenue, Westbury, NY 11590. | Permits section |
+| same · NCFM Annual Report 2021 | https://www.nassaucountyny.gov/DocumentCenter/View/37051 | Office enforces the Nassau County Fire Prevention Ordinance and the Uniform Fire Prevention and Building Code of NYS; performs plan review and oversees new commercial construction. | Permits section |
+| "Nassau County villages building department" · Nassau County | https://www.nassaucountyny.gov/3406/Cities-Towns-Villages | 2 cities (Long Beach, Glen Cove), 3 towns (Hempstead, North Hempstead, Oyster Bay), 64 incorporated villages, 100+ unincorporated areas. | Permits section; coverage section |
+| same · Nassau County building permits page | https://www.nassaucountyny.gov/3482/Building-and-Zoning-Permits | Building permits are issued by the city, town or village — call them directly. | Permits section |
+| same · ozgc.com | https://ozgc.com/nassau-county-building-permits/ | Nearly every one of the 64 villages runs its own building department, inspectors and code. | Permits section |
+| same · ecode360 Village of Floral Park | https://ecode360.com/print/FL0046?guid=9459857 | Village Superintendent of Buildings must hold NYS Uniform Code code-enforcement qualifications; reviews permits and COs. | Permits section (example) |
+| "New York State biometric privacy law" · NY Senate | https://www.nysenate.gov/legislation/bills/2025/S1422 | S1422A "Biometric Identifier Privacy Act" — a bill (passed Senate 06/06/24 in prior session), not enacted law; would require written retention/destruction policy. | Privacy section (described as pending, not law) |
+| same · Baker Donelson biometrics chart (May 2025) | https://www.bakerdonelson.com/webfiles/Publications/Global-Biometrics-Laws-Chart.pdf | NY Labor Law § 201-a: employers may not require employees to be fingerprinted as a condition of employment; voluntary fingerprinting permitted. | Privacy section (staff fingerprints) |
+| same · Holland & Knight | https://www.hklaw.com/en/insights/publications/2021/08/nyc-passes-biometric-data-protection-laws-aimed-at-businesses | NYC's Tenant Data Privacy Act / biometric law are city laws (NYC residents/buildings). | Privacy section: LL63 is NYC-only |
+| silo research (LI hub) · NYS DOL | https://dol.ny.gov/elevator-licensing-information | Labor Law Article 33: licensed businesses/workers for elevator installation, maintenance, repair. | Who does what |
+| silo research · ASME A17.1 2.27.3 via NYC DOB BB 2022-010 | https://www.nyc.gov/assets/buildings/bldgs_bulletins/bb_2022-010.pdf | Added devices must not impede operation and must go inoperative on Phase I/II firefighters' service — cited as the ASME A17.1 rule (NYS code also adopts A17.1), not as a Nassau rule. | Fire section |
+| silo research · IPVM / r/accesscontrol | https://ipvm.com/reports/elevator-access-control-examined | Car-enable vs floor lockout; relays scale floors × cars × stations. | How it works |
+| "reddit longisland apartment key fob elevator" · Firecrawl search | — | EMPTY (no Long Island thread; only r/NYCapartments, r/unpopularopinion, r/AskNYC fob threads — not Nassau, not used). | — |
+| PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp 1–3★ | — | EMPTY (not accessible in build env). | — |
+
+Prices used: Level 1 from $1,725 per car, Level 2 from $2,875 per car (Nassau rate from the Long Island hub), Level 3 quoted per building. NYU Langone and Franklin Avenue buildings named only as landmarks, explicitly not as clients. No Nassau building named as a customer.
+
+### Questions used on this page
+- What does elevator access control actually change for residents of a Nassau County co-op?
+- Can a Long Beach oceanfront building keep its elevator access panel safe from another storm surge?
+- Do we need a permit from our village to add elevator readers in Nassau?
+- Who is allowed to wire our readers into the elevator controller in Nassau County?
+- How many relays does a two-car station rental in Mineola or Westbury typically need for floor restriction?
+- Does New York City's Local Law 63 apply to a Garden City or Great Neck building that adds elevator fobs?
+- Can staff in a Nassau medical or office building be required to use fingerprint readers in the elevator?
+- How do home health aides get up in a Nassau senior building once the elevator needs a credential?
+- What would a seven-story Nassau co-op with two cars pay to start with fob readers in both?
+- Should a Nassau building under construction decide on elevator access before the elevators are ordered?
+- Can a reader at our garage call button stop people walking down the ramp and calling the elevator?
+- Will our Nassau building's elevator readers still let the fire department take the cars?
+- Our fobs work at the front door but not in the elevator since our old installer stopped answering. Can you help in Nassau?
+- How soon can someone come out to survey an elevator in Nassau County?
+(No other headings on the page end in "?".)
+
+
+## Suffolk County (elevator-access-control-installation-suffolk-county) — research, Nov 17 2026
+
+| Query · platform | URL | Finding | Use |
+|---|---|---|---|
+| "Suffolk County population towns" · Firecrawl search → US Census QuickFacts | https://www.census.gov/quickfacts/suffolkcountynewyork | 2020 Census population 1,525,920; 1,674.7 people per square mile. | Numbers table; intro |
+| same · Suffolk County open data | https://opendata.suffolkcountyny.gov/datasets/census-designated-place/about | Ten towns and two Native American reservations in Suffolk County. | Numbers table; code-by-town section |
+| same · Wikipedia (village list only) | https://en.wikipedia.org/wiki/Suffolk_County,_New_York | Incorporated villages incl. Lake Grove, Islandia, Westhampton Beach, Sag Harbor; fourth-most populous NY county, most populous outside NYC. | Background (village examples) |
+| "Patchogue downtown apartments" · Firecrawl search → TRITEC | https://tritecre.com/project/new-village/ | New Village at Patchogue: 291 apartment homes, 45,000 SF retail, 17,000 SF office. | Numbers table; downtown rentals |
+| same · Governor's office | https://www.governor.ny.gov/news/governor-hochul-announces-groundbreaking-160-million-carriage-house-development-downtown | The Carriage House, W. Main St, Patchogue: $160M, 262 homes (53 affordable), two five-story buildings, 455,000 SF, split by the Patchogue River with a riverwalk; Nord Development Group and ACRE. | Numbers table; two-building TOD example; FAQ two buildings one system |
+| same · Conifer | https://coniferllc.com/properties/conifer-village-at-patchogue-senior-apartments/ | Conifer Village at Patchogue senior apartments, 1BR/2BR leasing. | Senior housing (named only as building type example) |
+| "Ronkonkoma Hub phase apartments" · Governor's office | https://www.governor.ny.gov/news/governor-hochul-announces-groundbreaking-phase-two-state-art-new-ronkonkoma-hub | Phase two: $256M, 388 housing units, 73,000 SF commercial, 15,500 SF office. | Numbers table; TOD rentals |
+| same · TRITEC Station Yards | https://tritecre.com/project/station-yards/ | Station Yards master plan: 1,450 apartment units. | Numbers table |
+| LI hub research (Nov 14) · LongIsland.com | https://longisland.com/news/09-05-19/first-phase-of-ronkonkoma-hub-apartment-complex-opens.html | Alston Station Square: 245 units in two buildings, opened Sept 5 2019. | Numbers table |
+| "Wyandanch Rising apartments" · NY Housing Conference | https://thenyhc.org/projects/wyandanch-village-wyandanch-rising/ | Two mixed-income buildings with 177 units built; third, 124-unit building in progress (at time of writing). | Numbers table; affordable rentals |
+| same · Long Island Business News, Sep 11 2025 | https://libn.com/2025/09/11/affordable-apartments-wyandanch-village/ | Applications open for 202 affordable apartments in a soon-to-be-completed 218-unit building in Wyandanch Village. | Numbers table; lease-up FAQ |
+| LI hub research · Governor's office | https://www.governor.ny.gov/news/governor-hochul-announces-completion-40-million-affordable-senior-housing-development-suffolk | 11 Park Drive Apartments, Wyandanch: 94 affordable units for 62+, five stories, Oct 2022. | Senior housing section |
+| "Huntington Station apartments new development" · Governor's office | https://www.governor.ny.gov/news/governor-hochul-announces-completion-24-million-53-unit-affordable-housing-development-seneca | Huntington Apartments (Home Leasing): 53 affordable apartments incl. 27 with supportive services for veterans; historic 19th-century building transformed. | Supportive housing; historic-building retrofit |
+| same · Preservation League of NYS | https://www.preservenys.org/blog/excellence-award-spotlight-huntington-apartments | 201 Fall Street; 53 apartments incl. 27 permanent supportive. | Same (address) |
+| same · Avalon | https://www.avaloncommunities.com/new-york/huntington-station-apartments/avalon-huntington-station/ | Avalon Huntington Station rentals (2BR/3BR, lofts). | Named as building-type example only |
+| "Riverhead downtown apartments" · RiverheadLOCAL, May 30 2025 | https://riverheadlocal.com/2025/05/30/heatherwood-celebrates-groundbreaking-of-downtown-riverhead-apartment-building/ | Heritage on Main (Heatherwood), East Main St: five stories, 165 market-rate units (52 studios, 80 1BR, 33 2BR), 7,910 SF ground-floor commercial/amenity/leasing, 155 parking stalls, between East End Arts and Riverview Lofts; ~2 years construction. | Numbers table; East End section; Q&A |
+| same · Riverhead News-Review, Mar 2026 | https://riverheadnewsreview.timesreview.com/2026/03/132676/town-approves-zenith-groups-bid-to-expand-downtown-apartment-project/ | Town Board on March 17 approved Zenith Group expansion to five stories, 15 apartments. | Small mixed-use buildings section |
+| "Lindenhurst downtown apartments" · BLD | https://bldnow.com/bld-projects/lindenhurst-multi-family-residential-project/ | Proposed Lindenhurst buildings: 5 stories, 172 apartments over ground-level retail and parking. | Numbers table; garage stop |
+| same · NY Forward Strategic Investment Plan | https://www.ny.gov/sites/default/files/2024-05/NYF_1_Lindenhurst_Strategic_Investment_Plan.pdf | Downtown Lindenhurst is mixed-use around Wellwood Ave. | Mixed-use section |
+| "Stony Brook Medicine medical office" · Stony Brook Medicine | https://www.stonybrookmedicine.edu/advancedspecialtycare/grandopening | Advanced Specialty Care, 500 Commack Road: 30+ specialties, nearly 120,000 SF. | Medical buildings section (named as type anchor, not a client) |
+| same | https://www.stonybrookmedicine.edu/advancedspecialtycare/lakegrove | Advanced Specialty Care at Lake Grove, ~170,000 SF at full build-out. | Medical section |
+| LI hub research · Stony Brook University policy | https://stonybrook.edu/policy/_policies/physical-and-electronic-access-control-policy.html | Office of Access Control and Lock Shop has sole responsibility for design, installation and maintenance of electronic card access on campus. | Campus section: we don't work on SUNY campus systems; off-campus private buildings only |
+| "Melville office building" · Realmo listing | https://realmo.com/listing/3-huntington-quadrangle-melville-ny-11747/13001205 | 3 Huntington Quadrangle, Melville: ~400,000 SF, renovated lobby, corridors, elevators. | Office section |
+| same · LIBN Feb 2 2023 | https://libn.com/2023/02/02/town-revives-plan-to-rezone-lis-corporate-center-for-live-work-redevelopment/ | Town of Huntington revived plan to rezone Melville corporate center for live/work redevelopment; 560 Broadhollow Rd 52,000 SF office bought Nov 2021. | Office-to-residential conversion section |
+| "Hauppauge Industrial Park" · RPA | https://rpa.org/reports/hauppauge-industrial-park-economic-opportunity-analysis | ~1,300 companies, 55,000+ employees; largest park in the Northeast. | Office/flex section |
+| same · HIA-LI | https://www.hia-li.org/li-iph/ | "Long Island Innovation Park at Hauppauge", ~1,350 companies, 55,000 employees. | Same |
+| "Suffolk fire marshal plan review" · Town of Brookhaven | https://www.brookhavenny.gov/304/Fire-Prevention | Division of Fire Prevention inspectors are NYS-certified; commercial buildings not requiring annual inspection are inspected at least every three years. | Code-by-town section |
+| same · Brookhaven permit requirements PDF | https://www.brookhavenny.gov/DocumentCenter/View/1021/Permits-Submission-Requirement-PDF | All Division of Fire Prevention permits applied for on online portal (rev. 3/11/2025). | Code-by-town section |
+| same · Town of Islip Fire Marshal's Office | https://islipny.gov/community-and-services/documents/departments/fire-prevention-bureau/211-permit-submission-requirements/file | Islip Fire Marshal's Office, 24 Nassau Ave, Islip; permit submission requirements (updated 5/30/25). | Code-by-town section |
+| same · Town of Huntington Fire Prevention FAQ | https://www.huntingtonny.gov/content/13749/114570/114580/117979/default.aspx | "The licensed concern contracted to install such equipment must apply for a construction permit from the Bureau of Fire Prevention"; inspection witnessed by a Fire Marshal. | Code-by-town section; fire alarm interface FAQ |
+| "Suffolk senior apartments elevator broken" · NBC New York, Apr 23 2025 | https://www.nbcnewyork.com/video/on-air/as-seen-on/residents-at-long-island-senior-facility-stranded-due-to-broken-elevator/6236454/ | Residents of an East Patchogue senior facility stuck because a broken elevator had not been repaired. | Senior section: why access hardware must never add downtime |
+| silo research · NYS DOL | https://dol.ny.gov/elevator-licensing-information | Labor Law Art. 33: elevator contractors and mechanics licensed by NYS DOL. | Who does what |
+| silo research · NYS DOS Existing Building Code draft | https://dos.ny.gov/2024-03-19ebcnrd-documentdraft-version-30 | Altered elevator elements comply with ASME A17.1; elevators on the same hall call treated alike. | Two-car banks |
+| silo research · NYC DOB BB 2022-010 (principle only, ASME A17.1 2.27.3) | https://www.nyc.gov/assets/buildings/bldgs_bulletins/bb_2022-010.pdf | Added cab/hall devices must not impede operation and go inoperative on Phase I/II. Cited as the ASME principle, not as Suffolk law. | Fire section |
+| silo research · IPVM / r/accesscontrol | https://ipvm.com/reports/elevator-access-control-examined | Car-enable vs per-floor relays; relays scale floors × cars × stations. | How it works |
+| "reddit longisland key fob elevator" · Firecrawl search | — | EMPTY (no Suffolk thread surfaced; only NYC/r/unpopularopinion threads, not used). | — |
+| PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp 1–3★ | — | EMPTY (not accessible in build env). | — |
+
+Prices used: Level 1 from $1,800 per car, Level 2 from $3,000 per car (Suffolk rate, from the Long Island hub), Level 3 quoted per building. LL63 noted as NYC-only, not applied. Stony Brook Medicine and SUNY named only as building-type anchors, explicitly not clients.
+
+### Questions used on this page
+- Our Patchogue rental has a garage under the building. Should the reader go at the garage call button, in the car, or both?
+- What does a Level 1 elevator reader cost per car in Suffolk County?
+- Why is the Suffolk price higher than the price for buildings in the city?
+- Which office do we talk to about permits: the town, the village, or the county?
+- Does New York City's Local Law 63 apply to fobs in a Suffolk apartment building?
+- Can the Town of Huntington fire marshal stop our elevator project?
+- Our Suffolk rental is two separate five-story buildings with their own elevators. Can one resident credential work in both?
+- How do we give a home health aide elevator access to one resident's floor without giving out a resident fob?
+- Will an elevator reader slow down paramedics at a Suffolk senior building at night?
+- Our Melville office building has tenants on three different badge systems. Can the elevators read them all?
+- What happens to the elevator readers after a hurricane knocks out power for days?
+- We are converting an older Hauppauge or Melville office building to apartments. When should the elevator access be planned?
+- Can you program floor changes remotely so you do not have to drive out to Riverhead for every update?
+- Is a face-recognition reader worth it for a two-story Suffolk medical office?
+- How long does a Suffolk elevator access project take from the first call to the first ride?
+(No other headings on the page end in "?".)
+
+
+## Westchester County (elevator-access-control-installation-westchester-county) — research, Nov 17 2026
+
+| Query · platform | URL | Finding | Use |
+|---|---|---|---|
+| "Yonkers downtown new apartment tower elevator rental units 2025" · Firecrawl search → New York YIMBY | https://newyorkyimby.com/2024/12/miroza-tower-tops-out-at-44-hudson-street-in-yonkers.html | Miroza Tower, 44 Hudson St, Yonkers: 25 stories, 250 rentals, on-site garage for 222 vehicles + 25-space off-site lot; fitness center, rooftop garden, library, playroom, party room; completion expected fall 2025. | Numbers table; Yonkers H3 (garage problem) |
+| same · Yonkers IDA | https://yonkersida.com/completed-projects/page/11/ | Park Vista @ Croton Heights: six-story, 60-unit rental (excerpt). | Yonkers H3 (older smaller rentals) |
+| same · Elevator World / Facebook (Hudson Piers, Hudson 44) | https://elevatorworld.com/news/daily-news/developers-promote-design-for-mixed-use-tower-in-yonkers/ | Miroza: 250 rental units, small commercial ground floor. Hudson Piers excerpt only (not used). | Background |
+| "New Rochelle downtown development apartments" · Office of the Governor | https://www.governor.ny.gov/news/governor-hochul-announces-completion-more-200-affordable-apartments-new-rochelle | Highgarden Tower, New Rochelle: 19 stories, 219 affordable units, 77 supportive; parking, two community lounges, laundry, gym, storage, playroom; July 25 2024; Georgica Green Ventures with RXR. | Numbers table; New Rochelle H3; supportive buildings; day-in-the-building section |
+| same · Pew Charitable Trusts | https://www.pew.org/en/research-and-analysis/articles/2024/11/13/how-more-housing-revitalized-a-suburban-downtown | Downtown rezoning late 2015; ~80,000 residents; housing added at >2x US rate 2017–2021; rents +7% 2017–2023 vs 31% US. | Numbers table; New Rochelle H3 |
+| same · City of New Rochelle affordable housing report 2018 | https://www.newrochelleny.gov/DocumentCenter/View/9834/Affordable-Housing-Report-New-Rochelle-62618-FINAL | ~1,200 new market-rate apartments built/approved/proposed (excerpt). | Background (not quoted) |
+| "White Plains downtown residential towers" · The New York Times (Dec 23 2015) | https://www.nytimes.com/2015/12/23/realestate/reviving-downtown-white-plains-with-new-places-to-live-and-linger.html | 55 Bank Street: two 16-story residential towers, 561 apartments (search excerpt). | Numbers table; White Plains H3 (twin towers) |
+| same · Homes.com | https://www.homes.com/building/trump-tower-at-city-center-white-plains-ny/b-9szm296z09xxt/ | Condominium tower at City Center, White Plains. | White Plains H3 |
+| same · Nancy Kennedy Team blog | https://thenancykennedyteam.com/blog/downtown-white-plains-is-adding-thousands-of-homes-almost-none-of-them-for-sale | EMPTY (404 on scrape; search excerpt "more than 5000 downtown apartments built/under construction/planned" not verified, not used). | — |
+| "Mount Vernon new apartment building downtown" · NYS HCR (Aug 11 2026) | https://hcr.ny.gov/news/governor-hochul-announces-construction-underway-229-unit-affordable-housing-development | QWest Towers, Mount Vernon West TOD zone: two buildings, 229 apartments, 12 mobility-disability units, 7 sensory-disability units, ~3,300 SF commercial; construction underway; Stagg Group, Simone Development, Rev. Dr. L'Judie Matt-Simmons. | Numbers table; Mount Vernon H3; new-construction section; FAQ |
+| same · New York Housing Conference | https://thenyhc.org/projects/115-s-macquesten/ | 115 S MacQuesten Pkwy: 315 residential units in two connected buildings (8-story and ...; excerpt). | Numbers table; Mount Vernon H3 |
+| "Journal News Mount Vernon elevator outage" · lohud (May 27 2021) | https://www.lohud.com/story/news/local/westchester/mount-vernon/2021/05/27/mount-vernon-residents-angry-after-five-weeks-no-elevator-horizon-realty/7471506002/ | Six-story Mount Vernon apartment building without its only elevator for 5+ weeks. | Mount Vernon H3 (one-car fragility) |
+| same · City of Mount Vernon Facebook (Aug 21 2026) | https://www.facebook.com/mountvernonny/posts/for-immediate-releaseaugust-21-2026mount-vernon-ny-the-city-of-mount-vernon-is-r/1386092890340381/ | City statement on an apartment elevator outage (excerpt only). | Not used |
+| "Westchester co-op apartments Hartsdale Scarsdale Bronxville elevator" · Homes.com | https://www.homes.com/hartsdale-ny/co-ops-for-sale/ | Hartsdale co-op listings advertise "elevator building". | Numbers section (co-op layer) |
+| same · Reddit r/Westchester | https://www.reddit.com/r/Westchester/comments/1k56tsp/thoughts_on_coops/ | Resident: outside single-family homes, most lower-Westchester for-sale properties are co-ops. | Numbers section (co-op layer) |
+| same · Facebook group Westchester914 | https://www.facebook.com/groups/Westchester914/posts/4273392386248914/ | Request for a lower-Westchester co-op/condo without steps for aging parents. | Senior/aging shareholders section |
+| "NYS Uniform Code elevator ASME A17.1 Westchester building department" · Town of Greenburgh eCode360 | https://ecode360.com/6816202 | Ch. 170: elevator permit required before material alteration, issued only to installer-permit holder; semiannual inspections; certificate of operation displayed in each car; references ASME A17.1 (1993 ed.) and NYS Uniform Code. | Who-does-what section; FAQ on local approval; after-installation |
+| same · Greenburgh Building Dept | https://www.greenburghny.com/441/Elevators-and-Conveyances | Elevator installer-inspector permit and inspection checklists page. | Background |
+| same · NYS DOS 2025 PMCNYS notice | https://dos.ny.gov/system/files/documents/2025/07/2025pmcnys_noa_2025-07-24.pdf | 2025 NYS codes reference ASME A17.1-2022/CSA B44-2022. | Who-does-what section; fire section |
+| "Valhalla Westchester Medical Center medical office Hawthorne" · WMCHealth | https://www.wmchealth.org/locations/westchester-medical-center-outpatient-clinics-adult ; https://www.wmchealth.org/wp-content/uploads/2025/09/WMC-Patient-Guide.pdf | WMC headquartered in Valhalla; outpatient clinics at 19 Bradhurst Ave Suite 700, Hawthorne; development office 7 Skyline Drive, Hawthorne. Named only as area anchors, not clients. | Medical buildings H3; FAQ |
+| "reddit r/Westchester elevator key fob apartment building security" · Firecrawl search | https://www.reddit.com/r/Westchester/comments/1bd4tai/anyone_have_experiences_with_these_apartments_in/ | White Plains apartment thread mentions typical elevator issues (excerpt only). | Not quoted |
+| silo research (reused) | research/elevator-access-control-installation.md | Car-enable vs floor lockout; relays = floors × cars × stations; fire service override. | How it works; floor restriction |
+| PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp 1–3★ | — | EMPTY (not accessible in build env). | — |
+
+Prices used: Level 1 from $1,875 per car, Level 2 from $3,125 per car (Westchester row of the Hudson Valley hub table), Level 3 quoted per building. Worked examples only multiply those per-car figures. NYC Local Law 63 / DOB stated as NOT applying in Westchester. Brands: install/integrate/service only, no dealer/partner claim.
+
+### Questions used on this page
+- Our Yonkers waterfront tower's garage shares elevators with the apartments. What stops someone who walks in behind a car from riding upstairs?
+- Does adding a card reader to a Westchester elevator need approval from the town or village building department?
+- Do New York City's Local Law 63 tenant data rules apply to a fob or face reader in a New Rochelle or White Plains apartment building?
+- Can a single-car Hartsdale co-op start with one fob reader and add floor restriction for the roof and storage floors later?
+- How does a visitor reach one apartment in a New Rochelle rental tower when every floor button is locked?
+- What does elevator access control cost for a two-car condominium in Bronxville?
+- Can a White Plains office building give each tenant company its own floors and let the office manager add new employees?
+- Which floors in a Valhalla or Hawthorne medical office building should stay open to patients, and which should be locked?
+- We are building a new elevator project in Mount Vernon. What should go on the drawings now so access control is easy later?
+- Our Tarrytown co-op still uses a brass key switch in the car for the basement. Is replacing it with a fob output a big job?
+- What should happen to a Westchester building's elevator floor restriction when a storm knocks out power?
+- Who maintains the elevator readers after installation if our building switches elevator maintenance companies?
+- Can our Peekskill senior residence give residents a large-button keypad or a fob instead of a phone app?
+- If a resident of our Scarsdale co-op loses a fob late at night, can they still get home in the elevator?
+- How soon can Abstract Enterprises Security Systems survey a Westchester building, and which phone line should we call?
+(No other headings on the page end in "?".)
+
+
+## Rockland County (elevator-access-control-installation-rockland-county) — research, Nov 17 2026
+
+| Query · platform | URL | Finding | Use |
+|---|---|---|---|
+| "Rockland County NY towns villages population 2020 census housing units" · Firecrawl search → Census QuickFacts | https://www.census.gov/quickfacts/rocklandcountynewyork | 109,999 housing units (July 1 2025, V2025); owner-occupied rate 67.9% (2020–2024); 2020 Census population 338,329; +5.6% 2020–2025. | Numbers table; intro (mostly owner-occupied houses, elevators concentrated in a minority of buildings) |
+| same · Census profile | https://data.census.gov/cedsci/profile?g=050XX00US36087 | 173.7 sq mi land area; five towns: Clarkstown, Haverstraw, Orangetown, Ramapo, Stony Point. | Five-towns section; code section |
+| "Blue Hill Plaza Pearl River office tower 21 stories" · Firecrawl search → bluehillplaza.com | https://bluehillplaza.com/about/ | 93-acre campus; One Blue Hill Plaza 21-story 550,000 SF; second building six-story (Wikipedia says eight-story — conflict, page says "a second, much lower building"). | Numbers table; offices building type (named only as the county's tallest office landmark, not a client) |
+| same · Wikipedia | https://en.wikipedia.org/wiki/Blue_Hill_Plaza | 21-story tower + eight-story building on 90 acres, ~20 miles north of NYC. | Cross-check (conflict on second building height noted) |
+| same · CBRE listing | https://www.cbre.com/properties/properties-for-lease/office/details/US-SMPL-158127/blue-hill-plaza-1-blue-hill-plaza-pearl-river-ny-10965 | Advertises 24-hour building access and security. | Offices (multi-tenant towers expect after-hours access control) |
+| "Nyack apartment building elevator…" · Firecrawl search → Village of Nyack | https://www.nyack.gov/departments/Housing | Nyack Plaza: 173 units; senior housing in the elevatored tower at Depew Ave & S Franklin Ave; family housing on Depew and Hudson Aves. | Numbers table; senior housing section |
+| same · Rockland County Business Journal, Feb 9 2022 | https://rcbizjournal.com/2022/02/09/nyack-developer-hopes-to-build-affordable-disability-accessible-apartment-complex-on-main-street/ | Proposed Main St building with an elevator sized for two wheelchairs, wider halls. | Accessibility discussion (reader height/reach) |
+| same · Village planner zoning analysis | https://www.nyack.gov/media/Planning%20Department/Final_Nyack_Phase_1_Zoning_Analysis_of_Potential_Impacts.pdf | ZBA approved 11 new units from six projects in the DMU (downtown mixed-use) zone over two years — small infill. | Village downtown mixed-use section |
+| "Nyack Point Apartments Main Street" · Firecrawl search → RentCafe / RHAC | https://nyack-point-apartments.rentcafewebsite.com/ | Nyack Point Apartments, 263 Main St: modern three-story building with community room. | Village downtown section (three-story elevator scale) |
+| same · Zillow | https://www.zillow.com/apartments/nyack-ny/diana-place/CkGGX6/ | Diana Place, 259 Main St Nyack, lists an elevator. | Village downtown section |
+| "Haverstraw waterfront apartments elevator…" · Firecrawl search → GDC Rentals | https://gdcrentals.com/waterfront/ | The Waterfront at Harbors (Haverstraw): elevator buildings with only two units per floor, indoor garage parking, at the Hudson's widest point. | Waterfront building type; garage hall-call reader; flood/river weather |
+| same · Harbors at Haverstraw | https://harborsathaverstraw.com/ | Bills itself as the only waterfront destination community in Rockland County (condos). | Waterfront building type |
+| "Rockland County senior housing…" · Firecrawl search → Governor's office, Jun 9 2026 | https://www.governor.ny.gov/news/governor-hochul-announces-start-construction-53-million-affordable-housing-development | 30 West, Village of Haverstraw: $53M, 81 apartments, up to 60% AMI, 20 supportive apartments; parking garage for tenant and public use; rooftop balcony. Construction started Jun 2026. | Numbers table; new-construction section (spec the readers before the elevator is ordered); garage shared with public |
+| same · HCR referral list (2024) | https://hcr.ny.gov/system/files/documents/2024/03/referral-list-for-renters-hfa.pdf | Senior buildings incl. West Haverstraw Senior Citizens Apartments (Route 9W) and Maplewood Gardens (Nanuet). | Senior section (named as building stock only) |
+| same · HUD USER case study | https://www.huduser.gov/portal/casestudies/study-050624.html | Vincent's Village, Nanuet (Clarkstown): 93 senior units, opened May 2021, on former St. Agatha's Home site; residential buildings two-story. | Senior section (low-rise senior buildings: a single car, often one stop above the lobby) |
+| same · Apartments.com | https://www.apartments.com/airmont-gardens-55-senior-apartments-suffern-ny/dy18rgj/ | Airmont Gardens 55+ (Suffern) advertises a two-way entry access system. | Senior section (door intercom exists, elevator often open) |
+| "Suffern village apartments new building elevator…" · Firecrawl search → 176 Lafayette | https://176lafayette.com/ | Suffern boutique rental: "secure elevator building with keyless entry and intercom accessibility", surface and garage parking, within half a mile of Suffern station. | Transit/village rentals section |
+| same · Esther Gitlow Towers (Facebook / site) | https://www.facebook.com/p/Esther-Gitlow-Towers-61574265449245/ ; https://esthergitlowtowers.org/ | 196 Lafayette Ave, Suffern: senior one-bedrooms; lists controlled access, security system, elevators. | Senior section (Suffern) |
+| "Pearl River NY new apartment building downtown units" · Firecrawl → Rockland County Times, May 21 2026 | https://rocklandtimes.com/2026/05/21/new-apartments-proposed-for-pearl-river/ | Sidetrack Properties proposed 109 units on West Jefferson Ave, walking distance to Pearl River Metro-North station (proposal stage). | Numbers table (labelled proposed); new construction |
+| same · Town of Orangetown Local Law 13 of 2025 | https://www.orangetown.com/local-law-13-2025-zone-change-77-e-central-ave-80-84-e-washington-ave-pearl-river-adopted-12-2-2025/ | Zone change, 77 E Central Ave & 80–84 E Washington Ave: 20 rental units for 55+ in downtown Pearl River; "Dionne's Way" 16 rental units on Main/William Sts. | Downtown Pearl River 55+ (small elevator buildings) |
+| same · Club West at Pearl River | https://www.theclubwestatpearlriver.com/ | 55+ apartment community in Pearl River. | Senior section |
+| "Spring Valley NY … apartments" · Firecrawl → Hudson Valley Property Group | https://hudsonvalleypropertygroup.com/spring-valley-renovation-220-units-to-be-modernized-kept-affordable-by-ex-residents-firm/ | Main St Spring Valley lined with apartments over stores; 178-unit Hickory House on Main St is a shareholder co-op. | Co-op section; mixed-use |
+| same · lohud gallery, Aug 6 2021 | https://www.lohud.com/picture-gallery/news/local/rockland/2021/08/06/mold-and-water-issues-hickory-house-co-op-spring-valley/5499290001/ | Shareholders raised mold and water issues at Hickory House co-op, North Main St. | Co-op section (water near equipment; panel placement) |
+| same · Village of Spring Valley | https://www.villagespringvalley.org/special-permit-land-use-projects | Valley Heights Apartments, 200 N Main St (special permit project). | Spring Valley stock |
+| "Rockland County Fire and Emergency Services … Uniform Code" · Firecrawl → Rockland County Buildings & Codes | https://www.rocklandcountyny.gov/departments/buildings-codes | County Office of Buildings and Codes administers and enforces the NYS Uniform Code and Energy Code within the Village of Spring Valley (permits, COs, inspections). | Code section (who is the AHJ differs by village/town) |
+| same · eCode360 Rockland County Ch. 23 | https://ecode360.com/38757897 | County Director enforces the Uniform Code for the Village of Spring Valley during the article's effective dates. | Code section |
+| same · eCode360 Village of West Haverstraw Ch. 107 | https://ecode360.com/5090758 | Uniform Fire Prevention and Building Code enforced by the Village Fire Safety Inspector. | Code section (village fire inspectors) |
+| same · Town of Clarkstown | https://www.clarkstown.gov/weekly-column/clarkstown-code-enforcement-recognized-by-rockland-county-illegal-housing-task-force-2/ | Town code enforcement active; Rockland County illegal housing task force. | Background (not quoted) |
+| "New York State elevator mechanic license law Article 33" · Firecrawl → NYS DOL | https://dol.ny.gov/elevator-licensing-information | Since Jan 1 2022, businesses doing design, installation, maintenance, alteration, service and repair of elevators must be licensed by NYS DOL (Elevator Contractor, Elevator Mechanic, inspector licenses, etc.); temporary mechanic licenses from Jun 10 2026. | Who-does-what section; FAQ (ask for the elevator contractor's NYS DOL license) |
+| same · NYS Senate, Labor Law Art. 33 | https://www.nysenate.gov/legislation/laws/LAB/A33 | Article 33 "Elevators and other conveyances; licensing", §§950–956. | Who-does-what citation |
+| silo research | https://ipvm.com/reports/elevator-access-control-examined | Car-enable vs floor lockout; relays = floors × cars × stations. | How it works; floor control |
+| silo research (NYC hub) | https://www.nyc.gov/assets/buildings/bldgs_bulletins/bb_2022-010.pdf | Added devices must not impede elevator operation and go inoperative on firefighters' service. Used as the general principle only; NYC bulletins are NOT applied to Rockland as law. | Fire section (principle; local AHJ governs) |
+| "reddit Rockland County apartment key fob elevator security" · Firecrawl search | — | EMPTY for Rockland: only r/NYCapartments, r/unpopularopinion, r/accesscontrol generic fob threads. r/accesscontrol note: confirm readers read existing 125 kHz 26-bit fobs if reusing. | Upgrade section (general, attributed to installer forum) |
+| "Rockland senior apartment elevator out of service … lohud/dailyvoice" · Firecrawl search | — | EMPTY for Rockland: results were Atlanta, St. Louis, Bronx, Albany. Not used. | — |
+| Montefiore Nyack / Good Samaritan Suffern | (HV hub research: https://www.hgar.com/montefiore-expands-healthcare-investment-in-rockland-county-with-new-urology-center) | Montefiore expanding outpatient care in Rockland. Hospitals named only as neighborhood anchors for medical offices, never as clients. | Medical section |
+| PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp 1–3★ / Mid-Hudson News | — | EMPTY (not accessible in build env). | — |
+
+Prices used: Level 1 from $1,950 per car, Level 2 from $3,250 per car (Rockland rate, HV hub table), Level 3 quoted per building. NYC Local Law 63 stated as NYC-only (does not apply in Rockland). Hospitals named only as anchors.
+
+### Questions used on this page
+- Our Nyack building has three floors and one elevator. Is elevator access control worth it at that size?
+- Which Rockland office approves elevator access control work: the town, the village, or the county?
+- Does the elevator company that services our Rockland building need a state license to connect our readers?
+- Can an elevator reader in our Haverstraw waterfront building keep the garage level for residents only?
+- Our Spring Valley co-op still uses a brass key switch in the elevator. What replaces it?
+- Will older residents in a Rockland senior building manage a fob, or is a keypad kinder?
+- Can home health aides in our Pearl River 55+ building get an elevator credential that expires when the job ends?
+- What happens to a Rockland elevator reader during an ice-storm power outage?
+- Can we restrict the elevator only at night in our Suffern mixed-use building and leave it open during store hours?
+- Our medical office near Nyack has practices on different floors. Can each practice control its own floor?
+- We are building a new elevator building in Rockland. When should elevator access control be designed in?
+- How long does it take to add elevator access control to a typical Rockland apartment building?
+- Is there a monthly fee for a Rockland elevator access system, and can the board run it without one?
+(No other headings on the page end in "?".)
+
+
+## Orange County (elevator-access-control-installation-orange-county) — research, Nov 17 2026
+
+| Query · platform | URL | Finding | Use |
+|---|---|---|---|
+| "Orange County NY population 2020 census" · Firecrawl search | https://data.census.gov/profile/Orange_County,_New_York?g=050XX00US36071 | 2020 Census total population 401,310. | Numbers table |
+| same · Pattern for Progress | https://www.pattern-for-progress.org/orange-county-population-density-by-census-tract/ | Newburgh, Middletown and Port Jervis are pockets of high population density in the county. | Numbers table; intro |
+| "Middletown NY senior housing elevator" · Firecrawl search → scrape (PDF) | https://www.orangecountyny.gov/DocumentCenter/View/117/Affordable-Housing-for-Adults-PDF?bidId | County list of affordable adult housing: elevators named at Middlecrest Crossing II (100, Middletown), Senior Horizons at Silver Lake (84), Southeast Towers (106, 62+/disabled, elevators + keycard access), Monroe Commons (35, elevator + intercom security), Cerone Place (60, Newburgh), High Point (82), Hudson Pointe (65), New Windsor Senior Housing (92), Park Plaza (23, Port Jervis, coded entry), Waters Edge buildings (Port Jervis), Promenade at Tuxedo Place (40), The Cedars (Walden), Rocky Point (44, Washingtonville). 17 complexes list an elevator. | Numbers table; senior building type; area table; FAQ (Southeast Towers keycards → Middletown keycard FAQ) |
+| "Garnet Health Medical Center Middletown floors" · Firecrawl search | https://www.garnethealth.org/news/garnet-health-medical-center-celebrates-milestone-anniversary | Seven-story, 383-bed medical center at 707 East Main Street, opened August 5, 2011. | Numbers table; medical buildings (landmark only, not a client) |
+| "SUNY Orange Newburgh Kaplan Hall" · Firecrawl search | https://sunyorange.edu/newburgh/ ; https://www.selux.us/usa/en/cases/suny-orange-kaplan-hall | Kaplan Hall 87,000 sq ft, multi-level underground parking garage (1st Street), corner of Grand and First, opened for classes Jan 19, 2014. | Numbers table; campus/garage building type |
+| "Newburgh waterfront new apartment building elevator" · Firecrawl search → scrape | https://www.cityofnewburgh-ny.gov/CivicAlerts.aspx?AID=1520 | $6.89M Pro-Housing Supply Fund for infrastructure supporting 200+ mixed-income homes on Liberty Street; $2M for mixed-use next to Washington's Headquarters: 145 units + 10,000 sq ft commercial on a parcel vacant 50+ years; $2M Newburgh Landing. | Numbers table; Newburgh mixed-use type |
+| same · Pennrose | https://www.pennrose.com/apartments/new-york/bourne-kenney/ | Bourne & Kenney redevelopment, 205 affordable homes, Contour Housing Partners + Newburgh Housing Authority; Bourne tower upgrades incl. new building systems and enhanced safety and security; scheduled 2026. | Numbers table; renovation section; modernization FAQ |
+| "Middletown NY downtown apartment building" · Firecrawl search | https://www.governor.ny.gov/news/governor-hochul-announces-completion-middletown-downtown-revitalization-initiative | Middletown DRI completed; facade assistance to 17 downtown buildings, 74 residential units benefited (13 new). | Area table (Middletown downtown buildings) |
+| "Orange County Government Center Goshen" · Firecrawl search → scrape | https://en.wikipedia.org/wiki/Orange_County_Government_Center ; https://www.paulrudolph.institute/196301-orange-county-government-center ; https://savingplaces.org/stories/architectural-rescue-gone-wrong-orange-county-new-york | Paul Rudolph design, completed 1967 (legislature first met Jan 1970); closed since 2011 after Hurricane Irene damage; partly demolished 2015; reopened 2017 after renovation. | County building type; fire/power/storm section |
+| "NYS elevator mechanic licensing law" · Firecrawl search | https://dol.ny.gov/elevator-licensing-information ; https://www.nysenate.gov/legislation/laws/LAB/A33 ; https://www.nysenate.gov/legislation/laws/LAB/954 | Labor Law Art. 33 (§950–957): businesses/individuals doing elevator design, installation, alteration, service, repair must be DOL-licensed; individuals working on an elevator need an elevator mechanic license (exceptions: accessibility lift technician / elevator accessibility technician); elevator contractor license requires employing licensed mechanics; temporary mechanic license changes from June 10, 2026. | Licensing section; myths; FAQ (who connects controller) |
+| "Palm Tree Kiryas Joel multifamily elevator" · Firecrawl search | https://ecode360.com/11009523 ; https://www.jta.org/quick-reads/town-of-palm-tree-becomes-first-official-u-s-haredi-orthodox-town | Village of Kiryas Joel Ch. 47 Affordable Housing: planning board may require an elevator or reserved space for one, depending on state building code. Kiryas Joel split from Town of Monroe to become Town of Palm Tree. | Monroe/Palm Tree building type; area table |
+| "Times Herald-Record elevator broken apartment Newburgh OR Middletown" · Firecrawl search | — | Results were Middletown CT and other states' stories; no verifiable Orange County NY item. Not used. | — |
+| Stewart Airport-area office/industrial · Firecrawl search | — | EMPTY (no specific source retrieved; mentioned only generically as office/flex area, no figures). | Office/flex building type (qualitative) |
+| Reddit r/Newburgh, r/HudsonValley elevator/fob threads | — | EMPTY (not accessible in build env). | — |
+| Mid-Hudson News / Times Herald-Record elevator stories | — | EMPTY (no Orange County NY result surfaced). | — |
+| PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp 1–3★ | — | EMPTY (not accessible in build env). | — |
+| silo research | https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page | LL63 is NYC-only; cited only to say it does NOT apply in Orange County. | Licensing section; FAQ |
+| HV hub pricing table | /elevator-access-control-installation-hudson-valley | Orange County Level 1 from $2,100/car, Level 2 from $3,500/car, Level 3 per building. | Quick answer; cost section; FAQ |
+
+Prices used: Level 1 from $2,100 per car, Level 2 from $3,500 per car (Orange County rate from HV hub), Level 3 quoted per building. Garnet Health and Montefiore St. Luke's Cornwall named only as landmarks, explicitly not as clients. Senior complexes named from the county's public list as examples of the building type, not as clients.
+
+### Questions used on this page
+- Our Middletown senior building already uses keycards at the front door. Can the same cards run the elevator?
+- How far ahead should an Orange County building schedule an elevator access control survey?
+- Does New York City's Local Law 63 apply to biometric elevator readers in an Orange County apartment building?
+- Can a property manager who runs buildings in Port Jervis and Walden control elevator access for both from one office?
+- What should happen to the controlled elevator in an Orange County senior building when a storm knocks out the power?
+- Who makes the connection to the elevator controller in Orange County, and why can't the security installer do it?
+- Can a medical office building near Garnet Health open its floors to patients during office hours and lock them at night?
+- Is it worth adding elevator access control during an elevator modernization in Newburgh rather than afterward?
+- How do home health aides get up to a client's floor in an Orange County elevator building without a resident's fob?
+- What does a Level 1 elevator reader cost for a single-car building in Orange County?
+- Can a county or court building in Goshen add the elevator to the badge system staff already use?
+- Our Orange County building's elevator card reader stopped working and the original installer is gone. Where do we start?
+- Will residents who use wheelchairs or walkers be able to use the elevator reader easily?
+(No other headings on the page end in "?".)
