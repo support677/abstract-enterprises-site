@@ -1,0 +1,55 @@
+# Gamma keyword deck log
+Date | Phrase | Gamma URL | AESS page
+2026-11-09 | video intercom replacement NYC buildings | https://gamma.app/docs/rpipz5rduqtsjog | https://www.abstractenterprisessecuritysystems.com/intercom-installation-nyc
+2026-11-11 | security camera installation NYC | https://gamma.app/docs/d3gzomglj3ym58j (PRIVATE - set Share to public + indexing) | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-nyc
+2026-11-12 | mag lock installation NYC | https://gamma.app/docs/eddjq8mrrsl12e1 (public view; search indexing still OFF - turn on in Share) | https://www.abstractenterprisessecuritysystems.com/access-control-installation-nyc
+2026-11-13 | alarm installation NYC | https://gamma.app/docs/acrnxnly0kza2rf (public view; search indexing still OFF - turn on in Share) | https://www.abstractenterprisessecuritysystems.com/alarm-installation-nyc
+2026-11-13 | access control installation Long Island | https://gamma.app/docs/1pslsc2kmtquvuc (public view; search indexing OFF - turn on in Share) | https://www.abstractenterprisessecuritysystems.com/access-control-installation-long-island
+2026-11-14 | access control installation Hudson Valley | https://gamma.app/docs/kdv77jr124zz0zv (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/access-control-installation-hudson-valley
+2026-11-14 | alarm installation Hudson Valley | https://gamma.app/docs/h1jp50mow3hdy90 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/alarm-installation-hudson-valley
+2026-11-14 | door buzzer repair NYC | https://gamma.app/docs/mgwfcoy3xz9sf27 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-nyc
+2026-11-14 | alarm installation Long Island | https://gamma.app/docs/go9j1alroknc6nu (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/alarm-installation-long-island
+2026-11-14 | fire alarm installation NYC | https://gamma.app/docs/dx8mlw11kbjfzl0 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-nyc
+2026-11-14 | structured cabling installation Hudson Valley | https://gamma.app/docs/lpy8ds0rvglrb9h (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-hudson-valley
+2026-11-14 | TV installation Hudson Valley | https://gamma.app/docs/xhgllrxve6zxfow (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/tv-installation-hudson-valley
+2026-11-14 | structured cabling installation Long Island | https://gamma.app/docs/96s2hxml8q116b9 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-long-island
+2026-11-14 | TV installation Long Island | https://gamma.app/docs/qg9gqukzvfol88k (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/tv-installation-long-island
+2026-11-14 | structured cabling installation NYC | https://gamma.app/docs/2qpdd7rq4s0hujf (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-nyc
+2026-11-14 | TV installation NYC | https://gamma.app/docs/tewavqcack5lp9h (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/tv-installation-nyc
+2026-11-14 | home automation installation NYC | https://gamma.app/docs/a4mkvvdifctg5qr (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/home-automation-installation-nyc
+2026-11-15 | home automation installation Long Island | https://gamma.app/docs/ulx4gkmythpkhgy (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/home-automation-installation-long-island
+2026-11-15 | AV sound installation Hudson Valley | https://gamma.app/docs/l3zdt04ha9pvdoh (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/av-sound-installation-hudson-valley
+2026-11-15 | home automation installation Hudson Valley | https://gamma.app/docs/lsekfy9erkd8fqj (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/home-automation-installation-hudson-valley
+2026-11-15 | AV sound installation NYC | https://gamma.app/docs/irfmlh8si939bwj (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/av-sound-installation-nyc
+2026-11-15 | video wall installation NYC | https://gamma.app/docs/749kf53ol7cwg0u (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-nyc
+2026-11-15 | AV sound installation Long Island | https://gamma.app/docs/4bum4oa96266pwx (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/av-sound-installation-long-island
+2026-11-15 | video wall installation Hudson Valley | https://gamma.app/docs/fqcs831ewlcdux2 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-hudson-valley
+2026-11-15 | solar surveillance trailer NYC | https://gamma.app/docs/9my90mfur9qe026 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/solar-surveillance-trailer-nyc
+2026-11-15 | video wall installation Long Island | https://gamma.app/docs/wzk56grngld2ibv (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-long-island
+2026-11-15 | solar surveillance trailer Hudson Valley | https://gamma.app/docs/u8a4z0fvqvxzynu (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/solar-surveillance-trailer-hudson-valley
+2026-11-15 | security camera repair NYC | https://gamma.app/docs/j6mj69yvkq4mkbk (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/security-camera-repair-nyc
+2026-11-15 | solar surveillance trailer Long Island | https://gamma.app/docs/9f76y4l7bt7aivc (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/solar-surveillance-trailer-long-island
+2026-11-16 | security camera repair Hudson Valley | https://gamma.app/docs/9tqfljxnwmkig0g (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/security-camera-repair-hudson-valley
+2026-11-16 | wireless camera installation NYC | https://gamma.app/docs/jrkwsxrqtywqlij (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-nyc
+2026-11-16 | security camera repair Long Island | https://gamma.app/docs/hskk11xpkjujw1j (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/security-camera-repair-long-island
+2026-11-16 | wireless camera installation Hudson Valley | https://gamma.app/docs/84a5e66enh2br1w (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-hudson-valley
+2026-11-16 | apartment building security camera installation Hudson Valley | https://gamma.app/docs/tordm9c21lkwelg (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-hudson-valley
+2026-11-16 | Cat6 installation Hudson Valley | https://gamma.app/docs/aftcfgxinx21ot0 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/cat6-installation-hudson-valley
+2026-11-16 | apartment building security camera installation Long Island | https://gamma.app/docs/60qc2jzk4n1fl41 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-long-island
+2026-11-16 | Cat6 installation Long Island | https://gamma.app/docs/nj94c3ypouy4b38 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/cat6-installation-long-island
+2026-11-16 | apartment building security camera installation NYC | https://gamma.app/docs/op2t9guxnjgrpmh (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-nyc
+2026-11-16 | Cat6 installation NYC | https://gamma.app/docs/guzkkpm40rd3shz (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/cat6-installation-nyc
+2026-11-16 | commercial security camera installation Hudson Valley | https://gamma.app/docs/8n1yx3zdnw14xnq (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/commercial-security-camera-installation-hudson-valley
+2026-11-16 | commercial security systems Hudson Valley | https://gamma.app/docs/ve9w2xf2wleuaqz (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/commercial-security-systems-hudson-valley
+2026-11-17 | commercial security camera installation Long Island | https://gamma.app/docs/vdots8fye6p7xii (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/commercial-security-camera-installation-long-island
+2026-11-17 | commercial security systems Long Island | https://gamma.app/docs/vlqh9ypgxmrbju2 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/commercial-security-systems-long-island
+2026-11-17 | commercial security camera installation NYC | https://gamma.app/docs/m6n5enp7ciphn9r (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/commercial-security-camera-installation-nyc
+2026-11-17 | commercial security systems NYC | https://gamma.app/docs/f0ttqq5v9i1obns (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/commercial-security-systems-nyc
+2026-11-17 | construction site security camera installation Hudson Valley | https://gamma.app/docs/nyrwvo37ikxtiws (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/construction-site-security-camera-installation-hudson-valley
+2026-11-17 | Dahua camera installation Hudson Valley | https://gamma.app/docs/r9pbpxyalh2mz5j (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/dahua-camera-installation-hudson-valley
+2026-11-17 | construction site security camera installation Long Island | https://gamma.app/docs/483ht1ikd1zkwp9 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/construction-site-security-camera-installation-long-island
+2026-11-17 | Dahua camera installation Long Island | https://gamma.app/docs/bffc32qf4rynkxa (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/dahua-camera-installation-long-island
+2026-11-17 | construction site security camera installation NYC | https://gamma.app/docs/93t3u1xslzl9swe (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/construction-site-security-camera-installation-nyc
+2026-11-17 | Dahua camera installation NYC | https://gamma.app/docs/1aorz7b2zxdy8yk (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/dahua-camera-installation-nyc
+2026-11-17 | DMSS app support repair Hudson Valley | https://gamma.app/docs/bhadks179h9yqrw (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/dmss-app-support-repair-hudson-valley
+2026-11-17 | doorbell camera installation Hudson Valley | https://gamma.app/docs/rpficy6qhjz0ao2 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/doorbell-camera-installation-hudson-valley

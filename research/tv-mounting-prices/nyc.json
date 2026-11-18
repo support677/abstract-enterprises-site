@@ -1,0 +1,854 @@
+{
+ "title": "TV Mounting Prices NYC | All 5 Boroughs, Flat Rates",
+ "meta": "TV mounting prices for all 5 NYC boroughs: flat rates from $179.99 for prewar plaster, brownstone brick, high-rise metal studs and more. Book a 2-hour window.",
+ "hero_badge": "TV MOUNTING PRICES · ALL 5 BOROUGHS",
+ "hero_sub": "Flat, published TV mounting prices for Manhattan, Brooklyn, Queens, the Bronx and Staten Island, starting at $179.99 in Brooklyn and Queens. Plaster, brick, concrete and metal studs are priced up front, so you see your total before anyone climbs your stairs.",
+ "quick_answer": "In NYC, wall-mounting a 32″–55″ TV on drywall over wood studs costs $179.99 in Brooklyn and Queens, $209.99 in the Bronx and Staten Island, and $244.99 in Manhattan plus a flat $150 parking charge. Bigger screens add $30–$220, plaster adds $45, brick $65, concrete $75, and in-wall wire concealment with a code-compliant power kit is $169.",
+ "why_h2": "Why NYC Homes and Businesses Pay for Professional TV Mounting",
+ "why_paras": [
+  "More than half of the city's apartments sit in buildings put up before 1947, and those walls rarely behave like the drywall in a how-to video. Prewar plaster can run an inch or more thick over wood lath, clay tile or solid brick, and a stud finder will happily beep at nothing. On r/AskNYC the same question keeps coming back: how do I hang a 50–100 lb TV in a prewar Manhattan apartment without cracking the wall? That uncertainty drives TV mounting cost in this city, and it's why our TV mounting service prices list the wall separately instead of burying it.",
+  "Newer buildings bring the opposite problem. Towers in Long Island City, Downtown Brooklyn and Hudson Yards frame partition walls with light-gauge steel, and the slabs and core walls are reinforced concrete. TV mounting on metal studs needs heavy toggles spread across the stud face or a plywood backer, not a pair of lag bolts, and TV mounting on reinforced concrete needs a hammer drill and the right anchor depth. Renters on r/Brooklyn ask about exactly this before move-in weekend. It's safe when the hardware matches the wall.",
+  "Then there's paperwork and logistics nobody in the suburbs deals with. Co-op and condo buildings typically want a certificate of insurance naming the corporation and managing agent before a contractor walks past the doorman, which is why it pays to hire an insured TV mounting company with a license number you can check. Some supers book service elevators by the hour. Manhattan street parking turns a forty-minute install into a ticket risk, so our Manhattan price carries a flat $150 parking charge instead of a surprise line later.",
+  "Outside Manhattan the housing changes again. Queens and the Bronx are full of two-family houses with wood-stud drywall upstairs and paneled basements below, so basement TV mounting and bedroom installs are everyday residential TV mounting work. Staten Island has the highest homeownership rate in the city, which means fireplaces, finished basements and backyard decks that call for outdoor TV mounting. One flat number can't cover all of that honestly, so our chart changes by borough, wall and screen size, and you see every line before you book."
+ ],
+ "why_facts": [
+  {
+   "text": "54% of New York City's roughly 3,705,000 housing units are in buildings constructed before 1947.",
+   "source": "https://rentguidelinesboard.cityofnewyork.us/wp-content/uploads/2025/05/2025-HSR.pdf"
+  },
+  {
+   "text": "The 2021 NYC Housing and Vacancy Survey counted about 772,000 units, roughly one-fifth of the city's stock, in buildings with 100 or more units.",
+   "source": "https://www.nyc.gov/assets/hpd/downloads/pdfs/services/2021-nychvs-selected-initial-findings.pdf"
+  },
+  {
+   "text": "The same survey counted about 712,600 prewar units that are reached by one or more flights of stairs from the sidewalk.",
+   "source": "https://www.nyc.gov/assets/hpd/downloads/pdfs/services/2021-nychvs-selected-initial-findings.pdf"
+  },
+  {
+   "text": "About 450,000 occupied apartments are in co-op buildings and another 318,000 are condos, together 22% of the city's occupied housing.",
+   "source": "https://comptroller.nyc.gov/reports/spotlight-new-york-citys-homeowner-housing-market/"
+  },
+  {
+   "text": "NYC has roughly 225,000 two-family structures, almost all of them in the outer boroughs rather than Manhattan.",
+   "source": "https://comptroller.nyc.gov/reports/spotlight-new-york-citys-homeowner-housing-market/"
+  },
+  {
+   "text": "Staten Island's homeownership rate was 67.7% in 2024, more than double the citywide rate of 32.7%.",
+   "source": "https://www.furmancenter.org/neighborhoods/staten-island/"
+  }
+ ],
+ "services_h2": "TV Mounting Services and What Each One Costs in NYC",
+ "services": [
+  {
+   "icon": "📺",
+   "title": "Flat-Rate TV Wall Mounting",
+   "text": "Fixed TV mount installation or tilting TV mount installation for 32″–55″ screens. The borough base covers finding studs, a level hang, power plus up to two existing devices and cable management behind the screen. A 43″ TV mounting job in a Queens bedroom costs the same base as a 55″ TV installation."
+  },
+  {
+   "icon": "🔌",
+   "title": "In-Wall Wire Concealment",
+   "text": "TV wire concealment for $169 with a code-compliant in-wall power and cable kit, so we hide TV wires in wall cavities without ever pushing an extension cord inside. Where plaster over brick or concrete won't allow it, a paintable cord cover at $59 is the clean alternative."
+  },
+  {
+   "icon": "🔥",
+   "title": "Fireplace TV Mounting",
+   "text": "Placement above a fireplace adds $130, and a pull down fireplace TV mount (MantelMount) adds $160. TV mounting on stone fireplace surrounds adds the $65 masonry charge. Common in Staten Island and Queens houses and prewar living rooms with decorative mantels."
+  },
+  {
+   "icon": "📏",
+   "title": "Large and Heavy TV Mounting",
+   "text": "Large TV mounting from 76″ to 85″ adds $100. From 86″ up it becomes a two person TV installation: +$175 for 86″–97″ and +$220 for 98″ and larger. That's the right crew for heavy TV mounting up a walk-up stairwell or onto a high living-room wall."
+  },
+  {
+   "icon": "🔊",
+   "title": "Soundbar and TV Installation",
+   "text": "Soundbar installation under TV is $129 wall-mounted or $79 placed on your console, and a Sanus soundbar bracket is $84.99. A/V receiver hookup for surround sound installation is $129, Sonos setup is $125, and full home theater installation is $350."
+  },
+  {
+   "icon": "🌳",
+   "title": "Outdoor and Patio TV Mounting",
+   "text": "Outdoor mounting adds $90 for patios, backyard sheds and outdoor deck TV installation, most often on Staten Island and in eastern Queens one-family houses. Outdoor-rated brackets such as the Samsung Terrace mount ($149.99) or Sanus outdoor tilt ($239.99) are sold separately."
+  },
+  {
+   "icon": "🏢",
+   "title": "Commercial TV Installation",
+   "text": "Restaurant TV installation, office TV mounting, gym TV mounting and waiting room TV installation across the five boroughs. We provide the certificate of insurance at no charge, handle TV mounting on commercial walls from block to tile, and price multi-screen jobs line by line."
+  },
+  {
+   "icon": "🛋️",
+   "title": "TV on Stand and Setup-Only Visits",
+   "text": "Not drilling? A TV on its stand is $119.99 in Brooklyn and Queens. Smart TV setup, TV WiFi connection, TV cable box installation and streaming device setup ($49 per device) on a setup-only visit bill the borough hourly rate for the first hour, then 30-minute blocks."
+  }
+ ],
+ "buildings_h2": "NYC Building Types We Mount TVs In Every Week",
+ "buildings": [
+  {
+   "icon": "🏛️",
+   "title": "Prewar Co-ops and Rentals",
+   "text": "The Upper West Side, Washington Heights, Jackson Heights and the Grand Concourse are lined with walk-up and elevator prewar buildings. Expect thick plaster over clay tile or brick, alteration rules, a super who wants the COI first and sometimes a service-elevator booking. Plaster adds $45 to apartment TV mounting."
+  },
+  {
+   "icon": "🧱",
+   "title": "Brownstones and Rowhouses",
+   "text": "Park Slope, Bed-Stuy, Harlem and Fort Greene townhouse TV mounting often means exposed brick party walls, plaster interior walls, decorative mantels and a lot of stairs. Brick adds $65, and an upper floor at the third story or above with no elevator adds $40 for the climb."
+  },
+  {
+   "icon": "🏙️",
+   "title": "High-Rise Condos and Rentals",
+   "text": "Condo TV installation in Long Island City, Downtown Brooklyn, Hudson Yards and Riverdale towers mixes poured concrete with metal-stud partitions. Metal studs add $30 and concrete adds $75. Expect a COI request and a booked loading dock or elevator window before the visit."
+  },
+  {
+   "icon": "🏠",
+   "title": "Two-Family Houses",
+   "text": "Across Queens, the Bronx and southern Brooklyn, two-family houses usually mean wood studs behind drywall or old plaster, finished basements with wood paneling, and small bedrooms with tight sightlines. Living room TV mounting on drywall over wood studs carries no wall surcharge at all."
+  },
+  {
+   "icon": "🏡",
+   "title": "Staten Island One-Family Homes",
+   "text": "Detached and semi-attached houses from St. George to Tottenville bring brick and stone fireplaces, shiplap accent walls, high living-room ceilings, decks and basement media rooms. Fireplace, outdoor and high-mount add-ons show up here more than in any other borough, and master bedroom TV installation is common too."
+  },
+  {
+   "icon": "🪜",
+   "title": "Walk-Up Tenements",
+   "text": "The Lower East Side, East Village, Bushwick and Astoria still run on five- and six-story walk-ups with brick bearing walls and narrow halls. Third floor and higher with no elevator adds $40, and screens 86″ and up already get the two-tech crew they need."
+  }
+ ],
+ "building_methods": [
+  {
+   "title": "Prewar plaster over lath, tile or brick (+$45)",
+   "text": "For TV mounting on plaster wall surfaces we locate framing with a magnet and small test holes rather than trusting a stud finder, drill slowly to keep plaster from spalling, and anchor into wood or masonry. Wavy prewar walls make TV mounting on uneven wall planes common, so we shim the bracket true. Very old plaster can still crack."
+  },
+  {
+   "title": "Brick and stone (+$65)",
+   "text": "TV mounting on brick wall and masonry wall surfaces uses a hammer drill, carbide bits and sleeve or wedge anchors set into solid brick, not the mortar joint alone. On brownstone party walls and Staten Island fireplace surrounds we confirm the masonry is structural, not thin veneer, before drilling."
+  },
+  {
+   "title": "Poured concrete and cinder block (+$75)",
+   "text": "TV mounting on concrete wall surfaces in high-rises gets concrete screws or wedge anchors set to full depth. TV mounting on cinder block in basements and storefronts uses anchors rated for hollow masonry. We avoid post-tensioned slabs and ask the super whenever the structure is unclear."
+  },
+  {
+   "title": "Metal studs (+$30)",
+   "text": "Light-gauge steel won't hold a lag bolt, so TV mounting on metal studs uses heavy-duty toggles across the stud face with the load spread over several studs. For full-motion arms and screens above 65″, TV wall reinforcement with a plywood backer board ($85) is the safer build."
+  },
+  {
+   "title": "Tile and marble (+$95)",
+   "text": "TV mounting on tile wall and marble wall finishes uses diamond bits, water cooling and slow speed for clean holes, then anchors into the substrate behind. Kitchen TV mounting on backsplash tile and lobby feature walls are typical. Tile can crack despite care, a risk you accept when booking."
+  },
+  {
+   "title": "Drywall over wood studs ($0)",
+   "text": "Can you mount a TV on drywall? Yes, when it's over wood studs. TV mounting on wood studs uses lag bolts into two wall studs, checked for level and pull, with no surcharge. Drywall anchors alone aren't how we hang a TV; when studs are off-center, we span them with the bracket rail or a backer."
+  }
+ ],
+ "commercial_h2": "Commercial TV Installation Pricing Across the Five Boroughs",
+ "commercial_intro": "NYC businesses hang screens for menus, sports, check-in lines and video calls, and the walls behind them are usually concrete, block or tile. Commercial TV installation follows the same published add-ons, with a free certificate of insurance for landlords and managing agents and 2-hour arrival windows that work around service hours. For multi-screen walls, commercial ceiling TV mounting, anti-theft TV mount installation or digital signage, start with a TV mounting quote on our <a href=\"/free-quote\">free quote page</a> and we'll price each screen line by line.",
+ "corridors": [
+  {
+   "name": "Flatiron and Midtown South, Manhattan",
+   "text": "Offices, startups and showrooms along Broadway and Fifth Avenue book conference room TV mounting on metal-stud partition walls, usually with a building COI, a freight-elevator reservation and our flat Manhattan parking charge."
+  },
+  {
+   "name": "Fifth Avenue, Park Slope, Brooklyn",
+   "text": "Restaurants, wine bars and fitness studios along this strip hang game-day screens and menu TVs, usually on brick or plaster inside older storefront buildings with apartments upstairs."
+  },
+  {
+   "name": "Steinway Street and 30th Avenue, Astoria, Queens",
+   "text": "Cafés, lounges and sports bars mount TVs over bars and on ceilings. Sports bar TV installation here is driven more by concrete and tile walls than by screen size."
+  },
+  {
+   "name": "Main Street, Flushing, Queens",
+   "text": "Restaurants, bakeries and medical offices use menu boards and waiting room screens, often dual TV mounting or a full multi TV wall installation in one visit on tile or block."
+  },
+  {
+   "name": "Fordham Road, the Bronx",
+   "text": "Retail stores, barbershops and clinics along this busy shopping street use digital signage TV mounting, including portrait TV mounting for promotions, mostly on masonry storefront walls."
+  },
+  {
+   "name": "Hylan Boulevard, Staten Island",
+   "text": "Restaurants, gyms and professional offices along the borough's longest commercial road book bar TV mounting, lobby screens and medical office TV mounting, plus outdoor patio screens in season."
+  }
+ ],
+ "compliance": [
+  {
+   "title": "Co-op and condo certificates of insurance",
+   "text": "Most NYC co-ops and condos require contractors to submit a certificate of insurance naming the corporation and managing agent as additional insureds, and some want a signed alteration agreement even for small work. We issue COIs free to the exact wording your building sends. Get the requirements from your managing agent before booking so a visit isn't lost at the front desk."
+  },
+  {
+   "title": "ADA protruding objects in commercial spaces",
+   "text": "Under the 2010 ADA Standards (section 307.2), a wall-mounted object whose leading edge sits between 27 and 80 inches above the floor can protrude no more than 4 inches into a circulation path. A TV on a full-motion arm in a hallway or waiting room can break that rule, so we plan placement, height and mount depth with you."
+  },
+  {
+   "title": "Electrical work belongs to a licensed electrician",
+   "text": "NYC Administrative Code §28-429.1 reserves electrical work for licensed master electricians or people they supervise, while low-voltage work can be done by qualified persons. We're a NYS-licensed low-voltage contractor: we install in-wall power kits with a recessed TV outlet inlet and handle HDMI cable installation and network runs, but we don't add or move receptacles. TV power outlet installation means an electrician."
+  },
+  {
+   "title": "Landlord and lease consent for renters",
+   "text": "Many NYC leases restrict drilling or require repairs at move-out, and some buildings insist their own staff handle wall work. TV mounting for apartment renters starts with written consent from your landlord or management. We don't patch or paint, so plan for any move-out touch-up yourself."
+  }
+ ],
+ "qa_h2": "NYC TV Mounting Price Questions, Answered",
+ "qa": [
+  {
+   "q": "How much does TV mounting cost in NYC?",
+   "a": "It depends on the borough, the wall and the screen. The cost to mount a 55″ TV on drywall over wood studs is $179.99 in Brooklyn and Queens, $209.99 in the Bronx and Staten Island, and $244.99 in Manhattan plus a flat $150 parking charge. The cost to mount a 65″ TV adds $30, a 75″ adds $60, and the cost to mount an 85″ TV adds $100. Plaster, brick or concrete add $45 to $75. Brackets are sold separately or you can supply your own."
+  },
+  {
+   "q": "Why is TV mounting more expensive in Manhattan than in Brooklyn or Queens?",
+   "a": "Time and parking. Manhattan jobs usually involve doormen, COI checks, service elevators and slower travel, so the base is $244.99 instead of $179.99. On top of that comes a flat $150 parking charge, because legal parking near most Manhattan buildings means a garage. We'd rather show that as a fixed line than add it later. A 55″ on prewar plaster in Manhattan totals $439.99 in labor before any bracket."
+  },
+  {
+   "q": "Can you mount a TV on plaster walls in a prewar NYC apartment?",
+   "a": "Yes. Plaster is the most common wall we see in Upper West Side, Harlem, Jackson Heights and Grand Concourse buildings. We find the lath framing or the masonry behind it with test holes and a magnet, drill slowly to avoid spalling, and anchor into wood or brick rather than plaster alone. Plaster adds $45. Very old plaster can crack however carefully it's drilled, a risk you accept when booking."
+  },
+  {
+   "q": "Can you mount a TV on brick in a Brooklyn brownstone, and what does it cost?",
+   "a": "Yes. The cost to install TV mount on brick is a $65 add-on, so in Brooklyn a 55″ on exposed brick is $244.99 in labor and a 65″ is $274.99. We drill the brick face with a hammer drill and set sleeve anchors, not plastic plugs in the mortar joints. Solid brick party walls usually can't be fished for in-wall concealment, so a paintable cord cover for $59 is the clean way to hide the run."
+  },
+  {
+   "q": "Is it safe to hang a 65-inch TV on metal studs in a new Brooklyn or LIC building?",
+   "a": "Yes, with the right hardware. Lag bolts don't hold in light-gauge steel, so we use heavy-duty toggles that clamp across the stud face and spread the load over more than one stud. For full-motion arms or heavier screens we add a plywood backer board for $85. Metal studs add $30, so a 65″ fixed mount on metal studs in Brooklyn or Queens is $239.99 in labor, before the bracket."
+  },
+  {
+   "q": "Does my NYC co-op need a certificate of insurance before you mount a TV?",
+   "a": "Usually, yes. Most co-op and condo buildings won't let a contractor upstairs without a COI naming the corporation and managing agent as additional insureds. Ask your managing agent for the sample certificate and send it when you book; we issue it free. If the building also wants an alteration agreement or service-elevator reservation, arrange that first, because a turned-away visit triggers our $150 return-trip fee."
+  },
+  {
+   "q": "What's the cost to mount a 75 inch TV with hidden wires in Queens?",
+   "a": "On drywall over wood studs in Queens, a 75″ TV is $179.99 base plus $60 for size, so $239.99. In-wall concealment with a code-compliant power and cable kit adds $169, bringing labor to $408.99. That's TV mounting and wire concealment in one visit. Add a bracket if you don't have one, such as the Sanus VLT7-B2 tilt mount at $199.99. Metal studs, plaster or block in Astoria or Forest Hills buildings change the total."
+  },
+  {
+   "q": "Can a landlord prohibit TV mounting in an NYC rental?",
+   "a": "A lease can restrict drilling, and some buildings require their own maintenance staff or an approved, insured contractor. Renters on r/AskNYC report everything from supers who help hang TVs to managers who forbid it outright. Get written permission first. If drilling isn't allowed, a TV on its stand is $119.99 in Brooklyn and Queens, $137.99 in the Bronx and Staten Island, and $162.99 in Manhattan."
+  },
+  {
+   "q": "Can I get my TV mounted above my fireplace on Staten Island, and what does it cost?",
+   "a": "Yes. A 75″ TV above a stone or brick fireplace on Staten Island runs $209.99 base, plus $60 for size, $130 for fireplace placement and $65 for masonry, so $464.99 in labor. If the mantel puts the screen too high for comfortable viewing, a pull-down MantelMount adds $160 instead of $130, with the MM340 at $199.95 or MM700 at $399.95. We check heat and veneer before drilling."
+  },
+  {
+   "q": "Are alternatives to big box TV installation cheaper in NYC?",
+   "a": "Sometimes on paper. Advertised starting prices from big-box stores and app-based handymen often assume drywall over wood studs, then plaster, brick, wire hiding and parking get added after arrival. One r/AskNYC poster paid $199 for a 55″ and was told hiding cords would cost extra. A fair TV mounting service comparison is total against total, and when you read TV mounting company reviews, look for comments about walls like yours."
+  },
+  {
+   "q": "Do I need an electrician to install an outlet behind my TV in NYC?",
+   "a": "Yes. City code reserves electrical work for licensed electricians, and a new or moved receptacle is electrical work, so we don't offer TV mounting with outlet installation. What we can do is install a code-compliant in-wall power kit for $169. It carries power from your existing outlet up behind the TV through a rated recessed inlet, so a regular power cord never goes inside the wall, and your HDMI runs go alongside it."
+  },
+  {
+   "q": "How long does TV mounting take in a fourth-floor walk-up, and is there a stairs fee?",
+   "a": "A single TV on a straightforward wall is usually a short visit, often an hour or two, while masonry, concealment and multiple devices add time. The stairs fee is $40 for the third floor and up with no elevator, covering tools, bracket and often the TV itself. Measure stair turns before buying anything over 85″, because some Lower East Side and Bushwick stairwells won't fit the box."
+  },
+  {
+   "q": "Who installs really big TVs, like 85 or 98 inch, in NYC?",
+   "a": "We do. An 85″ TV mounting service job is the base plus $100, so $279.99 in Brooklyn or Queens on drywall, and 77″ OLED TV mounting or 83″ OLED TV mounting falls in that same band. From 86″ to 97″ the add-on is $175 with two technicians; a 98″ TV mounting service job adds $220, so $399.99 in Queens before wall and bracket. Heavy screens call for brackets like the Sanus VLF828-B2 at $429.99."
+  },
+  {
+   "q": "Can someone mount my TV this weekend, or even the same day?",
+   "a": "Often. Same day TV mounting or next day TV installation depends on an open 2-hour arrival window in your borough, and the calculator shows real availability when you book. We work 8 AM to 8 PM, seven days a week, so weekends and evenings are bookable. We don't run an emergency TV mounting service or exact-time slots, and weekends before the Super Bowl or holidays fill up first."
+  }
+ ],
+ "equipment_h2": "TV Mounts and Brackets for NYC Rooms",
+ "equipment": [
+  {
+   "icon": "⬛",
+   "title": "Fixed and Low-Profile Mounts",
+   "text": "Low profile TV mounting gives the flattest look, ideal for narrow Manhattan living rooms and hallways where every inch of depth counts. The Sanus VLL5-B2 is $159.99. Flush TV wall mounting also helps commercial spaces stay within the ADA 4-inch protrusion limit."
+  },
+  {
+   "icon": "↕️",
+   "title": "Tilting Mounts",
+   "text": "Angles the screen down when it sits above eye level, like over a dresser in a small Brooklyn bedroom TV mounting job. The Sanus VLT7-B2 is $199.99. Tilting vs full motion TV mount comes down to whether you only need a downward angle or real sideways reach."
+  },
+  {
+   "icon": "↔️",
+   "title": "Full-Motion Articulating Mounts",
+   "text": "What is the difference between a fixed and full motion mount? Reach. Full motion TV mount installation, also called articulating or swivel, adds $40 and swings the screen toward a kitchen or second seat. Corner TV mounting adds $40 as well. Sanus VMF822-B2 is $279.99."
+  },
+  {
+   "icon": "🔥",
+   "title": "Pull-Down Fireplace Mounts",
+   "text": "MantelMount brackets lower the TV to eye level for viewing and lift it back above the mantel afterward. They're popular in Staten Island and Queens houses with working fireplaces. The MM340 is $199.95, the MM700 is $399.95, and installation adds $160."
+  },
+  {
+   "icon": "⬆️",
+   "title": "Ceiling Mounts",
+   "text": "Ceiling TV mount installation suits bars, gyms, lofts and rooms where no wall works. Ceiling mounting adds $85, and the Sanus ceiling mount is $449.99. Concrete slab ceilings in high-rises are common and get anchored accordingly; drop ceilings need a structural attachment above the tile."
+  },
+  {
+   "icon": "☀️",
+   "title": "Outdoor Mounts",
+   "text": "For decks, patios and backyards, mostly in Staten Island and eastern Queens. Outdoor mounting adds $90. Options include the Samsung Terrace mount at $149.99, a Sanus outdoor tilt at $239.99 and a SunBriteTV outdoor full-motion at $589.99 for weather-exposed spots."
+  },
+  {
+   "icon": "🖼️",
+   "title": "Samsung Frame and Art TV Mounts",
+   "text": "Samsung Frame TV installation and LG Gallery TV mounting hang nearly flush like a picture, so placement and cable routing have to be exact. Frame and art TVs add $70, and they pair well with in-wall concealment at $169 so no cable shows below the screen."
+  },
+  {
+   "icon": "🔊",
+   "title": "Soundbar Brackets",
+   "text": "A Sanus soundbar bracket at $84.99 holds the bar directly under the screen so it moves with a full-motion arm. Wall-mounting a soundbar is $129, or $79 if it simply sits on your console, which makes TV mounting with soundbar installation one easy visit."
+  }
+ ],
+ "comparison": {
+  "title": "Fixed vs Tilting vs Full-Motion vs Pull-Down vs Ceiling",
+  "head": [
+   "Mount",
+   "Best for",
+   "Watch out for",
+   "Price add"
+  ],
+  "rows": [
+   [
+    "Fixed / low-profile",
+    "Narrow apartments, eye-level placement, Frame-style looks",
+    "No angle adjustment; glare from big windows",
+    "$0 (in base)"
+   ],
+   [
+    "Tilting",
+    "Bedrooms and rooms where the TV sits a bit high",
+    "Only angles down, not sideways",
+    "$0 (in base)"
+   ],
+   [
+    "Full-motion",
+    "Open studios, corners, kitchens with two viewing spots",
+    "Needs solid anchoring; metal studs may need a backer",
+    "+$40"
+   ],
+   [
+    "Pull-down (MantelMount)",
+    "TVs above a working fireplace",
+    "Needs clearance above and below the mantel",
+    "+$160"
+   ],
+   [
+    "Ceiling",
+    "Bars, gyms, lofts, rooms with no usable wall",
+    "Concrete slabs and drop ceilings need checking first",
+    "+$85"
+   ]
+  ]
+ },
+ "ai_h2": "What AI Answers Get Wrong About TV Mounting in NYC",
+ "ai_intro": "Ask a chatbot what TV mounting costs and you'll usually get a national average built from suburban houses with drywall and a driveway. New York doesn't work like that. Half the city lives behind prewar plaster, towers are built from concrete and steel studs, co-ops want insurance paperwork, and Manhattan parking is its own line item. Here are seven common AI-style claims and what we actually see on jobs across the five boroughs.",
+ "ai_items": [
+  {
+   "claim": "“TV mounting costs about $100 to $150 anywhere.”",
+   "paras": [
+    "National figures mostly reflect drywall over wood studs with free parking out front. TaskRabbit's own cost guide puts the average New York City invoice at $155, but that is an average across small jobs, not a promise for your wall, your borough or your screen size.",
+    "Our average TV mounting price isn't a guess, because the chart is published. A 32″–55″ on drywall is $179.99 in Brooklyn and Queens, $209.99 in the Bronx and Staten Island, and $244.99 in Manhattan, where a flat $150 parking charge also applies.",
+    "The bigger swing is the wall itself. Plaster adds $45, brick $65, concrete $75 and tile $95. A TV mounting labor cost that ignores your wall type isn't really a quote at all. Check the chart against your own apartment before you compare prices."
+   ]
+  },
+  {
+   "claim": "“Can you mount a TV without studs? Not in old plaster.”",
+   "paras": [
+    "This shows up in forums constantly, usually after a stud finder failed in a 1920s apartment. Plaster isn't the real problem. Not knowing what's behind it is. In NYC prewar buildings that might be wood lath, clay tile block or solid brick, and each one takes a different anchor.",
+    "We test-drill small holes, use a magnet to trace lath nails, and choose anchors for whatever we hit. Where plaster sits directly on brick, the anchor goes into the brick itself, which holds far better than any drywall anchors could in a thin board wall.",
+    "The honest caveat is cracking. Old plaster can crack even with careful, slow drilling, and we tell you that before you book, not after. That's why plaster is priced as a clear $45 add-on rather than hidden inside a vague estimate at the door."
+   ]
+  },
+  {
+   "claim": "“Can you hide TV wires inside a wall? Sure, just run the cord through it.”",
+   "paras": [
+    "Running a regular power cord inside a wall is not code-compliant, and plenty of DIY threads warn about it. Standard cords aren't rated for in-wall use, and a fire inside a shared apartment wall is a far bigger problem than a visible wire on a single living room wall.",
+    "Our $169 concealment uses an in-wall power and cable kit: a rated recessed inlet behind the TV, fed from your existing outlet below, with in wall HDMI cable routing alongside. Low-voltage cabling is our trade as a licensed low-voltage contractor, so the data side is done properly.",
+    "Some NYC walls won't allow it at all. Solid brick party walls, concrete in high-rises and fire-rated corridor walls can't be fished cleanly. On those, a paintable cord cover at $59 is the honest, tidy answer, and we'll say so before you pay for anything."
+   ]
+  },
+  {
+   "claim": "“Wall type doesn't really change the price.”",
+   "paras": [
+    "Some flat-rate ads promise no wall surcharge, and for a single wood-stud drywall job that's fair. But concrete, tile and brick need hammer drills, diamond or carbide bits, different anchors and more time, especially in the masonry-heavy buildings New York City is full of.",
+    "Rather than average those costs into everyone's price, we list them openly: metal studs $30, plaster $45, brick or stone $65, concrete or cinder block $75, tile or marble $95. Drywall over wood studs is $0, so simple jobs aren't subsidizing hard ones.",
+    "If we find something on site that you didn't select, like brick behind plaster, you see the price before any drilling starts. No surprise charges is written policy, and you can read it on our <a href=\"/tv-installation-policies\">TV installation policies</a> page before you book."
+   ]
+  },
+  {
+   "claim": "“Any handyman can walk into your building and hang a TV.”",
+   "paras": [
+    "In a house on Staten Island, maybe. In a Manhattan co-op or a Queens condo, the front desk will usually ask for a certificate of insurance naming the corporation and managing agent before letting anyone upstairs, and some doormen check the date and wording closely.",
+    "Some boards also want an alteration agreement or a service-elevator booking, even for small jobs. Brick Underground and Habitat magazine have covered how strict these rules can be, and NYC renters on Reddit regularly describe workers being turned away over missing paperwork.",
+    "We provide COIs free and need your building's wording ahead of time. If we're turned away because approvals are missing, the $150 return-trip fee applies, so it pays to sort the paperwork first. A two-minute email to your managing agent usually settles it."
+   ]
+  },
+  {
+   "claim": "“One person can mount a 75 inch TV. A bigger TV just needs a bigger bracket.”",
+   "paras": [
+    "Can one person mount a 75 inch TV? Sometimes, on an easy wall. But an 85″ or 98″ TV changes the job, not only the hardware. The box may not turn on a walk-up landing, and level has to be perfect across a much wider frame.",
+    "That's why extra large TV wall mounting from 86″ up gets two technicians: +$175 for 86″–97″ and +$220 for 98″ and larger. A third floor and up with no elevator adds $40, and a high mount above about 8 feet adds $75.",
+    "Before buying, measure your stairwell turns, elevator door and apartment door, because some buyers only discover a fit problem on delivery day. Large screens also deserve a heavy-duty bracket, such as the Sanus VXF830 full-motion mount at $499.99, rated for the weight."
+   ]
+  },
+  {
+   "claim": "“Above the fireplace is always the best place for a TV.”",
+   "paras": [
+    "It's the most requested spot in Staten Island and Queens houses and in prewar apartments with decorative mantels. Is it safe to mount a TV above a fireplace? Often, yes. Is it comfortable? Not always, because the screen can land well above seated eye level.",
+    "Working fireplaces also send heat up the wall, and many stone surrounds are thin veneer that shouldn't carry a heavy bracket. Before suggesting a spot, we check mantel depth, the masonry behind the stone and the heat path, then talk through viewing height with you.",
+    "If above the fireplace is the only wall that works, a pull-down MantelMount fixes the height problem. Placement adds $130 above a fireplace, or $160 for a pull-down mount, plus $65 for brick or stone. Those are published prices, not on-site guesses."
+   ]
+  }
+ ],
+ "process": [
+  {
+   "title": "Price and book online",
+   "text": "Book TV mounting service in the calculator: pick your borough, TV size, wall type, mount and extras, and your total shows before you pay. TV jobs are paid in full online at booking. Need a COI? Send your building's wording with the booking."
+  },
+  {
+   "title": "Choose a 2-hour arrival window",
+   "text": "Schedule TV mounting in a 2-hour arrival window between 8 AM and 8 PM, seven days a week. Every TV mounting appointment uses a window, never an exact time. Line up building access, elevator reservations and Manhattan parking notes before the day."
+  },
+  {
+   "title": "Wall and placement check",
+   "text": "Your technician confirms the wall material, finds framing or masonry, checks height and viewing angle with you, and looks at where the outlet sits. If the wall differs from what you selected, you see the price change before any drilling."
+  },
+  {
+   "title": "Mount, level and connect",
+   "text": "We anchor the bracket for your wall, hang and level the TV, connect power and up to two existing devices, and tidy cables behind the screen or route them through your concealment kit if you ordered one."
+  },
+  {
+   "title": "Walkthrough and cleanup",
+   "text": "We test the inputs, show you how the mount adjusts, vacuum drilling dust and take boxes away if you added removal. Then you sign off. Patching, painting and picture calibration aren't part of the job, so plan for those separately."
+  }
+ ],
+ "landmarks_h2": "TV Mounting Near NYC Landmarks in Every Borough",
+ "landmarks": [
+  {
+   "name": "Barclays Center, Brooklyn",
+   "text": "Bars and restaurants around Atlantic and Flatbush Avenues want screens up before Nets and Liberty seasons, often on brick storefront walls."
+  },
+  {
+   "name": "Yankee Stadium, the Bronx",
+   "text": "Sports bars and apartment buildings near River Avenue and the Grand Concourse mean prewar plaster and masonry jobs before Opening Day."
+  },
+  {
+   "name": "Citi Field, Queens",
+   "text": "From Flushing to Corona and Jackson Heights, viewing rooms in two-family houses and apartments go up ahead of Mets season."
+  },
+  {
+   "name": "USTA Billie Jean King National Tennis Center, Queens",
+   "text": "Each late summer the US Open in Flushing Meadows Corona Park puts more screens on walls in nearby Forest Hills and Rego Park homes and restaurants."
+  },
+  {
+   "name": "Madison Square Garden, Manhattan",
+   "text": "Offices and bars around Penn Station and Midtown South mean metal-stud partitions, freight elevators and our flat Manhattan parking charge."
+  },
+  {
+   "name": "St. George Ferry Terminal, Staten Island",
+   "text": "From waterfront apartments in St. George to houses along the North Shore, fireplace and deck TVs come up as often as apartment walls."
+  }
+ ],
+ "also_serve": "Beyond the big names, we book TV mounting in Long Island City, Riverdale, Bay Ridge, Harlem, Washington Heights, Tottenville, Bushwick, Jackson Heights, Pelham Bay and Great Kills.",
+ "pricing_intro": "Below are published NYC TV mounting prices by borough. The base covers a 32″–55″ TV on a flat or tilt mount, on drywall over wood studs, labor only: $179.99 in Brooklyn and Queens, $209.99 in the Bronx and Staten Island, and $244.99 in Manhattan plus a flat $150 parking charge. Each line is a TV installation price per TV, and size, mount, wall and extras add to the base. Brand doesn't matter: Samsung, LG, Sony, TCL, Hisense and Vizio sets follow the same chart.",
+ "packages_intro": "Most NYC jobs fall into one of three shapes: a single TV hung cleanly, a TV with hidden wires and a soundbar, or a large screen with a full system. The packages bundle common add-ons so you don't build every line by hand, and the same borough base and wall add-ons still apply.",
+ "package_notes": {
+  "starter": "For renters and first apartments who just want one TV hung level and safe, with cables tidied behind it.",
+  "standard": "For living rooms where you want the wires gone and a soundbar under the screen, in a co-op, condo or house.",
+  "premium": "For big screens, fireplaces and media rooms that need full concealment, audio and every device set up."
+ },
+ "byoe": "Already own a bracket? Bring your own, as long as it's rated for your TV's weight and VESA pattern, and we install it at labor-only pricing. Not allowed to drill, or prefer furniture? A TV on its stand is $119.99 in Brooklyn and Queens, $137.99 in the Bronx and Staten Island, and $162.99 in Manhattan. Setup-only visits for a smart TV, WiFi or cable box bill your borough's hourly rate.",
+ "faq": [
+  {
+   "q": "Do TV installers provide mounting brackets?",
+   "a": "We can, but prices are labor only. Add a bracket at list price, such as the Sanus VLL5-B2 fixed mount at $159.99 or the VMF822-B2 full-motion at $279.99, which makes it a TV mounting service with bracket in one booking. Or supply your own mount if it's rated for your TV's weight and VESA pattern."
+  },
+  {
+   "q": "What does the base price include?",
+   "a": "Locating studs or framing, mounting and leveling the TV, connecting power and up to two existing devices, tidying cables behind the screen, and cleaning up drilling dust. It assumes a 32″–55″ TV on a fixed or tilt mount on drywall over wood studs. Anything beyond that is a listed add-on."
+  },
+  {
+   "q": "Can a mounted TV damage the wall, and do you patch holes?",
+   "a": "Drilling leaves holes, and old plaster or tile can crack even with careful work, which you accept when booking those walls. We don't patch or paint, including holes from a previous mount. In a rental, plan for a painter or the move-out repair your lease requires."
+  },
+  {
+   "q": "What happens if my TV or bracket isn't there when you arrive?",
+   "a": "If we can't start because the TV or bracket is missing, nobody can give us access, or building approvals aren't in place, a $150 return-trip fee applies. Confirm delivery dates, COIs and elevator bookings before your arrival window to avoid paying it."
+  },
+  {
+   "q": "Can I reschedule my appointment?",
+   "a": "Yes, free with at least 24 hours' notice. Changes made with less than 24 hours' notice keep $150 of the payment. Your new appointment is another 2-hour arrival window in your borough, any day of the week between 8 AM and 8 PM."
+  },
+  {
+   "q": "Do you offer a TV mounting service with warranty?",
+   "a": "Brackets and parts carry their manufacturer's warranty. Labor is not warrantied. That's exactly why we anchor to the wall material we actually find and price plaster, brick and tile honestly, instead of cutting corners to hit a low headline number."
+  },
+  {
+   "q": "How do I pay for TV mounting?",
+   "a": "TV mounting jobs are paid in full online when you book through the calculator. The price you see is the price you pay, unless something you didn't select is found on site, and in that case you approve the new price before any work begins."
+  },
+  {
+   "q": "How high should a TV be mounted?",
+   "a": "A common recommended TV mounting height puts the center of the screen near seated eye level, roughly 40 to 45 inches off the floor in a living room. What is the best height for a bedroom TV? Usually higher, angled down with a tilt mount. We confirm viewing height with you before drilling."
+  },
+  {
+   "q": "What size TV mount do I need, and how do I know if my TV is VESA compatible?",
+   "a": "Check the back of your TV or its manual for the VESA pattern, such as 300×300 or 400×400 millimeters, and its weight. Almost all modern flat screen TV mounting uses VESA holes. The bracket must list your pattern and weight; if it doesn't, we won't hang the TV on it."
+  },
+  {
+   "q": "Can someone move my mounted TV to another room?",
+   "a": "Yes. Taking down an old TV is $85 and removing an old bracket is $45, then the new spot is priced like any mount. That covers TV mount relocation, TV removal and remounting, TV wall bracket replacement and a sagging TV mounting repair. Haul-away of an old TV is $79 and box removal is $25."
+  },
+  {
+   "q": "Should I hire a professional to mount my TV or do it myself?",
+   "a": "If it's a light TV on drywall over wood studs, DIY can work. On plaster, brick, concrete, metal studs or tile, or with a screen over 65″, a pro with the right drill, bits and anchors is cheap insurance. A licensed, insured installer also clears co-op front desks that won't admit a DIY helper."
+  },
+  {
+   "q": "Is there a charge for a certificate of insurance?",
+   "a": "No. COIs are free. Send your building's sample certificate or required wording when you book, and we'll name the corporation, condo association or managing agent exactly as they ask, so the doorman can send us up without a phone call to management."
+  }
+ ],
+ "field_notes": "A recent commercial request from Brooklyn shows how larger jobs get priced. A steakhouse owner asked us to mount a 77-inch TV in his restaurant. A screen that size is heavy, wide and hard to level, and restaurant walls are rarely simple drywall. We quoted $350 for labor, with the bracket priced separately, and as of October 2026 we're still waiting on his go-ahead. Nothing is installed yet, so there's no finished photo to share, only a clear quote with every piece listed before anyone drills a hole.",
+ "local_close_h2": "TV Mounting Priced for How New York Is Actually Built",
+ "local_close": "NYC TV mounting isn't one job. It's prewar plaster in a Washington Heights co-op, exposed brick in a Bed-Stuy brownstone, metal studs in a Long Island City tower, wood studs in a Bronx two-family and a stone fireplace on Staten Island. We publish the price for each wall, size and mount, issue COIs free, carry heavy screens up walk-ups and send two techs when the TV needs it. For full details, see our <a href=\"/tv-installation-nyc\">TV mounting and installation service in NYC</a>, or the <a href=\"/tv-installation-manhattan\">Manhattan</a>, <a href=\"/tv-installation-brooklyn\">Brooklyn</a>, <a href=\"/tv-installation-queens\">Queens</a>, <a href=\"/tv-installation-bronx\">Bronx</a> and <a href=\"/tv-installation-staten-island\">Staten Island</a> pages.",
+ "research_notes": {
+  "reddit": "Firecrawl search (Reddit pages themselves blocked from full scrape; excerpts only). r/AskNYC: prewar UWS/Manhattan plaster mounting questions (bii1nq, q8rd5a, 1ba4tec 'lath and plaster, standard drywall anchors won't work'), studs not found (dbfbq0), metal studs fine with toggles (1hh1wl0), building maintenance helped mount TV (15y4mfu), landlord says drilling illegal without approval (qhg4h1), condo building requires its own service (p854vg), $199 Geek Squad 55\" with cord hiding extra (nkwkm0). r/NYCapartments: brick wall mounting advice (gvuf5g), holes/wear-and-tear deposit (6re8xp). r/nyc: prewar no studs (f6n5c1). r/Brooklyn: 65 lb TV on metal studs (18h6ei8), Park Slope request for TV install service 7 days ago (1wz86z7). r/uppereastside: company recommendation (1o99z3r), cinder block wall approved by super, TaskRabbit only handles wood studs (1g8f2ci). r/astoria: TaskRabbit used for 65\"/45\" (uorv9l). r/bronx, r/StatenIsland, r/Queens: no TV-mounting-specific threads surfaced in searches — empty.",
+  "google_paa": "Direct Google SERP/PAA blocked. Google autocomplete (suggestqueries) for 'how much to mount a tv in nyc' returned: 'how much should you charge to mount a tv', 'how much does it cost to have someone mount a tv'. PAA-style questions also seen on ranking pages (Montgomery Solutions UES page, handymannearmenj) — 'How much do people typically charge to mount a TV?'.",
+  "pasf": "Google autocomplete for 'tv mounting nyc': tv mounting nyc reddit, tv mounting nyc cost, tv installation nyc, tv hanging nyc, tv mounting manhattan, tv mounting ny, tv mounting service nyc, taskrabbit tv mounting nyc, tv wall mounting nyc.",
+  "answer_the_public": "Question patterns built from autocomplete + Reddit titles: how much / why more in Manhattan / can you mount on plaster, brick, metal studs, cinder block / can landlord stop / does co-op need COI / who mounts 85-98 inch / same day / do I need electrician for outlet / is it safe above fireplace.",
+  "ai_overview": "Ranking cost guides that AI answers draw on: TaskRabbit cost guide (NYC avg $84/hr, avg invoice $155; TaskRabbit NYC location page says $58/hr, 1–2 hrs); Mounting NYC ($150–$350 standard, $400–$600+ with specialty walls); Picture Perfect Mounting 2026 guide ($120–$175 standard, plaster common in prewar); Express Mounting ($129–$255 by size, masonry +$99, plaster 'usually no surcharge'); hangit.nyc ($169 up to 65\", 'no wall-type surcharge'); Flat Rate Assembly ($99–$199); Home Depot ($100–$200 on wood/drywall). Common simplifications: one flat number, wall type ignored, parking/building logistics ignored.",
+  "landmarks": "Used well-known, verifiable landmarks spread across boroughs: Barclays Center (Brooklyn), Yankee Stadium (Bronx), Citi Field and USTA Billie Jean King National Tennis Center (Queens), Madison Square Garden (Manhattan), St. George Ferry Terminal (Staten Island). No customer stories attached.",
+  "use_cases": "Building stock: 54% of NYC units pre-1947 (RGB 2025 Housing Supply Report; CHPC 'Taking Stock'); 772,000 units in 100+ unit buildings and ~712,600 prewar units reached by 1+ flights of stairs (2021 NYCHVS); 450,000 co-op + 318,000 condo units = 22%, ~225,000 two-family structures mostly outer boroughs (NYC Comptroller); Staten Island homeownership 67.7% vs 32.7% citywide (NYU Furman Center).",
+  "bing_duckduckgo": "Bing: blocked (robots disallowed via WebFetch). DuckDuckGo html endpoint blocked via WebFetch; lite.duckduckgo.com via Firecrawl worked: results = mountingnyc.com cost guide, nyctvguy.com cost guide, pictureperfectmounting.com 2026 guide, hangit.nyc, handyraccoon.com cost guide, nyctvguy.com/tv-mounting (from $175), themountingman.com NY pricing, 107percent.com prices, flatrateassembly.com ($99–$199). Matches Google-side findings.",
+  "local_news": "Co-op/condo rules: Havard Cooper alteration-agreement explainer (COIs naming corporation + managing agent as additional insureds; agreements not standardized), Brick Underground on which renovations need board approval, Habitat magazine on alteration agreements, Cooperator News on DIY in co-ops. Code: NYC Admin Code §28-429.1 (electrical work = licensed master electrician; low-voltage by qualified persons). ADA 2010 §307.2 via Access Board guide. No recent NYC news stories specific to TV mounting found.",
+  "hyperlocal": "Searched Patch, SILive, QNS, Bronx Times, BKReader for TV mounting / TV installs — no relevant articles (news search returned only unrelated items, e.g. BKReader on a Con Edison battery in Brownsville). Empty.",
+  "yelp": "Yelp pages blocked for direct fetch (robots/unsupported). Search-result snippets from Yelp NYC/Brooklyn/Queens TV mounting listings (~4.8–4.9 avg across 2,400–2,700 reviews) repeatedly praise 'showed up on time', 'brought all the right tools', fair quote, quick and clean — implying punctuality, preparedness and upfront price are what NYC customers judge on. No complaint text was retrievable; complaint themes (no-shows, surprise add-ons) come from Reddit instead."
+ },
+ "sources": [
+  "https://www.reddit.com/r/AskNYC/comments/bii1nq/mounting_things_to_wallsceiling_in_prewar/",
+  "https://www.reddit.com/r/AskNYC/comments/q8rd5a/nyc_prewar_building_walls/",
+  "https://www.reddit.com/r/AskNYC/comments/1ba4tec/how_do_i_figure_out_what_material_my_wall_is_made/",
+  "https://www.reddit.com/r/AskNYC/comments/1hh1wl0/is_preferring_a_newer_apartment_an_unpopular/",
+  "https://www.reddit.com/r/AskNYC/comments/15y4mfu/installing_shelves_in_rental_apartment/",
+  "https://www.reddit.com/r/AskNYC/comments/qhg4h1/drilling_holes_in_a_rental_apartment/",
+  "https://www.reddit.com/r/AskNYC/comments/p854vg/just_moved_here_trying_to_get_a_tv_mounted_in_a/",
+  "https://www.reddit.com/r/AskNYC/comments/nkwkm0/decent_tv_mounting_service/",
+  "https://www.reddit.com/r/AskNYC/comments/rv9tht/getting_approval_for_renovating_a_coop/",
+  "https://www.reddit.com/r/NYCapartments/comments/gvuf5g/advice_re_brick_wall_tv_mounting/",
+  "https://www.reddit.com/r/nyc/comments/f6n5c1/has_anyone_wall_mounted_their_tv_in_a_prewar/",
+  "https://www.reddit.com/r/Brooklyn/comments/18h6ei8/hang_65lb_tv_on_metal_studs/",
+  "https://www.reddit.com/r/Brooklyn/comments/1wz86z7/television_installation_service/",
+  "https://www.reddit.com/r/uppereastside/comments/1o99z3r/can_someone_reccomend_a_company_that_mounts_tvs/",
+  "https://www.reddit.com/r/uppereastside/comments/1g8f2ci/looking_to_mount_tv_on_cinder_block_wall_approved/",
+  "https://www.reddit.com/r/astoria/comments/uorv9l/tv_mounting_services/",
+  "https://rentguidelinesboard.cityofnewyork.us/wp-content/uploads/2025/05/2025-HSR.pdf",
+  "https://chpcny.org/visualization/housing-stock-visualization/",
+  "https://www.nyc.gov/assets/hpd/downloads/pdfs/services/2021-nychvs-selected-initial-findings.pdf",
+  "https://comptroller.nyc.gov/reports/spotlight-new-york-citys-homeowner-housing-market/",
+  "https://www.furmancenter.org/neighborhoods/staten-island/",
+  "https://www.access-board.gov/ada/guides/chapter-3-protruding-objects/",
+  "https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-230270",
+  "https://www.havardcooper.com/articles/co-op-alteration-agreements-nyc",
+  "https://www.brickunderground.com/improve/when-to-tell-your-board-about-renovations",
+  "https://cooperatornews.com/article/what-diy-improvements-are-allowed-not-allowed-inside-your-co-op",
+  "https://www.taskrabbit.com/cost-guides/wall-mount-tv",
+  "https://www.taskrabbit.com/locations/new-york-city/wall-mount-tv",
+  "https://mountingnyc.com/blog/tv-mounting-cost-in-nyc/",
+  "https://pictureperfectmounting.com/how-much-does-tv-mounting-cost-in-nyc-2026-guide/",
+  "https://expressmounting.com/blog/how-much-does-tv-mounting-cost/",
+  "https://hangit.nyc/",
+  "https://flatrateassembly.com/tv-mounting-nyc",
+  "https://www.homedepot.com/services/c/tv-mounting/07027f83d",
+  "https://lite.duckduckgo.com/lite/?q=tv+mounting+prices+nyc",
+  "https://suggestqueries.google.com/complete/search?client=firefox&q=tv+mounting+nyc",
+  "https://m.yelp.com/search?find_desc=Tv+Mounting&find_loc=Brooklyn%2C+NY",
+  "https://www.yelp.com/search?cflt=tvmounting&find_loc=88-38+Sutphin+Blvd%2C+Queens%2C+NY+11435"
+ ],
+ "keywords_used": [
+  "TV mounting",
+  "TV installation",
+  "TV mounting service",
+  "TV wall mounting",
+  "television mounting",
+  "television installation",
+  "TV installer",
+  "TV mounting company",
+  "TV mounting contractor",
+  "TV hanging service",
+  "flat screen TV mounting",
+  "professional TV mounting",
+  "TV mount installation",
+  "TV wall installation",
+  "TV installation service",
+  "wall mounted TV installation",
+  "hire TV mounting service",
+  "book TV mounting service",
+  "schedule TV mounting",
+  "TV mounting appointment",
+  "TV mounting near me",
+  "TV installation near me",
+  "same day TV mounting",
+  "next day TV installation",
+  "emergency TV mounting service",
+  "local TV mounting company",
+  "affordable TV mounting service",
+  "licensed TV mounting contractor",
+  "insured TV mounting company",
+  "professional TV installers near me",
+  "TV mounting quote",
+  "TV installation estimate",
+  "TV mounting service with bracket",
+  "TV mounting and wire concealment",
+  "TV mounting with outlet installation",
+  "TV mounting with soundbar installation",
+  "TV mounting cost",
+  "TV installation cost",
+  "TV wall mounting price",
+  "how much does TV mounting cost",
+  "average TV mounting price",
+  "TV mounting labor cost",
+  "TV mounting service prices",
+  "TV installation price per TV",
+  "cost to mount a 55 inch TV",
+  "cost to mount a 65 inch TV",
+  "cost to mount a 75 inch TV",
+  "cost to mount an 85 inch TV",
+  "cost to mount a TV above a fireplace",
+  "cost to hide TV wires",
+  "cost to install TV mount on brick",
+  "best TV mounting service",
+  "TV mounting company reviews",
+  "TV mounting service comparison",
+  "handyman vs professional TV installer",
+  "TV mounting service with warranty",
+  "32 inch TV mounting service",
+  "40 inch TV wall installation",
+  "43 inch TV mounting",
+  "50 inch TV mounting service",
+  "55 inch TV installation",
+  "60 inch TV wall mounting",
+  "65 inch TV mounting service",
+  "70 inch TV installation",
+  "75 inch TV wall mounting",
+  "77 inch OLED TV mounting",
+  "80 inch TV installation",
+  "83 inch OLED TV mounting",
+  "85 inch TV mounting service",
+  "86 inch TV wall installation",
+  "98 inch TV mounting service",
+  "100 inch TV installation",
+  "large TV mounting",
+  "oversized TV installation",
+  "heavy TV mounting",
+  "extra large TV wall mounting",
+  "two person TV installation",
+  "TV mounting on drywall",
+  "TV mounting on plaster wall",
+  "TV mounting on brick wall",
+  "TV mounting on concrete wall",
+  "TV mounting on cinder block",
+  "TV mounting on metal studs",
+  "TV mounting on wood studs",
+  "TV mounting on stone fireplace",
+  "TV mounting on marble wall",
+  "TV mounting on tile wall",
+  "TV mounting on shiplap wall",
+  "TV mounting on wood paneling",
+  "TV mounting on uneven wall",
+  "TV mounting without studs",
+  "TV mounting on apartment walls",
+  "TV mounting on commercial walls",
+  "TV mounting on partition walls",
+  "TV mounting on reinforced concrete",
+  "TV mounting on masonry wall",
+  "TV mounting on fireplace surround",
+  "fixed TV mount installation",
+  "tilting TV mount installation",
+  "full motion TV mount installation",
+  "articulating TV mount installation",
+  "swivel TV mount installation",
+  "low profile TV mounting",
+  "flush TV wall mounting",
+  "recessed TV installation",
+  "ceiling TV mount installation",
+  "corner TV mounting",
+  "pull down fireplace TV mount",
+  "motorized TV mount installation",
+  "electric TV lift installation",
+  "dual TV mounting",
+  "multi TV wall installation",
+  "commercial ceiling TV mounting",
+  "outdoor TV mounting",
+  "portrait TV mounting",
+  "vertical TV installation",
+  "anti theft TV mount installation",
+  "living room TV mounting",
+  "bedroom TV mounting",
+  "master bedroom TV installation",
+  "kitchen TV mounting",
+  "basement TV mounting",
+  "home theater TV installation",
+  "apartment TV mounting",
+  "condo TV installation",
+  "townhouse TV mounting",
+  "fireplace TV mounting",
+  "patio TV mounting",
+  "outdoor deck TV installation",
+  "office TV mounting",
+  "restaurant TV installation",
+  "bar TV mounting",
+  "sports bar TV installation",
+  "hotel TV installation",
+  "conference room TV mounting",
+  "retail store TV installation",
+  "gym TV mounting",
+  "school TV installation",
+  "medical office TV mounting",
+  "waiting room TV installation",
+  "digital signage TV mounting",
+  "Samsung TV mounting service",
+  "Samsung Frame TV installation",
+  "Samsung Neo QLED TV mounting",
+  "LG TV mounting service",
+  "LG OLED TV installation",
+  "LG Gallery TV mounting",
+  "Sony Bravia TV installation",
+  "TCL TV mounting service",
+  "Hisense TV wall mounting",
+  "Vizio TV installation",
+  "Roku TV mounting service",
+  "Insignia TV mounting",
+  "Panasonic TV installation",
+  "Philips TV wall mounting",
+  "Sharp TV mounting",
+  "Toshiba TV installation",
+  "TV wire concealment",
+  "hide TV wires in wall",
+  "in wall TV cable management",
+  "TV power outlet installation",
+  "recessed TV outlet",
+  "HDMI cable installation",
+  "in wall HDMI cable routing",
+  "soundbar mounting service",
+  "soundbar installation under TV",
+  "surround sound installation",
+  "home theater installation",
+  "TV and audio installation",
+  "TV antenna installation",
+  "streaming device setup",
+  "smart TV setup",
+  "TV WiFi connection",
+  "TV cable box installation",
+  "TV wall bracket replacement",
+  "TV mount relocation",
+  "TV removal and remounting",
+  "TV mounting repair",
+  "TV wall reinforcement",
+  "TV mounting with cable concealment",
+  "TV installation with network connection",
+  "commercial audiovisual installation",
+  "how high should a TV be mounted",
+  "how much does it cost to mount a TV",
+  "can you mount a TV without studs",
+  "can you mount a TV on drywall",
+  "can you mount a TV on plaster walls",
+  "can you mount a TV on brick",
+  "can you mount a TV above a fireplace",
+  "is it safe to mount a TV above a fireplace",
+  "what size TV mount do I need",
+  "how do I know if my TV is VESA compatible",
+  "can you hide TV wires inside a wall",
+  "do TV installers provide mounting brackets",
+  "how long does TV mounting take",
+  "can one person mount a 75 inch TV",
+  "do I need an electrician to install an outlet behind my TV",
+  "can a landlord prohibit TV mounting",
+  "can a mounted TV damage the wall",
+  "what is the best height for a bedroom TV",
+  "what is the difference between a fixed and full motion mount",
+  "should I hire a professional to mount my TV",
+  "who can mount my TV near me",
+  "where can I find a TV installer today",
+  "how much would someone charge to hang my TV",
+  "can someone mount my TV this weekend",
+  "who installs TVs on brick walls",
+  "who can hide the wires behind my television",
+  "can I get my TV mounted above my fireplace",
+  "is there a company that mounts TVs and soundbars",
+  "who installs really big TVs",
+  "can someone move my mounted TV to another room",
+  "who can install TVs in my restaurant",
+  "who can mount multiple TVs in my office",
+  "TV mounting for apartment renters",
+  "hotel room TV installation",
+  "holiday TV installation service",
+  "TV mounting before Super Bowl",
+  "TV mounting company near me",
+  "TV mounted above fireplace with hidden wires",
+  "TV bracket",
+  "VESA pattern",
+  "wall studs",
+  "viewing height",
+  "cable management",
+  "TV mount pulling away from wall",
+  "TV wires hanging down wall",
+  "drywall anchors",
+  "lag bolts",
+  "stud finder",
+  "tilting vs full motion TV mount",
+  "alternatives to big box TV installation",
+  "recommended TV mounting height",
+  "residential TV mounting",
+  "commercial TV installation",
+  "TV wire hiding service",
+  "large TV installation",
+  "soundbar and TV installation",
+  "TV mount relocation service"
+ ],
+ "coverage_sections": [
+  {
+   "h3": "TV Mounting Cost by Screen Size: 32 to 55 Inches",
+   "text": "A 32 inch TV mounting service call in a Bronx bedroom and a 55 inch TV installation in a Queens living room land on the same borough base, because anything from 32″ to 55″ counts as the standard size. A 40 inch TV wall installation or a 43 inch TV mounting job is $179.99 in Brooklyn or Queens, $209.99 in the Bronx or on Staten Island, and $244.99 in Manhattan plus the $150 parking charge. A 50 inch TV mounting service visit costs exactly the same. So the cost to mount a 55 inch TV in Astoria is $179.99 in labor on drywall over wood studs, before any wall add-on or the TV bracket you choose."
+  },
+  {
+   "h3": "60 to 85 Inch TVs: How the Size Add-On Works",
+   "text": "Screens from 56″ to 65″ add $30, which covers a 60 inch TV wall mounting job in a Park Slope rowhouse or a 65 inch TV mounting service visit in a Riverdale co-op. The cost to mount a 65 inch TV in Brooklyn or Queens is therefore $209.99 on drywall. From 66″ to 75″ the add is $60, so a 70 inch TV installation or 75 inch TV wall mounting in Queens comes to $239.99. The 76″–85″ band adds $100: 77 inch OLED TV mounting, an 80 inch TV installation and 83 inch OLED TV mounting all sit there. An 85 inch TV mounting service visit in Manhattan is $344.99 plus the $150 parking charge, so the cost to mount an 85 inch TV there is $494.99 all in. One technician handles every size up to 85″."
+  },
+  {
+   "h3": "86 to 100 Inch Screens: Oversized TV Installation",
+   "text": "Oversized TV installation starts at 86″, and that's where we switch to two technicians. An 86 inch TV wall installation adds $175 to your borough base, so it's $354.99 in Brooklyn or Queens and $384.99 in the Bronx or on Staten Island. A 98 inch TV mounting service job and a 100 inch TV installation both add $220 with the same two-person crew, which puts a 100″ in a Staten Island basement at $429.99 in labor. Large TV installation in older buildings often adds a high mount ($75) or the walk-up fee ($40), and the bracket has to be rated for the weight, such as the Sanus VXF830 at $499.99. Measure doorways, elevators and stair turns before delivery day."
+  },
+  {
+   "h3": "Marble, Masonry, Partition Walls and Fireplace Surrounds",
+   "text": "TV mounting on marble wall finishes in Upper East Side lobbies and bathrooms is priced with tile at $95 and drilled with diamond bits. TV mounting on masonry wall surfaces, such as a Bed-Stuy brick party wall or a Fordham Road storefront, is $65 for brick or stone and $75 for concrete or cinder block. TV mounting on fireplace surround stone carries the same $65 masonry add once we confirm the stone isn't thin veneer. TV mounting on partition walls in Midtown offices and newer condos usually means metal studs at $30. Who installs TVs on brick walls without relying on plastic plugs? We do, with sleeve anchors set into the brick itself rather than the mortar joint alone."
+  },
+  {
+   "h3": "Shiplap, Wood Paneling and Mounting Without Studs",
+   "text": "TV mounting on shiplap wall boards in Staten Island houses and TV mounting on wood paneling in Queens basements both come down to what's behind the boards. When the framing is wood studs, lag bolts go through the boards into the studs and there's no wall add-on; if the paneling covers plaster or block, that wall's add-on applies instead. TV mounting without studs is normal in this city: prewar plaster sits on lath, tile block or brick, and high-rise walls are often concrete. TV mounting on apartment walls is really several different jobs depending on the building, which is why the calculator asks about your wall before you pay anything."
+  },
+  {
+   "h3": "Articulating, Swivel, Motorized and Recessed Mounts",
+   "text": "Articulating TV mount installation and swivel TV mount installation belong to the same full-motion family, priced at $40 over the base, and they're a common pick for studio apartments where one screen serves both the bed and the sofa. On metal studs we often add a plywood backer ($85) so the arm doesn't lever the anchors loose. Motorized TV mount installation and electric TV lift installation aren't on the flat-rate chart, because the hardware and cabinet work vary too much, so they get a written quote. The same goes for recessed TV installation into a wall niche and vertical TV installation for menu or art displays. Send photos through the free quote page and we'll price it in writing."
+  },
+  {
+   "h3": "Hotels, Stores, Schools, Restaurants and Offices",
+   "text": "Hotel TV installation, hotel room TV installation, retail store TV installation and school TV installation are written quotes whenever several screens are involved, built from the same wall and size add-ons. Anti theft TV mount installation for stores and lobbies, portrait or dual-screen walls, multi-TV walls and commercial audiovisual installation with distributed audio are written-quote work too. If you're searching who can install TVs in my restaurant, a single screen over a Brooklyn bar can often be priced straight from the chart. If the question is who can mount multiple TVs in my office, such as a Manhattan conference floor on metal-stud partitions, we quote every screen line by line and issue the COI free."
+  },
+  {
+   "h3": "Samsung, LG and Sony TVs",
+   "text": "Brand doesn't change the labor price. A Samsung TV mounting service visit for a 65″ costs what any 65″ costs, and Samsung Neo QLED TV mounting follows the same size chart; only Frame and art-style models add $70. An LG TV mounting service call or LG OLED TV installation needs extra care, because OLED panels are very thin, so the panel is handled by its frame and kept supported until the bracket latches. Sony Bravia TV installation follows the same bands too: a 75″ Bravia on drywall in a Manhattan co-op is $304.99 plus the parking charge. Whatever the brand, the bracket has to match its VESA pattern and weight."
+  },
+  {
+   "h3": "TCL, Hisense, Vizio, Roku TV and Other Brands",
+   "text": "Value brands are priced exactly like premium sets. A TCL TV mounting service call for an 85″ in a Bronx two-family is $309.99 on drywall over wood studs. Hisense TV wall mounting, Vizio TV installation and Roku TV mounting service jobs follow the same size bands, as does Insignia TV mounting for a bedroom or kitchen set. Older or secondary TVs are welcome too: Panasonic TV installation, Philips TV wall mounting, Sharp TV mounting and Toshiba TV installation all use the borough base for 32″ to 55″ screens. Budget TVs sometimes ship with plastic VESA spacers or unusual screw lengths, so keep every screw and spacer that came in the box."
+  },
+  {
+   "h3": "Hidden Wires, Soundbars and TV and Audio Installation",
+   "text": "The cost to hide TV wires is $169 for in wall TV cable management with a code-compliant power and cable kit, or $59 for a paintable cord cover where the wall can't be opened. That TV wire hiding service fixes the familiar TV wires hanging down wall-to-outlet look in so many rentals. TV mounting with cable concealment pairs well with our soundbar mounting service at $129, and a Sanus bracket at $84.99 keeps the bar under the screen. Is there a company that mounts TVs and soundbars in one visit? Yes: TV and audio installation can add an A/V receiver ($129), Sonos ($125) or full home theater TV installation at $350. Who can hide the wires behind my television in a prewar co-op? We can, where the wall allows it."
+  },
+  {
+   "h3": "Fireplaces, Recessed Outlets and Network Cables",
+   "text": "Can you mount a TV above a fireplace in a Staten Island house or a prewar Manhattan living room? Usually, once we check the heat path and the stone. The cost to mount a TV above a fireplace is the $130 placement add, or $160 for a pull-down mount, plus $65 if the surround is brick or stone. A TV mounted above fireplace with hidden wires uses the $169 in-wall kit where the wall above the mantel can be fished: it creates a recessed outlet behind the TV fed from your existing outlet below. A brand-new outlet or circuit is an electrician's job, not ours. For TV installation with network connection, a cable run to your router or cabinet up to 25 ft is $99."
+  },
+  {
+   "h3": "Repairs, Relocations and Antennas",
+   "text": "A TV mount pulling away from wall anchors usually means it was hung on hardware meant for drywall alone, often in plaster or over metal studs. We take the TV down ($85), remove the failed bracket ($45) and remount it on anchors chosen for the actual wall, with the new mount priced like any other. The same steps make up our TV mount relocation service when you move a TV to another room or into a new apartment. TV antenna installation isn't on the flat-rate list, because antenna work depends on roof access and building rules, so it gets a written quote. Haul-away and recycling of the old set is $79, and box removal is $25."
+  },
+  {
+   "h3": "Booking, Same-Day Windows and Near-Me Searches",
+   "text": "Where can I find a TV installer today? If a 2-hour window is open in your borough, the calculator shows it, any day from 8 AM to 8 PM. TV mounting before Super Bowl Sunday and around the holidays tends to fill first, though we don't sell a separate holiday TV installation service or rush rate. Searching TV mounting near me, TV installation near me or TV mounting company near me from Washington Heights or Great Kills returns dozens of names, and professional TV installers near me should show a license, insurance and your wall's price before arriving. Before you hire TV mounting service help, check that. Who can mount my TV near me this week? We're a local TV mounting company covering all five boroughs."
+  },
+  {
+   "h3": "TV Installation Cost Terms, Decoded",
+   "text": "How much does it cost to mount a TV when sites use different words? A TV installation estimate from us is the calculator total, not a range. TV installation cost and TV wall mounting price mean the same thing here: labor, with the bracket on its own line. A TV hanging service or television mounting ad quoting one number usually assumes drywall over wood studs; wall mounted TV installation in New York adds wall, size and access. Weighing handyman vs professional TV installer? Ask if the TV mounting contractor is a licensed TV mounting contractor who can give your co-op a COI. Our television installation work is a TV installation service with published prices, because the best TV mounting service, or an affordable TV mounting service, keeps its total at your door. How much would someone charge to hang my TV in Bay Ridge? $179.99 on drywall over wood studs."
+  }
+ ]
+}

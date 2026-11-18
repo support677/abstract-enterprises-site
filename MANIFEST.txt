@@ -1,0 +1,38 @@
+NASSAU COUNTY PARKING-LOT CAMERA PAGE - CORRECTION DELIVERY MANIFEST
+(pricing 1.15x / .html canonical / 10 missing images / sitemap .html)
+====================================================================
+
+Baseline of record (sole source of truth):
+  ZIP:      deploy-6a6c0f4d5317c60008e61c49.zip
+  SHA-256:  22372f2634d30f031fa3dd6610a72261a73ea91e28e0264fad98487e7a452f35
+
+CHANGED (2):
+  parking-lot-camera-installation-nassau-county.html
+    bytes: 181007   sha256: a8e4139d23003c792b112cad2be7d8abb49f8d9b476c2d329b5239d6d4334bb5
+  sitemap.xml
+    bytes: 378666   sha256: 5fcf60551cf5ce6ae2d53efc402342af959386490fb00cbeb6a39cf50a95dfa0
+
+NEW - project images created at exact referenced paths (10; copies of approved Nassau hero):
+  images/parking/parking-lot-camera-layout-survey-nassau-county.webp
+  images/parking/parking-garage-lpr-camera-nassau-county.webp
+  images/parking/parking-lot-ptz-camera-mounting-nassau-county.webp
+  images/parking/parking-lot-camera-conduit-pathway-nassau-county.webp
+  images/parking/parking-lot-camera-cable-installation-nassau-county.webp
+  images/parking/parking-garage-camera-poe-switch-nassau-county.webp
+  images/parking/parking-lot-night-camera-testing-nassau-county.webp
+  images/parking/parking-lot-4k-bullet-camera-nassau-county.webp
+  images/parking/parking-garage-camera-installation-nassau-county.webp
+  images/parking/parking-garage-camera-repair-nassau-county.webp
+
+NEW - evidence / docs:
+  parking-lot-camera-installation-nassau-county-research-matrix.md
+  NASSAU-PARKING-v4-PASS-REPORT.md
+  MANIFEST.txt
+
+UNCHANGED vs baseline (NOT in this ZIP):
+  _redirects (extensionless->.html 200 rule kept), js/mega-nav.js,
+  all 9 parking sibling pages, keyword-coverage/-distribution/keywords.md,
+  all other site pages, css, other images.
+
+DEPLOY NOTE: drop these repo-relative files into the full cumulative site tree
+and deploy the COMPLETE cumulative ZIP to Netlify. Do NOT single-file drag-drop.

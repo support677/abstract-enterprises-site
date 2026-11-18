@@ -1,0 +1,38 @@
+name: Page guard
+# Anwar's rule (Nov 14 2026): no page on the site is ever deleted or renamed without his OK.
+# On every push to main, any .html page that was removed is put straight back from the
+# previous commit. A deletion Anwar approved must say [anwar-approved-delete] in the commit message.
+on:
+  push:
+    branches: [main]
+concurrency: { group: page-guard, cancel-in-progress: false }
+permissions: { contents: write }
+jobs:
+  guard:
+    if: ${{ !contains(github.event.head_commit.message, '[anwar-approved-delete]') && !contains(github.event.head_commit.message, 'Page guard:') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - name: Restore deleted pages
+        run: |
+          before="${{ github.event.before }}"; after="${{ github.sha }}"
+          if [ -z "$before" ] || [ "$before" = "0000000000000000000000000000000000000000" ]; then exit 0; fi
+          # skip commits in this push that Anwar approved
+          approved=$(git log --format=%H --grep='\[anwar-approved-delete\]' "$before..$after" || true)
+          deleted=""
+          for c in $(git rev-list "$before..$after"); do
+            echo "$approved" | grep -q "$c" && continue
+            deleted="$deleted $(git diff-tree --no-commit-id --diff-filter=D --name-only -r "$c" -- '*.html')"
+          done
+          restored=0
+          for f in $deleted; do
+            [ -e "$f" ] && continue
+            src=$(git rev-list -n1 "$after" -- "$f")
+            git checkout "${src}^" -- "$f" && restored=$((restored+1)) && echo "restored $f"
+          done
+          [ "$restored" -eq 0 ] && { echo "No pages deleted."; exit 0; }
+          git config user.name "page-guard"; git config user.email "page-guard@users.noreply.github.com"
+          git commit -m "Page guard: restored $restored deleted page(s)"
+          for i in 1 2 3; do git pull --rebase -q origin main && git push origin HEAD:main && break; sleep 5; done
+          echo "::warning::Page guard restored $restored page(s) that were deleted without approval"

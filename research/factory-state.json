@@ -1,0 +1,1163 @@
+{
+ "batches": [
+  {
+   "id": "msgbatch_019ruJWvQU4ueHc3fYjVR3eq",
+   "kind": "write",
+   "submitted": "2026-11-12T06:18Z",
+   "pages": {
+    "p0": {
+     "status": "TODO",
+     "slug": "security-camera-repair-canarsie-brooklyn-ny",
+     "silo": "Security Camera Repair",
+     "area": "Canarsie, Brooklyn",
+     "up": "/security-camera-repair-brooklyn",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": false,
+     "line_no": 308,
+     "silo_key": "security-camera-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Canarsie",
+     "borough": "Brooklyn",
+     "nb_slug": "canarsie",
+     "exemplar": "security-camera-repair-south-slope-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/security-camera-repair/security-camera-repair-canarsie-apartment-building-security-camera-installation-brooklyn-16-channel-desktop-re.webp",
+       "shows": "front panel of a 16-channel desktop network video recorder",
+       "w": 900,
+       "h": 360
+      },
+      {
+       "n": 2,
+       "src": "/images/security-camera-repair/security-camera-repair-canarsie-apartment-building-security-camera-installation-brooklyn-black-bullet-camera-o.webp",
+       "shows": "small black bullet camera suspended from a white ceiling-tile grid, pointed down a short hallway at a grey steel service door",
+       "w": 635,
+       "h": 600
+      },
+      {
+       "n": 3,
+       "src": "/images/security-camera-repair/security-camera-repair-canarsie-apartment-building-security-camera-installation-brooklyn-black-varifocal-dome.webp",
+       "shows": "black varifocal dome camera shown as a product photo",
+       "w": 209,
+       "h": 209
+      },
+      {
+       "n": 4,
+       "src": "/images/security-camera-repair/security-camera-repair-canarsie-apartment-building-security-camera-installation-brooklyn-black-video-intercom.webp",
+       "shows": "black video intercom door station with a camera lens, speaker grille and an illuminated call button",
+       "w": 595,
+       "h": 840
+      },
+      {
+       "n": 5,
+       "src": "/images/security-camera-repair/security-camera-repair-canarsie-apartment-building-security-camera-installation-brooklyn-mini-pan-tilt-dome-ca.webp",
+       "shows": "small pan-tilt dome camera with a white body and a black lens bubble",
+       "w": 300,
+       "h": 240
+      },
+      {
+       "n": 6,
+       "src": "/images/security-camera-repair/security-camera-repair-canarsie-apartment-building-security-camera-installation-brooklyn-slim-video-door-stati.webp",
+       "shows": "narrow video door station with a camera lens at the top and a big round call button",
+       "w": 383,
+       "h": 522
+      },
+      {
+       "n": 7,
+       "src": "/images/security-camera-repair/security-camera-repair-canarsie-apartment-building-security-camera-installation-brooklyn-stone-facade-with-cam.webp",
+       "shows": "bullet camera reaching out on a long black steel wall arm beneath a carved Greek-key band on pale stone with tall sash windows",
+       "w": 228,
+       "h": 368
+      },
+      {
+       "n": 8,
+       "src": "/images/security-camera-repair/security-camera-repair-canarsie-apartment-building-security-camera-installation-brooklyn-white-dome-camera-bes.webp",
+       "shows": "compact white dome camera fixed to grey acoustic ceiling tiles next to a long louvered fluorescent light fixture",
+       "w": 370,
+       "h": 300
+      },
+      {
+       "n": 9,
+       "src": "/images/security-camera-repair/security-camera-repair-canarsie-apartment-building-security-camera-installation-brooklyn-white-indoor-cube-cam.webp",
+       "shows": "small white cube camera for indoor use, product photo",
+       "w": 215,
+       "h": 215
+      },
+      {
+       "n": 10,
+       "src": "/images/security-camera-repair/security-camera-repair-canarsie-apartment-building-security-camera-installation-brooklyn-wifi-dome-camera-with.webp",
+       "shows": "outdoor Wi-Fi dome camera with an external antenna, product photo",
+       "w": 217,
+       "h": 217
+      },
+      {
+       "n": 11,
+       "src": "/images/security-camera-repair/security-camera-repair-canarsie-apartment-building-security-camera-installation-hudson-valley-black-hooded-bul.webp",
+       "shows": "black bullet camera with an extended sun hood and a glowing blue ring around the lens, product photo",
+       "w": 290,
+       "h": 255
+      }
+     ]
+    },
+    "p1": {
+     "status": "REBUILD",
+     "slug": "door-buzzer-repair-flatbush-brooklyn-ny",
+     "silo": "Door Buzzer Repair",
+     "area": "Flatbush, Brooklyn",
+     "up": "/door-buzzer-repair-brooklyn-new-york",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": true,
+     "line_no": 990,
+     "silo_key": "door-buzzer-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Flatbush",
+     "borough": "Brooklyn",
+     "nb_slug": "flatbush",
+     "exemplar": "door-buzzer-repair-windsor-terrace-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatbush-cable-bundles-dropping-down-equipment-rack.webp",
+       "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
+       "w": 250,
+       "h": 640
+      },
+      {
+       "n": 2,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatbush-dark-grey-wired-doorbell-with-round-button.webp",
+       "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
+       "w": 820,
+       "h": 480
+      },
+      {
+       "n": 3,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatbush-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
+       "w": 545,
+       "h": 180
+      },
+      {
+       "n": 4,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatbush-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
+       "w": 700,
+       "h": 620
+      },
+      {
+       "n": 5,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatbush-keypad-door-station-with-card-reader-and-camera.webp",
+       "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
+       "w": 510,
+       "h": 960
+      },
+      {
+       "n": 6,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatbush-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
+       "w": 540,
+       "h": 255
+      },
+      {
+       "n": 7,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatbush-night-camera-view-of-open-storeroom-doorway.webp",
+       "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
+       "w": 550,
+       "h": 350
+      },
+      {
+       "n": 8,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatbush-small-camera-high-on-pale-wall.webp",
+       "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
+       "w": 620,
+       "h": 420
+      },
+      {
+       "n": 9,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatbush-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
+       "w": 635,
+       "h": 1050
+      },
+      {
+       "n": 10,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatbush-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
+       "w": 228,
+       "h": 456
+      },
+      {
+       "n": 11,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatbush-2u-rack-video-server-product-photo.webp",
+       "shows": "black 2U rack-mount video server with a vented front panel, manufacturer product photo",
+       "w": 500,
+       "h": 182
+      }
+     ]
+    },
+    "p2": {
+     "status": "TODO",
+     "slug": "security-camera-repair-carroll-gardens-brooklyn-ny",
+     "silo": "Security Camera Repair",
+     "area": "Carroll Gardens, Brooklyn",
+     "up": "/security-camera-repair-brooklyn",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": false,
+     "line_no": 309,
+     "silo_key": "security-camera-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Carroll Gardens",
+     "borough": "Brooklyn",
+     "nb_slug": "carroll-gardens",
+     "exemplar": "security-camera-repair-south-slope-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/security-camera-repair/security-camera-repair-carroll-gardens-apartment-building-security-camera-installation-brooklyn-16-channel-desktop-re.webp",
+       "shows": "front panel of a 16-channel desktop network video recorder",
+       "w": 900,
+       "h": 360
+      },
+      {
+       "n": 2,
+       "src": "/images/security-camera-repair/security-camera-repair-carroll-gardens-apartment-building-security-camera-installation-brooklyn-black-bullet-camera-o.webp",
+       "shows": "small black bullet camera suspended from a white ceiling-tile grid, pointed down a short hallway at a grey steel service door",
+       "w": 635,
+       "h": 600
+      },
+      {
+       "n": 3,
+       "src": "/images/security-camera-repair/security-camera-repair-carroll-gardens-apartment-building-security-camera-installation-brooklyn-black-varifocal-dome.webp",
+       "shows": "black varifocal dome camera shown as a product photo",
+       "w": 209,
+       "h": 209
+      },
+      {
+       "n": 4,
+       "src": "/images/security-camera-repair/security-camera-repair-carroll-gardens-apartment-building-security-camera-installation-brooklyn-black-video-intercom.webp",
+       "shows": "black video intercom door station with a camera lens, speaker grille and an illuminated call button",
+       "w": 595,
+       "h": 840
+      },
+      {
+       "n": 5,
+       "src": "/images/security-camera-repair/security-camera-repair-carroll-gardens-apartment-building-security-camera-installation-brooklyn-mini-pan-tilt-dome-ca.webp",
+       "shows": "small pan-tilt dome camera with a white body and a black lens bubble",
+       "w": 300,
+       "h": 240
+      },
+      {
+       "n": 6,
+       "src": "/images/security-camera-repair/security-camera-repair-carroll-gardens-apartment-building-security-camera-installation-brooklyn-slim-video-door-stati.webp",
+       "shows": "narrow video door station with a camera lens at the top and a big round call button",
+       "w": 383,
+       "h": 522
+      },
+      {
+       "n": 7,
+       "src": "/images/security-camera-repair/security-camera-repair-carroll-gardens-apartment-building-security-camera-installation-brooklyn-stone-facade-with-cam.webp",
+       "shows": "bullet camera reaching out on a long black steel wall arm beneath a carved Greek-key band on pale stone with tall sash windows",
+       "w": 228,
+       "h": 368
+      },
+      {
+       "n": 8,
+       "src": "/images/security-camera-repair/security-camera-repair-carroll-gardens-apartment-building-security-camera-installation-brooklyn-white-dome-camera-bes.webp",
+       "shows": "compact white dome camera fixed to grey acoustic ceiling tiles next to a long louvered fluorescent light fixture",
+       "w": 370,
+       "h": 300
+      },
+      {
+       "n": 9,
+       "src": "/images/security-camera-repair/security-camera-repair-carroll-gardens-apartment-building-security-camera-installation-brooklyn-white-indoor-cube-cam.webp",
+       "shows": "small white cube camera for indoor use, product photo",
+       "w": 215,
+       "h": 215
+      },
+      {
+       "n": 10,
+       "src": "/images/security-camera-repair/security-camera-repair-carroll-gardens-apartment-building-security-camera-installation-brooklyn-wifi-dome-camera-with.webp",
+       "shows": "outdoor Wi-Fi dome camera with an external antenna, product photo",
+       "w": 217,
+       "h": 217
+      },
+      {
+       "n": 11,
+       "src": "/images/security-camera-repair/security-camera-repair-carroll-gardens-apartment-building-security-camera-installation-hudson-valley-black-hooded-bul.webp",
+       "shows": "black bullet camera with an extended sun hood and a glowing blue ring around the lens, product photo",
+       "w": 290,
+       "h": 255
+      }
+     ]
+    },
+    "p3": {
+     "status": "REBUILD",
+     "slug": "door-buzzer-repair-flatlands-brooklyn-ny",
+     "silo": "Door Buzzer Repair",
+     "area": "Flatlands, Brooklyn",
+     "up": "/door-buzzer-repair-brooklyn-new-york",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": true,
+     "line_no": 991,
+     "silo_key": "door-buzzer-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Flatlands",
+     "borough": "Brooklyn",
+     "nb_slug": "flatlands",
+     "exemplar": "door-buzzer-repair-windsor-terrace-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatlands-cable-bundles-dropping-down-equipment-rack.webp",
+       "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
+       "w": 250,
+       "h": 640
+      },
+      {
+       "n": 2,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatlands-dark-grey-wired-doorbell-with-round-button.webp",
+       "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
+       "w": 820,
+       "h": 480
+      },
+      {
+       "n": 3,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatlands-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
+       "w": 545,
+       "h": 180
+      },
+      {
+       "n": 4,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatlands-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
+       "w": 700,
+       "h": 620
+      },
+      {
+       "n": 5,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatlands-keypad-door-station-with-card-reader-and-camera.webp",
+       "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
+       "w": 510,
+       "h": 960
+      },
+      {
+       "n": 6,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatlands-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
+       "w": 540,
+       "h": 255
+      },
+      {
+       "n": 7,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatlands-night-camera-view-of-open-storeroom-doorway.webp",
+       "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
+       "w": 550,
+       "h": 350
+      },
+      {
+       "n": 8,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatlands-small-camera-high-on-pale-wall.webp",
+       "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
+       "w": 620,
+       "h": 420
+      },
+      {
+       "n": 9,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatlands-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
+       "w": 635,
+       "h": 1050
+      },
+      {
+       "n": 10,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatlands-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
+       "w": 228,
+       "h": 456
+      },
+      {
+       "n": 11,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatlands-2u-rack-video-server-product-photo.webp",
+       "shows": "black 2U rack-mount video server with a vented front panel, manufacturer product photo",
+       "w": 500,
+       "h": 182
+      }
+     ]
+    },
+    "p4": {
+     "status": "TODO",
+     "slug": "security-camera-repair-city-line-brooklyn-ny",
+     "silo": "Security Camera Repair",
+     "area": "City Line, Brooklyn",
+     "up": "/security-camera-repair-brooklyn",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": false,
+     "line_no": 310,
+     "silo_key": "security-camera-repair",
+     "area_key": "brooklyn",
+     "nbhd": "City Line",
+     "borough": "Brooklyn",
+     "nb_slug": "city-line",
+     "exemplar": "security-camera-repair-south-slope-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/security-camera-repair/security-camera-repair-city-line-apartment-building-security-camera-installation-brooklyn-16-channel-desktop-re.webp",
+       "shows": "front panel of a 16-channel desktop network video recorder",
+       "w": 900,
+       "h": 360
+      },
+      {
+       "n": 2,
+       "src": "/images/security-camera-repair/security-camera-repair-city-line-apartment-building-security-camera-installation-brooklyn-black-bullet-camera-o.webp",
+       "shows": "small black bullet camera suspended from a white ceiling-tile grid, pointed down a short hallway at a grey steel service door",
+       "w": 635,
+       "h": 600
+      },
+      {
+       "n": 3,
+       "src": "/images/security-camera-repair/security-camera-repair-city-line-apartment-building-security-camera-installation-brooklyn-black-varifocal-dome.webp",
+       "shows": "black varifocal dome camera shown as a product photo",
+       "w": 209,
+       "h": 209
+      },
+      {
+       "n": 4,
+       "src": "/images/security-camera-repair/security-camera-repair-city-line-apartment-building-security-camera-installation-brooklyn-black-video-intercom.webp",
+       "shows": "black video intercom door station with a camera lens, speaker grille and an illuminated call button",
+       "w": 595,
+       "h": 840
+      },
+      {
+       "n": 5,
+       "src": "/images/security-camera-repair/security-camera-repair-city-line-apartment-building-security-camera-installation-brooklyn-mini-pan-tilt-dome-ca.webp",
+       "shows": "small pan-tilt dome camera with a white body and a black lens bubble",
+       "w": 300,
+       "h": 240
+      },
+      {
+       "n": 6,
+       "src": "/images/security-camera-repair/security-camera-repair-city-line-apartment-building-security-camera-installation-brooklyn-slim-video-door-stati.webp",
+       "shows": "narrow video door station with a camera lens at the top and a big round call button",
+       "w": 383,
+       "h": 522
+      },
+      {
+       "n": 7,
+       "src": "/images/security-camera-repair/security-camera-repair-city-line-apartment-building-security-camera-installation-brooklyn-stone-facade-with-cam.webp",
+       "shows": "bullet camera reaching out on a long black steel wall arm beneath a carved Greek-key band on pale stone with tall sash windows",
+       "w": 228,
+       "h": 368
+      },
+      {
+       "n": 8,
+       "src": "/images/security-camera-repair/security-camera-repair-city-line-apartment-building-security-camera-installation-brooklyn-white-dome-camera-bes.webp",
+       "shows": "compact white dome camera fixed to grey acoustic ceiling tiles next to a long louvered fluorescent light fixture",
+       "w": 370,
+       "h": 300
+      },
+      {
+       "n": 9,
+       "src": "/images/security-camera-repair/security-camera-repair-city-line-apartment-building-security-camera-installation-brooklyn-white-indoor-cube-cam.webp",
+       "shows": "small white cube camera for indoor use, product photo",
+       "w": 215,
+       "h": 215
+      },
+      {
+       "n": 10,
+       "src": "/images/security-camera-repair/security-camera-repair-city-line-apartment-building-security-camera-installation-brooklyn-wifi-dome-camera-with.webp",
+       "shows": "outdoor Wi-Fi dome camera with an external antenna, product photo",
+       "w": 217,
+       "h": 217
+      },
+      {
+       "n": 11,
+       "src": "/images/security-camera-repair/security-camera-repair-city-line-apartment-building-security-camera-installation-hudson-valley-black-hooded-bul.webp",
+       "shows": "black bullet camera with an extended sun hood and a glowing blue ring around the lens, product photo",
+       "w": 290,
+       "h": 255
+      }
+     ]
+    },
+    "p5": {
+     "status": "REBUILD",
+     "slug": "door-buzzer-repair-fort-hamilton-brooklyn-ny",
+     "silo": "Door Buzzer Repair",
+     "area": "Fort Hamilton, Brooklyn",
+     "up": "/door-buzzer-repair-brooklyn-new-york",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": true,
+     "line_no": 992,
+     "silo_key": "door-buzzer-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Fort Hamilton",
+     "borough": "Brooklyn",
+     "nb_slug": "fort-hamilton",
+     "exemplar": "door-buzzer-repair-windsor-terrace-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-fort-hamilton-cable-bundles-dropping-down-equipment-rack.webp",
+       "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
+       "w": 250,
+       "h": 640
+      },
+      {
+       "n": 2,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-fort-hamilton-dark-grey-wired-doorbell-with-round-button.webp",
+       "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
+       "w": 820,
+       "h": 480
+      },
+      {
+       "n": 3,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-fort-hamilton-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
+       "w": 545,
+       "h": 180
+      },
+      {
+       "n": 4,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-fort-hamilton-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
+       "w": 700,
+       "h": 620
+      },
+      {
+       "n": 5,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-fort-hamilton-keypad-door-station-with-card-reader-and-camera.webp",
+       "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
+       "w": 510,
+       "h": 960
+      },
+      {
+       "n": 6,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-fort-hamilton-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
+       "w": 540,
+       "h": 255
+      },
+      {
+       "n": 7,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-fort-hamilton-night-camera-view-of-open-storeroom-doorway.webp",
+       "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
+       "w": 550,
+       "h": 350
+      },
+      {
+       "n": 8,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-fort-hamilton-small-camera-high-on-pale-wall.webp",
+       "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
+       "w": 620,
+       "h": 420
+      },
+      {
+       "n": 9,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-fort-hamilton-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
+       "w": 635,
+       "h": 1050
+      },
+      {
+       "n": 10,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-fort-hamilton-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
+       "w": 228,
+       "h": 456
+      },
+      {
+       "n": 11,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-fort-hamilton-2u-rack-video-server-product-photo.webp",
+       "shows": "black 2U rack-mount video server with a vented front panel, manufacturer product photo",
+       "w": 500,
+       "h": 182
+      }
+     ]
+    },
+    "p6": {
+     "status": "TODO",
+     "slug": "security-camera-repair-clinton-hill-brooklyn-ny",
+     "silo": "Security Camera Repair",
+     "area": "Clinton Hill, Brooklyn",
+     "up": "/security-camera-repair-brooklyn",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": false,
+     "line_no": 311,
+     "silo_key": "security-camera-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Clinton Hill",
+     "borough": "Brooklyn",
+     "nb_slug": "clinton-hill",
+     "exemplar": "security-camera-repair-south-slope-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/security-camera-repair/security-camera-repair-clinton-hill-apartment-building-security-camera-installation-brooklyn-16-channel-desktop-re.webp",
+       "shows": "front panel of a 16-channel desktop network video recorder",
+       "w": 900,
+       "h": 360
+      },
+      {
+       "n": 2,
+       "src": "/images/security-camera-repair/security-camera-repair-clinton-hill-apartment-building-security-camera-installation-brooklyn-black-bullet-camera-o.webp",
+       "shows": "small black bullet camera suspended from a white ceiling-tile grid, pointed down a short hallway at a grey steel service door",
+       "w": 635,
+       "h": 600
+      },
+      {
+       "n": 3,
+       "src": "/images/security-camera-repair/security-camera-repair-clinton-hill-apartment-building-security-camera-installation-brooklyn-black-varifocal-dome.webp",
+       "shows": "black varifocal dome camera shown as a product photo",
+       "w": 209,
+       "h": 209
+      },
+      {
+       "n": 4,
+       "src": "/images/security-camera-repair/security-camera-repair-clinton-hill-apartment-building-security-camera-installation-brooklyn-black-video-intercom.webp",
+       "shows": "black video intercom door station with a camera lens, speaker grille and an illuminated call button",
+       "w": 595,
+       "h": 840
+      },
+      {
+       "n": 5,
+       "src": "/images/security-camera-repair/security-camera-repair-clinton-hill-apartment-building-security-camera-installation-brooklyn-mini-pan-tilt-dome-ca.webp",
+       "shows": "small pan-tilt dome camera with a white body and a black lens bubble",
+       "w": 300,
+       "h": 240
+      },
+      {
+       "n": 6,
+       "src": "/images/security-camera-repair/security-camera-repair-clinton-hill-apartment-building-security-camera-installation-brooklyn-slim-video-door-stati.webp",
+       "shows": "narrow video door station with a camera lens at the top and a big round call button",
+       "w": 383,
+       "h": 522
+      },
+      {
+       "n": 7,
+       "src": "/images/security-camera-repair/security-camera-repair-clinton-hill-apartment-building-security-camera-installation-brooklyn-stone-facade-with-cam.webp",
+       "shows": "bullet camera reaching out on a long black steel wall arm beneath a carved Greek-key band on pale stone with tall sash windows",
+       "w": 228,
+       "h": 368
+      },
+      {
+       "n": 8,
+       "src": "/images/security-camera-repair/security-camera-repair-clinton-hill-apartment-building-security-camera-installation-brooklyn-white-dome-camera-bes.webp",
+       "shows": "compact white dome camera fixed to grey acoustic ceiling tiles next to a long louvered fluorescent light fixture",
+       "w": 370,
+       "h": 300
+      },
+      {
+       "n": 9,
+       "src": "/images/security-camera-repair/security-camera-repair-clinton-hill-apartment-building-security-camera-installation-brooklyn-white-indoor-cube-cam.webp",
+       "shows": "small white cube camera for indoor use, product photo",
+       "w": 215,
+       "h": 215
+      },
+      {
+       "n": 10,
+       "src": "/images/security-camera-repair/security-camera-repair-clinton-hill-apartment-building-security-camera-installation-brooklyn-wifi-dome-camera-with.webp",
+       "shows": "outdoor Wi-Fi dome camera with an external antenna, product photo",
+       "w": 217,
+       "h": 217
+      },
+      {
+       "n": 11,
+       "src": "/images/security-camera-repair/security-camera-repair-clinton-hill-apartment-building-security-camera-installation-hudson-valley-black-hooded-bul.webp",
+       "shows": "black bullet camera with an extended sun hood and a glowing blue ring around the lens, product photo",
+       "w": 290,
+       "h": 255
+      }
+     ]
+    },
+    "p7": {
+     "status": "REBUILD",
+     "slug": "door-buzzer-repair-greenpoint-brooklyn-ny",
+     "silo": "Door Buzzer Repair",
+     "area": "Greenpoint, Brooklyn",
+     "up": "/door-buzzer-repair-brooklyn-new-york",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": true,
+     "line_no": 993,
+     "silo_key": "door-buzzer-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Greenpoint",
+     "borough": "Brooklyn",
+     "nb_slug": "greenpoint",
+     "exemplar": "door-buzzer-repair-windsor-terrace-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-greenpoint-cable-bundles-dropping-down-equipment-rack.webp",
+       "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
+       "w": 250,
+       "h": 640
+      },
+      {
+       "n": 2,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-greenpoint-dark-grey-wired-doorbell-with-round-button.webp",
+       "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
+       "w": 820,
+       "h": 480
+      },
+      {
+       "n": 3,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-greenpoint-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
+       "w": 545,
+       "h": 180
+      },
+      {
+       "n": 4,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-greenpoint-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
+       "w": 700,
+       "h": 620
+      },
+      {
+       "n": 5,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-greenpoint-keypad-door-station-with-card-reader-and-camera.webp",
+       "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
+       "w": 510,
+       "h": 960
+      },
+      {
+       "n": 6,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-greenpoint-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
+       "w": 540,
+       "h": 255
+      },
+      {
+       "n": 7,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-greenpoint-night-camera-view-of-open-storeroom-doorway.webp",
+       "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
+       "w": 550,
+       "h": 350
+      },
+      {
+       "n": 8,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-greenpoint-small-camera-high-on-pale-wall.webp",
+       "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
+       "w": 620,
+       "h": 420
+      },
+      {
+       "n": 9,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-greenpoint-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
+       "w": 635,
+       "h": 1050
+      },
+      {
+       "n": 10,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-greenpoint-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
+       "w": 228,
+       "h": 456
+      },
+      {
+       "n": 11,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-greenpoint-2u-rack-video-server-product-photo.webp",
+       "shows": "black 2U rack-mount video server with a vented front panel, manufacturer product photo",
+       "w": 500,
+       "h": 182
+      }
+     ]
+    },
+    "p8": {
+     "status": "TODO",
+     "slug": "security-camera-repair-cobble-hill-brooklyn-ny",
+     "silo": "Security Camera Repair",
+     "area": "Cobble Hill, Brooklyn",
+     "up": "/security-camera-repair-brooklyn",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": false,
+     "line_no": 312,
+     "silo_key": "security-camera-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Cobble Hill",
+     "borough": "Brooklyn",
+     "nb_slug": "cobble-hill",
+     "exemplar": "security-camera-repair-south-slope-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/security-camera-repair/security-camera-repair-cobble-hill-apartment-building-security-camera-installation-brooklyn-16-channel-desktop-re.webp",
+       "shows": "front panel of a 16-channel desktop network video recorder",
+       "w": 900,
+       "h": 360
+      },
+      {
+       "n": 2,
+       "src": "/images/security-camera-repair/security-camera-repair-cobble-hill-apartment-building-security-camera-installation-brooklyn-black-bullet-camera-o.webp",
+       "shows": "small black bullet camera suspended from a white ceiling-tile grid, pointed down a short hallway at a grey steel service door",
+       "w": 635,
+       "h": 600
+      },
+      {
+       "n": 3,
+       "src": "/images/security-camera-repair/security-camera-repair-cobble-hill-apartment-building-security-camera-installation-brooklyn-black-varifocal-dome.webp",
+       "shows": "black varifocal dome camera shown as a product photo",
+       "w": 209,
+       "h": 209
+      },
+      {
+       "n": 4,
+       "src": "/images/security-camera-repair/security-camera-repair-cobble-hill-apartment-building-security-camera-installation-brooklyn-black-video-intercom.webp",
+       "shows": "black video intercom door station with a camera lens, speaker grille and an illuminated call button",
+       "w": 595,
+       "h": 840
+      },
+      {
+       "n": 5,
+       "src": "/images/security-camera-repair/security-camera-repair-cobble-hill-apartment-building-security-camera-installation-brooklyn-mini-pan-tilt-dome-ca.webp",
+       "shows": "small pan-tilt dome camera with a white body and a black lens bubble",
+       "w": 300,
+       "h": 240
+      },
+      {
+       "n": 6,
+       "src": "/images/security-camera-repair/security-camera-repair-cobble-hill-apartment-building-security-camera-installation-brooklyn-slim-video-door-stati.webp",
+       "shows": "narrow video door station with a camera lens at the top and a big round call button",
+       "w": 383,
+       "h": 522
+      },
+      {
+       "n": 7,
+       "src": "/images/security-camera-repair/security-camera-repair-cobble-hill-apartment-building-security-camera-installation-brooklyn-stone-facade-with-cam.webp",
+       "shows": "bullet camera reaching out on a long black steel wall arm beneath a carved Greek-key band on pale stone with tall sash windows",
+       "w": 228,
+       "h": 368
+      },
+      {
+       "n": 8,
+       "src": "/images/security-camera-repair/security-camera-repair-cobble-hill-apartment-building-security-camera-installation-brooklyn-white-dome-camera-bes.webp",
+       "shows": "compact white dome camera fixed to grey acoustic ceiling tiles next to a long louvered fluorescent light fixture",
+       "w": 370,
+       "h": 300
+      },
+      {
+       "n": 9,
+       "src": "/images/security-camera-repair/security-camera-repair-cobble-hill-apartment-building-security-camera-installation-brooklyn-white-indoor-cube-cam.webp",
+       "shows": "small white cube camera for indoor use, product photo",
+       "w": 215,
+       "h": 215
+      },
+      {
+       "n": 10,
+       "src": "/images/security-camera-repair/security-camera-repair-cobble-hill-apartment-building-security-camera-installation-brooklyn-wifi-dome-camera-with.webp",
+       "shows": "outdoor Wi-Fi dome camera with an external antenna, product photo",
+       "w": 217,
+       "h": 217
+      },
+      {
+       "n": 11,
+       "src": "/images/security-camera-repair/security-camera-repair-cobble-hill-apartment-building-security-camera-installation-hudson-valley-black-hooded-bul.webp",
+       "shows": "black bullet camera with an extended sun hood and a glowing blue ring around the lens, product photo",
+       "w": 290,
+       "h": 255
+      }
+     ]
+    },
+    "p9": {
+     "status": "REBUILD",
+     "slug": "door-buzzer-repair-mill-basin-brooklyn-ny",
+     "silo": "Door Buzzer Repair",
+     "area": "Mill Basin, Brooklyn",
+     "up": "/door-buzzer-repair-brooklyn-new-york",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": true,
+     "line_no": 995,
+     "silo_key": "door-buzzer-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Mill Basin",
+     "borough": "Brooklyn",
+     "nb_slug": "mill-basin",
+     "exemplar": "door-buzzer-repair-windsor-terrace-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-mill-basin-cable-bundles-dropping-down-equipment-rack.webp",
+       "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
+       "w": 250,
+       "h": 640
+      },
+      {
+       "n": 2,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-mill-basin-dark-grey-wired-doorbell-with-round-button.webp",
+       "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
+       "w": 820,
+       "h": 480
+      },
+      {
+       "n": 3,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-mill-basin-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
+       "w": 545,
+       "h": 180
+      },
+      {
+       "n": 4,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-mill-basin-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
+       "w": 700,
+       "h": 620
+      },
+      {
+       "n": 5,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-mill-basin-keypad-door-station-with-card-reader-and-camera.webp",
+       "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
+       "w": 510,
+       "h": 960
+      },
+      {
+       "n": 6,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-mill-basin-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
+       "w": 540,
+       "h": 255
+      },
+      {
+       "n": 7,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-mill-basin-night-camera-view-of-open-storeroom-doorway.webp",
+       "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
+       "w": 550,
+       "h": 350
+      },
+      {
+       "n": 8,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-mill-basin-small-camera-high-on-pale-wall.webp",
+       "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
+       "w": 620,
+       "h": 420
+      },
+      {
+       "n": 9,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-mill-basin-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
+       "w": 635,
+       "h": 1050
+      },
+      {
+       "n": 10,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-mill-basin-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
+       "w": 228,
+       "h": 456
+      },
+      {
+       "n": 11,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-mill-basin-2u-rack-video-server-product-photo.webp",
+       "shows": "black 2U rack-mount video server with a vented front panel, manufacturer product photo",
+       "w": 500,
+       "h": 182
+      }
+     ]
+    },
+    "p10": {
+     "status": "TODO",
+     "slug": "security-camera-repair-columbia-street-waterfront-brooklyn-ny",
+     "silo": "Security Camera Repair",
+     "area": "Columbia Street Waterfront, Brooklyn",
+     "up": "/security-camera-repair-brooklyn",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": false,
+     "line_no": 313,
+     "silo_key": "security-camera-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Columbia Street Waterfront",
+     "borough": "Brooklyn",
+     "nb_slug": "columbia-street-waterfront",
+     "exemplar": "security-camera-repair-south-slope-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/security-camera-repair/security-camera-repair-columbia-street-waterfront-apartment-building-security-camera-installation-brooklyn-16-channel-d.webp",
+       "shows": "front panel of a 16-channel desktop network video recorder",
+       "w": 900,
+       "h": 360
+      },
+      {
+       "n": 2,
+       "src": "/images/security-camera-repair/security-camera-repair-columbia-street-waterfront-apartment-building-security-camera-installation-brooklyn-black-bullet.webp",
+       "shows": "small black bullet camera suspended from a white ceiling-tile grid, pointed down a short hallway at a grey steel service door",
+       "w": 635,
+       "h": 600
+      },
+      {
+       "n": 3,
+       "src": "/images/security-camera-repair/security-camera-repair-columbia-street-waterfront-apartment-building-security-camera-installation-brooklyn-black-varifo.webp",
+       "shows": "black varifocal dome camera shown as a product photo",
+       "w": 209,
+       "h": 209
+      },
+      {
+       "n": 4,
+       "src": "/images/security-camera-repair/security-camera-repair-columbia-street-waterfront-apartment-building-security-camera-installation-brooklyn-black-video.webp",
+       "shows": "black video intercom door station with a camera lens, speaker grille and an illuminated call button",
+       "w": 595,
+       "h": 840
+      },
+      {
+       "n": 5,
+       "src": "/images/security-camera-repair/security-camera-repair-columbia-street-waterfront-apartment-building-security-camera-installation-brooklyn-mini-pan-til.webp",
+       "shows": "small pan-tilt dome camera with a white body and a black lens bubble",
+       "w": 300,
+       "h": 240
+      },
+      {
+       "n": 6,
+       "src": "/images/security-camera-repair/security-camera-repair-columbia-street-waterfront-apartment-building-security-camera-installation-brooklyn-slim-video-d.webp",
+       "shows": "narrow video door station with a camera lens at the top and a big round call button",
+       "w": 383,
+       "h": 522
+      },
+      {
+       "n": 7,
+       "src": "/images/security-camera-repair/security-camera-repair-columbia-street-waterfront-apartment-building-security-camera-installation-brooklyn-stone-facade.webp",
+       "shows": "bullet camera reaching out on a long black steel wall arm beneath a carved Greek-key band on pale stone with tall sash windows",
+       "w": 228,
+       "h": 368
+      },
+      {
+       "n": 8,
+       "src": "/images/security-camera-repair/security-camera-repair-columbia-street-waterfront-apartment-building-security-camera-installation-brooklyn-white-dome-c.webp",
+       "shows": "compact white dome camera fixed to grey acoustic ceiling tiles next to a long louvered fluorescent light fixture",
+       "w": 370,
+       "h": 300
+      },
+      {
+       "n": 9,
+       "src": "/images/security-camera-repair/security-camera-repair-columbia-street-waterfront-apartment-building-security-camera-installation-brooklyn-white-indoor.webp",
+       "shows": "small white cube camera for indoor use, product photo",
+       "w": 215,
+       "h": 215
+      },
+      {
+       "n": 10,
+       "src": "/images/security-camera-repair/security-camera-repair-columbia-street-waterfront-apartment-building-security-camera-installation-brooklyn-wifi-dome-ca.webp",
+       "shows": "outdoor Wi-Fi dome camera with an external antenna, product photo",
+       "w": 217,
+       "h": 217
+      },
+      {
+       "n": 11,
+       "src": "/images/security-camera-repair/security-camera-repair-columbia-street-waterfront-apartment-building-security-camera-installation-hudson-valley-black-h.webp",
+       "shows": "black bullet camera with an extended sun hood and a glowing blue ring around the lens, product photo",
+       "w": 290,
+       "h": 255
+      }
+     ]
+    },
+    "p11": {
+     "status": "REBUILD",
+     "slug": "door-buzzer-repair-ocean-parkway-brooklyn-ny",
+     "silo": "Door Buzzer Repair",
+     "area": "Ocean Parkway, Brooklyn",
+     "up": "/door-buzzer-repair-brooklyn-new-york",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": true,
+     "line_no": 996,
+     "silo_key": "door-buzzer-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Ocean Parkway",
+     "borough": "Brooklyn",
+     "nb_slug": "ocean-parkway",
+     "exemplar": "door-buzzer-repair-windsor-terrace-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-parkway-cable-bundles-dropping-down-equipment-rack.webp",
+       "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
+       "w": 250,
+       "h": 640
+      },
+      {
+       "n": 2,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-parkway-dark-grey-wired-doorbell-with-round-button.webp",
+       "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
+       "w": 820,
+       "h": 480
+      },
+      {
+       "n": 3,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-parkway-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
+       "w": 545,
+       "h": 180
+      },
+      {
+       "n": 4,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-parkway-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
+       "w": 700,
+       "h": 620
+      },
+      {
+       "n": 5,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-parkway-keypad-door-station-with-card-reader-and-camera.webp",
+       "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
+       "w": 510,
+       "h": 960
+      },
+      {
+       "n": 6,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-parkway-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
+       "w": 540,
+       "h": 255
+      },
+      {
+       "n": 7,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-parkway-night-camera-view-of-open-storeroom-doorway.webp",
+       "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
+       "w": 550,
+       "h": 350
+      },
+      {
+       "n": 8,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-parkway-small-camera-high-on-pale-wall.webp",
+       "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
+       "w": 620,
+       "h": 420
+      },
+      {
+       "n": 9,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-parkway-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
+       "w": 635,
+       "h": 1050
+      },
+      {
+       "n": 10,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-parkway-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
+       "w": 228,
+       "h": 456
+      },
+      {
+       "n": 11,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-parkway-2u-rack-video-server-product-photo.webp",
+       "shows": "black 2U rack-mount video server with a vented front panel, manufacturer product photo",
+       "w": 500,
+       "h": 182
+      }
+     ]
+    }
+   }
+  }
+ ]
+}

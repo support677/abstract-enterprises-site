@@ -1,0 +1,51 @@
+# Product photos on the brand price pages are pulled from the manufacturers' / retailers' image CDNs
+# through Netlify Image CDN (/.netlify/images?url=...), resized to webp and cached on our domain.
+[images]
+  remote_images = [
+    "https://cdn\\.shopify\\.com/.*",
+    "https://cdn\\.ecomm\\.ui\\.com/.*",
+    "https://datacenter\\.luminyscorp\\.com/.*",
+    "https://www\\.streakwave\\.com/.*",
+    "https://images\\.ctfassets\\.net/.*",
+    "https://lh3\\.googleusercontent\\.com/.*",
+    "https://home-cdn\\.reolink\\.us/.*",
+    "https://m\\.media-amazon\\.com/.*",
+    "https://cdn11\\.bigcommerce\\.com/.*",
+    "https://(www\\.)?gwsecurityusa\\.com/.*",
+    "https://(www\\.)?888voip\\.com/.*",
+    "https://(www\\.)?bluecctv\\.net/.*",
+    "https://static\\.tp-link\\.com/.*",
+    "https://webobjects2\\.cdw\\.com/.*",
+    "https://d1unzhqf5a606m\\.cloudfront\\.net/.*",
+    "https://(www\\.)?q-see\\.com/.*",
+    "https://(www\\.)?alarmgrid\\.com/.*",
+    "https://[a-z0-9.-]*resideo\\.com/.*",
+    "https://(www\\.)?lilin-store\\.us/.*",
+    "https://(www\\.)?meritlilin\\.com/.*",
+    "https://(www\\.)?dwg\\.us/.*",
+    "https://res\\.cloudinary\\.com/.*",
+  ]
+
+# Security headers (Nov 4 2026). Payments go to Stripe-hosted pages (buy.stripe.com), so no card data
+# ever touches this site; these headers block clickjacking, MIME sniffing and downgrade attacks.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains"
+    X-Frame-Options = "SAMEORIGIN"
+    Content-Security-Policy = "frame-ancestors 'self'; base-uri 'self'; object-src 'none'; form-action 'self' https://api.web3forms.com https://buy.stripe.com https://checkout.stripe.com"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=(), payment=(self \"https://checkout.stripe.com\")"
+
+# Hero videos live in Cloudflare R2 (bucket aess-videos); served on our own domain under /v/
+[[redirects]]
+  from = "/v/*"
+  to = "https://pub-8c0337e5dcc245a7936faae633fca2a8.r2.dev/:splat"
+  status = 200
+  force = true
+
+[[headers]]
+  for = "/v/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"

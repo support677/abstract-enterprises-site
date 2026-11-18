@@ -1,0 +1,840 @@
+Network Installation Manhattan | Office Networks
+
+Manhattan, New York
+
+### Network Installation Manhattan
+
+Office network design · business Wi-Fi · managed switching · firewalls and VLANs · floor closet buildout · prewar and Class A tenancies · network repair
+
+Commercial network installation across Manhattan — Midtown towers, Financial District floors, SoHo and Flatiron lofts, and the prewar office stock in between. We survey the tenancy, clear the building, design the network, run the plant, build the closet, configure the switching and the wireless, and hand over documentation and logins.
+
+One thing separates a Manhattan project from the same job anywhere else, and it is not the cable. It is that the hours available to do the work are rationed by a managing agent who does not work for you. Freight windows, insurance the building will actually accept, ceiling work permitted only after six — those decide the calendar, and on a twenty-five-drop floor they decide most of the price. We quote them openly instead of discovering them in week three.
+
+Get a Free Quote →
+Call (929) 560-0737
+
+4.7 / 201 Google Reviews
+NYS Low Voltage #12000287431
+Licensed & Insured
+Small office networks from $4,900
+
+### Get a Manhattan Network Quote
+
+Tell us the floor and roughly how many people work on it — we'll come back with a number.
+
+Full Name *
+
+Phone Number *
+
+Email *
+
+Property Address *
+
+Roughly how many people?
+
+Select
+1–10
+11–25
+26–50
+51–100
+100+
+
+Area *
+
+Select an area
+Midtown
+Financial District
+SoHo / Tribeca
+Flatiron / NoMad
+Chelsea
+Upper East Side
+Upper West Side
+Harlem
+Other
+
+I agree to be contacted about this request. See our privacy policy .
+
+Request My Quote
+Or call (929) 560-0737
+
+[FIG] A PoE+ switch going into a tenancy closet. Buying the port and power headroom on the first evening is cheaper than a second freight booking.
+
+Scope
+
+### What a Manhattan network installation includes
+
+On this island the technical scope is the smaller half of the estimate. What separates a real Manhattan proposal from a hopeful one is whether it prices the access.
+
+A building conversation before a technical one. Which managing agent, what the insurance requirements are, when the freight elevator is released, whether ceiling work over occupied floors is permitted during business hours, and what the house rules say about after-hours access. That determines the schedule and therefore a large share of the price.
+
+A walk of the tenancy and the core. Where the closet is, where the riser is, how the provider's circuit reaches the floor, and what the corridor between the closet and the far offices is made of.
+
+A written design. Addressing, VLANs, switch sizing with power headroom, access point count and placement, equipment schedule. Agreed before anything is ordered.
+
+The plant. Cable on supported pathway, plenum-rated where the ceiling is a return, firestopped at every rated penetration, category-matched terminations, certified on every run.
+
+The rack. Network rack or wall cabinet, panels, managers, power and battery backup, dressed and labelled at both ends.
+
+The active layer. Switching, the edge firewall and the access points — fitted, configured, tuned and proven. Supplied by us or by you.
+
+Handover. Port map, as-built, addressing scheme, equipment schedule with serials, and the administrative logins.
+
+Itemised rather than buried: rack hardware, panels, switches and firewalls where we supply them, conduit where the house standard demands it, firestop materials, core drilling, freight and protection costs the building imposes, standby time when an elevator window slips, and evening or weekend crews. Every one is genuine. A Manhattan bid that omits them is not cheaper — it is incomplete, and the difference appears as change orders.
+
+Ask every Manhattan bidder one question. How many evenings does this take, and what happens to the price if the building only releases the freight elevator twice a week? A contractor who has not asked the managing agent that question yet has priced cable, not a project.
+
+[FIG] Pulling back to the floor closet during an evening window. The cable is straightforward; the four hours available for it are the constraint.
+
+The Manhattan constraint
+
+### Building access is the project, and it is priced accordingly
+
+Everywhere else, a crew arrives and works. Here, a crew arrives, waits for a window, works inside it, and leaves when the window closes.
+
+Nothing about pulling cable in a Midtown tower is technically harder than pulling it anywhere else. What is different is that the hours available to do it are rationed by somebody who does not work for you. Understanding that is the whole difference between a Manhattan project that lands on schedule and one that drifts by a month.
+
+### The certificate of insurance
+
+No contractor reaches an upper floor in a managed Manhattan building without a COI naming the owner, the managing agent and frequently the net lessee, with limits and wording the building specifies. Buildings reject certificates over details — a missing named entity, a limit below the house minimum, an expiry date inside the project window. Getting a COI accepted takes days rather than minutes, and it is the most common reason a start date moves. We handle it, and we start it the moment a scope is agreed rather than the week before mobilisation.
+
+### The freight elevator
+
+Material, tools, ladders, cable boxes and rack hardware all move on the freight elevator, which in most towers is booked in blocks and released to trades on a schedule. A building that gives you two four-hour windows a week is a building where the work takes as many weeks as the material requires trips. This is why staging matters: everything for a phase goes up in one movement rather than being fetched, and it is why we count boxes at survey stage.
+
+### Occupied floors and evening work
+
+Ceiling work above people trying to work is not permitted in most Class A buildings during business hours, and where it is permitted it is a poor idea. The practical result is that most Manhattan network installation happens between six in the evening and midnight, or on Saturdays. We do not charge a premium on the labour itself for that, but it does shape the calendar: four hours of productive evening time is not eight hours of daytime, and any honest schedule reflects it.
+
+### Protection, escorts and building standards
+
+Corridor and lobby protection, elevator pads, escorted access in some financial and legal buildings, sign-in and badging, and a house standard for firestopping that may exceed code. Older towers in the Financial District and around Grand Central are frequently the strictest, because their riser and shaft space is contested by every trade in the building and the house rules exist to keep that manageable.
+
+The reason this section exists rather than a paragraph about cable categories: on a twenty-five-drop Manhattan job, the cable is a rounding error and the access is most of the cost. Any proposal that does not reflect that has mispriced the job, and you will find out in week three.
+
+[FIG] Material staged in one movement. A freight window spent carrying boxes is a window not spent installing, which is why we count them at survey.
+
+Building stock
+
+### Four Manhattan building types, four different jobs
+
+The address tells you more about the work than the drop count does.
+
+### Class A towers — Midtown, Hudson Yards, Park Avenue
+
+Purpose-built commercial with proper telecom rooms on every floor, generous risers, accurate drawings and drop ceilings designed as HVAC return plenums, which means plenum-rated cable across most horizontal runs. Technically the easiest buildings in the borough. Administratively the strictest: COI, freight booking, escorted access, house firestop standards and evening-only ceiling work. The estimate is dominated by scheduling rather than by construction.
+
+### Prewar office stock — Grand Central, Garment District, lower Midtown
+
+Deep floor plates, thick masonry cores, plaster applied over metal lath, and riser space that was allocated when a building carried telephone pairs rather than data. Two consequences follow. Wireless is far worse than the square footage predicts, because the lath behaves like a partial mesh screen and is invisible from inside the room. And horizontal distances get long: measured as installed, a run that looks short on the plan can approach the hundred-metre limit once it goes up, around the core and back down. On a deep prewar floor the right answer is sometimes a second closet rather than a stretched run.
+
+### Loft conversions — SoHo, Flatiron, Tribeca, Chelsea
+
+Cast-iron and heavy-timber buildings with high exposed ceilings, columns rather than partitions, and tenants who chose the space because the ceiling is exposed and want it to stay that way. Nothing hides. Cable is designed as a visible element: straight lines, consistent heights, dressed pathway, colour chosen deliberately. Wireless in these rooms is generally excellent — open volume, few obstructions — and the real problems are density in glass conference rooms and the four other tenants broadcasting on your floor.
+
+### Financial District towers — Water Street, Broad Street, Wall Street
+
+A mix of prewar and post-war stock with narrow floor plates, tight contested risers and the most restrictive access rules in the city. Some buildings are off-hours only as a house rule regardless of what the tenant prefers. Financial and legal tenancies also bring their own requirements: escorted access, background checks in some cases, and documentation expectations that treat certification results and as-builts as contract deliverables rather than courtesies.
+
+[FIG] Feeding a bundle through an open tile after six. Ceiling work above people at their desks is not permitted in most Class A buildings.
+
+Wired layer
+
+### Switching, the edge, and what the floor closet has to hold
+
+A Manhattan tenancy usually gets one closet on the floor. Everything has to fit in it, stay cool in it, and be serviceable by somebody standing in a doorway.
+
+### Sizing the switch when you cannot easily add another
+
+Port headroom matters more here than anywhere, because the fallback everywhere else — put a second switch somewhere — is awkward in a tenancy with one small closet and a building that charges for changes. Buying the 48-port when the count says 30 is not extravagance; it is avoiding a second mobilisation, a second freight booking and a second evening. The same logic applies to power budget, covered below.
+
+### The edge
+
+One router or firewall per tenancy, sited where the provider's circuit lands on the floor. For most Manhattan offices a business gateway with a considered rule set is correct. Legal, financial and any tenancy that will be asked to complete a security questionnaire benefits from a firewall with real logging, because the first time somebody asks what left the network on a given afternoon, either you can answer or you cannot. Consolidating a second circuit into a failover rather than a parallel network is a configuration decision that costs nothing extra in cable.
+
+### Heat in a closet with no ventilation
+
+The room a Manhattan landlord provides is often an interior space with no supply air and a door that stays shut. A sealed cabinet holding a switch delivering three hundred watts becomes hot enough in August to cause intermittent, temperature-correlated faults that take days to pin down. Venting the door and adding a fan kit solves most of it. Where it does not, the right conversation is with the building about air rather than with the tenant about tolerating it, and it is a conversation worth having during design rather than in the second summer.
+
+### Power that survives the building
+
+Battery backup sized for the closet keeps switching, the edge and the access points up through a transfer or a brief interruption and shuts everything down cleanly on a long one. In towers with generator power it is worth confirming the closet circuit is actually on the protected panel rather than assuming, because tenant telecom closets are regularly left off when the generator scope is drawn.
+
+Segmentation
+
+### VLANs in a single-tenancy floor
+
+Segmentation costs an hour of configuration on a switch you were buying regardless, and it is the piece most often absent from a Manhattan network somebody inherited.
+
+On a flat network every device can see every other device. In a professional tenancy that means the visiting client's laptop in the conference room, the smart display, the building's own thermostat if it landed on your network, and the machine holding privileged files are neighbours on the same segment. Nothing needs to be malicious for that to matter — one unpatched device on a flat network can see everything.
+
+Segment Occupants in a Manhattan tenancy Why it is fenced
+
+Staff Workstations, laptops, printers, file storage The business network, with everything else kept outside
+
+Guest Client devices in reception and conference rooms Isolation and a bandwidth ceiling; no route to anything internal
+
+Voice IP handsets and conference room units Prioritised so calls survive somebody moving a large file
+
+Conference AV Room systems, displays, codecs, control panels Chatty devices that should not share a segment with client data
+
+Building / IoT Thermostats, sensors, smart fixtures, panels The least maintained devices on the floor, by a wide margin
+
+A twelve-person Flatiron studio needs staff, guest and probably voice. A Park Avenue law firm needs conference AV fenced as well, because room systems are numerous, chatty and rarely updated. The design conversation is which fences earn their keep, not whether to build any.
+
+Guest wireless in a client-facing office is a control. An open network reachable from your reception area that shares a segment with your file storage is a much larger exposure than most partners realise. Fencing it takes minutes at build time and is awkward once devices are already connected.
+
+[FIG] Two ports at a desk position — one for the workstation, one for a handset or whatever the next reconfiguration adds.
+
+Wireless
+
+### Wi-Fi installation in Manhattan: lath, glass and forty neighbours
+
+Wireless network installation here is shaped by two things almost unique to this island — what the older walls are made of, and how crowded the air is.
+
+### Plaster over metal lath
+
+Prewar office stock across Midtown, the Garment District and lower Manhattan was built with plaster applied over a metal mesh. That mesh absorbs and reflects radio, it is invisible from inside the room, and it is the single most common reason a coverage plan that looked reasonable on paper delivers a strong signal in one office and almost nothing in the next. There is no transmit power that solves it. The answer is more access points, placed with the wall layout in mind rather than spaced evenly across a floor plan.
+
+### Spectrum congestion
+
+Scan a Midtown floor and it is normal to find dozens of networks — other tenants above and below, the building's own systems, and whatever is broadcasting from the tower across the street. The 2.4GHz band in most Manhattan commercial buildings is effectively full. Design accordingly: lean on 5GHz and 6GHz, keep 2.4GHz for the devices that genuinely need it, and plan channels deliberately rather than leaving every access point on automatic to negotiate with the neighbours. Automatic channel selection in a crowded stack produces access points that keep changing their minds, which users experience as a network that keeps disconnecting.
+
+### Glass, cores and the shape of a floor
+
+Modern Manhattan interiors are largely glass, which radio passes through well, arranged around a solid core containing lifts, stairs and mechanical space, which radio does not pass through at all. The core is usually in the geometric centre of the floor — exactly where somebody would otherwise place a single access point. Manhattan coverage is designed around the core rather than from it, with cells on each side rather than one in the middle.
+
+Space Typical AP count What drives it
+
+Glass-partitioned floor, 4,000 sq ft 2–3 Open sightlines; overlap and channel planning are the risk
+
+Prewar private offices, 4,000 sq ft 4–5 Plaster over lath attenuates room to room
+
+Loft floor, high exposed ceiling 2–3 Open volume; mounting height needs thought
+
+Conference or boardroom, 30 people 1 dedicated Density and airtime rather than coverage
+
+Full floor around a central core Cells each side of the core Nothing crosses lifts, stairs or mechanical space
+
+[FIG] An access point going up. In prewar stock the count runs well above the square-foot rule, because plaster over lath stops signal room to room.
+
+Survey
+
+### Where a site survey earns its cost in Manhattan
+
+A survey is a measurement. On this island it is justified more often than anywhere else we work, and we will say plainly when it is not.
+
+A predictive survey estimates coverage from drawings and the construction as described. On a modern glass-partitioned floor with accurate drawings, that is close enough to plan against. An on-site survey puts a meter in the space and records real signal, the neighbouring networks and the channel conditions you will actually be competing with, producing a heat map of measured rather than modelled coverage.
+
+### Justified
+
+Any prewar building. Plaster over lath cannot be modelled honestly, and it is the most common construction in the borough's older commercial stock.
+
+Any dense office stack. When four other tenancies share your floor, the spectrum is the constraint and it has to be measured before channels can be planned.
+
+Full floors around a central core, where coverage geometry is genuinely non-obvious.
+
+Anywhere a previous WiFi installation failed. The survey establishes whether the fault was count, placement, spectrum or the building itself, which determines whether existing hardware can be reused.
+
+### Not justified
+
+A single modern suite under roughly 3,000 square feet with glass partitions and a normal device count does not need a paid survey to reach a defensible access point count. We will tell you so, and the fee is better spent on hardware. The survey is $450 and is credited against the project if you proceed. The validation walk after installation — a meter carried through the finished floor — is part of every project regardless of whether a paid survey preceded it.
+
+[FIG] Bundles on J-hooks at regular intervals, out of the fixtures and clear of parallel power, in the part of the job that looks the same everywhere.
+
+Power budget
+
+### PoE budget in a one-closet tenancy
+
+Power over Ethernet lets one cable carry data and power to an access point, a handset or a powered ceiling device. It is also the fault that presents as everything except itself.
+
+A PoE switch carries a total wattage shared across all ports, and that total sits well below the sum of what every port could draw. A 24-port switch advertising PoE+ on every port may hold a 370-watt budget; populate it with thirty-watt devices and the arithmetic runs out around port twelve.
+
+Standard Per-port budget Typical devices
+
+PoE (802.3af) 15.4W IP handsets, sensors, older access points
+
+PoE+ (802.3at) 30W Modern access points, video handsets, powered displays
+
+PoE++ (802.3bt) 60–90W Wi-Fi 6E and 7 access points, large displays, PoE lighting
+
+### Why it bites harder here
+
+In a one-closet tenancy the remedy available elsewhere — add a second switch in another room — costs a change order, a freight booking and an evening. So the budget has to be right at purchase, sized for the devices planned rather than the devices present. Conference room build-outs are the usual trigger: a floor that balanced comfortably gains four powered room systems and two displays, and the switch quietly declines the newest ones while continuing to serve everything installed earlier. What people observe is that the two devices fitted last month work and the three fitted last week do not. It looks like a hardware fault. It is arithmetic.
+
+Buy the headroom on the first evening. The price difference between a switch with spare power and one without is small at purchase and expensive once it requires a second mobilisation in a building that rations access.
+
+The closet
+
+### The floor closet: network rack, panels and what fits
+
+How a tenancy's network ages is visible in its closet on handover day.
+
+A well-built closet is unremarkable. Panels at the top, switching below, short cords in consistent colours through managers, labelled throughout, space left for the next two years. A poor one is a cabinet with equipment stacked on itself, a knot of cords in the middle, a power strip on the floor and no labels — which costs somebody an hour every time anything has to be traced, in a building where that hour is scheduled around a freight window.
+
+### What belongs in it
+
+Network rack or wall cabinet sized for the tenancy and for the room the landlord actually provided, which is frequently smaller than the design assumed.
+
+Patch panels with spare ports, since adding panel capacity later means another evening.
+
+Cable managers horizontally and vertically, which is what makes a rack serviceable by somebody standing in a doorway.
+
+Power. A dedicated circuit where the building allows, a rack PDU, and battery backup sized to the load.
+
+Bonding to building ground where the installation requires it.
+
+Labels at every port, panel and cable end, matching the port map exactly.
+
+### Cleanup as a project in its own right
+
+A large share of Manhattan work is not new construction. It is a closet that four vendors extended across a decade of subleases, with nothing labelled and nobody left who knows what is live. We trace, re-route, re-terminate where necessary, dress, label and produce a map. On a floor where every service call is scheduled around building access, that day pays for itself the first time something needs finding.
+
+[FIG] One closet before and after. Four vendors across a decade of subleases, traced, re-routed, dressed, labelled and mapped in a single pass.
+
+Plant
+
+### The cable already in the walls, and whether it stays
+
+Every network build carries a decision about the existing plant. In a Manhattan tenancy that decision is unusually consequential, because replacing it means evenings.
+
+Wireless still needs a wire. Access points are backhauled on cable, desks take one or two runs each, and all of it terminates on a panel in the floor closet. So the plant sits inside the scope whether or not anything new is pulled.
+
+### Keeping it
+
+Cable left by a previous tenant is often perfectly usable. Runs that are Cat5e or better, terminated on matching hardware, within distance and certifying clean will carry a modern gigabit office without complaint. Nothing is condemned without test data behind it — age alone is not a finding, and on a floor where a rewire means six evenings, the difference between testing and assuming is a five-figure decision.
+
+### When it goes
+
+Runs failing certification: split pairs, crushed jacket, or length beyond the limit once measured as installed.
+
+Unidentifiable cable with no jacket print, particularly where it now carries power.
+
+Non-plenum cable in a return-plenum ceiling — a code problem irrespective of performance, and one that fails inspection in a managed building.
+
+Runs landed on mismatched hardware, which perform to the lower category regardless of what the cable cost.
+
+Sublease-era plant that nobody can account for and that certification cannot rescue.
+
+Ethernet installation on a network build follows one rule set regardless of drop count: supported pathway, plenum-rated where the ceiling is a return, firestopped at rated penetrations, matched terminations, labelled and certified. Two ports per desk position is the working default, one per ceiling position with a spare where budget allows. Cable category detail and per-drop pricing live on the cabling pages.
+
+Related: structured cabling installation in Manhattan covers the full plant. Cat6 installation Manhattan covers category and per-drop pricing.
+
+Handover
+
+### Documentation, and why it matters more in a managed building
+
+The measure of an installation is not the last evening. It is how quickly somebody can act on it eighteen months later, given that acting on it requires a freight booking.
+
+Every project finishes with a package, and the package is identical whether the tenant has an IT director or an office manager who has never opened a switch.
+
+Port map tying each panel port to its outlet and room. On a floor where a trace costs an evening, this is the single most valuable document produced.
+
+Labels at both ends of every run, in a scheme that still reads correctly after the floor is reconfigured — which in Manhattan it will be.
+
+Certification data covering the full drop count rather than a sample.
+
+As-built showing closet position, pathway, riser entry and access point locations.
+
+Addressing and VLAN plan written down: subnets, scopes, reservations, SSIDs and the segment each belongs to.
+
+Equipment schedule with models, serials and firmware at handover.
+
+Administrative access to every device we set up, handed across at the end.
+
+That final point is worth saying directly. Some contractors retain admin access to their own work as a retention device, so that changing vendors means rebuilding the configuration from nothing. We do not, and any tenant comparing proposals should ask the question outright before signing. It is your network. You get the keys.
+
+[FIG] Labels printed at the panel and entered into the map in the same pass. On a floor where a trace costs an evening, this is the valuable document.
+
+Repair & takeover
+
+### The network the last tenant left
+
+A great deal of Manhattan work begins with somebody else's installation, no records, and a lease that started last month.
+
+The versions repeat. A firm that took a floor as-is and inherited four generations of cabling. A closet extended by a series of vendors under successive subleases. Wireless that worked for the previous tenant's open plan and fails in the private offices built since. A contractor who has closed, gone quiet, or never handed over the logins. A network that behaves at eight and collapses at half past nine.
+
+### Assess before changing anything
+
+We map what is physically present, certify the plant, read whatever configuration is reachable, and write it up: what is sound, what is failing, what is unsafe and what is merely unrecorded. Nothing is touched until you have read it, because in a managed building an unplanned change means an unplanned evening.
+
+### Separate plant from equipment
+
+These get conflated and carry very different costs. Frequently the cable is fine and only the equipment and configuration above it need replacing — which is a one-evening job rather than six. Certification data settles it, and having that before a rewire is priced is worth the hour it takes.
+
+### Stabilise, then plan
+
+Anything actively broken gets fixed first and on its own. Redesign follows on a booked schedule rather than during an outage, because rebuilding under pressure in a building that rations access turns a one-evening problem into a three-week one.
+
+### Record what is there
+
+Even where the recommendation is to change little, the closet gets labelled and a map gets produced. Those records are yours whoever handles the next phase.
+
+[FIG] Tracing plant left by a previous tenant. Almost every takeover on this island begins here, in a closet nobody documented.
+
+Diagnosis
+
+### Is it the network, the building, or the carrier?
+
+A good share of the calls we take about a slow network turn out to be about something else. In a building where a visit costs an evening, establishing which on the phone matters.
+
+### Points at the network
+
+Certain offices are bad and others are fine. In prewar stock that is almost always the walls rather than the connection.
+
+It follows the working day. Fine early, unusable mid-morning, fine again in the evening — capacity, airtime, or a saturated uplink.
+
+The network keeps disconnecting rather than failing outright: devices associate, drop and reconnect a minute later. That shape is usually roaming, channel churn from automatic selection in a crowded stack, or a marginal run, and all three are diagnosable.
+
+It started when the floor was reconfigured. New partitions change wireless behaviour immediately, and prewar partitions change it dramatically.
+
+Only conference rooms suffer. Density rather than coverage, and usually a dedicated access point away from being solved.
+
+Only powered devices misbehave. The closet's power budget.
+
+### Points elsewhere
+
+Everything is slow, wired and wireless, at every hour. That belongs to the carrier, and a wired test at the edge proves it without touching a ceiling.
+
+A single application is slow while everything else behaves. The application or its host.
+
+One machine is affected and nothing else on the floor is. The machine.
+
+It began when the building did work on its own systems, which happens more often than tenants are told.
+
+Establishing a carrier fault on a phone call costs nothing, and that is preferable to booking an evening to reach the same conclusion. Where it is genuinely ambiguous, a short diagnostic that isolates the layer is far cheaper than a redesign aimed at the wrong problem.
+
+Pricing
+
+### What network installation costs in Manhattan
+
+Published line items, with the building-driven costs stated openly instead of hidden in the rates. Equipment is quoted separately or supplied by you.
+
+### Design and survey
+
+Item Price
+
+On-site assessment, drop count and access review with the building Free
+
+Wireless site survey and heat map $450 (credited to the project)
+
+Network design — addressing, VLAN plan, as-built drawings $350–$650
+
+### Installation and configuration
+
+Item Price
+
+Router / gateway install and configuration $350
+
+Business firewall install with rule set $450–$900
+
+Managed switch install and configuration — 24-port $250
+
+Managed switch install and configuration — 48-port $400
+
+Each additional switch in a stack $175
+
+VLAN / segmentation configuration, per segment $125
+
+Guest network with client isolation and captive portal $200
+
+Wi-Fi access point — mounted and tuned on an existing drop $225
+
+Wi-Fi access point — including a new cable run $300
+
+Conference room system drop and termination $300
+
+Network rack or cabinet build — panels, managers, PDU, dressing $650
+
+Closet cleanup, trace, re-route and re-label from $500
+
+Riser or demarc extension to the floor closet from $350
+
+Documentation package — port map, as-built, credential handover $350
+
+Certification testing, per drop $20
+
+### Building-driven costs, stated separately
+
+Item Price
+
+Certificate of insurance issued to owner, agent and net lessee No charge
+
+Evening or weekend crew — labour rate No premium
+
+Standby time when a booked freight window is not released $95 per crew hour
+
+Corridor and lift protection where the house standard requires it At cost
+
+Building-imposed fees, escorts or overtime charges At cost, passed through
+
+Stated on their own lines because they are the part of a Manhattan project a tenant cannot control and should be able to see. We do not mark them up. Standby is charged only when the building fails to release a window we booked and confirmed — never for our own delays.
+
+### Whole-network packages
+
+Package Scope From
+
+Small suite Up to 10 users, 12 drops, firewall, 24-port PoE switch, 2 access points, wall cabinet, VLANs, documentation $4,900
+
+Full floor 25–50 users, switching with headroom, 4–6 access points, firewall, floor rack, full segmentation, certification, documentation $12,500
+
+Prewar floor As above with the access point count the construction actually requires and a second closet where distance demands it Custom proposal
+
+Multi-floor tenancy Closet per floor, riser between them, unified wireless Custom proposal
+
+### What moves the number
+
+How many evenings the building allows. The largest single variable on this island, and the one least visible in a bid.
+
+Rough-in versus retrofit. A run made while the wall is open costs a fraction of the identical run fished later.
+
+Construction type. Prewar plaster raises both the access point count and the labour on every drop.
+
+Floor depth. Deep plates can require a second closet rather than a stretched run.
+
+House standards for firestopping, protection and pathway that exceed code.
+
+### Repair and service
+
+Existing-network diagnostics and repair run at $195 an hour with a three-hour minimum. Same-day dispatch where the building will admit us; otherwise the first available evening window, and we will tell you which when you call. Should the visit become a quoted project, the hours are deducted from it.
+
+[FIG] Fishing a drop through a finished prewar wall. The identical run made before the drywall closed costs a fraction of this one.
+
+Equipment
+
+### What we deploy in Manhattan tenancies
+
+No single manufacturer suits every floor. What matters is that the hardware fits the closet, the budget and whoever maintains it.
+
+### Ubiquiti UniFi
+
+The common choice for small and mid-size Manhattan tenancies. Capable radios that behave well in crowded spectrum, no per-device licence, and a controller most IT people can operate. Support is community-based rather than contractual, which weighs differently for a fifty-person firm than a ten-person studio.
+
+### Cisco Meraki
+
+Cloud-managed, strong tooling and support, licensed per device annually and indefinitely — hardware stops when a licence lapses. The right answer for tenancies that want a support contract and a defensible recurring line, which describes a lot of legal and financial work in this borough.
+
+### Aruba Instant On and TP-Link Omada
+
+The value tier, and more capable than the label suggests. Reliable radios and switches with no annual licence and management that is adequate rather than remarkable. Sensible for a suite where the network is infrastructure rather than a strategic asset.
+
+### Firewalls — Fortinet and pfSense
+
+Where the edge needs inspection, VPN for staff working elsewhere, and logging you can produce on request. Fortinet as a supported commercial appliance; pfSense or Netgate where an open platform without a subscription is preferred. Legal and financial tenancies usually want the former.
+
+### Client-supplied hardware
+
+Where equipment is already purchased, or an IT provider standardises on a line, we install and configure it. The one thing we insist on is saying so directly when what was bought cannot do the job — an access point count that cannot cross prewar walls, a switch without power headroom for a conference build-out, a consumer router being asked to carry a floor. Better before installation than during.
+
+### What a Manhattan tenancy does not need
+
+A consumer router serving a full floor, which is the most common thing we replace. Unmanaged switches appearing under desks after a reconfiguration. Wireless extenders standing in for access points in a prewar office. Enterprise licensing on an eight-person suite. And a faster circuit purchased in hope of fixing a problem that lives entirely inside the walls.
+
+Comparison
+
+### Network installation, structured cabling and Cat6
+
+Three terms used interchangeably in proposals that describe genuinely different scopes.
+
+Term What it covers What it excludes
+
+Cat6 installation One cable category and its hardware — runs, jacks, panels, terminations, testing. Equipment, configuration, wireless design
+
+Structured cabling The plant across a tenancy or building: horizontal runs, backbone, closets, fiber, pathway, certification. Switch configuration, routing, firewall rules, VLANs, wireless tuning
+
+Network installation Everything required for traffic to move: design, addressing, switching, the edge, segmentation, wireless coverage and documentation, plant included. Server administration, desktop support, software
+
+The distinction has a specific Manhattan consequence. Coordinating two trades in a building that rations access means twice the freight bookings, twice the COI submissions and twice the evenings — and when something misbehaves, each can point at the other while the next available window is a week away. One contractor holding both layers is worth more here than anywhere else in the region.
+
+This page is the Manhattan borough page. The citywide hub is network installation NYC ; the neighbouring boroughs are Brooklyn and Queens .
+
+By tenancy type
+
+### What the work looks like for different Manhattan tenants
+
+Headcount says little. The practice and the building say the rest.
+
+Legal
+
+### Law firms
+
+Private offices behind older walls, which raises the access point count; conference rooms that are density problems; document systems that make segmentation a genuine requirement rather than a nicety; and a strong preference for a supported hardware line with a contract behind it. Evening work throughout.
+
+Finance
+
+### Financial and professional services
+
+Downtown and Midtown towers with the strictest access rules in the city, escorted work in some buildings, documentation treated as a contract deliverable, and edge logging that has to satisfy a questionnaire. The technical scope is ordinary; the compliance around it is not.
+
+Creative
+
+### Agencies, studios and media
+
+Loft floors with exposed ceilings where cable is a visible design element, large file movement between workstations and storage, and wireless that is easy on coverage and hard on capacity when everyone is transferring at once. Uplink sizing matters more than radio count.
+
+Medical
+
+### Medical and clinical suites
+
+Clinical systems fenced onto their own segment, patient wireless entirely separated, shielded rooms that need dedicated coverage, and scheduling dictated by appointment hours rather than by building rules — which usually means the same evenings everyone else is competing for.
+
+Retail
+
+### Ground-floor retail and hospitality
+
+Card terminals on wired connections where possible, payment traffic fenced from guest wireless, back-of-house coverage that survives stock, and work scheduled overnight because the shutter comes down at ten and goes up at eight.
+
+Coworking
+
+### Coworking and serviced offices
+
+Many small tenants sharing one plant, which makes segmentation the product rather than a feature. Per-tenant VLANs, isolated guest access, capacity planned for density rather than area, and a documentation standard that survives constant churn.
+
+Process
+
+### From survey to closeout on a Manhattan floor
+
+Five stages, and the first one involves the building rather than the cable.
+
+### Survey the tenancy and clear the building
+
+The floor itself — where people sit, where the closet is, how the circuit reaches you, what the walls are made of — and in parallel the building: managing agent contact, insurance requirements, freight schedule, house rules on ceiling work and after-hours access. The COI submission starts here, not the week before mobilisation.
+
+### Design and quote against real access
+
+Addressing, VLAN plan, switch sizing with power headroom, access point count and placement for the construction actually present, equipment schedule, and a line-item price with the building-driven costs shown separately. The evening count is stated in the proposal, because that is what determines the calendar.
+
+### Stage, then pull
+
+Material goes up in planned movements rather than being fetched, because a freight window spent carrying boxes is a window not spent installing. Then cable on supported pathway, plenum-rated where the ceiling is a return, firestopped at rated penetrations, with the floor protected and restored each night.
+
+### Closet and equipment
+
+Rack or cabinet, panels, managers, power and battery backup. Switching, edge firewall and access points mounted, configured and tuned — VLANs, SSIDs, a deliberate channel plan rather than automatic selection, DHCP, firewall rules, and the power budget verified under real load.
+
+### Certify, validate and hand over
+
+Every drop certified. A validation walk with a meter across the finished floor, including the offices behind the older walls where the plan is most likely to have been optimistic. Then the package — port map, as-built, addressing scheme, equipment schedule and administrative logins — walked through with whoever will support it.
+
+[FIG] Certified at the outlet end, drop by drop. On a deep prewar floor the length figure is the one worth reading twice.
+
+Commitments
+
+### What you can hold us to
+
+Things a client can verify once the last window closes, rather than adjectives.
+
+The building is contacted before you get a number, so the proposal reflects real access rather than an assumption about it.
+
+An evening count in the proposal, stating how many windows the work requires at the access the building actually grants.
+
+Insurance issued to the owner, managing agent and net lessee in the wording the building specifies, submitted as soon as scope is agreed.
+
+Building-driven costs shown as their own lines and passed through without markup.
+
+Standby charged only when the building fails to release a booked window, never for our own delay.
+
+Test data spanning the whole drop count rather than a sampled subset, included in the handover.
+
+A validation walk after installation, measured on the floor including the rooms behind older walls, not read off a dashboard.
+
+Both-end labelling and a port map that reflects the floor as built.
+
+The floor restored each night, tiles back, protection removed, closet left in a state somebody can stand in.
+
+Administrative access to everything we set up, handed across at the end.
+
+A licensed network installer on every job. NYS Low Voltage licence #12000287431, insured.
+
+Three years of cover on everything we furnish, across the hardware and the installation work. Equipment you purchase directly stays under its maker's warranty.
+
+[FIG] Core drilling through masonry. Penetrations are firestopped to the rated assembly and to the house standard where it exceeds code.
+
+FAQ
+
+### Manhattan network installation questions we get
+
+How much does network installation cost in Manhattan? A small suite of up to ten users — firewall, a 24-port PoE switch, two access points, a wall cabinet, VLANs, twelve drops and documentation — starts near $4,900 in labour and configuration, with equipment quoted separately or supplied by you. A full floor for twenty-five to fifty users starts near $12,500. A prewar floor is custom-quoted, because the access point count the construction actually requires is higher and a deep plate sometimes needs a second closet. Individual items are published: firewall install with a rule set $450 to $900, managed switch install $250 for a 24-port and $400 for a 48-port, access points $225 on an existing drop and $300 with a new run, conference room drops $300, rack build $650, documentation $350, certification $20 per drop. Building-driven costs sit on their own lines and are passed through without markup — protection, escorts and any fees the house imposes — and standby is $95 per crew hour, charged only when a confirmed freight window is not released.
+
+Why do Manhattan network quotes vary so much for the same drop count? Because the cable is a rounding error and the access is most of the cost. A tower that releases the freight elevator twice a week, permits ceiling work only after six, requires escorted access and holds an exacting insurance standard will take three times the calendar of an identical job in a building with none of those rules — for exactly the same number of drops. A bid that does not mention evenings, freight or insurance has not priced the building, and that gap surfaces as change orders in week three. When you compare proposals, compare the number of evenings each one assumes before you compare the totals.
+
+What does a network installation on a Manhattan floor include? A survey of the tenancy and a parallel conversation with the managing agent about insurance, freight and house rules; a written design covering addressing, VLANs, switch sizing and access point placement for the construction actually present; the cabling on supported pathway, plenum-rated where the ceiling is a return and firestopped at rated penetrations; the network rack in the floor closet with panels, managers, power and battery backup; the switching and edge firewall; the Wi-Fi installation, meaning wireless design, mounting and tuning rather than hanging radios; certification on every drop; and a handover package with the port map, as-built, addressing scheme, equipment schedule and administrative logins.
+
+Am I buying network installation or structured cabling? Structured cabling is the physical plant — cable, pathway, terminations, panels, certification. Network installation is the working system above it: switching, the edge firewall, VLANs, wireless coverage, addressing and documentation, plus the plant itself. A cabling contractor delivers a tested labelled panel with nothing plugged into it and, within their scope, that is finished work. The Manhattan-specific consequence of splitting them is that two trades means twice the insurance submissions, twice the freight bookings and twice the evenings — and when something misbehaves each can point at the other while the next window is a week out.
+
+How many access points does a Manhattan office floor need? The construction matters far more than the floor area here. A modern glass-partitioned floor of 4,000 square feet is usually fine on two or three. The same area in prewar stock with plaster applied over metal lath wants four or five, because that mesh absorbs and reflects radio and is invisible from inside the room. A loft floor with a high exposed ceiling needs two or three with careful thought about mounting height. Conference and board rooms holding thirty people are density problems rather than coverage problems and generally want a dedicated access point. On a full floor arranged around a central core, coverage is designed as cells on each side of the core rather than one radio in the middle, because nothing crosses lifts, stairs and mechanical space.
+
+Why is our wireless strong in one office and unusable in the next? In prewar buildings it is almost always the wall. Plaster applied over metal lath behaves like a partial screen, and nothing about the room reveals it. A signal that is strong on one side of that wall can be unusable on the other, and no amount of transmit power crosses it — the answer is more access points placed with the wall layout in mind rather than spaced evenly on a plan. The other Manhattan-specific cause is channel churn: with dozens of neighbouring networks on a Midtown floor, access points left on automatic selection keep changing channel, and users experience that as a network that keeps disconnecting. A deliberate channel plan fixes it.
+
+Does guest wireless need its own segment in a client-facing office? Yes, and it takes minutes at build time. A guest network on its own VLAN with client isolation and a bandwidth ceiling means a visiting client's laptop in your conference room cannot reach your file storage or your printers and cannot consume the circuit. The same reasoning covers conference AV — room systems and control panels are numerous, chatty and rarely updated, and they do not belong on the same segment as privileged material. In a legal or financial tenancy that separation is frequently the first thing a security questionnaire asks about.
+
+What hardware does a Manhattan tenancy need? A business-class router or firewall at the edge, a managed PoE switch with genuine port and power headroom, enough access points for the construction rather than the square footage, and battery backup sized to the closet. The headroom point is specific to this borough: the remedy available elsewhere — add a second switch in another room — costs a change order, a freight booking and an evening here, so the right switch is bought on the first visit. What a tenancy does not need is a consumer router serving a full floor, unmanaged switches appearing under desks after a reconfiguration, or extenders standing in for access points behind prewar walls.
+
+How long does a Manhattan network installation take? Measure it in evenings rather than days. A small suite is two or three evenings. A full floor of twenty-five to fifty users is eight to twelve, assuming the building releases windows on a regular schedule. A prewar floor runs longer because each drop takes more labour and the access point count is higher. The variable that moves the date most is not our crew size but how often the freight elevator is available: a building offering two windows a week turns a two-week project into a five-week one without a single technical difficulty. We state the evening count in the proposal so the calendar is visible before you sign.
+
+Can the work happen without disrupting the office? Yes, and in most Class A buildings it is required. Ceiling work above occupied desks is not permitted during business hours, so the work happens between six and midnight or on Saturdays — at no premium on our labour. The floor is protected at the start of each window and restored before we leave: tiles back, protection removed, nothing left in a walkway. The cutover itself is a short window rather than a day, with access points swapped one at a time so coverage never fully drops, and the switch changeover scheduled for the quietest evening available.
+
+Is a wireless survey worth paying for in Manhattan? More often here than anywhere else we work. It is justified in any prewar building, because plaster over lath cannot be modelled honestly from a plan; in any dense office stack, because the spectrum you are competing with has to be measured before channels can be planned; on full floors arranged around a central core, where coverage geometry is genuinely non-obvious; and anywhere a previous WiFi installation already failed, since the survey establishes whether the fault was count, placement, spectrum or the building. It is not justified for a single modern suite under about 3,000 square feet with glass partitions — we will say so, and the fee is better spent on hardware. The survey is $450, credited to the project, and the validation walk after installation is included either way.
+
+Do we need a managed switch? Past about eight people, yes. Unmanaged switches cannot segment traffic, cannot prioritise voice, cannot report which port is saturating and cannot be monitored — and in a building where every visit is scheduled around a freight window, being unable to diagnose remotely is expensive in a way it is not elsewhere. Managed switching is what lets somebody establish from a browser that the problem is one port rather than the network, and decide whether an evening actually needs booking.
+
+Do you work evenings and weekends? Yes, and on this island it is the normal schedule rather than the exception. Occupied floors, house rules on ceiling work, freight elevators released in blocks and tenants who cannot stop trading all push the work past six. There is no premium on our labour rate for evening or weekend work. What we do need is enough notice to staff the crew and to have the freight booking and the insurance already accepted, because a window cannot be claimed at short notice in most managed buildings.
+
+Cat6 or Cat6A for the drops feeding access points? Cat6A on ceiling positions in nearly every commercial case, because of power and headroom rather than raw speed. Current Wi-Fi 6E and 7 access points draw PoE++ under 802.3bt, and Cat6A's heavier conductors carry that with less heat rise through a bundle. It also delivers ten gigabit to the full hundred metres, which matters because the access point gets replaced every five to seven years while the cable above the ceiling stays for fifteen — and re-pulling a ceiling run in a managed building means evenings nobody wants to spend. Cat6 remains correct for desk drops, printers and general connectivity, so mixed plant is the norm: Cat6 to workstations, Cat6A to every ceiling position.
+
+Who installs business networks in Manhattan? Commercial network installation here is carried out by licensed low-voltage contractors, by IT providers who subcontract the physical work, and by cabling firms that stop at the patch panel. Anyone shortlisting a network installer in this borough should also establish whether the contractor has actually worked in managed buildings, because insurance wording, freight booking and house rules defeat more Manhattan projects than any technical problem does. We are the first kind and hold both layers: Abstract Enterprises Security Systems, NYS Low Voltage Electrical Contractor licence #12000287431, insured, working across the island from the Battery to Harlem. That covers the survey and the building clearance, the design and addressing, the cabling and pathway, the floor closet, switching, the edge firewall, VLAN segmentation, wireless design and tuning, certification, documentation and credential handover, plus repair and takeover of plant left by previous tenants.
+
+Quick answers
+
+### Shorter answers to common questions
+
+### Do we need a DOB permit for network cabling?
+
+No. Low-voltage cabling does not require a Department of Buildings permit. What you need is a certificate of insurance the managing agent will accept, an alteration agreement if the building requires one, agreed freight windows and firestop documentation at rated penetrations.
+
+### Can you handle the managing agent for us?
+
+Yes, and it is normally faster. We submit insurance, book freight and confirm house rules directly, then tell you what the building will and will not allow before the schedule is fixed.
+
+### Will a faster circuit fix slow wireless?
+
+Almost never. If the problem is office-by-office or time-of-day, it lives inside the tenancy and a larger circuit changes nothing.
+
+### Can you work with our IT provider?
+
+Routinely. We take the physical layer and the closet to their standards and naming conventions and hand the logical layer back.
+
+### Do you supply hardware, or can we?
+
+Either. Client-supplied equipment is welcome, and we say so before installation if what was bought cannot do the job.
+
+### What if the building cancels our freight window?
+
+We rebook and charge standby only for the hours a confirmed window was withheld. It is on its own line so you can see exactly what the building cost.
+
+### Do you do emergency repair?
+
+Yes, subject to the building admitting us. Same-day where access allows, otherwise the first available window, and we tell you which when you call.
+
+### What does a survey cost?
+
+$450, credited against the project. The validation walk after installation comes with the project either way.
+
+Coverage
+
+### Where we install networks in Manhattan
+
+The whole island. What changes between neighbourhoods is the construction and the house rules — here is what each commercial district presents.
+
+### Midtown
+
+The Sixth Avenue corridor and Rockefeller Center. Large Class A towers with proper telecom rooms and generous risers, and the tightest freight scheduling in the borough. Insurance requirements are exacting, ceiling work above occupied floors is evening-only, and the calendar is set by the building rather than by the drop count.
+
+Park Avenue and Madison Avenue. Legal and financial tenancies in towers where escorted access and house firestop standards are normal. Private-office layouts push the access point count up, and conference AV is usually a segment of its own.
+
+Grand Central and East 42nd Street. Deep floor plates in older tower stock. This is where the hundred-metre limit shows up in Manhattan: measured as installed, up into the ceiling, around a thick masonry core and back down, a run that looks short on the plan is not. Second closets are a real answer here rather than a theoretical one.
+
+The Garment District, Herald Square and Times Square. Prewar loft-office stock, heavily subdivided, with plaster over lath and decades of accumulated cabling in the walls. Takeover and cleanup work is a large share of what we do in these blocks.
+
+### Downtown and the Financial District
+
+Water Street, Broad Street and Wall Street. Narrow floor plates, contested risers and the most restrictive access rules in the city — several buildings are off-hours only by house rule. Financial tenancies bring documentation expectations that treat certification and as-builts as deliverables.
+
+Tribeca and the Seaport. Converted industrial and warehouse stock with heavy timber and brick, now offices and studios. High exposed ceilings, visible pathway, and masonry that stops radio far more effectively than any modern partition.
+
+### The loft districts
+
+SoHo and NoHo — Broadway, Lafayette, Greene and Mercer. Cast-iron buildings with column grids rather than partitions. Wireless is straightforward; the design problem is aesthetic, because tenants chose the exposed ceiling and expect the cable to look considered.
+
+Flatiron and NoMad — Broadway and Fifth around 23rd Street. Prewar loft-office conversions, heavy technology and agency tenancy, and floors where four other companies broadcast on your channels. Spectrum planning matters here as much as coverage.
+
+Chelsea and the Meatpacking District. Converted warehouse and gallery space alongside newer construction, with a media and technology tenant base that moves large files and cares more about uplink capacity than radio count.
+
+### Uptown and the rest of the island
+
+Hudson Yards and the Far West Side. The newest commercial stock in the borough — accurate drawings, real telecom rooms, and building systems that expect a coordinated tenant fit-out.
+
+The Upper East and Upper West Sides. Medical and professional suites in prewar buildings, frequently converted from residential. Small tenancies, thick walls, no dedicated closet, and pathway that has to be created.
+
+Harlem and Upper Manhattan — 125th Street and the Broadway corridor. Institutional, non-profit and professional space in a mix of prewar and newer buildings, plus ground-floor retail along the main commercial streets.
+
+Midtown
+Sixth Avenue
+Park Avenue
+Grand Central
+Garment District
+Herald Square
+Times Square
+Financial District
+Water Street
+Wall Street
+Tribeca
+Seaport
+SoHo
+NoHo
+Flatiron
+NoMad
+Chelsea
+Meatpacking
+Hudson Yards
+Upper East Side
+Upper West Side
+Harlem
+
+The citywide hub is network installation NYC . The cable plant these networks run on is covered on structured cabling installation Manhattan , and cable category and per-drop pricing on Cat6 installation Manhattan .
+
+[FIG] A finished closet: panels above, switching and firewall below, battery backup at the bottom, everything serviceable from the doorway.
+
+Next step
+
+### Get a Manhattan network quote
+
+Tell us the floor and roughly how many people work on it. We will survey it, talk to the building, and come back with a line-item number and an evening count.
+
+Full Name *
+
+Phone Number *
+
+Email *
+
+Property Address *
+
+Property Type
+
+Select
+Class A tower floor
+Prewar office floor
+Loft or converted space
+Medical or clinical suite
+Ground-floor retail or hospitality
+Coworking or serviced office
+
+What do you need?
+
+Select
+New network build
+Wi-Fi coverage or dead zones
+Upgrade an existing network
+Takeover and documentation
+Repair — something is down
+New fit-out or office move
+
+Anything else worth knowing?
+
+I agree to be contacted about this request. See our privacy policy .
+
+Send My Request
+Or call (929) 560-0737 · NYS Low Voltage #12000287431
+
+Home
+Network Installation NYC
+Manhattan
+Brooklyn
+Queens
+Long Island
+Hudson Valley
+Warranty
+Privacy Policy
+
+© 2026 Abstract Enterprises LLC · Network Installation Manhattan · NYS License #12000287431
+
+Related: Network Installation NYC — the citywide hub this borough page sits under.

@@ -1,0 +1,590 @@
+# CCTV Installation — Anwar's Keyword List (Nov 15 2026)
+
+Applies to EVERY cctv-installation-* page in every area: the NYC / Long Island / Hudson Valley hubs, every borough and county page, and neighborhood pages later. Came from the Nov 15 2026 Search Console regex run: 256 CCTV searches, 15,522 impressions, 4 clicks, and no CCTV page on the site (Google was guessing between the homepage and 15–25 camera pages).
+
+Structure (same as door buzzer repair / elevator access control): this list + the page's own area. Each page weaves in every keyword that fits its area and intent naturally — title, H2/H3s, intro, services, Q&A, FAQ, field notes, image alt text — with that page's borough or county as the geo modifier. Local building stock, streets and facts make each page unique; the keywords are shared. Never paste the list, never a keyword block, never stuff, never repeat sentences across pages. The "how / what / who / can / is / does" phrases are real customer questions — use them as FAQ seeds alongside the BLUEPRINT §3 research.
+
+## Rules for these pages
+
+- **Don't cannibalize the security camera silo.** CCTV pages target the "CCTV" wording (CCTV installation, CCTV system, CCTV installer, closed circuit television, DVR/NVR recorder systems, wired IP/PoE and HD-analog systems, commercial and multi-camera recorder jobs). The existing security-camera-installation-* page for the same area stays the money page for "security camera installation" — the CCTV page links to it once in context (and to its area's commercial / apartment-building / warehouse camera pages where they exist), and the builder adds one contextual link back from that area's security camera page to the new CCTV page. Never change the security camera pages' titles, H1s or URLs.
+- **Area phrases go only on their own area's page** (list below). Neighborhood phrases (Williamsburg, Astoria, Riverdale, Harlem …) wait for the CCTV neighborhood pages — a borough page may mention its neighborhoods naturally but doesn't carry their "CCTV installation <neighborhood>" phrases.
+- **Prices:** follow BLUEPRINT §9 / §14–15 camera pricing (house-brand system = equipment + the area's per-camera install rate). Only prices that already appear on that area's security camera page. Cost keywords (cost per camera, labor only, package pricing, 4/8/16-camera cost) are answered with those same real numbers or with "priced per camera after we confirm the layout" — never invented ranges. Concealed wiring is extra; never compare to retail store prices.
+- **Brands:** say we install / integrate / service that brand. Only Lorex, Luminys and Reolink may be called partners (official partner badges). Never claim certification or dealer status for any other brand (Hikvision, Dahua, Axis, Avigilon, Verkada, Hanwha, UniFi, etc.). House brand is the default system.
+- **Customer-supplied equipment / labor only:** yes, we install customer-supplied cameras — labor price only, quoted by phone/text, booked with the deposit; no walk-throughs on customer equipment; the customer's own wireless cameras' signal and equipment aren't on us.
+- **Same-day / next-day / weekend / emergency phrases:** answer honestly — we book within 2 hours, schedule 7 days a week with early-day visits, first come first served once paid. Never promise same-day installation.
+- **Reviews / testimonials / ratings:** only real Google reviews and the rating/review count check_page.py enforces. Never write testimonials.
+- **Warranty phrases:** the 30-day warranty on the site; 1-year and longer are paid add-ons (exact warranty line per BLUEPRINT).
+- **How-to phrases** (how to install / wire / connect to NVR or phone, without visible wires, PoE): explain what's involved and why it's done right by a licensed installer — no step-by-step DIY wiring or troubleshooting instructions.
+- **Credentials / license / insurance phrases:** "Licensed NYS low-voltage contractor", insured (general liability). No license number on Google Business Profile content; on site pages follow BLUEPRINT.
+- **Privacy / landlord / building code / commercial requirement phrases:** real sourced facts only (NY law and NYC rules, cited). No legal advice.
+- **Seasonal phrases** (holiday shopping, Black Friday, after a break-in, vacant property, new business opening): good FAQ / section angles — use where they fit the area, don't force all of them onto every page.
+- Never write "AESS" on the page — always "Abstract Enterprises Security Systems". Company byline only.
+
+## Keywords (every page)
+
+- CCTV installation
+- CCTV installer
+- CCTV installers
+- CCTV installation service
+- CCTV installation services
+- CCTV systems
+- CCTV cameras
+- CCTV security
+- CCTV surveillance
+- CCTV setup
+- CCTV wiring
+- CCTV contractor
+- CCTV company
+- CCTV installation company
+- CCTV installation contractor
+- CCTV installation technician
+- CCTV installation specialist
+- CCTV installation professional
+- CCTV installation expert
+- security camera installation
+- security cameras installed
+- surveillance camera installation
+- video surveillance installation
+- security system installation
+- camera system installation
+- CCTV system installation
+- CCTV camera installation
+- CCTV equipment installation
+- CCTV network installation
+- CCTV monitoring system installation
+- professional CCTV installation
+- residential CCTV installation
+- commercial CCTV installation
+- business CCTV installation
+- home CCTV installation
+- office CCTV installation
+- building CCTV installation
+- property CCTV installation
+- outdoor CCTV installation
+- indoor CCTV installation
+- wired CCTV installation
+- wireless CCTV installation
+- IP CCTV installation
+- analog CCTV installation
+- digital CCTV installation
+- HD CCTV installation
+- 4K CCTV installation
+- PoE CCTV installation
+- CCTV installation and setup
+- CCTV installation and configuration
+- CCTV installation and maintenance
+- CCTV installation and repair
+- CCTV installation and replacement
+- CCTV installation and upgrade
+- CCTV installation and troubleshooting
+- CCTV installation and programming
+- CCTV installation and wiring
+- CCTV installation and networking
+- CCTV installation and recording setup
+- CCTV installation and remote viewing
+- professional CCTV camera installation services
+- affordable CCTV camera installation services
+- licensed CCTV installation contractor
+- experienced CCTV camera installer
+- local CCTV installation company
+- CCTV installation company near me
+- professional CCTV installer near me
+- CCTV installation services near me
+- CCTV installation for residential properties
+- CCTV installation for commercial properties
+- CCTV installation for small businesses
+- CCTV installation for large businesses
+- CCTV installation for apartment buildings
+- CCTV installation for multi-family buildings
+- CCTV installation for office buildings
+- CCTV installation for retail stores
+- CCTV installation for warehouses
+- CCTV installation for parking lots
+- CCTV installation for construction sites
+- CCTV installation for restaurants
+- CCTV installation for hotels
+- CCTV installation for schools
+- CCTV installation for medical offices
+- CCTV installation for industrial facilities
+- CCTV installation with remote smartphone viewing
+- CCTV installation with cloud storage
+- CCTV installation with local recording
+- CCTV installation with motion detection
+- CCTV installation with night vision
+- CCTV installation with audio recording
+- CCTV installation with 24 hour recording
+- CCTV installation with concealed wiring
+- CCTV installation with professional cable management
+- hire CCTV installer
+- hire CCTV installation company
+- book CCTV installation
+- schedule CCTV installation
+- request CCTV installation quote
+- get CCTV installation estimate
+- CCTV installation free quote
+- CCTV installation pricing
+- CCTV installation cost
+- CCTV installation rates
+- CCTV installation packages
+- CCTV installation deals
+- CCTV installation specials
+- CCTV installation offers
+- CCTV installation financing
+- CCTV installation consultation
+- CCTV installation appointment
+- CCTV installation contractor quote
+- CCTV installation service quote
+- CCTV installation labor cost
+- CCTV installation equipment and labor
+- CCTV installation labor only
+- CCTV installation customer supplied equipment
+- CCTV camera installation labor only
+- CCTV installation same day service
+- CCTV installation next day service
+- CCTV installation weekend service
+- CCTV installation emergency service
+- CCTV installation for new construction
+- CCTV installation for existing buildings
+- CCTV installation for business security
+- CCTV installation turnkey solution
+- CCTV installation complete package
+- best CCTV installation company
+- best CCTV installer
+- top rated CCTV installers
+- reliable CCTV installation company
+- trusted CCTV installation contractor
+- affordable CCTV installation company
+- professional CCTV installation company
+- CCTV installation company reviews
+- CCTV installer reviews
+- CCTV installation company comparison
+- CCTV installation service comparison
+- CCTV installation price comparison
+- CCTV installation cost per camera
+- CCTV installation labor cost per camera
+- CCTV installation equipment cost
+- CCTV installation package pricing
+- CCTV installation warranty
+- CCTV installation service warranty
+- CCTV installation maintenance plans
+- CCTV installation service contracts
+- CCTV installation company credentials
+- CCTV installation contractor license
+- CCTV installation company insurance
+- CCTV installation company experience
+- CCTV installation customer testimonials
+- what is CCTV installation
+- how does CCTV installation work
+- how to install CCTV cameras
+- how to install a CCTV system
+- how much does CCTV installation cost
+- how long does CCTV installation take
+- what equipment is needed for CCTV installation
+- what cables are used for CCTV installation
+- how to wire CCTV cameras
+- how to connect CCTV cameras to an NVR
+- how to connect CCTV cameras to a DVR
+- how to connect CCTV cameras to a phone
+- how to view CCTV cameras remotely
+- how to install CCTV cameras outdoors
+- how to install CCTV cameras indoors
+- how to install CCTV cameras without visible wires
+- how to install PoE CCTV cameras
+- how to install wireless CCTV cameras
+- how to choose a CCTV installer
+- how to choose a CCTV installation company
+- how many CCTV cameras do I need
+- where should CCTV cameras be installed
+- what is the best CCTV camera placement
+- is professional CCTV installation worth it
+- does CCTV installation require internet
+- can CCTV cameras record without internet
+- how much storage do CCTV cameras need
+- how long can CCTV footage be stored
+- security camera installer
+- surveillance camera installer
+- video surveillance contractor
+- security camera contractor
+- surveillance system contractor
+- video security installation
+- closed circuit television installation
+- closed circuit camera installation
+- closed circuit television system installation
+- electronic surveillance installation
+- electronic security installation
+- property surveillance installation
+- premises surveillance installation
+- building security camera installation
+- security monitoring camera installation
+- IP video surveillance installation
+- network video surveillance installation
+- video management system installation
+- surveillance recording system installation
+- digital video recorder installation
+- network video recorder installation
+- NVR installation
+- DVR installation
+- CCTV recorder setup
+- CCTV hard drive installation
+- CCTV storage upgrade
+- CCTV camera replacement
+- CCTV camera mounting
+- CCTV camera cabling
+- CCTV camera configuration
+- CCTV camera network setup
+- CCTV system commissioning
+- IP camera installation
+- PoE camera installation
+- analog camera installation
+- HD analog camera installation
+- HD-TVI camera installation
+- HD-CVI camera installation
+- AHD camera installation
+- 1080p CCTV installation
+- 2K CCTV installation
+- 4MP CCTV installation
+- 5MP CCTV installation
+- 8MP CCTV installation
+- 4K CCTV camera installation
+- 12MP CCTV installation
+- 16MP CCTV installation
+- dome camera installation
+- bullet camera installation
+- turret camera installation
+- PTZ camera installation
+- fisheye camera installation
+- panoramic camera installation
+- multi-sensor camera installation
+- varifocal camera installation
+- thermal camera installation
+- infrared camera installation
+- night vision camera installation
+- color night vision camera installation
+- active deterrence camera installation
+- AI CCTV camera installation
+- smart detection CCTV installation
+- license plate recognition camera installation
+- LPR camera installation
+- ANPR camera installation
+- facial recognition camera installation
+- people counting camera installation
+- vehicle detection camera installation
+- vandal resistant camera installation
+- weatherproof CCTV camera installation
+- concealed CCTV wiring installation
+- Cat6 CCTV installation
+- Cat6A CCTV installation
+- fiber optic CCTV installation
+- CCTV conduit installation
+- CCTV PoE switch installation
+- CCTV network switch installation
+- CCTV rack installation
+- CCTV UPS installation
+- residential security camera installation
+- house CCTV installation
+- apartment CCTV installation
+- condo CCTV installation
+- townhouse CCTV installation
+- multi-family CCTV installation
+- home surveillance installation
+- home video surveillance installation
+- home security camera installer
+- residential CCTV installer
+- residential CCTV installation company
+- front door CCTV installation
+- back door CCTV installation
+- driveway CCTV installation
+- garage CCTV installation
+- backyard CCTV installation
+- porch CCTV installation
+- patio CCTV installation
+- perimeter CCTV installation
+- exterior home CCTV installation
+- indoor home CCTV installation
+- home CCTV installation with smartphone access
+- home CCTV installation with remote monitoring
+- home CCTV installation with motion alerts
+- home CCTV installation with night recording
+- home CCTV installation with hidden wiring
+- residential CCTV camera replacement
+- residential CCTV system upgrade
+- commercial CCTV installer
+- commercial CCTV contractor
+- commercial CCTV installation company
+- business security camera installation
+- commercial surveillance camera installation
+- retail CCTV installation
+- store CCTV installation
+- convenience store CCTV installation
+- supermarket CCTV installation
+- grocery store CCTV installation
+- restaurant CCTV installation
+- bar CCTV installation
+- nightclub CCTV installation
+- hotel CCTV installation
+- motel CCTV installation
+- warehouse CCTV installation
+- factory CCTV installation
+- manufacturing facility CCTV installation
+- corporate office CCTV installation
+- medical office CCTV installation
+- dental office CCTV installation
+- pharmacy CCTV installation
+- school CCTV installation
+- daycare CCTV installation
+- church CCTV installation
+- house of worship CCTV installation
+- bank CCTV installation
+- financial office CCTV installation
+- shopping center CCTV installation
+- shopping mall CCTV installation
+- parking garage CCTV installation
+- parking lot CCTV installation
+- gas station CCTV installation
+- car dealership CCTV installation
+- auto repair shop CCTV installation
+- construction site CCTV installation
+- self storage CCTV installation
+- logistics facility CCTV installation
+- distribution center CCTV installation
+- property management CCTV installation
+- HOA CCTV installation
+- condominium building CCTV installation
+- apartment complex CCTV installation
+- 1 camera CCTV installation
+- 2 camera CCTV installation
+- 3 camera CCTV installation
+- 4 camera CCTV installation
+- 5 camera CCTV installation
+- 6 camera CCTV installation
+- 7 camera CCTV installation
+- 8 camera CCTV installation
+- 9 camera CCTV installation
+- 10 camera CCTV installation
+- 12 camera CCTV installation
+- 16 camera CCTV installation
+- 20 camera CCTV installation
+- 24 camera CCTV installation
+- 32 camera CCTV installation
+- 48 camera CCTV installation
+- 64 camera CCTV installation
+- 4 channel CCTV installation
+- 8 channel CCTV installation
+- 16 channel CCTV installation
+- 32 channel CCTV installation
+- multi camera CCTV installation
+- large scale CCTV installation
+- multi-site CCTV installation
+- enterprise CCTV installation
+- Hikvision CCTV installation
+- Dahua CCTV installation
+- Lorex CCTV installation
+- Reolink CCTV installation
+- UniFi Protect CCTV installation
+- Ubiquiti CCTV installation
+- Luma CCTV installation
+- Axis CCTV installation
+- Hanwha CCTV installation
+- Bosch CCTV installation
+- Uniview CCTV installation
+- Speco CCTV installation
+- Digital Watchdog CCTV installation
+- DW Spectrum installation
+- Avigilon CCTV installation
+- Verkada camera installation
+- Eagle Eye Networks installation
+- Hanwha Vision camera installation
+- Pelco CCTV installation
+- Vivotek CCTV installation
+- ZOSI CCTV installation
+- Night Owl CCTV installation
+- Swann CCTV installation
+- ANNKE CCTV installation
+- Amcrest CCTV installation
+- GW Security CCTV installation
+- Ring camera installation
+- Nest camera installation
+- Google Nest camera installation
+- Arlo camera installation
+- Wyze camera installation
+- TP-Link VIGI camera installation
+- CCTV camera repair and installation
+- CCTV system repair and installation
+- CCTV camera replacement service
+- CCTV system replacement service
+- CCTV upgrade installation
+- CCTV modernization service
+- CCTV system expansion
+- additional CCTV camera installation
+- CCTV camera relocation
+- CCTV camera repositioning
+- CCTV camera rewiring
+- CCTV cable replacement
+- CCTV power supply replacement
+- CCTV NVR replacement
+- CCTV DVR replacement
+- CCTV hard drive replacement
+- CCTV recording system upgrade
+- analog to IP CCTV upgrade
+- DVR to NVR upgrade
+- CCTV camera resolution upgrade
+- CCTV network troubleshooting
+- CCTV remote access setup
+- CCTV mobile app setup
+- CCTV system reconfiguration
+- CCTV camera troubleshooting service
+- CCTV installation diagnostics
+- CCTV installation service call
+- who installs CCTV cameras near me
+- where can I find a CCTV installer
+- who is the best CCTV installer near me
+- who can install security cameras at my house
+- who can install CCTV cameras at my business
+- how much will it cost to install CCTV cameras
+- can someone install my CCTV cameras
+- can I hire someone to install cameras I already bought
+- who installs customer supplied CCTV systems
+- who can install my existing CCTV equipment
+- where can I get CCTV cameras professionally installed
+- can a CCTV installer hide the wires
+- can CCTV cameras be installed without internet
+- can CCTV cameras connect to my smartphone
+- how many CCTV cameras should I install
+- what is the average CCTV installation price
+- who installs CCTV cameras in commercial buildings
+- who installs CCTV cameras in apartment buildings
+- can I get a quote for CCTV installation
+- how do I schedule CCTV installation
+- who can upgrade my old CCTV system
+- CCTV installation near me
+- CCTV installers near me
+- local CCTV installers
+- CCTV contractors near me
+- nearby CCTV installation service
+- CCTV installation price
+- CCTV installation cost near me
+- CCTV installation labor price
+- CCTV installation labor rates
+- CCTV installation hourly rate
+- CCTV installation package cost
+- CCTV installation quote
+- CCTV installation estimate
+- CCTV installation pricing guide
+- CCTV installation cost calculator
+- 2 camera CCTV installation cost
+- 4 camera CCTV installation cost
+- 6 camera CCTV installation cost
+- 8 camera CCTV installation cost
+- 12 camera CCTV installation cost
+- 16 camera CCTV installation cost
+- commercial CCTV installation cost
+- residential CCTV installation cost
+- wired CCTV installation cost
+- wireless CCTV installation cost
+- IP CCTV installation cost
+- PoE CCTV installation cost
+- 4K CCTV installation cost
+- CCTV installation with equipment included
+- CCTV installation labor only price
+- CCTV installation additional camera cost
+- CCTV installation hidden wiring cost
+- CCTV installation conduit cost
+- CCTV installation guide
+- CCTV installation checklist
+- CCTV installation requirements
+- CCTV installation best practices
+- CCTV camera placement guide
+- CCTV system design
+- CCTV system planning
+- CCTV coverage planning
+- CCTV camera field of view
+- CCTV camera lens selection
+- CCTV recording storage requirements
+- CCTV retention period
+- CCTV video compression
+- CCTV H.264 vs H.265
+- CCTV bandwidth requirements
+- CCTV PoE power budget
+- CCTV network security
+- CCTV VLAN configuration
+- CCTV remote viewing security
+- CCTV camera cybersecurity
+- CCTV system maintenance
+- CCTV installation mistakes
+- CCTV installation troubleshooting guide
+- CCTV installation wiring diagram
+- CCTV installation conduit requirements
+- CCTV installation building code
+- CCTV installation privacy laws
+- CCTV installation landlord requirements
+- CCTV installation commercial property requirements
+- CCTV installation insurance requirements
+- CCTV installation warranty coverage
+- CCTV installation service agreement
+- CCTV installation holiday security
+- CCTV installation before vacation
+- CCTV installation for holiday shopping season
+- CCTV installation Black Friday security
+- CCTV installation Christmas retail security
+- CCTV installation summer home security
+- CCTV installation winter property security
+- CCTV installation back to school security
+- CCTV installation new business opening
+- CCTV installation grand opening
+- CCTV installation before moving in
+- CCTV installation after burglary
+- CCTV installation after break in
+- CCTV installation after vandalism
+- CCTV installation after property damage
+- CCTV installation for vacant property
+- CCTV installation for seasonal business
+- CCTV installation for temporary construction site
+- CCTV installation for special events
+- CCTV installation near me with free estimate
+- professional CCTV installation with warranty
+- affordable CCTV installation with equipment
+- commercial CCTV installation with remote access
+- residential CCTV installation with smartphone viewing
+- CCTV installation with two weeks recording
+- CCTV installation with one year warranty
+- CCTV installation for customer supplied cameras
+- CCTV installation labor only near me
+- CCTV installation and NVR setup
+- CCTV installation and DVR setup
+- CCTV installation and mobile app configuration
+- CCTV installation with 24/7 recording
+- CCTV installation with motion alerts
+- CCTV installation with AI detection
+- CCTV installation with license plate recognition
+- CCTV installation with network configuration
+- CCTV installation with Cat6 cabling
+- CCTV installation for multiple buildings
+- CCTV installation for apartment complexes
+- CCTV installation for property managers
+- CCTV installation with additional camera options
+
+## Area phrases (only on the matching page)
+
+- **NYC hub:** CCTV installation NYC; CCTV installation New York City
+- **Long Island hub:** CCTV installation Long Island
+- **Hudson Valley hub:** CCTV installation Hudson Valley
+- **Brooklyn:** CCTV installation Brooklyn
+- **Bronx:** CCTV installation Bronx
+- **Queens:** CCTV installation Queens
+- **Manhattan:** CCTV installation Manhattan
+- **Staten Island:** CCTV installation Staten Island
+- **Nassau:** CCTV installation Nassau County
+- **Suffolk:** CCTV installation Suffolk County
+- **Westchester:** CCTV installation Westchester County; CCTV installation Yonkers; CCTV installation New Rochelle; CCTV installation White Plains; CCTV installation Mount Vernon
+- **Rockland:** CCTV installation Rockland County; CCTV installation Valley Cottage; CCTV installation Spring Valley; CCTV installation Nyack; CCTV installation Nanuet; CCTV installation Pearl River; CCTV installation Haverstraw
+- **Orange:** CCTV installation Orange County NY; CCTV installation Middletown NY; CCTV installation Newburgh NY
+- **Putnam:** CCTV installation Putnam County NY
+- **Dutchess:** CCTV installation Dutchess County NY; CCTV installation Poughkeepsie
+- **Ulster:** CCTV installation Ulster County NY; CCTV installation Kingston NY
+
+## Neighborhood phrases (for CCTV neighborhood pages later — not used on borough pages)
+
+- **Brooklyn:** CCTV installation Williamsburg Brooklyn; CCTV installation Bushwick Brooklyn; CCTV installation Bedford Stuyvesant Brooklyn; CCTV installation Crown Heights Brooklyn; CCTV installation Flatbush Brooklyn; CCTV installation East Flatbush Brooklyn; CCTV installation Canarsie Brooklyn; CCTV installation Bay Ridge Brooklyn; CCTV installation Bensonhurst Brooklyn; CCTV installation Park Slope Brooklyn; CCTV installation Downtown Brooklyn; CCTV installation East New York Brooklyn; CCTV installation Brownsville Brooklyn
+- **Queens:** CCTV installation Astoria Queens; CCTV installation Long Island City Queens; CCTV installation Flushing Queens; CCTV installation Bayside Queens; CCTV installation Jamaica Queens; CCTV installation Richmond Hill Queens; CCTV installation Ozone Park Queens; CCTV installation Forest Hills Queens; CCTV installation Rego Park Queens; CCTV installation Fresh Meadows Queens; CCTV installation Hollis Queens; CCTV installation Jackson Heights Queens; CCTV installation Elmhurst Queens; CCTV installation Woodside Queens
+- **Bronx:** CCTV installation Riverdale Bronx; CCTV installation Fordham Bronx; CCTV installation Pelham Bay Bronx; CCTV installation Throgs Neck Bronx; CCTV installation Morris Park Bronx; CCTV installation Soundview Bronx; CCTV installation Hunts Point Bronx; CCTV installation Mott Haven Bronx; CCTV installation Wakefield Bronx
+- **Manhattan:** CCTV installation Harlem Manhattan; CCTV installation Washington Heights Manhattan; CCTV installation Inwood Manhattan; CCTV installation Upper East Side Manhattan; CCTV installation Upper West Side Manhattan; CCTV installation Midtown Manhattan; CCTV installation Lower Manhattan

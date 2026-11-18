@@ -1,0 +1,9 @@
+== bronx  title=55 meta=155 words=10976 faq=11  title:PASS meta:PASS canon:PASS h1:PASS words:PASS gbp:PASS faq:PASS stats:PASS fresh:PASS noindex:PASS onenav:PASS calc:PASS qa_faq:PASS
+   links: tv-installation-bronx tv-installation-brooklyn tv-installation-policies tv-mounting-prices-brooklyn tv-mounting-prices-manhattan tv-mounting-prices-nyc tv-mounting-prices-queens tv-mounting-prices-staten-island
+== staten-island  title=55 meta=160 words=10312 faq=11  title:PASS meta:PASS canon:PASS h1:PASS words:PASS gbp:PASS faq:PASS stats:PASS fresh:PASS noindex:PASS onenav:PASS calc:PASS qa_faq:PASS
+   links: tv-installation-brooklyn tv-installation-policies tv-installation-staten-island tv-mounting-prices-bronx tv-mounting-prices-brooklyn tv-mounting-prices-manhattan tv-mounting-prices-nyc tv-mounting-prices-queens
+== nassau-county  title=47 meta=158 words=10596 faq=11  title:PASS meta:PASS canon:PASS h1:PASS words:PASS gbp:PASS faq:PASS stats:PASS fresh:PASS noindex:PASS onenav:PASS calc:PASS qa_faq:PASS
+   links: tv-installation-brooklyn tv-installation-nassau-county tv-installation-policies tv-mounting-prices-long-island tv-mounting-prices-suffolk-county
+FLAG hudson-valley/staten-island gap=96 dupQ=0 []
+FLAG queens/nassau-county gap=425 dupQ=0 []
+sizes {'nyc': 177606, 'long-island': 171603, 'hudson-valley': 174275, 'manhattan': 185564, 'brooklyn': 180216, 'queens': 182856, 'bronx': 188625, 'staten-island': 174371, 'nassau-county': 182431}
