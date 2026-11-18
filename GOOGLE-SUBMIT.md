@@ -104,6 +104,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 
 2026-11-17 evening (scheduled, 01:53 UTC Nov 18, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2771 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-18T01:53:17Z, 3024 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2120 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected super-live-plus-app-support-repair-bronx (URL is not on Google; Crawled - currently not indexed); the first Request-indexing click closed the live-test dialog with no result, and after a page reload it returned "Quota Exceeded", because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at super-live-plus-app-support-repair-bronx. Incident: this run's first commit (3fa8c4dbd) accidentally deleted every file because of a broken local index after a partial clone; Netlify deployed it and the live site returned 404 for a few minutes until 2eda931a9 restored the identical tree (verified: home, sitemap.xml and a sample page back to 200).
 
+2026-11-18 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 4 indexed (super-live-plus long island/manhattan/nyc/staten island, URL is on Google), 0 failed, 2760 queued. All requested URLs inspected as not on Google (Crawled - currently not indexed). "Quota Exceeded" on the 12th request (video-wall-installation-ulster-county, Crawled - currently not indexed), which stays QUEUED; next run starts there.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-11-15 (Anwar): CCTV INSTALLATION HUBS GO FIRST — above every other line in this file. Big gap: 256 CCTV searches, 15,522 impressions, 4 clicks, no CCTV page. The builder adds each cctv-installation-* hub here as QUEUED the moment it ships; the morning Request-indexing run requests these before anything else. Only request a URL that returns 200. -->
@@ -595,21 +597,21 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/smart-pss-support-setup-bronx | REQUESTED 2026-11-17
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/smart-pss-support-setup-manhattan | REQUESTED 2026-11-17
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/smart-pss-support-setup-ulster-county | INDEXED 2026-11-17
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-bronx | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-long-island | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-manhattan | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-nyc | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-orange-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-putnam-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-queens | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-staten-island | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-ulster-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-long-island | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-nassau-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-putnam-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-queens | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-rockland-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-suffolk-county | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-bronx | REQUESTED 2026-11-18
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-long-island | INDEXED 2026-11-18
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-manhattan | INDEXED 2026-11-18
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-nyc | INDEXED 2026-11-18
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-orange-county | REQUESTED 2026-11-18
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-putnam-county | REQUESTED 2026-11-18
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-queens | REQUESTED 2026-11-18
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-staten-island | INDEXED 2026-11-18
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-ulster-county | REQUESTED 2026-11-18
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-long-island | REQUESTED 2026-11-18
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-nassau-county | REQUESTED 2026-11-18
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-putnam-county | REQUESTED 2026-11-18
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-queens | REQUESTED 2026-11-18
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-rockland-county | REQUESTED 2026-11-18
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-suffolk-county | REQUESTED 2026-11-18
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-ulster-county | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-westchester-county | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/warehouse-security-camera-installation-dutchess-county | QUEUED
