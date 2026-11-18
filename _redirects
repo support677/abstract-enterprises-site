@@ -1131,6 +1131,9 @@
 /MANIFEST-ulster.md                      /404  404!
 /tools/*                                 /404  404!
 /research/*                              /404  404!
+/.claude/*                               /404  404!
+/DESIGN.md                               /404  404!
+/PRODUCT.md                              /404  404!
 
 /images/buzzer-repair/*  /buzzer-repair/:splat  200
 /d203/*  /  301!

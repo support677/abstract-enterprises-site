@@ -42,6 +42,16 @@ PAGE-QUEUE.md has a `## REBUILD` section: existing pages that Google crawled and
 - **Images:** use the fire alarm set in `images/fire-alarm-installation/` (filename + alt = keyword + area). Never camera or network photos.
 - The current interim "Commercial Fire Alarm Services in [Area]" keyword block and process section are placeholders — the rebuild replaces them with unique writing.
 
+## DESIGN CHECK — Impeccable (Anwar, Nov 18 2026)
+
+Impeccable (pbakaus/impeccable, Apache 2.0) is installed for every Claude Code builder: the skill in `.claude/skills/impeccable/`, its reviewer agents in `.claude/agents/`, and its design hook in `.claude/settings.json`. The hook runs the design detector after every edit to a page and a deeper pass when the run ends; the first run downloads its checksum-verified engine on its own. The Render/API factory does not run Claude Code, so this covers Claude Code runs only.
+
+- **Act on its findings for the page you built** before shipping: contrast, text overflow at 390px, missing focus/hover states, emoji or unicode used as icons, gradient text, heading order, untheme'd browser defaults inside page content. Re-run `check_page.py` after any fix.
+- **The site template wins.** Never restyle shared files (`css/`, `js/mega-nav.js`, header, footer, sticky bar, hero form, mega nav) or change BLUEPRINT section order, slugs, H1s, copy facts, prices, phones or schema to satisfy a finding. A finding only the shared template can fix gets one DAILY-LOG line `DESIGN-FLAG <rule> (template)` for Anwar and is otherwise left alone.
+- **No redesigns.** Do not run Impeccable's redesign, `bolder`, `overdrive`, `colorize`, `live` or `init` commands on the site without Anwar's OK. Allowed: `audit`, `polish` and `harden` scoped to the page being built.
+- **DESIGN.md:** if it doesn't exist, the first run creates it with `/impeccable document` — it records the site's current look (colors, fonts, spacing, components) as-is and changes no pages. Commit DESIGN.md on its own (`Design: document current site look`). After that every page is built to it. DESIGN.md and PRODUCT.md are private (forced 404 in `_redirects`).
+- Hook findings never block a page that passes `check_page.py`; they get fixed or flagged, then the page ships.
+
 ### 0. Start clean
 1. `git pull --ff-only` on `main`. If it fails, stop and log it. Someone else (GitHub Desktop at `C:\dev\abstract-enterprises-site`) may have pushed.
 2. `git status`. If there are uncommitted changes from a previous failed run for the same page, continue that page. If they're for anything else, stop and log it — never commit files you didn't make in this run.
