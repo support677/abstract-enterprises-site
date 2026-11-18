@@ -1,9 +1,0 @@
-{"slides":[
- {"type":"cover","kicker":"INTERCOMS · BEDFORD PARK, BRONX","title":"THE LOBBY DOOR THAT WON'T LOCK","photo":"/home/claude/abstract-enterprises-site/images/ai/intercom-installation/intercom-installation-bedford-park-bronx-ny-20261117.jpg"},
- {"type":"point","n":1,"title":"Give the door its own power","body":"The door release gets a properly sized power supply, not the old buzzer transformer that feeds everything else."},
- {"type":"point","n":2,"title":"Make the door latch first","body":"Adjust the closer and line up the strike. An intercom can't lock a door that never shuts."},
- {"type":"point","n":3,"title":"Test the old riser wiring","body":"Corroded splices in old walls are how a brand-new panel dies in a month. Test before you mount."},
- {"type":"point","n":4,"title":"Add a backup way in","body":"App calling to a tenant's phone means one dead apartment station doesn't strand anyone outside."},
- {"type":"photo","photo":"/home/claude/abstract-enterprises-site/images/job-photos/access-control-installation/akuvox-door-reader-terminal-wiring-brooklyn-20261113.jpg","label":"Real job: intercom panel wiring"},
- {"type":"cta","title":"GET IT IN WRITING","body":"A written quote that names the panel, the power and the wiring plan. Text a photo of your door."}],
- "show_phone":true}
