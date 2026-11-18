@@ -411,7 +411,7 @@ LIVE | elevator-access-control-installation-rockland-county | Elevator Access Co
 LIVE | elevator-access-control-installation-orange-county | Elevator Access Control Installation | Orange | up /elevator-access-control-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 BUILDING 2026-11-18T13:52Z max-burn | elevator-access-control-installation-putnam-county | Elevator Access Control Installation | Putnam | up /elevator-access-control-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 BUILDING 2026-11-18T13:52Z max-burn | elevator-access-control-installation-dutchess-county | Elevator Access Control Installation | Dutchess | up /elevator-access-control-installation-hudson-valley | (845) 640-3835 | GBP Bronx
-TODO | elevator-access-control-installation-ulster-county | Elevator Access Control Installation | Ulster | up /elevator-access-control-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+BUILDING 2026-11-18T13:52Z max-burn | elevator-access-control-installation-ulster-county | Elevator Access Control Installation | Ulster | up /elevator-access-control-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | cctv-installation-nyc | CCTV Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | cctv-installation-long-island | CCTV Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | cctv-installation-hudson-valley | CCTV Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
