@@ -3699,3 +3699,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-18 | https://www.abstractenterprisessecuritysystems.com/elevator-access-control-installation-putnam-county | QUEUED
 2026-11-18 | https://www.abstractenterprisessecuritysystems.com/elevator-access-control-installation-dutchess-county | QUEUED
 2026-11-18 | https://www.abstractenterprisessecuritysystems.com/elevator-access-control-installation-ulster-county | QUEUED
+2026-11-19 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-prospect-lefferts-gardens-brooklyn-ny | QUEUED
+2026-11-19 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-prospect-park-south-brooklyn-ny | QUEUED
+2026-11-19 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-ridgewood-brooklyn-ny | QUEUED
+2026-11-19 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-schuylerville-bronx-ny | QUEUED
+2026-11-19 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-sea-gate-brooklyn-ny | QUEUED
