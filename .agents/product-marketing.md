@@ -1,6 +1,6 @@
 # Product Marketing Context — Abstract Enterprises Security Systems
 
-**Document version:** v1
+**Document version:** v2
 **Last updated:** 2026-11-19
 
 > Every marketing skill (copywriting, ads, ad-creative, social, emails, seo, reverse-engineer-marketing, competitor-profiling, cro, etc.) reads this first. Rules here sit under BLUEPRINT.md (site pages) and the Master Behavior Guide (customer messages) — when they conflict, those win.
@@ -76,7 +76,10 @@
 | "Can I pay later / after?" | No deposit, no appointment. Offer Wisetack financing ("install now, pay later"). |
 | "Do I need a monthly plan?" | Cameras: no. Alarm monitoring and app answering are optional add-ons. |
 | "What about warranty?" | 30-day warranty included per the website; 1-year+ extended warranties are paid add-ons; tech support is free. |
-Weekly objection report (Quo + Allo transcripts, Mondays) should feed new rows here. **[GAP — pull top objections from that report]**
+| "You're a house, not a storefront / not BBB accredited" (1★ review, Oct 2026) | Lead with license #, insurance, 25+ years and 393 reviews; real office plans in progress — don't argue the address. |
+| "Your warranty says X but you charged me for service" (1★ reviews, Oct 2026) | State the warranty exactly as written (parts not labor, 30-day standard, paid extended plans) in writing before the sale — no page or flyer may imply more. |
+| "Why didn't the tech know what I asked for?" (3★ review, May 2026) | Full scope on the HCP job before dispatch; electrical work (outlets) declined up front. |
+Weekly objection report (Quo + Allo transcripts, Mondays) feeds new rows here. **[GAP — call-transcript objections]**
 
 **Anti-persona:** Kitchen hood / fire suppression (Kidde) jobs; electrical work; wall patch/paint; people shopping for parts or how-to advice; Thumbtack leads; tradespeople pulling our prices for their own quotes; anyone who wants a fixed price on unknown hidden cable we didn't install.
 
@@ -87,9 +90,23 @@ Weekly objection report (Quo + Allo transcripts, Mondays) should feed new rows h
 **Anxiety:** Getting overcharged, holes in walls, techs not showing, paying a deposit to a stranger, special-order delays.
 
 ## Customer Language
-**How they describe the problem:** **[GAP — mine verbatim phrases from Quo/Allo transcripts and Google reviews]**
-- e.g. "the buzzer doesn't work", "nobody can get in", "my cameras went offline", "I want to see my store from my phone"
-**How they describe us:** **[GAP — pull verbatim lines from Brooklyn + Bronx Google reviews]**
+**How they describe the problem (verbatim, Google reviews):**
+- "my security cameras went out. No signal. Nothing! I freaked."
+- "the door buzzers not working" (8-unit co-op, older intercom)
+- "I had a messy cabinet of wires"
+- "being scammed by another vendor who wasn't even licensed!"
+- "other security companies quote me ... charging for a 2 man crew 2 hours each camera"
+- "I used another company to get an intercom installed and it was a waste of money ... they never answered back my calls"
+- Call-transcript phrases still **[GAP — pull from the weekly objection report]**
+**How they describe us (verbatim, Google reviews):**
+- "the price seemed too good to be true but it was indeed done correctly and beautifully"
+- "all wiring properly secured and hidden" / "He didn't leave any wires out" / "the technicians hide the wires appropriately"
+- "walk me through how to use the system, including the mobile app, playback"
+- "gave honest advice on what equipment I actually needed versus what I didn't"
+- "they came the very next day" / "accommodate me the same day" / "messaged them 11pm on a Saturday and they came ... on a Sunday"
+- "A video eliminates lies." (landlord who used footage in court)
+- "Always available. Always returns messages."
+- "I like a fair price and not the cheapest because you get what you pay for."
 **Words to use:** install, installation, repair, fix, wire, concealed wiring, licensed and insured, your phone/app, 2-hour arrival window, "we can take care of that", house brand, 2K / 4K.
 **Words to avoid:** "AESS"; "cheap"; apologies ("sorry for the inconvenience"); exact arrival times; same-day promises; how-to/troubleshooting detail to non-customers; prices Anwar hasn't set; fire alarm prices/ranges; comparisons to retail store prices; "free on-site assessment" for customer-supplied equipment or build-outs.
 **Glossary:**
@@ -118,9 +135,15 @@ Weekly objection report (Quo + Allo transcripts, Mondays) should feed new rows h
 **Never use (and why):** "AESS" (nobody Googles it); "sorry" (makes us look weak); "cheapest" (we're not the cheaper guy).
 
 ## Proof Points
-**Metrics:** 25+ years experience; thousands of jobs completed (exact count unknown — don't state a number); Google rating shown on site 4.6★ (verify live before citing); books within ~2 hours.
+**Metrics:** 25+ years experience; thousands of jobs completed (exact count unknown — don't state a number); 393 Google reviews across both profiles (Brooklyn 4.6★/212, Bronx 4.7★/181, Nov 19 2026 — re-check before citing); books within ~2 hours.
 **Customers:** Never give out client names, references or contact info to prospects — point to Google reviews. (Large GC/commercial bids: Anwar supplies references himself.)
-**Testimonials:** **[GAP — pull real Google review quotes with reviewer first name + date]**
+**Testimonials (real Google reviews — first name + month only when published):**
+> "When I went with abstract, the price seemed too good to be true but it was indeed done correctly and beautifully." — Anthony, Sep 2026 (Bronx GBP)
+> "I initially thought I needed more cameras, but the technician took the time to explain what was actually necessary putting my best interest first." — Ryan, Nov 2025 (Brooklyn GBP, second location)
+> "Those same cameras helped the local police solve crime ... A video eliminates lies." — Edwin, real estate owner (Brooklyn GBP)
+> "I was in a bind - being scammed by another vendor who wasn't even licensed!" — E., Jul 2026, intercom repair (Brooklyn GBP)
+> "This is a great company we have been using for about 10 years for our camera system." — SFNYC, Mar 2026 (Bronx GBP)
+**Review counts (Local Falcon, Nov 19 2026):** Brooklyn 212 reviews 4.6★; Bronx 181 reviews 4.7★ — 393 combined.
 **Value themes:**
 | Theme | Proof |
 |---|---|
@@ -153,10 +176,13 @@ Weekly objection report (Quo + Allo transcripts, Mondays) should feed new rows h
 *Newest first. Keep about 20 active entries.*
 | Date | Learning | Evidence | Applies to | Status |
 |---|---|---|---|---|
+| 2026-11-19 | Strongest review themes: hidden/clean wiring, next-day or same-day service, honest "you don't need that many cameras" advice, app walkthrough before the tech leaves | 393 Google reviews, both profiles | copy, ads, social, quote videos | active |
+| 2026-11-19 | Negative-review themes: warranty misunderstanding, tech not briefed on scope, no-show after a rebook, "a house, not a storefront" | 1–3★ reviews 2023–2026 | ops, warranty wording, objections | active |
 | 2026-11-11 | Neighborhood-named ads landing on that neighborhood's page outperformed competitors | Anwar's past Wix-era campaigns (paused for tracking/admin load, not results) | Google Ads, pages | watch |
 | 2026-11-16 | TV mounting and fire alarm jobs come in organically with zero ad spend | Anwar: every TV install has been organic | Ads budget, SEO | watch |
 | 2026-11-12 | Brand + install-word searches are leads; bare brand searches are shoppers | Daily search-term reviews | Google Ads negatives | active |
 
 ## Changelog
 *Newest first.*
+- v2 (2026-11-19) — Filled Customer Language, Testimonials, Metrics, Objections and Learnings from 100 live Google reviews (Brooklyn + Bronx GBPs via Local Falcon).
 - v1 (2026-11-19) — Initial context, drafted from the website (index, about-us, BLUEPRINT.md) and Anwar's standing rules. Gaps marked [GAP] for teardown, objection report and Google reviews to fill.
