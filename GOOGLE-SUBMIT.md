@@ -107,6 +107,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-18 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 4 indexed (super-live-plus long island/manhattan/nyc/staten island, URL is on Google), 0 failed, 2760 queued. All requested URLs inspected as not on Google (Crawled - currently not indexed). "Quota Exceeded" on the 12th request (video-wall-installation-ulster-county, Crawled - currently not indexed), which stays QUEUED; next run starts there.
 2026-11-18 evening (scheduled, 01:53 UTC Nov 19, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2760 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-19T01:52:25Z, 3027 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2108 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected video-wall-installation-ulster-county (URL is not on Google; Crawled - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at video-wall-installation-ulster-county.
 
+2026-11-19 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 10 requested, 7 indexed (warehouse-camera dutchess/manhattan/nassau/queens; wireless-camera hudson valley; access-control bensonhurst/boerum hill), 0 failed, 2742 queued. Requested URLs were Crawled - currently not indexed or URL is unknown to Google. The Chrome connection dropped mid-batch on access-control bay ridge and bedford park; their Request-indexing clicks ran but the confirmation was not captured (counted as requested, since Google's quota ran out after 10). "Quota Exceeded" on the 11th request (access-control-installation-cobble-hill-brooklyn-ny, URL is unknown to Google), which stays QUEUED; next run starts there.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-11-15 (Anwar): CCTV INSTALLATION HUBS GO FIRST — above every other line in this file. Big gap: 256 CCTV searches, 15,522 impressions, 4 clicks, no CCTV page. The builder adds each cctv-installation-* hub here as QUEUED the moment it ships; the morning Request-indexing run requests these before anything else. Only request a URL that returns 200. -->
@@ -613,23 +615,23 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-queens | REQUESTED 2026-11-18
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-rockland-county | REQUESTED 2026-11-18
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-suffolk-county | REQUESTED 2026-11-18
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-ulster-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-westchester-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/warehouse-security-camera-installation-dutchess-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/warehouse-security-camera-installation-manhattan | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/warehouse-security-camera-installation-nassau-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/warehouse-security-camera-installation-queens | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-hudson-valley | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-nyc | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-nassau-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-westchester-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-bay-ridge-brooklyn-ny | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-bedford-park-bronx-ny | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-bensonhurst-brooklyn-ny | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-boerum-hill-brooklyn-ny | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-brighton-beach-brooklyn-ny | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-city-line-brooklyn-ny | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-clason-point-bronx-ny | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-ulster-county | REQUESTED 2026-11-19
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-westchester-county | REQUESTED 2026-11-19
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/warehouse-security-camera-installation-dutchess-county | INDEXED 2026-11-19
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/warehouse-security-camera-installation-manhattan | INDEXED 2026-11-19
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/warehouse-security-camera-installation-nassau-county | INDEXED 2026-11-19
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/warehouse-security-camera-installation-queens | INDEXED 2026-11-19
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-hudson-valley | INDEXED 2026-11-19
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-nyc | REQUESTED 2026-11-19
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-nassau-county | REQUESTED 2026-11-19
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-westchester-county | REQUESTED 2026-11-19
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-bay-ridge-brooklyn-ny | REQUESTED 2026-11-19
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-bedford-park-bronx-ny | REQUESTED 2026-11-19
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-bensonhurst-brooklyn-ny | INDEXED 2026-11-19
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-boerum-hill-brooklyn-ny | INDEXED 2026-11-19
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-brighton-beach-brooklyn-ny | REQUESTED 2026-11-19
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-city-line-brooklyn-ny | REQUESTED 2026-11-19
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-clason-point-bronx-ny | REQUESTED 2026-11-19
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-cobble-hill-brooklyn-ny | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-country-club-bronx-ny | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-dumbo-brooklyn-ny | QUEUED
