@@ -65,3 +65,15 @@ Date | Phrase | Gamma URL | AESS page
 2026-11-18 | floodlight camera installation NYC | https://gamma.app/docs/ttrineq5ylscvj9 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-nyc
 2026-11-18 | Guarding Vision app support repair Hudson Valley | https://gamma.app/docs/cg426h3z3z1ctnq (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/guarding-vision-app-support-repair-hudson-valley
 2026-11-18 | Hik-Connect app support repair Hudson Valley | https://gamma.app/docs/5j10r1uta5i4hcp (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/hik-connect-app-support-repair-hudson-valley
+2026-11-19 | Guarding Vision app support repair Long Island | https://gamma.app/docs/85hzm7hdm1uds9q (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/guarding-vision-app-support-repair-long-island
+2026-11-19 | Hik-Connect app support repair Long Island | https://gamma.app/docs/ucph1nz78a3qrqs (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/hik-connect-app-support-repair-long-island
+2026-11-19 | Guarding Vision app support repair NYC | https://gamma.app/docs/3hnxelhexal0vnu (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/guarding-vision-app-support-repair-nyc
+2026-11-19 | Hik-Connect app support repair NYC | https://gamma.app/docs/azp28uud7q2fea5 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/hik-connect-app-support-repair-nyc
+2026-11-19 | Hikvision security camera installation NYC | https://gamma.app/docs/ijdxfog90158u40 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/hikvision-security-camera-installation-nyc
+2026-11-19 | Lorex camera installation Hudson Valley | https://gamma.app/docs/ovlcrec3rk26aej (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-hudson-valley
+2026-11-19 | low voltage installation Hudson Valley | https://gamma.app/docs/70jkbso5yfhq16z (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/low-voltage-installation-hudson-valley
+2026-11-19 | Lorex camera installation Long Island | https://gamma.app/docs/oeeunlm2lqura6f (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-long-island
+2026-11-19 | low voltage installation Long Island | https://gamma.app/docs/axfinq5262ap6ng (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/low-voltage-installation-long-island
+2026-11-19 | Lorex camera installation NYC | https://gamma.app/docs/wdv77i2zsbgcavp (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-nyc
+2026-11-19 | low voltage installation NYC | https://gamma.app/docs/08jq84e5ppay0wf (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/low-voltage-installation-nyc
+2026-11-19 | network cable repair Hudson Valley | https://gamma.app/docs/5uak2qt4579f7lk (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/network-cable-repair-hudson-valley
