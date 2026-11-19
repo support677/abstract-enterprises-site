@@ -393,7 +393,8 @@ One of each in `<head>`:
 - A service with no price page has no starting price until Anwar sets one. Ask him, then add it to `START_PRICES` in `tools/check_page.py` (or map the service's price page in `PRICE_PAGES`). Never publish a price he hasn't set.
 
 ### 15.5a Bundles out, add-ons stay (Anwar, Nov 19 2026)
-- Remove only the **bundled packages** (the 6/8/12/16-camera package rows and cards). Nothing else.
+- "Bundled package" means a package that **includes extras** like a PTZ, plate-reader (LPR) cameras, POS overlay or an outbuilding link. Those extras come out of the package and are sold as add-ons.
+- **Plain camera-count packages stay** (4, 6, 8, 12, 16 cameras with recorder and drive). Never remove a plain package. (Anwar, Nov 19 2026: "If it's a regular 6, 8, 12 and 16, why not?")
 - **Keep** add-ons and extras: PTZ cameras, LPR / plate-reader cameras, UPS backup, LTE/cellular failover, service-call prices, and every FAQ. "If somebody wants to add a PTZ or a plate reader, why not?"
 - If a package-only FAQ mentions a package, reword the one sentence; never delete the FAQ.
 
