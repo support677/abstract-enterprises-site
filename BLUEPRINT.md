@@ -3,7 +3,7 @@
 **Owner:** Anwar Timothy
 **Status:** v2.1 (canonical, single source of truth)
 **Scope:** every service × area page on `abstractenterprisessecuritysystems.com`
-**Last revised:** 2026-05-07
+**Last revised:** 2026-11-19 (§15 AI-search items)
 
 > Any AI session, contractor, or human touching this site reads this file FIRST. No exceptions. Pages built without compliance to this blueprint are rejected and rebuilt.
 
@@ -24,6 +24,7 @@
 11. **Never delete or rename a page (Anwar, Nov 14 2026).** Builders and rebuilds only ADD or IMPROVE. A rebuild overwrites the page in place at the same URL. Duplicates/overlaps get flagged to Anwar, not removed. A deletion happens only with Anwar's explicit OK, and that commit message must contain `[anwar-approved-delete]` — otherwise `.github/workflows/page-guard.yml` puts the page straight back.
 12. **Never "AESS" on the site (Anwar, Nov 14 2026: "No AESS").** Nobody Googles "AESS". Every visible word, title, meta, alt/title/caption, schema and video text says "Abstract Enterprises Security Systems" (or "we/our/us"); titles drop the brand suffix rather than abbreviate it. Only hidden form `from_name` values and file paths may still contain it.
 13. **Fire alarm pages: no prices, no packages, no CCTV (Anwar, Nov 15 2026).** Fire alarm work is mainly commercial and every system starts with engineer-designed, sealed drawings, so a `fire-alarm-*` page never shows a fixed price, price range, "from $X", cap, package card, monthly monitoring price, bundle saving, or price schema (`Offer`, `OfferCatalog`, `priceRange`). On fire alarm pages §14 becomes "How Fire Alarm Installation Is Priced in [Area]" (design and sealed drawings → filing with the FDNY or local authority → install to the approved plans → acceptance test; quoted in writing per building after an on-site survey) and §15 is left out. Fire alarm and CCTV are separate systems that do not integrate: never bundle, combine or cross-sell cameras on fire alarm pages, and never use camera or network photos as fire alarm figures. Use the fire alarm image set in `images/fire-alarm-installation/fire-alarm-installation-*.webp`. Government fees and penalties (FDNY filing fees, HPD detector charges, fines) may still be quoted with their source. Every fire alarm page weaves the full keyword list in `keywords/fire-alarm-installation.md` naturally through the content with the page's area as geo modifier (Anwar, Nov 14 2026) — never as a keyword block — and covers NFPA 72 commercial / code-required buildings only (no burglar alarm, no single- or two-family home content), with the per-jurisdiction approval steps in DAILY-RUN.md.
+14. **AI-search items on every new page and every rebuild (Anwar, Nov 19 2026).** Answer-first sentence with the area's starting price, `Service` + `BreadcrumbList` schema filled in as §15 says, a visible "Last updated" date matching `dateModified`, and Open Graph + Twitter tags. Prices come only from that area's price page. `tools/check_page.py` fails a page missing any of them. Full spec in §15.
 
 ---
 
@@ -119,7 +120,7 @@ These are added on top of the v2.0 structure. Some still have unconfirmed specs 
 |---|---|---|
 | 21 | **Field Notes** — short technician sidebar/callout with a real install anecdote from this neighborhood | spec needs confirmation |
 | 22 | **Author / Person schema** — `Person` schema for Anwar with credentials, license # | spec needs confirmation |
-| 23 | **Freshness stamp** — visible "Updated [Month YYYY]" + `dateModified` in schema | confirmed |
+| 23 | **Freshness stamp** — visible "Last updated [Month D, YYYY]" + the same date as `dateModified` in schema, refreshed whenever the page changes (see §15.3) | confirmed (updated Nov 19 2026) |
 | 24 | **Comparison subsections** — "[Service] vs [Alternative]" comparison table inside §10 | spec needs confirmation |
 | 25 | **Embedded YouTube short** — silent autoplay neighborhood install short, 30-60s | spec needs confirmation (URL source TBD) |
 | 26 | **Schema stack** — `Service` + `AggregateRating` + `HowTo` JSON-LD blocks alongside `FAQPage` | confirmed structure, ratings source TBD |
@@ -170,6 +171,7 @@ Audit fails any of these → page goes back to rebuild, not to deploy:
 - [ ] Page passes file-size cluster check (not within ±2KB of any sibling)
 - [ ] All v2.1 elements that apply to this page type are present
 - [ ] §12 checks pass: answer in first 100 words, keyword in title/slug/H1/first sentence, proof strip uses real numbers only, page links to its silo target page (§12.4)
+- [ ] §15 AI-search items pass (`tools/check_page.py` checks them): answer-first sentence with the price-page starting price, Service + BreadcrumbList schema, "Last updated" = `dateModified`, Open Graph + Twitter tags, no price below the price page
 
 **Publish gate (added Nov 9 2026, from the search & AI visibility audit — any hit = rejected):**
 
@@ -336,3 +338,60 @@ Every off-site piece follows this blueprint: Anwar's keyword list (§ keywords/<
 - **Linking, area stays in area:** each price page links up to the brand page for the same area (Brooklyn → Brooklyn, Queens → Queens). Each brand page links down to its price page, both in the content and from the sticky bar ("<Brand> prices"). tools/link_price_pages.py does this, and the page factory runs it every cycle. Until a brand's area page exists, the price page links to the brand hub, or to that area's security camera page.
 - **One price page per area, per brand.** Prices differ by area, so each borough/county has its own price page. Brand neighborhood pages (built later, the same as every other silo) link to their borough's price page. The Brooklyn price page covers every Brooklyn neighborhood, Queens covers Queens, and so on. The link script does this automatically.
 - **Partner brands get top billing:** Lorex, Luminys and Reolink (AESS is an authorized partner) get the official partner badge and "Authorized <Brand> partner" on their brand pages and price pages, using only badges/logos from the partner portal.
+
+---
+
+## 15. AI-search items — every new page and every rebuild (Anwar, Nov 19 2026)
+
+**Why:** the Nov 19 2026 audit found ChatGPT read 30+ of our Brooklyn pages but named us in only 2 of 25 answers, and Google AI Mode named us in 0 of 25. AI answers quote pages that state the answer plainly, carry clean structured data and show they're current. These items are required on every NEW page and on every REBUILD, on top of §4–§14. `tools/check_page.py` fails any page that misses one.
+
+### 15.1 Answer first
+- The **first sentence under the H1** (the hero subhead; a short tag line like "DVR · NVR · PoE" above it doesn't count) states the **service, the area and the starting price** from that area's price page.
+  - Example: *"Security camera installation in Canarsie starts at $950 for a 4-camera system."*
+  - Neighborhood pages name the neighborhood and use their borough's price page.
+  - Hub pages (NYC / Long Island / Hudson Valley) use the lowest starting price of their child areas.
+- Fire alarm pages (Hard Rule 13) state the service and area with no price.
+- This sentence is also the opening of the §12.1 quick answer. Don't restate the question.
+
+### 15.2 Schema: Service and BreadcrumbList
+Alongside the existing `LocalBusiness`, `FAQPage` and `VideoObject` (and the rest of the DAILY-RUN schema stack):
+- **`Service`**
+  - `provider` = the page's `LocalBusiness`, referenced by its `@id` (the GBP routing in §8: `#brooklyn` or `#bronx`).
+  - `areaServed` = the page's area (a `Place` named e.g. "Canarsie, Brooklyn, NY").
+  - `offers` = an `Offer` with `price` = the starting price from the area's price page and `priceCurrency` `USD`.
+  - Fire alarm pages leave out `offers` (Hard Rule 13).
+- **`BreadcrumbList`**: Home > hub > borough/county > page, positions 1, 2, 3…, every `item` an absolute www URL, the last one the canonical.
+  - Hub page: Home > hub.
+  - Borough/county page: Home > hub > page.
+  - Neighborhood page: Home > hub > borough/county page > page.
+  - The visible breadcrumb shows the same trail.
+
+```json
+{"@type": "Service", "name": "Security Camera Installation in Canarsie",
+ "serviceType": "Security Camera Installation",
+ "provider": {"@id": "https://www.abstractenterprisessecuritysystems.com/#brooklyn"},
+ "areaServed": {"@type": "Place", "name": "Canarsie, Brooklyn, NY"},
+ "offers": {"@type": "Offer", "price": "950", "priceCurrency": "USD",
+            "url": "https://www.abstractenterprisessecuritysystems.com/security-camera-pricing-brooklyn"}}
+```
+
+### 15.3 "Last updated" date
+- Visible on the page as **"Last updated Month D, YYYY"** (e.g. "Last updated November 19, 2026"), near the top of the body or under the hero.
+- The same date is `dateModified` in schema (ISO `2026-11-19`). Every `dateModified` on the page carries that one date.
+- **Refresh both whenever the page changes**: content, price, photos or schema. The checker fails a changed page whose date isn't today's.
+
+### 15.4 Open Graph and Twitter tags
+One of each in `<head>`:
+- `og:title`, `og:description`, `og:url` (= the canonical), `og:image` (the hero job photo used on the page, absolute www URL), `og:type` = `website`.
+- `twitter:card` = `summary_large_image`, `twitter:title`, `twitter:description`, `twitter:image` (same photo as `og:image`).
+- Titles and descriptions say "Abstract Enterprises Security Systems", never "AESS" (Hard Rule 12).
+
+### 15.5 Prices match the price page
+- Every price on a page comes from that area's price page (`security-camera-pricing-<area>` for security camera and CCTV pages). **Never hard-code a different number.** When the price page changes, every page for that area changes with it.
+- No "from $X" or "starts at $X" anywhere on the page, title, meta or social tags that is lower than the price page's starting price.
+- A service with no price page has no starting price until Anwar sets one. Ask him, then add it to `START_PRICES` in `tools/check_page.py` (or map the service's price page in `PRICE_PAGES`). Never publish a price he hasn't set.
+
+### 15.6 Checker
+- `python3 tools/check_page.py <slug>` runs all of §15 by default.
+- `--legacy` skips §15. Use it **only** for small edits (title, meta, a link) to a page that hasn't been rebuilt yet, such as the daily GSC keyword task. Never use it for a new page or a rebuild.
+

@@ -2,7 +2,7 @@
 """Mechanical post-build check for one service x area page.
 
 Usage:
-    python tools/check_page.py <slug | page.html> [--root DIR] [--no-registration] [--stats]
+    python tools/check_page.py <slug | page.html> [--root DIR] [--no-registration] [--stats] [--legacy]
 
 Prints PASS, or FAIL followed by one line per failure. Exit code 0 = PASS, 1 = FAIL.
 
@@ -116,6 +116,9 @@ class Page(HTMLParser):
         self._capture = []              # [kind, depth, parts]
         self.faq_q, self.faq_a, self.headings = [], [], []
         self._in_title = False
+        self.metas = {}                 # og:* / twitter:* / other named metas -> [contents]
+        self._seen_h1 = False
+        self.p_after_h1 = []            # first visible <p> texts after the H1 (answer-first check)
 
     def _hidden(self):
         return any(h for _, h in self.stack)
@@ -129,6 +132,8 @@ class Page(HTMLParser):
             self._in_title = True
         elif tag == "meta" and a.get("name", "").lower() == "description":
             self.meta_description = a.get("content", "")
+        if tag == "meta" and (a.get("property") or a.get("name")):
+            self.metas.setdefault((a.get("property") or a.get("name")).lower(), []).append(a.get("content", ""))
         elif tag == "link" and a.get("rel", "").lower() == "canonical":
             self.canonicals.append(a.get("href", ""))
         elif tag == "h1":
@@ -157,7 +162,9 @@ class Page(HTMLParser):
                 self.cache_versions.append(m.group(1))
 
         kind = ("faq_q" if "faq-question" in cls else "faq_a" if "faq-answer" in cls
-                else "heading" if tag in ("h2", "h3", "summary") else None)
+                else "heading" if tag in ("h2", "h3", "summary")
+                else "p_after" if tag == "p" and self._seen_h1 and len(self.p_after_h1) < 6 and not self._hidden()
+                else None)
         if kind and tag not in VOID:
             self._capture.append([kind, tag, 1, []])
         elif tag not in VOID:
@@ -177,6 +184,8 @@ class Page(HTMLParser):
             self.closes[tag] += 1
         if tag == "title":
             self._in_title = False
+        elif tag == "h1":
+            self._seen_h1 = True
         elif tag == "form":
             self._form = None
         elif tag == "figure":
@@ -191,7 +200,8 @@ class Page(HTMLParser):
                 if c[2] == 0:
                     self._capture.remove(c)
                     value = norm_space("".join(c[3]))
-                    {"faq_q": self.faq_q, "faq_a": self.faq_a, "heading": self.headings}[c[0]].append(value)
+                    {"faq_q": self.faq_q, "faq_a": self.faq_a, "heading": self.headings,
+                     "p_after": self.p_after_h1}[c[0]].append(value)
 
         if any(t == tag for t, _ in self.stack):
             while self.stack:
@@ -404,7 +414,243 @@ def resolves(root, href):
 
 # ------------------------------------------------------------------ checks
 
-def check(root, slug, registration=True, stats=False):
+# ------------------------------------------------------------------ AI-search items (Anwar, Nov 19 2026)
+# From the Nov 19 2026 audit: ChatGPT read 30+ Brooklyn pages but named us in 2 of 25 answers,
+# Google AI Mode in 0 of 25. Every NEW page and every REBUILD must carry: answer-first sentence
+# with the area's starting price, Service (provider/areaServed/offers) + BreadcrumbList schema,
+# a visible "Last updated" date = schema dateModified, and Open Graph + Twitter tags.
+# Prices come ONLY from the area's price page (or a price Anwar set in START_PRICES).
+
+NO_PRICE_SILOS = ("fire-alarm",)      # BLUEPRINT Hard Rule 13: no prices, no price schema
+# silo -> price-page prefix; the page is <prefix>-<area>.html and its starting price is the lowest
+# "price" in its MODELS list. Hub pages start at the lowest price of their child areas.
+PRICE_PAGES = {
+    "security-camera-installation": "security-camera-pricing",
+    "cctv-installation": "security-camera-pricing",       # DAILY-RUN: same prices as the camera pages
+}
+# Services with no price page: {silo: {area: starting price}} - ONLY numbers Anwar has set.
+START_PRICES = {}
+TZ_NAME = "America/New_York"
+
+
+def _models_min(path):
+    try:
+        raw = open(path, encoding="utf-8").read()
+    except OSError:
+        return None
+    m = re.search(r"var\s+MODELS\s*=\s*(\[.*?\]);", raw, re.S)
+    if not m:
+        return None
+    try:
+        prices = [x.get("price") for x in json.loads(m.group(1)) if isinstance(x, dict)]
+    except ValueError:
+        return None
+    prices = [int(p) for p in prices if isinstance(p, (int, float)) and p > 0]
+    return min(prices) if prices else None
+
+
+def start_price(root, silo, area):
+    """(price, source) or (None, reason). Never guesses a number."""
+    if silo in START_PRICES and area in START_PRICES[silo]:
+        return int(START_PRICES[silo][area]), "START_PRICES (set by Anwar)"
+    prefix = PRICE_PAGES.get(silo)
+    if not prefix:
+        return None, (f"no price page is mapped for silo '{silo}' - get the starting price from Anwar "
+                      f"and add it to START_PRICES (or map its price page in PRICE_PAGES)")
+    if AREAS[area][1] == "hub":
+        kids = [(a, _models_min(os.path.join(root, f"{prefix}-{a}.html")))
+                for a, v in AREAS.items() if v[2] == area]
+        vals = [v for _, v in kids if v]
+        if not vals:
+            return None, f"no readable child price pages for hub {prefix}-{area}"
+        return min(vals), f"lowest of the {area} area price pages ({prefix}-*)"
+    v = _models_min(os.path.join(root, f"{prefix}-{area}.html"))
+    if v is None:
+        return None, f"can't read a starting price from {prefix}-{area}.html (no MODELS list)"
+    return v, f"/{prefix}-{area}"
+
+
+def money(n):
+    return f"${n:,}"
+
+
+def _texts(v):
+    if isinstance(v, str):
+        return [v]
+    if isinstance(v, dict):
+        return [x for k in ("name", "@id", "address") for x in _texts(v.get(k, ""))]
+    if isinstance(v, list):
+        return [x for i in v for x in _texts(i)]
+    return []
+
+
+def _is_modified(root, path):
+    import subprocess
+    rel = os.path.relpath(path, root)
+    try:
+        tracked = subprocess.run(["git", "-C", root, "ls-files", "--error-unmatch", rel],
+                                 capture_output=True).returncode == 0
+        if not tracked:
+            return True
+        return subprocess.run(["git", "-C", root, "diff", "--quiet", "HEAD", "--", rel],
+                              capture_output=True).returncode != 0
+    except OSError:
+        return False
+
+
+def check_ai_search(root, slug, silo, area, kind, page, nodes, local, text, path, fail):
+    import datetime
+    try:
+        from zoneinfo import ZoneInfo
+        today = datetime.datetime.now(ZoneInfo(TZ_NAME)).date()
+    except Exception:
+        today = datetime.date.today()
+    aliases = AREAS[area][0]
+    if is_neighbourhood(slug) and slug.startswith(silo + "-"):
+        # neighbourhood pages name the neighbourhood (Canarsie), the borough name also counts
+        nb = re.sub(r"-(%s)-ny$" % "|".join(BOROUGHS), "", slug[len(silo) + 1:]).replace("-", " ")
+        aliases = tuple(aliases) + (nb,)
+    canonical = f"{DOMAIN}/{slug}"
+    priced = not silo.startswith(NO_PRICE_SILOS)
+    price, source = start_price(root, silo, area) if priced else (None, "")
+    if priced and price is None:
+        fail(f"starting price unknown: {source}")
+    service_words = silo.replace("-", " ").lower()
+
+    # 1. answer first: first sentence under the H1 = service + area + starting price
+    # the hero kicker/tag line ("DVR · NVR · PoE") is not a sentence - skip it
+    paras = [p for p in page.p_after_h1 if len(p.split()) >= 8 and "·" not in p and re.search(r"[.!?]", p)]
+    if not paras:
+        fail("answer-first: no sentence under the H1 (hero subhead) to check")
+    else:
+        first = re.split(r"(?<=[.!?])\s+", paras[0], maxsplit=1)[0]
+        low = first.lower()
+        if service_words not in low:
+            fail(f"answer-first: first sentence under the H1 doesn't name the service ({service_words!r}): {first[:110]!r}")
+        if not any(a.lower() in low for a in aliases):
+            fail(f"answer-first: first sentence under the H1 doesn't name the area ({'/'.join(aliases)}): {first[:110]!r}")
+        if priced and price:
+            amounts = [int(x.replace(",", "")) for x in re.findall(r"\$(\d[\d,]*)", first)]
+            if price not in amounts:
+                fail(f"answer-first: first sentence must give the starting price {money(price)} from {source}: {first[:110]!r}")
+
+    # 2. Service schema: provider = LocalBusiness, areaServed = this area, offers = starting price
+    services = [n for n in nodes if "Service" in types_of(n)]
+    local_ids = {str(n.get("@id")) for n in local if n.get("@id")}
+    if services:
+        sv = services[0]
+        prov = sv.get("provider")
+        provs = prov if isinstance(prov, list) else [prov]
+        if not any(isinstance(p, dict) and (str(p.get("@id")) in local_ids or types_of(p) & {
+                "LocalBusiness", "HomeAndConstructionBusiness", "Electrician", "ProfessionalService"}) for p in provs):
+            fail("Service schema: provider must be the page's LocalBusiness (its @id or a LocalBusiness node)")
+        if not any(a.lower() in " ".join(_texts(sv.get("areaServed"))).lower() for a in aliases):
+            fail(f"Service schema: areaServed must name the page's area ({'/'.join(aliases)})")
+        offers = sv.get("offers")
+        offers = offers if isinstance(offers, list) else [offers] if isinstance(offers, dict) else []
+        if priced:
+            got = []
+            for o in offers:
+                for key in ("price", "lowPrice"):
+                    try:
+                        got.append(int(float(str(o.get(key)).replace(",", ""))))
+                    except (TypeError, ValueError):
+                        pass
+                spec = o.get("priceSpecification")
+                if isinstance(spec, dict):
+                    try:
+                        got.append(int(float(str(spec.get("price")))))
+                    except (TypeError, ValueError):
+                        pass
+            if not offers:
+                fail("Service schema: no offers (Offer with the area's starting price)")
+            elif price and price not in got:
+                fail(f"Service schema: offers price {got or 'missing'} must be the starting price {money(price)} from {source}")
+            elif not any(str(o.get("priceCurrency", (o.get("priceSpecification") or {}).get("priceCurrency", ""))) == "USD"
+                         for o in offers if isinstance(o, dict)):
+                fail("Service schema: offers needs priceCurrency USD")
+        elif any("price" in json.dumps(o) for o in offers):
+            fail("Service schema: offers carries a price on a no-price (fire alarm) page - Hard Rule 13")
+
+    # 3. BreadcrumbList: Home > hub > borough/county > page
+    crumbs = [n for n in nodes if "BreadcrumbList" in types_of(n)]
+    if crumbs:
+        items = [i for i in crumbs[0].get("itemListElement") or [] if isinstance(i, dict)]
+        items.sort(key=lambda i: int(i.get("position") or 0))
+        if [int(i.get("position") or 0) for i in items] != list(range(1, len(items) + 1)):
+            fail("BreadcrumbList: positions must run 1, 2, 3 ... with no gaps")
+        urls = []
+        for i in items:
+            it = i.get("item")
+            urls.append((it.get("@id") if isinstance(it, dict) else it) or "")
+        want = [f"{DOMAIN}/"]
+        if kind == "child" or is_neighbourhood(slug):
+            want.append(f"{DOMAIN}/{area_slug(silo, AREAS[area][2] or area, root)}")
+        if is_neighbourhood(slug):
+            want.append(f"{DOMAIN}/{area_slug(silo, area, root)}")
+        want.append(canonical)
+        if urls != want:
+            fail(f"BreadcrumbList must be {' > '.join(w.replace(DOMAIN, '') or '/' for w in want)} "
+                 f"(found {' > '.join(u.replace(DOMAIN, '') or '/' for u in urls) or 'nothing'})")
+
+    # 4. visible "Last updated" date = schema dateModified, refreshed when the page changes
+    m = re.search(r"Last updated:?\s+([A-Z][a-z]+ \d{1,2}, \d{4})", text)
+    shown = None
+    if not m:
+        fail('no visible "Last updated <Month D, YYYY>" date')
+    else:
+        try:
+            shown = datetime.datetime.strptime(m.group(1), "%B %d, %Y").date()
+        except ValueError:
+            fail(f'"Last updated" date is not a real date: {m.group(1)!r}')
+    mods = sorted({str(n["dateModified"])[:10] for n in nodes if n.get("dateModified")})
+    if not mods:
+        fail("no dateModified in schema")
+    elif len(mods) > 1:
+        fail(f"schema dateModified values disagree: {', '.join(mods)}")
+    elif shown and mods[0] != shown.isoformat():
+        fail(f'visible "Last updated" {shown.isoformat()} != schema dateModified {mods[0]}')
+    if mods and len(mods) == 1:
+        if mods[0] > today.isoformat():
+            fail(f"dateModified {mods[0]} is in the future")
+        elif _is_modified(root, path) and mods[0] != today.isoformat():
+            fail(f"page changed but dateModified is {mods[0]} - refresh it and the visible date to {today.isoformat()}")
+
+    # 5. Open Graph + Twitter
+    meta = {k: v for k, v in page.metas.items()}
+    for k in ("og:title", "og:description", "og:url", "og:image", "og:type",
+              "twitter:card", "twitter:title", "twitter:description", "twitter:image"):
+        vals = [v for v in meta.get(k, []) if v.strip()]
+        if not vals:
+            fail(f"missing <meta> {k}")
+        elif len(meta.get(k, [])) > 1:
+            fail(f"{len(meta[k])} <meta> {k} tags (exactly one)")
+    if meta.get("og:url") and meta["og:url"][0] != canonical:
+        fail(f"og:url {meta['og:url'][0]} != canonical {canonical}")
+    if meta.get("og:type") and meta["og:type"][0] != "website":
+        fail(f"og:type is {meta['og:type'][0]!r} (required 'website')")
+    page_imgs = {local_path(i["src"]) or i["src"] for i in page.images}
+    for k in ("og:image", "twitter:image"):
+        if meta.get(k):
+            u = meta[k][0]
+            lp = local_path(u) if not u.startswith(DOMAIN) else u[len(DOMAIN):]
+            if not lp or not resolves(root, lp):
+                fail(f"{k} doesn't resolve to an image file in the repo: {u}")
+            elif lp not in page_imgs:
+                fail(f"{k} must be the hero job photo used on the page (not found among page images): {u}")
+
+    # 6. prices match the price page: no "from / starts at $X" below the area's starting price
+    if priced and price:
+        blobs = [text, page.title, page.meta_description or ""] + [v for k in (
+            "og:title", "og:description", "twitter:title", "twitter:description") for v in meta.get(k, [])]
+        for b in blobs:
+            for x in re.findall(r"(?i)(?:\bstart(?:s|ing)?(?:\s+at)?|\bfrom)\s+(?:just\s+|only\s+)?\$(\d[\d,]*)", b):
+                n = int(x.replace(",", ""))
+                if n < price:
+                    fail(f"price {money(n)} is below the starting price {money(price)} on {source} - prices must match the price page")
+
+
+def check(root, slug, registration=True, stats=False, ai_search=True):
     fails = []
     fail = fails.append
     path = os.path.join(root, slug + ".html")
@@ -560,6 +806,10 @@ def check(root, slug, registration=True, stats=False):
             elif norm_space(va) != sa:
                 fail(f"FAQ answer differs from schema for: {vq[:70]!r}")
 
+    # --- AI-search items (Nov 19 2026): answer first, Service/Breadcrumb detail, Last updated, OG/Twitter, prices
+    if ai_search:
+        check_ai_search(root, slug, silo, area, kind, page, nodes, local, text, path, fail)
+
     # --- images
     figs = [imgs[0] for imgs in page.figures if imgs]
     if len(figs) != FIGURES:
@@ -682,10 +932,13 @@ def main():
     ap.add_argument("--no-registration", action="store_true",
                     help="skip sitemap / _redirects / parent-hub checks (for drafts)")
     ap.add_argument("--stats", action="store_true", help="also print what was measured")
+    ap.add_argument("--legacy", action="store_true",
+                    help="skip the Nov 19 2026 AI-search checks - ONLY for small edits (title/meta/link tweaks) to a "
+                         "page not yet rebuilt; never for a new page or a rebuild")
     args = ap.parse_args()
     slug = os.path.basename(args.page)
     slug = slug[:-5] if slug.endswith(".html") else slug
-    fails, info = check(args.root, slug, registration=not args.no_registration)
+    fails, info = check(args.root, slug, registration=not args.no_registration, ai_search=not args.legacy)
     if args.stats and info:
         for k, v in info.items():
             print(f"  {k}: {v}")
