@@ -4,3 +4,4 @@ Date | Page | Post URL | Site page
 #   Fix: reconnect HubSpot in Claude and tick the blog permissions. Draft for access-control-installation-hudson-valley saved in seo/hubspot-drafts/ (angle not yet used live).
 # 2026-11-17: NOT PUBLISHED. HubSpot connector still lacks cms.blogs.settings.read / blog-posts-write / publish. Reconnect HubSpot with blog permissions.
 # 2026-11-18: NOT PUBLISHED. HubSpot connector still missing cms.blogs.settings.read (and blog-posts-write / publish). Reconnect HubSpot and tick the blog permissions.
+# 2026-11-19: NOT PUBLISHED. HubSpot connector still missing cms.blogs.settings.read (and blog-posts-write / publish). Reconnect HubSpot with the blog permissions ticked.
