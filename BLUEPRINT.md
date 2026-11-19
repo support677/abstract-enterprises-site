@@ -392,6 +392,11 @@ One of each in `<head>`:
 - No "from $X" or "starts at $X" anywhere on the page, title, meta or social tags that is lower than the price page's starting price.
 - A service with no price page has no starting price until Anwar sets one. Ask him, then add it to `START_PRICES` in `tools/check_page.py` (or map the service's price page in `PRICE_PAGES`). Never publish a price he hasn't set.
 
+### 15.5a Bundles out, add-ons stay (Anwar, Nov 19 2026)
+- Remove only the **bundled packages** (the 6/8/12/16-camera package rows and cards). Nothing else.
+- **Keep** add-ons and extras: PTZ cameras, LPR / plate-reader cameras, UPS backup, LTE/cellular failover, service-call prices, and every FAQ. "If somebody wants to add a PTZ or a plate reader, why not?"
+- If a package-only FAQ mentions a package, reword the one sentence; never delete the FAQ.
+
 ### 15.6 Checker
 - `python3 tools/check_page.py <slug>` runs all of §15 by default.
 - `--legacy` skips §15. Use it **only** for small edits (title, meta, a link) to a page that hasn't been rebuilt yet, such as the daily GSC keyword task. Never use it for a new page or a rebuild.
