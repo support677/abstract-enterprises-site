@@ -388,6 +388,7 @@ One of each in `<head>`:
 
 ### 15.5 Prices match the price page
 - Every price on a page comes from that area's price page (`security-camera-pricing-<area>` for security camera and CCTV pages). **Never hard-code a different number.** When the price page changes, every page for that area changes with it.
+- **Set starting prices (Anwar, Nov 19 2026):** Brooklyn security camera / CCTV starts at **$950** (the Brooklyn price page still shows $850 until the A Series decision, so the checker uses $950 via `PRICE_PAGE_OVERRIDES`). Ulster starts at **$1,299**, as its price page says.
 - No "from $X" or "starts at $X" anywhere on the page, title, meta or social tags that is lower than the price page's starting price.
 - A service with no price page has no starting price until Anwar sets one. Ask him, then add it to `START_PRICES` in `tools/check_page.py` (or map the service's price page in `PRICE_PAGES`). Never publish a price he hasn't set.
 

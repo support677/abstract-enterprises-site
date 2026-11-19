@@ -430,10 +430,17 @@ PRICE_PAGES = {
 }
 # Services with no price page: {silo: {area: starting price}} - ONLY numbers Anwar has set.
 START_PRICES = {}
+# Starting prices Anwar set that the price page doesn't show yet. They win over the price page.
+#   Brooklyn $950 (Anwar, Nov 19 2026). security-camera-pricing-brooklyn.html still starts at $850
+#   (A Series) until he decides on the A Series. Remove this line once that page starts at $950.
+PRICE_PAGE_OVERRIDES = {"security-camera-pricing-brooklyn": 950}
 TZ_NAME = "America/New_York"
 
 
 def _models_min(path):
+    key = os.path.basename(path)[:-5] if path.endswith(".html") else path
+    if key in PRICE_PAGE_OVERRIDES:
+        return PRICE_PAGE_OVERRIDES[key]
     try:
         raw = open(path, encoding="utf-8").read()
     except OSError:
