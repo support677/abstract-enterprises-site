@@ -108,6 +108,7 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-18 evening (scheduled, 01:53 UTC Nov 19, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2760 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-19T01:52:25Z, 3027 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2108 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected video-wall-installation-ulster-county (URL is not on Google; Crawled - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at video-wall-installation-ulster-county.
 
 2026-11-19 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 10 requested, 7 indexed (warehouse-camera dutchess/manhattan/nassau/queens; wireless-camera hudson valley; access-control bensonhurst/boerum hill), 0 failed, 2742 queued. Requested URLs were Crawled - currently not indexed or URL is unknown to Google. The Chrome connection dropped mid-batch on access-control bay ridge and bedford park; their Request-indexing clicks ran but the confirmation was not captured (counted as requested, since Google's quota ran out after 10). "Quota Exceeded" on the 11th request (access-control-installation-cobble-hill-brooklyn-ny, URL is unknown to Google), which stays QUEUED; next run starts there.
+2026-11-19 evening (scheduled, 01:53 UTC Nov 20, Claude in Chrome, account /u/1): 0 requested, 1 indexed (access-control cobble hill, URL is on Google), 0 failed, 2746 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-20T01:53:27Z, 3027 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2091 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected access-control-installation-country-club-bronx-ny (URL is not on Google; Crawled - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 10 requests this morning used the daily allowance. Next run starts at access-control-installation-country-club-bronx-ny.
 
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
@@ -632,7 +633,7 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-brighton-beach-brooklyn-ny | REQUESTED 2026-11-19
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-city-line-brooklyn-ny | REQUESTED 2026-11-19
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-clason-point-bronx-ny | REQUESTED 2026-11-19
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-cobble-hill-brooklyn-ny | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-cobble-hill-brooklyn-ny | INDEXED 2026-11-19
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-country-club-bronx-ny | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-dumbo-brooklyn-ny | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-eastchester-bronx-ny | QUEUED
