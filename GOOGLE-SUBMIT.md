@@ -110,6 +110,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-19 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 10 requested, 7 indexed (warehouse-camera dutchess/manhattan/nassau/queens; wireless-camera hudson valley; access-control bensonhurst/boerum hill), 0 failed, 2742 queued. Requested URLs were Crawled - currently not indexed or URL is unknown to Google. The Chrome connection dropped mid-batch on access-control bay ridge and bedford park; their Request-indexing clicks ran but the confirmation was not captured (counted as requested, since Google's quota ran out after 10). "Quota Exceeded" on the 11th request (access-control-installation-cobble-hill-brooklyn-ny, URL is unknown to Google), which stays QUEUED; next run starts there.
 2026-11-19 evening (scheduled, 01:53 UTC Nov 20, Claude in Chrome, account /u/1): 0 requested, 1 indexed (access-control cobble hill, URL is on Google), 0 failed, 2746 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-20T01:53:27Z, 3027 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2091 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected access-control-installation-country-club-bronx-ny (URL is not on Google; Crawled - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 10 requests this morning used the daily allowance. Next run starts at access-control-installation-country-club-bronx-ny.
 
+2026-11-20 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 2 indexed (access-control dumbo, fieldston; URL is on Google), 0 failed, 2733 queued. Requested URLs were Crawled/Discovered - currently not indexed. Inspection hung on "Retrieving data from Google Index" twice and laconia's first Request-indexing click closed the live-test dialog with no result; reloading the Search Console page and retrying fixed both. "Quota Exceeded" on the 12th request (access-control-installation-morris-park-bronx-ny, Crawled - currently not indexed), which stays QUEUED; next run starts there.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-11-15 (Anwar): CCTV INSTALLATION HUBS GO FIRST — above every other line in this file. Big gap: 256 CCTV searches, 15,522 impressions, 4 clicks, no CCTV page. The builder adds each cctv-installation-* hub here as QUEUED the moment it ships; the morning Request-indexing run requests these before anything else. Only request a URL that returns 200. -->
@@ -634,19 +636,19 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-city-line-brooklyn-ny | REQUESTED 2026-11-19
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-clason-point-bronx-ny | REQUESTED 2026-11-19
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-cobble-hill-brooklyn-ny | INDEXED 2026-11-19
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-country-club-bronx-ny | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-dumbo-brooklyn-ny | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-eastchester-bronx-ny | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-edenwald-bronx-ny | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-fieldston-bronx-ny | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-fulton-ferry-brooklyn-ny | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-gowanus-brooklyn-ny | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-harding-park-bronx-ny | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-indian-village-bronx-ny | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-laconia-bronx-ny | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-marine-park-brooklyn-ny | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-melrose-bronx-ny | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-morris-heights-bronx-ny | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-country-club-bronx-ny | REQUESTED 2026-11-20
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-dumbo-brooklyn-ny | INDEXED 2026-11-20
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-eastchester-bronx-ny | REQUESTED 2026-11-20
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-edenwald-bronx-ny | REQUESTED 2026-11-20
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-fieldston-bronx-ny | INDEXED 2026-11-20
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-fulton-ferry-brooklyn-ny | REQUESTED 2026-11-20
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-gowanus-brooklyn-ny | REQUESTED 2026-11-20
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-harding-park-bronx-ny | REQUESTED 2026-11-20
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-indian-village-bronx-ny | REQUESTED 2026-11-20
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-laconia-bronx-ny | REQUESTED 2026-11-20
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-marine-park-brooklyn-ny | REQUESTED 2026-11-20
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-melrose-bronx-ny | REQUESTED 2026-11-20
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-morris-heights-bronx-ny | REQUESTED 2026-11-20
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-morris-park-bronx-ny | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-new-utrecht-brooklyn-ny | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-olinville-bronx-ny | QUEUED
