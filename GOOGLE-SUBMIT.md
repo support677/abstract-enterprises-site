@@ -3707,3 +3707,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-19 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-ridgewood-brooklyn-ny | QUEUED
 2026-11-19 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-schuylerville-bronx-ny | QUEUED
 2026-11-19 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-sea-gate-brooklyn-ny | QUEUED
+2026-11-20 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-silver-beach-bronx-ny | QUEUED
+2026-11-20 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-soundview-bronx-ny | QUEUED
+2026-11-20 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-south-slope-brooklyn-ny | QUEUED
+2026-11-20 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-south-williamsburg-brooklyn-ny | QUEUED
+2026-11-20 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-spuyten-duyvil-bronx-ny | QUEUED

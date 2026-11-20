@@ -573,11 +573,11 @@ LIVE | fire-alarm-installation-prospect-park-south-brooklyn-ny | Fire Alarm Inst
 LIVE | fire-alarm-installation-ridgewood-brooklyn-ny | Fire Alarm Installation | Ridgewood, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-schuylerville-bronx-ny | Fire Alarm Installation | Schuylerville, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-sea-gate-brooklyn-ny | Fire Alarm Installation | Sea Gate, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-20T18:17Z max-daily | fire-alarm-installation-silver-beach-bronx-ny | Fire Alarm Installation | Silver Beach, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-20T18:17Z max-daily | fire-alarm-installation-soundview-bronx-ny | Fire Alarm Installation | Soundview, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-20T18:17Z max-daily | fire-alarm-installation-south-slope-brooklyn-ny | Fire Alarm Installation | South Slope, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-20T18:17Z max-daily | fire-alarm-installation-south-williamsburg-brooklyn-ny | Fire Alarm Installation | South Williamsburg, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-20T18:17Z max-daily | fire-alarm-installation-spuyten-duyvil-bronx-ny | Fire Alarm Installation | Spuyten Duyvil, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-silver-beach-bronx-ny | Fire Alarm Installation | Silver Beach, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-soundview-bronx-ny | Fire Alarm Installation | Soundview, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-south-slope-brooklyn-ny | Fire Alarm Installation | South Slope, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | fire-alarm-installation-south-williamsburg-brooklyn-ny | Fire Alarm Installation | South Williamsburg, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | fire-alarm-installation-spuyten-duyvil-bronx-ny | Fire Alarm Installation | Spuyten Duyvil, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-starrett-city-brooklyn-ny | Fire Alarm Installation | Starrett City, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-stuyvesant-heights-brooklyn-ny | Fire Alarm Installation | Stuyvesant Heights, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-the-hub-bronx-ny | Fire Alarm Installation | The Hub, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
