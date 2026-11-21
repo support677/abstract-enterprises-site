@@ -3715,3 +3715,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-20 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-south-slope-brooklyn-ny | QUEUED
 2026-11-20 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-south-williamsburg-brooklyn-ny | QUEUED
 2026-11-20 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-spuyten-duyvil-bronx-ny | QUEUED
+2026-11-21 | https://www.abstractenterprisessecuritysystems.com/security-cameras-nyc | QUEUED
+2026-11-21 | https://www.abstractenterprisessecuritysystems.com/security-cameras-long-island | QUEUED
+2026-11-21 | https://www.abstractenterprisessecuritysystems.com/security-cameras-hudson-valley | QUEUED
+2026-11-21 | https://www.abstractenterprisessecuritysystems.com/security-cameras-manhattan | QUEUED
+2026-11-21 | https://www.abstractenterprisessecuritysystems.com/security-cameras-brooklyn | QUEUED
