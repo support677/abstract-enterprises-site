@@ -1241,50 +1241,130 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
                                  ]
 }</script>
 <script type="application/ld+json">{
-                                 "@context": "https://schema.org",
-                                 "@type": "FAQPage",
-                                 "mainEntity": [
-                                                                  {
-                                                                                                   "@type": "Question",
-                                                                                                   "name": "Do you also work in Carroll Gardens, Park Slope’s Fourth Avenue blocks, Boerum Hill and Red Hook?",
-                                                                                                   "acceptedAnswer": {
-                                                                                                                                    "@type": "Answer",
-                                                                                                                                    "text": "We do. The canal sits near the middle of the area our Troy Avenue crews cover, so a job on Smith Street, Fifth Avenue, Atlantic Avenue or Van Brunt Street is as routine for us as one on Bond Street, and it is priced from the same Brooklyn table."
-                                                                                                   }
-                                                                  },
-                                                                  {
-                                                                                                   "@type": "Question",
-                                                                                                   "name": "Does fiber work inside a building beside the Superfund canal need any sign-off from the EPA or the state?",
-                                                                                                   "acceptedAnswer": {
-                                                                                                                                    "@type": "Answer",
-                                                                                                                                    "text": "Ordinary cabling inside a building does not need EPA approval; the canal cleanup covers the waterway and its sediments. What can need sign-off is work that disturbs a remediated site, such as cutting a slab over a vapour barrier or digging a capped yard, which goes through the owner and its environmental consultant under the site’s cleanup plan."
-                                                                                                   }
-                                                                  },
-                                                                  {
-                                                                                                   "@type": "Question",
-                                                                                                   "name": "Our shop ceiling is packed with fume-extraction ducts — where does the fiber go?",
-                                                                                                   "acceptedAnswer": {
-                                                                                                                                    "@type": "Answer",
-                                                                                                                                    "text": "Along the walls or on its own support below or beside the ducts, never strapped to them. Exhaust ducts get cleaned, rebalanced and replaced, and some run hot. We route fiber in raceway or J-hooks fixed to the structure, keep clear of access panels and fans, and leave any switch outside the dirtiest air."
-                                                                                                   }
-                                                                  },
-                                                                  {
-                                                                                                   "@type": "Question",
-                                                                                                   "name": "Our affordable building is HPD-assisted — does the city’s broadband guidance decide where the fiber enters?",
-                                                                                                   "acceptedAnswer": {
-                                                                                                                                    "@type": "Answer",
-                                                                                                                                    "text": "It shapes the system but not the exact room. HPD’s guidance describes fiber from the street vault to the basement and risers to each floor, with at least 100 Mbps per apartment at no extra cost to tenants. In a Gowanus floodplain we follow that pattern while keeping the switch and splices above the flood elevation, and we confirm the layout with the sponsor and HPD’s broadband team."
-                                                                                                   }
-                                                                  },
-                                                                  {
-                                                                                                   "@type": "Question",
-                                                                                                   "name": "Can a fiber link carry DMX lighting control or show control for a performance or event space?",
-                                                                                                   "acceptedAnswer": {
-                                                                                                                                    "@type": "Answer",
-                                                                                                                                    "text": "Yes, once the control signal is converted. DMX is usually sent over Ethernet or through fiber converters at each end, which keeps long runs between a control booth and a stage or rigging point free of electrical noise. We install and test the fiber; the lighting company configures the control equipment."
-                                                                                                   }
-                                                                  }
-                                 ]
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+                    {
+                              "@type": "Question",
+                              "name": "Do you also work in Carroll Gardens, Park Slope’s Fourth Avenue blocks, Boerum Hill and Red Hook?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "We do. The canal sits near the middle of the area our Troy Avenue crews cover, so a job on Smith Street, Fifth Avenue, Atlantic Avenue or Van Brunt Street is as routine for us as one on Bond Street, and it is priced from the same Brooklyn table."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "Does fiber work inside a building beside the Superfund canal need any sign-off from the EPA or the state?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Ordinary cabling inside a building does not need EPA approval; the canal cleanup covers the waterway and its sediments. What can need sign-off is work that disturbs a remediated site, such as cutting a slab over a vapour barrier or digging a capped yard, which goes through the owner and its environmental consultant under the site’s cleanup plan."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "Our shop ceiling is packed with fume-extraction ducts — where does the fiber go?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Along the walls or on its own support below or beside the ducts, never strapped to them. Exhaust ducts get cleaned, rebalanced and replaced, and some run hot. We route fiber in raceway or J-hooks fixed to the structure, keep clear of access panels and fans, and leave any switch outside the dirtiest air."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "Our affordable building is HPD-assisted — does the city’s broadband guidance decide where the fiber enters?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "It shapes the system but not the exact room. HPD’s guidance describes fiber from the street vault to the basement and risers to each floor, with at least 100 Mbps per apartment at no extra cost to tenants. In a Gowanus floodplain we follow that pattern while keeping the switch and splices above the flood elevation, and we confirm the layout with the sponsor and HPD’s broadband team."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "Can a fiber link carry DMX lighting control or show control for a performance or event space?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Yes, once the control signal is converted. DMX is usually sent over Ethernet or through fiber converters at each end, which keeps long runs between a control booth and a stage or rigging point free of electrical noise. We install and test the fiber; the lighting company configures the control equipment."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "What's the difference between LC and SC fiber connectors?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Size and the way they lock. SC is the larger square connector that pushes in and pulls out; LC has a ferrule half the size and a small latch like a phone jack. Both carry the same light. In Gowanus we still find SC on older patch panels and provider equipment, and LC on almost everything installed in the last ten years."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "Will the fiber you install in Gowanus plug straight into my switch's SFP port?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Yes, that's how we plan it. SFP and SFP+ modules almost always take a duplex LC connector, so we terminate or patch to LC at the equipment end. We confirm the module type before the job so the transceivers and the patch cords match."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "Our panel in Gowanus is SC but the new switch is LC. Do we need to re-terminate?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Usually not. An LC-to-SC patch cord connects the two without touching the run. We only re-terminate when the existing connectors are damaged, dirty beyond cleaning, or the wrong fiber type for the new equipment."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "APC or UPC: which fiber polish do I need?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Look at the color. Green connectors are APC (angled) and are common on provider and video fiber; blue are UPC and are standard on SFP modules and data equipment. Plugging APC into UPC directly causes heavy loss, so where the provider's fiber in the cellar or telecom room is APC and your switch is UPC, we use an APC-to-UPC patch cord."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "What should I check before buying fiber patch cords or SFPs?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Four things: the connector on each piece of equipment (LC, SC or something else), single-mode or multimode, APC or UPC polish, and the speed and wavelength of the SFPs, which must match at both ends. If you text a photo of the ports, we'll tell you exactly what your Gowanus setup needs."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "If we upgrade from 1 gig to 10 gig later, do we need new fiber?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Usually not. Single-mode fiber with LC ends carries 1G, 10G and faster; you swap the SFP modules at each end. Older multimode can limit distance at higher speeds, so when we install in Gowanus we recommend single-mode for anything that may be upgraded."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "We have ST connectors from an old install. Can you work with them?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Yes. ST, FC, LC, SC and MPO/MTP all show up in older buildings in Gowanus. We can keep the existing panel and patch across with hybrid cords, or re-terminate to LC if you're modernizing the closet."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "Is single-mode the same as single-strand?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "No. Single-mode describes the glass and how far it carries light; single-strand describes how many fibers the link uses. Most links run duplex, two strands, while BiDi modules let one strand do both directions. We spec whichever fits a run between floors, from the basement to a tenant space, or across the street to a second building."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "Do I need a media converter if my router doesn't have an SFP slot?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Yes. Without an SFP port, a fiber-to-Ethernet media converter at each end turns the light back into a normal network cable connection. It works fine; the link just runs at whatever speed the copper port supports. We quote the converters with the run so nothing is missing on install day in Gowanus."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "Can you move where the provider's fiber box is in Gowanus?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "We can't re-splice the provider's own fiber, but we can run a new line from their ONT to where you want your network, inside a closet, an office or a rack. That's a common job for us in buildings in Gowanus, and it keeps the provider's equipment untouched."
+                              }
+                    }
+          ]
 }</script>
 <script type="application/ld+json">{
                                  "@context": "https://schema.org",
@@ -2619,6 +2699,16 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <div class="fi"><div class="fh" onclick="tf(2)"><div class="fq faq-question">Our shop ceiling is packed with fume-extraction ducts — where does the fiber go?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>Along the walls or on its own support below or beside the ducts, never strapped to them. Exhaust ducts get cleaned, rebalanced and replaced, and some run hot. We route fiber in raceway or J-hooks fixed to the structure, keep clear of access panels and fans, and leave any switch outside the dirtiest air.</p></div></div>
 <div class="fi"><div class="fh" onclick="tf(3)"><div class="fq faq-question">Our affordable building is HPD-assisted — does the city’s broadband guidance decide where the fiber enters?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>It shapes the system but not the exact room. HPD’s guidance describes fiber from the street vault to the basement and risers to each floor, with at least 100 Mbps per apartment at no extra cost to tenants. In a Gowanus floodplain we follow that pattern while keeping the switch and splices above the flood elevation, and we confirm the layout with the sponsor and HPD’s broadband team.</p></div></div>
 <div class="fi"><div class="fh" onclick="tf(4)"><div class="fq faq-question">Can a fiber link carry DMX lighting control or show control for a performance or event space?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>Yes, once the control signal is converted. DMX is usually sent over Ethernet or through fiber converters at each end, which keeps long runs between a control booth and a stage or rigging point free of electrical noise. We install and test the fiber; the lighting company configures the control equipment.</p></div></div>
+<div class="fi" data-faq="connectors"><div class="fh" onclick="tf(5)"><div class="fq faq-question">What&#x27;s the difference between LC and SC fiber connectors?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>Size and the way they lock. SC is the larger square connector that pushes in and pulls out; LC has a ferrule half the size and a small latch like a phone jack. Both carry the same light. In Gowanus we still find SC on older patch panels and provider equipment, and LC on almost everything installed in the last ten years.</p></div></div>
+<div class="fi" data-faq="connectors"><div class="fh" onclick="tf(6)"><div class="fq faq-question">Will the fiber you install in Gowanus plug straight into my switch&#x27;s SFP port?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>Yes, that&#x27;s how we plan it. SFP and SFP+ modules almost always take a duplex LC connector, so we terminate or patch to LC at the equipment end. We confirm the module type before the job so the transceivers and the patch cords match.</p></div></div>
+<div class="fi" data-faq="connectors"><div class="fh" onclick="tf(7)"><div class="fq faq-question">Our panel in Gowanus is SC but the new switch is LC. Do we need to re-terminate?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>Usually not. An LC-to-SC patch cord connects the two without touching the run. We only re-terminate when the existing connectors are damaged, dirty beyond cleaning, or the wrong fiber type for the new equipment.</p></div></div>
+<div class="fi" data-faq="connectors"><div class="fh" onclick="tf(8)"><div class="fq faq-question">APC or UPC: which fiber polish do I need?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>Look at the color. Green connectors are APC (angled) and are common on provider and video fiber; blue are UPC and are standard on SFP modules and data equipment. Plugging APC into UPC directly causes heavy loss, so where the provider&#x27;s fiber in the cellar or telecom room is APC and your switch is UPC, we use an APC-to-UPC patch cord.</p></div></div>
+<div class="fi" data-faq="connectors"><div class="fh" onclick="tf(9)"><div class="fq faq-question">What should I check before buying fiber patch cords or SFPs?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>Four things: the connector on each piece of equipment (LC, SC or something else), single-mode or multimode, APC or UPC polish, and the speed and wavelength of the SFPs, which must match at both ends. If you text a photo of the ports, we&#x27;ll tell you exactly what your Gowanus setup needs.</p></div></div>
+<div class="fi" data-faq="connectors"><div class="fh" onclick="tf(10)"><div class="fq faq-question">If we upgrade from 1 gig to 10 gig later, do we need new fiber?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>Usually not. Single-mode fiber with LC ends carries 1G, 10G and faster; you swap the SFP modules at each end. Older multimode can limit distance at higher speeds, so when we install in Gowanus we recommend single-mode for anything that may be upgraded.</p></div></div>
+<div class="fi" data-faq="connectors"><div class="fh" onclick="tf(11)"><div class="fq faq-question">We have ST connectors from an old install. Can you work with them?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>Yes. ST, FC, LC, SC and MPO/MTP all show up in older buildings in Gowanus. We can keep the existing panel and patch across with hybrid cords, or re-terminate to LC if you&#x27;re modernizing the closet.</p></div></div>
+<div class="fi" data-faq="connectors"><div class="fh" onclick="tf(12)"><div class="fq faq-question">Is single-mode the same as single-strand?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>No. Single-mode describes the glass and how far it carries light; single-strand describes how many fibers the link uses. Most links run duplex, two strands, while BiDi modules let one strand do both directions. We spec whichever fits a run between floors, from the basement to a tenant space, or across the street to a second building.</p></div></div>
+<div class="fi" data-faq="connectors"><div class="fh" onclick="tf(13)"><div class="fq faq-question">Do I need a media converter if my router doesn&#x27;t have an SFP slot?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>Yes. Without an SFP port, a fiber-to-Ethernet media converter at each end turns the light back into a normal network cable connection. It works fine; the link just runs at whatever speed the copper port supports. We quote the converters with the run so nothing is missing on install day in Gowanus.</p></div></div>
+<div class="fi" data-faq="connectors"><div class="fh" onclick="tf(14)"><div class="fq faq-question">Can you move where the provider&#x27;s fiber box is in Gowanus?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>We can&#x27;t re-splice the provider&#x27;s own fiber, but we can run a new line from their ONT to where you want your network, inside a closet, an office or a rack. That&#x27;s a common job for us in buildings in Gowanus, and it keeps the provider&#x27;s equipment untouched.</p></div></div>
 </div>
 </div>
 <figure class="pg-fig rv" style="max-width:900px;margin-left:auto;margin-right:auto"><img src="/images/fiber-optic-installation/fiber-optic-installation-gowanus-end-face-pass-screen.webp" alt="Gowanus, Brooklyn fiber optic installation: connector inspection screen showing a clean fiber end face marked pass beside fiber cleaner" title="Connector end-face inspection pass screen, Gowanus Brooklyn fiber work" width="720" height="933" loading="lazy" decoding="async"><figcaption>Inspect, clean if needed, inspect again, then connect. A dirty end face causes more outages than a cut cable.</figcaption></figure>

@@ -946,86 +946,164 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
            }
 }
 </script>
-<script type="application/ld+json">
-{
-           "@context": "https://schema.org",
-           "@type": "FAQPage",
-           "mainEntity": [
-                      {
-                                 "@type": "Question",
-                                 "name": "Do you cover the North Shore, the South Shore and the incorporated villages in between?",
-                                 "acceptedAnswer": {
-                                            "@type": "Answer",
-                                            "text": "Yes. We work across all of Nassau County: the North Shore from Great Neck and Port Washington to Glen Cove and Oyster Bay, the central corridor from Lake Success through Garden City, Mineola and Hicksville to Bethpage, and the South Shore from Valley Stream and Rockville Centre to Long Beach and Massapequa. Villages, hamlets and the two cities are all covered, and we confirm local building-department rules for each address."
-                                 }
-                      },
-                      {
-                                 "@type": "Question",
-                                 "name": "Can our Wi-Fi access points run straight off the new fiber backbone?",
-                                 "acceptedAnswer": {
-                                            "@type": "Answer",
-                                            "text": "Not usually, and they don't need to. Ceiling access points draw their power and data over a copper Cat6 cable from a PoE switch, and that cable has to stay within 100 metres of the switch. The fiber's job is the step before: it joins the closet holding that switch to the main equipment room, so every access point on the floor shares a fast, interference-free uplink. If an access point has to sit farther than copper allows, we place a small switch near it and feed that switch with fiber."
-                                 }
-                      },
-                      {
-                                 "@type": "Question",
-                                 "name": "Can fiber be added to a finished office without opening the walls?",
-                                 "acceptedAnswer": {
-                                            "@type": "Answer",
-                                            "text": "Most of the time, yes. In a typical Nassau office the cable travels above the drop ceiling, down inside existing conduit or an empty wall cavity we can fish from above, or in a slim surface raceway painted to match the wall. We only cut drywall where no hidden route exists, and when we do the opening is small and patched. The walkthrough is where we find the route, and the proposal says plainly whether any wall has to be opened."
-                                 }
-                      },
-                      {
-                                 "@type": "Question",
-                                 "name": "What happens to our fiber when the landlord replaces the drop ceiling?",
-                                 "acceptedAnswer": {
-                                            "@type": "Answer",
-                                            "text": "Fiber supported on its own hooks or in innerduct, rather than lying on the tiles or tied to the old grid, usually survives a ceiling replacement untouched. Before the ceiling contractor starts, we can tag the route, photograph it and, if needed, temporarily support the cable while the grid is removed. After the new ceiling is in, we re-test the strands so you know nothing was damaged."
-                                 }
-                      },
-                      {
-                                 "@type": "Question",
-                                 "name": "Will you test fiber another company installed before we accept their work?",
-                                 "acceptedAnswer": {
-                                            "@type": "Answer",
-                                            "text": "Yes. Independent acceptance testing is a sensible step before you sign off on a fiber job. We inspect the connectors, measure loss on every strand and, on longer or single-mode runs, take OTDR traces, then compare the results with what the installer promised. Testing is billed at our published Nassau rates, and you receive the per-strand results whether the work passes or not."
-                                 }
-                      },
-                      {
-                                 "@type": "Question",
-                                 "name": "How much downtime should we plan for when the new backbone goes live?",
-                                 "acceptedAnswer": {
-                                            "@type": "Answer",
-                                            "text": "Very little, if the cutover is planned. We pull, splice and test the new fiber while your existing link keeps running, so the office works normally through installation. Going live is then a matter of moving uplinks and patch cords onto the new strands, which we schedule in a window you choose — often early morning or after closing — with the old link left in place until the new one has carried traffic successfully."
-                                 }
-                      },
-                      {
-                                 "@type": "Question",
-                                 "name": "Can a fiber link carry a separate network for our building's heating, cooling and energy controls?",
-                                 "acceptedAnswer": {
-                                            "@type": "Answer",
-                                            "text": "Yes. Many Nassau office buildings have upgraded their energy management systems, and those controls are best kept off the tenants' networks. A backbone cable can dedicate a pair of strands to building controls, landing in their own enclosure or panel position, so the controls contractor has a private path between the plant room and each floor without touching any tenant's equipment."
-                                 }
-                      },
-                      {
-                                 "@type": "Question",
-                                 "name": "Will a new fiber backbone work with the network switches we already own?",
-                                 "acceptedAnswer": {
-                                            "@type": "Answer",
-                                            "text": "Usually. Most business switches bought in the last decade have SFP or SFP+ slots that accept a small optical module, and the module is matched to the fiber type and distance. We check the model numbers on the walkthrough and tell your IT provider which optics to use; if a switch has no fiber slots, a pair of media converters bridges the gap until the switch is replaced."
-                                 }
-                      },
-                      {
-                                 "@type": "Question",
-                                 "name": "Can the phone company's dead boxes and old cables on our wall be removed during the fiber job?",
-                                 "acceptedAnswer": {
-                                            "@type": "Answer",
-                                            "text": "Equipment and cable that belong to the carrier are the carrier's to remove, so we don't take them out ourselves; we can help you ask the provider to retire dead equipment. Old wiring that belongs to the building, such as abandoned copper or fiber from earlier tenants, can be removed or labelled as abandoned with the owner's agreement, which leaves the wall and ceiling clear for the next contractor."
-                                 }
-                      }
-           ]
-}
-</script>
+<script type="application/ld+json">{
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+                    {
+                              "@type": "Question",
+                              "name": "Do you cover the North Shore, the South Shore and the incorporated villages in between?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Yes. We work across all of Nassau County: the North Shore from Great Neck and Port Washington to Glen Cove and Oyster Bay, the central corridor from Lake Success through Garden City, Mineola and Hicksville to Bethpage, and the South Shore from Valley Stream and Rockville Centre to Long Beach and Massapequa. Villages, hamlets and the two cities are all covered, and we confirm local building-department rules for each address."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "Can our Wi-Fi access points run straight off the new fiber backbone?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Not usually, and they don't need to. Ceiling access points draw their power and data over a copper Cat6 cable from a PoE switch, and that cable has to stay within 100 metres of the switch. The fiber's job is the step before: it joins the closet holding that switch to the main equipment room, so every access point on the floor shares a fast, interference-free uplink. If an access point has to sit farther than copper allows, we place a small switch near it and feed that switch with fiber."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "Can fiber be added to a finished office without opening the walls?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Most of the time, yes. In a typical Nassau office the cable travels above the drop ceiling, down inside existing conduit or an empty wall cavity we can fish from above, or in a slim surface raceway painted to match the wall. We only cut drywall where no hidden route exists, and when we do the opening is small and patched. The walkthrough is where we find the route, and the proposal says plainly whether any wall has to be opened."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "What happens to our fiber when the landlord replaces the drop ceiling?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Fiber supported on its own hooks or in innerduct, rather than lying on the tiles or tied to the old grid, usually survives a ceiling replacement untouched. Before the ceiling contractor starts, we can tag the route, photograph it and, if needed, temporarily support the cable while the grid is removed. After the new ceiling is in, we re-test the strands so you know nothing was damaged."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "Will you test fiber another company installed before we accept their work?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Yes. Independent acceptance testing is a sensible step before you sign off on a fiber job. We inspect the connectors, measure loss on every strand and, on longer or single-mode runs, take OTDR traces, then compare the results with what the installer promised. Testing is billed at our published Nassau rates, and you receive the per-strand results whether the work passes or not."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "How much downtime should we plan for when the new backbone goes live?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Very little, if the cutover is planned. We pull, splice and test the new fiber while your existing link keeps running, so the office works normally through installation. Going live is then a matter of moving uplinks and patch cords onto the new strands, which we schedule in a window you choose — often early morning or after closing — with the old link left in place until the new one has carried traffic successfully."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "Can a fiber link carry a separate network for our building's heating, cooling and energy controls?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Yes. Many Nassau office buildings have upgraded their energy management systems, and those controls are best kept off the tenants' networks. A backbone cable can dedicate a pair of strands to building controls, landing in their own enclosure or panel position, so the controls contractor has a private path between the plant room and each floor without touching any tenant's equipment."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "Will a new fiber backbone work with the network switches we already own?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Usually. Most business switches bought in the last decade have SFP or SFP+ slots that accept a small optical module, and the module is matched to the fiber type and distance. We check the model numbers on the walkthrough and tell your IT provider which optics to use; if a switch has no fiber slots, a pair of media converters bridges the gap until the switch is replaced."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "Can the phone company's dead boxes and old cables on our wall be removed during the fiber job?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Equipment and cable that belong to the carrier are the carrier's to remove, so we don't take them out ourselves; we can help you ask the provider to retire dead equipment. Old wiring that belongs to the building, such as abandoned copper or fiber from earlier tenants, can be removed or labelled as abandoned with the owner's agreement, which leaves the wall and ceiling clear for the next contractor."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "What's the difference between LC and SC fiber connectors?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Size and the way they lock. SC is the larger square connector that pushes in and pulls out; LC has a ferrule half the size and a small latch like a phone jack. Both carry the same light. In Nassau County we still find SC on older patch panels and provider equipment, and LC on almost everything installed in the last ten years."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "Will the fiber you install in Nassau County plug straight into my switch's SFP port?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Yes, that's how we plan it. SFP and SFP+ modules almost always take a duplex LC connector, so we terminate or patch to LC at the equipment end. We confirm the module type before the job so the transceivers and the patch cords match."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "Our panel in Nassau County is SC but the new switch is LC. Do we need to re-terminate?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Usually not. An LC-to-SC patch cord connects the two without touching the run. We only re-terminate when the existing connectors are damaged, dirty beyond cleaning, or the wrong fiber type for the new equipment."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "Why does it matter if a fiber connector is green or blue?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Green means APC, an angled polish; blue means UPC, a flat polish. They can't mate with each other without losing most of the signal. SFPs are almost always UPC, so on jobs in Nassau County where the provider's fiber at the side of the house hands off on green APC, we bridge it with the correct hybrid cord."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "What should I check before buying fiber patch cords or SFPs?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Four things: the connector on each piece of equipment (LC, SC or something else), single-mode or multimode, APC or UPC polish, and the speed and wavelength of the SFPs, which must match at both ends. If you text a photo of the ports, we'll tell you exactly what your Nassau County setup needs."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "If we upgrade from 1 gig to 10 gig later, do we need new fiber?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Usually not. Single-mode fiber with LC ends carries 1G, 10G and faster; you swap the SFP modules at each end. Older multimode can limit distance at higher speeds, so when we install in Nassau County we recommend single-mode for anything that may be upgraded."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "We have ST connectors from an old install. Can you work with them?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Yes. ST, FC, LC, SC and MPO/MTP all show up in older homes and businesses in Nassau County. We can keep the existing panel and patch across with hybrid cords, or re-terminate to LC if you're modernizing the closet."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "What's the difference between single-mode and single-strand fiber?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "They're different things. Single-mode is the fiber type, a thin core built for long runs. Single-strand means only one fiber carries the link, which needs BiDi SFPs that send and receive on different wavelengths. A normal link uses two strands; we usually pull extra strands in Nassau County so you have spares."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "My router only has Ethernet ports. Can it still use the fiber you install?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "Yes, with a media converter: a small box that takes the fiber in and gives you a standard Ethernet port out. For a run out to a pool house, barn, guest cottage or detached office, we usually put one at each end, or an SFP switch if you need more ports."
+                              }
+                    },
+                    {
+                              "@type": "Question",
+                              "name": "Can you move where the provider's fiber box is in Nassau County?",
+                              "acceptedAnswer": {
+                                        "@type": "Answer",
+                                        "text": "We can't re-splice the provider's own fiber, but we can run a new line from their ONT to where you want your network, inside a closet, an office or a rack. That's a common job for us in homes and businesses in Nassau County, and it keeps the provider's equipment untouched."
+                              }
+                    }
+          ]
+}</script>
 <script type="application/ld+json">
 {
            "@context": "https://schema.org",
@@ -2107,6 +2185,16 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <div class="fi"><div class="fh" onclick="tf(6)"><div class="fq faq-question">Can a fiber link carry a separate network for our building's heating, cooling and energy controls?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>Yes. Many Nassau office buildings have upgraded their energy management systems, and those controls are best kept off the tenants' networks. A backbone cable can dedicate a pair of strands to building controls, landing in their own enclosure or panel position, so the controls contractor has a private path between the plant room and each floor without touching any tenant's equipment.</p></div></div>
 <div class="fi"><div class="fh" onclick="tf(7)"><div class="fq faq-question">Will a new fiber backbone work with the network switches we already own?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>Usually. Most business switches bought in the last decade have SFP or SFP+ slots that accept a small optical module, and the module is matched to the fiber type and distance. We check the model numbers on the walkthrough and tell your IT provider which optics to use; if a switch has no fiber slots, a pair of media converters bridges the gap until the switch is replaced.</p></div></div>
 <div class="fi"><div class="fh" onclick="tf(8)"><div class="fq faq-question">Can the phone company's dead boxes and old cables on our wall be removed during the fiber job?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>Equipment and cable that belong to the carrier are the carrier's to remove, so we don't take them out ourselves; we can help you ask the provider to retire dead equipment. Old wiring that belongs to the building, such as abandoned copper or fiber from earlier tenants, can be removed or labelled as abandoned with the owner's agreement, which leaves the wall and ceiling clear for the next contractor.</p></div></div>
+<div class="fi" data-faq="connectors"><div class="fh" onclick="tf(9)"><div class="fq faq-question">What&#x27;s the difference between LC and SC fiber connectors?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>Size and the way they lock. SC is the larger square connector that pushes in and pulls out; LC has a ferrule half the size and a small latch like a phone jack. Both carry the same light. In Nassau County we still find SC on older patch panels and provider equipment, and LC on almost everything installed in the last ten years.</p></div></div>
+<div class="fi" data-faq="connectors"><div class="fh" onclick="tf(10)"><div class="fq faq-question">Will the fiber you install in Nassau County plug straight into my switch&#x27;s SFP port?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>Yes, that&#x27;s how we plan it. SFP and SFP+ modules almost always take a duplex LC connector, so we terminate or patch to LC at the equipment end. We confirm the module type before the job so the transceivers and the patch cords match.</p></div></div>
+<div class="fi" data-faq="connectors"><div class="fh" onclick="tf(11)"><div class="fq faq-question">Our panel in Nassau County is SC but the new switch is LC. Do we need to re-terminate?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>Usually not. An LC-to-SC patch cord connects the two without touching the run. We only re-terminate when the existing connectors are damaged, dirty beyond cleaning, or the wrong fiber type for the new equipment.</p></div></div>
+<div class="fi" data-faq="connectors"><div class="fh" onclick="tf(12)"><div class="fq faq-question">Why does it matter if a fiber connector is green or blue?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>Green means APC, an angled polish; blue means UPC, a flat polish. They can&#x27;t mate with each other without losing most of the signal. SFPs are almost always UPC, so on jobs in Nassau County where the provider&#x27;s fiber at the side of the house hands off on green APC, we bridge it with the correct hybrid cord.</p></div></div>
+<div class="fi" data-faq="connectors"><div class="fh" onclick="tf(13)"><div class="fq faq-question">What should I check before buying fiber patch cords or SFPs?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>Four things: the connector on each piece of equipment (LC, SC or something else), single-mode or multimode, APC or UPC polish, and the speed and wavelength of the SFPs, which must match at both ends. If you text a photo of the ports, we&#x27;ll tell you exactly what your Nassau County setup needs.</p></div></div>
+<div class="fi" data-faq="connectors"><div class="fh" onclick="tf(14)"><div class="fq faq-question">If we upgrade from 1 gig to 10 gig later, do we need new fiber?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>Usually not. Single-mode fiber with LC ends carries 1G, 10G and faster; you swap the SFP modules at each end. Older multimode can limit distance at higher speeds, so when we install in Nassau County we recommend single-mode for anything that may be upgraded.</p></div></div>
+<div class="fi" data-faq="connectors"><div class="fh" onclick="tf(15)"><div class="fq faq-question">We have ST connectors from an old install. Can you work with them?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>Yes. ST, FC, LC, SC and MPO/MTP all show up in older homes and businesses in Nassau County. We can keep the existing panel and patch across with hybrid cords, or re-terminate to LC if you&#x27;re modernizing the closet.</p></div></div>
+<div class="fi" data-faq="connectors"><div class="fh" onclick="tf(16)"><div class="fq faq-question">What&#x27;s the difference between single-mode and single-strand fiber?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>They&#x27;re different things. Single-mode is the fiber type, a thin core built for long runs. Single-strand means only one fiber carries the link, which needs BiDi SFPs that send and receive on different wavelengths. A normal link uses two strands; we usually pull extra strands in Nassau County so you have spares.</p></div></div>
+<div class="fi" data-faq="connectors"><div class="fh" onclick="tf(17)"><div class="fq faq-question">My router only has Ethernet ports. Can it still use the fiber you install?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>Yes, with a media converter: a small box that takes the fiber in and gives you a standard Ethernet port out. For a run out to a pool house, barn, guest cottage or detached office, we usually put one at each end, or an SFP switch if you need more ports.</p></div></div>
+<div class="fi" data-faq="connectors"><div class="fh" onclick="tf(18)"><div class="fq faq-question">Can you move where the provider&#x27;s fiber box is in Nassau County?</div><div class="ft">+</div></div><div class="fa faq-answer"><p>We can&#x27;t re-splice the provider&#x27;s own fiber, but we can run a new line from their ONT to where you want your network, inside a closet, an office or a rack. That&#x27;s a common job for us in homes and businesses in Nassau County, and it keeps the provider&#x27;s equipment untouched.</p></div></div>
 </div>
 </div>
 <figure class="pg-fig rv" data-aess-fo-photo style="max-width:900px;margin-left:auto;margin-right:auto"><img src="/images/fiber-optic-installation/aess-fiber-optic-installation-labeled-fiber-backbone-panels.webp" alt="Abstract Enterprises Security Systems technician dressing labeled fiber jumpers across backbone panels serving multiple floors in Nassau County" title="Dressing labeled fiber jumpers across backbone panels serving multiple floors in nassau county" width="1400" height="933" loading="lazy" decoding="async"><figcaption>Floor-by-floor backbone panels, labeled, with proper bend radius and clean routing.</figcaption></figure>
