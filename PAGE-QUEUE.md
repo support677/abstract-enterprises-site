@@ -438,11 +438,11 @@ LIVE | sonos-installation-fort-greene-brooklyn-ny | Sonos Installation | Fort Gr
 LIVE | sonos-installation-jackson-heights-queens-ny | Sonos Installation | Jackson Heights, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
 LIVE | sonos-installation-morris-park-bronx-ny | Sonos Installation | Morris Park, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | sonos-installation-west-brighton-staten-island-ny | Sonos Installation | West Brighton, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
-TODO | security-cameras-nyc | Security Cameras | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | security-cameras-long-island | Security Cameras | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | security-cameras-hudson-valley | Security Cameras | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-TODO | security-cameras-manhattan | Security Cameras | Manhattan | up /security-cameras-nyc | (929) 560-0737 | GBP Bronx
-TODO | security-cameras-brooklyn | Security Cameras | Brooklyn | up /security-cameras-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-21T18:17Z max-daily | security-cameras-nyc | Security Cameras | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-21T18:17Z max-daily | security-cameras-long-island | Security Cameras | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-21T18:17Z max-daily | security-cameras-hudson-valley | Security Cameras | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+BUILDING 2026-11-21T18:17Z max-daily | security-cameras-manhattan | Security Cameras | Manhattan | up /security-cameras-nyc | (929) 560-0737 | GBP Bronx
+BUILDING 2026-11-21T18:17Z max-daily | security-cameras-brooklyn | Security Cameras | Brooklyn | up /security-cameras-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | security-cameras-queens | Security Cameras | Queens | up /security-cameras-nyc | (347) 434-6392 | GBP Bronx
 TODO | security-cameras-bronx | Security Cameras | Bronx | up /security-cameras-nyc | (646) 490-0629 | GBP Bronx
 TODO | security-cameras-staten-island | Security Cameras | Staten Island | up /security-cameras-nyc | (347) 934-8335 | GBP Brooklyn
