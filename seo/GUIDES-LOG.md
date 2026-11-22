@@ -16,3 +16,4 @@ Date | Page | Guide URL | Site page | Status
 # 2026-11-19: NOT BUILT. support677/nyc-security-guides still not in this scheduled task's authorized repos (git proxy 403). Next 6 undone unchanged from Nov 18 note.
 # 2026-11-20: NOT BUILT. support677/nyc-security-guides still not in this scheduled task's authorized repos (git proxy 403 on push). Next 6 undone unchanged from Nov 18 note.
 # 2026-11-21: NOT BUILT. support677/nyc-security-guides still not in this scheduled task's authorized repos (git proxy 403 on push). Next 6 undone unchanged from Nov 18 note.
+# 2026-11-22: NOT BUILT. support677/nyc-security-guides still not in this scheduled task's authorized repos (git proxy 403 on push). Next 6 undone unchanged from Nov 18 note.

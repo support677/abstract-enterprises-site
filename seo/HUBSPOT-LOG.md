@@ -7,3 +7,4 @@ Date | Page | Post URL | Site page
 # 2026-11-19: NOT PUBLISHED. HubSpot connector still missing cms.blogs.settings.read (and blog-posts-write / publish). Reconnect HubSpot with the blog permissions ticked.
 # 2026-11-20: NOT PUBLISHED. HubSpot connector still missing cms.blogs.settings.read (and blog-posts-write / publish). Reconnect HubSpot with the blog permissions ticked.
 # 2026-11-21: NOT PUBLISHED. HubSpot connector still missing cms.blogs.settings.read (and blog-posts-write / publish). Reconnect HubSpot with the blog permissions ticked.
+# 2026-11-22: NOT PUBLISHED. HubSpot connector still missing cms.blogs.settings.read (and blog-posts-write / publish). Reconnect HubSpot with the blog permissions ticked.
