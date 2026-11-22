@@ -130,6 +130,132 @@ Silo opened 2026-11-21 (max-daily). Keywords and rules: keywords/security-camera
 - What does a Brooklyn auto repair shop need from its camera system?
 - How do I hand camera footage to the NYPD after a theft at my Brooklyn store?
 
+### security-cameras-queens
+- Which camera system suits an attached two-family house in Ridgewood, Glendale or Middle Village?
+- How do I keep a recorder safe in a Queens basement that has flooded before?
+- Can a Jackson Heights garden co-op put cameras in its shared courtyard?
+- What should a storefront under the elevated 7 train buy first?
+- Which camera reads a car parked at the curb on a Queens block at night?
+- What camera setup protects a building's mailbox bank in Queens?
+- Can I watch my Queens store's cameras while I'm traveling abroad?
+- How far can a PoE camera reach to cover a detached garage at the back of a Queens lot?
+- Which recorder size fits a Maspeth or Long Island City warehouse with several dock doors?
+- Where should cameras go on a Queens house with a front gate and a long walkway?
+- Do you deliver security cameras to every Queens neighborhood, from Astoria to the Rockaways?
+- Will passing trains, planes and traffic set off constant alerts on Queens cameras?
+- Can a camera cover the shared driveway between two attached Queens houses?
+- Can a landlord's camera cover a basement tenant's entrance in Queens?
+- Does a Queens store need its landlord's permission before drilling for cameras?
+- Can cameras help catch illegal dumping in front of a Queens property?
+- Do your cameras connect to a Queens building's intercom or video buzzer?
+- Can you deliver camera equipment to a Queens job site for my electrician to install?
+- Are battery cameras a good choice for a detached garage in Queens?
+- Do you sell cameras for Queens houses of worship and community centers?
+- Do you install security cameras in Queens on weekends?
+- Can I take my cameras with me if I sell my Queens house?
+- What should I send to get a camera quote for a Queens property by text?
+
+### security-cameras-bronx
+- Which recorder suits a six-story pre-war walk-up off the Grand Concourse?
+- Can the old coax in a Bronx apartment building carry 4K cameras?
+- How many cameras does a Bronx elevator building lobby need?
+- Should a Co-op City resident buy a camera for the apartment door?
+- Which cameras suit a Riverdale or Fieldston house set back from the street?
+- What camera setup reads a truck at a Hunts Point loading dock?
+- How should a Fordham Road store cover its door and sidewalk rack?
+- Which outdoor cameras hold up on a Throgs Neck or City Island house?
+- Can a Bronx bodega owner watch the store from a phone at the market?
+- How much drive space keeps a month for sixteen cameras in a Bronx building?
+- Is 2K or 4K better for a Bronx two-family driveway?
+- What comes in the box when a camera kit is delivered in the Bronx?
+- Is the Bronx office on Fordham Road a walk-in camera shop? (FAQ)
+- Can a super or managing agent order cameras on behalf of a Bronx building? (FAQ)
+- Will a camera inside a Bronx elevator cab be allowed by the elevator company? (FAQ)
+- Do the systems you sell keep recording if a Bronx building loses its internet line? (FAQ)
+- Can cameras cover the roof door and bulkhead of a Bronx walk-up? (FAQ)
+- How do I stop motion alerts from an elevated train next to my Bronx store? (FAQ)
+- Can a Bronx church or community center buy cameras through its board? (FAQ)
+- Do you deliver camera equipment to Co-op City and City Island? (FAQ)
+- Can I add cameras to a system a previous owner left in my Bronx house? (FAQ)
+- Can you set up a camera for the laundry room in a Bronx building basement? (FAQ)
+- Can a storefront camera on a Bronx avenue avoid recording the apartments upstairs? (FAQ)
+- Can you mount a camera on a Bronx fire escape? (FAQ)
+- Can cameras help a Bronx landlord with illegal dumping at the curb? (FAQ)
+
+### security-cameras-staten-island
+- What are the best security cameras for a detached house with a driveway?
+- Which camera can read a license plate at the end of my driveway at night?
+- Can one recorder cover the house and a detached garage across the yard?
+- Where do cameras go on a house raised after Sandy?
+- Should the recorder stay on the ground floor of a house in a flood zone?
+- Will an outdoor camera on a two-story corner shake in a strong wind?
+- How many cameras does a strip-plaza pizzeria or deli need?
+- How long should a store keep footage when an insurance claim can show up weeks later?
+- Will phone viewing work on the ferry or the bridge with a weak signal?
+- Which cameras suit a back yard that faces the Greenbelt or a Bluebelt wetland?
+- What should a West Shore warehouse tenant check before buying a large NVR?
+- Do you deliver to every part of Staten Island, from St. George to Tottenville?
+- Is there a showroom on Staten Island where I can look at cameras before buying?
+- Can you program the recorder before delivery so I only have to plug it in?
+- How do I keep a camera from recording my neighbor's yard or windows?
+- What happens to my footage if a burglar takes the recorder?
+- Can cameras be mounted on vinyl or aluminum siding without letting water in?
+- Do you sell solar or cellular cameras for a lot with no power?
+- Can family members in another state watch my cameras too?
+- Will a video doorbell record to the same recorder as my other cameras?
+- Can cameras go on the carports and parking courts of a garden-apartment complex?
+- Can new cameras work alongside the alarm system I already have?
+- Do the house-brand kits come with a monitor?
+
+### security-cameras-nassau-county
+- How do the cables reach the cameras on a Nassau house with no basement?
+- How should I cover the back of a North Shore house that faces woods?
+- Does a camera aimed at a busy road like Hempstead Turnpike need a bigger drive?
+- If my village has its own police department, who gets my camera footage?
+- Which views matter on a Nassau corner lot with two street sides?
+- How do I keep a camera from being blinded by the low winter sun on a south-facing driveway?
+- What is a 32-channel recorder really recording when the screen shows low bitrates?
+- Should the lower-level door on a split-level get its own camera?
+- What should a Nassau co-op or condo board decide before buying cameras?
+- What should I record while contractors are renovating my Nassau house?
+- Do you deliver camera equipment to every Nassau village and hamlet, including Long Beach and the barrier island?
+- Can the cables be completely hidden on a finished colonial?
+- How do I give footage to my insurance company after a break-in or a dented car in my lot?
+- Can a camera alert me when someone opens the pool gate?
+- Should I tell my neighbors before I put up cameras?
+- Is it legal for my house cameras to record the street in front?
+- Can you take down the old cameras and wiring a previous owner left on the house?
+- Can a camera show the corner where my kids wait for the school bus?
+- When will my equipment order be delivered?
+- Can I watch the cameras on the TV in my den?
+- How do I get an alert for a car in my driveway but not for traffic on the street?
+- Will a camera siren bother the neighbors?
+- Can I see my home cameras and my business cameras in one app?
+
+### security-cameras-suffolk-county
+- How far from the house can a PoE camera go before the cable needs help?
+- Should a detached garage get its own switch or a cable straight back to the recorder?
+- What lens lets a camera on the house identify a car at a gate 200 feet away?
+- Which views protect a boat, jet ski or trailer parked in a side yard?
+- What kit fits a Suffolk cape, high ranch or split-level?
+- Who should get app access at a house rented out for the summer?
+- What does a North Fork tasting room or winery need from its cameras?
+- What should a self-serve farm stand buy to watch the cash box?
+- Which cameras suit a storefront on Route 347 or Jericho Turnpike?
+- How do I catch someone sliding under a parked car for the catalytic converter?
+- Will a camera on a bluff or open-water gable hold its aim in a nor'easter wind?
+- Does the New York City camera-sign law apply to a store in Suffolk County? (FAQ)
+- Can I put a camera on the utility pole at the end of my driveway? (FAQ)
+- Will the cameras you sell work alongside the Ring doorbell I already have? (FAQ)
+- Can a caretaker or landscaper get a login that shows only some cameras? (FAQ)
+- Do you sell solar-powered cameras for a field, gate or farm road? (FAQ)
+- Can I get one quote for a house up-island and a cottage on the North Fork? (FAQ)
+- Which camera warns someone off before they reach the boat, shed or equipment yard? (FAQ)
+- Can a camera read the plate on a trailer leaving my driveway? (FAQ)
+- Can a nonprofit or house of worship in Suffolk buy equipment-only and have volunteers mount it? (FAQ)
+- What happens to my recordings if the recorder is stolen during a break-in? (FAQ)
+- Can my cameras send alerts only after the tasting room or stand has closed? (FAQ)
+
 
 # Research notes: security-cameras-nyc (built Nov 21 2026)
 
@@ -388,3 +514,151 @@ FAQ:
 - Can you replace just one dead camera on my Brooklyn system?
 - Can you survey a Brooklyn building before I decide what to buy?
 - Do you deliver to businesses in Brooklyn's industrial areas?
+
+# Research notes: security-cameras-queens (built Nov 22 2026, max-daily)
+
+## Queens
+
+Research for /security-cameras-queens (equipment-store page, Queens borough child of /security-cameras-nyc; Bronx GBP #bronx, phone (347) 434-6392). Built Nov 22 2026. Format: exact query · platform · URL · finding · used in (section).
+
+- (direct fetch, no query) · Firecrawl scrape (PDF) · https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-pbqn.pdf · NYPD CompStat Queens North, Vol. 33 No. 46, week 11/9/2026–11/15/2026, YTD 2026 vs 2025: burglary 1,127 vs 1,680 (−32.9%); robbery 1,491 vs 1,474; grand larceny 5,350 vs 5,227 (+2.4%); petit larceny 11,536 vs 12,393 (−6.9%); retail theft 5,692 vs 6,674 (−14.7%); G.L.A. 2,536 vs 2,252 (+12.6%). 28-day G.L.A. 257 vs 211; petit larceny 1,057 vs 1,171. Preliminary. · Neighborhood (CompStat table, facts list), Commercial (auto shops), hero stamp
+- (direct fetch, no query) · Firecrawl scrape (PDF) · https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-pbqs.pdf · NYPD CompStat Queens South, same week, YTD: burglary 842 vs 937 (−10.1%); grand larceny 3,281 vs 3,111 (+5.5%); petit larceny 8,230 vs 8,134 (+1.2%); retail theft 3,043 vs 3,237 (−6.0%); G.L.A. 1,513 vs 1,714 (−11.7%). · CompStat table, facts list
+- Derived (sum of the two above): Queens YTD burglary 1,969 (2025: 2,617, −24.8%); petit larceny 19,766 (20,527); retail theft 8,735 (9,911); grand larceny 8,631 (8,338); G.L.A. 4,049 (3,966). · CompStat table, facts list
+- "Queens housing stock one- and two-family homes share of housing units attached rowhouses report" · Firecrawl search + scrape (PDF) · https://www.nyc.gov/assets/hpd/downloads/pdfs/about/2023-nychvs-selected-initial-findings.pdf · 2023 NYCHVS: Queens 919,800 housing units; 863,700 occupied; rental vacancy rate 0.88%. (Queens building-size breakdown on https://chpcny.org/visualization/housing-stock-visualization/ not readable in scrape: EMPTY for Queens split; CHPC confirms Queens = 919,800 = 25% of city stock.) · Neighborhood intro, facts list
+- same query · Firecrawl search · https://comptroller.nyc.gov/reports/spotlight-new-york-citys-homeowner-housing-market/ · ~225,000 two-family structures citywide, almost all outside Manhattan · background only (not printed)
+- "Queens borough foreign-born percent population NYC Planning" · WebSearch + WebFetch · https://www.nyc.gov/assets/planning/newest-new-yorkers-2026/Ch3.html · NYC Planning, The Newest New Yorkers 2026: ~1.1 million foreign-born in Queens, 48% of borough; Flushing–Murray Hill 67%, Elmhurst 66%, Corona 61%, Jackson Heights nearly 60%, Astoria 36%; top origins China, Guyana, Ecuador, Bangladesh, Dominican Republic · Neighborhood (storefront owners / remote viewing abroad), facts list, Q&A (traveling abroad), field notes
+- "Jackson Heights Historic District garden apartments co-ops Landmarks Preservation Commission designated 1993" · Firecrawl search · http://s-media.nyc.gov/agencies/lpc/lp/1831.pdf and https://hdc.org/buildings/jackson-heights/ · LPC designated Jackson Heights Historic District Oct 19 1993; ~36 blocks; low-rise garden apartments and houses around courtyards · Building Specialists (garden co-ops), Q&A (courtyard)
+- LPC camera guidance reused from silo research (Brooklyn entry, https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf): small, discreet, painted to blend · Q&A (courtyard), co-op section (general wording only)
+- "Roosevelt Avenue Jackson Heights Corona Queens 2025 storefront business crackdown Operation Restore Roosevelt" · Firecrawl search · https://queenseagle.com/all/2026/11/2/police-shutter-alleged-jackson-heights-brothel · Queens Daily Eagle Nov 2 2026: Oct 2024 90-day "Operation Restore Roosevelt", more than 2,500 arrests; Restore Roosevelt Avenue coalition still pressing · Commercial (storefronts under the el) — only the operation, duration and arrest count used
+- same query · Firecrawl search · https://queensledger.com/2026/11/04/restore-roosevelt-locals-say-its-not-so-simple/ · local debate on enforcement · background only
+- "Queens package theft porch pirates arrested 2025 OR 2026 police" · WebSearch + WebFetch · https://abc7ny.com/post/porch-pirate-new-york-trap-fake-package/14616063/ · ABC7 Apr 4 2024: Queens homeowner says porch thieves hit dozens of times incl. a $1,500 jacket; his camera recorded the theft; decoy trap led to arrest; authorities advise not confronting suspects · Neighborhood (Mail, packages and the front gate)
+- same query · WebSearch + WebFetch · https://www.uspis.gov/u-s-postal-inspection-service-and-new-york-police-department-conduct-jointoperations-in-queens-targeting-mail-thieves-and-criminal-enterprises · USPIS + NYPD joint operations in Queens: 10 arrests — 2 tied to relay-box mail theft in Ridgewood and Glendale, 8 in Flushing; stolen mail, IDs, credit cards, a postal key recovered (release undated) · Neighborhood (mail), Q&A (mailbox bank)
+- "Hurricane Ida 2021 basement apartment deaths Queens" · WebSearch + Firecrawl scrape · https://qns.com/2021/09/queens-storm-death-toll-rises-to-11-after-three-bodies-found-in-flooded-flushing-basement-nypd/ · QNS Sept 3 2021: 13 dead citywide incl. 11 in Queens; victims in East Flushing, Woodside, Jamaica, Forest Hills, Elmhurst, mostly basements · Neighborhood (basements), facts list, Q&A (flooded basement), AI reality check
+- https://astoriapost.com/... (redirect) and WebFetch of the qns.com URL · EMPTY (not accessible in build env — permission timeout); same article read via Firecrawl instead
+- "Queens Industrial Business Zones Maspeth Long Island City JFK Jamaica Steinway list NYC" · Firecrawl search · https://edc.nyc/industry/industrial-and-manufacturing · Queens IBZs: Jamaica, JFK, Long Island City, Maspeth, Ridgewood, Steinway, Woodside · Neighborhood (Industrial Queens), facts list, coverage grid
+- https://edc.nyc/industry/industrial-and-manufacturing · WebFetch · EMPTY (not accessible in build env — permission timeout); IBZ list taken from the Firecrawl search excerpt of the same page
+- "site:reddit.com Queens security camera two family house landlord package stolen recommendation" · Firecrawl search · https://www.reddit.com/r/NYCapartments/comments/1vqfm5f/landlord_repeatedly_enters_our_queens_apartment/ ; https://www.reddit.com/r/AskNYC/comments/13rftzt/stolen_packages_600/ · Queens multi-family renter/landlord tension; NYC renter whose landlord checked footage a week later · informed tenant-entrance and shared-driveway angles only (no quotes printed)
+- People Also Ask / AI Overview: EMPTY (no PAA tool in build env); question seeds from keywords/security-cameras.md plus the local findings above.
+- Product facts: Reolink RLC-810A (https://reolink.com/us/product/rlc-810a/) and Lorex N883 (https://www.lorex.com/products/n883-4k-pro-series-4k-nvr) reused from the verified Nov 21 entries in research/security-cameras.md · Name-brand subsection
+- House-brand facts: security-camera-pricing-queens.html MODELS list — A1 (4 eyeball 2MP, 1080P DVR, NV 60 ft, wire runs up to 100 ft/camera, white or black), C1 (4 eyeball 8MP 4K, audio, 4K DVR + monitor, NV 120 ft, IP66), D1 (same as C1 on 4K NVR, IP cameras), E1 (4 eyeball 5MP IP, 4K NVR + 20" monitor, NV 90 ft, IP67, no audio). c1.png and d1.png are the same photo; caption says so. No prices printed.
+- Starting price: tools/check_page.py start_price("security-cameras","queens") → $950 from /security-camera-pricing-queens (A1) · hero first sentence, quick answer, pricing section, Service offers.
+
+
+# Research notes: security-cameras-bronx (built Nov 22 2026, max-daily)
+
+## Bronx
+
+Research for /security-cameras-bronx (equipment-store page, Bronx borough child of /security-cameras-nyc; Bronx GBP #bronx, 460 E Fordham Rd; phone (646) 490-0629). Built Nov 22 2026. Format: exact query · platform · URL · finding · used in (section).
+
+- (direct fetch, no query) · Firecrawl scrape (PDF, maxAge 0) · https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-pbbx.pdf · NYPD CompStat Patrol Borough Bronx, Volume 33 Number 20 (the edition the URL served on Nov 22 2026; the PDF prints no week dates). YTD 2026 vs 2025: burglary 912 vs 1,096 (−16.8%); robbery 1,412 vs 1,660 (−14.9%); grand larceny 2,911 vs 3,326 (−12.5%); G.L.A. 1,195 vs 1,632 (−26.8%); petit larceny 6,324 vs 6,434 (−1.7%); retail theft 2,076 vs 2,123 (−2.2%). 28-day: retail theft 484 vs 440 (+10.0%); petit larceny 1,422 vs 1,366 (+4.1%). Week: retail theft 132 vs 95. Historical: burglary 19,326 (1990) → 2,857 (2025), −85.2%; grand larceny 9,105 (2025) vs 4,373 (2001), +108.2%. Preliminary. · The Borough (CompStat table + text), facts list, retail section, auto section, hero source stamp
+- same URL · WebFetch · EMPTY (not accessible in build env — permission request timed out); Firecrawl copy used.
+- "Co-op City Bronx Riverbay apartments number of units 35 buildings townhouses" · Firecrawl search · https://www.coopcity.com/ and https://www.coopcity.com/aboutus/ · Riverbay: NYS Mitchell-Lama housing cooperative, 15,372 residential units in 35 high-rise buildings and seven townhouse clusters (garden and duplex) · facts list, "Co-op City, Parkchester and the big co-op..." H3, Q&A (Co-op City door camera)
+- "Hunts Point Food Distribution Center acres businesses jobs NYCEDC" · Firecrawl search + scrape · https://edc.nyc/project/hunts-point-peninsula · FDC: 100+ public/private wholesalers, distributors, manufacturers incl. Terminal Produce Market, Meat Market, Fulton Fish Market; ~4.5 billion lbs/yr; 8,500 direct jobs; customers 49% independent restaurants/cafes, 20% bodegas, 18% supermarkets, 13% food markets; Produce Market 100+ acres, ~2,000 employees; Meat Market 835K sq ft refrigerated; peninsula 12,600+ residents · The industrial Bronx H3, facts list, Q&A (Hunts Point dock)
+- "Bronx Industrial Business Zones Port Morris Zerega Eastchester Bathgate Hunts Point list" · Firecrawl search · https://edc.nyc/industry/industrial-and-manufacturing · Bronx IBZs: Bathgate, Eastchester, Hunts Point, Port Morris, Zerega · The industrial Bronx H3, warehouses H3, facts list
+- "News 12 Bronx package thefts porch pirates building lobby 2025" · Firecrawl search + scrape · https://bronx.news12.com/2025/12/10/caught-on-camera-porch-pirates-strike-again-this-holiday-season/7ssxJZkkO6ppcqn9vpkPgs · Dec 10 2025 (Isabella Giardina): Pelham Gardens resident Roberto Torres recorded a man taking packages from his porch on Dec 2; four packages stolen that season; quote "In less than 30 seconds, he picked up the packages, put them right in his car and drove away"; sign asking drivers to use back gate ignored · Package theft H3 (quote), one- and two-family houses H3
+- (found on the same News 12 page's "More Stories") · Firecrawl scrape (summary) · https://bronx.news12.com/2026/11/21/man-steals-nearly-15k-in-cash-victims-wallet-after-breaking-into-allerton-home/5Wjd0qF8tsWHLIo5AgMzkH · Nov 21 2026: man tampered with the front door lock of a home near Cruger and Arnow avenues, Allerton, ~12:30 p.m. Tuesday; took nearly $15,000 cash and a wallet; NYPD released suspect photo · Package theft H3 (break-in paragraph)
+- "2023 NYC Housing and Vacancy Survey Bronx housing units rent stabilized share" · Firecrawl search · https://www.nyc.gov/assets/hpd/downloads/pdfs/about/2023-nychvs-selected-initial-findings.pdf · Bronx 562,300 housing units (15% of city); 44% studio/1BR; median rent $1,280 (lowest borough) · The Borough intro, facts list
+- same query · Firecrawl search · https://rentguidelinesboard.cityofnewyork.us/wp-content/uploads/2025/05/2025-HSR.pdf · 2023 HVS vacancy: Bronx 0.82% (lowest); new units completed 2023: Bronx 9,842 (Brooklyn 9,273, Manhattan 3,720, Queens 4,657, SI 470) · The Borough intro, facts list, new construction H3
+- "Fordham Road BID number of businesses shoppers Bronx retail corridor" · Firecrawl search · https://www.nyctourism.com/shopping/fordham-road-business-improvement-district/ · "Fordham Road is the Bronx's premier shopping destination with almost 300 specialty stores" · facts list, retail H3, Q&A (Fordham Road store). (SBS Fordham CDNA https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-fordham.pdf excerpt: "tens of thousands of daily shoppers" — not used.)
+- "Grand Concourse Historic District Landmarks Preservation Commission Art Deco apartment buildings designated" · Firecrawl search · https://hdc.org/buildings/grand-concourse-historic-district/ · majority of district structures built 1916–1941, styles from neo-Renaissance to Art Deco (LPC report https://s-media.nyc.gov/agencies/lpc/lp/2403.pdf: Art Deco/Moderne buildings, beige brick, mosaic/terrazzo vestibules) · Grand Concourse elevator buildings H3
+- "Fieldston Historic District Riverdale Bronx privately owned streets detached houses Landmarks" · Firecrawl search · https://www.nypap.org/preservation-history/fieldston-historic-district/ · district "contains 257 houses and related structures set amidst a varied topography of winding tree-lined streets and dramatic rock..."; https://en.wikipedia.org/wiki/Fieldston,_Bronx · privately owned streets (Fieldston Property Owners' Association), LPC designation 2006 · Riverdale and Fieldston houses H3
+- "site:reddit.com r/bronx security camera building packages stolen landlord lobby" · Firecrawl search · results were r/nyc, r/AskNYC, r/Brooklyn, r/Section8PublicHousing threads — no Bronx-specific thread surfaced · EMPTY for Bronx Reddit; general theme (lobby/mailbox package theft, cameras "down") informed the AI-reality-check "video doorbell" item only, no quote used.
+- Reused silo sources (research/security-cameras.md): NYC Admin Code §22-1201+ (codelibrary.amlegal.com) and Troutman Pepper summary; NY Penal Law §250.00/§250.05 (nysenate.gov); Reolink RLC-810A spec page https://reolink.com/us/product/rlc-810a/ (8MP 4K, PoE, IP67, IR 100 ft, H.265, person/vehicle detection, 14°F–131°F) · laws H3, outdoor cameras H3, name-brand H3
+- House-brand package facts: security-camera-pricing-bronx.html MODELS list — A2 (4 Metric Eyeball 2MP Full Color, NV 90 ft, built-in audio, spotlight, 1080P DVR, no monitor), F1 (4 Eyeball 5MP DVR + 20" monitor, NV 90 ft, IP67, audio optional), C2 (4 Long Range 8MP 4K DVR + monitor, NV 100 ft, IP66, no audio), D2 (4 Long Range 8MP 4K IP NVR + monitor, NV 100 ft, IP66, no audio) · Kits section, product image alt/captions. No equipment prices printed.
+- Starting price: tools/check_page.py start_price("security-cameras","bronx") → $950 from /security-camera-pricing-bronx · hero first sentence, Quick answer, price section, Service offers.
+- People Also Ask / AI Overview: EMPTY (no PAA box available through the search tools).
+- Job photos: 7 from images/cctv-installation/cctv-installation-bronx-* (installer image excluded); captions describe only what is visible, no customer or building named.
+
+
+# Research notes: security-cameras-staten-island (built Nov 22 2026, max-daily)
+
+## Staten Island
+
+Research for /security-cameras-staten-island (equipment-store page, Staten Island borough child of /security-cameras-nyc; Brooklyn GBP #brooklyn; phone (347) 934-8335). Built Nov 22 2026. Format: exact query · platform · URL · finding · used in (section).
+
+- (direct fetch, no query) · Firecrawl scrape (PDF) · https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-pbsi.pdf · NYPD CompStat Patrol Borough Staten Island, Vol. 33 No. 46 (same issue number as the week 11/9–11/15/2026 reports in the silo). YTD 2026 vs 2025: G.L.A. 262 vs 210 (+24.8%), 28-day 31 vs 21 (+47.6%); burglary 227 vs 287 (−20.9%), 28-day 12 vs 34 (−64.7%); petit larceny 2,825 vs 3,512 (−19.6%); retail theft 1,408 vs 2,010 (−30.0%); grand larceny 1,296 vs 1,315 (−1.4%). Preliminary. · The Neighborhood (CompStat table, facts list), AI reality check, hero sources stamp
+- "Staten Island car thefts driveway 2026 stolen vehicles NYPD silive" · Firecrawl search + scrape · https://www.silive.com/crime-safety/2026/07/staten-island-car-thefts-spike-47-in-2026-heres-what-law-enforcement-is-doing-about-it.html · SILive, Maura Grunlund, July 24 2026: vehicle thefts up ~47%, 163 through July 19 vs 111; 16 thefts July 6–12; DA Michael E. McMahon: "a troubling trend that demands immediate attention"; borough reversed a similar spike before. · The Neighborhood ("Cars taken from driveways and curbs")
+- "Staten Island package theft porch pirates 2025 police silive" · Firecrawl search + scrape · https://www.silive.com/crime-safety/2024/08/nypd-organized-ring-of-porch-pirates-preying-on-staten-island-residents.html · SILive, Luke Peteley, Aug 5 2024: NYPD warns of organized crew targeting AT&T/Apple phone deliveries; Lt. Francis Depalma quote "year to date, we're looking at a vast amount of package thefts that's affecting Staten Island"; advice: require signature, refuse people asking to take package back. · The Neighborhood ("Packages on Island porches")
+- same query · Firecrawl scrape · https://www.silive.com/crime-safety/2025/08/we-have-cameras-and-still-homeowner-decries-package-thefts-on-staten-island.html · SILive staff, Aug 7 2025: Elm Park (Morningstar Rd & Dixon Ave) porch theft Aug 2 2025 in view of "a big surveillance camera"; quote "we have cameras and someone is still stealing"; no arrest. · The Neighborhood, AI reality check ("Any wide-angle camera will catch a face")
+- "Staten Island housing stock one- and two-family homes share homeownership rate Furman Center" · Firecrawl search + scrape · https://www.furmancenter.org/neighborhoods/staten-island/ · Homeownership 67.7% in 2024 vs citywide 32.7%; housing units series ending 185,848 (latest figure). · The Neighborhood intro, facts list
+- same query · Firecrawl scrape (PDF) · https://www.osc.ny.gov/files/reports/osdc/pdf/report-7-2019.pdf · NYS Comptroller "An Economic Snapshot of Staten Island" (Sept 2018): two-thirds of commuters drive to work (~3x rest of city); Sandy caused 23 deaths on SI; East and South Shores hardest hit, nearly a quarter of NYC buildings severely damaged/destroyed; record 9,500 businesses in 2017, >2/3 with fewer than five employees; retail ~1,300 firms. · The Neighborhood (intro, Sandy), facts list, Commercial intro, AI reality check
+- "Build It Back Staten Island homes elevated number completed Sandy" · Firecrawl search + scrape · https://www.nyc.gov/site/housingrecovery/disaster-recovery/single-family-program.page · Build It Back: Repair with Elevation raised substantially damaged homes to flood elevation standards; Rebuild built new elevated homes; modular pilot 103 homes incl. 32 on Staten Island. · The Neighborhood (Sandy), Building Specialists (raised homes)
+- "Oakwood Beach Ocean Breeze Graham Beach NY Rising buyout homes Staten Island number acquired" · Firecrawl search (snippet) · https://www.pbs.org/newshour/show/sandy-battered-homeowners-take-buyouts-rather-rebuild · PBS NewsHour: "nearly every one of the 180 homeowners here in Oakwood Beach has taken the voluntary buyout" within three years of Sandy. · The Neighborhood (Sandy)
+- "South Shore Staten Island Coastal Storm Risk Management project seawall levee ..." · Firecrawl search (snippets) · https://www.nps.gov/gate/learn/news/the-national-park-service-and-new-york-city-announce-path-forward-on-construction-of-the-staten-island-coastal-storm-risk-management-project-and-remediation-across-three-boroughs.htm · NPS (archived): 5.3-mile project, 4.3-mile seawall with promenade, one mile of levees/floodwalls, deployable feature at Hylan Blvd. · The Neighborhood (Sandy), facts list
+- same query · Firecrawl search (snippet) · https://www.nan.usace.army.mil/Missions/Civil-Works/Projects-in-New-York/South-Shore-of-Staten-Island/ · USACE NY District May 2026 update: Area E (South Beach) interior drainage contract on temporary hold over contractor issues; remaining contract designs under way. · The Neighborhood (Sandy)
+- "Staten Island commercial corridors Forest Avenue Richmond Avenue Hylan Boulevard Bay Street retail NYC SBS business improvement district" · Firecrawl search (page content) · https://www.forestavenuebid.com/ · Forest Avenue BID, Hart Blvd to Broadway: 153 businesses, 156 property owners. · Commercial (strip plazas), facts list
+- same query · Firecrawl search (snippet) · https://www.nyc.gov/site/hpd/services-and-information/baystreet.page · Bay Street Corridor plan: support new and existing businesses and new commercial development. · Commercial (Bay Street, St. George)
+- "Staten Island warehouses Matrix Global Logistics Park Bloomfield Amazon JFK8 square feet" · Firecrawl search (snippets) · https://www.margulieshoelzli.com/projects/matrix-global-logistics-park/ ; https://www.silive.com/news/2020/10/amazon-leases-its-third-staten-island-warehouse.html · Matrix Global Logistics Park: 400-acre site at the foot of the Goethals Bridge; Amazon leased a 975,000 sq ft building as its third SI warehouse (sort center). · The Neighborhood (West Shore)
+- "site:reddit.com statenisland security camera recommendation house" · Firecrawl search (titles/snippets only) · https://www.reddit.com/r/statenisland/comments/1vlcn52/flock_cameras/ · r/statenisland "Flock cameras": the few documented Flock/ALPR cameras on SI seem to be on private property. · What We Sell (plate capture)
+- same query · Firecrawl search (title only) · https://www.reddit.com/r/statenisland/comments/1k1i6k2/does_this_person_know_theyre_being_watched_by/ · thread title "Does this person know they're being watched by random people" (camera viewable online). · Comparisons (cybersecurity)
+- same query · Firecrawl search · https://www.reddit.com/r/statenisland/comments/18s4hir/any_home_security_recommendations/ · resident asking for outdoor camera + alarm recommendations; no usable detail beyond the question. · not used beyond angle
+- Re-used from research/security-cameras.md (verified 2026-11-21): NYC Admin Code §22-1201 et seq. (codelibrary.amlegal.com) and Troutman summary (troutman.com) on biometric signage; NY Penal Law §§250.00/250.05 (nysenate.gov); Lorex E842CA spec sheet (cdn.lorex.com: −40°F to +140°F, IP67, PoE, 150 ft ambient night vision). · Commercial (laws), Kits (partner brands)
+- House-brand kit facts: security-camera-pricing-staten-island.html MODELS list (A3 4 Eyeball 2MP IP NVR, nv 100, audio; F2 4 Dome 5MP DVR + monitor, nv 100, IP67, audio optional; C3 4 Eyeball 8MP 4K full color audio, nv 120, IP66, DVR, monitor; D3 4 Eyeball 8MP 4K IP full color, nv 120, IP66, NVR, monitor). C3 package photo shows a recorder labelled "NVR" while the spec lists a 4K DVR — caption says "The package spec lists a 4K DVR". No equipment prices printed. · Kits section, product figures
+- Starting price $999: tools/check_page.py start_price("security-cameras","staten-island") from /security-camera-pricing-staten-island (lowest MODELS price). · hero first sentence, quick answer, pricing section, Service offers
+- Google People Also Ask / AI Overview: EMPTY (not accessible in build env). Question seeds from keywords/security-cameras.md plus the local findings above.
+
+
+# Research notes: security-cameras-nassau-county (built Nov 22 2026, max-daily)
+
+## Nassau County
+
+Research for /security-cameras-nassau-county (equipment-store page, Nassau County child of /security-cameras-long-island; phone (516) 346-5778; Brooklyn GBP #brooklyn). Built Nov 22 2026. Format: exact query · platform · URL · finding · used in (section). Facts already used on the Long Island hub (2023 Massapequa/Wantagh porch thefts, 2024 DCJS Nassau burglary counts, NCPD SPIN) were deliberately not reused.
+
+- "Nassau County housing units owner occupied single-family detached percent census QuickFacts" · WebSearch + WebFetch · https://www.census.gov/quickfacts/nassaucountynewyork · Population 1,398,939 (July 1 2025, V2025); housing units 480,591 (July 1 2025); owner-occupied rate 81.9% (2020-2024); median owner-occupied value $684,700; persons per household 2.99; households 458,166; broadband subscription 94.8% · The Neighborhood (opening paragraph, facts list)
+- "Levittown history number of houses built Levitt 1947 1951 Cape Cod ranch" · WebSearch + WebFetch · https://www.history.com/articles/levittown-suburbs-tract-housing · Island Trees/Levittown finished 1951 with 17,447 homes; original house two-bedroom, one-bath, ~750 sq ft on a concrete slab; Levitt crews averaged 10-12 houses a day · The Neighborhood ("A county built in a hurry"), Q&A (no-basement cable route)
+- same query · WebFetch · https://patch.com/new-york/levittown-ny/how-levitt-sons-expanded-levittown · ~6,000 Cape Cods by Christmas 1948; 11,447 ranch houses in five styles over the next three years; all 17,447 homes complete Oct 1951 · The Neighborhood, facts list, Homes section (Capes and ranches)
+- "Nassau County villages towns cities how many 64 villages two cities three towns" · WebSearch + WebFetch · https://nassaucountyny.gov/3406/Cities-Towns-Villages · "Within Nassau County there are 2 cities, 3 towns, 64 incorporated villages and over 100 unincorporated areas"; examples Glen Cove, Long Beach, Town of Oyster Bay, Villages of Mineola and Great Neck · The Neighborhood ("Two cities, three towns, sixty-four villages"), facts list, Coverage Area
+- "Nassau County Police Department eight precincts list precinct locations" · WebSearch + WebFetch · https://www.pdcn.org/383/NCPD-Precincts · 8 precincts: 1st 900 Merrick Rd Baldwin; 2nd 7700 Jericho Tpke Woodbury; 3rd 214 Hillside Ave Williston Park; 4th 1699 Broadway Hewlett; 5th 1655 Dutch Broadway Elmont; 6th 100 Community Dr E Manhasset; 7th 3636 Merrick Rd Seaford; 8th 299 Hicksville Rd Bethpage · The Neighborhood (precinct table), Q&A (village police vs NCPD)
+- "Nassau County crime 2025 year end statistics Blakeman Ryder burglaries decreased percent" · WebSearch + WebFetch · https://www.longislandpress.com/2026/01/19/old-westbury-crime-stats · Old Westbury PD (DCJS data): lowest index crime in at least 36 years in 2025, down 14% vs 2024, zero burglaries/attempted burglaries; Chief Stuart Cameron credited technology, criminal intelligence, outreach (paraphrase, no direct quote) · The Neighborhood (village police)
+- same query · WebFetch · https://longisland.news12.com/2026/03/09/blakeman-touts-crime-drop-new-immigrant-based-worker-program-during-state-of-the-county-address/198yxO507SkwrISRPet0Uh · Mar 9 2026 State of the County, Mineola: Blakeman said crime down 10% vs same time last year · The Neighborhood (crime numbers), AI reality check
+- same query · WebFetch · https://api.politifact.com/factchecks/2026/apr/03/bruce-blakeman/nassau-tops-safest-county-rankings-but-blakemans-c · PolitiFact (Apr 3 2026, DCJS rates): index crime rate down 13% 2022-2024; property crime rate up 29% since 2021; Nassau named safest county 2020, 2021, 2022, 2024 · The Neighborhood (crime numbers), AI reality check
+- "village code Nassau County NY security cameras pointed at neighbor property ordinance ecode360 surveillance camera" · WebSearch + WebFetch · https://abc7ny.com/post/village-considers-residential-surveillance-camera-rule/2524365/ · Oct 12 2017: Village of Flower Hill considered a rule after a resident put two cameras in a tree aimed at a neighbor's backyard; proposed purpose "preclude the installation and use of an imaging device with no legitimate purpose" · Business section (laws), Q&A
+- same query · WebFetch · https://www.cbsnews.com/newyork/news/flower-hill-security-cameras · Oct 12 2017: Flower Hill (~4,700 residents); visual recording not illegal; public hearing postponed · Business section (laws)
+- "Flower Hill village local law imaging device surveillance cameras adopted 2018" · WebSearch + WebFetch · https://archive.theisland360.com/?p=99246696 · Board dropped proposed Local Law U and deferred to state law; Village Administrator Ronnie Shatzkamer: "Enforcement would be extremely difficult, because we would really not be able to tell when the camera was filming" (article undated in fetch) · Business section (laws)
+- same query · WebFetch · https://longisland.news12.com/lawrence-to-add-more-than-100-cameras-as-part-of-newly-approved-comprehensive-outdoor-surveillance-camera-system · Apr 29 2026: Village of Lawrence approved 100+ outdoor cameras incl. license plate readers, linked to NCPD command center, $250,000 mostly county grants, first such system among Nassau villages · The Neighborhood (village police), facts list
+- "Nassau County package theft porch pirates 2025 police arrest" · WebSearch + WebFetch · https://www.liherald.com/stories/cops-package-snatcher-caught-after-stealing-spree-in-rockville-centre,100410? · Feb 22 2018: arrest for package thefts at 7 homes (5 Rockville Centre, plus Oceanside, South Hempstead); South Hempstead homeowner's two outside cameras recorded the theft; footage showed packages loaded into a maroon Chevrolet Monte Carlo; RVC police used LPRs; Commissioner Charles Gennario: "If it was up to me, I'd have cameras all over the village." · The Neighborhood (packages)
+- same query · WebFetch · https://patch.com/new-york/merrick/porch-pirate-arrested-after-being-caught-video-police · May 2019, Roosevelt: Ring doorbell recorded Grant Street theft; Beechwood Ave home video surveillance recorded another; arrest May 14 2019 · The Neighborhood (packages)
+- same query · WebFetch · https://patch.com/new-york/mineola/suspected-porch-pirates-arrested-mineola-police-0 · Jan 2022: two arrested for package thefts on Latham Rd, Laurel Dr, White Rd in Mineola after a resident described their SUV; no video mentioned · The Neighborhood (packages)
+- same query · WebFetch · https://patch.com/new-york/portwashington/door-dasher-turned-porch-pirate-stole-packages-nassau-police · Oct 2023: police said a DoorDash driver used a food order as cover to take packages in Manhasset (Highland Terrace) and Sands Point · The Neighborhood (packages)
+- "North Shore Long Island Gold Coast estates mansions Nassau burglaries 2025 police Old Westbury Muttontown" · WebSearch + WebFetch · https://longisland.com/news/02-28-25/three-columbian-men-arrested-in-connection-with-multiple-nassau-county-residential-burglaries.html · Feb 28 2025: three charged for burglaries in Muttontown and Old Westbury on Nov 29, Dec 13, Dec 21 2024; evening hours; homes unoccupied; entry by breaking rear windows and sliding glass doors; jewelry, safes, heirlooms, cash taken · The Neighborhood (North Shore), kits (D4), Q&A (back of North Shore house), AI reality check
+- same query · WebFetch · https://www.longisland.com/news/07-28-26/ncpd-announces-two-additional-arrests-made-in-connection-with-multiple-burglaries-throughout-nassau-county.html · Jul 28 2026: two more arrests in NCPD Major Case Squad investigation of burglaries incl. Jericho and Manhasset; four earlier arrests announced Nov 13 2025 · The Neighborhood (North Shore)
+- "Roosevelt Field mall Garden City retail theft shoplifting arrests Nassau police 2025 2026" · WebSearch + WebFetch · https://patch.com/new-york/gardencity/nassau-police-boosts-patrols-roosevelt-field-amid-crime-spike · May 1 2023: NCPD increased officers at Roosevelt Field after a two-month rash of crimes; mall already has a permanently assigned police detail · Business section (retail)
+- "Superstorm Sandy Long Beach NY damage homes flooded Nassau South Shore ..." · WebSearch + WebFetch · https://longisland.com/news/01-08-13/hurricane-sandy-destroyed-95000-buildings-on-long-island.html · Jan 8 2013, FEMA figures: ~95,000 buildings damaged across Nassau and Suffolk; nearly 10% of homes in the two counties had some flooding · Homes section (South Shore canal houses)
+- "reddit Long Island Nassau security camera recommendation house PoE NVR Levittown" · WebSearch · (results: ipcamtalk, gummysearch, brownstoner, garagejournal; no Nassau Reddit thread) · EMPTY (no Nassau-specific Reddit content found) · not used
+- https://www.nysenate.gov/legislation/laws/PEN/250.45 (unlawful surveillance) · WebFetch · EMPTY (not accessible in build env - permission request timed out) · not cited
+- NY Penal Law §250.00 / §250.05 · silo-wide source (research/security-cameras.md) · https://nysenate.gov/legislation/laws/PEN/250.05 , https://nysenate.gov/legislation/laws/PEN/250.00 · eavesdropping / mechanical overhearing, class E felony · Business section (laws), AI reality check, Q&A (renovation)
+- Reolink RLC-810A · silo-wide source (research/security-cameras.md, verified 2026-11-21) · https://reolink.com/us/product/rlc-810a/ · 8MP 3840x2160, IR 100 ft, IP67, PoE, person/vehicle/animal detection, 14-131°F · Kits (name-brand)
+- House-brand kits A4, E2, D4, F3 (+ series facts) · local file security-camera-pricing-nassau-county.html MODELS list · A4: 4 dome 2MP, 1080p DVR, NV 60 ft, motion detection, 100 ft wire runs, phone/PC access, no monitor; E2: 4 dome 4MP IP, 4K NVR + 20" monitor, NV 100 ft, IP67, audio; D4: 4 eyeball 5MP IP, AI human/vehicle, siren, flashing lights, two-way talk, full color + audio, NV 90 ft, IP67, 4K NVR + 20" monitor; F3: 4 metric eyeball 5MP full color, built-in audio, dusk-to-dawn spotlight, NV 90 ft, IP67, 5MP DVR + 20" monitor · Kits section, image captions. NOTE: images/products/f3.png is byte-identical to e2.png (dome cameras); F3 caption says the spec lists metric eyeballs.
+- Recorder photo (job library, cctv-installation-nassau-county-recorder-live-grid-on-wall-monitor.webp) · visual read · 32-channel grid, D1-D23 active (86-453 Kb/s; sum ≈5,268 Kb/s), D24-D32 = 0 · Equipment section storage math, Q&A (sub-stream)
+- Starting price · tools/check_page.py start_price("security-cameras","nassau-county") · $999 from /security-camera-pricing-nassau-county (A1) · hero first sentence, quick answer, pricing section, Service offers
+- People Also Ask / AI Overview: EMPTY (no PAA tool in build env); question seeds from keywords/security-cameras.md and the findings above.
+
+
+# Research notes: security-cameras-suffolk-county (built Nov 22 2026, max-daily)
+
+## Suffolk County
+
+Research for /security-cameras-suffolk-county (equipment-store page, child of /security-cameras-long-island; Brooklyn GBP #brooklyn, 1282 Troy Ave; direct line (631) 407-2884). Built Nov 22 2026. Format: exact query · platform · URL · finding · used in (section).
+
+Angle: "a camera store that thinks in acres" — Suffolk's detached houses, long driveways, detached garages and outbuildings, East End second homes, trailers/watercraft in side yards, farms/vineyards/farm stands, marinas, and the Route 25/347/110 retail corridors; equipment chosen by distance (328 ft PoE limit, switches in outbuildings, extenders, fiber, wireless bridges, varifocal/4K lenses). Not reused from the LI hub: SCPD camera registry, Isaias, Southampton Housing Plan, salt-air/vacation-home FAQs. Not reused from cctv-installation-suffolk-county: Goodale Farms, Southold chief quote, July 2026 storm, Hauppauge RPA figures.
+
+- (direct API, no query) · Firecrawl Alexandria census-gov census/data (ACS 2024 5-yr, B25001_001E, B25004_006E, B25024_002E, county subdivisions of state 36 county 103) · https://api.census.gov/data/2024/acs/acs5?get=group(B25001)&ucgid=pseudo(0500000US36103$0600000) (+ B25004, B25024) · Housing units / seasonal-occasional / 1-unit detached: Babylon 72,583/385/54,026; Brookhaven 179,374/3,818/140,031; East Hampton 22,562/10,611/19,542; Huntington 73,982/243/62,121; Islip 109,533/2,834/82,205; Riverhead 16,498/1,150/11,342; Shelter Island 3,440/1,946/3,305; Smithtown 40,714/107/35,041; Southampton 46,089/18,346/40,946; Southold 15,564/4,682/14,019; Poospatuck 215/0/144; Shinnecock 218/14/194. Sums (our arithmetic): 580,772 units; 44,136 seasonal (7.6%); 462,916 detached (79.7%); five East End towns 36,735 seasonal (83% of county). · The Neighborhood (intro paras, town table, facts list)
+- "Suffolk County police package theft porch pirate arrest 2025" · WebSearch + WebFetch · https://www.suffolkcountyda.org/ringleader-and-13-others-indicted-for-allegedly-orchestrating-sophisticated-porch-pirate-criminal-enterprise/ · 14 indicted (ringleader of the Bronx), Oct 2023–Feb 2025, 31 Suffolk towns/hamlets, insider FedEx tracking data (names, addresses, device types, tracking numbers), 200+ new phones and $100,000+ cash recovered at a Bronx stash house; latest arraignment Nov 17 2025 (release undated; News 12 dated Nov 24 2025) · The Neighborhood (package H3), facts list, AI reality check (removed in trim; kept in Neighborhood)
+- "Suffolk County NY outboard motor theft marina boats stolen police 2025" · WebSearch + WebFetch · https://www.suffolkcountyda.org/duo-indicted-for-jet-ski-and-boat-larceny-spree/ · Two NYC men indicted; five thefts Oct 30–Dec 10 2024 of jet skis and a boat each with trailer: driveway Lindenhurst, backyard Oakdale, side yard West Islip, parking lot Bay Shore, driveway East Islip; arraignments Feb 11 and Mar 2 2026; DA Tierney quote "allegedly drove out to Suffolk County to prey on our residents" · The Neighborhood (driveways H3), Q&A (boat/jet ski/trailer)
+- "Suffolk County catalytic converter OR construction equipment theft police warning 2026" · WebSearch + WebFetch · https://longisland.news12.com/two-more-suspects-arrested-in-suffolk-catalytic-converter-theft-ring · News 12, Apr 1 2026: March 2026 thefts, March 7 Lindenhurst theft captured on security footage, four arrests; quote Joseph Muratore "We never even heard it until she went out that morning to go to work." (father not named on page) · The Neighborhood (driveways H3), Q&A (catalytic converter)
+- same query · WebFetch · https://longisland.news12.com/police-11-catalytic-converters-stolen-from-buses-at-suffolk-yard · June 14 2022, 11 converters from buses at a Ronkonkoma bus yard; no camera mention · not used (old)
+- "Suffolk County agriculture census farms acres market value Long Island wineries number" · WebSearch + WebFetch · https://www.osc.ny.gov/press/releases/2024/11/dinapoli-agriculture-report-reveals-economic-growth-and-challenges-facing-new-york-farms-long-island · Nov 2024: Suffolk farms sold $268M+ direct to consumers/local retailers/processors in 2022, most in state; nursery/greenhouse/floriculture/sod $239,845,000 ranked 1st; aquaculture $9,196,000 ranked 1st; Long Island 85 wineries, 2nd in state · The Neighborhood (farms H3), facts list
+- "Long Island Wine Council number of wineries North Fork Route 25 2026" · WebSearch + WebFetch · https://liwines.com/about/ · 57 producers across North Fork, South Fork and western Suffolk; first vineyard planted 1973 in Cutchogue (Hargrave); Long Island AVA 2001 · The Neighborhood (farms H3)
+- "Suffolk County Route 347 corridor Nesconset-Port Jefferson Highway retail development traffic study" · WebSearch + WebFetch · https://www.governor.ny.gov/news/governor-hochul-announces-work-underway-latest-phase-state-route-347-reconstruction-project · Aug 26 2025: Route 347 corridor 12 miles between Route 454 and Route 25A; 60,000+ vehicles daily; $44.7M phase Hallock Rd–Nicolls Rd adds third lane · The Neighborhood (retail corridors H3), facts list
+- "Smith Haven Mall OR Tanger Outlets Riverhead retail theft arrested Suffolk police 2026" · WebSearch · riverheadnewsreview.timesreview.com blotters, riverheadlocal.com/topic/shoplifting · only older individual blotter items; nothing citable as a trend · not used
+- "site:reddit.com r/longisland security camera detached garage OR barn OR driveway Suffolk recommendation" · Firecrawl search · https://www.reddit.com/r/longisland/comments/1kc5ygw/home_security_cameras/ (snippet: "Simple Ring camera doorbell and Wyze cameras are as good as you can find. They are plug and play and not expensive.") ; https://www.reddit.com/r/homesecurity/comments/1ice3v7/help_with_security_camera_install_on_a_detached/ (snippet: with clear line of sight, a varifocal/zoom camera on the house aimed at the detached garage) · snippets only (thread bodies not scraped) · AI reality check (plug-and-play claim), Q&A (gate 200 ft lens)
+- (direct) · Firecrawl scrape · https://reolink.com/us/product/rlc-823a/ · Reolink RLC-823A: 3840x2160 8MP, 5x optical zoom, pan 360 / tilt 0–90, night vision up to 60 m (190 ft), IP66, IEEE 802.3at PoE (PoE+), -10 to +55 C (14–131 F), person/vehicle/pet detection, two-way audio, spotlight 945 lm, auto-tracking, microSD 256GB · Kits (name-brand H3). (https://reolink.com/product/rlc-823a/ via WebFetch: EMPTY (not accessible in build env — permission request timed out); Firecrawl /us/ URL used instead.)
+- (direct) · Firecrawl scrape · https://www.nysenate.gov/legislation/laws/LAB/203-C · Labor Law §203-c: no employer may cause a video recording of an employee in a restroom, locker room, or room designated for changing clothes, unless authorized by court order · Business (laws H3), Q&A (tasting room), AI reality check, FAQ (NYC sign law)
+- Re-used, verified in research/security-cameras.md (silo sources): NY Penal Law §250.00/§250.05 (nysenate.gov) — eavesdropping/mechanical overhearing, class E felony · Business (laws H3)
+- Re-used, verified 2026-11-16 in research/cctv-installation.md (Suffolk section): NYS DCJS Index Crimes by County, County Total Suffolk — 2024 index 19,213, burglary 710, larceny 15,811, MVT 1,241; 2023 burglary 816, MVT 1,534; 2022 burglary 1,018 · https://data.ny.gov/Public-Safety/Index-Crimes-by-County-and-Agency-Beginning-1990/ca8h-8gjq · The Neighborhood (crime H3), facts list. Fresh re-query: "Suffolk County 2024 index crimes burglary larceny DCJS" · WebSearch + WebFetch https://apps.criminaljustice.ny.gov/crimnet/ojsa/indexcrimes/Suffolk.pdf → only 2015–2019 data; not used.
+- NYC Admin Code §22-1201+ biometric signage (silo source) · used only to say it is a NYC code and does not cover Suffolk · Business (laws H3), AI reality check, FAQ
+- Technical (general knowledge, no stat claimed as sourced): Ethernet/PoE 100 m (328 ft) per segment; storage arithmetic 6 Mbps → 64.8 GB/day/camera, 6 cameras 388.8 GB/day, 8TB ≈ 20 days, 16TB ≈ 41 days (our arithmetic) · Catalog, Equipment, Q&A
+- Google PAA / AI Overview: EMPTY (not accessible in build env); question seeds from keywords/security-cameras.md and the findings above.
+- House-brand facts: security-camera-pricing-suffolk-county.html MODELS (E3, F4, F5, D5 and series ranges); no prices printed. Product photos: E3 and F4 images are identical, D5 and F5 images are identical, and all four show a recorder labelled "NVR" though F4/F5 specs list a 5MP DVR — captions for F4/F5 say "The package spec lists a 5MP DVR".
+- Starting price: tools/check_page.py start_price("security-cameras","suffolk-county") → $1,099 (/security-camera-pricing-suffolk-county, A1) · hero first sentence, quick answer, pricing, Service offers.
+- Job photos (non-installer, from images/cctv-installation/cctv-installation-suffolk-county-*): per research/cctv-installation.md these are Rockland/Nassau/Manhattan jobs; captions say "From our job library" and never claim a Suffolk location or customer.

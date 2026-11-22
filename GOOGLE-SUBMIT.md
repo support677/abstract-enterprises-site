@@ -3723,3 +3723,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-21 | https://www.abstractenterprisessecuritysystems.com/security-cameras-hudson-valley | QUEUED
 2026-11-21 | https://www.abstractenterprisessecuritysystems.com/security-cameras-manhattan | QUEUED
 2026-11-21 | https://www.abstractenterprisessecuritysystems.com/security-cameras-brooklyn | QUEUED
+2026-11-22 | https://www.abstractenterprisessecuritysystems.com/security-cameras-queens | QUEUED
+2026-11-22 | https://www.abstractenterprisessecuritysystems.com/security-cameras-bronx | QUEUED
+2026-11-22 | https://www.abstractenterprisessecuritysystems.com/security-cameras-staten-island | QUEUED
+2026-11-22 | https://www.abstractenterprisessecuritysystems.com/security-cameras-nassau-county | QUEUED
+2026-11-22 | https://www.abstractenterprisessecuritysystems.com/security-cameras-suffolk-county | QUEUED
