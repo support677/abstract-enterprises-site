@@ -8,7 +8,7 @@ Queue + order: seo/gamma-queue.csv (tier 1 hubs -> tier 2 boroughs/counties -> t
 ## Platform order (best for AESS first: Google ranking + link value + can be automated)
 | # | Platform | Link value | How it's built | Status |
 |---|---|---|---|---|
-| 1 | Gamma (gamma.app) | TBD (check after indexing on) | Gamma API + Chrome to turn on indexing | LIVE - 101 pages (Nov 21); indexing OFF on all - Claude in Chrome not reachable from the scheduled runs (Nov 14, Nov 15, Nov 16, Nov 17, Nov 18, Nov 19, Nov 20, Nov 21) |
+| 1 | Gamma (gamma.app) | TBD (check after indexing on) | Gamma API + Chrome to turn on indexing | LIVE - 113 pages (Nov 22); indexing OFF on all - Claude in Chrome not reachable from the scheduled runs (Nov 14, Nov 15, Nov 16, Nov 17, Nov 18, Nov 19, Nov 20, Nov 21, Nov 22) |
 | 2 | Google Sites | followed | Chrome (one site, silo: hub > borough > neighborhood) | needs Chrome |
 | 3 | Blogger (blogspot) | followed | Blogger API (needs Google connection) or Chrome | needs connection (no Composio connection Nov 16; Chrome not reachable from scheduled runs) |
 | 4 | WordPress.com | followed | WordPress.com API (Composio needs auth config) | needs setup (no Composio connection Nov 16, Nov 17, Nov 18, Nov 19, Nov 20, Nov 21) |
@@ -23,3 +23,5 @@ Queue + order: seo/gamma-queue.csv (tier 1 hubs -> tier 2 boroughs/counties -> t
 | 13 | Pinterest | nofollow | Pinterest API (connecting) | not connected - Composio shows no ACTIVE pinterest account (Nov 16, Nov 17, Nov 18, Nov 19, Nov 20, Nov 21) |
 | 14 | Patch / Nextdoor | local | Chrome, per town (not per page) | needs accounts |
 | 15 | Scribd / Issuu / SlideShare / Prezi | varies | PDF per hub/county | planned |
+
+- 2026-11-22 sitemap re-pull: 45 new live service pages added to seo/gamma-queue.csv (cctv-installation x15, elevator-access-control-installation x15, security-cameras x10 = tier 1/2; 2gig-vs-qolsys, doorbird-vs-2n, akuvox-vs-butterflymx = tier 3). Pricing pages, calculators, jobs/careers and utility pages skipped.
