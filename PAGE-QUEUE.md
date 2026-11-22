@@ -443,11 +443,11 @@ LIVE | security-cameras-long-island | Security Cameras | Long Island hub | up / 
 LIVE | security-cameras-hudson-valley | Security Cameras | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 LIVE | security-cameras-manhattan | Security Cameras | Manhattan | up /security-cameras-nyc | (929) 560-0737 | GBP Bronx
 LIVE | security-cameras-brooklyn | Security Cameras | Brooklyn | up /security-cameras-nyc | (347) 934-8335 | GBP Brooklyn
-TODO | security-cameras-queens | Security Cameras | Queens | up /security-cameras-nyc | (347) 434-6392 | GBP Bronx
-TODO | security-cameras-bronx | Security Cameras | Bronx | up /security-cameras-nyc | (646) 490-0629 | GBP Bronx
-TODO | security-cameras-staten-island | Security Cameras | Staten Island | up /security-cameras-nyc | (347) 934-8335 | GBP Brooklyn
-TODO | security-cameras-nassau-county | Security Cameras | Nassau | up /security-cameras-long-island | (516) 346-5778 | GBP Brooklyn
-TODO | security-cameras-suffolk-county | Security Cameras | Suffolk | up /security-cameras-long-island | (631) 407-2884 | GBP Brooklyn
+BUILDING 2026-11-22T18:17Z max-daily | security-cameras-queens | Security Cameras | Queens | up /security-cameras-nyc | (347) 434-6392 | GBP Bronx
+BUILDING 2026-11-22T18:17Z max-daily | security-cameras-bronx | Security Cameras | Bronx | up /security-cameras-nyc | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-22T18:17Z max-daily | security-cameras-staten-island | Security Cameras | Staten Island | up /security-cameras-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-22T18:17Z max-daily | security-cameras-nassau-county | Security Cameras | Nassau | up /security-cameras-long-island | (516) 346-5778 | GBP Brooklyn
+BUILDING 2026-11-22T18:17Z max-daily | security-cameras-suffolk-county | Security Cameras | Suffolk | up /security-cameras-long-island | (631) 407-2884 | GBP Brooklyn
 TODO | security-cameras-westchester-county | Security Cameras | Westchester | up /security-cameras-hudson-valley | (914) 877-2578 | GBP Bronx
 TODO | security-cameras-rockland-county | Security Cameras | Rockland | up /security-cameras-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | security-cameras-orange-county | Security Cameras | Orange | up /security-cameras-hudson-valley | (845) 640-3835 | GBP Bronx
