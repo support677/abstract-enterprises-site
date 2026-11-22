@@ -116,6 +116,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-21 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 2 indexed (access-control olinville, soundview; URL is on Google), 0 failed, 2725 queued. Requested URLs were Crawled - currently not indexed. "Quota Exceeded" on the 12th request (access-control-installation-throggs-neck-bronx-ny, Crawled - currently not indexed), which stays QUEUED; next run starts there.
 2026-11-21 evening (scheduled, 01:53 UTC Nov 22, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2731 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-22T01:52:04Z, 3100 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2069 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected access-control-installation-throggs-neck-bronx-ny (URL is not on Google; Crawled - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at access-control-installation-throggs-neck-bronx-ny.
 
+2026-11-22 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 8 indexed (cat6-repair mott haven/tottenville; sonos throgs neck/st george/upper west side/williamsburg; access-control windsor terrace; alarm bath beach — URL is on Google), 0 failed, 2712 queued. Requested URLs were Crawled/Discovered - currently not indexed. The first Request-indexing click (throggs neck) closed the live-test dialog with no result and borough park's live test was cut off; both succeeded after a page reload and retry. "Quota Exceeded" on the 12th request (alarm-installation-boerum-hill-brooklyn-ny, Crawled - currently not indexed), which stays QUEUED; next run starts there.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-11-15 (Anwar): CCTV INSTALLATION HUBS GO FIRST — above every other line in this file. Big gap: 256 CCTV searches, 15,522 impressions, 4 clicks, no CCTV page. The builder adds each cctv-installation-* hub here as QUEUED the moment it ships; the morning Request-indexing run requests these before anything else. Only request a URL that returns 200. -->
@@ -666,25 +668,25 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-soundview-bronx-ny | INDEXED 2026-11-21
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-south-williamsburg-brooklyn-ny | REQUESTED 2026-11-21
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-starrett-city-brooklyn-ny | REQUESTED 2026-11-21
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-throggs-neck-bronx-ny | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-tremont-bronx-ny | QUEUED
-2026-10-19 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-washingtonville-bronx-ny | QUEUED
-2026-10-19 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-westchester-square-bronx-ny | QUEUED
-2026-10-19 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-williamsbridge-bronx-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-mott-haven-bronx-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-tottenville-staten-island-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-throgs-neck-bronx-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-st-george-staten-island-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-upper-west-side-manhattan-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-williamsburg-brooklyn-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-williamsburg-brooklyn-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-windsor-terrace-brooklyn-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-kingsbridge-heights-bronx-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-borough-park-brooklyn-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-brighton-beach-brooklyn-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-brooklyn-heights-brooklyn-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-bath-beach-brooklyn-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-bedford-park-bronx-ny | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-throggs-neck-bronx-ny | REQUESTED 2026-11-22
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-tremont-bronx-ny | REQUESTED 2026-11-22
+2026-10-19 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-washingtonville-bronx-ny | REQUESTED 2026-11-22
+2026-10-19 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-westchester-square-bronx-ny | REQUESTED 2026-11-22
+2026-10-19 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-williamsbridge-bronx-ny | REQUESTED 2026-11-22
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-mott-haven-bronx-ny | INDEXED 2026-11-22
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-tottenville-staten-island-ny | INDEXED 2026-11-22
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-throgs-neck-bronx-ny | INDEXED 2026-11-22
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-st-george-staten-island-ny | INDEXED 2026-11-22
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-upper-west-side-manhattan-ny | INDEXED 2026-11-22
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-williamsburg-brooklyn-ny | INDEXED 2026-11-22
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-williamsburg-brooklyn-ny | REQUESTED 2026-11-22
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-windsor-terrace-brooklyn-ny | INDEXED 2026-11-22
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-kingsbridge-heights-bronx-ny | REQUESTED 2026-11-22
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-borough-park-brooklyn-ny | REQUESTED 2026-11-22
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-brighton-beach-brooklyn-ny | REQUESTED 2026-11-22
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-brooklyn-heights-brooklyn-ny | REQUESTED 2026-11-22
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-bath-beach-brooklyn-ny | INDEXED 2026-11-22
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-bedford-park-bronx-ny | REQUESTED 2026-11-22
 2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-boerum-hill-brooklyn-ny | QUEUED
 2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-brooklyn-navy-yard-brooklyn-ny | QUEUED
 2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-brownsville-brooklyn-ny | QUEUED
