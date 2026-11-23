@@ -1,5 +1,10 @@
 # GSC optimizer log
 
+## 2026-11-23 — repair intent routed to repair pages (SEO report fix #1)
+93 intercom installation pages now link to the repair page for their area (Brooklyn 25, Bronx 59, Queens 2, Manhattan, Staten Island, Long Island, Nassau, Suffolk, Westchester, Rockland). New rule BLUEPRINT §12.0: repair-intent queries never get worked into installation pages.
+Baseline (GSC Oct 23–Nov 20): intercom repair brooklyn 300 impr / pos 20.0; intercom repair nyc 184 / 23.6; intercom repair bronx 185 / 16.0; intercom repair queens 162 / 13.9; intercom repair manhattan 157 / 31.0. Re-check ~Dec 21.
+Not done: 65 neighborhood installation pages have no repair card to hang a link on; /intercom-repair-ulster-county is linked from 13 repair pages but doesn't exist; /intercom-installation-brooklyn-ny and -brooklyn-new-york (and the two Queens pages) are self-canonical duplicates — flagged for Anwar, not changed.
+
 ## 2026-11-02 — page-2 internal-link boost (manual run, tools/gsc_internal_links.py)
 Source: Search Console Oct 3–31, queries at avg position 11–20 sorted by impressions. 3 contextual in-body links per target (§12.4).
 | Target page | Keywords (pos, impr) | Linked from |

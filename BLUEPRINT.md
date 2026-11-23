@@ -250,6 +250,11 @@ Wrong GBP on a page = rejected.
 
 Only plays AESS wasn't already running were added. Already covered elsewhere: content refresh = the daily "GSC zero-click keyword optimizer" task.
 
+### 12.0 Repair vs installation intent (Nov 23 2026, SEO competitor-gap report fix #1)
+- Search Console showed repair searches ("intercom repair brooklyn", 300 impressions, avg position 20) landing on installation pages while the matching repair page sat unseen, split across up to 13 of our pages.
+- Repair-intent words (repair, fix, broken, not working, stopped working, troubleshoot, service call) go on the repair page for that service and area, never worked into an installation page's title, meta, subheads or FAQ, whenever a `<service>-repair-<area>` page exists. This includes the daily GSC zero-click optimizer and the weekly decay refresh.
+- Every installation page links to its area's repair page in a contextual sentence ("Already have a system that stopped working? See intercom repair in Brooklyn."). Done for 93 intercom installation pages on Nov 23 2026; the same goes for cameras, access control and alarms.
+
 ### 12.1 Answer first (element 32)
 - Within the first 100 words of visible body copy (directly under the hero subhead), a 2–3 sentence **"Quick answer"** box that answers the page's search intent outright: what it costs in this area (area price range per §9 / [[aess-pricing]] rules — never an invented price), what's included, how fast we book.
 - Product/package pages: a 2–3 sentence summary of features + benefits placed right under the title.
