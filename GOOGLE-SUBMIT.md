@@ -3737,3 +3737,6 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-23 | https://www.abstractenterprisessecuritysystems.com/security-cameras-orange-county | QUEUED
 2026-11-23 | https://www.abstractenterprisessecuritysystems.com/security-cameras-putnam-county | QUEUED
 2026-11-23 | https://www.abstractenterprisessecuritysystems.com/security-cameras-dutchess-county | QUEUED
+2026-11-23 | https://www.abstractenterprisessecuritysystems.com/intercom-repair-nyc | QUEUED
+2026-11-23 | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-brooklyn | QUEUED
+2026-11-23 | https://www.abstractenterprisessecuritysystems.com/parking-lot-camera-installation-brooklyn | QUEUED
