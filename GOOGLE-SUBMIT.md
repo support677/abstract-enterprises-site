@@ -3732,3 +3732,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-22 | https://www.abstractenterprisessecuritysystems.com/security-cameras-staten-island | QUEUED
 2026-11-22 | https://www.abstractenterprisessecuritysystems.com/security-cameras-nassau-county | QUEUED
 2026-11-22 | https://www.abstractenterprisessecuritysystems.com/security-cameras-suffolk-county | QUEUED
+2026-11-23 | https://www.abstractenterprisessecuritysystems.com/security-cameras-westchester-county | QUEUED
+2026-11-23 | https://www.abstractenterprisessecuritysystems.com/security-cameras-rockland-county | QUEUED
+2026-11-23 | https://www.abstractenterprisessecuritysystems.com/security-cameras-orange-county | QUEUED
+2026-11-23 | https://www.abstractenterprisessecuritysystems.com/security-cameras-putnam-county | QUEUED
+2026-11-23 | https://www.abstractenterprisessecuritysystems.com/security-cameras-dutchess-county | QUEUED

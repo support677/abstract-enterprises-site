@@ -448,11 +448,11 @@ LIVE | security-cameras-bronx | Security Cameras | Bronx | up /security-cameras-
 LIVE | security-cameras-staten-island | Security Cameras | Staten Island | up /security-cameras-nyc | (347) 934-8335 | GBP Brooklyn
 LIVE | security-cameras-nassau-county | Security Cameras | Nassau | up /security-cameras-long-island | (516) 346-5778 | GBP Brooklyn
 LIVE | security-cameras-suffolk-county | Security Cameras | Suffolk | up /security-cameras-long-island | (631) 407-2884 | GBP Brooklyn
-BUILDING 2026-11-23T18:18Z max-daily | security-cameras-westchester-county | Security Cameras | Westchester | up /security-cameras-hudson-valley | (914) 877-2578 | GBP Bronx
-BUILDING 2026-11-23T18:18Z max-daily | security-cameras-rockland-county | Security Cameras | Rockland | up /security-cameras-hudson-valley | (845) 640-3835 | GBP Bronx
-BUILDING 2026-11-23T18:18Z max-daily | security-cameras-orange-county | Security Cameras | Orange | up /security-cameras-hudson-valley | (845) 640-3835 | GBP Bronx
-BUILDING 2026-11-23T18:18Z max-daily | security-cameras-putnam-county | Security Cameras | Putnam | up /security-cameras-hudson-valley | (845) 640-3835 | GBP Bronx
-BUILDING 2026-11-23T18:18Z max-daily | security-cameras-dutchess-county | Security Cameras | Dutchess | up /security-cameras-hudson-valley | (845) 640-3835 | GBP Bronx
+LIVE | security-cameras-westchester-county | Security Cameras | Westchester | up /security-cameras-hudson-valley | (914) 877-2578 | GBP Bronx
+LIVE | security-cameras-rockland-county | Security Cameras | Rockland | up /security-cameras-hudson-valley | (845) 640-3835 | GBP Bronx
+LIVE | security-cameras-orange-county | Security Cameras | Orange | up /security-cameras-hudson-valley | (845) 640-3835 | GBP Bronx
+LIVE | security-cameras-putnam-county | Security Cameras | Putnam | up /security-cameras-hudson-valley | (845) 640-3835 | GBP Bronx
+LIVE | security-cameras-dutchess-county | Security Cameras | Dutchess | up /security-cameras-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | security-cameras-ulster-county | Security Cameras | Ulster | up /security-cameras-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | mag-lock-installation-nyc | Mag Lock Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | mag-lock-installation-long-island | Mag Lock Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
