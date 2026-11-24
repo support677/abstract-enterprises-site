@@ -122,6 +122,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 
 2026-11-23 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 1 indexed (alarm-installation canarsie, URL is on Google), 0 failed, 2704 queued. Requested URLs were Crawled - currently not indexed. bruckner bronx and cobble hill returned "Oops! Something went wrong" once, then succeeded on retry. "Quota Exceeded" on the 12th request (alarm-installation-coney-island-brooklyn-ny, Crawled - currently not indexed), which stays QUEUED; next run starts there.
 
+2026-11-23 evening (scheduled, 01:53 UTC Nov 24, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2713 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-24T01:52:51Z, 3110 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2048 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected alarm-installation-coney-island-brooklyn-ny (URL is not on Google; Crawled - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at alarm-installation-coney-island-brooklyn-ny.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-11-15 (Anwar): CCTV INSTALLATION HUBS GO FIRST — above every other line in this file. Big gap: 256 CCTV searches, 15,522 impressions, 4 clicks, no CCTV page. The builder adds each cctv-installation-* hub here as QUEUED the moment it ships; the morning Request-indexing run requests these before anything else. Only request a URL that returns 200. -->
