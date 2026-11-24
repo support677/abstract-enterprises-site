@@ -124,6 +124,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 
 2026-11-23 evening (scheduled, 01:53 UTC Nov 24, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2713 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-24T01:52:51Z, 3110 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2048 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected alarm-installation-coney-island-brooklyn-ny (URL is not on Google; Crawled - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at alarm-installation-coney-island-brooklyn-ny.
 
+2026-11-24 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 10 requested, 4 indexed (alarm-installation gowanus/fort greene/fort hamilton/cypress hills, URL is on Google), 0 failed, 2698 queued. Requested URLs were Crawled - currently not indexed. coney island's first Request-indexing click closed the live-test dialog with no result and gravesend's live test was cut off; both succeeded after a page reload and retry (the live test can take ~50s). "Quota Exceeded" on the 11th request (alarm-installation-locust-point-bronx-ny, Crawled - currently not indexed), which stays QUEUED; next run starts there.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-11-15 (Anwar): CCTV INSTALLATION HUBS GO FIRST — above every other line in this file. Big gap: 256 CCTV searches, 15,522 impressions, 4 clicks, no CCTV page. The builder adds each cctv-installation-* hub here as QUEUED the moment it ships; the morning Request-indexing run requests these before anything else. Only request a URL that returns 200. -->
@@ -705,20 +707,20 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-flatbush-brooklyn-ny | REQUESTED 2026-11-23
 2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-carroll-gardens-brooklyn-ny | REQUESTED 2026-11-23
 2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-cobble-hill-brooklyn-ny | REQUESTED 2026-11-23
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-coney-island-brooklyn-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-gerritsen-beach-brooklyn-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-gowanus-brooklyn-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-gravesend-brooklyn-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-fort-greene-brooklyn-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-fort-hamilton-brooklyn-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-fulton-ferry-brooklyn-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-crown-heights-brooklyn-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-cypress-hills-brooklyn-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-downtown-brooklyn-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-greenwood-heights-brooklyn-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-highland-park-brooklyn-ny | QUEUED
-2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-homecrest-brooklyn-ny | QUEUED
-2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-kensington-brooklyn-ny | QUEUED
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-coney-island-brooklyn-ny | REQUESTED 2026-11-24
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-gerritsen-beach-brooklyn-ny | REQUESTED 2026-11-24
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-gowanus-brooklyn-ny | INDEXED 2026-11-24
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-gravesend-brooklyn-ny | REQUESTED 2026-11-24
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-fort-greene-brooklyn-ny | INDEXED 2026-11-24
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-fort-hamilton-brooklyn-ny | INDEXED 2026-11-24
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-fulton-ferry-brooklyn-ny | REQUESTED 2026-11-24
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-crown-heights-brooklyn-ny | REQUESTED 2026-11-24
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-cypress-hills-brooklyn-ny | INDEXED 2026-11-24
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-downtown-brooklyn-ny | REQUESTED 2026-11-24
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-greenwood-heights-brooklyn-ny | REQUESTED 2026-11-24
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-highland-park-brooklyn-ny | REQUESTED 2026-11-24
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-homecrest-brooklyn-ny | REQUESTED 2026-11-24
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-kensington-brooklyn-ny | REQUESTED 2026-11-24
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-locust-point-bronx-ny | QUEUED
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-madison-brooklyn-ny | QUEUED
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-park-slope-brooklyn-ny | QUEUED
