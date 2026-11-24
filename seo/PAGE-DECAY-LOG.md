@@ -65,3 +65,16 @@ Run 1 had no earlier refreshes from this task to check. Related: the daily optim
 1. Queue full blueprint REBUILDs for /structured-cabling-installation-brooklyn and /intercom-repair-nyc (borough/hub pages, so they come first under PAGE PRIORITY). The refresh helps, but the shared sibling Q&A and the 6–7k-word legacy body will keep dragging them down.
 2. Look at the sitemap report: 3,105 submitted / 14 indexed.
 3. Fix the evening Search-submit job that keeps committing whole-site deletions.
+
+---
+
+## Competitor-watch candidates (added by the weekly competitor sitemap watch)
+
+Pages of ours that a competitor page matches, where the competitor's version is newer (or deeper). The decay task decides whether to refresh them; the watch never rewrites them.
+
+| Added | Our page (sitemap lastmod) | Competitor page (lastmod) | Why | Angles they cover (don't copy wording) |
+|---|---|---|---|---|
+| 2026-11-24 | /door-buzzer-repair-nyc (2026-05-03) | imperasecurity.com/door-buzzer-repair-nyc (2026-11-16) | Newer; theirs is shorter (~1,600 words, scraped) | Door-hardware-first diagnosis (strike voltage, latch, closer), one unit vs whole building, repair-or-replace, upfront diagnostic charge, older audio buzzers |
+| 2026-11-24 | /intercom-installation-nyc (2026-05-03) | imperasecurity.com/building-intercom-installation-nyc (2026-11-16) | Newer; theirs ~2,300 words (scraped) | Multiple Dwelling Law §50-a section with the statute link, board/managing-agent workflow, riser retrofit vs rewire, phased upgrades, fail-safe vs fail-secure |
+| 2026-11-24 | /security-camera-repair-brooklyn, -manhattan, -queens (2026-04-27) | imperasecurity.com/security-camera-repair-{brooklyn,manhattan,queens} (2026-11-14) | Newer (not scraped) | — |
+| 2026-11-24 | /intercom-installation-long-island-ny, /security-camera-installation-long-island-ny, /access-control-installation-long-island, /access-control-installation-suffolk-county (2026-05-03) | vertexsecurity.com/security-systems-long-island/{intercom,security-camera-installation,access-control}/, /access-control-suffolk-county/ (2026-11-17 to 11-20) | Newer (not scraped) | — |
