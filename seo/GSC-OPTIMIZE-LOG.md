@@ -1,5 +1,10 @@
 # GSC optimizer log
 
+## 2026-11-23 — duplicate intercom borough pages consolidated (SEO report fix #2)
+Brooklyn: main page is /intercom-installation-brooklyn-new-york (Google's pick: 1,389 impr, pos 30.5). /intercom-installation-brooklyn-ny (320 impr, pos 49.1, linked from 2,931 pages) stays live and now carries a canonical tag pointing to -new-york. 3,400 internal links switched to -new-york; PAGE-QUEUE parents updated (53 rows).
+Queens: main page is /intercom-installation-queens-ny (533 impr, pos 20.5). /intercom-installation-queens-new-york (no GSC data) stays live with a canonical tag pointing to -queens-ny. 81 links switched.
+No page deleted, renamed or redirected; H1s unchanged. Sitemap left as is. Re-check both pairs ~Dec 21; revert = git revert of this commit.
+
 ## 2026-11-23 — repair intent routed to repair pages (SEO report fix #1)
 93 intercom installation pages now link to the repair page for their area (Brooklyn 25, Bronx 59, Queens 2, Manhattan, Staten Island, Long Island, Nassau, Suffolk, Westchester, Rockland). New rule BLUEPRINT §12.0: repair-intent queries never get worked into installation pages.
 Baseline (GSC Oct 23–Nov 20): intercom repair brooklyn 300 impr / pos 20.0; intercom repair nyc 184 / 23.6; intercom repair bronx 185 / 16.0; intercom repair queens 162 / 13.9; intercom repair manhattan 157 / 31.0. Re-check ~Dec 21.
