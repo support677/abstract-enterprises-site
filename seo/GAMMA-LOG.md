@@ -125,3 +125,15 @@ Date | Phrase | Gamma URL | AESS page
 2026-11-23 | smart lock installation Long Island | https://gamma.app/docs/tyt86np9fsl4gzw (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-long-island
 2026-11-23 | soundbar installation Hudson Valley | https://gamma.app/docs/7d7kuw59uc01h9f (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-hudson-valley
 2026-11-23 | fiber optic installation Hudson Valley | https://gamma.app/docs/lmz5v1xj6k8787q (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-hudson-valley
+2026-11-24 | smart lock installation Hudson Valley | https://gamma.app/docs/l43f62akqde3622 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-hudson-valley
+2026-11-24 | Sonos installation NYC | https://gamma.app/docs/ac3fgl0f93lgk2s (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/sonos-installation-nyc
+2026-11-24 | Cat6 repair NYC | https://gamma.app/docs/9i2qedq9tchv3b8 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/cat6-repair-nyc
+2026-11-24 | Sonos installation Long Island | https://gamma.app/docs/1wi7p5f7v2ldep2 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/sonos-installation-long-island
+2026-11-24 | Cat6 repair Long Island | https://gamma.app/docs/exnr5ofk9zqi5s2 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/cat6-repair-long-island
+2026-11-24 | Sonos installation Hudson Valley | https://gamma.app/docs/vczip6s05htfzr1 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/sonos-installation-hudson-valley
+2026-11-24 | Cat6 repair Hudson Valley | https://gamma.app/docs/t94tmu9s8funw3a (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/cat6-repair-hudson-valley
+2026-11-24 | Luminys camera installation Hudson Valley | https://gamma.app/docs/jzysid0q3a2mndk (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/luminys-camera-installation-hudson-valley
+2026-11-24 | Reolink camera installation NYC | https://gamma.app/docs/2nyx2fg2atvr0g3 (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-nyc
+2026-11-24 | Luminys camera installation Long Island | https://gamma.app/docs/9kxo20azh1cd1hh (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/luminys-camera-installation-long-island
+2026-11-24 | Reolink camera installation Hudson Valley | https://gamma.app/docs/qj0vins7kqkzn0p (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-hudson-valley
+2026-11-24 | Luminys camera installation NYC | https://gamma.app/docs/m53l6zp0omxf5fa (indexing OFF) | https://www.abstractenterprisessecuritysystems.com/luminys-camera-installation-nyc
