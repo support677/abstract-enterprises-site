@@ -477,7 +477,7 @@ TODO | reolink-camera-installation-orange-county | Reolink Camera Installation |
 TODO | reolink-camera-installation-putnam-county | Reolink Camera Installation | Putnam | up /reolink-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | reolink-camera-installation-dutchess-county | Reolink Camera Installation | Dutchess | up /reolink-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | reolink-camera-installation-ulster-county | Reolink Camera Installation | Ulster | up /reolink-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
-BUILDING 2026-11-24T18:17Z max-daily (was TODO) | security-cameras-ulster-county | Security Cameras | Ulster | up /security-cameras-hudson-valley | (845) 640-3835 | GBP Bronx
+LIVE | security-cameras-ulster-county | Security Cameras | Ulster | up /security-cameras-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | mag-lock-installation-nyc | Mag Lock Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | mag-lock-installation-long-island | Mag Lock Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | mag-lock-installation-hudson-valley | Mag Lock Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
@@ -618,10 +618,10 @@ LIVE | fire-alarm-installation-soundview-bronx-ny | Fire Alarm Installation | So
 LIVE | fire-alarm-installation-south-slope-brooklyn-ny | Fire Alarm Installation | South Slope, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-south-williamsburg-brooklyn-ny | Fire Alarm Installation | South Williamsburg, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-spuyten-duyvil-bronx-ny | Fire Alarm Installation | Spuyten Duyvil, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-24T18:17Z max-daily (was REBUILD) | fire-alarm-installation-starrett-city-brooklyn-ny | Fire Alarm Installation | Starrett City, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-24T18:17Z max-daily (was REBUILD) | fire-alarm-installation-stuyvesant-heights-brooklyn-ny | Fire Alarm Installation | Stuyvesant Heights, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-24T18:17Z max-daily (was REBUILD) | fire-alarm-installation-the-hub-bronx-ny | Fire Alarm Installation | The Hub, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-24T18:17Z max-daily (was REBUILD) | fire-alarm-installation-throggs-neck-bronx-ny | Fire Alarm Installation | Throggs Neck, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-starrett-city-brooklyn-ny | Fire Alarm Installation | Starrett City, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | fire-alarm-installation-stuyvesant-heights-brooklyn-ny | Fire Alarm Installation | Stuyvesant Heights, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | fire-alarm-installation-the-hub-bronx-ny | Fire Alarm Installation | The Hub, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-throggs-neck-bronx-ny | Fire Alarm Installation | Throggs Neck, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-unionport-bronx-ny | Fire Alarm Installation | Unionport, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-university-heights-bronx-ny | Fire Alarm Installation | University Heights, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-van-cortlandt-village-bronx-ny | Fire Alarm Installation | Van Cortlandt Village, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx

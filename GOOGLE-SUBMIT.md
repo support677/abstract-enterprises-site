@@ -3744,3 +3744,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-23 | https://www.abstractenterprisessecuritysystems.com/intercom-repair-nyc | QUEUED
 2026-11-23 | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-brooklyn | QUEUED
 2026-11-23 | https://www.abstractenterprisessecuritysystems.com/parking-lot-camera-installation-brooklyn | QUEUED
+2026-11-24 | https://www.abstractenterprisessecuritysystems.com/security-cameras-ulster-county | QUEUED
+2026-11-24 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-starrett-city-brooklyn-ny | QUEUED
+2026-11-24 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-stuyvesant-heights-brooklyn-ny | QUEUED
+2026-11-24 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-the-hub-bronx-ny | QUEUED
+2026-11-24 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-throggs-neck-bronx-ny | QUEUED
