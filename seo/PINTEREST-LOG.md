@@ -1,0 +1,3 @@
+# Pinterest log - one pin per site page
+Date | Page | Pin URL | Site page
+# 2026-11-24: NOT BUILT. Composio shows no ACTIVE pinterest account.
