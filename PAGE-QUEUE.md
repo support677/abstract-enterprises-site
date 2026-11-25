@@ -462,6 +462,22 @@ TODO | comelit-intercom-orange-county | Comelit Intercom | Orange | up /comelit-
 TODO | comelit-intercom-putnam-county | Comelit Intercom | Putnam | up /comelit-intercom-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | comelit-intercom-dutchess-county | Comelit Intercom | Dutchess | up /comelit-intercom-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | comelit-intercom-ulster-county | Comelit Intercom | Ulster | up /comelit-intercom-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | aiphone-intercom-nyc | Aiphone Intercom | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | aiphone-intercom-manhattan | Aiphone Intercom | Manhattan | up /aiphone-intercom-nyc | (929) 560-0737 | GBP Bronx
+TODO | aiphone-intercom-brooklyn | Aiphone Intercom | Brooklyn | up /aiphone-intercom-nyc | (347) 934-8335 | GBP Brooklyn
+TODO | aiphone-intercom-queens | Aiphone Intercom | Queens | up /aiphone-intercom-nyc | (347) 434-6392 | GBP Bronx
+TODO | aiphone-intercom-bronx | Aiphone Intercom | Bronx | up /aiphone-intercom-nyc | (646) 490-0629 | GBP Bronx
+TODO | aiphone-intercom-staten-island | Aiphone Intercom | Staten Island | up /aiphone-intercom-nyc | (347) 934-8335 | GBP Brooklyn
+TODO | aiphone-intercom-long-island | Aiphone Intercom | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | aiphone-intercom-hudson-valley | Aiphone Intercom | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+TODO | aiphone-intercom-nassau-county | Aiphone Intercom | Nassau | up /aiphone-intercom-long-island | (516) 346-5778 | GBP Brooklyn
+TODO | aiphone-intercom-suffolk-county | Aiphone Intercom | Suffolk | up /aiphone-intercom-long-island | (631) 407-2884 | GBP Brooklyn
+TODO | aiphone-intercom-westchester-county | Aiphone Intercom | Westchester | up /aiphone-intercom-hudson-valley | (914) 877-2578 | GBP Bronx
+TODO | aiphone-intercom-rockland-county | Aiphone Intercom | Rockland | up /aiphone-intercom-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | aiphone-intercom-orange-county | Aiphone Intercom | Orange | up /aiphone-intercom-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | aiphone-intercom-putnam-county | Aiphone Intercom | Putnam | up /aiphone-intercom-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | aiphone-intercom-dutchess-county | Aiphone Intercom | Dutchess | up /aiphone-intercom-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | aiphone-intercom-ulster-county | Aiphone Intercom | Ulster | up /aiphone-intercom-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | sonos-installation-bayside-queens-ny | Sonos Installation | Bayside, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
 LIVE | sonos-installation-pelham-bay-bronx-ny | Sonos Installation | Pelham Bay, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | sonos-installation-tottenville-staten-island-ny | Sonos Installation | Tottenville, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
