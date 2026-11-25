@@ -8,6 +8,8 @@ Why: highest-demand gap alongside co-op. Search Console (90 days): "condo interc
 
 **Camera section (Nov 25 2026):** keep it short and link once to the area's condo-security-camera-installation page (Anwar's condo camera list is in `keywords/condo-security-cameras.md`; those phrases belong to that silo, not here).
 
+**Intercom section (Nov 25 2026):** also weave the replacement/board phrasing from `keywords/condo-intercom-replacement.md` into each page's intercom section (replacement, modernization, RFP, budget, board/HOA approval) and link once to the guide /condo-intercom-replacement.
+
 ## Rules for these pages
 
 - **Slug: `condo-security-systems-<area>`. This is an AUDIENCE hub, not a single-service page.** It speaks to condo boards, condo associations / HOA boards, unit owners and managing agents and covers every system a condo buys from us: intercom/door entry (lead with this: it's where the Search Console demand is), cameras, access control/key fobs, door buzzers, package rooms, maintenance contracts. Each section answers the condo's question, then links to the matching service page for that area.
