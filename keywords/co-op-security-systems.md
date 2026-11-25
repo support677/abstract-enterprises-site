@@ -12,6 +12,8 @@ Structure: this list + the page's own area as the geo modifier, woven naturally 
 
 **Intercom section (Nov 25 2026):** also weave the board-level phrasing from `keywords/co-op-board-intercom-upgrade.md` into each page's intercom section (upgrade, replacement, RFP, budget, approval) and link once to the guide /co-op-board-intercom-upgrade.
 
+**Camera section (Nov 25 2026):** keep it short and link once to the area's co-op-security-camera-installation page (Anwar's co-op camera list is in `keywords/co-op-security-cameras.md`; those phrases belong to that silo, not here).
+
 ## Rules for these pages
 
 - **Slug: `co-op-security-systems-<area>`. This is an AUDIENCE hub, not a single-service page.** It speaks to co-op boards, shareholders and managing agents and covers every system a co-op buys from us: intercom/door entry (lead with this: it's where the Search Console demand is), cameras, access control/key fobs, door buzzers, package rooms, maintenance contracts. Each section answers the co-op's question, then links to the matching service page for that area.
