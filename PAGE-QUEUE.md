@@ -439,9 +439,9 @@ LIVE | co-op-security-systems-staten-island | Co-op Security Systems | Staten Is
 LIVE | co-op-security-systems-long-island | Co-op Security Systems | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | co-op-security-systems-hudson-valley | Co-op Security Systems | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 LIVE | co-op-security-systems-nassau-county | Co-op Security Systems | Nassau | up /co-op-security-systems-long-island | (516) 346-5778 | GBP Brooklyn
-TODO | co-op-security-systems-suffolk-county | Co-op Security Systems | Suffolk | up /co-op-security-systems-long-island | (631) 407-2884 | GBP Brooklyn
-TODO | co-op-security-systems-westchester-county | Co-op Security Systems | Westchester | up /co-op-security-systems-hudson-valley | (914) 877-2578 | GBP Bronx
-TODO | co-op-security-systems-rockland-county | Co-op Security Systems | Rockland | up /co-op-security-systems-hudson-valley | (845) 640-3835 | GBP Bronx
+BUILDING 2026-11-25T08:47:08-05:00 | co-op-security-systems-suffolk-county | Co-op Security Systems | Suffolk | up /co-op-security-systems-long-island | (631) 407-2884 | GBP Brooklyn
+BUILDING 2026-11-25T08:47:08-05:00 | co-op-security-systems-westchester-county | Co-op Security Systems | Westchester | up /co-op-security-systems-hudson-valley | (914) 877-2578 | GBP Bronx
+BUILDING 2026-11-25T08:47:08-05:00 | co-op-security-systems-rockland-county | Co-op Security Systems | Rockland | up /co-op-security-systems-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | co-op-security-systems-orange-county | Co-op Security Systems | Orange | up /co-op-security-systems-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | co-op-security-systems-putnam-county | Co-op Security Systems | Putnam | up /co-op-security-systems-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | co-op-security-systems-dutchess-county | Co-op Security Systems | Dutchess | up /co-op-security-systems-hudson-valley | (845) 640-3835 | GBP Bronx
