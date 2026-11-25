@@ -1,0 +1,346 @@
+# Swiftlane — Anwar's Keyword List (Nov 25 2026) — PARTIAL, WAITING FOR THE REST
+
+**STATUS: PARTIAL.** Anwar's upload stopped at "Swiftlane intercom offline, Swiftlane WiFi connection problems" with no closing period, the same ~10,000-character cutoff as the 2N and DoorBird lists (missing: rest of troubleshooting, buying/pricing, products, building types, questions, navigational, comparisons). Builders: do NOT build any swiftlane-* page while this file says PARTIAL. When Anwar sends the rest, append/replace and remove the PARTIAL status.
+
+His note on the list: every keyword is Swiftlane-specific; no geographic locations, no competing brands, no "near me" variations, no generic non-branded keywords.
+
+Applies to EVERY swiftlane-access-control-* page in every area: NYC / Long Island / Hudson Valley hubs, every borough and county page, neighborhood pages later. Why: Nov 24 competitor sitemap watch (Impera /swiftlane-installer-nyc Nov 16). No Search Console demand yet, so this brand is P3: build after the higher-demand brands.
+
+Structure (same as Akuvox / DoorBird): this list + the page's own area as the geo modifier, woven naturally through the full blueprint. Never paste the list, never a keyword block, never stuff, never repeat sentences across pages.
+
+## Rules for these pages
+
+- **Slug: `swiftlane-access-control-<area>`.** Swiftlane is a cloud access control + video intercom platform built around face recognition and mobile unlock, so the pages lead with access control and intercom installation, upgrades (replacing key fobs, keys and old intercoms), then repair and maintenance.
+- **Face recognition / biometric phrases:** describe the feature only as Swiftlane documents it. NYC has biometric rules (for example the NYC Tenant Data Privacy Act for residential smart-access buildings, and signage rules for commercial establishments): mention them only with a real cited source, never give legal advice, and never claim a building is compliant. Face-enrollment problems are answered as a Swiftlane app/admin step plus a tech visit for hardware.
+- **Cannibalization (BLUEPRINT §12.0):** no swiftlane-repair-* page exists, so these pages carry the Swiftlane-specific repair and not-working phrases. Generic access control / intercom / buzzer wording stays on the access-control-installation-*, intercom-installation-*, intercom-repair-* and door-buzzer-repair-* pages. Every Swiftlane page links once in context to its area's access control installation, intercom installation and intercom repair pages; the builder adds one contextual link back from the area's access control installation page.
+- **Prices:** only what's already on the site (access control and intercom installation ranges as shown on that area's pages, intercom service call $250 diagnostic or the area's rate per [[aess-pricing]], installation quote after the site visit). Never invent Swiftlane hardware or subscription prices; never compare to a retail or manufacturer store price.
+- **Dealer / authorized / certified / partner phrases:** do NOT claim Swiftlane dealer, authorized, certified or partner status unless Anwar confirms it in writing. Say we install, wire and service Swiftlane. Only Lorex, Luminys and Reolink may be called partners.
+- **Navigational phrases** (Swiftlane app, cloud, admin login, support): never imply we are Swiftlane. Accounts, subscriptions, the app and manufacturer support are Swiftlane's; door hardware, wiring, network, readers and installation are ours.
+- **Products / features:** confirm every model and feature on swiftlane.com with Firecrawl before use; drop any that can't be confirmed.
+- **How-to / why phrases:** explain what's going on and what the admin can safely check in the Swiftlane dashboard/app, then book the tech. No step-by-step wiring or programming.
+- **Same-day / emergency / 24-hour / weekend / remote-support phrases:** answer honestly. We book within 2 hours, schedule 7 days a week with early-day visits, first come first served once paid. Never promise same-day work, never "24/7". Free tech support for our customers; never promise remote repair.
+- **We don't do electrical work:** the low-voltage, PoE and door hardware side is ours; any new high-voltage circuit is the building's electrician. Mortise/door lock body work isn't our scope.
+- **Warranty:** Swiftlane's manufacturer warranty is theirs; our labor warranty is the 30-day warranty on the site; 1-year and longer are paid add-ons.
+- **Area phrases only on their own area's page.** Never write "AESS"; always "Abstract Enterprises Security Systems". Company byline only. Real access control job photos; product shots labeled as product shots.
+
+## Keywords — Anwar's list (partial, every page)
+
+- Swiftlane
+- Swift Lane
+- Swiftlane intercom
+- Swiftlane access control
+- Swiftlane security
+- Swiftlane video intercom
+- Swiftlane audio intercom
+- Swiftlane smart intercom
+- Swiftlane IP intercom
+- Swiftlane cloud intercom
+- Swiftlane wireless intercom
+- Swiftlane wired intercom
+- Swiftlane digital intercom
+- Swiftlane apartment intercom
+- Swiftlane building intercom
+- Swiftlane commercial intercom
+- Swiftlane residential intercom
+- Swiftlane multifamily intercom
+- Swiftlane doorbell
+- Swiftlane video doorbell
+- Swiftlane door buzzer
+- Swiftlane buzzer system
+- Swiftlane door entry
+- Swiftlane door entry system
+- Swiftlane security system
+- Swiftlane intercom system
+- Swiftlane camera
+- Swiftlane intercom camera
+- Swiftlane facial recognition
+- Swiftlane face recognition
+- Swiftlane face recognition access control
+- Swiftlane facial recognition intercom
+- Swiftlane facial recognition door entry
+- Swiftlane biometric access control
+- Swiftlane biometric intercom
+- Swiftlane biometric security
+- Swiftlane keypad
+- Swiftlane touchscreen
+- Swiftlane touchscreen intercom
+- Swiftlane monitor
+- Swiftlane door station
+- Swiftlane outdoor station
+- Swiftlane entrance panel
+- Swiftlane call station
+- Swiftlane access reader
+- Swiftlane card reader
+- Swiftlane mobile access
+- Swiftlane smart access
+- Swiftlane smart lock
+- Swiftlane products
+- Swiftlane equipment
+- Swiftlane hardware
+- Swiftlane software
+- Swiftlane app
+- Swiftlane mobile app
+- Swiftlane cloud platform
+- Swiftlane cloud security
+- Swiftlane cloud access control
+- Swiftlane installation
+- Swiftlane installer
+- Swiftlane installers
+- Swiftlane intercom installation
+- Swiftlane video intercom installation
+- Swiftlane audio intercom installation
+- Swiftlane access control installation
+- Swiftlane IP intercom installation
+- Swiftlane smart intercom installation
+- Swiftlane cloud intercom installation
+- Swiftlane facial recognition installation
+- Swiftlane facial recognition access control installation
+- Swiftlane biometric access control installation
+- Swiftlane door buzzer installation
+- Swiftlane doorbell installation
+- Swiftlane video doorbell installation
+- Swiftlane security system installation
+- Swiftlane camera installation
+- Swiftlane keypad installation
+- Swiftlane touchscreen installation
+- Swiftlane monitor installation
+- Swiftlane door station installation
+- Swiftlane outdoor station installation
+- Swiftlane entrance panel installation
+- Swiftlane door entry installation
+- Swiftlane card reader installation
+- Swiftlane access reader installation
+- Swiftlane mobile access installation
+- Swiftlane smart lock integration
+- Swiftlane apartment intercom installation
+- Swiftlane building intercom installation
+- Swiftlane commercial intercom installation
+- Swiftlane residential intercom installation
+- Swiftlane multifamily intercom installation
+- Swiftlane elevator access control installation
+- Swiftlane gate intercom installation
+- Swiftlane gate access control installation
+- Swiftlane driveway intercom installation
+- Swiftlane installation company
+- Swiftlane installation services
+- Swiftlane installation contractor
+- Swiftlane installation specialist
+- Swiftlane installation technician
+- Swiftlane professional installation
+- Swiftlane authorized installer
+- Swiftlane certified installer
+- Swiftlane installation estimate
+- Swiftlane installation quote
+- Swiftlane installation cost
+- Swiftlane installation pricing
+- Swiftlane installation packages
+- Swiftlane new construction installation
+- Swiftlane retrofit installation
+- Swiftlane wiring installation
+- Swiftlane system configuration
+- Swiftlane system programming
+- Swiftlane system setup
+- Swiftlane cloud setup
+- Swiftlane app setup
+- Swiftlane app installation
+- Swiftlane repair
+- Swiftlane intercom repair
+- Swiftlane video intercom repair
+- Swiftlane audio intercom repair
+- Swiftlane IP intercom repair
+- Swiftlane smart intercom repair
+- Swiftlane facial recognition repair
+- Swiftlane biometric access control repair
+- Swiftlane door buzzer repair
+- Swiftlane buzzer repair
+- Swiftlane doorbell repair
+- Swiftlane video doorbell repair
+- Swiftlane access control repair
+- Swiftlane security system repair
+- Swiftlane camera repair
+- Swiftlane keypad repair
+- Swiftlane monitor repair
+- Swiftlane touchscreen repair
+- Swiftlane screen repair
+- Swiftlane speaker repair
+- Swiftlane microphone repair
+- Swiftlane door station repair
+- Swiftlane outdoor station repair
+- Swiftlane entrance panel repair
+- Swiftlane door release repair
+- Swiftlane card reader repair
+- Swiftlane access reader repair
+- Swiftlane power supply repair
+- Swiftlane wiring repair
+- Swiftlane circuit board repair
+- Swiftlane control panel repair
+- Swiftlane elevator access control repair
+- Swiftlane gate intercom repair
+- Swiftlane driveway intercom repair
+- Swiftlane apartment intercom repair
+- Swiftlane building intercom repair
+- Swiftlane commercial intercom repair
+- Swiftlane residential intercom repair
+- Swiftlane multifamily intercom repair
+- Swiftlane repair company
+- Swiftlane repair services
+- Swiftlane repair contractor
+- Swiftlane repair specialist
+- Swiftlane repair technician
+- Swiftlane authorized repair
+- Swiftlane certified repair technician
+- Swiftlane emergency repair
+- Swiftlane same day repair
+- Swiftlane 24 hour repair
+- Swiftlane weekend repair
+- Swiftlane after hours repair
+- Swiftlane on-site repair
+- Swiftlane repair estimate
+- Swiftlane repair quote
+- Swiftlane repair cost
+- Swiftlane service
+- Swiftlane servicing
+- Swiftlane intercom service
+- Swiftlane access control service
+- Swiftlane facial recognition service
+- Swiftlane service company
+- Swiftlane service technician
+- Swiftlane service contractor
+- Swiftlane service provider
+- Swiftlane service call
+- Swiftlane field service
+- Swiftlane technical service
+- Swiftlane on-site service
+- Swiftlane remote service
+- Swiftlane remote technical support
+- Swiftlane maintenance
+- Swiftlane intercom maintenance
+- Swiftlane access control maintenance
+- Swiftlane facial recognition maintenance
+- Swiftlane preventive maintenance
+- Swiftlane maintenance contract
+- Swiftlane service agreement
+- Swiftlane annual maintenance
+- Swiftlane system inspection
+- Swiftlane system testing
+- Swiftlane diagnostics
+- Swiftlane intercom diagnostics
+- Swiftlane access control diagnostics
+- Swiftlane network diagnostics
+- Swiftlane replacement
+- Swiftlane intercom replacement
+- Swiftlane video intercom replacement
+- Swiftlane audio intercom replacement
+- Swiftlane IP intercom replacement
+- Swiftlane facial recognition system replacement
+- Swiftlane door buzzer replacement
+- Swiftlane buzzer replacement
+- Swiftlane doorbell replacement
+- Swiftlane monitor replacement
+- Swiftlane touchscreen replacement
+- Swiftlane screen replacement
+- Swiftlane speaker replacement
+- Swiftlane microphone replacement
+- Swiftlane keypad replacement
+- Swiftlane camera replacement
+- Swiftlane door station replacement
+- Swiftlane outdoor station replacement
+- Swiftlane entrance panel replacement
+- Swiftlane power supply replacement
+- Swiftlane card reader replacement
+- Swiftlane access reader replacement
+- Swiftlane door controller replacement
+- Swiftlane circuit board replacement
+- Swiftlane control panel replacement
+- Swiftlane door release replacement
+- Swiftlane access control replacement
+- Swiftlane system replacement
+- Swiftlane hardware replacement
+- Swiftlane replacement parts
+- Swiftlane intercom upgrade
+- Swiftlane video intercom upgrade
+- Swiftlane audio intercom upgrade
+- Swiftlane access control upgrade
+- Swiftlane facial recognition upgrade
+- Swiftlane system upgrade
+- Swiftlane software upgrade
+- Swiftlane firmware upgrade
+- Swiftlane hardware upgrade
+- Swiftlane monitor upgrade
+- Swiftlane door station upgrade
+- Swiftlane intercom modernization
+- Swiftlane system modernization
+- Swiftlane building modernization
+- Swiftlane intercom retrofit
+- Swiftlane retrofit system
+- replace old Swiftlane intercom
+- replace existing Swiftlane intercom
+- replace broken Swiftlane intercom
+- upgrade old Swiftlane intercom
+- upgrade Swiftlane audio intercom to video
+- upgrade Swiftlane intercom to smartphone
+- replace apartment intercom with Swiftlane
+- replace door buzzer with Swiftlane
+- replace old intercom with Swiftlane
+- replace analog intercom with Swiftlane
+- replace building intercom with Swiftlane
+- replace telephone entry system with Swiftlane
+- replace traditional intercom with Swiftlane
+- replace traditional access control with Swiftlane
+- replace key fob system with Swiftlane
+- replace physical keys with Swiftlane
+- replace outdated access control with Swiftlane
+- Swiftlane not working
+- Swiftlane intercom not working
+- Swiftlane video intercom not working
+- Swiftlane audio intercom not working
+- Swiftlane facial recognition not working
+- Swiftlane face recognition not working
+- Swiftlane face unlock not working
+- Swiftlane door buzzer not working
+- Swiftlane buzzer not working
+- Swiftlane doorbell not working
+- Swiftlane monitor not working
+- Swiftlane screen not working
+- Swiftlane touchscreen not working
+- Swiftlane keypad not working
+- Swiftlane speaker not working
+- Swiftlane microphone not working
+- Swiftlane camera not working
+- Swiftlane card reader not working
+- Swiftlane app not working
+- Swiftlane mobile access not working
+- Swiftlane door release not working
+- Swiftlane door unlock not working
+- Swiftlane door not opening
+- Swiftlane door not unlocking
+- Swiftlane electric strike not working
+- Swiftlane magnetic lock not working
+- Swiftlane intercom no sound
+- Swiftlane intercom no video
+- Swiftlane intercom no power
+- Swiftlane camera black screen
+- Swiftlane camera blurry
+- Swiftlane camera not detecting face
+- Swiftlane facial recognition failed
+- Swiftlane face authentication failed
+- Swiftlane face enrollment failed
+- Swiftlane intercom black screen
+- Swiftlane intercom blank screen
+- Swiftlane intercom frozen
+- Swiftlane intercom buzzing
+- Swiftlane intercom ringing continuously
+- Swiftlane intercom not ringing
+- Swiftlane intercom low volume
+- Swiftlane intercom distorted audio
+- Swiftlane intercom static noise
+- Swiftlane intercom humming noise
+- Swiftlane intercom feedback
+- Swiftlane intercom intermittent problems
+- Swiftlane intercom connection problems
+- Swiftlane intercom wiring problems
+- Swiftlane intercom power problems
+- Swiftlane intercom communication error
+- Swiftlane intercom error codes
+- Swiftlane intercom offline
+- Swiftlane WiFi connection problems
