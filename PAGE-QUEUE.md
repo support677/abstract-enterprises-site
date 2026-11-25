@@ -463,14 +463,14 @@ TODO | condo-security-systems-orange-county | Condo Security Systems | Orange | 
 TODO | condo-security-systems-putnam-county | Condo Security Systems | Putnam | up /condo-security-systems-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | condo-security-systems-dutchess-county | Condo Security Systems | Dutchess | up /condo-security-systems-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | condo-security-systems-ulster-county | Condo Security Systems | Ulster | up /condo-security-systems-hudson-valley | (845) 640-3835 | GBP Bronx
-TODO | condo-security-camera-installation-nyc | Condo Security Camera Installation | NYC hub | up /condo-security-systems-nyc | (800) 486-0943 | GBP Brooklyn
+TODO | condo-security-camera-installation-nyc | Condo Security Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | condo-security-camera-installation-manhattan | Condo Security Camera Installation | Manhattan | up /condo-security-camera-installation-nyc | (929) 560-0737 | GBP Bronx
 TODO | condo-security-camera-installation-brooklyn | Condo Security Camera Installation | Brooklyn | up /condo-security-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | condo-security-camera-installation-queens | Condo Security Camera Installation | Queens | up /condo-security-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | condo-security-camera-installation-bronx | Condo Security Camera Installation | Bronx | up /condo-security-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | condo-security-camera-installation-staten-island | Condo Security Camera Installation | Staten Island | up /condo-security-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
-TODO | condo-security-camera-installation-long-island | Condo Security Camera Installation | Long Island hub | up /condo-security-systems-long-island | (800) 486-0943 | GBP Brooklyn
-TODO | condo-security-camera-installation-hudson-valley | Condo Security Camera Installation | Hudson Valley hub | up /condo-security-systems-hudson-valley | (800) 486-0943 | GBP Bronx
+TODO | condo-security-camera-installation-long-island | Condo Security Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | condo-security-camera-installation-hudson-valley | Condo Security Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | condo-security-camera-installation-nassau-county | Condo Security Camera Installation | Nassau | up /condo-security-camera-installation-long-island | (516) 346-5778 | GBP Brooklyn
 TODO | condo-security-camera-installation-suffolk-county | Condo Security Camera Installation | Suffolk | up /condo-security-camera-installation-long-island | (631) 407-2884 | GBP Brooklyn
 TODO | condo-security-camera-installation-westchester-county | Condo Security Camera Installation | Westchester | up /condo-security-camera-installation-hudson-valley | (914) 877-2578 | GBP Bronx
