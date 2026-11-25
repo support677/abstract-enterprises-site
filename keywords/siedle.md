@@ -1,0 +1,301 @@
+# Siedle — Anwar's Keyword List (Nov 25 2026) — PARTIAL, WAITING FOR THE REST
+
+**STATUS: PARTIAL.** Anwar's upload stopped mid-list ("Siedle service, Siedle servicing, Siedle intercom service,"), the same ~10,000-character cutoff as 2N, DoorBird, Swiftlane and Brivo. Everything below is his, through that point (core terms and components, installation, repair incl. vintage/legacy/discontinued repair, first service phrases). Missing: rest of service/maintenance, replacement, upgrades, not-working/troubleshooting, buying/pricing, products, building types, questions, navigational. Builders: do NOT build any siedle-intercom-* page while this file says PARTIAL.
+
+His note on the list: every keyword is Siedle-specific; no geographic locations, no competing brands, no "near me" variations, no generic non-branded keywords.
+
+Applies to EVERY siedle-intercom-* page in every area: NYC / Long Island / Hudson Valley hubs, every borough and county page, neighborhood pages later. Why: Nov 24 competitor sitemap watch (Impera /siedle-installer-nyc Nov 16; Jacob Intercom Siedle brand page). No Search Console demand yet: P3.
+
+Structure (same as the other brands): this list + the page's own area as the geo modifier, woven naturally through the full blueprint. Never paste the list, never a keyword block, never stuff, never repeat sentences across pages.
+
+## Rules for these pages
+
+- **Slug: `siedle-intercom-<area>`.** Siedle is a premium German intercom found in high-end brownstones, townhouses, luxury co-ops and estates, often decades old. Lead with REPAIR (including vintage, legacy and discontinued Siedle systems), parts and careful upgrades that keep the building's look, then new Siedle installation.
+- **Special order:** Siedle parts and systems ship from Germany / the US distributor and usually aren't on a shelf. Same wording as DoorBird: special order, ordered after the deposit, install or repair booked once parts arrive, no dates promised.
+- **Discontinued / vintage parts:** never promise an exact replacement part exists. Say we diagnose first, source the part if Siedle or the distributor still supplies it, and otherwise propose the closest compatible upgrade.
+- **Cannibalization (BLUEPRINT §12.0):** no siedle-repair-* page exists, so these pages carry the Siedle-specific repair and not-working phrases. Generic intercom / buzzer / door release wording stays on the intercom-installation-*, intercom-repair-* and door-buzzer-repair-* pages. Every Siedle page links once in context to its area's intercom repair, door buzzer repair and intercom installation pages; the builder adds one contextual link back from the area's intercom repair page.
+- **Prices:** only what's already on the site (intercom service call $250 diagnostic or the area's rate per [[aess-pricing]], door buzzer part ranges as on that area's page, installation quote after the site visit). Never invent Siedle equipment prices; never compare to a retail or manufacturer store price.
+- **Dealer / authorized / certified / installation partner phrases:** do NOT claim Siedle dealer, authorized, certified or partner status unless Anwar confirms it in writing. Say we install, repair and service Siedle. Only Lorex, Luminys and Reolink may be called partners.
+- **Navigational phrases** (Siedle app, manuals, support): never imply we are Siedle. Manufacturer support is Siedle's; building hardware, wiring, door release, power supply and programming are ours. Never reproduce manuals or wiring diagrams.
+- **Products / systems** (Siedle Vario, Classic, Steel, Siedle Basic, Siedle In-Home bus, Siedle Access, Siedle App, HTA/HTS handsets etc. if they appear in the rest of the list): confirm every model and system on siedle.com or its datasheets with Firecrawl before use; drop any that can't be confirmed.
+- **How-to / why phrases:** explain what's going on and what the owner can safely check, then book the tech. No step-by-step wiring or programming. Building repairs need access to every affected unit on the visit.
+- **Same-day / emergency / 24-hour / weekend phrases:** answer honestly. We book within 2 hours, schedule 7 days a week with early-day visits, first come first served once paid. Never promise same-day work, never "24/7".
+- **We don't do electrical work:** the low-voltage and door hardware side is ours; any new high-voltage circuit is the building's electrician. Mortise/door lock body work isn't our scope (door releases, strikes and mag locks are).
+- **Warranty:** Siedle's manufacturer warranty is theirs; our labor warranty is the 30-day warranty on the site; 1-year and longer are paid add-ons.
+- **Area phrases only on their own area's page.** Never write "AESS"; always "Abstract Enterprises Security Systems". Company byline only. Real intercom job photos; product shots labeled as product shots.
+
+## Keywords — Anwar's list (partial, every page)
+
+- Siedle
+- SSS Siedle
+- Siedle security
+- Siedle intercom
+- Siedle intercom system
+- Siedle video intercom
+- Siedle audio intercom
+- Siedle door intercom
+- Siedle IP intercom
+- Siedle analog intercom
+- Siedle digital intercom
+- Siedle smart intercom
+- Siedle wireless intercom
+- Siedle wired intercom
+- Siedle apartment intercom
+- Siedle building intercom
+- Siedle commercial intercom
+- Siedle residential intercom
+- Siedle multifamily intercom
+- Siedle luxury intercom
+- Siedle doorbell
+- Siedle video doorbell
+- Siedle smart doorbell
+- Siedle door buzzer
+- Siedle buzzer system
+- Siedle apartment buzzer
+- Siedle building buzzer
+- Siedle door entry
+- Siedle door entry system
+- Siedle video door entry
+- Siedle audio door entry
+- Siedle access control
+- Siedle access control system
+- Siedle door access control
+- Siedle electronic access control
+- Siedle keyless entry
+- Siedle security system
+- Siedle door communication
+- Siedle door communication system
+- Siedle building communication
+- Siedle building communication system
+- Siedle entrance communication
+- Siedle entrance panel
+- Siedle door station
+- Siedle video door station
+- Siedle audio door station
+- Siedle outdoor station
+- Siedle indoor station
+- Siedle indoor monitor
+- Siedle video monitor
+- Siedle touchscreen monitor
+- Siedle touchscreen intercom
+- Siedle handset
+- Siedle intercom handset
+- Siedle telephone handset
+- Siedle indoor telephone
+- Siedle intercom telephone
+- Siedle handsfree intercom
+- Siedle handsfree station
+- Siedle intercom camera
+- Siedle door camera
+- Siedle security camera
+- Siedle keypad
+- Siedle code lock
+- Siedle card reader
+- Siedle access reader
+- Siedle fingerprint reader
+- Siedle RFID reader
+- Siedle call button
+- Siedle bell button
+- Siedle nameplate
+- Siedle directory
+- Siedle digital directory
+- Siedle speaker
+- Siedle microphone
+- Siedle loudspeaker
+- Siedle door opener
+- Siedle door release
+- Siedle electric strike
+- Siedle magnetic lock
+- Siedle electronic door lock
+- Siedle power supply
+- Siedle transformer
+- Siedle controller
+- Siedle control module
+- Siedle bus controller
+- Siedle bus system
+- Siedle two wire intercom
+- Siedle multi wire intercom
+- Siedle products
+- Siedle equipment
+- Siedle hardware
+- Siedle software
+- Siedle app
+- Siedle mobile app
+- Siedle smartphone intercom
+- Siedle mobile intercom
+- Siedle remote access
+- Siedle smart home
+- Siedle home automation
+- Siedle building automation
+- Siedle installation
+- Siedle installer
+- Siedle installers
+- Siedle intercom installation
+- Siedle video intercom installation
+- Siedle audio intercom installation
+- Siedle IP intercom installation
+- Siedle analog intercom installation
+- Siedle digital intercom installation
+- Siedle smart intercom installation
+- Siedle wireless intercom installation
+- Siedle wired intercom installation
+- Siedle apartment intercom installation
+- Siedle building intercom installation
+- Siedle commercial intercom installation
+- Siedle residential intercom installation
+- Siedle multifamily intercom installation
+- Siedle luxury intercom installation
+- Siedle doorbell installation
+- Siedle video doorbell installation
+- Siedle smart doorbell installation
+- Siedle door buzzer installation
+- Siedle buzzer system installation
+- Siedle door entry installation
+- Siedle video door entry installation
+- Siedle access control installation
+- Siedle security system installation
+- Siedle door communication installation
+- Siedle building communication installation
+- Siedle door station installation
+- Siedle outdoor station installation
+- Siedle indoor station installation
+- Siedle entrance panel installation
+- Siedle indoor monitor installation
+- Siedle video monitor installation
+- Siedle touchscreen installation
+- Siedle handset installation
+- Siedle intercom telephone installation
+- Siedle handsfree intercom installation
+- Siedle camera installation
+- Siedle keypad installation
+- Siedle code lock installation
+- Siedle card reader installation
+- Siedle fingerprint reader installation
+- Siedle access reader installation
+- Siedle call button installation
+- Siedle door opener installation
+- Siedle door release installation
+- Siedle electric strike installation
+- Siedle magnetic lock installation
+- Siedle power supply installation
+- Siedle transformer installation
+- Siedle controller installation
+- Siedle bus system installation
+- Siedle two wire intercom installation
+- Siedle gate intercom installation
+- Siedle driveway intercom installation
+- Siedle elevator access control installation
+- Siedle smart home installation
+- Siedle installation company
+- Siedle installation services
+- Siedle installation contractor
+- Siedle installation specialist
+- Siedle installation technician
+- Siedle professional installation
+- Siedle authorized installer
+- Siedle certified installer
+- Siedle installation partner
+- Siedle installation estimate
+- Siedle installation quote
+- Siedle installation cost
+- Siedle installation pricing
+- Siedle installation packages
+- Siedle installation requirements
+- Siedle new construction installation
+- Siedle retrofit installation
+- Siedle existing building installation
+- Siedle wiring installation
+- Siedle system configuration
+- Siedle system programming
+- Siedle system setup
+- Siedle app setup
+- Siedle app installation
+- Siedle system commissioning
+- Siedle system deployment
+- Siedle repair
+- Siedle intercom repair
+- Siedle video intercom repair
+- Siedle audio intercom repair
+- Siedle IP intercom repair
+- Siedle analog intercom repair
+- Siedle digital intercom repair
+- Siedle smart intercom repair
+- Siedle apartment intercom repair
+- Siedle building intercom repair
+- Siedle commercial intercom repair
+- Siedle residential intercom repair
+- Siedle multifamily intercom repair
+- Siedle luxury intercom repair
+- Siedle doorbell repair
+- Siedle video doorbell repair
+- Siedle smart doorbell repair
+- Siedle door buzzer repair
+- Siedle buzzer repair
+- Siedle apartment buzzer repair
+- Siedle building buzzer repair
+- Siedle door entry repair
+- Siedle access control repair
+- Siedle security system repair
+- Siedle door communication repair
+- Siedle door station repair
+- Siedle outdoor station repair
+- Siedle indoor station repair
+- Siedle entrance panel repair
+- Siedle monitor repair
+- Siedle video monitor repair
+- Siedle touchscreen repair
+- Siedle screen repair
+- Siedle handset repair
+- Siedle telephone repair
+- Siedle intercom telephone repair
+- Siedle handsfree intercom repair
+- Siedle speaker repair
+- Siedle microphone repair
+- Siedle loudspeaker repair
+- Siedle camera repair
+- Siedle keypad repair
+- Siedle code lock repair
+- Siedle card reader repair
+- Siedle fingerprint reader repair
+- Siedle access reader repair
+- Siedle call button repair
+- Siedle bell button repair
+- Siedle door opener repair
+- Siedle door release repair
+- Siedle electric strike repair
+- Siedle magnetic lock repair
+- Siedle power supply repair
+- Siedle transformer repair
+- Siedle controller repair
+- Siedle control module repair
+- Siedle circuit board repair
+- Siedle bus controller repair
+- Siedle bus system repair
+- Siedle wiring repair
+- Siedle network repair
+- Siedle gate intercom repair
+- Siedle driveway intercom repair
+- Siedle elevator access control repair
+- Siedle repair company
+- Siedle repair services
+- Siedle repair contractor
+- Siedle repair specialist
+- Siedle repair technician
+- Siedle authorized repair
+- Siedle certified repair technician
+- Siedle emergency repair
+- Siedle same day repair
+- Siedle 24 hour repair
+- Siedle weekend repair
+- Siedle after hours repair
+- Siedle on-site repair
+- Siedle repair estimate
+- Siedle repair quote
+- Siedle repair cost
+- Siedle vintage intercom repair
+- Siedle old intercom repair
+- Siedle discontinued intercom repair
+- Siedle legacy intercom repair
+- Siedle service
+- Siedle servicing
+- Siedle intercom service
