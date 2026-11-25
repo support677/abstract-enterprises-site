@@ -9,18 +9,18 @@ Queue + order: seo/gamma-queue.csv (tier 1 hubs -> tier 2 boroughs/counties -> t
 | # | Platform | Link value | How it's built | Status |
 |---|---|---|---|---|
 | 1 | Gamma (gamma.app) | TBD (check after indexing on) | Gamma API + Chrome to turn on indexing | LIVE - 149 pages (Nov 25); indexing OFF on all - Claude in Chrome not reachable from the scheduled runs (Nov 14, Nov 15, Nov 16, Nov 17, Nov 18, Nov 19, Nov 20, Nov 21, Nov 22, Nov 23, Nov 24, Nov 25) |
-| 2 | Google Sites | followed | Chrome (one Google Site per service, one page per site page; added as priority Nov 23) | needs Chrome - not reachable from scheduled cloud runs (Nov 24); see seo/GSITES-LOG.md |
+| 2 | Google Sites | followed | Chrome (one Google Site per service, one page per site page; added as priority Nov 23) | needs Chrome - not reachable from scheduled cloud runs (Nov 24, Nov 25); see seo/GSITES-LOG.md |
 | 3 | Blogger (blogspot) | followed | Blogger API (needs Google connection) or Chrome | needs connection (no Composio connection Nov 16; Chrome not reachable from scheduled runs) |
-| 4 | WordPress.com | followed | WordPress.com API (Composio needs auth config) | needs setup (no Composio connection Nov 16, Nov 17, Nov 18, Nov 19, Nov 20, Nov 21, Nov 22, Nov 23, Nov 24) |
+| 4 | WordPress.com | followed | WordPress.com API (Composio needs auth config) | needs setup (no Composio connection Nov 16, Nov 17, Nov 18, Nov 19, Nov 20, Nov 21, Nov 22, Nov 23, Nov 24, Nov 25) |
 | 5 | LinkedIn articles | nofollow, ranks strong | Chrome (existing weekday task) | LIVE |
 | 6 | Medium | nofollow, ranks strong | Chrome (no account yet) | needs account (not connected Nov 16) |
-| 7 | GitHub Pages / Netlify / Cloudflare Pages | followed | GitHub/Netlify/Cloudflare (connected) | guides site LIVE (148 guides after Nov 17 off-site run; see seo/GUIDES-LOG.md) - Nov 18 run could not push: guides repo not in this task's repo access; Nov 19, Nov 20, Nov 21, Nov 22, Nov 23, Nov 24 same |
+| 7 | GitHub Pages / Netlify / Cloudflare Pages | followed | GitHub/Netlify/Cloudflare (connected) | guides site LIVE (148 guides after Nov 17 off-site run; see seo/GUIDES-LOG.md) - Nov 18 run could not push: guides repo not in this task's repo access; Nov 19, Nov 20, Nov 21, Nov 22, Nov 23, Nov 24, Nov 25 same |
 | 8 | Tumblr | check | API (needs connection) | needs connection (not connected Nov 16) |
 | 9 | Substack | nofollow | Chrome | needs account |
-| 10 | HubSpot pages | followed | HubSpot (connected) | BLOCKED Nov 16, Nov 17 - connector missing blog scopes (cms.blogs.settings.read, cms.blogs.blog_posts.write, publish); reconnect HubSpot with blog permissions (still blocked Nov 18, Nov 19, Nov 20, Nov 21, Nov 22, Nov 23, Nov 24) |
-| 11 | Google Docs published | redirect | Drive (connected) | LIVE - 54 docs (Nov 24), link-shared; "Publish to web" must be switched on by hand (not in connector) |
+| 10 | HubSpot pages | followed | HubSpot (connected) | BLOCKED Nov 16, Nov 17 - connector missing blog scopes (cms.blogs.settings.read, cms.blogs.blog_posts.write, publish); reconnect HubSpot with blog permissions (still blocked Nov 18, Nov 19, Nov 20, Nov 21, Nov 22, Nov 23, Nov 24, Nov 25) |
+| 11 | Google Docs published | redirect | Drive (connected) | LIVE - 60 docs (Nov 25), link-shared; "Publish to web" must be switched on by hand (not in connector) |
 | 12 | Canva sites / Notion | check | Chrome publish | needs Chrome |
-| 13 | Pinterest | nofollow | Pinterest API (connecting) | not connected - Composio shows no ACTIVE pinterest account (Nov 16, Nov 17, Nov 18, Nov 19, Nov 20, Nov 21, Nov 22, Nov 23, Nov 24) |
+| 13 | Pinterest | nofollow | Pinterest API (connecting) | not connected - Composio shows no ACTIVE pinterest account (Nov 16, Nov 17, Nov 18, Nov 19, Nov 20, Nov 21, Nov 22, Nov 23, Nov 24, Nov 25) |
 | 14 | Patch / Nextdoor | local | Chrome, per town (not per page) | needs accounts |
 | 15 | Scribd / Issuu / SlideShare / Prezi | varies | PDF per hub/county | planned |
 
