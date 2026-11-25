@@ -6,6 +6,8 @@ Anwar's full list (came through whole). His note: no geographic locations or bra
 
 Why: highest-demand gap alongside co-op. Search Console (90 days): "condo intercom system nyc" 111 impressions @17.3, "condo access control nyc" 49 @8.4. Competitors: Impera /co-op-condo-security (Nov 18), Jacob Intercom /co-op-condo-intercom/. Also a cold-email landing page for property managers.
 
+**Camera section (Nov 25 2026):** keep it short and link once to the area's condo-security-camera-installation page (Anwar's condo camera list is in `keywords/condo-security-cameras.md`; those phrases belong to that silo, not here).
+
 ## Rules for these pages
 
 - **Slug: `condo-security-systems-<area>`. This is an AUDIENCE hub, not a single-service page.** It speaks to condo boards, condo associations / HOA boards, unit owners and managing agents and covers every system a condo buys from us: intercom/door entry (lead with this: it's where the Search Console demand is), cameras, access control/key fobs, door buzzers, package rooms, maintenance contracts. Each section answers the condo's question, then links to the matching service page for that area.
