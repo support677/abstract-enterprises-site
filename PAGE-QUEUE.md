@@ -494,6 +494,22 @@ TODO | akuvox-intercom-orange-county | Akuvox Intercom | Orange | up /akuvox-int
 TODO | akuvox-intercom-putnam-county | Akuvox Intercom | Putnam | up /akuvox-intercom-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | akuvox-intercom-dutchess-county | Akuvox Intercom | Dutchess | up /akuvox-intercom-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | akuvox-intercom-ulster-county | Akuvox Intercom | Ulster | up /akuvox-intercom-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | avigilon-intercom-nyc | Avigilon Intercom | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | avigilon-intercom-manhattan | Avigilon Intercom | Manhattan | up /avigilon-intercom-nyc | (929) 560-0737 | GBP Bronx
+TODO | avigilon-intercom-brooklyn | Avigilon Intercom | Brooklyn | up /avigilon-intercom-nyc | (347) 934-8335 | GBP Brooklyn
+TODO | avigilon-intercom-queens | Avigilon Intercom | Queens | up /avigilon-intercom-nyc | (347) 434-6392 | GBP Bronx
+TODO | avigilon-intercom-bronx | Avigilon Intercom | Bronx | up /avigilon-intercom-nyc | (646) 490-0629 | GBP Bronx
+TODO | avigilon-intercom-staten-island | Avigilon Intercom | Staten Island | up /avigilon-intercom-nyc | (347) 934-8335 | GBP Brooklyn
+TODO | avigilon-intercom-long-island | Avigilon Intercom | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | avigilon-intercom-hudson-valley | Avigilon Intercom | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+TODO | avigilon-intercom-nassau-county | Avigilon Intercom | Nassau | up /avigilon-intercom-long-island | (516) 346-5778 | GBP Brooklyn
+TODO | avigilon-intercom-suffolk-county | Avigilon Intercom | Suffolk | up /avigilon-intercom-long-island | (631) 407-2884 | GBP Brooklyn
+TODO | avigilon-intercom-westchester-county | Avigilon Intercom | Westchester | up /avigilon-intercom-hudson-valley | (914) 877-2578 | GBP Bronx
+TODO | avigilon-intercom-rockland-county | Avigilon Intercom | Rockland | up /avigilon-intercom-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | avigilon-intercom-orange-county | Avigilon Intercom | Orange | up /avigilon-intercom-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | avigilon-intercom-putnam-county | Avigilon Intercom | Putnam | up /avigilon-intercom-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | avigilon-intercom-dutchess-county | Avigilon Intercom | Dutchess | up /avigilon-intercom-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | avigilon-intercom-ulster-county | Avigilon Intercom | Ulster | up /avigilon-intercom-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | 2n-intercom-nyc | 2N Intercom | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | 2n-intercom-manhattan | 2N Intercom | Manhattan | up /2n-intercom-nyc | (929) 560-0737 | GBP Bronx
 TODO | 2n-intercom-brooklyn | 2N Intercom | Brooklyn | up /2n-intercom-nyc | (347) 934-8335 | GBP Brooklyn
