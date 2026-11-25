@@ -1,0 +1,255 @@
+# Co-op Security Systems — Anwar's Keyword List (Nov 25 2026) — PARTIAL, WAITING FOR THE REST
+
+**STATUS: PARTIAL.** Anwar's upload was cut off mid-phrase ("co-op surveillance system upgrade, co-op analog to IP camera"), the same cutoff as the brand lists. Everything below is his, through that point: core co-op security terms, installation, repair, maintenance, upgrades/modernization and the co-op security camera section. Still missing (from his header's scope): the rest of cameras, plus intercom, access control, door buzzer, alarm, equipment and question phrases. Builders: do NOT build any co-op-security-systems-* page while this file says PARTIAL.
+
+His note on the list: no geographic locations or brand names; targets co-op residential buildings, co-op boards, shareholders, building owners, property managers and management companies seeking security system installation, repair, maintenance, modernization and equipment.
+
+Applies to EVERY co-op-security-systems-* page in every area. Why: Nov 24 competitor sitemap watch (Impera /co-op-condo-security Nov 18; Jacob Intercom /co-op-condo-intercom/). This is the HIGHEST-DEMAND gap: Search Console (90 days) "coop intercom system nyc" 159 impressions @8.1, "coop intercom system" 141 @12.8, "condo intercom system nyc" 111 @17.3, "condo access control nyc" 49 @8.4. It is also the landing page for the cold-email outreach to NYC property managers and co-op boards.
+
+Structure: this list + the page's own area as the geo modifier, woven naturally through the full blueprint. Never paste the list, never a keyword block, never stuff, never repeat sentences across pages.
+
+## Rules for these pages
+
+- **Slug: `co-op-security-systems-<area>`. This is an AUDIENCE hub, not a single-service page.** It speaks to co-op boards, shareholders and managing agents and covers every system a co-op buys from us: intercom/door entry (lead with this: it's where the Search Console demand is), cameras, access control/key fobs, door buzzers, package rooms, maintenance contracts. Each section answers the co-op's question, then links to the matching service page for that area.
+- **Cannibalization:** the service pages stay the money pages for their service. Co-op pages may use "co-op security camera installation", "co-op CCTV" etc. in their camera section, but the generic camera wording (apartment building security cameras, CCTV installation) belongs to apartment-building-security-camera-installation-*, security-camera-installation-* and cctv-installation-*. Each co-op page links once in context to its area's intercom installation, intercom repair, apartment-building camera, access control, door buzzer repair and elevator access control pages; the builder adds one contextual link back to the co-op page from the area's intercom installation and apartment-building camera pages. Never change those pages' titles, H1s or URLs.
+- **Co-op specifics (real facts only, cited):** board approval, alteration agreements, COI requests from the managing agent (we provide a COI when the job is awarded, never upfront in a quote reply), shareholder notices, scheduling around residents, access to every affected unit for intercom repairs, NYC rules where they apply (e.g. Multiple Dwelling Law intercom requirements, the Tenant Data Privacy Act for smart-access/biometric systems) only with a real source and no legal advice.
+- **Prices:** only what's already on the site for each service in that area (intercom, camera, access control ranges; $250 service call or the area's rate per [[aess-pricing]]; quote after the site visit for building-wide systems). Never invent co-op package prices or maintenance-contract prices; never compare to retail prices.
+- **References:** never give client references or name client buildings; point to Google reviews (on large GC/commercial bids Anwar provides references himself). No building names or addresses on the page.
+- **Same-day / emergency / 24-hour / weekend phrases:** answer honestly. We book within 2 hours, schedule 7 days a week with early-day visits, first come first served once paid. Never promise same-day work, never "24/7".
+- **Remote video monitoring / live monitoring phrases:** only describe what we actually offer (CHeKT remote video monitoring dealer account exists; confirm with Anwar before promising a monitored-video service on the page).
+- **We don't do electrical work:** the low-voltage and door hardware side is ours; any new high-voltage circuit is the building's electrician.
+- **Warranty:** our labor warranty is the 30-day warranty on the site; 1-year and longer are paid add-ons; manufacturer warranties are the manufacturer's.
+- **No brand names in headings** (his list is brand-free); brand mentions in body only where they help (e.g. "we install and repair Aiphone, Comelit, ButterflyMX…") and link to those brand pages once they're live.
+- **Area phrases only on their own area's page.** Never write "AESS"; always "Abstract Enterprises Security Systems". Company byline only. Real multifamily job photos only; no client building identifiable.
+
+## Keywords — Anwar's list (partial, every page)
+
+- Co-op security systems
+- co-op security system
+- co-op security
+- co-op building security
+- co-op apartment security
+- co-op apartment building security
+- cooperative security systems
+- cooperative building security
+- cooperative apartment security
+- cooperative housing security
+- housing cooperative security systems
+- residential co-op security
+- commercial co-op security
+- luxury co-op security
+- high-rise co-op security
+- multi-building co-op security
+- co-op property security
+- co-op community security
+- co-op building protection
+- co-op security solutions
+- co-op security services
+- co-op security company
+- co-op security companies
+- co-op security contractor
+- co-op security specialist
+- co-op security consultant
+- co-op security technician
+- co-op security installer
+- co-op security integrator
+- co-op electronic security
+- co-op physical security
+- co-op integrated security
+- co-op smart security
+- co-op building security technology
+- co-op security equipment
+- co-op security hardware
+- co-op security software
+- co-op security management
+- co-op security infrastructure
+- co-op security system installation
+- co-op security systems installation
+- co-op building security installation
+- co-op apartment security installation
+- cooperative building security installation
+- co-op security installation company
+- co-op security installation contractor
+- co-op security installation services
+- co-op security installation specialist
+- co-op security installation technician
+- professional co-op security installation
+- co-op security installation cost
+- co-op security installation pricing
+- co-op security installation estimate
+- co-op security installation quote
+- co-op security installation packages
+- co-op security system design
+- co-op security system planning
+- co-op security system engineering
+- co-op security system configuration
+- co-op security system programming
+- co-op security system setup
+- co-op security system commissioning
+- co-op security system integration
+- co-op security system repair
+- co-op security systems repair
+- co-op building security repair
+- co-op apartment security repair
+- co-op security repair company
+- co-op security repair contractor
+- co-op security repair services
+- co-op security repair technician
+- co-op security repair specialist
+- co-op emergency security repair
+- co-op same-day security repair
+- co-op 24-hour security repair
+- co-op weekend security repair
+- co-op after-hours security repair
+- co-op security repair cost
+- co-op security repair estimate
+- co-op security repair quote
+- co-op security system maintenance
+- co-op security systems maintenance
+- co-op building security maintenance
+- co-op preventive security maintenance
+- co-op scheduled security maintenance
+- co-op annual security maintenance
+- co-op security maintenance contract
+- co-op security maintenance agreement
+- co-op security service agreement
+- co-op security maintenance plans
+- co-op security system servicing
+- co-op security service calls
+- co-op security technical support
+- co-op security remote support
+- co-op security on-site support
+- co-op security system inspection
+- co-op security system testing
+- co-op security system diagnostics
+- co-op security system troubleshooting
+- co-op security system replacement
+- co-op security equipment replacement
+- co-op building security replacement
+- co-op security system upgrade
+- co-op security systems upgrade
+- co-op building security upgrade
+- co-op security modernization
+- co-op security system modernization
+- co-op security infrastructure upgrade
+- co-op security technology upgrade
+- co-op security system expansion
+- co-op security system retrofit
+- co-op legacy security replacement
+- co-op outdated security system replacement
+- co-op security renovation
+- co-op building security renovation
+- co-op digital security transformation
+- co-op security system migration
+- co-op security system redesign
+- co-op security system improvements
+- co-op security cameras
+- co-op security camera systems
+- co-op building security cameras
+- co-op apartment building security cameras
+- cooperative security cameras
+- cooperative building security cameras
+- co-op surveillance cameras
+- co-op video surveillance
+- co-op video surveillance systems
+- co-op CCTV
+- co-op CCTV cameras
+- co-op CCTV systems
+- co-op building surveillance
+- co-op building CCTV
+- co-op IP cameras
+- co-op network cameras
+- co-op analog cameras
+- co-op digital cameras
+- co-op HD security cameras
+- co-op 2K security cameras
+- co-op 4K security cameras
+- co-op AI security cameras
+- co-op smart security cameras
+- co-op cloud security cameras
+- co-op wired security cameras
+- co-op wireless security cameras
+- co-op PoE security cameras
+- co-op dome cameras
+- co-op bullet cameras
+- co-op turret cameras
+- co-op PTZ cameras
+- co-op fisheye cameras
+- co-op panoramic cameras
+- co-op multisensor cameras
+- co-op infrared cameras
+- co-op night vision cameras
+- co-op full-color night vision cameras
+- co-op outdoor security cameras
+- co-op indoor security cameras
+- co-op vandal-resistant cameras
+- co-op weatherproof security cameras
+- co-op motion detection cameras
+- co-op person detection cameras
+- co-op vehicle detection cameras
+- co-op license plate recognition cameras
+- co-op LPR cameras
+- co-op video analytics
+- co-op AI video analytics
+- co-op intelligent surveillance
+- co-op remote video monitoring
+- co-op live video monitoring
+- co-op security camera monitoring
+- co-op 24-hour video recording
+- co-op continuous video recording
+- co-op motion-activated recording
+- co-op cloud video recording
+- co-op local video recording
+- co-op video storage
+- co-op surveillance storage
+- co-op video retention
+- co-op security camera installation
+- co-op security cameras installation
+- co-op surveillance camera installation
+- co-op video surveillance installation
+- co-op CCTV installation
+- co-op CCTV camera installation
+- co-op IP camera installation
+- co-op network camera installation
+- co-op analog camera installation
+- co-op HD camera installation
+- co-op 4K camera installation
+- co-op AI camera installation
+- co-op dome camera installation
+- co-op bullet camera installation
+- co-op PTZ camera installation
+- co-op outdoor camera installation
+- co-op indoor camera installation
+- co-op wireless camera installation
+- co-op wired camera installation
+- co-op PoE camera installation
+- co-op security camera installation company
+- co-op security camera installation contractor
+- co-op security camera installation services
+- co-op security camera installation cost
+- co-op security camera installation quote
+- co-op security camera installation estimate
+- co-op security camera installation packages
+- co-op security camera repair
+- co-op surveillance camera repair
+- co-op CCTV repair
+- co-op video surveillance repair
+- co-op IP camera repair
+- co-op network camera repair
+- co-op analog camera repair
+- co-op 4K camera repair
+- co-op outdoor camera repair
+- co-op indoor camera repair
+- co-op security camera repair company
+- co-op security camera repair services
+- co-op emergency camera repair
+- co-op security camera maintenance
+- co-op surveillance maintenance
+- co-op CCTV maintenance
+- co-op camera maintenance contracts
+- co-op security camera replacement
+- co-op CCTV camera replacement
+- co-op surveillance camera replacement
+- co-op security camera upgrade
+- co-op CCTV upgrade
+- co-op surveillance system upgrade
