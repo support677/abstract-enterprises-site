@@ -3755,3 +3755,6 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-25 | https://www.abstractenterprisessecuritysystems.com/co-op-security-systems-nyc | QUEUED
 2026-11-25 | https://www.abstractenterprisessecuritysystems.com/co-op-security-systems-manhattan | QUEUED
 2026-11-25 | https://www.abstractenterprisessecuritysystems.com/co-op-security-systems-brooklyn | QUEUED
+2026-11-25 | https://www.abstractenterprisessecuritysystems.com/co-op-security-systems-queens | QUEUED
+2026-11-25 | https://www.abstractenterprisessecuritysystems.com/co-op-security-systems-bronx | QUEUED
+2026-11-25 | https://www.abstractenterprisessecuritysystems.com/co-op-security-systems-staten-island | QUEUED
