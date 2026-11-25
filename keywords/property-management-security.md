@@ -1,0 +1,317 @@
+# Property Management Security — Anwar's Keyword List (Nov 25 2026) — PARTIAL, WAITING FOR THE REST
+
+**STATUS: PARTIAL.** Anwar's upload was cut off at "property management dome security cameras" (end of the camera-type phrases; intercom, access control, alarm, cost/RFP, question phrases and the generator's cluster notes never arrived). Everything below is his, through that point. Builders: do NOT build property-management-security-* pages until this file says COMPLETE.
+
+His note on the list: no geographic locations, brand names or "near me"; targets property management companies, property managers, managing agents, building owners, landlords, real estate management companies, condo associations and co-op boards.
+
+**What this silo is (decided Nov 25 2026):** an AUDIENCE hub per area, `property-management-security-<area>` (16 areas), the same page type as co-op-security-systems-* and condo-security-systems-*. It sells to the people who manage many buildings: one vendor for a whole portfolio (cameras, intercom/door entry, access control/key fobs, door buzzers, elevator access, mag locks, alarms, structured cabling, service calls and maintenance), multi-building and multi-site scheduling, tenant-occupied work, one point of contact. Each section answers the manager's question, then links once to the matching service page for that area. Also the cold-email landing page for the Instantly property-manager campaign.
+
+**Phrases routed elsewhere (do NOT make them the focus here):** co-op and condo phrases go to those hubs (link once to each); multifamily / apartment complex / apartment building camera phrases stay the money phrases of apartment-building-security-camera-installation-*; generic camera/CCTV wording stays on security-camera-installation-* and cctv-installation-*. **Commercial-property phrases (office, retail, warehouse, medical, hotel, shopping center, industrial):** one short "commercial portfolios too" section; no separate pages. **Vacation / short-term rental phrases:** one line at most (we install cameras/smart locks for owners); not a focus.
+
+**Landlord / tenant specifics (real facts only, cited):** NYC Multiple Dwelling Law and HPD intercom/self-closing-door/lock requirements, the NYC Tenant Data Privacy Act for smart-access and biometric systems, camera placement and privacy in common areas, access to units for intercom repairs, tenant notices. Sourced, no legal advice.
+
+## Rules for these pages
+
+- **Slug: `property-management-security-<area>`. This is an AUDIENCE hub, not a single-service page.** It speaks to property managers, managing agents, landlords and building owners and covers every system a managed building buys from us: intercom/door entry (lead with this: it's where the Search Console demand is), cameras, access control/key fobs, door buzzers, package rooms, maintenance contracts. Each section answers the co-op's question, then links to the matching service page for that area.
+- **Cannibalization:** the service pages stay the money pages for their service. Co-op pages may use "co-op security camera installation", "co-op CCTV" etc. in their camera section, but the generic camera wording (apartment building security cameras, CCTV installation) belongs to apartment-building-security-camera-installation-*, security-camera-installation-* and cctv-installation-*. Each co-op page links once in context to its area's intercom installation, intercom repair, apartment-building camera, access control, door buzzer repair and elevator access control pages; the builder adds one contextual link back to the co-op page from the area's intercom installation and apartment-building camera pages. Never change those pages' titles, H1s or URLs.
+- **Co-op specifics (real facts only, cited):** board approval, alteration agreements, COI requests from the managing agent (we provide a COI when the job is awarded, never upfront in a quote reply), shareholder notices, scheduling around residents, access to every affected unit for intercom repairs, NYC rules where they apply (e.g. Multiple Dwelling Law intercom requirements, the Tenant Data Privacy Act for smart-access/biometric systems) only with a real source and no legal advice.
+- **Prices:** only what's already on the site for each service in that area (intercom, camera, access control ranges; $250 service call or the area's rate per [[aess-pricing]]; quote after the site visit for building-wide systems). Never invent co-op package prices or maintenance-contract prices; never compare to retail prices.
+- **References:** never give client references or name client buildings; point to Google reviews (on large GC/commercial bids Anwar provides references himself). No building names or addresses on the page.
+- **Same-day / emergency / 24-hour / weekend phrases:** answer honestly. We book within 2 hours, schedule 7 days a week with early-day visits, first come first served once paid. Never promise same-day work, never "24/7".
+- **Remote video monitoring / live monitoring phrases:** only describe what we actually offer (CHeKT remote video monitoring dealer account exists; confirm with Anwar before promising a monitored-video service on the page).
+- **Fire alarm sections:** only within our fire alarm scope and rules (aess-fire-alarm-work, Nassau FM number limits, BLUEPRINT Hard Rule 13: no fire alarm prices). Link to the area's fire-alarm-installation page; never advertise fire alarm work in an area outside our licensing scope.
+- **Alarm monitoring sections:** our real monitoring offer only (central station monitoring through our provider; the two monitoring tiers already on the site). No invented contracts or prices.
+- **Virtual doorman / virtual concierge / managed security / subscription service phrases:** we do not run a virtual doorman or managed-security service. Answer honestly: we install the intercom, cameras and access control a virtual-doorman provider or the building's staff would use, and we can integrate with an existing provider. Never offer a managed service unless Anwar sets one up.
+- **Equipment sales / financing / payment plans phrases:** we supply equipment as part of an installed job (and equipment-only per the security-cameras store pages where they apply). No financing or payment-plan offers; deposit rules as on the site.
+- **Legal / privacy / signage / camera-in-hallway-or-elevator / insurance-discount phrases:** real sourced facts only (NY law, NYC rules), no legal advice, no insurance-discount promises.
+- **Building-size phrases (10-unit … 1000-unit, prewar/postwar, doorman/non-doorman):** describe what changes with building size and type; never invent per-unit prices.
+- **RFP / bids / proposals phrases:** we respond to RFPs and board bid requests; COI is issued when the job is awarded, not upfront.
+- **We don't do electrical work:** the low-voltage and door hardware side is ours; any new high-voltage circuit is the building's electrician.
+- **Warranty:** our labor warranty is the 30-day warranty on the site; 1-year and longer are paid add-ons; manufacturer warranties are the manufacturer's.
+- **Structured cabling / Wi-Fi / VLAN / network phrases (from the second list):** one short section: we run the low-voltage cabling and network gear for the systems we install (Cat6, PoE switches, riser runs); link once to the area's structured-cabling page if one is live. No IT-managed-service offers.
+- **"As a service" / managed video / managed access phrases:** same as virtual doorman: we install and maintain; we don't sell managed or subscription security services unless Anwar sets one up.
+- **Holiday / seasonal phrases (package theft, year-end upgrades, before winter):** fine as timely sections; no seasonal discounts, deals or "installation specials" unless Anwar sets them.
+- **"Who can access the cameras" / footage-access / retention phrases:** board policy facts only, sourced; no legal advice.
+- **No brand names in headings** (his list is brand-free); brand mentions in body only where they help (e.g. "we install and repair Aiphone, Comelit, ButterflyMX…") and link to those brand pages once they're live.
+- **Area phrases only on their own area's page.** Never write "AESS"; always "Abstract Enterprises Security Systems". Company byline only. Real multifamily job photos only; no client building identifiable.
+
+## Keywords — Anwar's list so far (every page)
+
+- Property management security
+- property management security systems
+- property management security solutions
+- property management security services
+- property management building security
+- security for property management companies
+- security systems for property management companies
+- security solutions for property managers
+- security services for property managers
+- property manager security systems
+- property management electronic security
+- property management physical security
+- property management commercial security
+- property management residential security
+- property management integrated security
+- property management smart security
+- property management digital security
+- property management cloud security
+- property management building protection
+- property management security technology
+- property management security infrastructure
+- property management security equipment
+- property management security hardware
+- property management security software
+- property management security automation
+- property management security management
+- property management centralized security
+- property management remote security
+- property management professional security
+- property management comprehensive security
+- property management enterprise security
+- property management scalable security
+- property management customized security
+- property management turnkey security
+- property management security installation
+- property management security system installation
+- property management security repair
+- property management security system repair
+- property management security replacement
+- property management security system replacement
+- property management security upgrades
+- property management security system upgrades
+- property management security modernization
+- property management security maintenance
+- property management security system maintenance
+- property management security servicing
+- property management security inspection
+- property management security testing
+- property management security troubleshooting
+- property management security diagnostics
+- property management security technical support
+- property management security emergency services
+- property management security consultation
+- property management security system design
+- property management security planning
+- property management security engineering
+- property management security programming
+- property management security configuration
+- property management security commissioning
+- property management security integration
+- property management security retrofit
+- property management security renovation
+- property management security expansion
+- property management security company
+- property management security companies
+- property management security contractor
+- property management security contractors
+- property management security installer
+- property management security installers
+- property management security technician
+- property management security technicians
+- property management security specialist
+- property management security specialists
+- property management security experts
+- property management security professionals
+- property management security consultants
+- property management security integrator
+- property management security system integrators
+- property management security vendors
+- property management security providers
+- property management security service providers
+- property management security partners
+- property management security installation companies
+- property management security maintenance companies
+- property management security monitoring companies
+- licensed property management security contractor
+- insured property management security contractor
+- certified property management security installer
+- experienced property management security contractor
+- affordable property management security
+- reliable property management security
+- professional property management security
+- commercial-grade property management security
+- property management security equipment supplier
+- property management security equipment distributor
+- property management security equipment sales
+- property management security equipment installation
+- property management security equipment replacement
+- property management security equipment upgrades
+- property management security packages
+- property management security installation packages
+- property management security maintenance packages
+- property management security monitoring packages
+- property management company security systems
+- property management company security solutions
+- property management company security services
+- property management company security installation
+- property management company security upgrades
+- property management company security maintenance
+- property management company security contractors
+- property management company security vendors
+- property management company security monitoring
+- property management company security proposals
+- property management company security contracts
+- property management company security budgeting
+- property management company security planning
+- property management company security procurement
+- property management company security equipment
+- residential property management security
+- commercial property management security
+- multifamily property management security
+- apartment property management security
+- condominium property management security
+- condo property management security
+- co-op property management security
+- cooperative housing property management security
+- HOA property management security
+- homeowners association property management security
+- rental property management security
+- luxury property management security
+- affordable housing property management security
+- senior housing property management security
+- student housing property management security
+- mixed-use property management security
+- industrial property management security
+- warehouse property management security
+- office building property management security
+- retail property management security
+- shopping center property management security
+- medical building property management security
+- hospitality property management security
+- hotel property management security
+- vacation rental property management security
+- short-term rental property management security
+- long-term rental property management security
+- real estate property management security
+- commercial real estate property management security
+- residential real estate property management security
+- investment property management security
+- real estate portfolio security
+- property management portfolio security
+- property management portfolio security systems
+- property management portfolio security solutions
+- property management multi-property security
+- property management multi-building security
+- property management multi-site security
+- property management centralized building security
+- property management remote building security
+- property management high-rise building security
+- property management low-rise building security
+- property management mid-rise building security
+- property management prewar building security
+- property management historic building security
+- property management new construction security
+- property management existing building security
+- property management renovated building security
+- property management gated community security
+- property management apartment complex security
+- property management residential complex security
+- property management commercial complex security
+- property management doorman building security
+- property management non-doorman building security
+- property management vacant property security
+- property management occupied building security
+- property management building entrance security
+- property management lobby security
+- property management hallway security
+- property management corridor security
+- property management stairwell security
+- property management elevator security
+- property management elevator lobby security
+- property management parking garage security
+- property management underground parking security
+- property management parking lot security
+- property management driveway security
+- property management vehicle entrance security
+- property management pedestrian entrance security
+- property management parking gate security
+- property management basement security
+- property management laundry room security
+- property management mailroom security
+- property management package room security
+- property management delivery entrance security
+- property management storage room security
+- property management bicycle room security
+- property management mechanical room security
+- property management utility room security
+- property management equipment room security
+- property management rooftop security
+- property management courtyard security
+- property management garden security
+- property management perimeter security
+- property management fence security
+- property management gate security
+- property management exterior security
+- property management interior security
+- property management playground security
+- property management recreation area security
+- property management community room security
+- property management clubhouse security
+- property management fitness center security
+- property management gym security
+- property management swimming pool security
+- property management amenity security
+- property management common area security
+- property management shared space security
+- property management trash room security
+- property management loading dock security
+- property management service entrance security
+- property management reception security
+- property management concierge security
+- property management doorman security
+- property management office security
+- property management maintenance office security
+- property management visitor entrance security
+- property management resident entrance security
+- property management tenant entrance security
+- property management contractor entrance security
+- property management employee entrance security
+- property management retail space security
+- property management commercial space security
+- property management security cameras
+- property management security camera systems
+- property management building security cameras
+- property management surveillance cameras
+- property management surveillance systems
+- property management CCTV systems
+- property management CCTV cameras
+- property management video surveillance systems
+- security cameras for property management companies
+- security cameras for property managers
+- surveillance systems for property management companies
+- CCTV systems for property management companies
+- property management security camera installation
+- property management security camera repair
+- property management security camera replacement
+- property management security camera upgrades
+- property management security camera maintenance
+- property management security camera monitoring
+- property management security camera troubleshooting
+- property management security camera system modernization
+- property management security camera contractors
+- property management security camera installers
+- property management security camera installation companies
+- property management CCTV installation
+- property management CCTV repair
+- property management CCTV replacement
+- property management CCTV upgrades
+- property management CCTV maintenance
+- property management CCTV monitoring
+- property management video surveillance installation
+- property management video surveillance repair
+- property management video surveillance replacement
+- property management video surveillance upgrades
+- property management video surveillance maintenance
+- property management IP security cameras
+- property management analog security cameras
+- property management digital security cameras
+- property management HD security cameras
+- property management 2K security cameras
+- property management 4K security cameras
+- property management AI security cameras
+- property management cloud security cameras
+- property management wireless security cameras
+- property management wired security cameras
+- property management PoE security cameras
+- property management network security cameras
+- property management dome security cameras
