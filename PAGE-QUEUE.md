@@ -446,6 +446,7 @@ TODO | co-op-security-systems-orange-county | Co-op Security Systems | Orange | 
 TODO | co-op-security-systems-putnam-county | Co-op Security Systems | Putnam | up /co-op-security-systems-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | co-op-security-systems-dutchess-county | Co-op Security Systems | Dutchess | up /co-op-security-systems-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | co-op-security-systems-ulster-county | Co-op Security Systems | Ulster | up /co-op-security-systems-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | co-op-board-intercom-upgrade | Guide: Co-op Board Intercom Upgrade | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | condo-security-systems-nyc | Condo Security Systems | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | condo-security-systems-manhattan | Condo Security Systems | Manhattan | up /condo-security-systems-nyc | (929) 560-0737 | GBP Bronx
 TODO | condo-security-systems-brooklyn | Condo Security Systems | Brooklyn | up /condo-security-systems-nyc | (347) 934-8335 | GBP Brooklyn
