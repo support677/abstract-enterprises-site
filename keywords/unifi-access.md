@@ -1,0 +1,276 @@
+# UniFi Access — Anwar's Keyword List (Nov 25 2026) — PARTIAL, WAITING FOR THE REST
+
+**STATUS: PARTIAL.** Anwar's upload was cut off mid-list ("UniFi Access System Upgrade, UniFi Access"), the same ~10,000-character cutoff as 2N, DoorBird, Swiftlane, Brivo and Siedle. Everything below is his, through that point (core terms and hardware, installation incl. labor-only and door-count phrases, repair, service, maintenance, replacement, first upgrade phrases). His header says the full list also includes equipment sales, product models, troubleshooting, commercial, informational, transactional and voice search keywords; those are missing. Builders: do NOT build any unifi-access-control-* page while this file says PARTIAL.
+
+His note on the list: all keywords UniFi Access related; no geographic locations, no competing brands, no "near me" variations.
+
+Applies to EVERY unifi-access-control-* page in every area: NYC / Long Island / Hudson Valley hubs, every borough and county page, neighborhood pages later. Why: Nov 24 competitor sitemap watch (Impera /ubiquiti-unifi-installer-nyc Nov 16). Our UniFi CAMERA silo already exists (ubiquiti-camera-installation-*, 32 pages) and stays the money page for UniFi Protect cameras.
+
+Structure (same as the other brands): this list + the page's own area as the geo modifier, woven naturally through the full blueprint. Never paste the list, never a keyword block, never stuff, never repeat sentences across pages.
+
+## Rules for these pages
+
+- **Slug: `unifi-access-control-<area>`.** UniFi Access only: door hubs, readers, intercom/doorbell readers, locks, mobile/NFC credentials, gate and elevator control, managed in the UniFi app/console. Lead with installation (single door to multi-door, retrofit and new construction), then repair, programming and maintenance.
+- **Don't cannibalize the UniFi camera pages.** UniFi Protect camera wording stays on ubiquiti-camera-installation-*; each UniFi Access page links once in context to its area's ubiquiti-camera-installation page and its area's access control installation page, and the builder adds one contextual link back from each.
+- **Labor-only / customer-supplied equipment phrases:** yes, we install customer-supplied UniFi Access gear: labor price only, quoted by phone/text, booked with the deposit; no walk-throughs on customer equipment.
+- **Door-count phrases (single, two, four, eight door, multi-door, multi-building):** describe what each size involves; never invent a per-door price.
+- **Prices:** only what's already on the site (access control installation ranges as shown on that area's page, service call $250 diagnostic or the area's rate per [[aess-pricing]], installation quote after the site visit). Never invent UniFi hardware prices; never compare to a retail or manufacturer store price (UniFi sells direct online, so this matters).
+- **Dealer / authorized / certified / installation partner phrases:** Anwar applied for the UniFi channel partner program, but do NOT claim UniFi/Ubiquiti dealer, authorized, certified or partner status unless Anwar confirms it was approved. Say we install, program and service UniFi Access. Only Lorex, Luminys and Reolink may be called partners.
+- **Navigational phrases** (UniFi app, console, cloud, Identity, login, firmware): never imply we are Ubiquiti. Accounts, the UniFi console/app, firmware and manufacturer support are Ubiquiti's; door hardware, wiring, network, PoE and on-site programming are ours.
+- **Products / models / features** (Access Hub, Door Hub, G2/G3 readers, Intercom, Ultra, facial recognition, NFC/mobile, elevator/gate modules, any models in the rest of the list): confirm every one on ui.com or its datasheets with Firecrawl before use; drop any that can't be confirmed.
+- **Facial recognition / biometric phrases:** describe the feature only as Ubiquiti documents it; NYC biometric rules only with a real cited source, no legal advice.
+- **Elevator / gate / parking phrases:** the reader, hub and relay side is ours; elevator controller work is the elevator contractor's; gate operators are the gate company's unless it's low-voltage integration we do.
+- **Same-day / emergency / 24-hour / weekend / remote-repair phrases:** answer honestly. We book within 2 hours, schedule 7 days a week with early-day visits, first come first served once paid. Never promise same-day work, never "24/7". Free tech support for our customers; never promise remote repair.
+- **We don't do electrical work:** the low-voltage, PoE and door hardware side is ours; any new high-voltage circuit is the building's electrician. Mortise/door lock body work isn't our scope (strikes and mag locks are).
+- **Warranty:** Ubiquiti's manufacturer warranty is theirs; our labor warranty is the 30-day warranty on the site; 1-year and longer are paid add-ons.
+- **Area phrases only on their own area's page.** Never write "AESS"; always "Abstract Enterprises Security Systems". Company byline only. Real UniFi/access job photos; product shots labeled as product shots.
+
+## Keywords — Anwar's list (partial, every page)
+
+- UniFi Access
+- UniFi Access Control
+- UniFi Access System
+- UniFi Door Access
+- UniFi Door Access Control
+- UniFi Security Access
+- UniFi Access Security System
+- UniFi Access Solutions
+- UniFi Access Management
+- UniFi Access Platform
+- UniFi Access Hardware
+- UniFi Access Software
+- UniFi Access Equipment
+- UniFi Access Devices
+- UniFi Access Products
+- UniFi Access Technology
+- UniFi Access Network
+- UniFi Access Controller
+- UniFi Access Door Controller
+- UniFi Access Control Panel
+- UniFi Access Door Hub
+- UniFi Access Hub
+- UniFi Access Reader
+- UniFi Access Card Reader
+- UniFi Access Keypad
+- UniFi Access Intercom
+- UniFi Access Video Intercom
+- UniFi Access Doorbell
+- UniFi Access Door Lock
+- UniFi Access Electric Strike
+- UniFi Access Magnetic Lock
+- UniFi Access Maglock
+- UniFi Access Smart Lock
+- UniFi Access Electronic Lock
+- UniFi Access Key Card
+- UniFi Access Key Fob
+- UniFi Access NFC Card
+- UniFi Access Mobile Credentials
+- UniFi Access Mobile Entry
+- UniFi Access Mobile Unlock
+- UniFi Access Smartphone Entry
+- UniFi Access Touchless Entry
+- UniFi Access Keyless Entry
+- UniFi Access PIN Entry
+- UniFi Access Biometric Entry
+- UniFi Access Facial Recognition
+- UniFi Access Remote Entry
+- UniFi Access Remote Unlock
+- UniFi Access Visitor Management
+- UniFi Access Guest Management
+- UniFi Access Employee Management
+- UniFi Access Tenant Management
+- UniFi Access Cloud Management
+- UniFi Access Local Management
+- UniFi Access Door Management
+- UniFi Access Building Management
+- UniFi Access Gate Control
+- UniFi Access Elevator Control
+- UniFi Access Parking Control
+- UniFi Access Commercial
+- UniFi Access Residential
+- UniFi Access Enterprise
+- UniFi Access Industrial
+- UniFi Access Installation
+- UniFi Access Installer
+- UniFi Access Installers
+- UniFi Access Control Installation
+- UniFi Access System Installation
+- UniFi Access Door Installation
+- UniFi Access Door Control Installation
+- UniFi Access Controller Installation
+- UniFi Access Control Panel Installation
+- UniFi Access Door Hub Installation
+- UniFi Access Hub Installation
+- UniFi Access Reader Installation
+- UniFi Access Card Reader Installation
+- UniFi Access Keypad Installation
+- UniFi Access Intercom Installation
+- UniFi Access Video Intercom Installation
+- UniFi Access Doorbell Installation
+- UniFi Access Door Lock Installation
+- UniFi Access Electric Strike Installation
+- UniFi Access Magnetic Lock Installation
+- UniFi Access Maglock Installation
+- UniFi Access Smart Lock Installation
+- UniFi Access Electronic Lock Installation
+- UniFi Access Gate Installation
+- UniFi Access Gate Control Installation
+- UniFi Access Elevator Installation
+- UniFi Access Elevator Control Installation
+- UniFi Access Parking Gate Installation
+- UniFi Access Mobile Access Installation
+- UniFi Access Keyless Entry Installation
+- UniFi Access Touchless Entry Installation
+- UniFi Access Biometric Installation
+- UniFi Access Facial Recognition Installation
+- UniFi Access Commercial Installation
+- UniFi Access Residential Installation
+- UniFi Access Industrial Installation
+- UniFi Access Enterprise Installation
+- UniFi Access Professional Installation
+- UniFi Access Installation Company
+- UniFi Access Installation Contractor
+- UniFi Access Installation Technician
+- UniFi Access Installation Specialist
+- UniFi Access Certified Installer
+- UniFi Access Authorized Installer
+- UniFi Access Installation Partner
+- UniFi Access Installation Services
+- UniFi Access Installation Cost
+- UniFi Access Installation Pricing
+- UniFi Access Installation Estimate
+- UniFi Access Installation Quote
+- UniFi Access Installation Packages
+- UniFi Access Installation Requirements
+- UniFi Access Installation Labor
+- UniFi Access Labor Only Installation
+- UniFi Access Customer Supplied Equipment Installation
+- UniFi Access New Construction Installation
+- UniFi Access Retrofit Installation
+- UniFi Access Existing Building Installation
+- UniFi Access Single Door Installation
+- UniFi Access Two Door Installation
+- UniFi Access Four Door Installation
+- UniFi Access Eight Door Installation
+- UniFi Access Multi Door Installation
+- UniFi Access Multi Building Installation
+- UniFi Access System Deployment
+- UniFi Access System Commissioning
+- UniFi Access System Setup
+- UniFi Access System Programming
+- UniFi Access System Configuration
+- UniFi Access System Integration
+- UniFi Access Repair
+- UniFi Access Control Repair
+- UniFi Access System Repair
+- UniFi Access Door Repair
+- UniFi Access Door Controller Repair
+- UniFi Access Control Panel Repair
+- UniFi Access Hub Repair
+- UniFi Access Door Hub Repair
+- UniFi Access Reader Repair
+- UniFi Access Card Reader Repair
+- UniFi Access Keypad Repair
+- UniFi Access Intercom Repair
+- UniFi Access Video Intercom Repair
+- UniFi Access Doorbell Repair
+- UniFi Access Door Lock Repair
+- UniFi Access Electric Strike Repair
+- UniFi Access Magnetic Lock Repair
+- UniFi Access Maglock Repair
+- UniFi Access Smart Lock Repair
+- UniFi Access Gate Repair
+- UniFi Access Gate Controller Repair
+- UniFi Access Elevator Control Repair
+- UniFi Access Parking Gate Repair
+- UniFi Access Mobile Access Repair
+- UniFi Access Network Repair
+- UniFi Access Wiring Repair
+- UniFi Access Power Supply Repair
+- UniFi Access Software Repair
+- UniFi Access Hardware Repair
+- UniFi Access Emergency Repair
+- UniFi Access Same Day Repair
+- UniFi Access 24 Hour Repair
+- UniFi Access Weekend Repair
+- UniFi Access After Hours Repair
+- UniFi Access On Site Repair
+- UniFi Access Remote Repair
+- UniFi Access Repair Company
+- UniFi Access Repair Services
+- UniFi Access Repair Contractor
+- UniFi Access Repair Technician
+- UniFi Access Repair Specialist
+- UniFi Access Authorized Repair
+- UniFi Access Certified Repair
+- UniFi Access Repair Cost
+- UniFi Access Repair Pricing
+- UniFi Access Repair Estimate
+- UniFi Access Repair Quote
+- UniFi Access Service
+- UniFi Access Servicing
+- UniFi Access Control Service
+- UniFi Access System Service
+- UniFi Access Door Service
+- UniFi Access Controller Service
+- UniFi Access Reader Service
+- UniFi Access Intercom Service
+- UniFi Access Gate Service
+- UniFi Access Technical Service
+- UniFi Access Field Service
+- UniFi Access On Site Service
+- UniFi Access Remote Service
+- UniFi Access Emergency Service
+- UniFi Access Service Company
+- UniFi Access Service Provider
+- UniFi Access Service Contractor
+- UniFi Access Service Technician
+- UniFi Access Service Call
+- UniFi Access Maintenance
+- UniFi Access Control Maintenance
+- UniFi Access System Maintenance
+- UniFi Access Door Maintenance
+- UniFi Access Reader Maintenance
+- UniFi Access Controller Maintenance
+- UniFi Access Intercom Maintenance
+- UniFi Access Gate Maintenance
+- UniFi Access Preventive Maintenance
+- UniFi Access Annual Maintenance
+- UniFi Access Scheduled Maintenance
+- UniFi Access Maintenance Contract
+- UniFi Access Maintenance Agreement
+- UniFi Access Service Agreement
+- UniFi Access Maintenance Plans
+- UniFi Access System Inspection
+- UniFi Access Door Inspection
+- UniFi Access System Testing
+- UniFi Access Diagnostics
+- UniFi Access Door Diagnostics
+- UniFi Access Reader Diagnostics
+- UniFi Access Network Diagnostics
+- UniFi Access System Health Check
+- UniFi Access Replacement
+- UniFi Access Control Replacement
+- UniFi Access System Replacement
+- UniFi Access Door Controller Replacement
+- UniFi Access Control Panel Replacement
+- UniFi Access Hub Replacement
+- UniFi Access Door Hub Replacement
+- UniFi Access Reader Replacement
+- UniFi Access Card Reader Replacement
+- UniFi Access Keypad Replacement
+- UniFi Access Intercom Replacement
+- UniFi Access Video Intercom Replacement
+- UniFi Access Doorbell Replacement
+- UniFi Access Door Lock Replacement
+- UniFi Access Electric Strike Replacement
+- UniFi Access Magnetic Lock Replacement
+- UniFi Access Gate Controller Replacement
+- UniFi Access Power Supply Replacement
+- UniFi Access Hardware Replacement
+- UniFi Access Replacement Parts
+- UniFi Access Spare Parts
+- UniFi Access OEM Parts
+- UniFi Access Upgrade
+- UniFi Access Control Upgrade
+- UniFi Access System Upgrade
