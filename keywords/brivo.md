@@ -1,0 +1,317 @@
+# Brivo — Anwar's Keyword List (Nov 25 2026) — PARTIAL, WAITING FOR THE REST
+
+**STATUS: PARTIAL.** Anwar's upload was cut off mid-phrase ("Brivo door controller upgrade, Brivo control panel"), the same ~10,000-character cutoff as 2N, DoorBird and Swiftlane. Everything below is his, through that point (core access control terms, install, repair, service, maintenance, replacement and the first upgrade phrases). Missing: rest of upgrades, not-working/troubleshooting, buying/pricing, products, building types, questions, navigational. Builders: do NOT build any brivo-access-control-* page while this file says PARTIAL.
+
+His note on the list: every keyword is Brivo-specific; no geographic locations, no competing brands, no "near me" variations, no generic non-branded keywords.
+
+Applies to EVERY brivo-access-control-* page in every area: NYC / Long Island / Hudson Valley hubs, every borough and county page, neighborhood pages later. Why: Nov 24 competitor sitemap watch (Impera /brivo-installer-nyc Nov 17; Vertex Brivo dealer page). Search Console (90 days): "brivo access control installer nyc" 13 impressions @12.8, "brivo authorized dealers" 4 @9. P2.
+
+Structure (same as the other brands): this list + the page's own area as the geo modifier, woven naturally through the full blueprint. Never paste the list, never a keyword block, never stuff, never repeat sentences across pages.
+
+## Rules for these pages
+
+- **Slug: `brivo-access-control-<area>`.** Brivo is cloud access control (readers, door controllers, Mobile Pass, plus Brivo video and intercom), so the pages lead with access control installation and upgrades (replacing key fobs, keys and old card systems), then repair and maintenance.
+- **Cannibalization (BLUEPRINT §12.0):** no brivo-repair-* page exists, so these pages carry the Brivo-specific repair and not-working phrases. Generic access control / mag lock / electric strike / intercom wording stays on the access-control-installation-*, mag lock, intercom and door-buzzer-repair pages. Every Brivo page links once in context to its area's access control installation page (and the area's mag lock / intercom pages where they exist); the builder adds one contextual link back from the area's access control installation page.
+- **Prices:** only what's already on the site (access control installation ranges as shown on that area's page, service call $250 diagnostic or the area's rate per [[aess-pricing]], installation quote after the site visit). Never invent Brivo hardware or subscription/licence prices; never compare to a retail or manufacturer store price.
+- **Dealer / authorized / certified / installation partner phrases (incl. "Brivo authorized dealers", which already gets impressions):** do NOT claim Brivo dealer, authorized, certified or partner status unless Anwar confirms it in writing. Say we install, wire and service Brivo systems. Only Lorex, Luminys and Reolink may be called partners.
+- **Navigational phrases** (Brivo app, Mobile Pass, cloud, admin login, support): never imply we are Brivo. Accounts, subscriptions, Mobile Pass credentials and manufacturer support are Brivo's; readers, controllers, door hardware, wiring, network and installation are ours.
+- **Products / features:** confirm every model and feature (e.g. Brivo ACS6000, Smart Readers, Mobile Pass, Brivo Video) on brivo.com with Firecrawl before use; drop any that can't be confirmed.
+- **Elevator / gate / parking garage phrases:** the reader and controller side is ours; elevator controller work is the elevator contractor's, gate operators the gate company's unless it's low-voltage integration we do. Real facts only.
+- **How-to / why phrases:** explain what's going on and what an admin can safely check in the Brivo dashboard/app, then book the tech. No step-by-step wiring or programming.
+- **Same-day / emergency / 24-hour / weekend / remote-support phrases:** answer honestly. We book within 2 hours, schedule 7 days a week with early-day visits, first come first served once paid. Never promise same-day work, never "24/7". Free tech support for our customers; never promise remote repair.
+- **We don't do electrical work:** the low-voltage, PoE and door hardware side is ours; any new high-voltage circuit is the building's electrician. Mortise/door lock body work isn't our scope (electric strikes and mag locks are).
+- **Warranty:** Brivo's manufacturer warranty is theirs; our labor warranty is the 30-day warranty on the site; 1-year and longer are paid add-ons.
+- **Area phrases only on their own area's page.** Never write "AESS"; always "Abstract Enterprises Security Systems". Company byline only. Real access control job photos; product shots labeled as product shots.
+
+## Keywords — Anwar's list (partial, every page)
+
+- Brivo
+- Brivo security
+- Brivo access
+- Brivo Access Control
+- Brivo access control system
+- Brivo cloud access control
+- Brivo cloud security
+- Brivo security system
+- Brivo door access
+- Brivo door access control
+- Brivo electronic access control
+- Brivo physical access control
+- Brivo commercial access control
+- Brivo residential access control
+- Brivo enterprise access control
+- Brivo apartment access control
+- Brivo multifamily access control
+- Brivo building access control
+- Brivo smart access control
+- Brivo wireless access control
+- Brivo wired access control
+- Brivo IP access control
+- Brivo network access control
+- Brivo mobile access control
+- Brivo biometric access control
+- Brivo keyless entry
+- Brivo smart entry
+- Brivo door entry system
+- Brivo building entry system
+- Brivo intercom
+- Brivo video intercom
+- Brivo apartment intercom
+- Brivo commercial intercom
+- Brivo smart intercom
+- Brivo video surveillance
+- Brivo security cameras
+- Brivo video security
+- Brivo CCTV
+- Brivo video monitoring
+- Brivo cloud video surveillance
+- Brivo visitor management
+- Brivo identity management
+- Brivo identity access management
+- Brivo property management
+- Brivo smart home
+- Brivo smart building
+- Brivo smart apartment
+- Brivo building automation
+- Brivo door automation
+- Brivo security automation
+- Brivo card reader
+- Brivo access reader
+- Brivo smart reader
+- Brivo proximity reader
+- Brivo Bluetooth reader
+- Brivo mobile reader
+- Brivo RFID reader
+- Brivo keypad
+- Brivo door controller
+- Brivo access controller
+- Brivo control panel
+- Brivo access control panel
+- Brivo security panel
+- Brivo door lock
+- Brivo smart lock
+- Brivo magnetic lock
+- Brivo electric strike
+- Brivo electronic lock
+- Brivo credentials
+- Brivo mobile credentials
+- Brivo access cards
+- Brivo key cards
+- Brivo key fobs
+- Brivo mobile pass
+- Brivo digital credentials
+- Brivo digital keys
+- Brivo virtual keys
+- Brivo products
+- Brivo equipment
+- Brivo hardware
+- Brivo software
+- Brivo app
+- Brivo mobile app
+- Brivo cloud platform
+- Brivo security platform
+- Brivo access platform
+- Brivo installation
+- Brivo installer
+- Brivo installers
+- Brivo access control installation
+- Brivo security system installation
+- Brivo cloud access control installation
+- Brivo commercial access control installation
+- Brivo residential access control installation
+- Brivo apartment access control installation
+- Brivo multifamily access control installation
+- Brivo enterprise access control installation
+- Brivo building access control installation
+- Brivo door access installation
+- Brivo keyless entry installation
+- Brivo card reader installation
+- Brivo access reader installation
+- Brivo smart reader installation
+- Brivo proximity reader installation
+- Brivo Bluetooth reader installation
+- Brivo RFID reader installation
+- Brivo keypad installation
+- Brivo door controller installation
+- Brivo access controller installation
+- Brivo control panel installation
+- Brivo access control panel installation
+- Brivo security panel installation
+- Brivo door lock installation
+- Brivo smart lock installation
+- Brivo magnetic lock installation
+- Brivo maglock installation
+- Brivo electric strike installation
+- Brivo electronic lock installation
+- Brivo elevator access control installation
+- Brivo gate access control installation
+- Brivo parking garage access control installation
+- Brivo intercom installation
+- Brivo video intercom installation
+- Brivo video surveillance installation
+- Brivo security camera installation
+- Brivo CCTV installation
+- Brivo visitor management installation
+- Brivo mobile access installation
+- Brivo biometric access control installation
+- Brivo smart building installation
+- Brivo installation company
+- Brivo installation services
+- Brivo installation contractor
+- Brivo installation specialist
+- Brivo installation technician
+- Brivo professional installation
+- Brivo authorized installer
+- Brivo certified installer
+- Brivo installation partner
+- Brivo installation estimate
+- Brivo installation quote
+- Brivo installation cost
+- Brivo installation pricing
+- Brivo installation packages
+- Brivo installation requirements
+- Brivo new construction installation
+- Brivo retrofit installation
+- Brivo existing building installation
+- Brivo wiring installation
+- Brivo system configuration
+- Brivo system programming
+- Brivo system setup
+- Brivo cloud setup
+- Brivo app setup
+- Brivo app installation
+- Brivo system commissioning
+- Brivo system deployment
+- Brivo repair
+- Brivo access control repair
+- Brivo security system repair
+- Brivo cloud access control repair
+- Brivo door access repair
+- Brivo door access control repair
+- Brivo keyless entry repair
+- Brivo commercial access control repair
+- Brivo residential access control repair
+- Brivo apartment access control repair
+- Brivo multifamily access control repair
+- Brivo enterprise access control repair
+- Brivo card reader repair
+- Brivo access reader repair
+- Brivo smart reader repair
+- Brivo proximity reader repair
+- Brivo Bluetooth reader repair
+- Brivo RFID reader repair
+- Brivo keypad repair
+- Brivo door controller repair
+- Brivo access controller repair
+- Brivo control panel repair
+- Brivo access control panel repair
+- Brivo security panel repair
+- Brivo door lock repair
+- Brivo smart lock repair
+- Brivo magnetic lock repair
+- Brivo maglock repair
+- Brivo electric strike repair
+- Brivo electronic lock repair
+- Brivo door release repair
+- Brivo power supply repair
+- Brivo circuit board repair
+- Brivo wiring repair
+- Brivo network repair
+- Brivo elevator access control repair
+- Brivo gate access control repair
+- Brivo parking access control repair
+- Brivo intercom repair
+- Brivo video intercom repair
+- Brivo security camera repair
+- Brivo video surveillance repair
+- Brivo mobile access repair
+- Brivo biometric access control repair
+- Brivo repair company
+- Brivo repair services
+- Brivo repair contractor
+- Brivo repair specialist
+- Brivo repair technician
+- Brivo authorized repair
+- Brivo certified repair technician
+- Brivo emergency repair
+- Brivo same day repair
+- Brivo 24 hour repair
+- Brivo weekend repair
+- Brivo after hours repair
+- Brivo on-site repair
+- Brivo repair estimate
+- Brivo repair quote
+- Brivo repair cost
+- Brivo service
+- Brivo servicing
+- Brivo access control service
+- Brivo security system service
+- Brivo cloud access control service
+- Brivo card reader service
+- Brivo door controller service
+- Brivo door lock service
+- Brivo service company
+- Brivo service technician
+- Brivo service contractor
+- Brivo service provider
+- Brivo service call
+- Brivo field service
+- Brivo technical service
+- Brivo on-site service
+- Brivo remote service
+- Brivo remote technical support
+- Brivo maintenance
+- Brivo access control maintenance
+- Brivo security system maintenance
+- Brivo cloud access control maintenance
+- Brivo card reader maintenance
+- Brivo door controller maintenance
+- Brivo control panel maintenance
+- Brivo preventive maintenance
+- Brivo maintenance contract
+- Brivo service agreement
+- Brivo annual maintenance
+- Brivo monthly maintenance
+- Brivo system inspection
+- Brivo system testing
+- Brivo diagnostics
+- Brivo access control diagnostics
+- Brivo security system diagnostics
+- Brivo network diagnostics
+- Brivo door controller diagnostics
+- Brivo replacement
+- Brivo access control replacement
+- Brivo security system replacement
+- Brivo door access replacement
+- Brivo keyless entry replacement
+- Brivo card reader replacement
+- Brivo access reader replacement
+- Brivo smart reader replacement
+- Brivo proximity reader replacement
+- Brivo Bluetooth reader replacement
+- Brivo RFID reader replacement
+- Brivo keypad replacement
+- Brivo door controller replacement
+- Brivo access controller replacement
+- Brivo control panel replacement
+- Brivo access control panel replacement
+- Brivo security panel replacement
+- Brivo door lock replacement
+- Brivo smart lock replacement
+- Brivo magnetic lock replacement
+- Brivo electric strike replacement
+- Brivo electronic lock replacement
+- Brivo power supply replacement
+- Brivo circuit board replacement
+- Brivo door release replacement
+- Brivo elevator access control replacement
+- Brivo gate access control replacement
+- Brivo intercom replacement
+- Brivo security camera replacement
+- Brivo system replacement
+- Brivo hardware replacement
+- Brivo replacement parts
+- Brivo access control upgrade
+- Brivo security system upgrade
+- Brivo card reader upgrade
+- Brivo door controller upgrade
