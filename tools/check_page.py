@@ -428,9 +428,25 @@ PRICE_PAGES = {
     "security-camera-installation": "security-camera-pricing",
     "cctv-installation": "security-camera-pricing",       # DAILY-RUN: same prices as the camera pages
     "security-cameras": "security-camera-pricing",        # equipment store (Nov 20 2026): installed "from" price only
+    "condo-security-camera-installation": "security-camera-pricing",  # Nov 25 2026: camera-by-audience silo, area camera prices
+    "co-op-security-camera-installation": "security-camera-pricing",  # Nov 25 2026: camera-by-audience silo, area camera prices
 }
 # Services with no price page: {silo: {area: starting price}} - ONLY numbers Anwar has set.
-START_PRICES = {}
+# Nov 25 2026 (Anwar): the co-op / condo / property-management / apartment-building audience hubs,
+# the two board guides and every intercom / access-control brand page start at the $250 service call
+# that's already on /intercom-pricing and /door-buzzer-repair-pricing (repairs start with a $250 service
+# call; new systems are quoted after the free on-site assessment). Same in every area.
+_SERVICE_CALL_SILOS = (
+    "co-op-security-systems", "condo-security-systems", "property-management-security",
+    "apartment-building-security-systems", "co-op-board-intercom-upgrade", "condo-intercom-replacement",
+    "butterflymx-installation", "comelit-intercom", "aiphone-intercom", "akuvox-intercom",
+    "avigilon-intercom", "2n-intercom", "doorbird-intercom", "siedle-intercom",
+    "swiftlane-access-control", "brivo-access-control", "unifi-access-control",
+)
+START_PRICES = {s: {a: 250 for a in (
+    "nyc", "manhattan", "brooklyn", "queens", "bronx", "staten-island", "long-island", "hudson-valley",
+    "nassau-county", "suffolk-county", "westchester-county", "rockland-county", "orange-county",
+    "putnam-county", "dutchess-county", "ulster-county")} for s in _SERVICE_CALL_SILOS}
 # Starting prices Anwar set that the price page doesn't show yet. They win over the price page.
 #   Brooklyn $950 (Anwar, Nov 19 2026). security-camera-pricing-brooklyn.html still starts at $850
 #   (A Series) until he decides on the A Series. Remove this line once that page starts at $950.
