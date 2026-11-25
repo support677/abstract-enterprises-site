@@ -419,3 +419,237 @@ Dedup note: questions were also checked against the in-progress Queens and Bronx
 - desktop-network-video-recorder ← images/apartment-building-security-camera-installation/apartment-building-security-camera-installation-westchester-county-black-desktop-network-video-recorder-product-photo.webp (product)
 - wired-video-doorbell-with-round-button ← images/door-buzzer-installation/door-buzzer-installation-sea-gate-door-buzzer-repair-allerton-dark-grey-wired-doorbell-with-round-button.webp (product)
 Rejected: elevator-access-control "bronx key card"/"akuvox keypad" and network-installation/strike-wiring images (AI-generated, faces, printed phone numbers); lot-view recorder screenshots (same camera view already used on the Queens page).
+
+
+## long-island
+
+## long-island
+
+## Long Island — local research for `co-op-security-systems-long-island` (part file, Nov 25 2026; merge into research/co-op-security-systems.md)
+
+Hub page: Nassau + Suffolk. GBP Brooklyn, (800) 486-0943 only. Starting price $250 service call (START_PRICES). Other prices only from /door-buzzer-repair-long-island-ny (component ranges, same as /door-buzzer-repair-pricing) and /intercom-installation-long-island-ny (multi-unit building $1,200–$4,500+). /intercom-repair-long-island publishes different ranges (diagnostic $195–$375 etc.); NOT used.
+
+### Mandatory sources (§3) — status
+| # | Source | Status |
+|---|---|---|
+| 1 | Reddit | Firecrawl search `reddit r/longisland co-op board maintenance buying a co-op Long Island advice` → see LI5/LI6 |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env). Reality-check section answers generic claims seen in HomeAdvisor (L12) and NYC-sourced content applied statewide (MDL §50-a, TDPA). |
+| 6 | Landmarks | LI1, LI2, LI3, LI4, LI9 (places named only as general locations; no client buildings) |
+| 7 | Use cases / building stock | LI1–LI4, LI9 |
+| 8 | Bing/DDG | EMPTY (not accessible in build env) |
+| 9 | Local news | Habitat (LI3, LI4, LI7), CooperatorNews (LI1, LI2) |
+| 10 | Hyperlocal (Newsday, Patch, LI Herald) | not searched separately; EMPTY |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Rows (exact query · platform · URL · finding · used)
+| # | Query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| LI1 | `Long Island co-op apartments Nassau County garden apartment cooperatives Great Neck Rockville Centre number of co-ops` · WebSearch → WebFetch | https://cooperatornews.com/article/great-necks-kenwood-gardens | A.J. Sidransky, June 29 2020: Kenwood Gardens, Great Neck, built 1925, 69 units, seven stories; "Kenwood Gardens was the first co-op building constructed on Long Island." | §5 para 1, facts list, landmarks card |
+| LI2 | same · WebFetch | https://cooperatornews.com/article/theres-something-about-great-neck | Mary K. Fons, April 2006: Great Neck Co-op & Condo Council "consists of close to 100 co-ops and condos in Great Neck and the surrounding area"; most in Great Neck Plaza and Great Neck Estates. | §5 para 1, landmarks |
+| LI3 | Habitat Long Island/Nassau tag page · WebFetch → article | https://www.habitatmag.com/Publication-Content/Bricks-Bucks/2025/July-2025/roslyn-gardens-co-op-lobby-renovation | Emily Myers, July 9 2025: Roslyn Heights garden co-op, 381 units, 25 buildings, 14 acres, 25 small entryways; refreshed from reserves for $750,000, three buildings at a time. (Building name NOT used on page.) | §5 para 2, facts list, landmarks |
+| LI4 | same tag page → article | https://www.habitatmag.com/Publication-Content/Building-Operations/2015/2015-May/Neptune-Towers-Replaces-Generator | Jennifer V. Hughes, May 11 2015: Long Beach co-op replaced generator after Sandy; 80 kW; can carry security systems; QUOTE "We wanted to raise it up about 30 inches off the floor, just in case the area [got] flooded." (Building name NOT used on page.) | facts list, §7 oceanfront towers, landmarks |
+| LI5 | `reddit r/longisland co-op ...` · Firecrawl search | https://www.reddit.com/r/longisland/comments/1vbg3ap/condoco_op_purchase/ | Comment: "Co-ops are very restrictive and are prone to constant maintenance increases." | §5 para 3 |
+| LI6 | same | https://www.reddit.com/r/longisland/comments/138ml77/to_buy_or_not_to_buy_a_coop_property/ | Comment: "look into the age and maintenance history of the building" | §5 para 3 |
+| LI7 | Habitat tag page → article | https://www.habitatmag.com/Publication-Content/Co-op-Condo-Buyers/2019/2019-December/The-Clock-Is-Ticking-on-Timely-Co-op-Sales-in-Nassau-County | Bill Morris, Dec 17 2019: Nassau law passed 15–1: 15 days to acknowledge, 45 days to decide; fines $1,000/$2,000 for repeats; Legislator Birnbaum wanted 60 days "as in Suffolk and Westchester Counties". | facts list; §8.5 rules |
+| LI8 | `New York Multiple Residence Law applies to cities of less than 325,000 towns villages section 3 applicability` · WebSearch → WebFetch | https://newyork.public.law/laws/n.y._multiple_residence_law_section_3 | MRL §3(1): applies to "all cities of less than three hundred twenty-five thousand population" and "to all towns and villages." | facts list; §8.5; Q&A (city intercom law); AI check #2 |
+| LI8b | Firecrawl gov search `Multiple Residence Law self-closing self-locking door intercom` (us-ny) | https://law.justia.com/codes/new-york/mdw/article-3/title-2/50-a/ ; https://ag.ny.gov/sites/default/files/tenants_rights.pdf | §50-a intercom/self-locking requirement sits in the Multiple Dwelling Law (cities 325,000+, MDL §3, silo L5). No MRL intercom requirement found → page makes NO claim that MRL requires an intercom. | Q&A, AI check #2 |
+| LI9a | `NYS Uniform Fire Prevention and Building Code administered enforced by local governments ...` · Firecrawl search | https://dos.ny.gov/legal-memorandum-lg03-nys-uniform-fire-prevention-and-building-code-what-elected-officials-need | DOS LG03: "The Uniform Code is automatically in effect in each city, town, and village in the State (except New York City)"; enforced locally; opt-out passes to county. | §8.5; Q&A (who issues permits) |
+| LI9 | `Suffolk County co-op apartments complex cooperative Huntington Patchogue Bay Shore co-op gardens` · Firecrawl search | https://www.trulia.com/for_sale/36103_c/COOP_type/2_p/ ; https://www.homes.com/bayport-ny/co-ops-for-sale/ ; https://www.facebook.com/groups/Huntingtonmatters/posts/9285519961459209/ | Trulia "Suffolk County, NY Co-Ops For Sale - 123 Listings" (Bay Shore, …); homes.com Bayport/Patchogue co-op listings; Huntington Village co-op open house; homes.com Suffolk listing mentions pool, clubhouse amenities. | facts list (≈120), landmarks Suffolk card, Nassau/Suffolk paragraph |
+| LI10 | `Nassau County NY Co-Ops For Sale listings trulia` · Firecrawl search | https://www.trulia.com/for_sale/36059_c/COOP_type/ | "Nassau County, NY Co-Ops For Sale - 222 Listings" (snapshot; search-engine cache, Nov 2026). | facts list (≈220) |
+| LI11 | Habitat tag page (listing only) | https://www.habitatmag.com/tags/view/geotags/Long%20Island/Nassau%20County/Floral%20Park/Flower%20View%20Garden%20Apartments ; https://www.habitatmag.com/Publication-Content/Bricks-Bucks/2019/2019-May/Floral-Park | Floral Park co-op boards covered by Habitat (capital projects, garden apartments). | landmarks card |
+| LI12 | reused: silo L2 (Levandusky), L4 (HPD TDPA), L11 (Cooperator camera Q&A/eavesdropping), L12 (HomeAdvisor $1,200–$8,500) | see silo table | — | §8.5, AI checks #1, #4, #7 |
+| LI13 | repo: fire-alarm-installation-long-island-ny.html | /fire-alarm-installation-long-island-ny | Nassau permits carry the licensed installer's Nassau County Fire Marshal license number; Suffolk town/village fire marshal review. | Fire alarm section, AI check #6, FAQ |
+
+### Long Island question register (this page) — add to the silo register
+§9 Q&A (H3): Does New York City's intercom law apply to a co-op in Nassau or Suffolk? · Who issues permits for security work in a Long Island village or town? · How long does a survey take for a co-op with many buildings? · What can cameras do about mail theft at our outdoor cluster mailboxes? · Why do our outdoor cameras send alerts all night, and how do we stop it? · How should a co-op keep non-shareholders out of its pool in summer? · How do we keep a reader post at the drive entrance from being hit by snowplows? · Salt water reached our basement in a storm. What has to be replaced? · Our buried intercom cable between buildings keeps failing after heavy rain. Repair or replace? · Can the lobby panel reach shareholders who spend the winter in Florida? · Should the board fix the doors and frames before buying new access control? · Does a mid-rise Long Island co-op need elevator floor control? · What changes when the co-op is a high-rise rather than a garden complex? · Is a fob system worth it for a single twelve-apartment building? · Is a cloud-managed system or an on-site server better for a co-op spread over several acres?
+
+§17 FAQ: How far east on Long Island do you take co-op work? · Is a Nassau or Suffolk co-op covered by New York City's smart-access privacy law? · Can a shareholder who books the clubhouse get fob access for just that evening? · Do you install video intercoms at the guard booth at a complex entrance? · Will you install intercom or camera equipment our board already bought? · Can our landscapers, plow crew and other vendors keep a door code after the upgrade? · Does a cloud intercom need anything the co-op buys separately, such as internet service? · Does fire alarm work at a Nassau co-op need a Fire Marshal license number? · Will an app-based intercom work if cell reception inside our buildings is weak? · Do you program the new directory, or does the board send us a list? · Will you take over a co-op job that another contractor started and left unfinished? · Another vendor already quoted our co-op. Will you still give us a proposal?
+
+Intent check against the register (by meaning): NYC "legally required to keep a working intercom" → LI asks whether the CITY statute applies at all (jurisdiction); NYC "TDPA covers fobs" → LI FAQ is jurisdiction (city law vs county); SI recorder near shore → LI asks what to replace after salt-water flooding; SI salt-air panels → body only; Queens one-fob-for-everything / SI fob hours → LI pool question is guest control; Queens landlines → LI is snowbirds away seasonally; Queens internet outage → LI is weak cellular reception; Queens cable between buildings (method) → LI is recurring storm failures on buried cable; Bronx gate remotes / Queens parking gate fob → LI is snowplow protection of reader post; SI gate contractor / Queens gate intercoms → LI is guard-booth call routing; Brooklyn walk-through free / document existing system → LI is second proposal vs another vendor's quote and takeover of an unfinished job. Virtual doorman, references, financing, warranty, electrical, weekends, RFPs: body only, no question.
+
+### Images (11, permanent image rule; no Drive/CompanyCam check in this subagent run)
+Converted to WebP into images/co-op-security-systems/ with `-long-island-` names. Sources checked by sha256 against every file already in images/co-op-security-systems/ (no match) and visually against contact sheets of the six live co-op pages and the in-progress Nassau/Hudson Valley sets (pendant PTZ dropped: HV builder already copied it; two drop-ceiling dome photos dropped: same scene as HV set). All product photos or real ceiling/camera photos; no faces, no "AESS", no phone numbers, no house numbers, nothing from images/buzzer-repair/, elevator-access-control, network-installation sets or AI-generated sets.
+| File (`co-op-security-systems-long-island-…`) | Source |
+|---|---|
+| dark-single-button-video-door-station (hero, og:image) | images/intercom-repair/intercom-repair-staten-island-black-akuvox-house-video-door-station-product-photo.webp |
+| desktop-network-video-recorder | images/alarm-installation/alarm-installation-brooklyn-chinatown-honeywell-recorder-product-photo.webp |
+| door-station-back-plate-and-cable-opening | images/access-control-installation/access-control-installation-cobble-hill-brooklyn-white-doorbell-back-plate-and-cable-opening.webp |
+| dual-lens-ptz-camera-for-lots-and-grounds | images/cam-ptz-dual.jpeg |
+| spotlight-floodlight-camera-with-two-lamps | images/alarm-installation/alarm-installation-clinton-hill-alarm-com-floodlight-camera-product-photo.webp |
+| stainless-anti-corrosion-bullet-camera | images/apartment-building-security-camera-installation/…-staten-island-stainless-anti-corrosion-bullet-camera-product.webp |
+| white-pan-tilt-floodlight-camera-with-antennas | images/access-control-installation/access-control-installation-marine-park-white-pan-tilt-floodlight-camera-with-antennas.webp |
+| stainless-bullet-camera-with-illuminator-ring | images/apartment-building-security-camera-installation/…-hudson-valley-stainless-bullet-camera-with-illuminator-ring-product-photo.webp |
+| twin-lens-dome-camera-for-building-corners | images/apartment-building-security-camera-installation/…-hudson-valley-white-twin-lens-dome-camera-product-photo.webp |
+| white-bullet-camera-with-red-stripe | images/apartment-building-security-camera-installation/…-hudson-valley-white-bullet-camera-with-red-stripe-product-photo.webp |
+| black-varifocal-dome-camera | images/apartment-building-security-camera-installation/…-brooklyn-black-varifocal-dome-camera-product-photo.webp |
+
+### Links left for the main run (FLIP comments, plain text beside each)
+- `<!-- FLIP: /co-op-security-systems-nassau-county -->` ×2 (Nassau/Suffolk paragraph; All Areas line)
+- `<!-- FLIP: /co-op-security-systems-suffolk-county -->` ×2 (same places)
+- `<!-- FLIP: /co-op-security-systems-hudson-valley -->` ×1 (All Areas line)
+- `<!-- FLIP: /co-op-board-intercom-upgrade -->` ×1 (intercom section)
+- `<!-- FLIP: /co-op-security-camera-installation-long-island -->` ×1 (camera section)
+
+### Flags for Anwar
+- Fire alarm wording follows the live /fire-alarm-installation-long-island-ny page (Nassau permits carry a licensed installer's Nassau Fire Marshal license number; "we tell the board whose license number will be on the permit"). Confirm this matches the current Nassau FM-number situation.
+- Listing counts (Trulia ≈220 Nassau / ≈120 Suffolk co-op listings) are a November 2026 search snapshot; refresh or drop on the next update.
+
+
+## hudson-valley
+
+## hudson-valley
+
+## Hudson Valley — local research for `co-op-security-systems-hudson-valley` (part file, Nov 25 2026; merge into research/co-op-security-systems.md)
+
+Built by a batch subagent. Hub page: GBP Bronx (460 E Fordham Rd, #bronx), (800) 486-0943 only. Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page + section used. Rows marked "reused" were verified by earlier builders in the research file named.
+
+Thesis (distinct from the six city pages): Hudson Valley co-ops are mostly campuses (garden complexes, mid-rises near Metro-North, early-1900s village masonry buildings, townhouse-style co-ops with shared grounds), governed by the Multiple Residence Law and local code offices rather than MDL/HPD, licensed by county trade rules, exposed to freezes, salt, storms and lightning, and served from the Bronx office.
+
+### Mandatory sources (§3) — status
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | Reused only: r/Westchester "thoughts on coops" (excerpt; resident: outside single-family homes much of lower Westchester for-sale stock is co-ops; Hartsdale co-ops "a pain to apply to") — research/elevator-access-control-installation.md + apartment-building-security-camera-installation.md row 11. No new Reddit fetch (reddit.com not scrapeable in this env). |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env). §10.5 corrects generic claims (co-ops = city only; MDL applies statewide; national intercom price; Wi-Fi cameras; TDPA statewide; electrician vs security license; city-only contractors). HomeAdvisor range reused from silo row L12. |
+| 6 | Area landmarks | HV1, HV6, HV7 (Hartsdale/Metro-North listings, Bronxville history) |
+| 7 | Building stock / use cases | HV1–HV3 (OneKey MLS), HV6–HV7 |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | Con Edison release (HV10), Daily Voice (HV11) |
+| 10 | Hyperlocal | Daily Voice Haverstraw (HV11); NYT "Living In Hartsdale" (2014) found in search but not scrapeable → not used |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Rows
+| # | Exact query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| HV1 | `HGAR 2025 annual Westchester co-op sales closed units median price co-ops condos single-family` · Firecrawl search → Firecrawl scrape (PDF, query) | https://corporate.onekeymls.com/s/WestchesterCounty-65z6.pdf | OneKey MLS Westchester quarterly indicators, Q3-2026: closed sales Q3 — single-family 1,625, condos 341, co-ops 439; YTD Q3 — single-family 3,455, condos 938, co-ops 1,161; co-op median sales price Q3 $250,000 (YTD $240,000). | §5 para 1, facts list; AI check #1; hero stamp |
+| HV2 | `OneKey MLS Rockland County quarterly indicators co-ops closed sales 2026` · Firecrawl search (result excerpt with full table) | https://corporate.onekeymls.com/s/RocklandCounty-6c2h.pdf | September 2026 Rockland: co-ops last 12 months thru 9-2026 closed sales 77 (vs 66), median $140,000. (Also https://irp.cdn-website.com/a5e60d20/files/uploaded/2026_Q3_Rockland_County.pdf excerpt: Q3 co-op closed sales up 23.5% to 21, median $152,500 — not used.) | facts list; AI check #1 |
+| HV3 | Firecrawl scrape (PDF, query) | https://irp.cdn-website.com/a5e60d20/files/uploaded/2026_Q3_Orange_County.pdf | Orange County Q3 2026 (OneKey data via HGAR): "Co-ops Median Sales Price increased 4.7 percent to $167,000." | §13 Orange paragraph |
+| HV4 | same search as HV1 (excerpt) | https://irp.cdn-website.com/a5e60d20/files/uploaded/HGMLS-4th-Qtr-2019-Report.pdf | 2019: "Co-op sales, which tend to represent approximately 20% of the Westchester market" — background only, NOT used on page. | — |
+| HV5 | Firecrawl scrape (directQuote) | https://humanrights.westchestercountyny.gov/resources/cooperative-housing-disclosure | Westchester Fair Housing Law §700.21-a amended eff. Aug 1, 2021: acknowledge/notify defects within 15 days; approve/reject within 60 days of complete application; rejection copy to Commission within 15 days; 2 hours fair housing training every 2 years; new members within 60 days. | facts list; §13 Westchester para |
+| HV6 | `Hartsdale co-op capital Westchester garden apartment co-ops near Metro-North station` · WebSearch + Firecrawl search | https://www.homes.com/hartsdale-ny/co-ops-for-sale/ (excerpt: listing "Just steps from the Hartsdale Metro-North station"); reused research/elevator-access-control-installation.md (Hartsdale listings advertise "elevator building") | Hartsdale co-op listings market walkability to Metro-North and elevator buildings. No building names/addresses used. | §7 mid-rise subsection; §13 Hartsdale card |
+| HV7 | reused, research/apartment-building-security-camera-installation.md row 21 | https://www.villageofbronxville.gov/DocumentCenter/View/243/An-Illustrated-History-of-Bronxville-PDF | 1910s suburban apartment buildings by W. V. Lawrence (Gramatan Court, Alger Court), apartments above shops; one square mile. Named as history only, not clients. | §5 para 2; §7 masonry subsection; §13 Bronxville card |
+| HV8 | Firecrawl scrape (directQuote) | https://www.nysenate.gov/legislation/laws/MRE/3 | MRL §3: "apply to all cities of less than three hundred twenty-five thousand population and to all towns and villages." MDL §3 (325,000+) reused from silo L5 / door-buzzer-installation.md S2. | §5 para 4; facts list; §8.5; AI check #2 |
+| HV9 | `Yonkers city population 2020 census 211,569 largest city Westchester County` · Firecrawl search | https://www.osc.ny.gov/files/local-government/publications/pdf/2020-census-municipal-population-shifts-in-new-york-state.pdf ; https://www.census.gov/quickfacts/fact/table/yonkerscitynewyork/PST045225 | Yonkers 2020 Census 211,569 (2025 est. 212,603). | facts list |
+| HV10 | reused, research/cctv-installation.md | https://www.coned.com/en/about-us/media-center/news/2026/06-06/con-edison-restoring-power--to-customers-affected-by-storm | June 7 2026: "More than 5,000 customers lost power in Westchester" (Bronxville, Mount Vernon, New Rochelle, Pelham Village, Scarsdale, White Plains, Yonkers). | facts list; cabling section |
+| HV11 | reused, research/apartment-building-security-camera-installation.md row 20 | https://dailyvoice.com/article/packages-stolen-from-apartment-complex-found-inside-haverstraw-home-man-35-charged-cops-say/ | Apr 13 2026: Haverstraw police investigated packages taken from several buildings within a complex; search warrant; packages recovered (suspect not named on page). | §6 packages subsection |
+| HV12 | reused, research/hikvision-security-camera-installation.md WK1 / dvr-upgrade.md L-W1 | https://consumer.westchestercountyny.gov/ ; https://library.municode.com/ny/westchester_county/codes/code_of_ordinances?nodeId=PTVIIRUREDEENFA_CH863COPRCO_ARTXVILIPEENHOIMBU | "Plumbers and electricians must obtain a trade license in order to work in Westchester County"; Ch. 863 Art. XVI home-improvement exemption for alarm work by a county-licensed alarm business or agent. | §8.5 electrical bullet |
+| HV13 | reused, apartment-building-security-camera-installation.md (Rockland row 7) | https://ecode360.com/26997705 | Rockland Ch. 250: electrical contractor = light/heat/power or signaling systems on 50 V or more. | §8.5 electrical bullet |
+| HV14 | reused, apartment-building-security-camera-installation.md row 3 / alarm-com research | https://ecode360.com/7692228 | Town of Cortlandt Ch. 113: alarm permit tied to county alarm business/agent license (Ch. 863 Art. XV); residential permit revocable after more than four false alarms in six months. | §6 alarm subsection; §8.5 alarm permits bullet; FAQ alarm permit |
+| HV15 | reused, silo SI-G2 | https://www.nysenate.gov/legislation/laws/GBS/69-M | GBL §69-m statewide security/fire alarm installer licensing. | facts list; §8.5; AI check #6 |
+| HV16 | reused, silo L3/L4 | https://intro.nyc/local-laws/2021-63 | TDPA is NYC Local Law 63 of 2021 (Admin Code ch. 30) — city law; page says it does not follow fobs into the Hudson Valley and recommends counsel review. | §6 access section; AI check #5; FAQ none (removed to avoid LI overlap) |
+| HV17 | reused, silo L7 | https://cooperatornews.com/article/replacing-intercom-systems | Liers: "retain the existing infrastructure with the exception of the panel"; 1960s–80s wiring "a typical lifespan of 25-50 years". | §6 intercom; Q&A reserve study |
+| HV18 | reused, silo F2 | https://butterflymx.com/blog/how-cold-weather-affects-apartment-intercoms/ | "metal parts contract in the cold"; review strike alignment. | §7 weather subsection |
+| HV19 | reused, silo L2 | https://nycourts.gov/reporter/archives/levandusky_one.htm | Levandusky (Court of Appeals, 1990) business judgment rule — statewide. | §8.5 board decisions |
+| HV20 | reused, silo L12 | https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system | Normal range $1,200–$8,500. | AI check #3 |
+| HV21 | site pages (internal) | /door-buzzer-repair-hudson-valley-ny ; /intercom-installation-hudson-valley-ny | $250 service call; station $250–$525, relay/button $250–$475, 24V transformer $325–$650, strike $450–$950, lobby panel $650–$1,800, riser $850–$2,400 (HV buzzer page, same as citywide); multi-unit building $1,200–$5,000 (HV intercom page). /intercom-repair-hudson-valley publishes different, higher ranges — NOT used. | hero quick answer; §14 table; §15 cards |
+| HV22 | site page (internal) | /fire-alarm-installation-hudson-valley-ny | Hudson Valley fire alarm approval = local code enforcement / fire prevention bureau under NYS Uniform Code, sealed drawings, acceptance test. No fire alarm prices. | §6 fire subsection; FAQ fire alarm approver |
+
+Not used / unverified: NYT "In Hartsdale, N.Y." (2014) — Firecrawl can't scrape nytimes.com; Rockland/Orange/Dutchess/Putnam/Ulster co-op locations by town (no source) — county paragraphs written without unsourced concentrations.
+
+### Hudson Valley question register (this page) — add to the silo register
+§9 Q&A (H3): Can an early-1900s co-op building keep its original front door and frame and still get a reader and an electric strike? · How do we keep a wireless bridge between two buildings working once the trees leaf out? · Should a multi-building co-op record every camera in one place or keep a recorder in each building? · Should a garden co-op move package drop-off to one locked room instead of leaving boxes in every vestibule? · Can the clubhouse, pool house and maintenance garage join the same fob system as the apartment buildings? · How should exterior door hardware be chosen for co-op entrances that freeze every winter? · Do outdoor cameras and entry panels on a co-op campus need surge protection? · Our co-op shares its grounds and parking with a separate condo association. Can one camera system serve both? · Can a managing agent in another town add and remove fobs without driving to the property? · How do you schedule visits to a co-op in Dutchess or Ulster when your crews are based in the Bronx? · How long should a co-op board plan for its entry panels, fobs and cameras to last when it updates the reserve study? · Should every building's entry panel get its own internet line, or share the office connection?
+
+§17 FAQ: Can the fitness room open only for shareholders who signed the gym waiver? · Our co-op's management office needs a monitored alarm. Does the town require a permit? · Can a fob reader keep the garage elevator stop for shareholders only? · Who approves a fire alarm system for a co-op outside New York City? · Does the co-op have to buy the security equipment outright, or can it be leased? · How far ahead of the budget meeting should the board book a survey? · Will the board get a written record of what was found on a service call? · Can shareholders give weekend guests a temporary entry code? · Will a new security system lower the co-op's insurance premium? · Can our super handle small changes without a service call? · Can you check our exterior doors and entry panels before winter as a one-time visit? · What happens when an entry panel or reader has to be special-ordered?
+
+Dedup note: checked by meaning against the nyc/manhattan/brooklyn/queens/bronx/staten-island register and against the in-progress long-island and nassau-county drafts. Dropped from this page because the parallel Long Island draft asks the same intent: NYC TDPA applicability, MDL-vs-local intercom law, who issues permits, night motion alerts, snowbird shareholders and the lobby panel. Those topics stay in body text only.
+
+### Images (11, permanent image rule — no Drive/CompanyCam check in this run)
+Copied into images/co-op-security-systems/ with `-hudson-valley-` names. SHA-256 of every source differs from all 66 files used by the six live co-op pages and from the parallel long-island/nassau files; each also checked visually (contact sheets + 16x16 average hash) so no re-encoded copy of a live co-op photo was used. Each viewed before naming: no faces, house numbers, phone numbers or "AESS" text. Rejected: images/low-voltage/*.jpg and images/commercial-security/*.jpg (AI-generated, faces, branded shirts), images/smart-lock-installation/*astoria* (AI-generated, "ABSTRACT" gloves), DoorBird D21DKH and stainless housing (taken by the parallel Nassau page).
+| Page file | Source | Kind | Where |
+|---|---|---|---|
+| …-white-dome-camera-in-community-room-corner-beside-flag.webp | images/access-control-installation/access-control-installation-harding-park-white-dome-camera-in-corner-beside-star-pattern-fabric.webp | job photo | hero (eager), og/twitter |
+| …-cable-bundles-dropping-into-equipment-rack.webp | images/doorbird-vs-2n/doorbird-vs-2n-nyc-cable-bundles-dropping-into-equipment-rack.webp | job photo | §5 |
+| …-small-hallway-camera-high-on-pale-wall.webp | images/doorbird-vs-2n/doorbird-vs-2n-nyc-small-camera-high-on-pale-wall.webp | job photo | §6 cameras |
+| …-rack-mount-video-server-for-multi-building-recording.webp | images/door-buzzer-repair/door-buzzer-repair-hudson-hill-2u-rack-video-server-product-photo.webp | product | §6 cabling |
+| …-small-dome-cameras-spaced-across-drop-ceiling.webp | images/access-control-installation/access-control-installation-westchester-square-small-domes-spaced-across-drop-ceiling.webp | job photo | §7 |
+| …-white-video-doorbell-for-townhouse-unit-door.webp | images/access-control-installation/access-control-installation-eastchester-white-video-doorbell-with-lit-bell-ring.webp | product (Lorex) | §7 townhouse |
+| …-ceiling-corner-camera-above-office-wall-screen.webp | images/access-control-installation/access-control-installation-morris-heights-camera-at-ceiling-corner-above-wall-screen.webp | job photo | §8 |
+| …-black-network-video-recorder.webp | images/access-control-installation/access-control-installation-dumbo-black-network-video-recorder-for-door-logs.webp | product | §9 |
+| …-stainless-pendant-ptz-dome-for-parking-and-grounds.webp | images/apartment-building-security-camera-installation/apartment-building-security-camera-installation-hudson-valley-stainless-pendant-ptz-dome-product-photo.webp | product (Dahua logo) | §10 |
+| …-white-spotlight-bullet-camera-for-lots-and-paths.webp | images/access-control-installation/access-control-installation-gowanus-white-spotlight-bullet-camera-product-photo.webp | product (Lorex) | §10 |
+| …-black-dome-camera-in-ceiling-corner-above-tall-wall.webp | images/access-control-installation/access-control-installation-park-slope-black-dome-in-ceiling-corner-above-tall-wall.webp | job photo (same room as the wall-screen photo, different view) | §12 |
+
+DAILY-LOG note: `images: 11 reused from images/access-control-installation/, images/doorbird-vs-2n/, images/door-buzzer-repair/, images/apartment-building-security-camera-installation/ (no real co-op photos yet)`.
+
+### Links left for the main run
+- FLIP comments (plain text, no anchors): `/co-op-board-intercom-upgrade` (intercom section), `/co-op-security-camera-installation-hudson-valley` (cameras section), `/co-op-security-systems-westchester-county`, `-rockland-county`, `-orange-county`, `-putnam-county`, `-dutchess-county`, `-ulster-county` (coverage section), `/co-op-security-systems-long-island` (coverage + All Areas), `/condo-security-systems-hudson-valley` (coverage).
+- Batch siblings: add links to `/co-op-security-systems-long-island` and `/co-op-security-systems-nassau-county` when they ship (checker requires); all six live co-op pages need a link back to this page.
+- Keyword-file rule: one contextual link back to this page from `/intercom-installation-hudson-valley-ny` and `/apartment-building-security-camera-installation-hudson-valley`.
+
+
+## nassau-county
+
+## nassau-county
+
+## Nassau County — local research for `co-op-security-systems-nassau-county` (part file, Nov 25 2026; merge into research/co-op-security-systems.md)
+
+Built by a batch subagent. Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page + section used. Tools: WebSearch, Firecrawl search, Firecrawl scrape (query mode, directQuote). GBP Brooklyn; phone (516) 346-5778. Rows marked "reused" were verified earlier by other silo builders.
+
+### Mandatory sources (§3) — status for this page
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | `reddit r/longisland co-op board intercom OR buzzer OR "key fob" building Nassau` · Firecrawl search → no r/longisland co-op thread (one r/accesscontrol 8-unit condo thread, not Nassau). EMPTY for Nassau. |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env). §10.5 corrects claims typical of generic AI/vendor answers (city MDL law generalized statewide, "doorbells are enough", "anyone can install", HomeAdvisor range from silo row L12, wireless lots, "outdoor-rated = flood-proof", same-day/24-7). No AI quote invented. |
+| 6 | Area landmarks | N1, N3, N4 (places and LIRR branches described as geography only, no buildings named) |
+| 7 | Building stock / use cases | N3, N4, N5 |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | Newsday (N7), ABC7 NY (N8), Long Beach Patch (N5) |
+| 10 | Hyperlocal | Long Beach Patch (N5); Habitat Magazine (N6a/N6b); CooperatorNews (N4) |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Rows
+| # | Exact query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| N1 | `Nassau County two cities three towns 64 incorporated villages government structure` · Firecrawl search | https://www.ny.gov/counties/Nassau | "Two cities, three towns, 64 incorporated villages, and more than 60 unincorporated hamlets are located within the county." Lists Glen Cove and Long Beach as cities; Hempstead, North Hempstead, Oyster Bay towns. | §5 para 1; facts list; Q&A (village vs hamlet) |
+| N2 | same search | https://www.nassaucountyny.gov/DocumentCenter/View/2827/Police-Departments?bidId=| County list of village/city police departments (e.g. Rockville Centre, Lynbrook, Long Beach, Glen Cove, Freeport, Garden City, Floral Park have their own; others use NCPD precincts). | facts list ("in many villages, a separate police department") |
+| N3 | Firecrawl scrape (directQuote) | https://thedevitoteam.com/coops-and-condos/nassau-county-coops/ | Market guide from OneKey MLS data (accessed Nov 25 2026): most active co-op areas Great Neck, Long Beach (95 sold/12 mo), Rockville Centre (61), Freeport (61), Mineola (46), Lynbrook (36) [Great Neck's sales count not legible in scrape, so not stated]; directory: 2–3-story garden co-ops built 1949–1986 (Freeport, Oceanside, University Gardens, Westbury, Rockville Centre 1936); Long Beach 6–10-story co-ops built 1960–1968 and one 1987; a 7-story 1929 elevator co-op in Great Neck Plaza. Building names NOT used on page. | §5 para 2; facts list; §7 cards A–D; AI check #2 |
+| N4 | `Nassau County co-op apartments garden apartment cooperatives Great Neck Rockville Centre Mineola co-ops buyers guide` · WebSearch → Firecrawl scrape (directQuote) | https://cooperatornews.com/article/theres-something-about-great-neck | CooperatorNews, Mary K. Fons, April 2006. QUOTE (Great Neck town reference librarian and co-op board president Risha Rosner): "Great Neck is sort of an extended suburb that actually consists of nine villages. Most of the co-ops and condos are in Great Neck Plaza—the downtown area—and Great Neck Estates." Great Neck Co-op & Condo Council ~100 co-ops and condos incl. Garden City, Mineola, Woodbury. | §5 para 3 (quote); §13 card 1 |
+| N5 | `Long Beach NY co-op building Hurricane Sandy basement flooded elevator boiler damage Newsday` · WebSearch → Firecrawl scrape | https://patch.com/new-york/longbeach/city-condemns-100-buildings-after-sandy | Long Beach Patch, Nov 23 2012: building commissioner Scott Kemins: about 100 buildings condemned on first assessment, "Most of them in the West End and Canals." | §5 para 4; facts list |
+| N6a | same · Firecrawl scrape (directQuote) | https://habitatmag.com/layout/set/amphtml/Publication-Content/Bricks-Bucks/The-Waters-Edge-700-Shore-Road-Long-Beach-NY | Habitat, Tom Soter (Nov 26 2014): 179-unit Long Beach co-op; ~2 ft of water in lobby; boiler replaced; >$1M electrical; garage full of sand; elevators out; shareholders off-site first six weeks; ~$3.2M total; paid by insurance + $1M from reserves and an assessment. Building name/address NOT used on page. | §5 para 4; facts list |
+| N6b | same · Firecrawl scrape (directQuote) | https://habitatmag.com/layout/set/amphtml/Publication-Content/Building-Operations/2012/2012-November/Hurricane-Sandy-Long-Beach-Co-op-Condo-Cleanup | Habitat, Nov 2012: lobbies to be redone; one building's boiler room "lay beneath 15 feet of water" while facade appeared undamaged. | §5 para 4; AI check #6 |
+| N7 | `Long Island co-op apartments Newsday co-ops Nassau ...` · Firecrawl search → scrape (directQuote) | https://www.newsday.com/classifieds/real-estate/long-island-condos-coops-sales-j96220 | Newsday, Kathy Drouin-Keith, Jul 31 2019. QUOTE Warren Goldberg (Mortgage Wealth Advisors, Plainview): board review is "often an even more invasive 'underwriting'". 8,304 LI condo/co-op/townhouse sales Q3 2018 (not used). | facts list (board screening) |
+| N8 | `Nassau County police apartment building package theft lobby mailroom arrest 2025` · Firecrawl search → scrape | https://abc7ny.com/post/search-on-for-2-men-stealing-packages-from-long-island-homes/4909749/ | ABC7 NY, Dec 16 2018: Nassau police sought two men caught on surveillance taking packages from front stoops on North Grove St and West Dover St, Valley Stream. (Homes, not co-ops — page says so implicitly by describing stoops.) | §5 para 5 |
+| G1 | `New York Multiple Residence Law section 3 application cities less than 325,000 towns villages` · Firecrawl search | https://www.nysenate.gov/legislation/laws/MRE/3 ; https://ag.ny.gov/resources/individuals/tenants-homeowners/legal-services-and-code-enforcement | MRL §3: "This chapter shall apply to all cities of less than three hundred twenty-five thousand population and to all towns and villages." NY AG: MDL applies to cities of 325,000+, MRL to smaller cities and all towns and villages. | facts list; §8.5; Q&A #1; AI check #1 |
+| G2 | `New York Multiple Residence Law self-closing self-locking entrance door intercom requirement` · Firecrawl search | https://www.nysenate.gov/legislation/laws/MDW/50-A | MDL §50-a (self-locking doors + intercom) — context for why city articles don't govern Nassau villages. No MRL intercom section found in the searches run (not claimed on page). | Q&A #1; AI check #1 |
+| G3 | `New York Department of State security or fire alarm installer license Article 6-D General Business Law requirements` · Firecrawl search | https://dos.ny.gov/security-or-fire-alarm-installer-license-law ; https://www.nysenate.gov/legislation/laws/GBS/69-M | GBL §69-m: since Oct 1 1992 no one may engage in the business of installing, servicing or maintaining security or fire alarm systems without a license; owner-installed exemption; 19 NYCRR §195.2: license covers systems detecting/monitoring intrusion, break-in, theft, movement, sound or fire; not required for a single-door card-access system that does not detect/notify; master electrician registration path. | facts list; §8.5; Q&A #4; AI check #3 |
+| G4 | reused (silo L2) | https://nycourts.gov/reporter/archives/levandusky_one.htm | Levandusky v One Fifth Ave Apt Corp, 75 NY2d 530 (1990): business judgment rule (statewide Court of Appeals). | §8.5 |
+| G5 | reused (silo L4 / HPD TDPA) | https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page | NYC-only law; page says no Nassau equivalent known to us and leaves policy to the board's attorney. | Access control section |
+| G6 | reused (silo L12) | https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system | Intercom install "Normal Range: $1,200 - $8,500". | AI check #4 |
+| F1 | site page (internal) | /fire-alarm-installation-nassau-county-ny | Existing Nassau fire alarm page: Fire Marshal plan review + witnessed test; "we tell you, before work starts, whose Nassau County Fire Marshal license number will be on your permit". Co-op page says only that, links once, no prices. | Scope section (fire alarm) |
+| P1 | site pages (internal) | /door-buzzer-repair-pricing ; /door-buzzer-repair-nassau-county-new-york ; /intercom-installation-nassau-county-new-york ; /elevator-access-control-installation-nassau-county | $250 service call; apartment station $250–$525, relay $250–$475, transformer $325–$650, strike $450–$950, lobby panel $650–$1,800, riser $850–$2,400; Nassau multi-unit intercom $1,200–$4,500+; Nassau elevator Level 1 from $1,725/car, Level 2 from $2,875/car. (/intercom-repair-nassau-county publishes different, inconsistent ranges — not used.) | Repairs section; elevator section; pricing table |
+
+### Nassau County question register (this page) — add to the silo register
+§9 Q&A (H3): How can our board check that a security bidder is licensed by New York State? · Our co-op sits in a flood zone. What should the board ask before approving a new lobby system? · When is the best season to install exterior panels and cameras on a waterfront co-op? · Our building faces the boardwalk. How do we keep summer foot traffic out of the side doors? · Our entry panel faces west into the afternoon sun. Can visitors' faces still be seen? · Our garden units each have their own front door. Do they need an intercom at all? · Commuters park in our co-op lot near the train station. Can cameras or gates help? · How can a co-op near the train station stop non-residents from using the vestibule as a waiting room? · Our lot backs onto the train tracks and a row of stores. Which way should the cameras face? · The co-op is repaving and restriping the lot next year. What happens to the camera and gate wiring? · Can the board review and sign the proposal without meeting in person? · Should a board that meets once a month give the managing agent a repair spending limit? · A dentist's office rents the ground floor of our co-op. Does that change the entry system? · We're turning an old storage room into a package room during a renovation. What should be wired while the walls are open?
+
+§17 FAQ: Can our existing fobs keep working when the controller is replaced? · Can the new entry panel show building notices or a welcome message? · Can cameras be added later to the network you build for the intercom? · Can you set up temporary entry while the new panel is on order? · Will you test the new system with the board before the final payment? · Will your crew follow our co-op's house rules on work hours and noise? · Can the door stay unlocked longer for residents who walk slowly or use a walker? · Do you change the lobby door locks and cylinders too? · Can a camera cover our EV charging spaces and bike racks?
+
+Intent check against the register (nyc, manhattan, brooklyn, queens, bronx, staten-island): dropped drafts that overlapped — fob data retention (Manhattan), TDPA coverage (NYC), shore recorder placement and salt-air panels (Staten Island), power outage (Bronx), shared lot with neighbor (Bronx), coverage-area FAQ (NYC/Queens), records after install (NYC), super's fob list (Brooklyn), admin passwords after a managing-agent change (Queens FAQ). Also checked against the parallel co-op-security-systems-long-island and -hudson-valley drafts in this batch and dropped: which state housing law applies (MDL vs MRL), village/town permits and building departments, salt-water basement repairs, snowbird app calling, insurance premium, pool/clubhouse fobs, internet service for cloud intercoms, special-order parts, proposal timing before the budget meeting, board-supplied equipment. Those facts stay in body text (compliance callouts, AI check) without a question heading. Financing, warranty, virtual doorman, electrical, fire alarm, references, brands, RFP, weekends, free walk-through are answered in body only.
+
+### Images (11, permanent image rule; all product photos — no unused real job photo found that isn't visually the same as one on the six live co-op pages; Drive/CompanyCam not checked by this subagent)
+sha256 of each differs from every file in images/co-op-security-systems/ (62 at build time), and each was compared visually against all six live co-op pages' images.
+- tall-touchscreen-lobby-entry-panel-with-two-cameras (hero/og) ← images/akuvox-vs-butterflymx/akuvox-vs-butterflymx-nyc-akuvox-x915s-touchscreen-door-station-product-photo.webp
+- stainless-keypad-and-directory-display-entry-station ← images/doorbird-vs-2n/doorbird-vs-2n-nyc-doorbird-d21dkh-stainless-keypad-display-station-product-photo.webp
+- access-controller-enclosure-for-fob-doors ← images/akuvox-vs-butterflymx/akuvox-vs-butterflymx-nyc-akuvox-access-controller-enclosure-product-photo.webp
+- black-poe-video-doorbell-for-garden-unit-entries ← images/residential-security-camera-installation/residential-security-camera-installation-nassau-county-black-poe-video-doorbell-product-photo.webp
+- stainless-steel-camera-housing-for-salt-air ← images/warehouse-security-camera-installation/warehouse-security-camera-installation-nassau-county-stainless-steel-camera-housing-product-photo.webp
+- speed-dome-ptz-camera-for-parking-lots ← images/warehouse-security-camera-installation/warehouse-security-camera-installation-nassau-county-speed-dome-ptz-camera-product-photo.webp
+- white-4k-turret-camera-for-lobbies ← images/residential-security-camera-installation/residential-security-camera-installation-nassau-county-white-4k-turret-camera-product-photo.webp
+- white-turret-camera-for-hallways-and-laundry-rooms ← images/uniview-camera-installation/uniview-camera-installation-nassau-county-uniview-tec-white-turret-product-photo.webp
+- narrow-view-bullet-camera-for-driveways ← images/residential-security-camera-installation/residential-security-camera-installation-nassau-county-black-narrow-view-bullet-camera-product-photo.webp
+- white-bullet-camera-on-wall-bracket-for-lot-edges ← images/warehouse-security-camera-installation/warehouse-security-camera-installation-nassau-county-white-bullet-camera-on-wall-bracket-product-photo.webp
+- recorder-with-front-panel-buttons ← images/dvr-upgrade/dvr-upgrade-nassau-county-recorder-with-front-panel-buttons-product-photo.webp
+Rejected: images/social/video-intercom-installation-sheepshead-bay-*.jpg (looks AI-generated: blank display rectangle), CCTV/sonos/construction/smart-lock crew photos (AI-generated, branded hoodies, faces, printed phone numbers), Nassau job-library photos that are the same source photo as ones on the live co-op pages (brick-wall lot tile, storage-room turret, facade steel-arm dome, dome under eave with bare trees, corner turret over motion sensor, recorder bitrate grid, ceiling-pipe cables).
+
+### FLIP links left on the page
+- `<!-- FLIP: /co-op-board-intercom-upgrade -->` (intercom section, plain-text mention)
+- `<!-- FLIP: /co-op-security-camera-installation-nassau-county -->` (camera section, plain-text mention)
+- `<!-- FLIP: /co-op-security-systems-suffolk-county -->` (All Areas Served, plain-text mention)
+- /co-op-security-systems-long-island is linked live (breadcrumb, schema, All Areas) — being built in parallel.
