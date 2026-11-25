@@ -433,9 +433,9 @@ LIVE | akuvox-vs-butterflymx | Comparison: Akuvox vs ButterflyMX | NYC hub | up 
 LIVE | co-op-security-systems-nyc | Co-op Security Systems | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | co-op-security-systems-manhattan | Co-op Security Systems | Manhattan | up /co-op-security-systems-nyc | (929) 560-0737 | GBP Bronx
 LIVE | co-op-security-systems-brooklyn | Co-op Security Systems | Brooklyn | up /co-op-security-systems-nyc | (347) 934-8335 | GBP Brooklyn
-TODO | co-op-security-systems-queens | Co-op Security Systems | Queens | up /co-op-security-systems-nyc | (347) 434-6392 | GBP Bronx
-TODO | co-op-security-systems-bronx | Co-op Security Systems | Bronx | up /co-op-security-systems-nyc | (646) 490-0629 | GBP Bronx
-TODO | co-op-security-systems-staten-island | Co-op Security Systems | Staten Island | up /co-op-security-systems-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-25T05:54:52-05:00 | co-op-security-systems-queens | Co-op Security Systems | Queens | up /co-op-security-systems-nyc | (347) 434-6392 | GBP Bronx
+BUILDING 2026-11-25T05:54:52-05:00 | co-op-security-systems-bronx | Co-op Security Systems | Bronx | up /co-op-security-systems-nyc | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-25T05:54:52-05:00 | co-op-security-systems-staten-island | Co-op Security Systems | Staten Island | up /co-op-security-systems-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | co-op-security-systems-long-island | Co-op Security Systems | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | co-op-security-systems-hudson-valley | Co-op Security Systems | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | co-op-security-systems-nassau-county | Co-op Security Systems | Nassau | up /co-op-security-systems-long-island | (516) 346-5778 | GBP Brooklyn
