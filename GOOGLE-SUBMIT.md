@@ -3774,3 +3774,7 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-26 | https://www.abstractenterprisessecuritysystems.com/co-op-security-systems-westchester-county | QUEUED
 2026-11-26 | https://www.abstractenterprisessecuritysystems.com/co-op-security-systems-rockland-county | QUEUED
 2026-11-26 | https://www.abstractenterprisessecuritysystems.com/co-op-board-intercom-upgrade | QUEUED
+
+2026-11-26 | https://www.abstractenterprisessecuritysystems.com/condo-security-systems-nyc | QUEUED
+2026-11-26 | https://www.abstractenterprisessecuritysystems.com/condo-security-systems-manhattan | QUEUED
+2026-11-26 | https://www.abstractenterprisessecuritysystems.com/condo-security-systems-brooklyn | QUEUED
