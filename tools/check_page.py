@@ -282,6 +282,9 @@ def types_of(node):
 def identify(slug):
     """(silo, area suffix) for a page slug; neighbourhood pages (…-<nbhd>-<borough>-ny)
     take their borough's rules."""
+    # Nov 26 2026: the two root board guides (PAGE-QUEUE "NYC hub", up /) carry no area suffix
+    if slug in ("co-op-board-intercom-upgrade", "condo-intercom-replacement"):
+        return slug, "nyc"
     for suffix in sorted(AREAS, key=len, reverse=True):
         if slug.endswith("-" + suffix):
             return slug[: -len(suffix) - 1], suffix

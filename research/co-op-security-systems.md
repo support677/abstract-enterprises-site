@@ -895,3 +895,342 @@ DAILY-LOG note: `images: 11 reused from images/door-buzzer-repair/ (no real co-o
 
 ### FLIP links left on the page
 `/co-op-board-intercom-upgrade` (intercom section), `/co-op-security-camera-installation-dutchess-county` (cameras section), `/co-op-security-systems-westchester-county`, `/co-op-security-systems-rockland-county` (All Areas), `/co-op-security-systems-suffolk-county` (All Areas). Orange and Putnam pages existed at build time and are live links.
+
+## suffolk-county
+
+<!-- merged from research/_tmp by max-daily run 2026-11-26: Suffolk -->
+
+## suffolk-county
+
+## Suffolk County — local research for `co-op-security-systems-suffolk-county` (Nov 26 2026; part file, merge into research/co-op-security-systems.md)
+
+Built by a batch subagent. Child page of /co-op-security-systems-long-island. GBP Brooklyn (1282 Troy Ave, #brooklyn); phone (631) 407-2884 in body, CTAs, sticky bar and schema; (800) 486-0943 only in the shared mega-nav. Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page section used. Rows marked "reused" were verified by earlier builders (silo rows L/LI/G).
+
+Thesis (distinct from Nassau/LI): Suffolk co-ops are mostly horizontal garden complexes with amenity buildings (pools, clubhouses, gyms, laundry buildings), gated waterfront communities and a few village buildings; ten towns + 32 villages; a county co-op application law (10/45 days); SCPD burglar alarm registration and false-alarm fines; package theft (Port Jefferson mailroom, 2025 delivery-tracking ring); storm/power exposure (Isaias); long distances. Sections lead with amenities, packages and campus phasing rather than lobbies.
+
+### Mandatory sources (§3) — status
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | `reddit longisland co-op Suffolk buying coop Huntington Station OR "Bay Shore" OR Smithtown maintenance board` · WebSearch → no reddit.com result; City-Data forum thread used instead (SU10). Reddit itself EMPTY. |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env). "What AI gets wrong" corrects generic claims (MDL statewide, HomeAdvisor national range silo L12, TDPA statewide, Wi-Fi cameras, electrician vs Art. 6-D license, app-only = no maintenance, round-the-clock arrival). No AI quote invented. |
+| 6 | Area landmarks | SU3 (Lindenhurst, Dering Harbor), SU8 (Port Jefferson Main Street), SU9 (Brentwood, Central Islip, Shirley, Deer Park), SU7 (Patchogue), SU10 (Coram) — places only, no client buildings |
+| 7 | Building stock / use cases | SU5, SU7, SU10 |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | SU8 (LongIsland.com), SU9 (CBS New York), SU11 (PSEG LI release) |
+| 10 | Hyperlocal (Patch, Newsday, TBR, 27east) | Not reached in the searches run; Habitat Suffolk tag page checked (SU12) — EMPTY for co-op security stories |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Rows
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| SU1 | `Suffolk County New York ten towns villages county profile ny.gov` · WebSearch → WebFetch | https://www.ny.gov/counties/Suffolk | "divided into 10 towns" (listed by name); area 2373 sq mi; population 1,523,170 (2023). | hero; §5 para 1; facts list |
+| SU2 | same search → WebFetch | https://census.gov/quickfacts/fact/table/suffolkcountynewyork/PST045223 | Housing units July 1, 2023: 581,917; owner-occupied rate 2019–2023: 81.9%; pop. est. 2024 1,535,909. | facts list |
+| SU3 | `Suffolk County "33 incorporated villages" OR "32 incorporated villages" ten towns` · WebSearch → WebFetch | https://scvoa.com/?page_id=14 | SCVOA membership "consist[s] of the 32 incorporated villages of Suffolk"; Lindenhurst one of NYS's largest villages, Dering Harbor the smallest. | hero ("more than thirty villages"); §5 para 1; facts list; coverage cards |
+| SU4 | `Suffolk County co-op board approval law 60 days application disclosure local law cooperative housing` · WebSearch → WebFetch | https://www.ecode360.com/14944930 | Suffolk County Code article on cooperative home purchase applications: written acknowledgment within 10 days of a completed application; approve/reject in writing within 45 days, grounds stated; failure to act may be considered by the Human Rights Commission (§ 528-7); adopted L.L. 28-2009, amended L.L. 36-2009. No mention of security. | §5 para 4; facts list; Board Process; Q&A #1 |
+| SU5 | same search → WebFetch | https://habitatmag.com/Publication-Content/Board-Operations/2010/2010-January/Co-op-Admissions-New-Suffolk-Disclosure-Law | Habitat, Jan 25 2010: "A Local Law Requiring Fairness in Cooperative Home Ownership"; 10 days / 45 days; written reasons; same application to all applicants. (Note: silo row LI7 quoted a Nassau legislator citing "60 days … as in Suffolk"; the county code text says 45 days — page uses 45.) | §5 para 4 |
+| SU6 | `OneKey MLS Suffolk County quarterly indicators 2026 co-ops closed sales median price` · WebSearch → WebFetch (PDF) | https://www.lirealtor.com/docs/default-source/default-document-library/market-reports/suffolkcounty.pdf | LIBOR Local Market Update, March 2026 (current as of Apr 7 2026), Suffolk co-ops: closed sales March 26 (vs 28); last 12 months thru 3-2026 386 (vs 370, +4.3%); median $275,000 (12 mo; +3.8%); inventory 91 (March). | §5 para 2; facts list |
+| SU7 | `Suffolk County NY co-op apartments for sale towns Huntington Bay Shore Patchogue cooperative` · WebSearch → WebFetch | https://www.homes.com/patchogue-ny/co-ops-for-sale | 4 Patchogue co-ops listed; two in a "gated waterfront community"; one brick garden community with landscaped courtyards and a community laundry room. No addresses used. (Huntington page: 1 co-op listing, no features — not used.) | §5 para 3; architecture cards; coverage card |
+| SU8 | `Suffolk County police packages stolen apartment complex mailroom arrested 2025` · WebSearch → WebFetch | https://www.longisland.com/news/09-14-23/authorities-seeking-man-who-pilfered-package-from-port-jefferson-apartment-complex.html | Sept 14 2023: SCPD Sixth Precinct Crime Section + Crime Stoppers seeking a man who stole a package from the mailroom of an apartment complex on Main Street, Port Jefferson (June 19). Street number not used on page. | §5 para 5; Lots/Packages; coverage card |
+| SU9 | same search → WebFetch | https://www.cbsnews.com/newyork/news/suffolk-county-porch-pirate-ring | CBS New York, updated Nov 25 2025: Suffolk DA — 14 men, 50 felony counts, 31 communities, ~2 years; hacked delivery data (FedEx tracking for Verizon/AT&T devices); >200 phones/tablets; communities named include Brentwood, Central Islip, Shirley, Deer Park. No names used. | §5 para 5; Lots/Packages; coverage card |
+| SU10 | `reddit longisland co-op Suffolk …` · WebSearch → WebFetch | https://www.city-data.com/forum/long-island/2912532-strathmore-court-condos-vs-north-isle-village-co-ops-coram.html | 2019 owner post on a large Coram co-op community: new board/management redid "new pools, gyms, tennis and basketball courts, water mains, laundry rooms, and LED lighting"; board "cracking down on illegal sublets". Community name NOT used on page. | §5 para 3; Q&A sublets; coverage card |
+| SU11 | `PSEG Long Island Isaias outages Suffolk County customers lost power 2020` · WebSearch → WebFetch | https://www.psegliny.com/newsroom/2020/080520-stormupdate1830 | Aug 5 2020: "In total, the storm affected approximately 420,000 customers." No Suffolk/Nassau split. | §5 para 6 |
+| SU12 | `Habitat magazine Suffolk County co-op …` · WebSearch → WebFetch tag page + Sandy article | https://www.habitatmag.com/tags/view/geotags/Long%20Island/Suffolk%20County ; https://www.habitatmag.com/Publication-Content/Board-Operations/2012/2012-November/Hurricane-Sandy-Building-Managers-Efforts | Tag page lists mostly condo stories; Sandy article has no Suffolk co-op reporting (its LI property is in Nassau). EMPTY for Suffolk co-op security. | — |
+| SU13 | `Suffolk County Police false alarm registration law alarm permit fee Suffolk County Code` · WebSearch → WebFetch | https://greaterlongisland.com/11930-burglar-alarm-owners-must-register-with-suffolk-county-or-face-hefty-fees-for-false-alarms/ | Greater Long Island, July 5 2016: SCPD AMPS (30 Yaphank Ave): register burglar alarms; $50 homeowners / $100 businesses; renewal annual at 50% less; 2 free false-alarm passes/yr for registered, then $100 residential / $250 non-residential per false alarm; unregistered pay for every false alarm. Exemptions (village police) not addressed → page tells boards to confirm current schedule and village rules. | facts list; Cabling/Fire/Scope; Business; Q&A clubhouse alarm |
+| SU14 | `Suffolk County Office of Consumer Affairs electrician license required low voltage alarm installer exemption` · WebSearch → WebFetch | https://ecode360.com/14948097 | County Code Ch. 563 (Consumer Affairs licensing) defines electrical field/master/journeyman; no low-voltage/alarm exemption in the fetched text. NOT used on page (no county-license claim made). | — |
+| SU15 | `Town of Brookhaven Fire Marshal division fire alarm plan review permit multiple residence` · WebSearch | (ecode360 Brookhaven chapters, brookhavenga.gov — not fetched) | Not used; fire alarm process taken from the site's own Suffolk fire alarm page (SU16). | — |
+| SU16 | site page (internal) | /fire-alarm-installation-suffolk-county-ny | Suffolk fire alarm: design professional → town/village fire marshal review → Art. 6-D licensed installer → fire marshal witnesses acceptance test; no prices. | Cabling/Fire/Scope; Q&A fire marshal; cost table |
+| SU17 | site pages (internal) | /door-buzzer-repair-suffolk-county-new-york ; /intercom-installation-suffolk-county-new-york ; /access-control-installation-suffolk-county ; /elevator-access-control-installation-suffolk-county | $250 service call; station $250–$525, relay/button $250–$475, 24V transformer $325–$650, strike $450–$950, lobby panel $650–$1,800, riser $850–$2,400 (buzzer page); multi-unit building $1,200–$4,500+ (intercom page); lobby fob reader $1,600–$2,800, single door/gate $1,600–$5,500, multi-door $4,500–$16,000 (access page); elevator L1 from $1,800/car, L2 from $3,000/car. NOT used: /intercom-repair-suffolk-county "dual-tier" diagnostic $180–$405 and its other ranges (conflict with $250 START_PRICES) — FLAG for Anwar. | hero; Repairs; Access; Elevator; AI check #2; cost table |
+| SU18 | reused, silo HV8/G1 | https://www.nysenate.gov/legislation/laws/MRE/3 | MRL §3 applies to all towns and villages and cities < 325,000. | facts list; AI check #1 |
+| SU19 | reused, silo G3 | https://dos.ny.gov/security-or-fire-alarm-installer-license-law | Art. 6-D DOS license for security/fire alarm installers. | facts list; AI check #5 |
+| SU20 | reused, silo L2 | https://nycourts.gov/reporter/archives/levandusky_one.htm | Levandusky (1990) business judgment rule. | Board Process |
+| SU21 | reused, silo L11 | https://cooperatornews.com/article/qa-camera-placement | Audio recording may implicate Penal Law Art. 250. | Q&A audio |
+| SU22 | reused, silo L3 | https://intro.nyc/local-laws/2021-63 | TDPA = NYC Local Law 63/2021 (city law; not cited by link on page, described only). | Access; AI check #3; Q&A face recognition |
+| SU23 | reused, silo L12 | https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system | "Normal Range: $1,200 - $8,500" (named on page, not linked). | AI check #2 |
+
+### Question register (this page) — add to the silo register
+Q&A (H3): Does Suffolk County's co-op application law say anything about door access or cameras? · Our clubhouse alarm keeps sending the police on false calls. What does that cost a Suffolk co-op? · Boats and kayaks are stored on our co-op's waterfront. Can cameras watch the dock and racks at night? · Can the board see who took a package out of the package room? · Can entry logs help a board enforce its sublet rules? · How do we size a security budget for a co-op where maintenance charges are already a sore point? · Our town fire marshal inspects the buildings every year. Does that inspection look at the intercom or the fob doors? · Do our fob-controlled doors have to unlock when the fire alarm sounds? · Can our entry cameras record sound as well as picture? · Our East End co-op is half empty in winter. How can the board keep an eye on the buildings from home? · Our old cameras run on coax. Does an upgrade mean pulling all new cable? · Should a Suffolk co-op use face recognition at the front door? · Mature trees shade the walks between our buildings. Can cameras still see the paths in summer? · How can a board avoid being locked into one installer for future service?
+
+FAQ: Does the (631) 407-2884 number reach the same team that does the work? · What happens to the footage on an old recorder when you replace it? · Will the intercom app work for shareholders with both iPhone and Android phones? · Do your trucks need parking passes or a gate code to reach our buildings? · Can new outdoor cameras match the color of our building trim? · Can the board see a sample proposal before inviting you to bid? · Should children in the co-op get their own fobs? · How do ambulance crews get in at night when a shareholder can't come to the door? · Do you work with co-ops that are part of a larger homeowners' or master association? · Can a shareholder hire you for work inside their own apartment at the same visit?
+
+Dedup note: every question checked by meaning against all 12 live co-op pages (parsed with check_page.parse, 300+ questions). Avoided overlaps: pool/clubhouse fobs (LI/HV), snowbirds (LI), night motion alerts (LI), shared grounds with another association (HV — FAQ here is about master-association cost split), power outage door behavior (Bronx/Putnam), $250 same everywhere (Bronx), Bronx-office scheduling (HV), plate-reading cameras (Bronx), footage to police (SI), shareholder smart lock (SI) — the in-unit FAQ here is about billing separately, admin passwords (Queens — Q&A here is about proprietary equipment/lock-in), MDL vs MRL (LI — answered only in the AI check). The FAQ "Should children get their own fobs?" differs from SI "How many fobs per apartment" (policy by person vs quantity). The parallel westchester/rockland/ulster pages did not exist when this page was finished and were not checked; the main run's cross-check should cover them.
+
+### Images (11) — permanent image rule; no Drive/CompanyCam check in this run
+Copied byte-for-byte (already WebP) into images/co-op-security-systems/. SHA-256 of every source differs from all 132 files in images/co-op-security-systems/ at copy time, and each source's 16×16 average hash is ≥45 bits from every co-op image (no re-encode of a co-op photo). Each viewed before naming: no faces, house numbers, plates, readable documents or "AESS" text. Rejected: every intercom/door-station product photo in the library (all already used on co-op pages under other names), images/fiber-optic-installation + cat6-repair (AI-generated, "ABSTRACT" shirts), images/smart-home and images/camera-repair (AI-generated look), alarm-installation conduit-riser photo (AI-generated), recorder screens showing people, Window Depot/Toyota photos (signage), buzzer-repair/ and elevator sets (per DAILY-RUN). Visual note: the library is heavily reused, so two job photos show scenes similar to co-op images already live (the small camera on a blue-grey wall resembles the HV "small hallway camera high on pale wall" scene; the drop-ceiling hall resembles corridor shots on city pages) though they are different files/frames.
+| Page file (co-op-security-systems-suffolk-county-…) | Source | Kind | Where |
+|---|---|---|---|
+| ceiling-camera-in-corridor-by-grey-door.webp | images/alarm-installation/alarm-installation-fort-hamilton-ceiling-camera-in-corridor-by-grey-door.webp | job photo | hero (eager), og/twitter |
+| tiled-corridor-with-chairs-and-glass-partitions.webp | images/alarm-installation/alarm-installation-fort-hamilton-tiled-corridor-to-glass-partitions.webp | job photo | §5 |
+| rack-recorder-with-silver-front-trim.webp | images/access-control-installation/access-control-installation-parkchester-recorder-with-silver-front-trim-product-photo.webp | product | §Services |
+| long-drop-ceiling-hall-toward-exit-sign.webp | images/access-control-installation/access-control-installation-parkchester-long-ceiling-run-toward-far-exit-sign.webp | job photo | §Intercom |
+| wall-sensor-below-small-black-camera.webp | images/2gig-vs-qolsys/2gig-vs-qolsys-nyc-close-view-white-sensor-below-black-wall-camera.webp | job photo | §Access control |
+| white-turret-camera-with-twin-illuminators.webp | images/access-control-installation/access-control-installation-marine-park-white-turret-camera-with-twin-illuminators.webp | product | §Cameras |
+| white-dual-lens-pan-tilt-camera.webp | images/dvr-upgrade/dvr-upgrade-ulster-white-dual-lens-pan-tilt-camera-product-photo.webp | product | §Lots/Packages |
+| poe-recorder-front-and-rear-ports.webp | images/lorex-vs-swann/lorex-vs-swann-nyc-swann-advancedx-nvr-front-and-rear-poe-ports-product-photo.webp | product (Swann logo) | §Cabling/Fire/Scope |
+| black-turret-camera.webp | images/access-control-installation/access-control-installation-westchester-square-black-turret-camera-product.webp | product | §Architecture |
+| bullet-camera-on-ceiling-over-office-workstation.webp | images/access-control-installation/access-control-installation-melrose-bullet-camera-over-office-workstation.webp | job photo | §Business |
+| row-of-four-white-turret-cameras.webp | images/security-camera-maintenance/security-camera-maintenance-rockland-county-row-of-four-white-turret-cameras-product-photo.webp | product | §Equipment |
+
+DAILY-LOG note: `images: 11 reused from images/alarm-installation/, access-control-installation/, 2gig-vs-qolsys/, dvr-upgrade/, lorex-vs-swann/, security-camera-maintenance/ (no real co-op photos yet; no intercom photo left unused in the library)`.
+
+### Links left for the main run
+- FLIP comment (plain text, no anchor): `/co-op-security-camera-installation-suffolk-county` (cameras section).
+- Live links to parallel pages not yet on disk at finish: `/co-op-security-systems-westchester-county`, `-rockland-county`, `-ulster-county` (silo block) — checker reports them broken until those pages land.
+- `/co-op-board-intercom-upgrade` linked live (intercom section + silo block); it existed on disk at finish.
+- Back-links needed from all 12 live co-op pages (checker), hub /co-op-security-systems-long-island link down, sitemap + `_redirects` pair; keyword-file rule: one contextual link back from /intercom-installation-suffolk-county-new-york and /apartment-building-security-camera-installation-suffolk-county.
+- Hero video markup (data-hero-video + VideoObject) points at /v/hero/co-op-security-systems-suffolk-county.mp4 as on siblings; the video itself is not in the repo.
+
+## westchester-county
+
+<!-- merged from research/_tmp by max-daily run 2026-11-26: Westchester -->
+
+## westchester-county
+
+## Westchester County — local research for `co-op-security-systems-westchester-county` (Nov 26 2026)
+
+Built by a batch subagent (part file; merge into research/co-op-security-systems.md). Child page of /co-op-security-systems-hudson-valley; GBP Bronx (460 E Fordham Rd, #bronx); phone (914) 877-2578 in body, CTAs, sticky bar and schema; (800) 486-0943 only in the shared mega-nav. Format: exact query · platform · URL · finding · page section used. Rows marked "reused" were verified by earlier builders and not re-fetched.
+
+Thesis (distinct from HV hub / Putnam / Orange / Dutchess): Westchester is the county where co-ops outsell condos (1,581 vs 1,250 in 12 months), with a big elevator-tower and garden-complex stock (Yonkers, Mount Vernon, New Rochelle, White Plains), prewar station-area co-ops (Garth Road, Bronxville), very high turnover → credential hygiene; the Yonkers "Amazon Key inside the intercom" story → panel audit as a section; lobby package thefts + 2026 decline data; July 2026 Con Ed heat-event outages → power/brownout; Yonkers alarm and fire code chapters; MRL not MDL; NYC TDPA not applicable.
+
+### Mandatory sources — status
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | EMPTY — `reddit Westchester co-op intercom buzzer broken board building Yonkers Hartsdale` · WebSearch returned no reddit.com result (Habitat/Brownstoner/News12 instead). HV hub's reused r/Westchester excerpt not repeated. |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible). "What AI gets wrong" answers generic claims with W1, W8, W15, W5, W6, W16. |
+| 6 | Area landmarks / stations | W3 (Garth Road / Scarsdale Harlem Line station), W2 (listing towns/ZIPs), HV6 reused (Hartsdale station), HV7 reused (Bronxville) |
+| 7 | Building stock | W1, W2, W3, W5 |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible) |
+| 9 | Local news | W5 (Habitat), W6 (ABC7), W7 (News 12), W8 (Con Edison) |
+| 10 | Hyperlocal | W3 (Scarsdale10583), W7 (News 12 Westchester) |
+| 11 | Yelp 1–3★ | EMPTY (not accessible) |
+
+### Rows
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| W1 | `OneKey MLS Westchester County quarterly indicators Q3 2026 co-ops closed sales median price` · WebSearch → Firecrawl scrape (PDF, query) | https://irp.cdn-website.com/a5e60d20/files/uploaded/2026_10_Westchester_County.pdf | OneKey MLS Westchester, October 2026: co-ops closed sales last 12 months thru 10-2026 1,581 (thru 10-2025 1,588); 12-mo median $240,000 (prior $225,000); Oct 2026 160 sales, median $234,500; days on market 12-mo 56; inventory Oct 2026 510. Condos 12-mo 1,250; single-family 12-mo 4,544. | §County para 1 + facts list; §Access control para 1; AI check #1; Q&A fob reconciliation context |
+| W2 | `Westchester County co-op apartments number cooperative housing Yonkers White Plains Hartsdale share of market` · WebSearch → Firecrawl scrape (query) | https://www.homes.com/westchester-county-ny/co-ops-for-sale/ | Meta: "See the 466 available co-ops for sale in Westchester County" (viewed Nov 26 2026). First page towns/ZIPs: Yonkers 10701/10703/10704/10710, Mount Vernon 10552, Eastchester 10709, Bronxville 10708, New Rochelle 10805, White Plains 10606, Rye, Tarrytown, Croton-on-Hudson, Peekskill, Briarcliff Manor, Mount Kisco, North Salem. Features: Mount Vernon "gated, security, laundry, parking"; Yonkers parking/pool/near train/elevator; New Rochelle elevator/laundry/parking; Peekskill elevator; Tarrytown near train. No addresses or building names used. | §County para 2; building types (gated campuses, river towns); town cards |
+| W3 | `Garth Road Scarsdale co-ops prewar apartment buildings Town of Eastchester history Tudor` · WebSearch → WebFetch | https://scarsdale10583.com/section-table/101-village-voices/12002-the-unique-fascinating-history-of-eastchester-s-garth-road | Robert Mawson, Feb 6 2026: Garth Road has 13 residential buildings, "nearly all cooperatively-owned", "just south of the Scarsdale Harlem Line Rail Station"; development 1926–66 (monograph on Scarsdale Historical Society site). Unit count in article garbled — not used. | §County para 3; intercom building types (prewar); building types; Q&A Scarsdale lobby; town card Eastchester/Scarsdale |
+| W4 | same search as W2 → WebFetch | https://cooperatornews.com/article/answering-westchesters-questions | The Cooperator (Lisa Iannucci, Jan 2007): Westchester Cooperative and Condominium Advisory Council formed 1979, part of the Building and Realty Institute; represents "more than 400 co-ops and condos in Westchester and the Mid-Hudson Region". | §County para 4 |
+| W5 | `reddit Westchester co-op intercom buzzer broken board building Yonkers Hartsdale` · WebSearch → WebFetch | https://habitatmag.com/Publication-Content/Building-Operations/2022/2022-February/Westchester-s-Biggest-Co-op-Tackles-a-Security-Breach | Habitat (Bill Morris, Feb 17 2022): largest co-op in Westchester, 778 units in five buildings, no doormen (tagged Yonkers). Amazon Key for Business devices installed inside intercoms without authorization by a local vendor; agreements "signed by somebody with no authority"; found by the agent's intercom company; second building: super caught installer, police report, box removed; Amazon ended relationship with vendor and offered reimbursement. Quote (agent president): "At least ask permission." Building name, vendor names and people's names NOT used on page. | §County para 3; §Panel audit (whole section); Q&A ×2; AI check #4 |
+| W6 | `Westchester apartment building package thefts arrested lobby 2026 Yonkers OR "New Rochelle" OR "White Plains" OR "Mount Vernon" police` · WebSearch → WebFetch | https://abc7ny.com/post/yonkers-package-theft-woman-santa-hat-2-masked-men-accused-stealing-packages-ny/15614198/ | Yonkers PD, Nov 2024: three arrested near Bronx River Road; "several open Amazon packages with the contents removed" from a building lobby; charges petit larceny, criminal possession of stolen property, possession of burglary tools; Lt. Ken Lacey: "The sooner we get the information, the sooner we can react." Suspect names and street numbers NOT used. | §Packages para 1 |
+| W7 | same query → WebFetch | https://westchester.news12.com/data-shows-porch-pirate-thefts-down-in-westchester-county-still-a-concern-throughout-the-year | News 12 Westchester (Melanie Palmer, June 9 2026): Yonkers 50% decrease in package thefts at First Precinct; White Plains ~13 reports so far this year vs 18 same period 2025; Deputy Commissioner Joseph Castelli (White Plains Public Safety): "Cameras are still good." | §Packages para 2; AI check #5; town card White Plains |
+| W8 | `Con Edison Westchester outage customers 2026 storm Yonkers New Rochelle` · WebSearch → WebFetch | https://www.coned.com/en/about-us/media-center/news/2026/07-04/con-edison-restoring-power-to-customers-impacted-by-severe-storms | Con Edison, July 5 2026 (12:30 AM): Westchester "experienced the greatest impact"; greatest outages in Greenburgh, Yonkers, Elmsford, Dobbs Ferry and Rye; no exact Westchester count. | facts list; §Power para 1; town card Hartsdale/Greenburgh |
+| W9 | `City of Yonkers alarm system permit false alarm ordinance code chapter registration fee` · WebSearch → WebFetch | https://ecode360.com/15089577 | Yonkers Code alarm chapter (Ch. 78 by cross-reference to §78-18; amended 2012–2015): license/permit renewed every year; 30-day grace for new system with permit; first two false alarms in a calendar year = written warning, no charge; over four in a calendar year may result in suspension or revocation; violations Class II offense. | facts list; §Scope alarm permits; compliance notes; FAQ Yonkers false alarms |
+| W10 | `Yonkers Fire Department Fire Prevention Bureau fire alarm plan review permit Uniform Code` · WebSearch → WebFetch | https://ecode360.com/15088267 | "This chapter shall be known and cited as the 'Yonkers Fire Code'"; refers to "the New York Uniform Code and 19 NYCRR 444"; enforcement by the Fire Commissioner, who may designate members to inspect. | §Scope fire alarm |
+| W11 | reused, silo HV8 | https://www.nysenate.gov/legislation/laws/MRE/3 | MRL applies to cities < 325,000 and all towns and villages. | facts list; intercom law subsection; compliance notes; AI check #2 |
+| W12 | reused, silo HV9 | https://www.osc.ny.gov/files/local-government/publications/pdf/2020-census-municipal-population-shifts-in-new-york-state.pdf | Yonkers 2020 Census 211,569. | facts list |
+| W13 | reused, silo HV5 | https://humanrights.westchestercountyny.gov/resources/cooperative-housing-disclosure | Westchester co-op disclosure law (eff. Aug 1 2021): acknowledge/notify within 15 days; decide within 60 days of complete application; board fair-housing training. | facts list; §Access control para 2; FAQ fair-housing timeline |
+| W14 | reused, silo HV12 | https://consumer.westchestercountyny.gov/ | "Plumbers and electricians must obtain a trade license in order to work in Westchester County". | §Scope electrical |
+| W15 | reused, silo L3 | https://intro.nyc/local-laws/2021-63 | TDPA = NYC Local Law 63 of 2021 (city only). | §Access control privacy; AI check #3 |
+| W16 | reused, silo L12 | https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system | Normal range $1,200–$8,500 (national). | AI check #6 |
+| W17 | reused, silo L7 | https://cooperatornews.com/article/replacing-intercom-systems | Liers: "retain the existing infrastructure with the exception of the panel"; full replacement "expensive and highly disruptive". | §Intercom para 2 |
+| W18 | reused, silo L2 | https://nycourts.gov/reporter/archives/levandusky_one.htm | Levandusky (1990) business judgment rule. | §Board process |
+| W19 | reused, silo L8 | https://habitatmag.com/layout/set/amphtml/Publication-Content/Bricks-Bucks/The-Sands-Gets-New-Intercom | Board member wrote RFP, scored five sealed proposals, installer reused copper (building not named on page; not presented as Westchester). | §Board process RFP |
+| W20 | reused, silo L11 | https://cooperatornews.com/article/qa-camera-placement | Governing documents bar changes to common elements without board approval; audio may implicate eavesdropping law. | §Cameras para 2 |
+| W21 | reused, silo HV10 | https://www.coned.com/en/about-us/media-center/news/2026/06-06/con-edison-restoring-power--to-customers-affected-by-storm | June 7 2026: >5,000 Westchester customers out (Bronxville, Mount Vernon, New Rochelle, Pelham, Scarsdale, White Plains, Yonkers). | §Power para 1 |
+| W22 | reused, silo HV15 | https://www.nysenate.gov/legislation/laws/GBS/69-M | GBL §69-m licensing. | facts list; compliance notes |
+| W23 | site pages (internal) | /door-buzzer-repair-westchester-county; /intercom-installation-westchester-county-ny; /access-control-installation-westchester-county; /elevator-access-control-installation-westchester-county; /apartment-building-security-camera-installation-westchester-county; /security-camera-pricing-westchester-county | Used: $250 service call; station $250–$525, relay/button $250–$475, 24V transformer $325–$650, strike $450–$950, lobby panel $650–$1,800, riser $850–$2,400 (buzzer page); video intercom 4–8 units $1,200–$3,500, multi-unit $1,200–$5,000, IP $2,500–$8,000+ (intercom-installation-westchester-county-ny); access single door $1,500–$2,500, multi-door $4,000–$15,000, full building w/ elevator $15,000–$40,000+ (access page); elevator L1 from $1,875/car, L2 from $3,125/car; cameras $625–$1,875 per camera installed (apartment-building camera page). NOT used: /intercom-installation-westchester-new-york (duplicate page, different ranges $1,200–$4,500+, REPAIR $150–$1,200), /intercom-repair-westchester tables (diagnostic $150–$300, conflicts with $250; page says the written quote after the visit applies), access page "$195/hr" callbacks and apartment-building camera page "$195/hr", "Same-Day Visit" (conflict with $250 / no-same-day rule — FLAG for Anwar). | hero quick answer; repairs table; intercom; access; elevator; cameras; cost table |
+
+Not found / EMPTY: Westchester County Planning multifamily report (https://planning.westchestercountyny.gov/images/archive/stories/reports/multfamilyhousing2000.pdf) scraped but returned no co-op text in the processed part — not used. Census API blocked in build env (403/needs key) — no ACS figures used. Habitat "Board Oversight of Security System" (Nov 19 2026) title only — not used. Habitat Hartsdale lobby car-crash story (2016) found in a tag listing only — not used.
+
+### Question register (this page) — add to the silo register
+Q&A (H3): Someone installed a delivery device inside our intercom panel without board approval. How do we find out what else is connected to our entry system? · A delivery company is offering to add keyless access to our lobby door for free. What should the board ask before saying yes? · Our 1920s co-op near the Scarsdale station has an original lobby the shareholders love. Can a new entry panel fit in without looking out of place? · How often should a large co-op reconcile its fob list against the shareholder roster? · We're changing managing agents. What has to be handed over so the new firm can run the intercom, fobs and cameras? · During a summer heat wave our lobby panel kept rebooting. What was going on? · Can the board find out which apartment buzzed a visitor in on a particular night? · A shareholder wants to mount a camera in their own window looking over the parking lot. Does the board have a say?
+
+FAQ: Does the Westchester County fair-housing timeline for co-op applications affect when a new buyer gets fobs? · How many false alarms can a Yonkers co-op have before the city can act on its alarm permit? · Our lobby panel is too loud for the apartments right above the vestibule. Can its volume change at night? · Should the trash-room door on each floor of our co-op tower be put on fobs? · Can old door contacts from a disconnected alarm system be reused to warn us when a door is held open? · Why does one vestibule camera so rarely show both the visitor's face and the package? · Can shareholders get a phone alert when a package is left in the vestibule? · Can a co-op reuse the coax cable from an old lobby camera system for new cameras? · How do board members view the cameras from home without making the recorder easy to hack? · Is a video intercom with a built-in camera enough, or does the lobby still need a separate camera? · Can the intercom open the garage door for a visitor who's parking? · Our laundry room machines take a card. Can the laundry room door use the same card as the machines?
+
+Dedup note: checked by meaning against every question on the nyc, manhattan, brooklyn, queens, bronx, staten-island, long-island, nassau-county, hudson-valley, orange-county, putnam-county, dutchess-county pages and the parallel suffolk-county page (parsed with check_page.parse); checker reports no exact (masked) duplicates. Dropped drafts that overlapped: plate-reader at garage, part-time doorman routing, lost-fob shutoff, propped doors, intercom law applicability (NYC vs MRL kept in body only), county installer licence, Bronx-office scheduling, salt/winter hardware, footage to police. Parallel rockland-county and ulster-county pages did not exist at build time — main run should re-check those.
+
+Similarity (masked-geo, difflib ratio on word sequences / 8-word shingle overlap) vs every sibling: max 0.257 / 0.063 (dutchess); all others ≤ 0.157 / 0.038.
+
+### Images (11) — permanent image rule; no Drive/CompanyCam check in this run
+Copied byte-for-byte (already WebP) into images/co-op-security-systems/. Candidates came from a 16×16 average-hash pass over ~12,500 library files, excluding any image within 40 bits of a file in images/co-op-security-systems/ or referenced on a co-op page; each finalist was viewed and compared side by side with the closest live co-op image. Dropped: cctv-installation/…brooklyn-bullet-camera-on-tall-wall (same scene as HV hub's small-hallway-camera image), cam-turret-side.png (same product shot as the parallel Rockland page), cam-eyeball-ir.png (pixelated), the Dahua stainless PTZ (HV used it), the camera-arm-under-cornice set (Dutchess scene), all AI-generated technician/smart-lock/mag-lock/rack sets, images/buzzer-repair/, images/elevator-access-control-installation/. No faces, house numbers, plates, readable documents or "AESS" text in any kept image. No unused real intercom/door-station photo was left in the library, so the set is cameras only (4 job photos, 7 product shots).
+| Page file (images/co-op-security-systems/) | ← Source | Kind | Where |
+|---|---|---|---|
+| co-op-security-systems-westchester-county-black-ball-camera-under-drop-ceiling-beside-light-panel.webp (900×1337) | images/cctv-installation/cctv-installation-ulster-county-ceiling-dome-at-wall-corner-under-light-panel.webp | job photo | hero (eager), og/twitter |
+| …-white-bullet-camera-with-wide-lens-on-round-mount.webp (300×270) | images/alarm-installation/alarm-installation-sunset-park-ubiquiti-white-bullet-camera-product-photo.webp | product | §County |
+| …-small-white-mini-dome-camera.webp (225×225) | images/alarm-installation/alarm-installation-homecrest-small-white-mini-dome-camera-product-photo.webp | product (Hikvision logo) | §Intercom |
+| …-mini-bullet-camera-on-plain-white-wall.webp (687×580) | images/cctv-installation/cctv-installation-nassau-county-mini-bullet-on-high-white-wall.webp | job photo | §Panel audit |
+| …-white-dome-camera-in-storage-room-ceiling-corner.webp (645×560) | images/access-control-installation/access-control-installation-park-slope-white-dome-in-corner-of-bare-storage-room.webp | job photo | §Access control |
+| …-four-bullet-cameras-with-recorder-and-monitor.webp (764×717) | images/alarm-installation/alarm-installation-mapleton-four-bullet-cameras-recorder-and-monitor-product-photo.webp | product | §Cameras |
+| …-white-turret-camera-with-spotlight.webp (225×225) | images/door-buzzer-repair/door-buzzer-repair-city-island-white-turret-camera-with-spotlight-product-photo.webp | product (Lorex logo) | §Packages |
+| …-black-bullet-camera-on-swivel-mount.webp (1325×696) | images/access-control-installation/access-control-installation-marine-park-black-bullet-camera-on-swivel-mount.webp | product | §Power |
+| …-pan-tilt-camera-with-wall-bracket.webp (257×272) | images/alarm-installation/alarm-installation-sunset-park-dahua-pan-tilt-camera-black-dome-product-photo.webp | product (Dahua logo) | §Building types |
+| …-four-white-bullet-cameras-on-wall-brackets.webp (765×221) | images/door-buzzer-repair/door-buzzer-repair-east-tremont-four-white-bullet-cameras-on-wall-brackets-product-photo.webp | product | §Board process |
+| …-mini-pan-tilt-dome-camera.webp (300×240) | images/alarm-installation/alarm-installation-starrett-city-mini-pan-tilt-dome-camera-product-photo.webp | product (Dahua logo) | §Pricing |
+
+DAILY-LOG note: `images: 11 reused from images/cctv-installation/, images/alarm-installation/, images/access-control-installation/, images/door-buzzer-repair/ (no real co-op photos yet)`.
+
+### Links left for the main run
+FLIP comments on the page: `/co-op-security-camera-installation-westchester-county` (cameras section), `/co-op-security-systems-rockland-county`, `/co-op-security-systems-ulster-county` (All Areas block). `/co-op-security-systems-suffolk-county` and `/co-op-board-intercom-upgrade` existed (parallel build) at finish and are live links — if either fails to ship this batch, flip them back. Back-links to this page needed from all 13 other co-op pages incl. the hub's link down; sitemap + _redirects pair; one contextual link back from /intercom-installation-westchester-county-ny and /apartment-building-security-camera-installation-westchester-county per the keyword-file rule.
+
+## rockland-county
+
+<!-- merged from research/_tmp by max-daily run 2026-11-26: Rockland -->
+
+## rockland-county
+
+## Rockland County — local research for `co-op-security-systems-rockland-county` (Nov 26 2026; part file, merge into research/co-op-security-systems.md)
+
+Built by a batch subagent. Child page of /co-op-security-systems-hudson-valley. GBP Bronx (460 E Fordham Rd, #bronx); phone (845) 640-3835 in body, CTAs, sticky bar and schema; (800) 486-0943 only in the shared mega-nav. Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page section used. Rows marked "reused" were verified by earlier builders (silo rows L2, L7, L12, HV8, HV11, HV15, HV16 in research/co-op-security-systems.md).
+
+Thesis: Rockland has no cities (5 towns, 18 villages), so co-ops fall under the Multiple Residence Law and town/village/county code offices (Spring Valley enforced by the county since 2022); a steady co-op market (71 sales/12 mo, median $140k) concentrated in Suffern 10901 (much of it unincorporated Ramapo) and Spring Valley 10977 garden complexes, plus mid-rises and river-village walk-ups; summer storm outages (O&R, July 2026); served from the Bronx across the Tappan Zee / Palisades Parkway.
+
+### Mandatory sources (§3) — status
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | `reddit r/rocklandcounty co-op apartment Suffern Spring Valley buying co-op board` · WebSearch → no reddit.com result (listing sites, Cooperator, Brick Underground only). EMPTY |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env). §10.5 corrects generic claims (co-ops = city only; MDL intercom law statewide; national cost range; TDPA; Wi-Fi cameras; electrician vs security license; city companies won't travel). |
+| 6 | Area landmarks / geography | R3 (Wikipedia: towns, villages, stations, bridge, ferry) |
+| 7 | Building stock / use cases | R1, R2, R4 |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | R6 (News 12), R7 (WAMC), R10–R11 (O&R, Rockland County Times), HV11 reused (Daily Voice) |
+| 10 | Hyperlocal | Rockland County Times (R11) |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Rows
+| # | Exact query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| R1 | `OneKey MLS Rockland County co-ops closed sales median 2026` · WebSearch → Firecrawl scrape (PDF, query) | https://irp.cdn-website.com/a5e60d20/files/uploaded/2026_10_Rockland_County.pdf | OneKey MLS Rockland, October 2026: co-op closed sales last 12 months thru 10-2026 = 71 (thru 10-2025 = 71); 12-mo median $140,000 (prior $165,000); Oct 2026 inventory 30; Oct 2026 days on market 61; condos 12-mo 543; single-family 12-mo 1,666. | hero quick answer; §County para 2 + facts list; AI check #1 |
+| R2 | `Rockland County co-ops for sale Nyack Spring Valley Pearl River Suffern co-op apartment` · WebSearch → Firecrawl scrape (query) | https://www.homes.com/rockland-county-ny/co-ops-for-sale/ | Page meta: "See the 35 available co-ops for sale in Rockland County"; listings shown: majority Suffern 10901 and Spring Valley 10977, a few Nyack 10960, Garnerville 10923, Monsey 10952; amenities mentioned: elevator, laundry, parking, pool, near train/bus, one intercom. (Nyack page https://www.homes.com/nyack-ny/co-ops-for-sale/ via WebFetch: 3 co-ops, all 10960.) | §County para 3; §Elevator; §Coverage cards; AI check #1 |
+| R3 | `Rockland County New York five towns villages list ... 2020 census population 338,329` · WebSearch → Firecrawl scrape (query) (WebFetch of wikipedia.org was blocked: permission not answered) | https://en.wikipedia.org/wiki/Rockland_County,_New_York | 199.34 sq mi; "smallest county by area in New York outside New York City"; five towns (Clarkstown, Haverstraw, Orangetown, Ramapo, Stony Point); 18 villages (Airmont, Chestnut Ridge, Grand View-on-Hudson, Haverstraw, Hillburn, Kaser, Montebello, New Hempstead, New Square, Nyack, Piermont, Pomona, Sloatsburg, Spring Valley, Suffern, Upper Nyack, Wesley Hills, West Haverstraw); county seat New City; Tappan Zee (Mario Cuomo) Bridge; Port Jervis Line: Suffern, Sloatsburg; Pascack Valley Line: Pearl River, Nanuet, Spring Valley; NY Waterway Haverstraw–Ossining ferry. | §County para 1; §Weather (bridge); §Coverage cards |
+| R4 | `Rockland ... Suffern Spring Valley buying co-op` · WebSearch → WebFetch | https://raveis.com/property/flyer/19300472 | Co-op listed "Suffern (Ramapo)", year built 1970, assigned parking. Address NOT used on page. | §County para 3; §Building types (garden complexes); Q&A Suffern mailing address |
+| R5 | same as R3 · WebFetch | https://www.census.gov/quickfacts/rocklandcountynewyork | 2020 Census 338,329; July 1 2025 estimate 357,397; 109,999 housing units; owner-occupied 67.9% (2020–2024); 3.22 persons per household. | §County facts list |
+| R6 | `New York Department of State code enforcement oversight Spring Valley Ramapo Rockland Uniform Code fire safety` · WebSearch → WebFetch | https://hudsonvalley.news12.com/rocklands-office-of-buildings-and-codes-reflects-on-2-year-anniversary-of-taking-over-inspections-code-enforcement-in-village-of-spring-valley | News 12, Feb 14 2024: county Office of Buildings and Codes began inspections/code enforcement in Village of Spring Valley Feb 14 2022 after state order (2021, after deadly assisted-living fire); >2,000 inspections, >12,400 alleged violations in two years. (rocklandcountyny.gov/departments/buildings-codes fetched: page describes the Spring Valley office and the Uniform Code — not quoted on page.) | §County facts list; §Access control (strike vs mag lock); Q&A Spring Valley; §Coverage card |
+| R7 | same search · WebFetch | https://www.wamc.org/post/nys-dos-appoints-monitors-rockland-town-village | WAMC Dec 22 2016: DOS appointed code-enforcement monitors to Town of Ramapo and Village of Spring Valley; "significant deficiencies in code enforcement". | §County facts list |
+| R8 | `2025 Uniform Fire Prevention and Building Code New York effective December 31 2025 Department of State` · WebSearch → WebFetch | https://dos.ny.gov/notice-adoption | "The effective date of the 2025 NYS Uniform Code is December 31, 2025." | §County facts list; §Access control; §Fire alarm |
+| R9 | Firecrawl scrape (directQuote) | https://ecode360.com/26997705 | Rockland County Code Ch. 250: electrical contractor = wiring "for light, heat or power purposes or for signaling systems operating on 50 volts or more under the supervision of a master electrician." | §What We Install (we don't do electrical); AI check #6 |
+| R10 | `Town of Clarkstown alarm systems chapter permit false alarms ecode360` · WebSearch → Firecrawl scrape (query) | https://ecode360.com/6704537 | Clarkstown Ch. 91 Burglar Alarm Device Control Law: alarm users "shall obtain an alarm user permit from the Police Department"; more than three false alarms in 12 months → $50 civil penalty for 4th/5th, $100 each after; permit revoked at 10 false alarms. (Penalty amounts not printed on page.) | §Cabling, Alarms & Fire; §Coverage (Nanuet/New City) |
+| R11 | `Orange & Rockland Utilities storm outages Rockland County customers lost power 2026` · WebSearch → WebFetch | https://www.oru.com/en/about-us/media-center/news/2026/07-06/storm-outage-update-restored-power-to-more-than-45k | O&R July 6 2026: "more than 47,000 customers have been impacted" since July 1; >45,000 restored. | §County facts list; §Buzzer repair (storms) |
+| R12 | same search · WebFetch | https://rocklandtimes.com/2026/07/09/massive-storm-sweeps-through-rockland/ | Rockland County Times July 9 2026: July 4 storm; 11:30 p.m. July 4 Rockland 6,466 customers out; tree on house/garage in New City; neighborhood "had no power for over 36 hours". | §County facts list; §Buzzer repair |
+| R13 | `Village of Nyack architectural review board historic district exterior alterations code chapter` · WebSearch | (no Nyack result identified) | EMPTY — no Nyack/Piermont preservation rule verified; page only advises boards to ask the village whether exterior panels/cameras need review. | §Building types (river villages) |
+| R14 | reused silo HV8 | https://www.nysenate.gov/legislation/laws/MRE/3 | MRL §3 applies to "all cities of less than three hundred twenty-five thousand population and to all towns and villages". | §County facts list; AI check #2 |
+| R15 | reused silo HV15 | https://www.nysenate.gov/legislation/laws/GBS/69-M | GBL §69-m statewide security/fire alarm licensing. | §County facts list; AI check #6 |
+| R16 | reused silo L7 / HV17 | https://cooperatornews.com/article/replacing-intercom-systems | Liers (Nov 14 2025): full replacement "can be expensive and highly disruptive"; "retain the existing infrastructure with the exception of the panel"; 1960s–80s wiring "a typical lifespan of 25-50 years". | §Intercom upgrades |
+| R17 | reused silo L2 | https://nycourts.gov/reporter/archives/levandusky_one.htm | Levandusky (1990) business judgment rule quote. | §Board process step 4 |
+| R18 | reused silo L12 | https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system | "Normal Range: $1,200 - $8,500". | AI check #3 |
+| R19 | reused silo L3 / HV16 | https://intro.nyc/local-laws/2021-63 | TDPA = NYC Local Law 63 of 2021, city Admin Code — not Rockland. | §Access control; AI check #4 |
+| R20 | reused silo HV11 | https://dailyvoice.com/article/packages-stolen-from-apartment-complex-found-inside-haverstraw-home-man-35-charged-cops-say/ | Apr 2026 Haverstraw packages taken from several buildings within a complex, recovered after search warrant (suspect not named on page). | §Packages |
+| R21 | reused silo L11 | https://cooperatornews.com/article/qa-camera-placement | Audio recording may implicate Penal Law (eavesdropping); boards decide camera policy. | §Cameras (no audio; attorney review) |
+| R22 | site pages (internal) | /door-buzzer-repair-rockland-county ; /intercom-installation-rockland-county-ny ; /access-control-installation-rockland-county ; /elevator-access-control-installation-rockland-county ; /cctv-installation-rockland-county | $250 service call; station $250–$525, relay/button $250–$475, 24V transformer $325–$650, strike $450–$950, lobby panel $650–$1,800, riser $850–$2,400 (buzzer page); video intercom 4–8 units $1,200–$3,500, multi-unit $1,200–$5,000, IP $2,500–$8,000+ (intercom -ny page); single door/gate $1,700–$5,000, multi-door $4,500–$15,000 (access control); elevator L1 from $1,950/car, L2 from $3,250/car; commercial CCTV $1,500–$5,000+. NOT used (conflicting ranges): /intercom-installation-rockland-county-new-york ($1,200–$4,500+, repair $150–$1,200) and /intercom-repair-rockland ($192–$384 diagnostic etc.). | hero quick answer; §Intercom; §Buzzer; §Access; §Elevator; §Pricing table; AI check #3 |
+| R23 | site page (internal) | /fire-alarm-installation-rockland-county-ny | Rockland fire alarm: sealed drawings → filing with town/village/county office enforcing Uniform Code → licensed installer → witnessed acceptance test; no prices. | §Cabling, Alarms & Fire |
+
+### Rockland question register (this page) — add to the silo register
+§9 Q&A (H3):
+- Our co-op is in Spring Valley, where the county handles code enforcement. Does that change anything for a security project?
+- Our mailing address says Suffern, but the building isn't in the village. Whose rules apply?
+- Does our board need a lawyer to approve a new security system?
+- Our garden co-op's buildings all have different intercom brands from different repairs. Can they be brought under one system?
+- A tree limb took down the intercom cable strung between two of our buildings. Should it go underground?
+- Can the system tell the board which entrances are used least, so we can lock one down?
+- Our bylaws require board approval for every new occupant. Can a fob stay inactive until the approval is recorded?
+- How do we stop shareholders from handing the building code to food-delivery drivers?
+- Can a shareholder see a history of who buzzed their apartment while they were out?
+- Old abandoned cable and dead equipment hang all over our facade. Can it come down during the security job?
+- Headlights from the parking lot glare into our entry camera at night. Can that be fixed?
+- One shareholder runs a small business from home and gets many deliveries. Can the entry system handle that?
+
+§17 FAQ:
+- Is there anything shareholders should be told not to do with their new fobs?
+- Our co-op keeps its records in a basement room. Can that door show who went in and when?
+- What happens to the old panel and apartment stations you remove?
+- Can the board get a regular report of entry activity by email?
+- Is a cloud-managed entry system a risk if the company behind it goes out of business?
+- A shareholder has passed away and the estate is still open. What happens to the apartment's fobs?
+- Do you photograph our equipment closets and doors, and who sees the photos?
+- Can the bike room or the dumpster enclosure be put on fobs?
+- Do new apartment stations have to go in the same spot as the old ones?
+- Can installation be scheduled around Sabbath and holiday observance in our building?
+- Can new cameras be added to the recorder the co-op already has?
+- Can a reader let shareholders open the lot gate without getting out of the car?
+
+Dedup note: checked by meaning against every live co-op page (12), the parallel Suffolk and Westchester pages and /co-op-board-intercom-upgrade as they stood on disk. Dropped for overlap: pool access (Long Island), shared office internet line (Hudson Valley), sublet fobs (Manhattan), home health aides (Bronx), Spanish menus (sibling), project duration (Manhattan/Bronx), first-budget priority (Bronx/Putnam), facade-project timing (Bronx), ambulance access (Suffolk), laundry card (Westchester), period-lobby panel finish (Westchester), two-wire vs IP (board guide).
+
+### Images (11) — permanent image rule; no Drive/CompanyCam check in this run
+Pool was screened by SHA-1 + 16×16 average hash against every file in images/co-op-security-systems/ (including the parallel Suffolk and Westchester files present at the time) and by viewing contact sheets; rejected as visual duplicates of sibling co-op photos: brick-walkway recorder view (= Queens), Dahua mini PT dome (= Westchester), ceiling-grid bullet on pendant (= Manhattan/Westchester/Suffolk scene), Lorex white bullet (= Long Island/sibling Lorex), corner dome + motion sensor scenes (= NYC/Suffolk), masonry cornice arm dome (= Dutchess). Rejected as AI-generated or branded: every installer/technician image (Abstract-branded shirts, vans), alarm-installation fulton-ferry brick-wall boxes and fort-hamilton conduit riser (AI-looking), camera-repair/* scenes. Rejected for people on screen: cobble-hill four-view recorder screen. Each kept image viewed: no faces, house numbers, plates, readable documents or "AESS" text (visible marks: "ring" wordmark on the doorbell, "NVR" on a recorder).
+| Page file (images/co-op-security-systems/) | ← Source | Kind | Where |
+|---|---|---|---|
+| co-op-security-systems-rockland-county-video-doorbell-with-lit-ring-button.webp (660×1815) | images/alarm-installation/alarm-installation-cobble-hill-ring-video-doorbell-product-photo.webp | product (Ring) | hero (eager), og/twitter |
+| …-motion-detector-on-blue-wall-above-glass-doors.webp (655×350) | images/alarm-installation/alarm-installation-fort-hamilton-wall-motion-detector-above-glass-doors.webp | job photo | §County |
+| …-tiny-camera-lens-on-cable-with-white-hub.webp (262×275) | images/door-buzzer-repair/door-buzzer-repair-morris-heights-tiny-lens-on-cable-with-white-hub.webp | product | §Intercom upgrades |
+| …-four-varifocal-dome-cameras-with-slim-recorder.webp (456×235) | images/security-camera-maintenance/security-camera-maintenance-rockland-county-four-varifocal-dome-cameras-with-slim-recorder-product-photo.webp | product | §Cameras |
+| …-black-recorder-above-monitor.webp (485×335) | images/security-camera-maintenance/security-camera-maintenance-rockland-county-dvr-with-front-usb-port-above-monitor-product-photo.webp | product | §Cabling, Alarms & Fire |
+| …-white-floodlight-camera-with-round-lamp-heads.webp (900×495) | images/floodlight-google-nest.png (PNG → WebP, white background) | product | §Building types |
+| …-drop-ceiling-room-with-tall-window.webp (347×275) | images/alarm-installation/alarm-installation-fort-hamilton-tall-window-bay-under-drop-ceiling.webp | job photo (low resolution) | §Weather & logistics |
+| …-dual-lens-white-turret-camera.webp (670×668) | images/alarm-installation/alarm-installation-greenwood-heights-white-turret-camera-with-side-lens-module-product-photo.webp | product | §Equipment |
+| …-four-turret-cameras-nvr-and-monitor.webp (765×765) | images/security-cameras/security-cameras-hudson-valley-house-brand-4-eyeball-8mp-4k-ip-full-color-kit.webp | product | §Pricing |
+| …-white-turret-camera-with-two-ir-lights.webp (500×500) | images/cam-eyeball-ir.png (PNG → WebP) | product | §Packages/starting points |
+| …-floodlight-camera-with-wide-light-panel.webp (400×300) | images/floodlight-reolink.png (PNG → WebP) | product | §FAQ |
+
+DAILY-LOG note: `images: 11 reused (2 job photos + 9 product shots) from images/alarm-installation/, images/door-buzzer-repair/, images/security-camera-maintenance/, images/security-cameras/ and top-level product images (no real co-op photos yet)`.
+
+### Links left for the main run
+- `/co-op-security-systems-ulster-county` is linked in the All Areas block but the page did not exist at finish → broken link until Ulster ships (remove the anchor if Ulster fails).
+- `/co-op-security-camera-installation-rockland-county` (TODO in queue): plain text + `<!-- FLIP -->` comment in the Cameras section.
+- Back-links to this page needed from all live co-op-security-systems-* pages (hub HV currently has a FLIP comment only); keyword-file rule: one contextual link back from /intercom-installation-rockland-county-ny and /apartment-building-security-camera-installation-rockland-county.
+- sitemap.xml + _redirects entries (not touched by this subagent).
+
+### Flags for Anwar
+- Rockland intercom prices are inconsistent across three site pages (-ny, -new-york, intercom-repair-rockland); this page uses only the -ny installation page and the buzzer repair page.
+- /access-control-installation-rockland-county shows (347) 934-8335 in its hero (Brooklyn SEO line on a Hudson Valley page) — not touched.
+
+## ulster-county
+
+<!-- merged from research/_tmp by max-daily run 2026-11-26: Ulster (HOLD-THIN, no page built) -->
+
+## ulster-county
+
+## Ulster County — local research for `co-op-security-systems-ulster-county` (Nov 26 2026) — RESULT: HOLD-THIN
+
+Built by a batch subagent (part file; main run merges into research/co-op-security-systems.md). Queue line: `co-op-security-systems-ulster-county | Co-op Security Systems | Ulster | up /co-op-security-systems-hudson-valley | (845) 640-3835 | GBP Bronx`. **No page was written** (no co-op-security-systems-ulster-county.html, no images copied).
+
+### Why HOLD-THIN
+Ulster County has, by its own government's account, no existing housing cooperative to write for:
+- The County Executive (July 3 2025) described the planned 15-unit limited-equity co-op at 21 Elizabeth St, Kingston as something that "would be the first cooperative ownership structure in the County" (U1). The County Legislature (July 29 2025) approved the property transfer for "the County's first cooperative for affordable home ownership" (U2). The building is not built: the county put design-to-marketing at ~30 months from July 2025 (U1).
+- OneKey MLS Ulster County, Q3 2026: co-ops — 1 closed sale in the 12 months through 9-2026 (0 the year before), 0 new listings in Sept, inventory 0 (U3). Condos 24 closings / 12 mo; single-family 929 (U3).
+- Homes.com "Ulster County co-ops for sale" (Nov 26 2026): 1 listing, ZIP 12566 Pine Bush (U4) — that ZIP straddles the Ulster/Orange line, so it is not even clearly an Ulster building.
+- Searches for an existing Kingston / New Paltz / Saugerties / Woodstock housing co-op returned none (U5). The closest things are Cantine's Island Cohousing in Saugerties (19 privately owned homes with a homeowners' association, i.e. not a co-op corporation; U6), senior affordable rentals such as Harmony Hall in New Paltz (rental, not co-op; U7), and condos/HOAs.
+
+A 12,000–14,000-word page aimed at Ulster co-op boards, shareholders and managing agents would have to be filled with either (a) generic co-op content repeated from the Hudson Valley/Putnam/Dutchess pages (fails the < 0.65 masked-geo rule and the "genuinely different page" test), or (b) condo/HOA/cohousing/rental-building content that belongs to the condo-security-systems, apartment-building-security-systems and property-management-security silos (cannibalization; DAILY-RUN and keywords/co-op-security-systems.md keep those phrases on their own silos). Either way it is the thin, doorway-style page the REBUILD/HOLD-THIN rule exists to prevent.
+
+Suggested queue note: `HOLD-THIN Ulster has no existing housing co-op: county calls the unbuilt 15-unit 21 Elizabeth St Kingston project its first co-op (2025); OneKey 1 co-op sale/12 mo, 0 inventory (Q3 2026). Revisit when 21 Elizabeth St is built and occupied (~2028).` Until then the Hudson Valley hub can mention Ulster in one honest sentence (the hub already lists Ulster in its coverage FLIP comments; the main run should drop the `/co-op-security-systems-ulster-county` FLIP rather than link it). Ulster condo/HOA boards are better served by `condo-security-systems-ulster-county` if that line is queued.
+
+### Mandatory sources (§3) — status
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | EMPTY — not run (reddit.com not scrapeable in build env; no Reddit result in U5 searches) |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env) |
+| 6 | Area landmarks | not needed (stopped at HOLD-THIN) |
+| 7 | Building stock | U1–U7 |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | U2 (Participate Ulster), U6 (Hudson Valley One); Spectrum News / WJFF / Ground News items on Elizabeth Manor seen in search results, not opened |
+| 10 | Hyperlocal | U6 (Hudson Valley One, Saugerties) |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Rows (exact query · platform · URL · finding · page section used)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| U1 | `"housing cooperative" OR "limited equity cooperative" Kingston OR Saugerties OR "New Paltz" OR Woodstock Ulster County NY` · WebSearch → Firecrawl scrape | https://www.ulstercountyny.gov/Government/News/Newsroom/2025-07-03-Affordable-Housing-Initiative-at-Elizabeth-Manor-Property-in-Kingston | July 3 2025: development team (Maeda Construction, GA/GA architects, CPC, RUPCO) selected; "a new 15-unit housing cooperative for affordable homeownership" at 60% AMI; County Executive Jen Metzger: "it would be the first cooperative ownership structure in the County"; limited equity housing cooperative; studios–3BR incl. four ADA units; modular, all-electric, passive-house level; front porches and communal stairwells; two community rooms; ~30 months design to homeowner marketing. | HOLD-THIN reason |
+| U2 | `Elizabeth Manor Kingston housing cooperative 2026 update RUPCO Maeda planning board` · WebSearch → Firecrawl scrape (directQuote) | https://participate.ulstercountyny.gov/21-elizabeth/news_feed/legislature-green-lights-affordable-housing-cooperative-for-elizabeth-manor-property | 29 Jul 2025: Legislature voted 19–4 to transfer the property to the Ulster County Housing Development Corporation for "the County's first cooperative for affordable home ownership"; 15-unit building. No 2026 construction-start notice found in the results. | HOLD-THIN reason |
+| U3 | `OneKey MLS Ulster County quarterly indicators 2026 co-ops closed sales median` · WebSearch → Firecrawl scrape (PDF, directQuote) | https://irp.cdn-website.com/a5e60d20/files/uploaded/2026_Q3_Ulster_County.pdf | Co-ops: Sept 2025/2026 closed sales 0/0; last 12 months thru 9-2025 0, thru 9-2026 1; DOM 339; median $35,000 (one sale); inventory 1 → 0. Condos: 12-mo closed 25 → 24, median $285,000 → $317,500, inventory 6 → 12. Single-family: 12-mo closed 863 → 929, median $443,750 → $469,200. | HOLD-THIN reason |
+| U4 | `homes.com Ulster County NY co-ops for sale` · WebSearch → Firecrawl scrape (query) | https://www.homes.com/ulster-county-ny/co-ops-for-sale | Nov 26 2026: "See the 1 available co-ops for sale in Ulster County"; the one listing is Pine Bush, NY 12566, 1 bed. | HOLD-THIN reason |
+| U5 | `Kingston NY co-op apartments for sale cooperative building` · WebSearch ; `New Paltz cooperative housing co-op apartments Ulster County` · WebSearch ; `"co-op" apartment shareholders board Kingston NY OR "Saugerties" OR "New Paltz" cooperative corporation building -grocery -food` · WebSearch | (results: investor multifamily listings on crexi/loopnet/showcase; New Paltz senior rentals; AG co-op guides; Kingston Food Co-op) | No existing residential housing co-op in Kingston, New Paltz, Saugerties or Woodstock surfaced. | HOLD-THIN reason |
+| U6 | same as U1 · WebSearch → Firecrawl scrape | https://hudsonvalleyone.com/2025/05/07/cantines-island-cohousing-woos-younger-members | Hudson Valley One, May 7 2025: Cantine's Island Cohousing, Saugerties — 19 privately owned homes on 9.5 acres on the Esopus Creek, first residents 1997; communal funds held by a homeowners' association; article itself distinguishes cohousing from co-op apartment buildings. | HOLD-THIN reason (not a co-op) |
+| U7 | `New Paltz cooperative housing co-op apartments Ulster County` · WebSearch (result titles only) | https://governor.ny.gov/news/governor-hochul-announces-completion-20-million-affordable-housing-development-ulster-county | Harmony Hall, 51 affordable senior units near downtown New Paltz (rental). Not opened further. | HOLD-THIN reason (rental, not co-op) |
+| U8 | repo check | /co-op-security-camera-installation-ulster-county, /intercom-repair-ulster-county, /apartment-building-security-camera-installation-ulster-county | Do not exist in the repo (Nov 26 2026). Existing Ulster service pages: intercom-installation-ulster-county-ny, door-buzzer-repair-ulster-county-new-york, door-buzzer-installation-ulster-county-ny, access-control-installation-ulster-county, elevator-access-control-installation-ulster-county, security-camera-installation-ulster-county-ny, fire-alarm-installation-ulster-county-ny, structured-cabling-installation-ulster-county, alarm-installation-ulster-county. | for a future build |
+
+### Question register (this page)
+None — no page was written, so no Q&A or FAQ questions were used. Nothing to add to the silo register.
+
+### Images
+None copied (stopped before the image step).

@@ -439,14 +439,14 @@ LIVE | co-op-security-systems-staten-island | Co-op Security Systems | Staten Is
 LIVE | co-op-security-systems-long-island | Co-op Security Systems | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | co-op-security-systems-hudson-valley | Co-op Security Systems | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 LIVE | co-op-security-systems-nassau-county | Co-op Security Systems | Nassau | up /co-op-security-systems-long-island | (516) 346-5778 | GBP Brooklyn
-BUILDING 2026-11-26T18:17Z max-daily | co-op-security-systems-suffolk-county | Co-op Security Systems | Suffolk | up /co-op-security-systems-long-island | (631) 407-2884 | GBP Brooklyn
-BUILDING 2026-11-26T18:17Z max-daily | co-op-security-systems-westchester-county | Co-op Security Systems | Westchester | up /co-op-security-systems-hudson-valley | (914) 877-2578 | GBP Bronx
-BUILDING 2026-11-26T18:17Z max-daily | co-op-security-systems-rockland-county | Co-op Security Systems | Rockland | up /co-op-security-systems-hudson-valley | (845) 640-3835 | GBP Bronx
+LIVE | co-op-security-systems-suffolk-county | Co-op Security Systems | Suffolk | up /co-op-security-systems-long-island | (631) 407-2884 | GBP Brooklyn
+LIVE | co-op-security-systems-westchester-county | Co-op Security Systems | Westchester | up /co-op-security-systems-hudson-valley | (914) 877-2578 | GBP Bronx
+LIVE | co-op-security-systems-rockland-county | Co-op Security Systems | Rockland | up /co-op-security-systems-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | co-op-security-systems-orange-county | Co-op Security Systems | Orange | up /co-op-security-systems-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | co-op-security-systems-putnam-county | Co-op Security Systems | Putnam | up /co-op-security-systems-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | co-op-security-systems-dutchess-county | Co-op Security Systems | Dutchess | up /co-op-security-systems-hudson-valley | (845) 640-3835 | GBP Bronx
-BUILDING 2026-11-26T18:17Z max-daily | co-op-security-systems-ulster-county | Co-op Security Systems | Ulster | up /co-op-security-systems-hudson-valley | (845) 640-3835 | GBP Bronx
-BUILDING 2026-11-26T18:17Z max-daily | co-op-board-intercom-upgrade | Guide: Co-op Board Intercom Upgrade | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+HOLD-THIN Ulster has no existing housing co-op: county calls the unbuilt 15-unit 21 Elizabeth St Kingston project its first co-op (2025); OneKey 1 co-op sale/12 mo, 0 inventory (Q3 2026); revisit when occupied (~2028) | co-op-security-systems-ulster-county | Co-op Security Systems | Ulster | up /co-op-security-systems-hudson-valley | (845) 640-3835 | GBP Bronx
+LIVE | co-op-board-intercom-upgrade | Guide: Co-op Board Intercom Upgrade | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | condo-security-systems-nyc | Condo Security Systems | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | condo-security-systems-manhattan | Condo Security Systems | Manhattan | up /condo-security-systems-nyc | (929) 560-0737 | GBP Bronx
 TODO | condo-security-systems-brooklyn | Condo Security Systems | Brooklyn | up /condo-security-systems-nyc | (347) 934-8335 | GBP Brooklyn
