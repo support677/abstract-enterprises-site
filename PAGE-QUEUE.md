@@ -450,9 +450,9 @@ LIVE | co-op-board-intercom-upgrade | Guide: Co-op Board Intercom Upgrade | NYC 
 LIVE | condo-security-systems-nyc | Condo Security Systems | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | condo-security-systems-manhattan | Condo Security Systems | Manhattan | up /condo-security-systems-nyc | (929) 560-0737 | GBP Bronx
 LIVE | condo-security-systems-brooklyn | Condo Security Systems | Brooklyn | up /condo-security-systems-nyc | (347) 934-8335 | GBP Brooklyn
-TODO | condo-security-systems-queens | Condo Security Systems | Queens | up /condo-security-systems-nyc | (347) 434-6392 | GBP Bronx
-TODO | condo-security-systems-bronx | Condo Security Systems | Bronx | up /condo-security-systems-nyc | (646) 490-0629 | GBP Bronx
-TODO | condo-security-systems-staten-island | Condo Security Systems | Staten Island | up /condo-security-systems-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-26T18:46:28-05:00 | condo-security-systems-queens | Condo Security Systems | Queens | up /condo-security-systems-nyc | (347) 434-6392 | GBP Bronx
+BUILDING 2026-11-26T18:46:28-05:00 | condo-security-systems-bronx | Condo Security Systems | Bronx | up /condo-security-systems-nyc | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-26T18:46:28-05:00 | condo-security-systems-staten-island | Condo Security Systems | Staten Island | up /condo-security-systems-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | condo-security-systems-long-island | Condo Security Systems | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | condo-security-systems-hudson-valley | Condo Security Systems | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | condo-security-systems-nassau-county | Condo Security Systems | Nassau | up /condo-security-systems-long-island | (516) 346-5778 | GBP Brooklyn
