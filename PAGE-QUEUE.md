@@ -447,9 +447,9 @@ LIVE | co-op-security-systems-putnam-county | Co-op Security Systems | Putnam | 
 LIVE | co-op-security-systems-dutchess-county | Co-op Security Systems | Dutchess | up /co-op-security-systems-hudson-valley | (845) 640-3835 | GBP Bronx
 HOLD-THIN Ulster has no existing housing co-op: county calls the unbuilt 15-unit 21 Elizabeth St Kingston project its first co-op (2025); OneKey 1 co-op sale/12 mo, 0 inventory (Q3 2026); revisit when occupied (~2028) | co-op-security-systems-ulster-county | Co-op Security Systems | Ulster | up /co-op-security-systems-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | co-op-board-intercom-upgrade | Guide: Co-op Board Intercom Upgrade | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | condo-security-systems-nyc | Condo Security Systems | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | condo-security-systems-manhattan | Condo Security Systems | Manhattan | up /condo-security-systems-nyc | (929) 560-0737 | GBP Bronx
-TODO | condo-security-systems-brooklyn | Condo Security Systems | Brooklyn | up /condo-security-systems-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-26T17:52:58-05:00 | condo-security-systems-nyc | Condo Security Systems | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-26T17:52:58-05:00 | condo-security-systems-manhattan | Condo Security Systems | Manhattan | up /condo-security-systems-nyc | (929) 560-0737 | GBP Bronx
+BUILDING 2026-11-26T17:52:58-05:00 | condo-security-systems-brooklyn | Condo Security Systems | Brooklyn | up /condo-security-systems-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | condo-security-systems-queens | Condo Security Systems | Queens | up /condo-security-systems-nyc | (347) 434-6392 | GBP Bronx
 TODO | condo-security-systems-bronx | Condo Security Systems | Bronx | up /condo-security-systems-nyc | (646) 490-0629 | GBP Bronx
 TODO | condo-security-systems-staten-island | Condo Security Systems | Staten Island | up /condo-security-systems-nyc | (347) 934-8335 | GBP Brooklyn
