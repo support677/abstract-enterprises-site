@@ -2,3 +2,4 @@
 Date | Service site | Page | Page URL | Site page
 # 2026-11-24: NOT BUILT. Scheduled cloud run has no access to Anwar's computer, so Claude in Chrome (support@ browser) was not reachable. New Google Sites has no API. Needs a run with 'Require this computer' on, or a live session with Chrome connected.
 # 2026-11-25: NOT BUILT. Scheduled cloud run has no access to Anwar's computer, so Claude in Chrome (support@ browser) was not reachable. Needs 'Require this computer' on for this task, or a live session with Chrome connected.
+# 2026-11-26: NOT BUILT. Scheduled cloud run has no access to Anwar's computer, so Claude in Chrome (support@ browser) was not reachable. Needs 'Require this computer' on for this task, or a live session with Chrome connected.
