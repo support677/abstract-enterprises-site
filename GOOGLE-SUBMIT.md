@@ -132,6 +132,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 
 2026-11-25 evening (scheduled, 01:52 UTC Nov 26, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2701 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-26T01:51:33Z, 3123 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2031 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected alarm-installation-spuyten-duyvil-bronx-ny (URL is not on Google; Crawled - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at alarm-installation-spuyten-duyvil-bronx-ny.
 
+2026-11-26 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 0 indexed, 0 failed, 2689 queued. All requested URLs were Crawled - currently not indexed. "Quota Exceeded" on the 12th request (alarm-installation-wyckoff-heights-brooklyn-ny), which stays QUEUED; next run starts there.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-11-15 (Anwar): CCTV INSTALLATION HUBS GO FIRST — above every other line in this file. Big gap: 256 CCTV searches, 15,522 impressions, 4 clicks, no CCTV page. The builder adds each cctv-installation-* hub here as QUEUED the moment it ships; the morning Request-indexing run requests these before anything else. Only request a URL that returns 200. -->
@@ -741,17 +743,17 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-manhattan-beach-brooklyn-ny | REQUESTED 2026-11-25
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-mapleton-brooklyn-ny | INDEXED 2026-11-25
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-marine-park-brooklyn-ny | REQUESTED 2026-11-25
-2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-spuyten-duyvil-bronx-ny | QUEUED
-2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-starrett-city-brooklyn-ny | QUEUED
-2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-sunset-park-brooklyn-ny | QUEUED
-2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-sea-gate-brooklyn-ny | QUEUED
-2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-south-slope-brooklyn-ny | QUEUED
-2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-spring-creek-brooklyn-ny | QUEUED
-2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-tremont-bronx-ny | QUEUED
-2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-vinegar-hill-brooklyn-ny | QUEUED
-2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-weeksville-brooklyn-ny | QUEUED
-2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-williamsburg-brooklyn-ny | QUEUED
-2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-wingate-brooklyn-ny | QUEUED
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-spuyten-duyvil-bronx-ny | REQUESTED 2026-11-26
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-starrett-city-brooklyn-ny | REQUESTED 2026-11-26
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-sunset-park-brooklyn-ny | REQUESTED 2026-11-26
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-sea-gate-brooklyn-ny | REQUESTED 2026-11-26
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-south-slope-brooklyn-ny | REQUESTED 2026-11-26
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-spring-creek-brooklyn-ny | REQUESTED 2026-11-26
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-tremont-bronx-ny | REQUESTED 2026-11-26
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-vinegar-hill-brooklyn-ny | REQUESTED 2026-11-26
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-weeksville-brooklyn-ny | REQUESTED 2026-11-26
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-williamsburg-brooklyn-ny | REQUESTED 2026-11-26
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-wingate-brooklyn-ny | REQUESTED 2026-11-26
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-wyckoff-heights-brooklyn-ny | QUEUED
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-bedford-stuyvesant-brooklyn-ny | QUEUED
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-belmont-bronx-ny | QUEUED
