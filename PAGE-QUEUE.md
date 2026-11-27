@@ -2256,6 +2256,38 @@ TODO | burglar-alarm-installation-orange-county | Burglar Alarm Installation | O
 TODO | burglar-alarm-installation-putnam-county | Burglar Alarm Installation | Putnam | up /burglar-alarm-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | burglar-alarm-installation-dutchess-county | Burglar Alarm Installation | Dutchess | up /burglar-alarm-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | burglar-alarm-installation-ulster-county | Burglar Alarm Installation | Ulster | up /burglar-alarm-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | smart-home-installation-nyc | Smart Home Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | smart-home-installation-long-island | Smart Home Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | smart-home-installation-hudson-valley | Smart Home Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+TODO | smart-home-installation-manhattan | Smart Home Installation | Manhattan | up /smart-home-installation-nyc | (929) 560-0737 | GBP Bronx
+TODO | smart-home-installation-brooklyn | Smart Home Installation | Brooklyn | up /smart-home-installation-nyc | (347) 934-8335 | GBP Brooklyn
+TODO | smart-home-installation-queens | Smart Home Installation | Queens | up /smart-home-installation-nyc | (347) 434-6392 | GBP Bronx
+TODO | smart-home-installation-bronx | Smart Home Installation | Bronx | up /smart-home-installation-nyc | (646) 490-0629 | GBP Bronx
+TODO | smart-home-installation-staten-island | Smart Home Installation | Staten Island | up /smart-home-installation-nyc | (347) 934-8335 | GBP Brooklyn
+TODO | smart-home-installation-nassau-county | Smart Home Installation | Nassau | up /smart-home-installation-long-island | (516) 346-5778 | GBP Brooklyn
+TODO | smart-home-installation-suffolk-county | Smart Home Installation | Suffolk | up /smart-home-installation-long-island | (631) 407-2884 | GBP Brooklyn
+TODO | smart-home-installation-westchester-county | Smart Home Installation | Westchester | up /smart-home-installation-hudson-valley | (914) 877-2578 | GBP Bronx
+TODO | smart-home-installation-rockland-county | Smart Home Installation | Rockland | up /smart-home-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | smart-home-installation-orange-county | Smart Home Installation | Orange | up /smart-home-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | smart-home-installation-putnam-county | Smart Home Installation | Putnam | up /smart-home-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | smart-home-installation-dutchess-county | Smart Home Installation | Dutchess | up /smart-home-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | smart-home-installation-ulster-county | Smart Home Installation | Ulster | up /smart-home-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | video-surveillance-installation-nyc | Video Surveillance Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | video-surveillance-installation-long-island | Video Surveillance Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | video-surveillance-installation-hudson-valley | Video Surveillance Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+TODO | video-surveillance-installation-manhattan | Video Surveillance Installation | Manhattan | up /video-surveillance-installation-nyc | (929) 560-0737 | GBP Bronx
+TODO | video-surveillance-installation-brooklyn | Video Surveillance Installation | Brooklyn | up /video-surveillance-installation-nyc | (347) 934-8335 | GBP Brooklyn
+TODO | video-surveillance-installation-queens | Video Surveillance Installation | Queens | up /video-surveillance-installation-nyc | (347) 434-6392 | GBP Bronx
+TODO | video-surveillance-installation-bronx | Video Surveillance Installation | Bronx | up /video-surveillance-installation-nyc | (646) 490-0629 | GBP Bronx
+TODO | video-surveillance-installation-staten-island | Video Surveillance Installation | Staten Island | up /video-surveillance-installation-nyc | (347) 934-8335 | GBP Brooklyn
+TODO | video-surveillance-installation-nassau-county | Video Surveillance Installation | Nassau | up /video-surveillance-installation-long-island | (516) 346-5778 | GBP Brooklyn
+TODO | video-surveillance-installation-suffolk-county | Video Surveillance Installation | Suffolk | up /video-surveillance-installation-long-island | (631) 407-2884 | GBP Brooklyn
+TODO | video-surveillance-installation-westchester-county | Video Surveillance Installation | Westchester | up /video-surveillance-installation-hudson-valley | (914) 877-2578 | GBP Bronx
+TODO | video-surveillance-installation-rockland-county | Video Surveillance Installation | Rockland | up /video-surveillance-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | video-surveillance-installation-orange-county | Video Surveillance Installation | Orange | up /video-surveillance-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | video-surveillance-installation-putnam-county | Video Surveillance Installation | Putnam | up /video-surveillance-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | video-surveillance-installation-dutchess-county | Video Surveillance Installation | Dutchess | up /video-surveillance-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | video-surveillance-installation-ulster-county | Video Surveillance Installation | Ulster | up /video-surveillance-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 
 ## NEIGHBORHOODS (later - not taken by the daily run until moved above this heading)
 
