@@ -3812,3 +3812,6 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-27 | https://www.abstractenterprisessecuritysystems.com/co-op-security-camera-installation-queens | QUEUED
 2026-11-27 | https://www.abstractenterprisessecuritysystems.com/co-op-security-camera-installation-bronx | QUEUED
 2026-11-27 | https://www.abstractenterprisessecuritysystems.com/co-op-security-camera-installation-staten-island | QUEUED
+2026-11-27 | https://www.abstractenterprisessecuritysystems.com/co-op-security-camera-installation-long-island | QUEUED
+2026-11-27 | https://www.abstractenterprisessecuritysystems.com/co-op-security-camera-installation-hudson-valley | QUEUED
+2026-11-27 | https://www.abstractenterprisessecuritysystems.com/co-op-security-camera-installation-nassau-county | QUEUED
