@@ -1612,3 +1612,7 @@ Format: `YYYY-MM-DD | <slug> | PASS pushed <short-sha> | <words> words | <notes>
 2026-11-27 | property-management-security-brooklyn | PASS (chat PM batch 2) | 12528 words | $250 start; 11 Reolink partner photos; Atlantic Plaza Towers named as a 2019 news example (not client) | 390px not run
 2026-11-27 | property-management-security-queens | PASS (chat PM batch 2) | 13710 words | $250 start; 11 Reolink partner photos (5 recorders) | CONFIRM (Anwar): "AI receptionist answers around the clock" wording; package lockers — we don't sell them; 390px not run
 2026-11-27 | property-management-security-bronx | PASS (chat PM batch 2) | 13006 words | $250 start; 11 Reolink partner photos | CONFIRM (Anwar): tech photographs each repair for the manager's HPD certification file; 390px not run
+- 2026-11-27 LIVE: property-management-security-staten-island, -long-island, -hudson-valley. Linked from the 5 city PM pages, co-op/condo security systems, apartment camera and intercom-installation pages for each area.
+- 2026-11-27 CONFIRM (Anwar): SI PM page repeats the SI $165–$330 diagnostic and 10% surcharge from older SI pages — keep or remove?
+- 2026-11-27 CONFIRM (Anwar): LI PM page cites ~8,100 rent-stabilized units in Nassau from a search excerpt — verify or cut.
+- 2026-11-27 CONFIRM (Anwar): HV PM page says crews head north from the Bronx office, mentions winter wireless links, conduit before repaving and plow-damaged call boxes — confirm these match how you work.

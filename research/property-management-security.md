@@ -331,3 +331,255 @@ Checked by meaning against NYC + Manhattan registers above, the parallel Brookly
 
 ### Images (11, permanent image rule)
 No unused real job photos remained: every candidate real photo in the library (lobby ceiling cameras, corridors, fascia domes, cable racks) matched an image already in the co-op/condo/apartment-camera/PM folders (ORB + correlation + visual check), and the one distinct rack photo looked AI-generated, so not used. All 11 are Reolink (authorized partner) manufacturer product photos fetched from reolink.com/us/product/* pages (models: Video Doorbell WiFi, RLC-843A, Duo 3V PoE, FE-P, CX820, Home Hub Pro drive + hub, RLC-1240A (cropped, memory-card door), RLN16-410 (cropped recorder), RLC-81PA, RLC-840A; two RLC-1212A bullets were dropped because the parallel Brooklyn page used a near-identical shot). Each checked by sha256, dHash, ORB feature matching and correlation, plus visual side-by-side, against images/property-management-security/* (incl. parallel Brooklyn/Queens files present at build time, rechecked after they appeared), co-op-security-systems, condo-security-systems, co-op-security-camera-installation, condo-security-camera-installation, apartment-building-security-camera-installation. Captions say "partner product photo" and describe only what is visible. Lorex CDN and Luminys not reachable from the build env.
+
+
+## Staten Island (property-management-security-staten-island) — built 2026-11-27, batch subagent (part file; merge into research/property-management-security.md)
+
+Phone (347) 934-8335 · GBP Brooklyn (1282 Troy Ave, `#brooklyn`) · start price $250 service call (START_PRICES). Other prices only as already published on Staten Island pages (listed below). Angle: house-based portfolios (two-family rentals), garden complexes, lots/driveways/detached garages, storm and flood placement of support gear, North Shore apartment buildings and Bay Street corridor; the MDL "three or more families" line decides which entry/TDPA rules reach a property.
+
+HOLD-THIN test: passed. Staten Island rental stock is measurably different (MapPLUTO: 31,505 two-family lots vs 83 elevator lots), so the page is written around houses, lots and garages rather than lobbies. Kept apart from co-op-security-systems-staten-island (garden co-ops, Mitchell-Lama, shareholder issues), condo-security-systems-staten-island (townhouse HOAs, gates, pools) and apartment-building-security-camera-installation-staten-island (camera prices/coverage).
+
+### Research matrix (format: exact query · platform · URL · finding · page + section used)
+| # | Exact query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| SIPM-1 | SODA `$select=bldgclass,count(*) as n,sum(unitsres) as u&$where=borough='SI' AND (starts_with(bldgclass,'B') OR starts_with(bldgclass,'C') OR starts_with(bldgclass,'D') OR starts_with(bldgclass,'S'))&$group=bldgclass` · NYC Open Data MapPLUTO (64uk-42ks) via Firecrawl scrape (raw JSON), Nov 27 2026 | https://data.cityofnewyork.us/resource/64uk-42ks.json (dataset https://data.cityofnewyork.us/City-Government/Primary-Land-Use-Tax-Lot-Output-PLUTO-/64uk-42ks) | Two-family B1/B2/B3/B9 = 1,512+20,141+2,879+6,973 = 31,505 lots, 63,010 units; C0 three-family 873 lots/2,619 u; C2 131/733 + C3 400/1,600 = 531 lots/2,333 u; C9 garden apartments 86/3,032; C1 125/1,927; C6 24/901; C7 25/333; elevator D0–D9 = 83 lots/13,585 u (avg ~164); mixed-use S0–S9 = 1,267 lots/2,237 u. | §5 para 1, facts list |
+| SIPM-2 | `NYC Department of Finance building classification codes C0 three families C9 garden apartments B2 two family` · Firecrawl search (excerpt) | https://www.nyc.gov/assets/finance/jump/hlpbldgcode.html | DOF codes: B two-family dwellings; C0 three families; C9 garden apartments (class definitions for SIPM-1). | §5 facts list |
+| SIPM-3 | `New York Multiple Dwelling Law section 4 definition "multiple dwelling" three or more families living independently` · Firecrawl search (excerpt) | https://www.nyc.gov/assets/buildings/pdf/MultipleDwellingLaw.pdf | MDL §4(7): multiple dwelling = "occupied as the residence or home of three or more families living independently of each other". | §5 para 3 (quote); Rented Houses para 5; Q&A 1; AI check #1 |
+| SIPM-4 | `HPD property registration one- and two-family homes owner does not reside required register` · Firecrawl search (excerpts) | https://www.nyc.gov/assets/hpd/downloads/pdfs/services/abcs-of-housing-owners.pdf ; https://www.nyc.gov/site/hpd/services-and-information/register-your-property.page | Registration annually for 3+ unit buildings and 1–2 family homes if neither owner nor owner's immediate family resides there. | §5 para 3; facts list; Q&A 1 |
+| SIPM-5 | `silive Staten Island car break-ins thefts driveways garages 2025 police precinct` · Firecrawl search → Firecrawl scrape (directQuote) | https://www.silive.com/crime-safety/2026/07/staten-island-car-thefts-spike-47-in-2026-heres-what-law-enforcement-is-doing-about-it.html | SILive, Maura Grunlund, July 24 2026: thefts up ~47%, "163 incidents this year through July 19 compared to 111 incidents during the same time period last year" (NYPD CompStat); up 65% over prior four weeks; slowing July 13–19. | Lots & Garages para 1 (quote); Q&A "car thefts" |
+| SIPM-6 | `Staten Island buildings in floodplain number of buildings 100-year flood zone NYC Planning Resilient Neighborhoods East Shore` · Firecrawl search (excerpt; full PDF query failed) | https://www.nyc.gov/assets/em/downloads/pdf/hazard_mitigation/risklandscape2.0_2019_r2_digital_lowres.pdf | NYCEM Risk Landscape 2.0 excerpt: 1% annual chance floodplain includes 67,600 buildings (~175,000 residential units); high-risk areas concentrated on Staten Island's East Shore and parts of Brooklyn and Queens. | §5 facts list |
+| SIPM-7 | reused co-op SI row SI-W1 | https://www.nad.usace.army.mil/Media/News-Releases/Article/3928401/seawall-will-raise-quality-of-life-for-shore-communities/ | "Sandy resulted in 24 deaths on Staten Island, more than any other borough"; "nearly 7,300 residential and commercial properties"; seawall Fort Wadsworth to Oakwood Beach. | Storms section para 1 (quotes); landmark card 6 |
+| SIPM-8 | reused apartment-building camera SI row (City Limits) | https://citylimits.org/2019/06/26/council-approves-bay-street-rezoning-the-sixth-under-de-blasios-housing-plan/ | Council approved Bay Street Corridor rezoning June 26 2019; ~20 blocks of the North Shore; ~1,800 new units incl. ~1,300 income-targeted; Stapleton and Tompkinsville. | North Shore para 1; landmark card 2 |
+| SIPM-9 | reused silo S8 / co-op SI-H1 | https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/wvxf-dwi5 | 2025 HPD violations mentioning intercom: Staten Island 24, Bronx 1,637. | §5 para 4 |
+| SIPM-10 | reused silo S6 + Manhattan HPD TDPL row | https://intro.nyc/local-laws/2021-63 ; https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page | TDPL: smart access in class A MDs; policy, consent, no sale, deletion deadlines, cannot require smart access for own unit. | Access Control para 3; Q&A rekeying |
+| SIPM-11 | reused silo S7, S2, S9, S10, S11; co-op SI-G2 | MDL §50-a (nysenate); 28 RCNY §25-101 (amlegal); NYC BC §1010.1.9 (amlegal 0-0-0-173505); Admin Code §28-105.4.7; cooperatornews.com/article/qa-camera-placement; GBL §69-m (nysenate) | As recorded in silo/co-op rows. | Commercial compliance list; Alarms/cabling para 2; Occupied Rentals; AI check #7 |
+| SIPM-12 | landmark geography (no counts beyond cited rows; no buildings named) | — | St. George Ferry Terminal; Bay Street/Stapleton/Tompkinsville; Forest Ave/Port Richmond; Staten Island Mall/Richmond Ave (Heartland Village, New Springville); New Dorp Lane/Hylan Blvd; Midland Beach/East Shore seawall. Commercial corridors: Bay St, Victory Blvd, Forest Ave, Richmond Ave, Hylan Blvd, New Dorp Lane, Richmond Rd. | §13 cards; §8 list |
+| R1 | Reddit / Google PAA / PASF / Answer the Public / AI Overview / Yelp 1–3★ / Bing–DDG | — | EMPTY (not accessible in build env). AI Reality Check corrects claims typical of national guides and consumer marketing; no AI quote invented. | — |
+| R2 | Hyperlocal beyond SILive (SI Advance print, Patch, News12 SI) | — | EMPTY (not searched separately) | — |
+
+### Prices used (all already published on Staten Island pages)
+- $250 service call — START_PRICES; /door-buzzer-repair-staten-island-new-york.
+- Station $250–$525 · relay/button $250–$475 · transformer $325–$650 · strike with alignment $450–$950 · panel $650–$1,800 · riser $850–$2,400 — /door-buzzer-repair-staten-island-new-york.
+- Building intercom 5–20 units $1,200–$4,500+ — /intercom-installation-staten-island-ny.
+- Pedestrian gate keypad $1,500–$2,000 · combined vehicle + pedestrian gate $4,000–$7,000 — /access-control-installation-staten-island.
+- Elevator Level 1 from $1,650/car, Level 2 from $2,750/car — /elevator-access-control-installation-staten-island.
+- Four-camera installed from $999 — /security-camera-pricing-staten-island (A1).
+- Cabling $150–$300 per drop — /structured-cabling-installation-staten-island.
+- Monitoring $30/mo keypad, $45/mo app — /alarm-installation-staten-island.
+- No maintenance-contract, package, per-unit or fire alarm prices. Not used: /intercom-repair-staten-island ranges (they differ from the buzzer repair page).
+
+### Question register additions (property-management-security-staten-island)
+Checked by meaning against the NYC, Manhattan, Brooklyn, Queens and Bronx PM registers above and the Staten Island co-op and condo question sets (avoided: one-app viewing, vacancy protection, parking-lot "what should cameras see", plate reading, recorder near the shore, salt air, weekend work, tenant calls, financing, vendor setup, COI, slope cameras, police footage, photos-only quotes, light-pole mounts, one fob for gate/pool). Parallel Long Island / Hudson Valley drafts were not on disk at build time — the main run should re-check.
+- Q&A: Which entry rules apply to a two-family house, and which only begin at three apartments?
+- Q&A: Once the owner moves out of a two-family and both floors are rented, what should change?
+- Q&A: The basement apartment has its own side door. Should it get its own doorbell and camera?
+- Q&A: Rekeying every time a tenant leaves one of our houses is getting expensive. What are the options?
+- Q&A: Tenants keep putting up their own doorbell cameras on our houses. Should we allow it?
+- Q&A: Does a camera aimed down a driveway shared with the neighbor's house cause problems?
+- Q&A: Our complex has a row of detached garages with no power or internet. Can they be covered?
+- Q&A: Car thefts are up on Staten Island this year. What can cameras on a rental lot really do?
+- Q&A: Keypad codes or fobs: which suits a garden building with several small entrances?
+- Q&A: Battery cameras on our frame houses keep dying in winter. Should they be wired instead?
+- Q&A: We bought a building that came with the old owner's alarm still under contract. Can we take it over or replace it?
+- Q&A: One of our North Shore buildings faces a busy sidewalk. Should the entry panel sit at the street or inside the vestibule?
+- Q&A: We just took over management of a property from its owner. Which security items should be checked first?
+- Q&A: Should each apartment in a two-family get its own alarm, or should the house share one?
+- FAQ: Which office sends technicians to Staten Island properties?
+- FAQ: Do you work for owners who manage one or two rental houses themselves?
+- FAQ: Can you mount cameras and doorbells on vinyl or aluminum siding without causing leaks?
+- FAQ: Do you work on houses that were raised after Hurricane Sandy?
+- FAQ: Can our rental office's own door get a reader and a camera?
+- FAQ: Can the owner see the outdoor cameras while each tenant sees only their own doorbell?
+- FAQ: Can our houses have cameras without a monthly subscription?
+- FAQ: A tenant cannot hear the doorbell from the top floor. Can a second chime or a light be added?
+- FAQ: Will you come out for one doorbell or one camera at a single house?
+- FAQ: Can you add lighting where our yards and lots are too dark for cameras?
+
+### Images (11, permanent image rule — partner Reolink product photos; no unused real job photos, same finding as the Brooklyn/Queens/Bronx PM builds)
+Pulled from reolink.com/us/product/* pages (home-cdn.reolink.us), flattened on white, WebP q80, max 1600px. Candidates checked by sha256 (none in the repo), ORB/RANSAC inliers and dHash against images/property-management-security/*, co-op-security-systems/*, condo-security-systems/*, co-op-security-camera-installation/*, condo-security-camera-installation/*, apartment-building-security-camera-installation/*, plus visual side-by-side. Rejected as already used there (inliers 128–700): RLC-520A dome, RLN8-410 kit, RLC-810A, RLC-820A, RLC-823S2 pendant, RLC-830A, RLC-833A; also dropped Video Doorbell 2nd Gen and Home Hub 2 (look-alikes of doorbell/hub shots on the Bronx/Brooklyn PM pages). Kept (max inliers ≤ 31):
+| File (images/property-management-security/) | Source product | Where |
+|---|---|---|
+| …-staten-island-dual-lens-camera-under-dark-eave-over-lawn.webp | Omvi 3i PoE lifestyle | hero (eager), og/twitter |
+| …-staten-island-black-battery-camera-front-view.webp | Argus 3 Pro | §5 |
+| …-staten-island-battery-bullet-camera-with-spotlight.webp | Argus Eco Ultra (og:image) | Rented Houses |
+| …-staten-island-white-pan-tilt-camera-with-antenna-and-spotlight.webp | Argus PT Ultra product (swapped from Omvi 3i product shot, which the parallel Hudson Valley page also used) | Intercoms |
+| …-staten-island-compact-pan-tilt-camera-on-wall-bracket.webp | TrackFlex WiFi product | Access Control |
+| …-staten-island-pan-tilt-camera-with-solar-panel-on-roof-edge.webp | Argus PT Ultra lifestyle | Lots & Garages |
+| …-staten-island-pan-tilt-camera-under-eave-at-sunset.webp | TrackFlex WiFi lifestyle | Storms |
+| …-staten-island-small-white-network-video-recorder.webp | RLN4E | Alarms & Infrastructure |
+| …-staten-island-solar-pan-tilt-camera-on-white-side-wall.webp | Argus PT Ultra lifestyle | Building Specialists |
+| …-staten-island-four-pan-tilt-cameras-with-recorder-and-cable-reels.webp | RLK8-800PT4 | Commercial |
+| …-staten-island-bullet-camera-with-solar-panel-on-top.webp | Argus Solar | Seasonal checklist |
+DAILY-LOG note: `images: 11 partner (Reolink) product photos via reolink.com (no unused real property-management photos)`.
+
+### FLIPs on the page (plain text + comment)
+/property-management-security-nassau-county, -suffolk-county, -westchester-county, -rockland-county, -orange-county, -putnam-county, -dutchess-county, -ulster-county; /apartment-building-security-systems-staten-island. Direct links (built in parallel): /property-management-security-long-island, /property-management-security-hudson-valley.
+
+
+## Long Island (property-management-security-long-island) — built 2026-11-27, batch subagent (part file; merge into research/property-management-security.md)
+
+Hub page: Nassau + Suffolk · phone (800) 486-0943 only · GBP Brooklyn (`#brooklyn`, 1282 Troy Ave) · up-link / (Home) · start price $250 service call (START_PRICES). Thesis (kept apart from co-op LI = garden co-ops/board law, and condo LI = gatehouses/55+/HOA layering): horizontal rental portfolios — garden-apartment complexes with many entrances, LIRR station-area rentals, village mixed-use downtowns, small multifamily under town rental permits; distance (100 m cable limit, links between buildings), county alarm permits, town rental permits, ETPA in Nassau, NYC rules not applying.
+
+### Research matrix
+| # | Exact query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| LIP1 | `Town of Islip rental permit requirements landlord rental property permit` · WebSearch → WebFetch | https://ecode360.com/11752170 | Town of Islip Code ch. 68 (added 5-22-2007): owner needs a rental occupancy permit; on-site inspection by Code Enforcement; permit valid two years, renewal filed 60 days ahead; CO alarm requirements (UL 2034). | §5 facts list; §7 small multifamily; Q&A rental-permit inspection; §8 permits |
+| LIP2 | `Town of Brookhaven rental permit Chapter 76 rental dwelling permit requirements` · WebSearch → WebFetch | https://ecode360.com/8596302 | Brookhaven rental registration (sections numbered §82-x; chapter title not shown): registration before rental occupancy; inspection within 90 days of temporary registration by Chief Building Inspector or licensed engineer/architect/certified home inspector; smoke detector + CO alarms; valid 15 months. | same as LIP1 |
+| LIP3 | `Nassau County rent guidelines board 2026 rent stabilized units Nassau ETPA villages number of apartments` · Firecrawl search (excerpt) | https://therealdeal.com/new-york/tristate/2026/06/25/nassau-rent-board-oks-modest-increases-for-regulated-units/ | "apply to the county's roughly 8,100 rent-stabilized units" (rates effective Oct. 1). Full article fetch failed (client_error); excerpt only. | §5 facts list |
+| LIP4 | same search (excerpt) | https://hcr.ny.gov/rent-stabilization-and-emergency-tenant-protection-act | Municipalities adopt ETPA after a vacancy study of residential properties with six or more units built before Jan 1, 1974. | §5 facts list; §8 rent-stabilized H3; Q&A removed (overlap with HV) |
+| LIP5 | `Long Island apartments near LIRR station transit-oriented development Mineola Farmingdale Patchogue units built Newsday` · Firecrawl search (excerpts) | https://www.newsday.com/real-estate/mineola-apartments-eden-blue-jse0fb11 | Jonathan LaMantia, Sept 23 2026: 172-unit Eden Blue, short walk from Mineola LIRR; "more than 1,100 rental units have opened since 2010 and approximately 1,000 more are planned" (Mayor Paul Pereira); developer Pergament quote "The model of Mineola will eventually grow in other villages and towns." | §5 para 3 (real quote), facts list, §13 Mineola card |
+| LIP6 | same search | https://www.newsday.com/real-estate/baldwin-apartments-sunrise-highway-qcszqqes | LaMantia, Nov 23 2026: One Harrison, 215-unit building in Baldwin near the train station, construction started, opens mid-2028. (Building name NOT used.) | §5 para 3; §13 Baldwin card |
+| LIP7 | same search | https://www.newsday.com/business/patchogue-carriage-house-luxury-apartments-wbz7wtrl | 262-unit development on West Main Street, Patchogue, half a mile from the train station. (Name NOT used.) | §5 para 3; §13 Patchogue card |
+| LIP8 | `Suffolk County Police false alarm registration alarm permit fee Suffolk County code alarm systems` · Firecrawl search → Firecrawl scrape (directQuote) | https://suffolkpd.org/Precincts-and-Specialized-Units/Specialized-Units/Alarm-Management-Program ; https://ecode360.com/14943946 | Registration $50 residences / $100 commercial; registered locations get two false alarms without a service fee; unregistered charged from first; list of towns/villages not covered (e.g., all of Riverhead, Southampton, East Hampton, Southold, Shelter Island; villages incl. Northport, Amityville, Ocean Beach). Ch. 290: "No alarm owner shall operate an alarm system within the Suffolk County Police District without first obtaining a permit". | §5 facts; §6 alarm H3; Q&A alarm permit + false alarm; AI check #5; compliance list |
+| LIP9 | `Nassau County police alarm permit false alarm ordinance registration fee commercial alarm Nassau County` · Firecrawl search (excerpts) | https://www.pdcn.org/343/Alarm-Permit-Section-Communication-Burea ; https://alarm.pdcn.org/applynewpermit.aspx | Residence $100, business $200, valid two years; "The Nassau County Police are requested to respond to over 125,000 false alarms each year." | same as LIP8 |
+| LIP10 | `Census QuickFacts Nassau County Suffolk County owner-occupied housing unit rate 2020-2024 renter` · Firecrawl search (excerpts) | https://www.census.gov/quickfacts/nassaucountynewyork ; http://censusreporter.org/profiles/31400US3562035004-nassau-county-suffolk-county-ny-metro-division/ | Nassau owner-occupied housing unit rate 2020–2024: 81.9%; Nassau–Suffolk metro division owner occupied 82%. (Suffolk alone not retrieved.) | §5 para 2; facts list |
+| LIP11 | `Nassau County 64 incorporated villages two cities three towns; Suffolk County ten towns villages number` · Firecrawl search (excerpts) | https://www.nassaucountyny.gov/3406/Cities-Towns-Villages ; https://en.wikipedia.org/wiki/Nassau_County,_New_York | "Nassau County there are 2 cities, 3 towns, 64 incorporated villages"; Suffolk's ten towns listed (Babylon … Southold). Suffolk village count not sourced → page says "its own villages" only. | §5 para 4; facts list |
+| LIP12 | Firecrawl scrape (PDF, directQuote) | https://ag.ny.gov/sites/default/files/tenants_rights.pdf | AG tenants' rights guide summarizes MDL §50-a (intercom 8+ apts post-1968; pre-1968 on majority request); warranty of habitability RPL §235-b. | AI check #1 |
+| LIP13 | reused co-op LI rows LI8/LI8b/LI9a (verified there) | https://newyork.public.law/laws/n.y._multiple_residence_law_section_3 ; nysenate MDL §3/§50-a ; https://dos.ny.gov/legal-memorandum-lg03-nys-uniform-fire-prevention-and-building-code-what-elected-officials-need | MRL applies to cities <325,000 and all towns/villages; MDL to cities 325,000+; no MRL intercom requirement found (page makes no such claim); DOS quote "automatically in effect in each city, town, and village in the State (except New York City)". | §5 para 5; §8 permits H3 (quote); compliance list; AI check #1 |
+| LIP14 | reused silo S2, S6, S11, S12 | 28 RCNY §25-101; intro.nyc LL63/2021; cooperatornews camera Q&A; HomeAdvisor intercom cost | City notice rule and TDPA are NYC-only (contrast); audio raises eavesdropping questions; HomeAdvisor normal range $1,200–$8,500. | §6 access; §8 occupied rentals; AI checks #2, #4; compliance list |
+| LIP15 | repo: fire-alarm-installation-long-island-ny + memory rule (no Nassau FM number; Suffolk in scope) | /fire-alarm-installation-long-island-ny | Suffolk via local fire marshal review; Nassau not taken; no fire alarm prices. | §6 fire alarm H3; AI check #6; FAQ #1; compliance list |
+| LIP16 | TIA-568 100 m channel limit (industry standard; also on site's cabling pages) | — | ~100 m (328 ft) between active devices. | §6 cabling H3; Q&A distance; FAQ none |
+| R | Reddit r/longisland / PAA / PASF / Answer the Public / AI Overview / Yelp 1–3★ / Bing–DDG | — | EMPTY (not accessible in build env). Package-theft news search (Firecrawl news) returned nothing usable for LI apartment complexes → not used. AI Reality Check corrects claims typical of national cost guides (Angi/HomeAdvisor/Fixr named generically); no AI quote invented. | — |
+
+### Prices used (all already on Long Island pages)
+- $250 service call — START_PRICES; /door-buzzer-repair-long-island-ny, /intercom-installation-long-island-ny.
+- Station $250–$525 · transformer $325–$650 · strike with alignment $450–$950 · lobby panel $650–$1,800 · riser $850–$2,400 — /door-buzzer-repair-long-island-ny.
+- Multi-unit intercom $1,200–$4,500+ — /intercom-installation-long-island-ny.
+- Single-door reader + strike $1,500–$2,500 installed; gate with vehicle reader + barrier arm $3,500–$12,000 installed — /access-control-installation-long-island.
+- Elevator Level 1 from $1,725/car Nassau, $1,800 Suffolk; Level 2 $2,875 / $3,000 — /elevator-access-control-installation-long-island.
+- Four-camera from $999 Nassau, $1,099 Suffolk — /security-camera-pricing-long-island.
+- Cabling $150–$300 per drop — /structured-cabling-installation-long-island.
+- Monitoring $30/mo keypad, $45/mo app; small-business alarm from $1,500 — /alarm-installation-long-island.
+- NOT used: /intercom-repair-long-island ranges (differ from the buzzer page). No maintenance-contract, package, per-unit or fire alarm prices.
+
+### Question register additions (property-management-security-long-island)
+Checked by meaning against NYC, Manhattan, Brooklyn, Queens, Bronx registers above, and the parallel Staten Island and Hudson Valley pages on disk at check time (dropped/replaced for overlap: vendor split by county vs HV multi-county proposal; far-corner lot camera vs HV lot far from power; garden doors opening outdoors vs HV townhouse doorbell-vs-shared-entry; Nassau ETPA entry change vs HV ETPA lobby upgrade; keypad locks vs SI rekeying; tenant doorbell vs SI/HV tenant doorbells; lighting FAQ vs SI/HV lighting; detached outbuildings FAQ vs SI detached garages; national alarm takeover FAQ vs SI old owner's alarm). Also checked against co-op LI and condo LI question sets.
+- Q&A: Why do camera quotes for our Suffolk properties come out higher than for the Nassau ones?
+- Q&A: Can you survey a property's security systems before our client closes on the purchase?
+- Q&A: The town is inspecting one of our rentals for its rental permit. Does the security equipment come into it?
+- Q&A: Which of our Long Island buildings need an alarm permit, and whose name goes on it?
+- Q&A: Who pays when the police bill a false alarm at a building we manage?
+- Q&A: How far apart can two buildings be before a camera or intercom cable cannot run between them?
+- Q&A: What happens to the old buzzer wiring once a garden building moves to phone-based entry?
+- Q&A: Can the basement laundry room in each garden building be limited to that building's tenants?
+- Q&A: When a vacant apartment is found damaged, can the system show who went into that building?
+- Q&A: What should be working before the first tenants move into a new building near the train station?
+- FAQ: Can you take on fire alarm work for the buildings we manage in Nassau County?
+- FAQ: Do you set up entry systems for senior rental communities on Long Island?
+- FAQ: Do you work in student rentals near campuses such as Stony Brook and Hofstra?
+- FAQ: Can you price a complex from the site plan without walking it?
+- FAQ: Will you work alongside the locksmith our properties already use?
+- FAQ: Is there a volume discount for bringing all of our Long Island properties to you?
+- FAQ: What happens when a panel or reader for one of our properties has to be special-ordered?
+- FAQ: Will you give our owner's insurance carrier a description of the security systems at a property?
+
+### Similarity
+Masked paragraph similarity (difflib, p/li/h3/td ≥12 words, top-5 Jaccard candidates; proof strip, form thank-you and mandated terms sentence excluded): max 0.637 (HV), 0.613 (NYC), 0.608 (co-op LI), 0.571 (Manhattan), 0.566 (condo LI), 0.545 (Queens), 0.538 (apartment-camera LI), 0.529 (SI), 0.521 (Bronx), 0.500 (Brooklyn).
+
+### Images (11, permanent image rule; no Drive/CompanyCam check in this run)
+Library scan: dHash grouping over 11,002 library images; ORB/RANSAC + dHash vs images/property-management-security/* (incl. parallel SI/HV files), co-op-security-systems, condo-security-systems, co-op-security-camera-installation, condo-security-camera-installation, apartment-building-security-camera-installation. Only one unused real job photo found that is not AI-looking or a tiny crop (grey door); the others either matched those folders or looked AI-generated (cat6/staff sets, brick-wall conduit boxes) and were rejected. 10 Reolink (authorized partner) product photos pulled from reolink.com product pages (home-cdn.reolink.us), each with no match (ORB inliers ≤17, sha256 unique). A PTZ speed-dome shot was dropped after it matched condo-security-camera-installation-queens (same product angle) and replaced.
+| File (images/property-management-security/property-management-security-long-island-…) | Source | Where |
+|---|---|---|
+| floodlight-pan-tilt-camera-under-eave-at-dusk (hero, og/twitter) | reolink.com/us/product/trackflex-floodlight-wifi/ gallery | hero |
+| grey-steel-door-at-end-of-tiled-hall | library job photo images/alarm-installation/alarm-installation-fort-hamilton-grey-door-at-end-of-tiled-passage.webp | §5 |
+| dome-camera-with-mounting-screw-and-cable-tab | reolink rlc-520a page (home-cdn, 900x500) | §6 |
+| wifi-bullet-camera-with-antennas-on-blue-siding | reolink rlc-811wa page | §7 |
+| wifi-dome-camera-with-antennas-on-dark-ceiling | reolink rlc-840wa page | §9 |
+| eight-port-poe-switch-with-power-labels | reolink rla-ps1 page | §10 |
+| fisheye-ceiling-camera-front-view | reolink fe-w page | §10 |
+| floodlight-camera-and-open-mounting-box-on-clapboard | reolink trackflex-floodlight-wifi page | §12 |
+| floodlight-camera-on-siding-in-rain | reolink trackflex-floodlight-wifi page | §13 |
+| two-pan-tilt-cameras-with-size-markings | reolink rlc-830a page | §15 |
+| fisheye-camera-side-view-with-numbered-parts | reolink fe-w page | §19 |
+DAILY-LOG note: `images: 10 partner (Reolink) product photos via reolink.com + 1 reused library job photo (no unused real property-management photos)`.
+
+### Links
+- Linked once each: /property-management-security-nyc, -manhattan, -brooklyn, -queens, -bronx, -staten-island, -hudson-valley (all in §19); /co-op-security-systems-long-island, /condo-security-systems-long-island, /apartment-building-security-camera-installation-long-island, /co-op-security-camera-installation-long-island, /condo-security-camera-installation-long-island, /co-op-board-intercom-upgrade, /condo-intercom-replacement; LI service pages: /intercom-installation-long-island-ny, /intercom-repair-long-island, /door-buzzer-repair-long-island-ny, /door-buzzer-installation-long-island-ny, /access-control-installation-long-island, /elevator-access-control-installation-long-island, /apartment-building-security-camera-installation-long-island, /commercial-security-camera-installation-long-island, /security-camera-pricing-long-island, /structured-cabling-installation-long-island, /alarm-installation-long-island, /fire-alarm-installation-long-island-ny, /smart-lock-installation-long-island, /cctv-installation-long-island, /security-cameras-long-island, /warranty, /free-quote, /.
+- FLIP (plain text + comment, §19): /property-management-security-nassau-county, /property-management-security-suffolk-county, /apartment-building-security-systems-long-island.
+- Link backs needed (main run): NYC hub + Manhattan, Brooklyn, Queens, Bronx PM pages (their FLIP comments for -long-island); per keyword rules one contextual link back from /intercom-installation-long-island-ny and /apartment-building-security-camera-installation-long-island.
+
+### Mobile
+Rendered at 390×844 with Playwright (local http.server): scrollWidth 390, no element past the viewport.
+
+
+## Hudson Valley (property-management-security-hudson-valley) — built 2026-11-27, batch subagent (part file; merge into research/property-management-security.md)
+
+Hub page: up-link /, phone (800) 486-0943 only, GBP Bronx (460 E Fordham Rd, `#bronx`), start price $250 service call (START_PRICES). Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page + section used.
+
+Thesis (distinct from the city PM pages and the HV co-op/condo hubs): a management firm's HV list mixes downtown Westchester towers, village walk-ups, garden complexes, townhouse rentals and HOA contracts; distance/routing, grounds/lots far from power, weather (freeze, storms, outages) and suburban rules (MRL, PMCNYS, RPL 235-b, ETPA, county licensing) drive the work.
+
+### Research matrix
+| # | Exact query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| PV1 | `Westchester County rental housing multifamily new apartments downtown White Plains Yonkers New Rochelle units built 2024 2025 report` · WebSearch → WebFetch | https://thebcw.org/wp-content/uploads/2025/01/Westchester_Development_2024.pdf | RM Friedland report (via Business Council of Westchester): ~12,500 residential units delivered since late 2021, ~15,000 under construction; Yonkers, New Rochelle, White Plains, Mount Vernon delivered 9,413 units, 13,114 more under construction | §5 para 3; hero stamp |
+| PV2 | `Emergency Tenant Protection Act municipalities Westchester Yonkers New Rochelle Mount Vernon White Plains Kingston rent stabilization HCR` · WebSearch → WebFetch | https://homes.westchestercountyny.gov/rent-control | 18 ETPA municipalities: Croton, Dobbs Ferry, Eastchester, Greenburgh, Harrison, Hastings, Irvington, Larchmont, Mamaroneck Town, Mount Kisco, Mount Vernon, New Rochelle, Pleasantville, Port Chester, Sleepy Hollow, Tarrytown, White Plains, Yonkers | facts list; building types (ETPA); rules list; Q&A ETPA |
+| PV3 | same search · WebFetch | https://hcr.ny.gov/city-of-kingston-adopts-etpa | Kingston adopted ETPA July 28, 2022; buildings of six or more units built before Jan 1, 1974 | facts list; building types; county table (Ulster) |
+| PV4 | `Property Maintenance Code of New York State "304.18" building security doors deadbolt dwelling units` · Firecrawl search (excerpt) | https://codes.iccsafe.org/content/NYSPMC2025P1/chapter-3-general-requirements (also dos.ny.gov 2020 PMCNYS PDF) | 2025 PMCNYS §304.18: doors, windows, hatchways "shall be provided with devices designed to provide security for the occupants and property within"; §304.18.1 deadbolts on rented units openable from egress side without key, min 1-inch throw, sliding bolt not acceptable | facts list; rules list; Q&A deadbolt (locksmith) |
+| PV5 | WebFetch | https://www.nysenate.gov/legislation/laws/RPP/235-B | RPL §235-b warranty of habitability (premises and areas used in connection fit for habitation, no conditions dangerous to life, health or safety) | facts list; rules list |
+| PV6 | `Orange & Rockland Utilities storm outages customers restored 2026 Rockland Orange County` · WebSearch → WebFetch | https://www.oru.com/en/about-us/media-center/news/2026/07-06/storm-outage-update-restored-power-to-more-than-45k | July 6 2026: >47,000 customers impacted since July 1 by extreme heat, thunderstorms, heavy rain; >45,000 restored (no lightning mention — page says "storms", not lightning) | facts list |
+| PV7 | WebFetch | https://www.nysenate.gov/legislation/laws/MRE/3 | MRL §3 applies to "all cities of less than three hundred twenty-five thousand population" and all towns/villages | §5 para 4; facts list; rules; AI check #1 |
+| R1 | reused, research/co-op-security-systems.md HV9 | census.gov / osc.ny.gov | Yonkers 2020 Census 211,569 | facts list |
+| R2 | reused, condo H4 | https://www.cenhud.com/en/news/2026/central-hudson-crews-work-to-restore-power-after-noreaster/ | Sept 26 2026: >19,000 out after nor'easter | facts list |
+| R3 | reused, co-op HV10 | https://www.coned.com/en/about-us/media-center/news/2026/06-06/con-edison-restoring-power--to-customers-affected-by-storm | June 2026: >5,000 Westchester customers out | facts list |
+| R4 | reused, co-op HV11 | https://dailyvoice.com/article/packages-stolen-from-apartment-complex-found-inside-haverstraw-home-man-35-charged-cops-say/ | Apr 2026 Haverstraw complex package thefts recovered via search warrant (no names used) | facts list |
+| R5 | reused, co-op HV12/HV13/HV14/HV15 | Westchester Consumer Protection; Ch. 863; ecode360 Rockland Ch. 250; Cortlandt Ch. 113; GBL §69-m | trade licensing, alarm business licensing, 50 V electrical-contractor definition, Cortlandt alarm permit (>4 false alarms in 6 months), state alarm installer licensing | facts list; alarms section; rules; AI check #4 |
+| R6 | reused, co-op HV16 | https://intro.nyc/local-laws/2021-63 | TDPA is NYC-only | §5 para 4; access control section; AI check #5 |
+| R7 | reused, co-op L11 / silo S11 | cooperatornews.com/article/qa-camera-placement | audio recording / eavesdropping caution | privacy settings section |
+| P1 | site pages (internal), read Nov 27 2026 | /door-buzzer-repair-hudson-valley-ny, /intercom-installation-hudson-valley-ny, /access-control-installation-hudson-valley, /elevator-access-control-installation-hudson-valley, /security-camera-installation-hudson-valley-ny, /structured-cabling-installation-hudson-valley, /alarm-installation-hudson-valley | $250 service call; station $250–$525; transformer $325–$650; strike $450–$950; lobby panel $650–$1,800; riser $850–$2,400; multi-unit video intercom $1,200–$5,000; single door access from $1,500; elevator from $1,875/car (Westchester L1); 4-camera from $1,099; cabling $150–$300/drop; monitoring $30/$45 | hero quick answer; services; cost table; packages. No $195/hr, no same-day used. |
+| E1 | Reddit / PAA / PASF / ATP / AI Overview / Yelp / Bing-DDG | — | EMPTY (not accessible in build env). AI check corrects common generic claims; no AI quote invented | — |
+| E2 | codes.iccsafe.org direct WebFetch | — | blocked (permission prompt unanswered); PV4 text taken from Firecrawl search excerpt | — |
+
+### Question register additions (property-management-security-hudson-valley)
+Checked by meaning against the NYC/Manhattan/Brooklyn/Queens/Bronx registers, co-op-security-systems-hudson-valley and condo-security-systems-hudson-valley registers, and the finished Staten Island and Long Island PM pages (6 drafts swapped after comparing: tenant doorbell cameras, lighting, single-owner landlords, insurance write-ups, inspector records, solar in winter, winter takeover).
+- Q&A: A garden complex has a dozen separate entrances and no lobby. Where should the first fob readers go?
+- Q&A: Our townhouse rentals each have their own front door. Should every unit get a video doorbell, or should the complex share one entry system?
+- Q&A: When should a camera go on a pole instead of a building wall?
+- Q&A: A parking lot sits far from any building with power. How do you get a camera out there?
+- Q&A: Our complex pool opens on Memorial Day weekend and closes after Labor Day. Can pool access turn on and off with the season?
+- Q&A: After the utility restores power to a building, why do some cameras come back and others stay dark?
+- Q&A: Older two-story garden buildings have intercom wire stapled along the outside. Can it be replaced or protected?
+- Q&A: Can the coax cable from an old analog camera system be reused when the cameras are replaced?
+- Q&A: Our Westchester building is rent-stabilized under the ETPA. Does that change how we plan a lobby upgrade?
+- Q&A: How do you keep outdoor camera cable from being cut by landscaping crews and string trimmers?
+- Q&A: The property maintenance code mentions deadbolts on apartment doors. Is that your work or a locksmith's?
+- Q&A: Our new downtown rental opened with only some of the amenity doors on the fob system. Can the rest be added later?
+- Q&A: Plowed snow buries the view from our entrance camera every winter. Where should it be mounted instead?
+- Q&A: Our complex's maintenance garage holds tools, equipment and spare parts. What does it need?
+- FAQ: Is a service call at a Hudson Valley property priced the same as one in the city?
+- FAQ: Can one proposal cover properties in several different counties?
+- FAQ: Does the town need to issue a permit before cameras or an intercom go in?
+- FAQ: Do you install wireless links between buildings in winter, or wait for spring?
+- FAQ: Do cellular cameras need a data plan, and who pays for it?
+- FAQ: Can a camera be mounted on the utility company's pole in our parking lot?
+- FAQ: Should camera and gate wiring go in while our parking lot is being repaved?
+- FAQ: Do you also work for the HOAs and condominium boards our firm manages?
+- FAQ: Can you replace an entry panel or call box that a snowplow knocked over?
+- FAQ: Can a fob reader control the gate to a dog run, playground or tennis court?
+
+### Images (11, permanent image rule — no unused real job photos; no Drive/CompanyCam check in this run)
+All Reolink (authorized partner) manufacturer product photos from reolink.com product pages (home-cdn.reolink.us), converted to WebP into images/property-management-security/ with `-hudson-valley-`. Each checked by sha256 + dHash + ORB/RANSAC inliers against images/property-management-security/* (incl. Staten Island and Long Island files), co-op-security-systems, condo-security-systems, co-op-security-camera-installation, condo-security-camera-installation, apartment-building-security-camera-installation (max 31 inliers, no matches) plus visual contact sheet. Rejected as already used: Altas/solar PTZ on roof edge (taken by Staten Island), RLN36 front, under-eave domes/PTZ night shots, bullet beside modern house, dimension diagrams. No faces, house numbers, phone numbers or "AESS".
+| File | Source page / image | Where |
+|---|---|---|
+| …-pan-tilt-camera-on-wall-bracket-facing-lawn | reolink-trackmix-wifi · shop/public/media/1795412044410-WW7t.png | hero (eager), og/twitter |
+| …-bullet-camera-strapped-to-steel-pole | reolink-go-ultra · 2023/10/120339001697081940.2475.jpg.webp | §5 |
+| …-black-video-doorbell-with-lit-ring-button | reolink-video-doorbell-2nd-gen · shop/public/media/1783332797431-JRQc.png | services (access) |
+| …-cellular-bullet-camera-on-wall-mount | reolink-go-ultra · 2023/10/120322531697080973.6701.png | services (internet) |
+| …-solar-dual-lens-pan-tilt-camera | omvi-2i-ultra · shop/public/media/1785754157480-VTJy.png | building types |
+| …-white-local-storage-hub | home-hub-2 · shop/public/media/1789625125240-Tkkk.png | equipment |
+| …-dual-lens-pan-tilt-camera-on-black | omvi-x16-poe · shop/public/media/1792579447051-kk1w.png (top line cropped) | equipment |
+| …-white-corner-mounting-bracket | omvi-2i-ultra · shop/public/media/1791430239810-ZH5w.png | process |
+| …-bullet-camera-with-red-light-beside-door-at-night | reolink-go-ultra · 2023/10/120339201697081960.6661.jpg.webp | coverage |
+| …-doorbell-wire-leads-and-twist-connectors | reolink-video-doorbell-2nd-gen · 2024/04/290622171714371737.2276.png | cost |
+| …-coiled-gray-network-cable | rlk8-800pt4 · 2022/07/290726281659079588.2987.png | all areas |
+DAILY-LOG note: `images: 11 partner (Reolink) product photos via reolink.com (no unused real property-management photos)`.
+
+### FLIPs on the page (plain text + `<!-- FLIP: /slug -->`)
+/property-management-security-westchester-county, -rockland-county, -orange-county, -putnam-county, -dutchess-county, -ulster-county (coverage cards); /apartment-building-security-systems-hudson-valley (coverage para). Linked directly: /property-management-security-nyc, -manhattan, -brooklyn, -queens, -bronx, -staten-island, -long-island (one areas section).
+
+### Links left for the main run
+Back-links needed from the five live PM pages (+ SI, LI); keyword-file back-links from /intercom-installation-hudson-valley-ny and /apartment-building-security-camera-installation-hudson-valley at the main run's discretion.
+
+### For Anwar to confirm
+- "Crews head north each morning from the Bronx office" and routing visits by county.
+- Wireless links in winter, conduit before repaving, snowplow-damaged call box replacement, amenity gate readers — written as services we do.
+- 30-day labor warranty + one-year parts sentence side by side (matches site).

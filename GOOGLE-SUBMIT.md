@@ -3823,3 +3823,6 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-27 | https://www.abstractenterprisessecuritysystems.com/property-management-security-brooklyn | QUEUED
 2026-11-27 | https://www.abstractenterprisessecuritysystems.com/property-management-security-queens | QUEUED
 2026-11-27 | https://www.abstractenterprisessecuritysystems.com/property-management-security-bronx | QUEUED
+2026-11-27 | https://www.abstractenterprisessecuritysystems.com/property-management-security-staten-island | QUEUED
+2026-11-27 | https://www.abstractenterprisessecuritysystems.com/property-management-security-long-island | QUEUED
+2026-11-27 | https://www.abstractenterprisessecuritysystems.com/property-management-security-hudson-valley | QUEUED
