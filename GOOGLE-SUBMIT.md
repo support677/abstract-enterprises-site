@@ -3840,3 +3840,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-27 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-systems-manhattan | QUEUED
 2026-11-27 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-systems-brooklyn | QUEUED
 2026-11-27 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-systems-queens | QUEUED
+2026-11-27 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-systems-bronx | QUEUED
+2026-11-27 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-systems-staten-island | QUEUED
+2026-11-27 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-systems-long-island | QUEUED
+2026-11-27 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-systems-hudson-valley | QUEUED
+2026-11-27 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-systems-nassau-county | QUEUED
