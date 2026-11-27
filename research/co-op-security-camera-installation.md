@@ -609,3 +609,235 @@ check_page.py --no-registration: only "live sibling doesn't link back" ×6 (main
 - Page says we do not take Nassau fire alarm permits (no fire alarm offer).
 - Black camera color mentioned only as "added charge shown on the price page" (A1 colorExtra $29; unclear if per camera or per system).
 - Images are Reolink official images; swap for real co-op job photos when available. HV draft uses a pedestal product shot that matches condo Manhattan's (rln36) — main run may want to check.
+
+
+## Suffolk County — local research for `co-op-security-camera-installation-suffolk-county` (part file, Nov 27 2026; merge into research/co-op-security-camera-installation.md)
+
+Built by a batch subagent. Up /co-op-security-camera-installation-long-island; phone (631) 407-2884 (body/CTAs/schema; 800 only in shared header); GBP Brooklyn (#brooklyn, 1282 Troy Ave). Start price $1,099 = start_price('co-op-security-camera-installation','suffolk-county') from /security-camera-pricing-suffolk-county (A1). Format per blueprint v2.3 §12.4.
+
+**Stock check (task gate) — PASSED, not HOLD-THIN.** Suffolk co-op stock is small but real: LIBOR March 2026 = 386 co-op sales/12 mo (Nassau 771; Suffolk condos 1,614), 91 co-ops listed; DeVito/OneKey guide = 23 identified co-op developments, 94 active listings. Distinct from Nassau and from the Suffolk condo/apartment/co-op-hub pages because the stock is concentrated in two-story 1965–1975 garden complexes with a private entry per apartment (no lobby/halls) → thesis: an outdoor, distance-and-power camera plan (walks not doors, parking courts, amenities, service buildings, building-to-building links, corporation circuits vs apartment meters, recorder home with no lobby), plus SCPD jurisdiction/registry/emergency access.
+
+### Mandatory sources (§3) — status
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | EMPTY (reused hub finding SU10 City-Data as proxy) |
+| 2–5 | PAA / PASF / AtP / AI Overview | EMPTY (not accessible in build env). Reality Check answers generic claims (private entries = no cameras needed; doorbells add up to a system; IR range as printed; one 4K covers a court; cameras raise monthly charges); no AI quote invented |
+| 6–7 | Landmarks / building stock | SC1, SC2, SC3, SU1–SU3, SU7 |
+| 8 | Bing/DDG | EMPTY (Firecrawl/WebSearch used) |
+| 9 | Local news | SU8, SU9, SU11 |
+| 10 | Hyperlocal | SC3 (Suffolk Experts), SU10 (City-Data) |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Rows (NEW this build)
+| # | Exact query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| SC1 | `Suffolk County co-op closed sales` · Firecrawl scrape (pdf, query mode) Nov 27 2026 | https://www.lirealtor.com/docs/default-source/default-document-library/market-reports/suffolkcounty.pdf | March 2026: Suffolk co-op closed sales 26 (vs 28); 386 last 12 mo thru 3-2026 (vs 370); median $275,000 (12 mo); inventory 91 (March); condo closed sales 12 mo 1,614 | §Small market ¶2 |
+| SC1b | same · Firecrawl scrape | https://www.lirealtor.com/docs/default-source/default-document-library/market-reports/nassaucounty.pdf | Nassau co-op closed sales 12 mo thru 3-2026: 771; median $355,000 | §Small market ¶2 (771 only) |
+| SC2 | `Suffolk County co-ops guide …` · Firecrawl search → scrape | https://thedevitoteam.com/coops-and-condos/suffolk-county-coops/ | OneKey MLS-based guide: 94 active co-ops, $267K median ask; "10 most active of 23 coop developments" — Coram, North Babylon, Islip (×2), Holtsville, Port Jefferson Station, Oakdale, Selden, West Babylon, Patchogue; waterfront: East Quogue 2 storeys 1965 ~$1,150/mo, Patchogue 1975 ~$908/mo, 1970 ~$720/mo, Westhampton Beach 1920 ~$939/mo. Development names NOT used | §Small market ¶2–3; §Waterfront; §Across the County; §Board approval |
+| SC3 | same search → scrape | http://www.suffolkexperts.com/2009/10/14/les-jardins-co-op-in-coram-long-island/ | Large Coram co-op opened 1970: brick garden buildings, courtyard views, 1st/2nd-floor apartments, "Each has their own private entry", most with in-unit washer/dryer; pool, tennis, play area, basketball. Name NOT used | §Small market ¶3; §Private entrances; §Amenities |
+| SC4 | `Suffolk County Police camera registration program` · Firecrawl search → scrape | https://scpdshield.org/Initiatives | SCPD Camera Registry: register locations; dept may ask participants to check video for a date/time; retrieval at owner's convenience. Emergency Remote Camera Access: previously authorized IP systems, only in a true emergency (active shooter, hostage), pre-arranged guidelines. Suffolk Crime Analysis Center, Yaphank, DCJS network, video wall | §Police; Q&A (emergency access) |
+| SC5 | same search → scrape | https://www.officer.com/investigations/video-cameras/article/21091771/profile-on-the-suffolk-county-police-department-camera-registration-program | Aug 28 2019; Chief of Department Stuart Cameron: aiming at a light blinds the camera; "very frustrating when you have video of a crime being committed but the quality of the video is such that it's almost useless to you" | §Parking courts "Lighting" |
+| SC6 | `Suffolk County Police Department precincts towns patrolled …` · Firecrawl search → scrape | https://www.suffolkcountyny.gov/public-safety | SCPD = Police District of five western towns (Babylon, Brookhaven, Huntington, Islip, Smithtown); services for eight villages in those towns with own PDs and eleven town/village PDs in five eastern towns | §Police ¶1; §Across the County |
+| Reused | research/co-op-security-systems.md | SU1 (ny.gov 10 towns), SU2 (Census 581,917 units / 81.9% owner-occupied), SU3 (SCVOA 32 villages), SU4 (County Code 10/45 days), SU7 (homes.com Patchogue gated waterfront), SU8 (Port Jefferson mailroom 2023), SU9 (CBS NY Nov 2025 ring: 14 men, 31 communities, >200 phones/tablets), SU10 (City-Data 2019 Coram upgrades), SU11 (PSEG Isaias ~420,000), LI9 (Huntington Village co-op listing); silo L3, L4, L5, L6, L7, L10 | as recorded | throughout |
+| PR | internal · security-camera-pricing-suffolk-county MODELS | /security-camera-pricing-suffolk-county | A1 $1,099 (2MP DVR, NV 60 ft); A3 $1,133; E2 $1,306 (4MP dome, 4K NVR + 20" monitor); E3 $1,306 (4MP bullet full color, spotlight, 4K NVR + monitor); D1 $1,541; concealed $200/camera ≤100 ft; >100 ft quoted on site; 30-day warranty | hero, stats, pricing table, FAQ 1, Service offer |
+
+Blocked: WebFetch of the LIBOR PDF (permission prompt unanswered) — fetched via Firecrawl instead.
+
+### Question register — co-op-security-camera-installation-suffolk-county (add to silo register)
+H3 Q&A: Every apartment in our co-op has its own outside door. Should each door get a camera? · Shareholders keep chairs and planters on small patios beside the common walk. Will the walkway cameras record their patios? · The previous installer screwed our cameras to aluminum gutters and fascia. Does that matter? · Should the board sign up for the Suffolk police's emergency remote access to our cameras? · Our co-op and the development next door share one entrance road. Can our camera record the shared road? · A shareholder mounted a floodlight camera on the outside of the building that points across a parking court. What can the board do? · Our walks are lit only by knee-high bollard lights. Will the cameras pick up faces? · Our garden buildings sit on crawl spaces instead of basements. How does camera cable get from building to building? · Movers keep chipping our building corners and knocking over walkway lights on move-in days. Can cameras show which company did it? · Half our walkway lights burn out before anyone reports them. Will the cameras reveal which ones are dark? · Cars in our back parking court are being broken into on weekend nights. Which cameras actually help the police? · We have thirty cameras across the property. How do we find one incident without watching hours of video?
+
+FAQ: Does the $1,099 Suffolk package include camera signs, a battery backup and the viewing app? · What file format does an exported clip come in, and will it play on someone else's computer? · How long do outdoor cameras last near the bay? · Can a shareholder's doorbell camera be added to the co-op recorder? · Does someone from the co-op need to be on site while the crew installs? · Does the recorder record all the time or only when something moves? · Can we see what a camera will show before it is permanently mounted? · Can new cameras use the holes and brackets left by the old ones? · How high are cameras mounted on a two-story garden building? · Can the board try cameras on one parking court before voting on the full plan? · How is outdoor cable protected from mowers and string trimmers? · Should the cameras be obvious or discreet?
+
+Intent check by meaning vs every question on all co-op camera pages (incl. parallel Westchester + Rockland drafts on disk), 13 condo camera pages, apartment-building Suffolk, all co-op-security-systems pages and the board guide. Dropped during build as duplicates: IR red glow (SI), hurricane take-down (SI condo), lifeguard/pool-company access (SI condo), recorder in an apartment (Manhattan), export from computer (Rockland), lights/contractor verification wording (SI).
+
+### Images (11) — images/co-op-security-camera-installation/ (`-suffolk-county-` names, WebP q80, ≤1600 px)
+No real co-op camera job photos (Drive/CompanyCam not checked by this subagent). Official Reolink (partner brand) product photos and manufacturer sample frames, downloaded Nov 27 2026 with curl from reolink.com/us/product/ pages rlc-833a, reolink-trackmix-poe, rlc-520a, rlc-840a, reolink-duo-floodlight-poe, rln16-410, cx410 (home-cdn.reolink.us), captioned as product photos / manufacturer samples, never as Suffolk properties:
+turret-dome-under-white-eave (hero/og) · dual-lens-ptz-on-block-wall · phone-showing-wide-daytime-view-of-lawn-and-pool-house · infrared-night-sample-of-porch-steps (raccoon; car at edge, no plate legible) · daytime-sample-of-pool-terrace · color-night-sample-of-pool-terrace · floodlight-camera-in-rain (IP66 graphic) · camera-pigtail-network-and-power-connectors · network-video-recorder-on-shelf · bullet-camera-parts-diagram · vandal-dome-parts-diagram.
+Checks: SHA-256 unique vs images/co-op-security-camera-installation/*, condo-security-camera-installation/*, condo-security-systems/*, co-op-security-systems/*, apartment-building-security-camera-installation/* (+ security-cameras/, reolink-camera-installation/); 16×16 dHash screen + side-by-side visual review. Swapped out after visual review: garden-path night sample (= condo LI color/IR path), recorder+cameras on pedestals (= condo Manhattan). Kept with note: pigtail connector photo is a different product photo from co-op Queens' pigtail image (similar subject, not the same photo). No faces, house numbers, plates, documents or "AESS".
+DAILY-LOG note: `images: 11 official Reolink product/sample images via direct download (no real co-op camera job photos yet)`.
+
+### Links / FLIPs
+Direct: up /co-op-security-camera-installation-long-island (breadcrumb, schema, All Areas); /co-op-security-camera-installation-nyc (once), -nassau-county, -queens, -brooklyn, -manhattan, -bronx, -staten-island, -hudson-valley, -westchester-county and -rockland-county (parallel, on disk); /co-op-security-systems-suffolk-county; /condo-security-camera-installation-suffolk-county; /apartment-building-security-camera-installation-suffolk-county; /security-camera-pricing-suffolk-county; /security-camera-installation-suffolk-county-ny (canonical used by condo Suffolk; -suffolk-county also exists — FLAG); /security-camera-repair-suffolk-county; /security-camera-maintenance-suffolk-county; /cctv-installation-suffolk-county; /nvr-installation-suffolk-county; /parking-lot-camera-installation-suffolk-county; /co-op-board-intercom-upgrade; /warranty; /. No FLIPs on this page.
+Main run: LI hub link down; link back from the 9 live co-op camera pages (+ Westchester/Rockland); flip `<!-- FLIP: /co-op-security-camera-installation-suffolk-county -->` on co-op-security-systems-suffolk-county, condo-security-camera-installation-suffolk-county and the LI/Nassau co-op camera pages; one contextual link back from apartment-building/security-camera-installation/cctv/repair Suffolk pages per keyword rules; sitemap + _redirects pair.
+
+### Checks
+check_page.py --no-registration: only "live sibling doesn't link back" ×9. 12,430 rendered words. Masked paragraph similarity (difflib on masked p/li/td/h3/figcaption ≥10 words, Jaccard top-8 prefilter; warranty sentence and SMS consent excluded) vs 11 co-op camera pages (incl. Westchester/Rockland drafts), 13 condo camera pages, apartment-building Suffolk, co-op-security-systems Suffolk: max 0.624. 390px (Playwright/Chromium): scrollWidth 390 = clientWidth, 0 elements past viewport. ':root{--a' count 1 (head CSS identical to condo-security-systems-brooklyn).
+
+### Flags for Anwar
+- No monitored-video (CHeKT) offer, per keyword rule.
+- Signs stated as included in co-op installs (same as Nassau page); battery backup shown as its own proposal line — confirm.
+- Two Suffolk camera install pages exist (/security-camera-installation-suffolk-county and -suffolk-county-ny); linked the -ny one like the condo Suffolk page.
+- Images are Reolink official images; swap for real co-op job photos when available.
+
+
+## Westchester County — local research for `co-op-security-camera-installation-westchester-county` (part file, Nov 27 2026; merge into research/co-op-security-camera-installation.md)
+
+Built by a batch subagent. Up /co-op-security-camera-installation-hudson-valley; phone (914) 877-2578 (body/CTAs/schema; 800 only in shared header); GBP Bronx (#bronx, 460 E Fordham Rd). Format per blueprint v2.3 §12.4. Rows marked "reused" come from research/co-op-security-systems.md (Westchester rows W1–W22) or silo rows and were not re-fetched.
+
+Thesis (kept apart from HV hub = six-county overview/commuter rhythm/storms; co-op-security-systems-westchester = intercom-led hub, panel audit, Yonkers alarm code; condo Westchester = towers/garages/RTCC; apartment-building Westchester = rentals/ETPA): Westchester co-ops are concentrated in the southern cities (Yonkers ≈ 2 of 5 listings), so the job is elevator buildings with garages; six building types (postwar tower over garage, prewar Harlem Line station building, garden-and-mid-rise campus, downtown doorman, Sound Shore, river-town hillside); 45 police agencies → clip export/time sync/who handles requests; garages and catalytic-converter thefts; lobbies/doorman vs non-doorman package handling; five written footage decisions; agent/super/board changeovers; MRL not MDL, NYC LL 63/2021 not applicable; Westchester co-op disclosure law → keep video out of admissions.
+
+### Mandatory sources (§3) — status
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | EMPTY (not run; reddit not scrapeable in this env per prior builders) |
+| 2–4 | PAA / PASF / Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible). Reality Check answers generic claims (garden-only market, doorman makes cameras pointless, converter thieves too fast, footage goes to police, friend installs); no AI quote invented |
+| 6 | Landmarks / stations | WC5 (Hartsdale/Harlem Line), W3 reused (Garth Road/Scarsdale station); Fleetwood / Mount Vernon West named as Harlem Line stations (general knowledge, no stat attached) |
+| 7 | Building stock | W1 reused; WC3–WC4 (Homes.com counts/features) |
+| 8 | Bing/DDG | EMPTY (WebSearch + Firecrawl search used instead) |
+| 9 | Local news | WC6 (The Journal News, Feb 2026) |
+| 10 | Hyperlocal | W3 reused (Scarsdale10583) |
+| 11 | Yelp 1–3★ | EMPTY (not accessible) |
+
+### Rows
+| # | Exact query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| WC1 | `Westchester County 6 cities 19 towns 23 villages municipalities` · WebSearch → Firecrawl scrape (directQuote) | https://www.westchestercountyny.gov/about-westchester | "covers 500 square miles and has a population of just over 1 million. Westchester is made up of six cities, 19 towns, and 20 villages." (NB: 20 villages per the county, not 23) | §Where co-ops are, figures list |
+| WC2 | `Westchester County local police departments number municipal police departments county police` · Firecrawl search → scrape (directQuote) | https://en.wikipedia.org/wiki/Law_enforcement_in_Westchester_County | "There are forty-five local police agencies in Westchester County"; Cortlandt Town PD disbanded, policed by NYS Police augmented by County Police; Mount Kisco PD merged with County Police, which patrols Mount Kisco | figures list; §Forty-five police agencies ¶1 |
+| WC2b | same search (result snippet) | https://publicsafety.westchestercountyny.gov/ | County DPS "conducts municipal patrol operations in Mount Kisco and Cortlandt" | §Forty-five police agencies ¶1 |
+| WC3 | Firecrawl scrape (query), Nov 27 2026 | https://www.homes.com/yonkers-ny/co-ops-for-sale/ ; /mount-vernon-ny/ ; /new-rochelle-ny/ ; /white-plains-ny/ ; /greenburgh-ny/ ; /hartsdale-ny/ | Listing counts (page meta): Yonkers 199, Mount Vernon 85, New Rochelle 59, White Plains 48, Greenburgh 28, Hartsdale 19 (county total 466 per W2 reused, Nov 26). Features named: Yonkers garage/parking/elevator/laundry/storage (query answer returned count only — features taken from W2 reused); Mount Vernon garage, parking, laundry, near train, storage, Fleetwood mentioned; New Rochelle parking, elevator, laundry, storage, pool, water views, near train; White Plains garage, parking, elevator, laundry, doorman, near train, storage; Greenburgh/Hartsdale garage, parking, elevator, laundry, pool, storage, near train. No addresses or building names used. | §Where ¶2–3; Reality check #1; building types |
+| WC4 | `Hartsdale co-ops Central Avenue garden apartments cooperative buildings history Greenburgh` · WebSearch | (listing results only: homes.com Hartsdale Gardens building page, estately/coldwell listings on N Central Ave) | Confirms co-op stock along Central Ave, Hartsdale; no figures used; no addresses used | §Building types (garden-and-mid-rise campus) |
+| WC5 | Firecrawl scrape (directQuote) | https://en.wikipedia.org/wiki/Hartsdale,_New_York | Hartsdale "is served by the Metro-North Harlem River commuter rail line into Grand Central Terminal" | background only (station context) |
+| WC6 | `Westchester catalytic converter thefts apartment parking lot police 2025 OR 2026 Yonkers OR "New Rochelle" OR Greenburgh` · Firecrawl search → scrape (markdown) | https://www.lohud.com/story/news/crime/2026/02/20/westchester-county-ny-police-departments-weigh-in-car-theft-rates/88775397007/ | The Journal News (Samantha Antrum, Feb 20 2026), "Have car thefts in Lower Hudson Valley increased? What police say": "Police and local repair shops have reportedly noticed a rise in thefts of catalytic converters and other vehicle-related thefts." Yonkers and New Rochelle PDs weigh in (body paywalled; search snippet stat "down 31%" NOT used because the department could not be confirmed) | §Garages ¶1; Reality check #3 |
+| W1 | reused | https://irp.cdn-website.com/a5e60d20/files/uploaded/2026_10_Westchester_County.pdf | 1,581 co-op sales 12 mo to Oct 2026 vs 1,250 condos; median $240,000 | §Where ¶1; figures list; §Changeovers ¶1 |
+| W2 | reused | https://www.homes.com/westchester-county-ny/co-ops-for-sale/ | 466 co-ops for sale (Nov 26 2026) | §Where ¶2; Reality check #1 |
+| W3 | reused | https://scarsdale10583.com/section-table/101-village-voices/12002-the-unique-fascinating-history-of-eastchester-s-garth-road | Garth Road 13 residential buildings "nearly all cooperatively-owned", just south of the Scarsdale Harlem Line station (Feb 6 2026) | §Building types (prewar station building) |
+| W8 / W21 | reused | Con Edison releases July 5 2026 / June 7 2026 | Westchester storm outages in 2026 | §Equipment "Battery backup" (summer storms take power out for hours; no figure quoted) |
+| W11 / HV8 | reused | https://www.nysenate.gov/legislation/laws/MRE/3 | MRL §3: cities < 325,000 and all towns/villages | §Law "City laws stop at the city line" |
+| W12 | reused | OSC 2020 census | Yonkers 211,569 (< 325,000) | §Law (basis for "including Yonkers") |
+| W13 | reused | https://humanrights.westchestercountyny.gov/resources/cooperative-housing-disclosure | Co-op disclosure law eff. Aug 1 2021: deadlines for applications; board fair-housing training | §Law "Keep the cameras out of the admissions file" |
+| W14 | reused | https://consumer.westchestercountyny.gov/ | Plumbers and electricians need a county trade license | §Law "Who may install" (we do no electrical work) |
+| W15 / L9 | reused | https://intro.nyc/local-laws/2021-63 | NYC LL 63/2021 city only | §Law |
+| L3 | reused (silo) | https://nycourts.gov/reporter/archives/levandusky_one.htm | Levandusky (1990) business judgment rule | §Law |
+| L6 | reused (silo) | https://cooperatornews.com/article/qa-camera-placement | Vera: no common-law privacy right in common areas | §Law "Common areas and privacy" |
+| L4 | reused (silo) | https://www.nysenate.gov/legislation/laws/PEN/250.00 ; 250.05 ; 250.45 | eavesdropping class E felony; unlawful surveillance | §Law |
+| NEW-1 (HV) | reused (silo) | https://www.nysenate.gov/legislation/laws/LAB/203-C | Labor Law §203-c wording | §Law "Rooms that are off limits" |
+| L10 / HV15 | reused (silo) | GBL §69-m; https://dos.ny.gov/system/files/documents/2024/05/security_0.pdf | licensing incl. CCTV for intrusion | §Law "Who may install"; Reality check #5 |
+| L5 | reused (silo) | https://www.fsresidential.com/new-york/news-events/articles-and-news/security-cameras-best-practices-nyc-condos-co-ops | 30–90 days; log requests; no copies to residents w/o board + counsel | §Footage policy |
+| PR | internal · tools/check_page.py start_price + security-camera-pricing-westchester-county MODELS | /security-camera-pricing-westchester-county | A1 $1,099 (4 eyeball 2MP, 1080P DVR, NV 60 ft); A3 $1,133 (4 eyeball 2MP IP, NVR); E2 $1,306 (4 dome 4MP IP, 4K NVR); D1 $1,541 (4 eyeball 8MP 4K IP, NVR); CONCEAL=200/camera; runs up to 100 ft | hero; stats; pricing table; Service offers |
+
+Not used: "$195/hr" and "Same-Day" wording on older Westchester pages (rule); RTCC (condo Westchester page uses it); W5 Westchester largest-co-op vendor story and W6/W7 package-theft stats (HV hub and co-op hub use them).
+
+### Question register — co-op-security-camera-installation-westchester-county (add to silo register)
+H3 Q&A: Electric-vehicle chargers were just installed in our garage. Should a camera cover them? · Contractors renovating apartments keep working past the hours in our alteration agreement. Can the cameras help? · Our garage gate sometimes stays open after a car passes. Can the system tell the super? · We are converting the old super's apartment into a package room. When should the camera be planned? · We already have a lobby screen for building announcements. Can it show a camera view too? · One of our shareholders is a police officer and offered to review footage for the board. Is that a good idea? · An outside company runs our garage under a lease. Whose cameras should cover it? · Our lobby has a large mirror facing the front door. Will it confuse the cameras? · A wireless carrier leases space on our roof. Can a camera go on the roof door without affecting its equipment? · Our garage entrance is three floors below the lobby, on a different street. Can one recorder serve both? · Can the cameras follow one car from the street gate down a curving ramp to its parking space?
+FAQ: Is the four-camera starting price the same in Yonkers as in northern Westchester? · Do you take co-op camera jobs in northern Westchester as well as the southern cities? · Can the board split the installation across two fiscal years? · Our old installer went out of business and nobody has the recorder password. Can you get in? · For a co-op lobby, is a dome or a bullet camera the better choice? · If one camera's cable is cut, does the rest of the system keep recording? · The co-op has an IT consultant who manages the office network. Will you work with them? · If the board wants longer retention later, can more drive space be added? · Can a camera count how many people use a side door each day? · Can the recorder keep a second copy so one failed drive does not lose the video? · Do the cameras keep recording while the recorder installs a software update? · Can the cameras go up before the board finishes its footage policy?
+Checked by meaning against the live silo (NYC, Manhattan, Brooklyn, Queens, Bronx, Staten Island, Long Island, Nassau, Hudson Valley), the parallel Suffolk and Rockland drafts on disk, condo-security-camera-installation-westchester-county, apartment-building-security-camera-installation-westchester-county and co-op-security-systems-westchester-county. Dropped after the Suffolk draft appeared: outdoor camera lifespan (Suffolk "near the bay"), overnight search without watching hours (Suffolk "thirty cameras"), police department camera-sharing program (Suffolk "emergency remote access") — the last kept in body text only. Left to body text (asked elsewhere): police footage requests, changing managing agents, stairwell landings, propped doors, laundry, elevator cab outage, retention days, plate reading.
+
+### Images (11) — images/co-op-security-camera-installation/ (`-westchester-county-` names)
+Drive/CompanyCam not checked by this subagent. Permanent image rule: 9 real job photos copied byte-for-byte (WebP) from images/cctv-installation/ (our own installations) + 2 Reolink partner images (Firecrawl image list of reolink.com/us/product/rlc-520a and rlc-1224a, downloaded from home-cdn.reolink.us, WebP q80).
+| Page file (prefix co-op-security-camera-installation-westchester-county-) | Source | Where |
+|---|---|---|
+| small-dome-on-lobby-drop-ceiling-near-exit-sign (hero, og) | cctv-installation-westchester-county-small-camera-on-lobby-ceiling-near-exit-sign | hero |
+| turret-dome-on-ceiling-over-glass-entrance-wall | cctv-installation-ulster-county-turret-dome-on-ceiling-over-tall-windows | §Where |
+| manufacturer-sample-of-walled-courtyard-with-tree | https://home-cdn.reolink.us/wp-content/uploads/2025/07/090356361752033396.4414.jpg (rlc-520a page) | §Building types |
+| recorder-monitor-with-camera-grid-and-bitrate-table | cctv-installation-westchester-county-recorder-screen-tiles-and-stream-table | §Police |
+| black-bullet-on-short-ceiling-bracket | cctv-installation-westchester-county-bullet-on-ceiling-bracket-over-desks | §Garages |
+| black-camera-high-on-pale-wall-above-office-glass | cctv-installation-westchester-county-small-camera-high-on-pale-wall-over-glass-offices | §Lobbies |
+| camera-on-hallway-ceiling-aimed-at-steel-service-door | cctv-installation-westchester-county-back-hallway-camera-toward-steel-door | §Room by room |
+| camera-power-and-network-pigtail-connectors-product-photo | https://home-cdn.reolink.us/wp-content/assets/tespecs/rlc-1224a-4.png | §Equipment |
+| cable-bundles-overhead-at-recorder-and-monitor | cctv-installation-manhattan-overhead-cable-bundles-at-recorder-rack | §Sample plan |
+| white-dome-in-ceiling-corner-over-motion-sensor-and-flag | cctv-installation-westchester-county-corner-dome-over-wall-sensor-and-flag | §Services |
+| dome-in-storage-room-corner-above-leaning-ladders | cctv-installation-westchester-county-stockroom-corner-dome-above-ladders | §Law |
+Checks: SHA-256 + 16×16 dHash vs images/co-op-security-camera-installation/* (incl. parallel Suffolk/Rockland files), condo-security-camera-installation/*, condo-security-systems/*, co-op-security-systems/*, apartment-building-security-camera-installation/*: no SHA match, nearest dHash 56/256; contact-sheet visual compares. Dropped as repeats: side-lot recorder frame (same scene as condo-security-systems Long Island brick-walk image) and the entrance+side-lot tile pair (contains that scene); Reolink infrared porch sample (the parallel Suffolk builder saved the identical file minutes earlier); Reolink 24/7, 512GB, house-cutaway renders, smart-display and people/face shots. The cctv job photos are also used on /cctv-installation-westchester-county (different silo; copied under new names per the permanent image rule). No faces, house numbers, plates, phone numbers or "AESS"; the recorder-grid photo shows tiny live tiles of a commercial interior with no identifiable person.
+DAILY-LOG note: `images: 9 real camera job photos from images/cctv-installation/ + 2 Reolink partner images (no real co-op job photos yet)`.
+
+### Links / FLIPs
+Direct: up /co-op-security-camera-installation-hudson-valley (breadcrumb + body + all-areas), /co-op-security-camera-installation-nyc (once in body), all live silo pages (manhattan, brooklyn, queens, bronx, staten-island, long-island, nassau-county), parallel /co-op-security-camera-installation-rockland-county and -suffolk-county (broken until they ship), /co-op-security-systems-westchester-county, /condo-security-camera-installation-westchester-county, /apartment-building-security-camera-installation-westchester-county, /security-camera-pricing-westchester-county, /security-camera-installation-westchester-county-ny, /security-camera-repair-westchester-county, /cctv-installation-westchester-county, /co-op-board-intercom-upgrade, /warranty.
+FLIP (plain text + comment): /co-op-security-camera-installation-orange-county.
+Main run: all live co-op camera pages need a link back (HV hub carries `<!-- FLIP: /co-op-security-camera-installation-westchester-county -->`); /co-op-security-systems-westchester-county cameras section FLIP should become a link; one link back from /apartment-building-security-camera-installation-westchester-county and /condo-security-camera-installation-westchester-county per the keyword-file rule.
+
+### Checks
+check_page.py --no-registration: only "live sibling doesn't link back" ×9. 12,919 rendered words. Masked paragraph similarity (SequenceMatcher, geo/number-masked, paragraphs ≥15 words) vs 9 live co-op camera pages + Suffolk/Rockland drafts, 13 condo camera pages, apartment-building Westchester camera page, co-op-security-systems-westchester-county: max 0.614 (warranty lead-in vs Brooklyn); 0 pairs ≥ 0.65. 390px render (headless Chrome): scrollWidth 390, no overflowing elements.
+
+### Flags for Anwar
+- Images are mostly real commercial camera job photos (cctv silo) plus 2 Reolink images; swap for real co-op job photos when available.
+- Monitored video (CHeKT) not offered on the page, per keyword-file rule.
+- Page says replaced cameras "come down as part of the same job" (no patch/paint mentioned) — same wording family as HV page; confirm policy.
+- FAQ says phase-two prices hold "if ordered within the proposal's stated validity" — confirm proposals carry a validity period.
+
+
+## rockland-county
+
+## Rockland County — local research for `co-op-security-camera-installation-rockland-county` (Nov 27 2026; part file, merge into research/co-op-security-camera-installation.md)
+
+Built by a batch subagent (parallel siblings: -suffolk-county, -westchester-county). Child of /co-op-security-camera-installation-hudson-valley. GBP Bronx (460 E Fordham Rd, #bronx); (845) 640-3835 in body, CTAs, sticky bar, form scripts and schema; (800) 486-0943 only in the shared mega-nav. Format v2.3 §12.4: exact query · platform · URL · finding · page section used.
+
+### Thin-check (asked first): NOT thin — built
+Rockland's co-op stock is small (71 sales / 12 mo) but real and concentrated in identifiable complexes, so a substantive, different page was possible without invented facts:
+- Homes.com scrape Nov 27 2026 (RC1 below): 35 co-op listings — Suffern 10901 garden court complexes (listings under names such as Bon Aire / Bon-Aire Park, Oakdale Manor, Stonegate; one "intercom-access building", one "entry security system", elevator, assigned parking), Spring Valley 10977 elevator towers (one listing names an indoor gym) and garden complexes on N Main St / Sneden Place W (pool, laundry, assigned parking), Nyack 10960 (a Gedney St river building, Salisbury Point), Garnerville 10923 (Main St complex), Monsey 10952 (garden complex). Complex names and addresses are NOT on the page (not clients); the page describes building types only.
+- Page thesis (kept apart from co-op-security-systems-rockland-county = intercom/code/garden fobs, condo-security-camera-installation-rockland-county = townhouse loops/resale/HOA, apartment-building camera Rockland = landlords, co-op camera HV hub = regional): four Rockland co-op shapes (Suffern court complex, Spring Valley tower with open lot, river-village building, roadside garden group), lot identification vs overview cameras, linking many buildings without overhead cable (storms), tower elevator/stair-door plan, river flood/wind placement, sample 30-camera court-complex layout, Rockland town/village/county code edges.
+
+### Mandatory sources (§3)
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | EMPTY (not searched separately; co-op Rockland builder found none) |
+| 2–5 | PAA / PASF / ATP / AI Overview | EMPTY (not accessible in build env) |
+| 6 | Landmarks/geography | RC3 (reused R3) |
+| 7 | Building stock | RC1, RC2 (reused R1), RC4 (reused R4) |
+| 8 | Bing/DDG | EMPTY (not run separately) |
+| 9 | Local news | RC5, RC6 (NBC/CBS 2019), RC7 (News 12 Nanuet), reused R6, R7, R11, R12, condo RC-W3 |
+| 10 | Hyperlocal | Rockland County Times (R12), Rockland Daily (RC-W3) |
+| 11 | Yelp | EMPTY (not accessible in build env) |
+
+### Rows
+| # | Exact query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| RC1 | Firecrawl scrape (query: list every co-op listing, town/ZIP, amenities) | https://www.homes.com/rockland-county-ny/co-ops-for-sale/ | Nov 27 2026: 35 listings; Suffern 10901 majority (court/circle complexes, elevator building with assigned parking, laundry, entry security system; one intercom-access building), Spring Valley 10977 (towers, one with indoor gym; garden complexes with pool, laundry, assigned parking), Nyack 10960 (2 buildings), Garnerville 10923, Monsey 10952 | §Rockland Co-ops ¶3; §Building Types; §Parking (assigned spaces); §Towers (gym) |
+| RC2 | reused co-op-security-systems R1 | https://irp.cdn-website.com/a5e60d20/files/uploaded/2026_10_Rockland_County.pdf | OneKey MLS Oct 2026: co-op closings 12 mo 71 (71 prior), median $140,000 ($165,000 prior), Oct DOM 61, Oct inventory 30; condos 543; single-family 1,666 | §Rockland Co-ops ¶1–2; Q&A (sell faster) |
+| RC3 | reused R3 | https://en.wikipedia.org/wiki/Rockland_County,_New_York | 199.34 sq mi, smallest county outside NYC; 5 towns, 18 villages; New City seat; Mario M. Cuomo Bridge | §Local Government ¶1; All Areas |
+| RC4 | reused R4 | https://raveis.com/property/flyer/19300472 | Co-op listed "Suffern (Ramapo)", year built 1970, assigned parking | §Local Government ¶2; §Building Types (court complex); §Sample Plan |
+| RC5 | `Rockland County apartment complex car break-ins OR mailbox theft ... Spring Valley Suffern Nanuet 2025 2026 police` · Firecrawl search → scrape (query) | https://www.nbcnewyork.com/news/local/police-investigate-wave-car-break-ins-thefts-rockland-county/1763333/ | NBC New York, May 8 2019 (Ken Buffa): Spring Valley car break-ins; surveillance video shows two men smash a minivan window in an apartment complex lot and take a purse; 10 cars targeted. Complex name NOT used. | §Rockland Co-ops ¶ "Why boards call"; §Local Government (police) |
+| RC6 | same search · Firecrawl scrape (query) | https://www.cbsnews.com/newyork/news/police-investigating-rash-of-car-break-ins-in-rockland-county/ | CBS New York (2019): Ramapo Police investigating "more than a dozen" overnight break-ins, bags, wallets, cash, even furniture taken; surveillance video of two men in Spring Valley | same |
+| RC7 | same search (result excerpt) | https://westchester.news12.com/3-arrested-for-attempted-car-theft-from-nanuet-dealership | News 12: Clarkstown PD arrested three for attempted car theft from a Nanuet dealership (date not captured — page gives no year) | §Local Government (police) |
+| RC8 | reused R6 / R7 | News 12 (Feb 14 2024); WAMC (Dec 22 2016) | County Office of Buildings and Codes took over Spring Valley code enforcement Feb 14 2022, >2,000 inspections; DOS monitors for Ramapo and Spring Valley 2016 | §Local Government ¶2 |
+| RC9 | reused R9 | https://ecode360.com/26997705 | Rockland Code ch. 250 electrical definition (50 V or more, master electrician) | §Local Government (we don't do electrical); Reality Check #5 |
+| RC10 | reused R11 / R12 | oru.com July 6 2026; rocklandtimes.com July 9 2026 | >47,000 O&R customers affected from July 1; New City neighborhood >36 hours without power | §Court Complexes (no overhead cable); §River & Weather (power cuts) |
+| RC11 | reused condo RC-W3 | https://www.rocklanddaily.com/news/piermont-experiences-worst-flooding-since-hurricane-sandy | Piermont tidal flooding Jan 2024, worst since Sandy | §River & Weather ¶1 |
+| RC12 | reused silo HV8 / R14 | https://www.nysenate.gov/legislation/laws/MRE/3 | MRL §3 covers cities <325,000 and all towns and villages | §Local Government (state law, not city law) |
+| RC13 | reused silo L4 | nysenate.gov PEN 250.00 / 250.05 / 250.45 | eavesdropping class E felony; unlawful surveillance places | §The Law |
+| RC14 | reused (co-op camera Nassau) | NY Labor Law §203-c | no video recording of employees in restrooms, locker rooms, changing rooms | §The Law |
+| RC15 | reused silo L10 / R15 | GBL §69-m; dos.ny.gov 19 NYCRR Part 195 guidance | security installer license covers video surveillance for intrusion | §The Law; Reality Check #5; §Comparing Bids |
+| RC16 | reused silo L3 | Levandusky v One Fifth Ave (1990) | business judgment rule | §The Law |
+| RC17 | reused silo L6 | https://cooperatornews.com/article/qa-camera-placement | Vera (Newman Ferrara): no common-law privacy right in common areas; audio risk | §The Law |
+| RC18 | reused silo L5 | FirstService Residential, Sept 23 2024 | retention generally 30–90 days | §Footage Policy |
+| RC19 | statute (general knowledge, not fetched this run) | 18 U.S.C. §1708 | theft of mail is a federal crime (USPIS) | §The Law (Mail); Q&A mail kiosks — main run may add a fetched citation |
+| RC20 | internal | /security-camera-pricing-rockland-county (MODELS) | A1 $1,099; A3 $1,133; E2 $1,306; D1 $1,541; concealed +$200/camera ≤100 ft; $250 service call chip | hero; §Pricing; FAQ (moving a camera) |
+
+### Question register (this page) — add to the silo register
+§Board Questions (H3): Our tower's fitness room has no attendant. Is it reasonable to put a camera in there? · Pollen and road grime build up on our outdoor cameras every spring. How often should the lenses be cleaned, and by whom? · Our mailboxes are in outdoor kiosks along the walkways. How should a camera cover them? · Half our buildings are brick and half have vinyl siding. Does that change how the cameras are mounted? · A visitor says she slipped on our icy front walk last week. How do we make sure the video still exists when her lawyer asks? · Our complex is built on a slope, and the lower parking court sits well below the upper one. Can one camera watch both? · Our walk-up faces a Nyack street lined with restaurants. Does the village need to approve cameras on our front wall? · Will cameras help our apartments sell faster? Units here can sit on the market for two months. · Should the camera map be kept out of the minutes and the board packet shareholders can read? · We are switching managing agents at the end of the year. What happens to the camera logins? · The elevator maintenance company says it has to be present for a cab camera. Who pays for the mechanic's time? · Our complex has two driveways onto two different roads. Does each one need its own identification camera?
+
+§FAQ: When is the balance due after the deposit? · When is it worth paying for 4K cameras instead of 2MP? · How often do the recorder's hard drives need replacing? · Can video be protected so nobody on staff can delete it? · Does exporting a clip require a computer, or can the super do it at the recorder? · If the board pays the deposit in October, will the cameras be up before winter? · How long is an elevator out of service while a cab camera goes in? · If the board decides a camera is in the wrong place, what does moving it cost? · Can you show the camera system to shareholders at our annual meeting? · How do you keep the co-op's cameras from being hacked? · What goes in the handover packet besides the passwords? · Is there a minimum number of cameras for a co-op job?
+
+Dedup note: checked by meaning against all 9 live co-op camera pages, the parallel Westchester and Suffolk drafts as they stood on disk (parsed with check_page.parse), the 13 condo camera pages, apartment-building camera Rockland and co-op-security-systems-rockland-county. Dropped/replaced during build because a sibling already asks it: EV chargers (Westchester), carrier roof lease (Westchester), cameras before footage policy (Westchester), continuous vs motion recording (Suffolk), hidden vs visible cameras (Suffolk "obvious or discreet"), monitor vs phone (Suffolk Windows computer), agent export from another county (condo Queens). Kept in body only (not as questions): phasing over fiscal years (Westchester asks it).
+
+### Similarity
+Masked paragraph similarity (difflib, p/li/td/h3/figcaption ≥12 words, check_page.mask) vs 9 live co-op camera pages + parallel Westchester/Suffolk, 13 condo camera pages, apartment-building-security-camera-installation-rockland-county, co-op-security-systems-rockland-county: max 0.64 (unlawful-surveillance statute paraphrase vs Nassau). The mandated warranty terms sentence sits inside a longer paragraph.
+
+### Images (11) — images/co-op-security-camera-installation/ (`-rockland-county-`, WebP q80, ≤1600 px)
+No real co-op camera job photos available to this subagent (Drive/CompanyCam not checked). All 11 are official Reolink (partner brand) product photos / manufacturer sample images, downloaded Nov 27 2026 from home-cdn.reolink.us via Firecrawl image lists of reolink.com/us/product/ pages rp-pct16md, rp-pcb8mx, rp-pcb12m, rp-pct8m, rp-pcv8mz (none used by earlier silo builds); captioned as product photos / manufacturer samples ("not a client property"), creditText in ImageObject schema.
+| File suffix | Source page | Where |
+|---|---|---|
+| two-dual-lens-turrets-on-building-corner-product-photo | rp-pct16md | hero (eager), og/twitter |
+| spotlight-off-and-on-night-sample-of-apartment-buildings | rp-pct8m | §Rockland Co-ops |
+| daytime-sample-of-curving-residential-road-and-lawns | rp-pcb12m | §Building Types |
+| dual-lens-turret-on-wall-over-parking-lot-at-dusk-product-photo | rp-pct16md | §Parking Courts |
+| vandal-dome-on-dark-ceiling-product-photo | rp-pcv8mz | §Elevator Towers |
+| day-dusk-and-night-sample-of-garage-door-row | rp-pcb12m | §River & Weather |
+| turret-camera-on-ceiling-over-dark-room-product-photo | rp-pct8m | §Coverage |
+| vandal-dome-shown-in-four-mounting-views-product-photo | rp-pcv8mz | §Equipment |
+| bullet-camera-on-wall-at-night-product-photo | rp-pcb8mx | §Camera Counts |
+| bullet-camera-on-ceiling-pendant-in-parking-garage-product-photo | rp-pcb8mx | §Services |
+| color-and-infrared-night-sample-of-shopfront-walkway | rp-pcb8mx | §Footage Policy |
+Checks: SHA-256 unique and 16×16 dHash ≥74/256 bits from every file in images/co-op-security-camera-installation/ (incl. parallel Westchester/Suffolk files), condo-security-camera-installation/, condo-security-systems/, co-op-security-systems/, apartment-building-security-camera-installation/; contact-sheet visual compare. Rejected: RP-PN8 rear-panel shot (same concept as co-op Manhattan recorder rear panel), images with people (fisheye/aisle/lifestyle shots), "24/7"/"512GB"/"16TB"/"32TB" overlays. Suffolk's parallel set includes a parts diagram of the same RP-PCV8MZ dome model — different image, not a repeat. No faces, house numbers, phone numbers or "AESS"; visible marks: Reolink logo on products, "ColorX/Spotlight" labels on samples.
+DAILY-LOG note: `images: 11 official Reolink product/sample photos via Firecrawl (no real co-op camera job photos yet)`.
+390px render (headless Chrome): scrollWidth 390, no element past the viewport.
+
+### Links / FLIPs
+- Linked: up /co-op-security-camera-installation-hudson-valley (visible breadcrumb + All Areas), /co-op-security-camera-installation-nyc (once), all live co-op camera siblings + parallel /co-op-security-camera-installation-westchester-county and -suffolk-county, /co-op-security-systems-rockland-county, /condo-security-camera-installation-rockland-county, /apartment-building-security-camera-installation-rockland-county, /security-camera-pricing-rockland-county, /security-camera-installation-rockland-county-ny, /security-camera-repair-rockland-county, /cctv-installation-rockland-county, /co-op-board-intercom-upgrade, /warranty.
+- FLIP: `<!-- FLIP: /co-op-security-camera-installation-orange-county -->` (All Areas, plain text).
+- Back-links needed (main run): all 11 co-op camera siblings (checker lists 9 missing; Westchester/Suffolk drafts already link here); /co-op-security-systems-rockland-county FLIP comment → live link; one contextual link back from /apartment-building-security-camera-installation-rockland-county and /condo-security-camera-installation-rockland-county (keyword-file rule); sitemap + _redirects pair.
+
+### Flags for Anwar
+- Page states: cameras moved after handover are billed as a $250 service call plus cable (from the $250 service-call price on the Rockland price page) — confirm.
+- Page states balance is due at completion/handover (deposit 50% up front) — confirm.
+- Page offers to demonstrate the installed system at a co-op's annual meeting and a yearly check that includes lens cleaning — confirm both are offered.
