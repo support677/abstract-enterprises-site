@@ -424,3 +424,220 @@ DAILY-LOG note: `images: 11 reused from images/access-control-installation/ + im
 ### Links left for the main run
 - FLIP comments: /condo-intercom-replacement (§6), /condo-security-camera-installation-staten-island (§6), /condo-security-systems-long-island and /condo-security-systems-hudson-valley (§19).
 - Link back needed from /condo-security-systems-nyc, -manhattan, -brooklyn (and -queens/-bronx if not already), /co-op-security-systems-staten-island; per rules one contextual link back from /intercom-installation-staten-island-ny and /apartment-building-security-camera-installation-staten-island.
+
+
+## long-island
+
+## long-island
+
+## Long Island — local research for `condo-security-systems-long-island` (part file, Nov 26 2026; merge into research/condo-security-systems.md)
+
+Hub page: Nassau + Suffolk. GBP Brooklyn, (800) 486-0943 only. Starting price $250 service call (START_PRICES). Built by a batch subagent; format per blueprint v2.3 §12.4. Angle kept apart from co-op-security-systems-long-island (garden co-ops, Kenwood Gardens/Great Neck, Roslyn, Nassau board-decision law): this page is written around gatehouse/townhouse communities, 55-plus clubhouse communities, waterfront condos, village-center buildings, master HOA + condo layering, buried cable and distance.
+
+### Mandatory sources (§3) — status
+| # | Source | Status |
+|---|---|---|
+| 1 | Reddit | LIC-R1, LIC-R2 (Firecrawl search excerpts) |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env). §10.5 corrects generic claims seen in cost guides (Angi/HomeAdvisor/Fixr named generically; HomeAdvisor $1,200–$8,500 range reused from co-op silo L12) and NYC-sourced content applied statewide (MDL §50-a, TDPA). No AI quote invented. |
+| 6 | Landmarks | LIC-L1 (places as general locations; no client buildings) |
+| 7 | Use cases / building stock | LIC-G1, LIC-55, LIC-W1, LIC-PJ |
+| 8 | Bing/DDG | EMPTY (not accessible in build env) |
+| 9 | Local news | Newsday (LIC-W1), The Cool Down/Yahoo (LIC-W2), Habitat (LIC-W3) |
+| 10 | Hyperlocal | Village of Port Jefferson newsletter (LIC-PJ); Patch/LI Herald not searched — EMPTY |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Rows
+| # | Exact query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| LIC-G1 | `Long Island gated condominium community 55+ clubhouse gatehouse security Nassau Suffolk` · Firecrawl search → Firecrawl scrape (directQuote) | https://activerain.com/blogsview/5031514/melville-long-island-has-gated-communities | ActiveRain, Apr 7 2017: Melville (Route 110, LIE Exit 49): HOA + condo community opened 2006 "with a 24 hour security gatehouse by its entrance"; townhouse community built 1986 with "a 24 hour attended gatehouse"; 55+ community opened 2003, "a gated community featuring 24 hour security"; another 24-hour guard-gated community with 193 detached homes + townhouses. Community names NOT used on page. | §5 para 2; §8 Route 110 card; §13 Route 110 card |
+| LIC-55 | same search → Firecrawl scrape (directQuote) | https://www.55places.com/blog/7-popular-gated-communities-on-east-long-island | 55places (Ellen Kershner, May 26 2021, modified Jan 27 2024): Manorville 512 attached + single-family homes; Coram 195 attached; St. James 653 homes "with the majority being condos", two outdoor pools + indoor pool; Riverhead communities completed 2005 (194) and 2002 (196); Setauket completed 2007 (150), clubhouse indoor pool; Eastport 240. Names NOT used on page. | §5 para 3; facts list; §8 Riverhead card; §13 Setauket and Riverhead cards |
+| LIC-W1 | `Glen Cove Garvies Point waterfront condominiums units Newsday OR Herald` · Firecrawl search (excerpts) | https://www.newsday.com/long-island/nassau/garvies-point-model-condos-open-in-glen-cove-b31613 ; https://www.newsday.com/real-estate/glen-cove-garvies-point-new-apartments-rkevy0cy | Newsday: "167 condos in the five-story Beacon"; Feb 2 2026 (Celia Young): RXR's "$1.3 billion Garvies Point waterfront development". thebeacongp.com: "The first waterfront condominiums on Long Island's Garvies Point." Building name NOT used on page. | §5 para 4; §8 North Shore card; §13 Garvies Point card |
+| LIC-W2 | `Long Beach NY oceanfront condominium boardwalk condo building Sandy flooding repairs` · Firecrawl search (excerpts) | https://www.thecooldown.com/green-business/long-beach-historic-boardwalk-repair-cost/ (also yahoo.com syndication) | "After three major storms tore away sections of Long Beach's historic Peninsula boardwalk and bulkhead, the city said repairs could cost as much as $3.6 million." | §5 para 4; §13 Long Beach card |
+| LIC-W3 | reused from research/co-op-security-systems.md LI4 | https://www.habitatmag.com/Publication-Content/Building-Operations/2015/2015-May/Neptune-Towers-Replaces-Generator | Habitat, May 11 2015: Long Beach building raised generator ~30 inches "just in case the area [got] flooded"; can carry security systems. Building name NOT used; described as "one Long Beach apartment building". | §5 para 4 |
+| LIC-PJ | `Port Jefferson village condominium apartments harbor new development units approved` · Firecrawl search (excerpt) | https://www.portjeffny.gov/428 | Village newsletter (PJVV Issue 9): "Zone change request for a proposed 79-unit condominium development on nearly 10 acres" (hearing resumes Sept 25, 2025). Address NOT used on page. | §5 para 5; §13 Port Jefferson card |
+| LIC-R1 | `reddit r/longisland condo HOA common charges gate clubhouse board` · Firecrawl search (excerpt) | https://www.reddit.com/r/longisland/comments/1obpdf0/condo_owners_that_eventually_became_homeowners/ | "Happy family of 4 living in a Sachem area condo here. Sure we are short of space, but the roof will never need to be replaced on our dime." | §5 para 5 |
+| LIC-R2 | same search (excerpt) | https://www.reddit.com/r/longisland/comments/smpafg/why_are_condoapt_hoa_fees_so_high/ | "...Then you have water, heating, snow removal, lawn/garden maintenance where..." | §5 para 5 |
+| LIC-G2 | reused silo L1/L2 | https://law.justia.com/codes/new-york/rpp/article-9-b/339-e/ ; https://law.justia.com/codes/new-york/rpp/article-9-b/339-v/ | RPL §339-e common elements; §339-v bylaws + reserves quote. | facts list; §8.5 rules; AI check #4 |
+| LIC-G3 | reused condo SI row SIC-G2 | https://ag.ny.gov/sites/default/files/regulatory-documents/13_nycrr_22.3.pdf | 13 NYCRR §22.3(f): HOA plan describes common areas incl. "the land, buildings, lots, parking facilities, recreational facilities". | facts list; §8.5; AI check #4 |
+| LIC-G4 | reused co-op LI rows LI8/LI8b/LI9a + silo L4/L5 | https://newyork.public.law/laws/n.y._multiple_residence_law_section_3 ; nysenate MDL §§3, 50-a ; https://dos.ny.gov/legal-memorandum-lg03-nys-uniform-fire-prevention-and-building-code-what-elected-officials-need ; https://intro.nyc/local-laws/2021-63 | MRL applies to cities <325,000 and all towns/villages; MDL §50-a is NYC-only; no MRL intercom requirement found (page makes no such claim); Uniform Code "automatically in effect in each city, town, and village in the State (except New York City)"; TDPA is NYC local law. | facts list; §8.5; AI checks #1, #6 |
+| LIC-FA | Anwar rule (batch instructions, Nov 26 2026) + /fire-alarm-installation-long-island-ny | — | No Nassau Fire Marshal FM number yet: page says LI fire alarm work is in Suffolk; Nassau = ask first; no fire alarm prices. | §6 fire alarm; §8.5; AI check #7 |
+| LIC-PR | site pages (internal, read Nov 26 2026) | /intercom-installation-long-island-ny; /door-buzzer-repair-long-island-ny; /access-control-installation-long-island; /elevator-access-control-installation-long-island; site monitoring tiers | $250 service call; multi-unit intercom $1,200–$4,500+; buzzer components $250–$525 station, $325–$650 transformer, $450–$950 strike, $650–$1,800 panel; single-door encrypted reader $1,500–$2,500 installed; encrypted credential upgrade $3,000–$8,000 (most LI single-building properties); gate access w/ vehicle reader + barrier arm $3,500–$12,000 installed; elevator Level 1 from $1,725/car Nassau, $1,800/car Suffolk; monitoring $45/$30. | hero box; §6; §14 table; §15 |
+| LIC-L1 | landmark geography (no client buildings, no counts beyond sourced rows) | — | Route 110 Melville; Garvies Point Glen Cove; Long Beach boardwalk; Port Jefferson Harbor; Stony Brook/Setauket; Route 58 Riverhead; central Nassau station towns (Mineola, Garden City, Hicksville, Westbury) described generally. | §8 cards; §13 cards |
+
+### Long Island question register (this page) — add to the silo register
+§9 Q&A (H3): Can you price the shared gatehouse equipment separately from each condo association's own buildings? · Our board wants to restrict pool access for owners who are behind on common charges. Can the system do that? · Commuters cut through our condo's parking lot to reach the train. What actually helps? · Our condo shares a private entrance road with a neighboring community. Can both associations use one gate? · Windshield tags or handheld remotes: which is better for resident cars at a condo gate? · Can a new access system work with the gate operator motor we already have? · Residents get stuck behind visitors at our entrance every evening. Is a second lane worth it? · The officer in our guard booth cannot see the resident lane. What fixes that? · Our complex has condo buildings and rental buildings side by side. Can one system serve both owners? · What kind of credential works at a pool gate where people arrive in swimsuits with wet hands? · Should a 55-plus community have a call station at the pool or the clubhouse? · Our clubhouse has an indoor pool. Can the pool room lock itself when no lifeguard or attendant is on duty? · Our waterfront building is in a flood zone. Where should the intercom and access control equipment go? · Our pool sits far from any building. How do you connect a gate or reader that is hundreds of feet away? · What does a security survey of a gated condo community actually cover?
+
+§17 FAQ: Can tennis and pickleball court gates get their own reader and schedule? · Can a condo put a reader on the gate to its private beach, dock or waterfront walkway? · Will the board receive a written survey report even if it hires someone else? · Can the clubhouse and management office get a burglar alarm with separate codes for staff? · Our community is repaving the entrance drive. Should conduit for a future gate system go in now? · How should a community secure a developer's sales office or model home that is still open inside the gates? · Can the visitor call box be reached from a driver's seat without leaving the car? · Do you schedule work around a community's quiet hours and clubhouse calendar? · Can you help our board decide between a staffed gatehouse and a resident-only gate? · Do you also install the clubhouse TVs and sound system? · Can the RV, boat or trailer storage lot get its own gate access? · Can entry records show the board how much each amenity is actually used?
+
+Intent check (by meaning) against the silo register (nyc, manhattan, brooklyn, queens, bronx, staten-island) AND the parallel nassau-county / hudson-valley drafts: dropped during the build because they matched a sibling: part-day gatehouse (Nassau + HV), staffed vs unstaffed second entrance (Nassau), older owners' entry features (Nassau, HV), cellular call box (Nassau, HV), event-space zoning (Nassau, Queens/SI reservations), first-phase planning (Nassau), stone-pillar mounting (HV), rental-to-condo replacement timing (Manhattan turnover). Kept in body only: virtual doorman, references, financing, warranty, electrical, weekends, RFPs, landscapers/plow access, snowbirds, fire alarm, TDPA/MDL jurisdiction, master-HOA signatory.
+
+### Similarity
+Masked-geo paragraph similarity (difflib on p/li/h3 ≥12 words, top-5 Jaccard candidates) vs condo nyc/manhattan/brooklyn/queens/bronx/staten-island, co-op long-island, condo nassau-county and hudson-valley drafts: max 0.641 apart from the mandated warranty terms sentence (1.0, required verbatim).
+
+### Images (11, permanent image rule — no Drive/CompanyCam check in this run)
+Copied (already WebP) into images/condo-security-systems/ with `-long-island-` names. SHA-256: none matches any file in images/condo-security-systems/ (incl. the parallel nassau-county/hudson-valley files present at check time) or images/co-op-security-systems/. Sources chosen as hash-unused anywhere in the condo/co-op silos and used once in their own source folder; viewed on a contact sheet: no faces, house numbers, phone numbers or "AESS"; nothing from buzzer-repair/*.jpg, elevator-access-control, network-installation, low-voltage, commercial-security, smart-lock or AI sets.
+| Page file (`condo-security-systems-long-island-…`) | Source |
+|---|---|
+| turret-camera-above-glass-entry-wall (hero, og:image; job photo) | alarm-installation/alarm-installation-spring-creek-ceiling-turret-above-glass-entry-vestibule.webp |
+| camera-view-of-brick-walk-and-paved-lot (job/recorder view) | access-control-installation/access-control-installation-kingsbridge-heights-wide-camera-view-of-brick-walk-and-lot.webp |
+| low-voltage-cable-bundles-above-ceiling-grid (job photo) | alarm-installation/alarm-installation-new-lots-low-voltage-cable-bundles-under-ceiling.webp |
+| solar-powered-cellular-ptz-camera-with-sim-card (product) | alarm-installation/alarm-installation-ocean-parkway-cellular-camera-with-sim-card-and-solar-panel-product-photo.webp |
+| keypad-door-station-with-card-zone-and-camera (Akuvox product) | alarm-installation/alarm-installation-carroll-gardens-akuvox-keypad-door-station-product-photo.webp |
+| white-indoor-video-monitor-for-units (Akuvox product) | alarm-installation/alarm-installation-spring-creek-white-indoor-touchscreen-monitor-product-photo.webp |
+| rack-mount-network-video-recorder-front (product) | alarm-installation/alarm-installation-manhattan-beach-black-nvr-front-panel-product-photo.webp |
+| dark-metal-video-door-station-with-lit-button (Axis product) | alarm-installation/alarm-installation-madison-black-metal-door-station-product-photo.webp |
+| pan-tilt-floodlight-camera-with-twin-lamps (product) | alarm-installation/alarm-installation-sea-gate-pan-tilt-floodlight-camera-product-photo.webp |
+| two-tone-single-button-video-door-station (Akuvox product) | alarm-installation/alarm-installation-madison-two-tone-door-station-product-photo.webp |
+| twin-panel-floodlight-camera (Lorex product) | alarm-installation/alarm-installation-locust-point-twin-panel-floodlight-camera-product-photo.webp |
+Caveat: the hero (glass-entry turret) and the lot view may be the same scenes as differently-cropped files used elsewhere in the silo (Brooklyn/NYC used a "ceiling camera above glass entry vestibule" and a "walkway view" from other folders); hashes differ. The Akuvox indoor monitor is the same product type Bronx/SI show.
+DAILY-LOG note: `images: 11 reused from images/alarm-installation/ + images/access-control-installation/ (no real condo photos yet)`.
+
+### Links
+- Linked directly: /condo-security-systems-nassau-county, /condo-security-systems-hudson-valley (§13), all six live NYC condo pages (§19), /co-op-security-systems-long-island (§6, once), /intercom-installation-long-island-ny, /intercom-repair-long-island, /access-control-installation-long-island, /elevator-access-control-installation-long-island, /door-buzzer-repair-long-island-ny, /apartment-building-security-camera-installation-long-island, /alarm-installation-long-island, /fire-alarm-installation-long-island-ny, /structured-cabling-installation-long-island, /av-sound-installation-long-island (FAQ), / (home).
+- FLIP comments (plain text beside each): `/condo-intercom-replacement` (§6 intercom), `/condo-security-camera-installation-long-island` (§6 cameras), `/condo-security-systems-suffolk-county` (§13 Suffolk paragraph).
+- Links back needed (main run): all six live condo siblings + nassau-county/hudson-valley; one contextual link from /co-op-security-systems-long-island; per keyword rules one contextual link back from /intercom-installation-long-island-ny and /apartment-building-security-camera-installation-long-island.
+
+### Mobile
+Rendered at 390×844 with Playwright (local http.server): scrollWidth 390, no element past the viewport.
+
+
+## hudson-valley
+
+## hudson-valley
+
+## Hudson Valley — local research for `condo-security-systems-hudson-valley` (part file, Nov 26 2026; merge into research/condo-security-systems.md)
+
+Hub page (up-link /, phone (800) 486-0943 only, Bronx GBP #bronx / 460 E Fordham Rd). Built by a batch subagent. Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page + section used. Rows marked "silo" were verified by earlier condo/co-op builders and reused as noted.
+
+### Mandatory sources (§3) — status for this page
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | EMPTY — `reddit hudsonvalley OR Westchester condo HOA board gate packages security cameras` (Firecrawl search, reddit.com only) returned only non-local threads (r/HOA, r/fuckHOA, r/orangecounty = California). Nothing used. |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env). §10.5 corrects claims typical of national cost guides / chatbot summaries (Angi, HomeAdvisor, Fixr named generically); no AI quote invented. |
+| 6 | Area landmarks | General geography only (no building named): downtown White Plains / Mamaroneck Ave / Metro-North; Rye, Mamaroneck, Port Chester (Sound Shore); Tarrytown, Sleepy Hollow, Mario M. Cuomo Bridge; Route 59 Nanuet/Spring Valley/New City; Route 9 Fishkill–Poughkeepsie, I-84; Route 17 Middletown/Monroe/Chester; Carmel/Mahopac/Brewster; Kingston/New Paltz/Saugerties. Described by corridor and building type, no counts. |
+| 7 | Building stock / use cases | Field description (gated townhouse HOAs, garden complexes, downtown elevator condos, riverfront/station condos, 55+ communities, office/medical condos) — qualitative, no statistic claimed. |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | Central Hudson press release (H4). Search `Hudson Valley condo complex package theft OR car break-ins OR gate HOA Westchester Rockland Orange 2025 2026` (Firecrawl) returned only Facebook/YouTube clips (Yonkers car break-ins, Port Chester) — not citable, not used. |
+| 10 | Hyperlocal | EMPTY — nothing citable on condo security found. |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Rows
+| # | Exact query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| H1 | Firecrawl scrape (PDF parser, directQuote "condominium figures") | https://corporate.onekeymls.com/s/WestchesterCounty-65z6.pdf | OneKey MLS Westchester County Q3-2026: "Condos Closed Sales were up 4.9 percent to 341." "Condos Median Sales Price increased 17.1 percent to $615,000." | §5 para 1; facts list; §13 Westchester para |
+| H2 | `OneKey MLS Q3 2026 Dutchess County ... condos` · Firecrawl search (corporate.onekeymls.com) → Firecrawl scrape PDF | https://corporate.onekeymls.com/s/DutchessCounty-mrmd.pdf | OneKey MLS Dutchess County Q3-2026: "Condos Closed Sales were up 8.3 percent to 91." "Condos Median Sales Price increased 21.5 percent to $395,000." | §5 para 1; facts list; §13 Dutchess para |
+| H3 | Firecrawl scrape (directQuote) | https://www.nysenate.gov/legislation/laws/MRE/3 | MRL §3: "This chapter shall apply to all cities of less than three hundred twenty-five thousand population and to all towns and villages." | facts list; §8.5 rules; AI check #1 |
+| H4 | `Central Hudson storm power outages customers restored 2026` · Firecrawl search → Firecrawl scrape | https://www.cenhud.com/en/news/2026/central-hudson-crews-work-to-restore-power-after-noreaster/ | Sept 26, 2026 (4 p.m.): crews "working to restore power to more than 19,000 homes and businesses that were impacted by powerful winds and heavy rain from a slow-moving nor'easter. The hardest-hit areas include Woodstock, Shawangunk, Plattekill and Hurley in Ulster County." | §5 para 4; facts list; AI check #6; §13 Ulster para |
+| H5 | `New York Attorney General homeowners association offering plan 13 NYCRR Part 22` · Firecrawl search → Firecrawl scrape PDF (directQuote) | https://ag.ny.gov/sites/default/files/regulatory-documents/homeowners_association_offering_plan_questionnaire.pdf | "QUESTIONNAIRE FOR HOMEOWNERS ASSOCIATION OFFERING PLANS (Pursuant to 13 NYCRR Part 22...)"; items: "(g) if sponsor in control of board, sponsor will procure fire and casualty insurance for HOA property?"; "(d) that certified financial statements will be provided to HOA members while sponsor is in control?" | §5 para 3; §8 developers subsection; §8.5 rules; AI check #5 |
+| L1 | silo (research/condo-security-systems.md L1) | https://law.justia.com/codes/new-york/rpp/article-9-b/339-e/ | RPL §339-e common elements text (halls, corridors, lobbies, stairs; entrances and exits; recreational or community facilities, parking areas and storage spaces; all apparatus and installations existing for common use). | §5 para 3; facts list |
+| L2 | silo (Brooklyn G1) | https://www.nysenate.gov/legislation/laws/RPP/339-V | RPL §339-v reserves "for major and minor maintenance, repairs, additions, improvements, replacements". | facts list |
+| L3 | silo (Brooklyn G2) | https://ag.ny.gov/sites/default/files/2022-08/how_to_handle_problems_with_a_condo_board.pdf | Boards "must follow the condo's internal rules (as set forth in the by-laws, the condominium declaration and the house rules)". | §8.5 rules list |
+| L4 | silo (L4) | https://www.nysenate.gov/legislation/laws/MDW/50-A ; MDL §3 | MDL applies to cities of 325,000+ (contrast for AI check #1). | AI check #1; §8.5 |
+| Q1 | silo (L7) | https://cooperatornews.com/article/the-old-fashioned-intercom-is-getting-a-makeover | CooperatorNews, Aug 3 2016, Mike Brenner (Advance Security & Intercoms, Yonkers): "Intercoms have become a lot more reliable, and the access features are expanded to include things like fingerprints and key fobs." (Not used on any other page at build time — grep checked.) | §8 RFP subsection (the page's one real quote) |
+| P1 | site pages (internal), read Nov 26 2026 | /door-buzzer-repair-hudson-valley-ny, /intercom-installation-hudson-valley-ny, /elevator-access-control-installation-hudson-valley, /intercom-pricing, /door-buzzer-repair-pricing | $250 service call; $250–$525 station, $250–$475 relay/button, $325–$650 transformer, $450–$950 strike, $650–$1,800 lobby panel, $850–$2,400 riser; multi-unit intercom $1,200–$5,000; elevator access from $1,875 per car (Westchester, Level 1). Monitoring $45/mo app, $30/mo keypad (site tiers). | hero quick answer; §6; §14 table; §15 cards |
+
+### Hudson Valley question register (this page) — add to the silo register
+§9 Q&A (H3): Our gate call box has no landline and the cell signal at the entrance is weak. What are the options? · Will a gate actually make our condo community safer, or just slower? · When a car damages our gate arm, can the cameras show who did it? · Should our entrance camera record the town road outside the gate? · Most of our owners leave for the winter. Should their fobs and app access be switched off while they're away? · We're a 55+ community. What makes the entrance easier for older owners and their caregivers? · Our landscaping and snow contractors come and go all year. How should their access be set up? · Can our owner list sync from the management company's software instead of being typed in twice? · The developer is still building our later phases. Can the system we buy now reach buildings that don't exist yet? · During a two-year phased replacement, can old and new entry panels share one directory? · Deer, wind and swaying branches keep setting off our entrance camera alerts. Can that be fixed? · Can we put a camera on the cluster mailboxes by our entrance?
+
+§17 FAQ: Which Hudson Valley towns does your Bronx office send crews to for condo work? · Do you supply security guards or gatehouse attendants for condo communities? · If the association later hires a different installer, can they service what you put in? · Will we know if a camera or reader stops working before an owner complains? · We're an HOA rather than a condominium under the Condominium Act. Does that change what you install? · Can you mount a call box or keypad on the stone pillars at our entrance? · Do you also work in office and medical condominiums? · Will you give our engineer or attorney cut sheets for the proposed equipment? · What deposit does a condo association put down, and when is the rest due? · If the internet goes down, will fobs still open our doors? · Can a camera stop non-residents from dumping trash in our condo's dumpster enclosure? · Our gatehouse is staffed only part of the day. Can a call box cover the rest?
+
+Checked by meaning against every question on condo-security-systems-nyc/-manhattan/-brooklyn/-queens/-bronx/-staten-island and co-op-security-systems-hudson-valley (extracted with tools/check_page.py's parser at build time).
+
+### Images (11, permanent image rule — no Drive/CompanyCam check in this run)
+Copied into images/condo-security-systems/ with `-hudson-valley-` names; none shares a sha256 with any file in images/condo-security-systems/, images/co-op-security-systems/ or images/co-op-board-intercom-upgrade/ at build time; contact sheets compared by eye to prefer scenes/products not already shown on condo/co-op pages.
+- clubhouse-ceiling-dome-above-glass-window-wall (hero/og) ← apartment-building-security-camera-installation …manhattan-dome-camera-on-ceiling-over-glass-entrance (job photo)
+- eave-dome-camera-against-bare-winter-branches ← access-control-installation …indian-village-dome-camera-at-fascia-corner-by-bare-branches (job photo; similar scene to a co-op crop, different file)
+- recorder-screen-camera-tiles-and-bitrate-table ← access-control-installation …harding-park-recorder-screen… (job photo; tiles tiny, no identifiable faces)
+- one-button-gate-call-station-with-card-reader ← door-buzzer-repair …beverley-square-silver-one-button-door-station-with-card-reader (product)
+- white-video-door-station-with-speaker-grille ← door-buzzer-repair …bedford-stuyvesant-white-video-door-station… (product)
+- wall-mount-ptz-dome-for-entrance-roads ← apartment-building… westchester-county-pendant-ptz-speed-dome (product, UNV logo)
+- hooded-bullet-camera-for-gate-lanes ← apartment-building… hudson-valley-black-hooded-bullet… (product)
+- stainless-bullet-camera-for-parking-areas ← apartment-building… staten-island-stainless-anti-corrosion-bullet… (product)
+- compact-indoor-camera-for-clubhouse-rooms ← access-control-installation …country-club-bronx-white-compact-camera-on-tilting-stand (product)
+- recorder-front-and-rear-with-poe-ports ← access-control-installation …laconia-recorder-front-and-rear… (product, Swann logo visible)
+- four-bay-rack-storage-appliance ← access-control-installation …new-utrecht-four-bay-rack-appliance (product)
+Rejected: images/camera-repair/* (several look AI-generated), door-buzzer-repair technician shots with faces/branded shirts, buzzer-repair/*.jpg, elevator-access-control, smart-lock aess-/Astoria sets. DAILY-LOG note: `images: 11 reused from images/access-control-installation/ + images/apartment-building-security-camera-installation/ + images/door-buzzer-repair/ (no real condo photos yet)`.
+
+### Links left for the main run
+- FLIP (plain text + `<!-- FLIP: /slug -->`): /condo-intercom-replacement (§6 intercom), /condo-security-camera-installation-hudson-valley (§6 cameras), /condo-security-systems-westchester-county, -rockland-county, -orange-county, -putnam-county, -dutchess-county, -ulster-county (§13 county paragraphs).
+- Linked directly: /condo-security-systems-long-island (§13), /condo-security-systems-nassau-county (§19), /co-op-security-systems-hudson-valley (§13, once).
+- Link backs needed: all six live condo siblings (+ LI hub, Nassau) → /condo-security-systems-hudson-valley; /co-op-security-systems-hudson-valley has a FLIP comment for this page in its §13; rules also ask for one contextual link back from /intercom-installation-hudson-valley-ny and /apartment-building-security-camera-installation-hudson-valley.
+
+
+## nassau-county
+
+## nassau-county
+
+## Nassau County — local research for `condo-security-systems-nassau-county` (part file, Nov 26 2026; merge into research/condo-security-systems.md)
+
+Built by a batch subagent. Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page + section used. GBP Brooklyn (1282 Troy Ave, #brooklyn); phone (516) 346-5778; up-link /condo-security-systems-long-island.
+
+Thesis (kept apart from co-op-security-systems-nassau-county, which leads with garden co-ops, Long Beach Sandy damage, flood-zone lobbies and commuter lots): Nassau condos are campuses of 2–3-story wood-frame buildings, gated 55+ planned communities with guard booths/clubhouses/pools, and new concrete transit-oriented elevator condos near LIRR stations. The page is built around gatehouses and call boxes, amenity access (pool enclosure law), garage-to-lobby/elevator control, wood-frame cable paths and village/town jurisdiction.
+
+### Mandatory sources (§3) — status
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | EMPTY (not searched this run; no Nassau condo security thread verified) |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env). §10.5 corrects claims typical of generic AI/cost-guide answers (Angi/HomeAdvisor/Fixr named generically); no AI quote invented. |
+| 6 | Area landmarks | NC-L1 |
+| 7 | Building stock / use cases | NC-N1, NC-N3, NC-N4, NC-N5 |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | Newsday (NC-N1–NC-N5) |
+| 10 | Hyperlocal | EMPTY for condo security specifically (Garden City EPOA page seen in search, not used) |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Rows
+| # | Exact query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| NC-N1 | `Mineola condo LIRR station transit-oriented development luxury condominium Newsday` · Firecrawl search → Firecrawl scrape (directQuote) | https://www.newsday.com/business/mineola-condos-apartments-bridge-n0g8y0ri | Newsday, Jonathan LaMantia, updated Apr 12 2026: 101-unit condo "steps from the Long Island Rail Road", set to open 2028; empty nesters + young professionals; "More than 1,100 rental apartments have opened in Mineola since 2010" (LI Regional Economic Development Council); 10,000 sq ft ground-floor event space; rooftop pool; borders station plaza; developer: concrete and metal construction "will stand out from existing condo communities made up of two- to three-story buildings with wood construction"; village issued housing permits at 27 per 1,000 (2015–2022) vs 1.7 on rest of LI (RPA). Building name/address NOT used on page. | §5 para 1 (quote), facts list; §7 card D + transit subsection; §8 mixed-use; §13 card 1 |
+| NC-N2 | Firecrawl scrape (directQuote) | https://www.newsday.com/real-estate/condos-nassau-suffolk-rajgq33c | Newsday, Arielle Dollinger, updated Apr 1 2026 (OneKey MLS): Nassau 41 closed condo sales in February, median $920,000, up from 12-month median $815,000. | §5 "Prices", facts list |
+| NC-N3 | `Newsday 55-and-over condominium Nassau "gated" community Woodbury OR Plainview OR "North Hills" OR "East Meadow" condos` · Firecrawl search (excerpts) | https://www.newsday.com/classifieds/real-estate/plainview-nassau-m84715 | Development under construction on Plainview–Old Bethpage border: 143-acre gated community, 660 units (condo suites, villas, townhouses), guarded gatehouse, roving security car, 29,000 sq ft clubhouse, two outdoor heated pools. Name NOT used on page. ("24/7" wording in source deliberately not repeated.) | §5 "Three kinds" para; §13 card 6 |
+| NC-N4 | same search (excerpt) | https://www.newsday.com/classifieds/real-estate/li-condos-q97939 | Same community: 135 units age-unrestricted, 80% of remainder 55+, 20% 62+; 55+ condo community in East Meadow also listed. | Background for §7 card C (55+ communities) |
+| NC-N5 | `Garvies Point Glen Cove waterfront condominiums units Newsday` · Firecrawl search (excerpt) | https://www.newsday.com/long-island/nassau/garvies-point-condos-to-go-on-sale-soon-in-glen-cove-x70568 | "The entire Garvies Point project is set to include, when complete, 1,110 condos and apartments, several parks, stores, offices, restaurants". | facts list; §8 mixed-use; §13 card 5 |
+| NC-G1 | reused, verified in research/co-op-security-systems.md N1 | https://www.ny.gov/counties/Nassau | Two cities, three towns, 64 incorporated villages, 60+ hamlets. | §5 "Villages, towns and the two cities" |
+| NC-G2 | reused (co-op N2) | https://www.nassaucountyny.gov/DocumentCenter/View/2827/Police-Departments | Some villages run own police departments; others NCPD precincts. | §5 same para |
+| NC-G3 | reused (co-op G1) | https://www.nysenate.gov/legislation/laws/MRE/3 | MRL §3 applies to cities under 325,000 and all towns and villages. | facts list; §8.5; §10.5 #2 |
+| NC-G4 | reused (silo L1/L2) | https://law.justia.com/codes/new-york/rpp/article-9-b/339-e/ ; https://law.justia.com/codes/new-york/rpp/article-9-b/339-v/ | Common elements incl. entrances/exits, recreational facilities, parking, "all apparatus and installations existing for common use"; bylaws may provide reserves "for major and minor maintenance, repairs, additions, improvements, replacements". | facts list; §8.5; §14 budgeting |
+| NC-G5 | reused (co-op G3) | https://dos.ny.gov/security-or-fire-alarm-installer-license-law | GBL Art. 6-D license requirement. | §8.5 |
+| NC-G6 | `New York State Residential Code swimming pool barrier gate self-closing self-latching requirement` · Firecrawl search (excerpts) | https://www.nysenate.gov/legislation/laws/EXC/378 ; https://law.justia.com/codes/new-york/exc/article-18/378/ | Exec. Law §378(14): gates in a swimming pool enclosure "shall be self-closing and self-latching, and shall be securely locked with a key, combination or other child proof lock sufficient to prevent access ... when such swimming pool is not in use or supervised." | facts list; §6 pools; §8.5; FAQ 5 |
+| NC-G7 | `New York General Business Law 395-b viewing device fitting room restroom locker room` · Firecrawl search (excerpt) | https://www.nysenate.gov/legislation/laws/GBS/395-B | Owner/manager guilty if knowingly permits a device "for the purpose of surreptitiously observing the interior of any fitting room, restroom, toilet, bathroom, washroom, shower". (Locker rooms NOT claimed as named in statute; page lists only the named rooms + "similar rooms".) | §8 clubhouse; §8.5; FAQ 4 |
+| NC-G8 | `Nassau County police false alarm ordinance alarm permit registration burglar alarm` · Firecrawl search (excerpt) | https://www.nassaucountyny.gov/DocumentCenter/View/17813/Administrative-Code-as-of-January-15-2021 | "An alarm permit holder shall advise the alarm company that monitors the permit holder's alarm system of the Nassau County Police Department permit number". No fee amounts used. | facts list; §6 alarms; §8.5; FAQ 2 |
+| NC-F1 | site page (internal) | /fire-alarm-installation-nassau-county-ny | Fire Marshal path; page says exactly "we don't take Nassau fire alarm permits ourselves at this time; ask us first"; no fire alarm prices. | §6 fire alarm |
+| NC-PR | site pages (internal, read Nov 26 2026) | /intercom-pricing; /door-buzzer-repair-pricing; /intercom-installation-nassau-county-new-york; /access-control-installation-nassau-county; /elevator-access-control-installation-nassau-county; /alarm-installation-nassau-county | $250 service call; repair ranges $250–$525, $250–$475, $325–$650, $450–$950, $650–$1,800, $850–$2,400; Nassau multi-unit intercom $1,200–$4,500+; encrypted fob/card reader $1,500–$3,500 per door; estate gate access (LPR + intercom) $8,000–$25,000 per gate; elevator L1 from $1,725/car, L2 from $2,875/car; monitoring $30/$45. (/intercom-repair-nassau-county inconsistent ranges not used.) | §6, §14 tables |
+| NC-L1 | landmark geography (no buildings named, no counts beyond sourced rows) | — | Mineola LIRR station; Garden City/Franklin Ave; Great Neck Plaza (co-op N4: most Great Neck co-ops/condos in Great Neck Plaza and Great Neck Estates); Long Beach boardwalk; Garvies Point, Glen Cove; Old Country Road corridor (Westbury–East Meadow–Plainview). | §13 cards |
+
+### Nassau County question register (this page) — add to the silo register
+§9 Q&A (H3): Can the gate system keep a record of which owner let each visitor in? · Our guard booth is a small wooden structure with no closet. Where does the gate equipment go? · Can owners call the gatehouse from inside their homes? · Can the guard booth check a visitor against a list the owner filled in ahead of time? · Can an owner with a hearing or vision impairment get a different in-home station from the rest of the building? · What happens to our directory and credentials if the platform company goes out of business? · Can our cameras show whether the plowing contractor cleared the lanes when the invoice says it did? · Our buildings are two-story wood-frame with finished hallways. How is new cable run without opening every wall? · Our new building near the train has a ground-floor event space open at night. How do we keep its guests off the residential floors? · We are a small condo in a village downtown with one front door. Is an intercom enough, or do we need fobs as well? · Does our village or town building department have to approve a new call box, gate reader or camera pole? · What does a sensible first phase look like for a gated condo community? · The developer put consumer Wi-Fi cameras on our amenity deck. Should the association keep them?
+
+§17 FAQ: Can the guard open the vehicle gate from inside the booth without stepping out? · Does an owner's alarm in a Nassau County condo need a police permit? · Can readers and cameras be mounted on vinyl siding without causing leaks? · Can cameras be installed in the clubhouse locker rooms or restrooms? · Can a fob reader go on the pool gate without removing its self-closing latch? · How do owners receive their new fobs, tags or app invitations when the system changes over? · Can you add a reader to the door between the parking garage and the elevator lobby? · Can a fob send the elevator only to the owner's own floor? · Our insurer's loss-control report lists security items. Can you price exactly what it asks for? · Can the clubhouse front desk let visitors in as well as the guard booth? · Can the clubhouse lights or heat come on when the first resident unlocks the door? · Can delivery trucks get a separate call box so they stop blocking the main gate?
+
+Intent check: against the silo register (nyc, manhattan, brooklyn, queens, bronx, staten-island) and the co-op Nassau register; also against the parallel condo-security-systems-long-island and -hudson-valley drafts — dropped/replaced drafts that overlapped them: part-time gatehouse staffing, staffed + residents-only second entrance, older-owner entry features, winter fob suspension, contractor/landscaper scheduled access, cellular call box. Those topics are covered on the hubs.
+
+### Images (11, permanent image rule; Drive/CompanyCam not checked by this subagent)
+All product photos. sha256 differs from every file in images/condo-security-systems/, co-op-security-systems/, co-op-board-intercom-upgrade/ at build time; pixel dimensions also checked against those sets to catch re-encoded copies of the same photo (the Akuvox keypad station, single-button station, UniFi lit-ring reader, solar PTZ, dual-lens turret-with-warning-lights and corridor job photos were rejected for that reason). Two "job" photos from images/alarm-installation/ (Fulton Ferry weatherproof boxes, Fort Hamilton conduit pull) rejected as apparently AI-generated (garbled tool/box text). No faces, house numbers, phone numbers or "AESS"; maker logos visible (Axis, Digital Watchdog, Akuvox, Alarm.com, Ubiquiti, TP-Link VIGI, Hikvision, Dahua-style turret kit).
+- black-video-door-station-with-round-call-button (hero/og) ← images/access-control-installation/access-control-installation-park-slope-video-door-station-for-brownstone-vestibule-product-photo.webp
+- rounded-video-intercom-with-reader-symbol ← images/digital-watchdog-megapix-intercom.jpg (converted to WebP)
+- black-keypad-and-card-reader-for-amenity-doors ← images/akuvox-vs-butterflymx/akuvox-vs-butterflymx-nyc-akuvox-a02-keypad-card-reader-product-photo.webp
+- compact-door-station-with-call-button-and-reader ← images/intercom-mini-panel.jpeg (converted to WebP)
+- bronze-video-doorbell-for-townhouse-entries ← images/2gig-vs-qolsys/2gig-vs-qolsys-nyc-alarm-com-white-doorbell-with-black-camera-face-product-photo.webp
+- white-floodlight-camera-for-carports-and-lots ← images/residential-security-camera-installation/residential-security-camera-installation-nassau-county-white-twin-floodlight-camera-product-photo.webp
+- white-flat-dome-camera-for-clubhouse-ceilings ← images/apartment-building-security-camera-installation/apartment-building-security-camera-installation-long-island-white-flat-dome-camera-product-photo.webp
+- compact-network-video-recorder ← images/access-control-installation/access-control-installation-new-utrecht-compact-network-recorder-product-photo.webp
+- zoom-bullet-camera-for-entrance-drives ← images/warehouse-security-camera-installation/warehouse-security-camera-installation-dutchess-county-varifocal-bullet-camera-product-photo.webp
+- dual-lens-turret-camera-for-pool-decks ← images/alarm-installation/alarm-installation-park-slope-dual-lens-turret-camera-product-photo.webp
+- four-turret-cameras-recorder-and-monitor-kit ← images/security-camera-maintenance/security-camera-maintenance-rockland-county-four-full-color-turret-cameras-recorder-and-monitor-kit-product-photo.webp
+DAILY-LOG note: `images: 11 reused from images/access-control-installation/ + akuvox-vs-butterflymx/ + 2gig-vs-qolsys/ + residential-, apartment-building-, warehouse-security-camera-installation/ + alarm-installation/ + security-camera-maintenance/ + 2 top-level product photos (no real condo photos yet)`.
+
+### Links left for the main run
+- FLIP comments (plain text): /condo-intercom-replacement (§6 intercom), /condo-security-camera-installation-nassau-county (§6 cameras), /condo-security-systems-suffolk-county (§19).
+- Linked live: /condo-security-systems-long-island (breadcrumb, schema, §19) and /condo-security-systems-hudson-valley (§19), both built in parallel.
+- Link back needed from all six live condo pages + the LI hub (down-link) + /co-op-security-systems-nassau-county; per keyword rules one contextual link back from /intercom-installation-nassau-county-new-york and /apartment-building-security-camera-installation-nassau-county.

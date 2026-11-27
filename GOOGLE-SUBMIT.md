@@ -3781,3 +3781,6 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-26 | https://www.abstractenterprisessecuritysystems.com/condo-security-systems-queens | QUEUED
 2026-11-26 | https://www.abstractenterprisessecuritysystems.com/condo-security-systems-bronx | QUEUED
 2026-11-26 | https://www.abstractenterprisessecuritysystems.com/condo-security-systems-staten-island | QUEUED
+2026-11-26 | https://www.abstractenterprisessecuritysystems.com/condo-security-systems-long-island | QUEUED
+2026-11-26 | https://www.abstractenterprisessecuritysystems.com/condo-security-systems-hudson-valley | QUEUED
+2026-11-26 | https://www.abstractenterprisessecuritysystems.com/condo-security-systems-nassau-county | QUEUED
