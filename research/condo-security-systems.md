@@ -217,3 +217,210 @@ Blocked during build (WebFetch permission not answered): nyc.gov HPD Tenant Data
 
 ## Images (11, permanent image rule, reused from images/access-control-installation/ and images/apartment-building-security-camera-installation/; none share a sha256 with any co-op-security-systems, co-op-board-intercom-upgrade or condo-security-systems image present at build time; checked by eye against those sets)
 lobby-camera-at-bulkhead-over-coffered-ceiling (hero/og), double-height-amenity-hall-with-mezzanine-windows, narrow-dark-grey-video-door-station, cellar-storage-room-dome-camera-under-stained-ceiling, white-wired-video-doorbell-for-unit-door, stainless-pendant-ptz-dome-camera-for-garage, two-dome-cameras-in-tiled-ceiling-grid, mailroom-corner-turret-camera-above-motion-sensor, 16-channel-network-video-recorder, recorder-view-of-sidewalk-and-curb, night-camera-view-of-open-service-door.
+
+
+## queens
+
+## queens
+
+## Queens — local research for `condo-security-systems-queens` (part file, Nov 26 2026; merge into research/condo-security-systems.md)
+
+Built by a batch subagent. Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page + section used. Tools: WebSearch, Firecrawl search, Firecrawl scrape (directQuote query mode, PDF parser, rawHtml of the NYC Open Data SODA API). Rows marked "reused" were verified by other silo builders.
+
+### Mandatory sources (§3) — status for this page
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | R1–R2 (Firecrawl search excerpts, r/longislandcity) |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env). §10.5 corrects claims typical of national cost guides / AI summaries (Angi, HomeAdvisor, Fixr named generically); no AI quote invented. |
+| 6 | Area landmarks | Gantry Plaza State Park, Court Square/Queens Plaza, Main St/Roosevelt Ave, Astoria Park/Ditmars Blvd, Queens Blvd (Forest Hills/Rego Park), Jamaica Center/Sutphin Blvd — real places named as general geography, no stats attached |
+| 7 | Building stock / use cases | Z1–Z5 |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | The Real Deal (Z3), QNS (M1) |
+| 10 | Hyperlocal | QNS/LIC Post (M1) |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Rows
+| # | Exact query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| Z1 | `Long Island City rezoning 2001 residential towers condos Hunters Point Queens West units built` · WebSearch → Firecrawl scrape PDF (directQuote) | https://www.nyc.gov/assets/planning/download/pdf/about/press-releases/pr52301.pdf | Release #16-01, May 23 2001: CPC "unanimously approved the Department's proposal to create special zoning regulations for 37 centrally located blocks in Long Island City in Queens." | §5 LIC subsection; facts list; stamp |
+| Z2 | `Hunters Point South Long Island City housing units waterfront towers completed nyc.gov` · Firecrawl search → Firecrawl scrape PDF (40 of 125 pages) | https://www.nyc.gov/assets/planning/download/pdf/about/cpc/250176.pdf | CPC report C 250176 ZMQ (LIC Neighborhood Plan): "construction of over 21,000 housing units within a half-mile radius from the project area since 2010"; Hunters Point South: five parcels "developed into 3,249 housing units"; "When complete, Hunters Point South will contain approximately 5,000 units of housing, over 60 percent of which would be income-restricted"; "the establishment of the LIC Special District in 2001 spurred significant development". | §5 LIC subsection; facts list |
+| Z2b | same search, Hunters Point Subdistrict PDF (checked, not used) | https://www.nyc.gov/assets/planning/download/pdf/plans/hunters-point-subdistrict/hunters-point.pdf | 2008 subdistrict rezoning ~300 units — too small/old to matter; not used. | — |
+| Z3 | `Flushing Queens new condo developments Skyview Parc Tangram One Fulton Square condominium units` · WebSearch → Firecrawl scrape (directQuote) | https://therealdeal.com/new-york/2022/12/29/how-flushing-became-a-hotbed-for-development/ | Pat Ralph & Adam Farence, Dec 29 2022: "Because its residents prefer to own real estate, Flushing has become a hotbed for condominium projects"; Sky View Parc "on 13 acres between Roosevelt Avenue, College Point Boulevard and 40th Road ... includes a pair of condominiums with nearly 1,200 units, a 1.2 million-square-foot shopping center and a wellness center"; special waterfront district "13 buildings with more than 1,700 residential units"; "29-acre rezoning". (Sky View Parc named only as a development cited by the press, not as a client.) | §5 Flushing subsection; facts list |
+| Z4 | `Jamaica Plan rezoning 2007 City Council approved 368 blocks housing Downtown Jamaica` · Firecrawl search (excerpt) | https://www.nyc.gov/assets/planning/download/pdf/about/cpc/080022.pdf | "On September 10, 2007, the Jamaica Plan, a comprehensive zoning and planning strategy for 368 blocks in Jamaica, Queens, was adopted". | §5 Jamaica subsection; §7 Jamaica card; facts list |
+| M1 | `Queens new development condo market report 2025 Long Island City Flushing share of sales` · WebSearch → Firecrawl scrape (directQuote) | https://qns.com/2025/07/lic-condo-activity-climbs-in-q2-2025-with-surge-in-sales-and-contracts/ | Ethan Marshall, Jul 14 2025, citing SERHANT: LIC condo closed sales "from 106 in the second quarter of 2024 to 173 in the second quarter of 2025"; "One-bedroom units accounted for the majority ... with 104". | §5 LIC; facts list; AI check #1 |
+| M1b | Corcoran LIC & Astoria 1H 2025 report · Firecrawl scrape | https://inhabit.corcoran.com/long-island-city-astoria-market-report-1h-2025/ | Redirected to report archive; no data extracted. EMPTY; not used. | — |
+| D1 | SODA `$select=communityboard,count(*)&$where=boro='QUEENS' AND upper(novdescription) like '%INTERCOM%' AND novissueddate between '2025-01-01T00:00:00' and '2025-12-31T23:59:59'&$group=communityboard` · Firecrawl scrape (rawHtml); direct curl from build env timed out | https://data.cityofnewyork.us/resource/wvxf-dwi5.json (dataset https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/wvxf-dwi5) | 2025 Queens intercom violations by CB: 1=20, 2=26, 3=48, 4=29, 5=10, 6=35, 7=49, 8=50, 9=14, 10=2, 11=4, 12=35, 13=3, 14=17; total 342 (matches co-op Queens row Q10 class total). CB→neighborhood labels = standard CB geography. Page caveat: mostly rental complaints, not a condo count. | §5 table + caveat paragraph; facts list |
+| R1 | `reddit Long Island City condo building package room intercom fob HOA board LIC` · Firecrawl search (excerpt) | https://www.reddit.com/r/longislandcity/comments/1vic0mf/halo_lic_gave_our_spare_key_to_a_stranger_who/ | Title/excerpt: building staff "handed our spare key to a stranger who broke into our home". Rental building; building name NOT used on page (URL slug contains it — link kept as the source). | §5 "What Queens condo residents complain about" |
+| R2 | same search | https://www.reddit.com/r/longislandcity/comments/1vmeeos/vera_a_44story_condo_building_breaks_ground_in_lic/ | Title: "Vera, a 44-story condo building, breaks ground in LIC". Project name not used on page. | same paragraph |
+| G1 | reused (silo L1) | https://law.justia.com/codes/new-york/rpp/article-9-b/339-e/ | RPL §339-e common elements incl. "halls, corridors, lobbies, stairs, stairways, fire escapes, and entrances and exits of the building"; "recreational or community facilities, parking areas and storage spaces"; "all apparatus and installations existing for common use"; operation of the property definition. | §5 para 2; AI check #4 |
+| G2 | reused (silo L2 / Brooklyn G1) | https://www.nysenate.gov/legislation/laws/RPP/339-V | Bylaws: "the powers and duties of the board"; percentage "necessary to adopt decisions binding on all unit owners"; reserves for "major and minor maintenance, repairs, additions, improvements, replacements". | §5 para 3 |
+| G3 | reused (silo L4) | https://www.nysenate.gov/legislation/laws/MDW/50-A | MDL §50-a: post-1968 class A, 8+ apartments, self-locking door + intercom with release. | §8 rules list |
+| G4 | reused (silo L5) | https://intro.nyc/local-laws/2021-63 | Local Law 63 of 2021 smart access rules; applicability to owner-occupied condo units left to counsel. | §8 rules list |
+| G5 | reused (silo L6) | NYC BC 1010.1.9.8/9; Admin Code §28-105.4.7 (amlegal links in research/co-op-security-systems.md) | Egress locking release; low-voltage permit exemption. Described without links. | §8 rules list |
+| P1 | site price pages (internal) | /door-buzzer-repair-pricing , /intercom-pricing , /security-camera-pricing-queens | $250 service call; ranges $250–$525, $250–$475, $325–$650, $450–$950, $650–$1,800, $850–$2,400 (same table as co-op Queens). No other prices. | §14 table; §15 cards; hero; FAQ |
+
+Neighborhood/street names used as general geography only (no stats): Sunnyside, Woodside, Elmhurst, Jackson Heights, Astoria/Ditmars, Steinway St, 30th Ave, Jackson Ave, Court Square, Queens Plaza, Main St, Roosevelt Ave, Queens Blvd, Jamaica Ave, Sutphin Blvd, Bell Blvd, Bayside, Douglaston, Little Neck, Whitestone. Building-type descriptions in §7 are field observation, no statistic claimed.
+
+### Queens question register (this page) — add to the silo register
+§9 Q&A (H3): Our building still has unsold units held by the sponsor. Who signs off on security work? · Our ground-floor commercial owner uses the same service door as residents. Who pays for its hardware? · How should our board compare three security bids that propose different equipment? · Can the work start while the building is still under the developer's construction warranty? · Our management office is in Manhattan and the building has no full-time staff. Who needs to be on site? · Some owners want a screen on the wall and others only want the app. Can one system do both? · Many of our owners spend months overseas. Can they still answer the lobby from abroad? · Can a visitor at the garage level call up to an apartment? · Will our doors stay locked or swing open if the power fails? · Can owners reserve the party room or guest suite and have the door open only for their booking? · How do we stop dog walkers and cleaners from keeping fobs after an owner lets them go? · Our package room overflows in November and December. Should we add lockers or a second room? · Can bike room access be limited to owners who registered a bike? · How long should a Queens condo keep its camera recordings? · What should the board do when police ask for a video clip?
+
+§17 FAQ: Can you match the entry hardware already installed in the other buildings of our Queens condo complex? · Will someone from your company present the proposal at our condo board meeting? · Can the condo association pay by check from its operating account? · Can you put a reader on the trash room or recycling area door in a Queens condo? · Do you install license plate cameras at a condo garage entrance? · Do you take away the old intercom panels and equipment when you replace them? · How long does a lobby entry replacement take once the equipment has arrived? · Do you train the resident manager and board officers to run the software? · Is there a charge to review another company's security proposal for our Queens condo? · Can you help our board write house rules for fobs, guests and camera footage? · Can the roof door sound an alarm if someone props it open? · Can individual owners order extra fobs directly from you?
+
+Intent check vs register (NYC/Manhattan/Brooklyn condo + co-op Queens): owner vote, funding, handset bill, sponsor login, renters, couriers, stale owner fobs, footage access, unit doorbell cams, virtual doorman, financing, warranty, brands, references, RFP format, electrical, weekends, free walk-through, maintenance visits, coverage radius, multi-building single fob (co-op Queens), landline shareholders, internet outage — all answered in body only or avoided; none repeated as a question.
+
+### Images (11, permanent image rule — no Drive/CompanyCam check in this run)
+Copied into images/condo-security-systems/ with `-queens-` names. SHA-256: none matches any file in images/condo-security-systems/ (nyc/manhattan/brooklyn, plus the parallel bronx/staten-island files present at check time), images/co-op-security-systems/ or images/co-op-board-intercom-upgrade/. Visual check: the library's distinct job photos are nearly all already used somewhere in the condo/co-op silos under other encodings; these 11 were chosen as the least-used scenes and none appears on co-op Queens. Viewed before naming: no faces, house numbers, phone numbers or "AESS"; no buzzer-repair/*.jpg, elevator-access-control, network-installation, low-voltage, commercial-security, smart-lock or AI images.
+| Page file | Source |
+|---|---|
+| …-queens-camera-above-steel-door-at-end-of-back-hall (hero/og) | access-control-installation/…-olinville-camera-over-grey-steel-service-door |
+| …-queens-keypad-entry-station-with-reader-and-camera (product) | door-buzzer-installation/…-allerton-keypad-door-station-with-card-reader-and-camera |
+| …-queens-dark-touchscreen-directory-panel-with-keypad (product, Akuvox) | access-control-installation/…-bedford-park-dark-touchscreen-panel-with-numeric-keypad |
+| …-queens-rounded-single-door-video-intercom (product) | door-buzzer-installation/…-ulster-county-pill-shaped-video-intercom |
+| …-queens-white-dome-in-corner-above-motion-sensor | access-control-installation/…-new-utrecht-white-dome-in-hall-corner-above-motion-sensor |
+| …-queens-dome-camera-in-drop-ceiling-beside-light-panel | access-control-installation/…-gowanus-dome-camera-beside-track-lights |
+| …-queens-exterior-dome-under-fascia-against-winter-sky | access-control-installation/…-throggs-neck-dome-camera-under-fascia-against-winter-sky |
+| …-queens-low-voltage-cable-bundles-over-ceiling-beam | door-buzzer-installation/…-allerton-low-voltage-cable-bundles-over-ceiling-beam |
+| …-queens-ground-floor-shop-ceiling-over-shelves | access-control-installation/…-melrose-shop-ceiling-over-stocked-shelves |
+| …-queens-dome-camera-over-wood-slat-retail-wall | access-control-installation/…-gowanus-dome-camera-over-wood-panel-shop-wall |
+| …-queens-recorder-per-channel-status-readout | access-control-installation/…-laconia-recorder-screen-per-channel-readout |
+
+DAILY-LOG note: `images: 11 reused from images/access-control-installation/ + images/door-buzzer-installation/ (no real condo photos yet)`.
+
+### Links left for the main run
+- FLIP (plain text + comment): `/condo-intercom-replacement` (§6 intercom), `/condo-security-camera-installation-queens` (§6 cameras), `/condo-security-systems-long-island`, `/condo-security-systems-hudson-valley` (§19).
+- Linked directly though built in parallel: `/condo-security-systems-bronx` (file not present at last check → checker "broken link" until it lands), `/condo-security-systems-staten-island`.
+- Link backs needed: /condo-security-systems-nyc, -manhattan, -brooklyn (FLIP comments already there), /co-op-security-systems-queens (one link back), and per keyword rules one contextual link back from /intercom-installation-queens-ny and /apartment-building-security-camera-installation-queens.
+
+
+## bronx
+
+## bronx
+
+## Bronx — local research for `condo-security-systems-bronx` (part file, Nov 26 2026; merge into research/condo-security-systems.md)
+
+Built by a batch subagent. Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page + section used. Tools: Firecrawl search, Firecrawl scrape (directQuote query mode). Rows marked "reused" were verified by earlier silo builders.
+
+Thesis (why this is not a borough swap): the Bronx's condo stock is dominated by converted prewar complexes (Parkchester), Riverdale elevator condos inside a co-op neighborhood, east Bronx garden/townhouse/gated waterfront communities, and only a few boutique condos in the South Bronx, where new construction is mostly rental. The page is built around campus-wide credentials, parking lots and gates, package theft, renters in owner units and shoreline exposure.
+
+### Mandatory sources (§3) — status
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | EMPTY (not searched this run; resident voice taken from Bronx Times / Parkchester Times instead) |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env). §10.5 corrects generic claims from national cost guides / AI-style summaries (Angi, HomeAdvisor, Fixr named generically); no AI quote invented. |
+| 6 | Area landmarks | X1, X4–X7 |
+| 7 | Building stock / use cases | X1–X6 |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | Bronx Times (N1) |
+| 10 | Hyperlocal | Parkchester Times (N2), The Riverdale Press (N3) |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Rows
+| # | Exact query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| X1 | (direct) · Firecrawl scrape directQuote | https://en.wikipedia.org/wiki/Parkchester,_Bronx | Planned community by Metropolitan Life; scale model at 1939 World's Fair; "51 groups of buildings were planned to house 12,000 families"; ~1/3 converted to condominiums 1974, remainder (Parkchester South Condominium) 1986; "171 four-sided brick buildings, either eight or 13 stories"; 2-acre Aileen B. Ryan Oval; "Parkchester special patrolmen are issued a pistol license by the New York City Police Department". | §5 Parkchester subsection + facts list; §7 card A; AI check #1; §13 card 1; FAQ 1 |
+| N1 | `Parkchester condominium security cameras intercom package theft Bronx Times` · Firecrawl search → scrape | https://www.bxtimes.com/parkchester-residents-plan-second-rally-in-four-weeks-demanding-safety-improvements/ | Bronx Times, Emily Swanson, Oct 7 2024: residents' "call for more lighting, cameras and increased law enforcement engagement"; resident realized her door "is hollow and quite easy to break"; sign: "I should not have to rely on my neighbor's Ring Doorbell [camera]". | §5 Parkchester para 2; Q&A (flimsy unit doors; lighting before cameras); AI checks #1, #2 |
+| N2 | same search → scrape | https://parkchestertimes.com/2025/06/18/lets-stop-package-theft-together-says-parkchester-resident-as-community-urged-to-stay-alert/ | Parkchester Times, June 18 2025: Parkchester South resident on package theft; urged "downloading security footage before it auto-deletes" and "only buzz in people you know or deliveries you are expecting". | §5 Parkchester para 2–3; Q&A (clip request timing); AI check #3 |
+| N3 | `Riverdale Press condo board Riverdale condominium building intercom OR security OR lobby` · Firecrawl search → scrape | https://www.riverdalepress.com/stories/riverdale-cooperatives-association-re-elects-board-continues-community-advocacy,151840 | The Riverdale Press, July 12 2024: association membership "more than 100 co-operatives and condominiums"; workshops on "code compliance, legal parameters, green energy and local law 11". | §5 Riverdale subsection + facts list |
+| X2 | `Throggs Neck condominium development Bronx Times condo townhouses waterfront gated` · Firecrawl search → scrape | https://nyc.marketproof.com/neighborhood-guides/nyc/bronx/throggs-neck | "Condo developments have arrived on Schurz Avenue, as well as gated co-op communities with single family homes." | §5 east Bronx subsection; §13 card 3; §8 corridor list |
+| X3 | (direct) · Firecrawl scrape | https://nyc.marketproof.com/neighborhood-guides/nyc/bronx/pelham-bay | "tree-lined homes brushing up against newer apartments"; "Pelham Bay Park ... the city's largest park"; "the 6 train spurring on apartment building development". | §5 east Bronx subsection; §13 card 4; §8 Westchester Ave |
+| X4 | `Lower Concourse rezoning 2009 Mott Haven Port Morris City Planning residential waterfront` · Firecrawl search → scrape | https://edc.nyc/project/lower-concourse-infrastructure-investment-strategy | "In 2009, this 30-block stretch along the Harlem River was rezoned to allow for residential and commercial development"; Bronx Point phase 1 "Approximately 540 units of 100% permanently affordable housing". | §5 South Bronx subsection + facts list; §13 card 5 |
+| X5 | `Bronx condominium buildings Riverdale condos Mott Haven new development condo Throggs Neck condo complex` · Firecrawl search (excerpt) | https://www.6sqft.com/new-rental-buildings-in-the-bronx/ | "7 notable new rental buildings in the Bronx": Mott Haven rentals incl. 12-story Bruckner House at 40 Bruckner Blvd and the seven-tower Bankside waterfront complex. (Buildings not named on the page.) | §5 South Bronx subsection; AI check #5; §8 Bruckner/Third Ave |
+| X6 | (direct) · Firecrawl scrape directQuote | https://comptroller.nyc.gov/reports/spotlight-new-york-citys-homeowner-housing-market/ | Citywide only: 318,000 occupied condo apartments; "18% of condo units citywide are owned by LLC's"; owners may have "subsequently vacated and are renting out their units". No Bronx-specific figure (page says so). | §5 "Rented units" subsection + facts list |
+| X7 | landmark geography (no client building named) | — | Aileen B. Ryan Oval (X1), Riverdale hillsides, Schurz Ave (X2), Pelham Bay Park (X3), Harlem River / Lower Concourse (X4), Fordham Road (office NAP). East Tremont Ave, Johnson/Riverdale Aves, Westchester Ave, Bruckner Blvd/Third Ave named as corridors only (Bronx Times mentions E Tremont Ave; Marketproof X2/X3; 6sqft X5). | §8 corridor list; §13 cards |
+| G1 | `New York Real Property Law 339-d definitions common elements` (reused, silo L1) · Firecrawl scrape | https://law.justia.com/codes/new-york/rpp/article-9-b/339-e/ | Common elements quoted (halls, corridors, lobbies ... entrances and exits; basements, cellars, yards, gardens ... parking areas and storage spaces; "all apparatus and installations existing for common use"). | §5 para 2 |
+| G2 | reused (silo L2 / Brooklyn G1) | https://www.nysenate.gov/legislation/laws/RPP/339-V | Bylaws contents; decisions "binding on all unit owners"; reserves. | §5 para 3 |
+| G3 | reused (silo L4) | https://www.nysenate.gov/legislation/laws/MDW/50-A | MDL §50-a: post-1968 class A, 8+ apartments, voice communication + release "from the apartment"; majority written request for older buildings; misdemeanor to "wilfully destroy, damage, or jam". | §8 rules; facts list |
+| G4 | reused (silo L5) | https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-130977 ; https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page | LL 63/2021 smart access systems; written data policy. Applicability to condo associations left to counsel. | §8 rules; §10 credentials |
+| P1 | site price pages (internal, read Nov 26 2026) | /door-buzzer-repair-bronx-new-york ; /door-buzzer-repair-pricing ; /intercom-installation-bronx-ny ; /access-control-installation-bronx ; /security-camera-pricing-bronx ; /intercom-pricing | $250 service call; station $250–$525, transformer $325–$650, amplifier $450–$900, strike w/ alignment $450–$950, branch riser $850–$2,400 (Bronx buzzer page); multi-unit intercom $1,200–$4,500 (Bronx intercom page); single-door fob $1,500–$2,500, multi-door $4,000–$10,000, full building with elevator restriction $15,000–$40,000+ (Bronx access control page). No camera numbers quoted (link only). | §14 tables; §15 cards |
+
+### Bronx question register (this page) — add to the silo register
+§9 Q&A (H3): Our condo is one section of a big multi-building complex. Does our board decide on security, or someone above it? · How should a Bronx condo board compare three security bids that don't match line for line? · Can a large condo add cameras one building at a time without buying a new recorder for each? · Half of our entrance doors don't close and latch on their own. Is that an intercom problem or a door problem? · Our residents say their apartment doors feel flimsy. What can a security contractor actually do about that? · How many entrances can one condo intercom system run in a garden-style complex? · Can the lobby panel ring residents who only have a landline? · Can our private patrol officers and porters have their own credentials and a record of where they've been? · Where can a package room go in a walk-up condo with no spare room? · Can the parking lot gate and the building doors work from the same fob? · An owner's package was taken from the lobby. How quickly do they need to ask for the video? · Should a condo fix its lighting before adding more cameras? · Does salt air near the Throgs Neck shore shorten the life of outdoor readers and cameras? · A repair needs every apartment on the line, and several are rented out. How do we get in? · Is there an added charge for condos at the far edges of the borough, like Riverdale or City Island?
+
+§17 FAQ: Do you work on security in Parkchester's condominium buildings? · Can the entrance panel show visitor instructions in Spanish? · Can you mount cameras on our parking lot light poles? · Will you coordinate with our guard service or patrol company? · Do you take out the old equipment and patch the holes it leaves? · Can we keep the fobs residents already have when the access system is upgraded? · What should we send ahead of the free walk-through? · If the building replaces the intercom, can an owner pay to upgrade the equipment in their own apartment? · Can a board member meet the estimator after work? · Can the managing agent get one proposal and one invoice for several buildings in a complex? · What happens if a panel or reader has to be special ordered? · Do you monitor alarms or cameras for condo owners?
+
+(Checked by meaning against the nyc/manhattan/brooklyn condo register and the live queens/staten-island drafts; co-op Bronx questions on caregivers, footage retention length, facade timing and power supplies were deliberately avoided. Masked-geo paragraph similarity vs condo nyc/manhattan/brooklyn/queens/staten-island and co-op Bronx: max 0.59 apart from the mandated proof strip.)
+
+### Images (11, permanent image rule — no Drive/CompanyCam check in this run)
+Copied into images/condo-security-systems/ with `-bronx-` names; sha256 not present in images/condo-security-systems, images/co-op-security-systems or images/co-op-board-intercom-upgrade at build time, and checked by eye against those sets (several library files are re-crops of scenes already used; those were rejected).
+- from images/access-control-installation/: parkchester-camera-over-corridor-to-grey-steel-door → ceiling-camera-over-hallway-to-grey-steel-door (hero/og, job photo); soundview-turret-camera-above-glass-entrance-wall → turret-camera-above-glass-lobby-entrance (job); williamsbridge-camera-arm-under-cornice → camera-on-steel-arm-under-stone-cornice (job; no house number visible); eastchester-white-bullet-camera-with-wall-mount-box → white-bullet-camera-with-junction-box (Hikvision product photo); edenwald-black-video-doorbell-with-blue-lit-bell-button → black-video-doorbell-with-lit-bell-button (Lorex product photo); clason-point-bronx-white-and-black-dual-lens-doorbell → dual-lens-video-doorbell-for-unit-entry (Uniview product photo); cobble-hill-brooklyn-white-indoor-touchscreen-answering-monitor → white-indoor-touchscreen-answering-monitor (Akuvox product photo)
+- from images/apartment-building-security-camera-installation/: hudson-valley-stainless-box-camera-housing-on-bracket-product-photo → stainless-camera-housing-for-shoreline-air (Dahua product photo); staten-island-black-vandal-dome-camera-product → black-vandal-dome-camera-for-garage-levels (Uniview product photo); westchester-county-white-eyeball-turret-camera-product-photo → white-eyeball-turret-camera (product photo); queens-colorvu-bullet-camera-product-photo → color-night-bullet-camera-for-parking-lots (Hikvision product photo)
+- Rejected as visual repeats of condo/co-op Bronx photos: parkchester network cables, parkchester lobby exit sign, bedford-park keypad panel, kingsbridge-heights lobby soffit, fieldston/harding-park recorder monitor, pelham-bay/morris-heights recorder views, pelham-parkway double-height wall. Never used: images/buzzer-repair/*.jpg, elevator-access-control, network-installation, low-voltage, commercial-security, smart-lock sets.
+- Swapped out after comparing with the parallel queens/staten-island drafts (same scenes, different crops): throggs-neck bullet on bracket, pelham-gardens dome under eave, indian-village dome + sensor. Still shared by scene with the queens draft: the hero hallway (parkchester crop vs queens 'camera-above-steel-door-at-end-of-back-hall'); with staten-island: the Akuvox indoor monitor product photo (same product, different crop).
+- DAILY-LOG note: `images: 11 reused from images/access-control-installation/ + images/apartment-building-security-camera-installation/ (no real condo photos yet)`
+
+### Links left for the main run
+- FLIP comments in the page: `/condo-intercom-replacement` (§6 intercom), `/condo-security-camera-installation-bronx` (§6 cameras), `/condo-security-systems-long-island`, `/condo-security-systems-hudson-valley` (§19).
+- Links back needed from /condo-security-systems-nyc, -manhattan, -brooklyn (and -queens, -staten-island if not already), /co-op-security-systems-bronx (one contextual link), plus per keyword rules one contextual link back from /intercom-installation-bronx-ny and /apartment-building-security-camera-installation-bronx.
+
+
+## staten-island
+
+## staten-island
+
+## Staten Island — local research for `condo-security-systems-staten-island` (part file, Nov 26 2026; merge into research/condo-security-systems.md)
+
+Built by a batch subagent. Format per blueprint v2.3 §12.4. Tools: Firecrawl scrape (raw JSON from the NYC Open Data SODA API; directQuote query mode), Firecrawl search, WebSearch.
+
+HOLD-THIN test: passed. Staten Island's condo stock is genuinely different from the other boroughs (63% of condo homes in 1-3 story class R3 townhouse-style lots, 43% in ZIP 10314, 1980s peak, two-layer HOA + condo governance), so the page is written around entrance drives, call boxes, pools/clubhouses, parking courts and mail kiosks rather than lobbies. Angle kept apart from co-op-security-systems-staten-island (multi-building garden co-ops, Mitchell-Lama, Sandy/seawall, HPD violations).
+
+### Mandatory sources (§3) — status
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | EMPTY (not searched this run; no Staten Island condo thread verified) |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env). §10.5 corrects generic claims seen in national cost guides/summaries (Angi, HomeAdvisor, Fixr named generically); no AI quote invented. |
+| 6 | Area landmarks | SIC-L1 |
+| 7 | Building stock / use cases | SIC-P1–SIC-P4, SIC-C1 |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | SILive (SIC-N1, SIC-N2) |
+| 10 | Hyperlocal | SILive used; no condo-specific intercom/gate story found |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Rows
+| # | Exact query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| SIC-P1 | SODA `$select=bldgclass,count(*) as n,sum(unitsres) as u,min(yearbuilt),max(yearbuilt)&$where=borough='SI' AND starts_with(bldgclass,'R')&$group=bldgclass` · NYC Open Data (MapPLUTO, 64uk-42ks) via Firecrawl scrape | https://data.cityofnewyork.us/resource/64uk-42ks.json (dataset https://data.cityofnewyork.us/City-Government/Primary-Land-Use-Tax-Lot-Output-PLUTO-/64uk-42ks) | SI condo classes: R3 141 lots/7,233 res. units; RM 29/1,550; R6 18/34; R4 17/1,948; R2 6/483; RD 2/194; R1 3/16 (R0, R5, RB, RC, RK, RW, R8, RA non-residential/zero units). Residential classes total 216 lots / 11,458 units; R3 = 63%. | §5 para 2, facts list; §6 lobby-intercom para (R4+R2 ≈ 2,400) |
+| SIC-P2 | SODA `$select=zipcode,count(*),sum(unitsres)&$where=borough='SI' AND bldgclass in('R2','R3','R4','RM','R1','R6','RD')&$group=zipcode` · same | same | 10314: 72 lots/4,947; 10304 13/1,500; 10306 17/845; 10305 30/831; 10301 13/714; 10309 11/654; 10312 15/624; 10303 14/586; 10308 15/438; 10310 6/172; 10307 4/125; 10302 4/20; no ZIP 2/2. ZIP→neighborhood labels are standard USPS geography. | §5 ZIP table + "Mid-Island first"; facts list |
+| SIC-P3 | SODA `$select=bldgclass,yearbuilt,unitsres,zipcode,numfloors&$where=borough='SI' AND bldgclass in('R2','R3','R4','RM','RD')&$order=yearbuilt&$limit=300` · same | same | Of dated lots: 11 pre-1970, 12 in 1970s, 63 in 1980s (peak), 7 in 1990s, 43 from 2004 on (mostly 2–6 unit lots; a few large RM: 467 u 2014, 270 u 2022 12 fl, 116 u 2016 16 fl, 104 u 2014); ~58 lots year 0. R4: 1931/1937 6-fl (10301); 1961–64 7–8 fl; 1980s 3–7 fl. R3 mostly 2–3 floors. | §5 "1980s communities"; §6 buzzers; §7 cards D–F + elevator subsection; §8 corridors |
+| SIC-P4 | `NYC building class R3 condo residential unit 1-3 story` · WebSearch → Firecrawl scrape (directQuote) | https://www.propertyshark.com/info/class-r-buildings-condominiums/ | "R2 – Condo; Residential Unit In Walk-Up Bldg.", "R3 – Condo; Residential Unit In 1-3 Story Bldg.", "R4 – Condo; Residential Unit In Elevator Bldg", "R6 – Condo; Resid.Unit Of 1-3 Unit Bldg-Orig Class 1" (DOF class list; nyc.gov glossary page 404'd). | §5 para 2 quote |
+| SIC-G1 | reused silo L1 | https://law.justia.com/codes/new-york/rpp/article-9-b/339-e/ | RPL §339-e common elements incl. "basements, cellars, yards, gardens, recreational or community facilities, parking areas and storage spaces"; "all apparatus and installations existing for common use". | §5 "Two layers of governance" |
+| SIC-G2 | `New York Attorney General homeowners association offering plan regulations 13 NYCRR Part 22 HOA common areas` · Firecrawl search (excerpt) | https://ag.ny.gov/sites/default/files/regulatory-documents/13_nycrr_22.3.pdf | §22.3(f): plan must describe common areas incl. "the land, buildings, lots, parking facilities, recreational facilities". | §5 governance; §10.5 #4 |
+| SIC-G3 | reused silo L4/L5/L6 + co-op SI-G2 | MDL §50-a; LL 63/2021 (intro.nyc); Admin Code §28-105.4.7; GBL Art. 6-D | as in silo rows | §5 facts; §6 cabling; §8.5 rules list |
+| SIC-C1 | reused silo L3 | https://comptroller.nyc.gov/reports/spotlight-new-york-citys-homeowner-housing-market/ | 318,000 occupied condo apartments citywide. | facts list |
+| SIC-N1 | `silive Staten Island condo complex homeowners association security cameras gate break-ins cars` · Firecrawl search (excerpt) | https://www.silive.com/crime-safety/2022/09/residents-of-this-staten-island-community-say-thieves-are-accessing-locked-cars-are-high-tech-devices-at-work.html | Headline + excerpt: "For more than two years, police have been imploring borough residents to lock their car doors amid a surge in car break-ins and grand larceny". | §5 "What residents complain about" |
+| SIC-N2 | same search (excerpt) | https://www.silive.com/crime-safety/2025/08/we-have-cameras-and-still-homeowner-decries-package-thefts-on-staten-island.html | Another household member: "It's unfortunate that people are having to set up lock boxes because of people (who steal)." | §5 same para |
+| SIC-L1 | landmark geography (no building named, no counts) | — | Staten Island Mall/Richmond Ave; College of Staten Island (Willowbrook); Freshkills Park; Staten Island Greenbelt; Bay Street, Stapleton; Conference House Park, Tottenville. Corridors: Bay St, St. George, Richmond Ave, Hylan Blvd, Victory Blvd, Forest Ave. | §13 cards; §8 list |
+| SIC-PR | site pages (internal, read Nov 26 2026) | /intercom-pricing; /door-buzzer-repair-pricing; /intercom-installation-staten-island-ny; /access-control-installation-staten-island; /alarm-installation-staten-island | $250 service call; repair ranges $250–$525, $250–$475, $325–$650, $450–$950, $650–$1,800, $850–$2,400; SI multi-unit intercom $1,200–$4,500+ (5–20 units); pedestrian gate keypad $1,500–$2,000; encrypted fob reader on lobby door $1,500–$2,500 installed; vehicle + pedestrian gate $4,000–$7,000; monitoring $30/mo keypad, $45/mo app. | §6, §14 tables, FAQ 5 |
+
+### Staten Island question register (this page) — add to the silo register
+§9 Q&A (H3): Our townhouse condo has no lobby. What does a building intercom even mean for a community like ours? · Our development has a master HOA and a separate condo association. Which one signs the contract with you? · Can a volunteer officer run the gate and pool access from a phone, without a managing agent? · Visitors keep slipping in behind residents at our entrance gate. Is the fix a camera, a second arm or something else? · The plow knocks over our keypad post every winter. What are the options? · What should our entrance gate do when the power goes out? · How should pool fobs work for a season that runs only from late May to early September? · Can guest passes for the pool or clubhouse expire on their own? · Can the clubhouse party room open only for the owner who reserved it? · Where should a townhouse community put its first two cameras? · Several of our garages open onto a shared lane. Can a camera watch the lane without looking into the garages? · Our townhouses get packages on dozens of separate stoops. Does a central parcel room make sense for a community like ours? · The original low-voltage cable runs underground from the gate to the clubhouse. Can a new system reuse it? · How long does a gate, clubhouse and pool access project take in a community of about 100 homes? · We are a mixed-use condo with stores downstairs. Can the residential board and the store owners share one system?
+
+§17 FAQ: Can the gate directory list owners without showing their full names? · Can one fob open the vehicle gate, the pool and the clubhouse? · Can the board see who opened the pool gate after closing time? · Can the entrance gate open for ambulances and fire trucks? · What does alarm monitoring cost for a townhouse owner in the community? · Can an owner's own doorbell tie in to the community gate system? · Can the gate stay open during the day and lock at night? · Can you add cameras to a recorder our association already owns? · Our community has narrow private lanes and little visitor parking. Does that affect the visit? · Does winter weather delay outdoor gate and camera work on Staten Island? · Can a mixed-use condo keep its residential entrance separate from the stores below? · Do you also work in Staten Island's elevator condo buildings?
+
+### Images (11, permanent image rule; no Drive/CompanyCam check in this run)
+Copied into images/condo-security-systems/ with `-staten-island-` names; sha256 differs from every file in images/condo-security-systems/ (incl. the parallel Queens/Bronx sets), co-op-security-systems/, co-op-board-intercom-upgrade/; checked by eye against condo/co-op sets (a recorder-screen photo was dropped because Queens used a crop of it).
+- black-bullet-camera-on-drop-ceiling-by-white-wall (hero/og; job photo) ← images/access-control-installation/access-control-installation-dumbo-black-bullet-camera-on-drop-ceiling-over-white-wall.webp
+- one-button-door-station-with-card-symbol (product) ← access-control-installation-city-line-brooklyn-one-button-door-station-with-card-symbol.webp
+- white-touchscreen-indoor-answering-monitor (product) ← access-control-installation-city-line-brooklyn-white-indoor-answering-monitor.webp
+- wired-video-doorbell-with-green-ring-button (product) ← security-camera-maintenance-brooklyn-video-doorbell-product-photo.webp
+- floodlight-camera-with-two-square-lamps (product) ← floodlight-camera-installation-hudson-valley-white-floodlight-with-two-square-panels-product-photo.webp
+- twin-lens-dome-camera-for-parking-courts (product) ← apartment-building-security-camera-installation-hudson-valley-white-twin-lens-dome-camera-product-photo.webp
+- white-turret-camera-with-twin-illuminators (product) ← security-camera-maintenance-bronx-turret-camera-twin-illuminators-product-photo.webp
+- ptz-dome-camera-on-pendant-mount (product) ← apartment-building-security-camera-installation-manhattan-ptz-dome-camera-on-pendant-mount.webp
+- ceiling-360-fisheye-camera (product) ← apartment-building-security-camera-installation-suffolk-county-360-fisheye-camera-product-photo.webp
+- four-turret-cameras-with-network-recorder (product) ← security-camera-maintenance-brooklyn-four-dome-camera-recorder-kit-product-photo.webp
+- rack-recorder-with-vented-front (product) ← security-camera-maintenance-bronx-rack-recorder-vented-front-product-photo.webp
+Rejected: images/parking/* (AI-generated, branded shirts/phone numbers), recorder-screen (Queens crop), tiny <200px shots. Product photos show maker logos (Akuvox, Lorex, Uniview, Hikvision, Dahua, Alarm.com); no faces, house numbers, phone numbers or "AESS".
+DAILY-LOG note: `images: 11 reused from images/access-control-installation/ + images/security-camera-maintenance/ + images/apartment-building-security-camera-installation/ + images/floodlight-camera-installation/ (no real condo photos yet)`.
+
+### Links left for the main run
+- FLIP comments: /condo-intercom-replacement (§6), /condo-security-camera-installation-staten-island (§6), /condo-security-systems-long-island and /condo-security-systems-hudson-valley (§19).
+- Link back needed from /condo-security-systems-nyc, -manhattan, -brooklyn (and -queens/-bronx if not already), /co-op-security-systems-staten-island; per rules one contextual link back from /intercom-installation-staten-island-ny and /apartment-building-security-camera-installation-staten-island.
