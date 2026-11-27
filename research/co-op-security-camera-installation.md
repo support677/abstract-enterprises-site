@@ -841,3 +841,36 @@ DAILY-LOG note: `images: 11 official Reolink product/sample photos via Firecrawl
 - Page states: cameras moved after handover are billed as a $250 service call plus cable (from the $250 service-call price on the Rockland price page) — confirm.
 - Page states balance is due at completion/handover (deposit 50% up front) — confirm.
 - Page offers to demonstrate the installed system at a co-op's annual meeting and a yearly check that includes lens cleaning — confirm both are offered.
+
+
+## orange-county
+
+## Orange County — thin-check for `co-op-security-camera-installation-orange-county` (Nov 27 2026; part file, merge into research/co-op-security-camera-installation.md)
+
+Built by a batch subagent. Result: **HOLD-THIN** — no page written, no images copied. Child of /co-op-security-camera-installation-hudson-valley; GBP Bronx; phone (845) 640-3835. Format v2.3 §12.4: exact query · platform · URL · finding · use.
+
+### Verdict
+Orange County's co-op stock is real but too small and too uniform to carry a substantive 12,000+ word co-op *camera* page that differs from the pages already live, without padding or invented facts. Recommend: PAGE-QUEUE line → `HOLD-THIN <reason below>`; handle Orange co-op camera demand the way the HV hub handles Ulster (the HV hub's Orange paragraph + /co-op-security-systems-orange-county camera section + /condo- and /apartment-building-security-camera-installation-orange-county). The HV hub's All Areas line currently says "an Orange County page is in preparation" — main run should change that wording if Anwar agrees with the hold.
+
+### Evidence
+| # | Exact query · platform | URL | Finding | Use |
+|---|---|---|---|---|
+| OCC1 | Firecrawl scrape (query: list every co-op listing), maxAge 0 | https://www.homes.com/orange-county-ny/co-ops-for-sale/ | Nov 27 2026: 7 listings total, all in three places: 3 in one Cornwall garden complex (same street, unit numbers up to 110; one lists a pool), 3 in one New Windsor complex (same street address, one "townhouse styling", on-site laundry, pool, parking), 1 single-family ranch-style co-op in Monroe. | thin-check |
+| OCC2 | Firecrawl scrape (PDF, query) | https://irp.cdn-website.com/a5e60d20/files/uploaded/2026_10_Orange_County.pdf | OneKey MLS Oct 2026, Orange County co-ops: 0 closings in Oct 2026; **13 closings in 12 months through Oct 2026** (23 prior year); 12-mo median $169,000; inventory 5; 12-mo DOM 78. Comparison: condos 359, single-family 2,526 (12 mo). | thin-check |
+| OCC3 | reused co-op-security-systems OC2 | https://irp.cdn-website.com/a5e60d20/files/uploaded/2026_Q3_Orange_County.pdf | Q3 2026: 6 co-op closings, median $167,000, inventory 6. | thin-check |
+| OCC4 | `Orange County NY co-op apartments for sale New Windsor Cornwall garden cooperative` · WebSearch | weichert.com/127806019, weichert.com/131866109, onekeymls.com (Manor Drive Cornwall, Oakwood Terrace New Windsor), coldwellbankerhomes.com Oakwood Terrace | Results resolve to the same two complexes (New Windsor, Cornwall) plus one Rock Tavern (Town of New Windsor) address with a three-digit unit number. Weichert pages are sold/expired with no details; the OneKey Cornwall listing returns 410 Gone. | thin-check |
+| OCC5 | `"co-op" cooperative apartment Newburgh OR Middletown OR "Highland Falls" OR Warwick OR Goshen OR "Port Jervis" NY for sale` · Firecrawl search | (no Orange County co-op results; Bronx "Middletown Rd" and other-state noise only) | No co-op buildings found in the cities of Newburgh, Middletown or Port Jervis or the villages searched. | thin-check |
+| OCC6 | Firecrawl scrape (query: Orange County entries) | https://hcr.ny.gov/state-supervised-middle-income-housing-developments-families (→ 2025/10 PDF) | Orange County has 2 state-supervised Mitchell-Lama developments (Middletown, 75 and 107 units), both **Rental**; 0 co-ops. | thin-check |
+| reused | co-op-security-systems OC5, OC6 | coldwellbankerhomes.com (New Windsor, built 1960, garden-style, laundry, pool, $664/mo); raveis.com/property/flyer/19511185 (Cornwall, built 1965, 2-level complex, lot, laundry, playground) | Both already cited on /co-op-security-systems-orange-county and the HV co-op camera hub. | — |
+
+### Why that can't support a different 12,000-word page
+1. **One building type.** Evidence shows roughly two or three 1960s two-story garden complexes (Cornwall, New Windsor/Rock Tavern) and one single-family co-op. Rockland passed its thin-check with 35 listings across four distinct co-op shapes (court complexes, elevator towers, river-village buildings, roadside groups) and 71 sales a year; Orange has 13 sales a year, 5–7 listings, no elevator, tower, mixed-use or city co-op found.
+2. **The topics are already taken.** Garden-complex camera practice (parking fields, laundry rooms, pools, playgrounds, sheds, many stair-hall doors, linking buildings without overhead cable, snow, O&R storm outages, New Windsor PD theft warning) is already written on /co-op-security-systems-orange-county (13,573 words, camera section included), the HV co-op camera hub (its Orange paragraph and garden-court sections), /co-op-security-camera-installation-rockland-county (court-complex plan), /co-op-security-camera-installation-westchester-county, and /condo-security-camera-installation-orange-county (13,322 words). Keeping masked paragraph similarity under 0.65 against all of them, with no repeated question by meaning across ~25 registers, would mean filling 12,000 words with generic camera text or with re-worded versions of the same facts — the doorway/thin pattern the blueprint forbids.
+3. **No new local evidence found** to add: no Orange co-op news, Reddit, hyperlocal or Yelp items (searched in this build and in the co-op-security-systems Orange build: EMPTY), no Mitchell-Lama/HDFC co-ops, and the Orange County DA 2016 Community Camera Partnership is a single paragraph (boards told to check with the DA's office), not a section.
+
+### For Anwar to confirm
+- Hold the Orange co-op camera page (HOLD-THIN) and answer Orange co-op camera searches from the co-op security systems Orange page + HV co-op camera hub, like Ulster — or tell us to build a shorter page (would need a word-count exception to the 12,000 minimum).
+- If held: main run updates the HV hub sentence "an Orange County page is in preparation" and the Rockland page's `<!-- FLIP: /co-op-security-camera-installation-orange-county -->` / any other FLIPs to this slug stay plain text.
+
+### Files
+No HTML, no images written. tools/__pycache__ not touched.
