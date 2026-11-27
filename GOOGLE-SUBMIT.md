@@ -136,6 +136,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 
 2026-11-26 evening (scheduled, 01:52 UTC Nov 27, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2705 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-27T01:51:30Z, 3139 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2038 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected alarm-installation-wyckoff-heights-brooklyn-ny (URL is not on Google; Crawled - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at alarm-installation-wyckoff-heights-brooklyn-ny.
 
+2026-11-27 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 0 indexed, 0 failed, 2732 queued. All requested URLs were Crawled - currently not indexed (brownsville: Discovered - currently not indexed). "Quota Exceeded" on the 12th request (door-buzzer-repair-bushwick-brooklyn-ny, Crawled - currently not indexed), which stays QUEUED; next run starts there.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-11-15 (Anwar): CCTV INSTALLATION HUBS GO FIRST — above every other line in this file. Big gap: 256 CCTV searches, 15,522 impressions, 4 clicks, no CCTV page. The builder adds each cctv-installation-* hub here as QUEUED the moment it ships; the morning Request-indexing run requests these before anything else. Only request a URL that returns 200. -->
@@ -756,17 +758,17 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-weeksville-brooklyn-ny | REQUESTED 2026-11-26
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-williamsburg-brooklyn-ny | REQUESTED 2026-11-26
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-wingate-brooklyn-ny | REQUESTED 2026-11-26
-2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-wyckoff-heights-brooklyn-ny | QUEUED
-2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-bedford-stuyvesant-brooklyn-ny | QUEUED
-2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-belmont-bronx-ny | QUEUED
-2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-beverley-square-brooklyn-ny | QUEUED
-2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-bronx-river-bronx-ny | QUEUED
-2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-bronxdale-bronx-ny | QUEUED
-2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-bronxwood-bronx-ny | QUEUED
-2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-brooklyn-chinatown-brooklyn-ny | QUEUED
-2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-brooklyn-heights-brooklyn-ny | QUEUED
-2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-brooklyn-navy-yard-brooklyn-ny | QUEUED
-2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-brownsville-brooklyn-ny | QUEUED
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-wyckoff-heights-brooklyn-ny | REQUESTED 2026-11-27
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-bedford-stuyvesant-brooklyn-ny | REQUESTED 2026-11-27
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-belmont-bronx-ny | REQUESTED 2026-11-27
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-beverley-square-brooklyn-ny | REQUESTED 2026-11-27
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-bronx-river-bronx-ny | REQUESTED 2026-11-27
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-bronxdale-bronx-ny | REQUESTED 2026-11-27
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-bronxwood-bronx-ny | REQUESTED 2026-11-27
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-brooklyn-chinatown-brooklyn-ny | REQUESTED 2026-11-27
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-brooklyn-heights-brooklyn-ny | REQUESTED 2026-11-27
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-brooklyn-navy-yard-brooklyn-ny | REQUESTED 2026-11-27
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-brownsville-brooklyn-ny | REQUESTED 2026-11-27
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-bushwick-brooklyn-ny | QUEUED
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-carroll-gardens-brooklyn-ny | QUEUED
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-city-island-bronx-ny | QUEUED
