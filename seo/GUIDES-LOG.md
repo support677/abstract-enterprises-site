@@ -21,3 +21,4 @@ Date | Page | Guide URL | Site page | Status
 # 2026-11-24: NOT BUILT. support677/nyc-security-guides still not in this scheduled task's repo access (git proxy 403). Add the guides repo to the task's GitHub access.
 # 2026-11-25: NOT BUILT. support677/nyc-security-guides still not in this scheduled task's repo access (only abstract-enterprises-site + aess-housecall-connector). Add the guides repo to the task's GitHub access.
 # 2026-11-26: NOT BUILT. support677/nyc-security-guides still not in this scheduled task's repo access (only abstract-enterprises-site + aess-housecall-connector). Add the guides repo to the task's GitHub access.
+# 2026-11-27: NOT BUILT by this task. support677/nyc-security-guides still not in this scheduled task's repo access (git proxy 403 on push). Note: the guides repo's own LOG.md shows 5 guides published today by a separate run.
