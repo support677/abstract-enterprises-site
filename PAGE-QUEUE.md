@@ -495,9 +495,9 @@ LIVE | property-management-security-manhattan | Property Management Security | M
 LIVE | property-management-security-brooklyn | Property Management Security | Brooklyn | up /property-management-security-nyc | (347) 934-8335 | GBP Brooklyn
 LIVE | property-management-security-queens | Property Management Security | Queens | up /property-management-security-nyc | (347) 434-6392 | GBP Bronx
 LIVE | property-management-security-bronx | Property Management Security | Bronx | up /property-management-security-nyc | (646) 490-0629 | GBP Bronx
-TODO | property-management-security-staten-island | Property Management Security | Staten Island | up /property-management-security-nyc | (347) 934-8335 | GBP Brooklyn
-TODO | property-management-security-long-island | Property Management Security | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | property-management-security-hudson-valley | Property Management Security | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+BUILDING 2026-11-27T06:48:13-05:00 | property-management-security-staten-island | Property Management Security | Staten Island | up /property-management-security-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-27T06:48:13-05:00 | property-management-security-long-island | Property Management Security | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-27T06:48:13-05:00 | property-management-security-hudson-valley | Property Management Security | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | property-management-security-nassau-county | Property Management Security | Nassau | up /property-management-security-long-island | (516) 346-5778 | GBP Brooklyn
 TODO | property-management-security-suffolk-county | Property Management Security | Suffolk | up /property-management-security-long-island | (631) 407-2884 | GBP Brooklyn
 TODO | property-management-security-westchester-county | Property Management Security | Westchester | up /property-management-security-hudson-valley | (914) 877-2578 | GBP Bronx
