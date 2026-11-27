@@ -465,9 +465,9 @@ LIVE | condo-security-systems-dutchess-county | Condo Security Systems | Dutches
 LIVE | condo-security-systems-ulster-county | Condo Security Systems | Ulster | up /condo-security-systems-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | condo-intercom-replacement | Guide: Condo Intercom Replacement | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | condo-security-camera-installation-nyc | Condo Security Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-27T00:29:11-05:00 | condo-security-camera-installation-manhattan | Condo Security Camera Installation | Manhattan | up /condo-security-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-11-27T00:29:11-05:00 | condo-security-camera-installation-brooklyn | Condo Security Camera Installation | Brooklyn | up /condo-security-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-27T00:29:11-05:00 | condo-security-camera-installation-queens | Condo Security Camera Installation | Queens | up /condo-security-camera-installation-nyc | (347) 434-6392 | GBP Bronx
+LIVE | condo-security-camera-installation-manhattan | Condo Security Camera Installation | Manhattan | up /condo-security-camera-installation-nyc | (929) 560-0737 | GBP Bronx
+LIVE | condo-security-camera-installation-brooklyn | Condo Security Camera Installation | Brooklyn | up /condo-security-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+LIVE | condo-security-camera-installation-queens | Condo Security Camera Installation | Queens | up /condo-security-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | condo-security-camera-installation-bronx | Condo Security Camera Installation | Bronx | up /condo-security-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | condo-security-camera-installation-staten-island | Condo Security Camera Installation | Staten Island | up /condo-security-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | condo-security-camera-installation-long-island | Condo Security Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn

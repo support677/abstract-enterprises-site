@@ -3794,3 +3794,6 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-27 | https://www.abstractenterprisessecuritysystems.com/condo-security-systems-ulster-county | QUEUED
 2026-11-27 | https://www.abstractenterprisessecuritysystems.com/condo-intercom-replacement | QUEUED
 2026-11-27 | https://www.abstractenterprisessecuritysystems.com/condo-security-camera-installation-nyc | QUEUED
+2026-11-27 | https://www.abstractenterprisessecuritysystems.com/condo-security-camera-installation-manhattan | QUEUED
+2026-11-27 | https://www.abstractenterprisessecuritysystems.com/condo-security-camera-installation-brooklyn | QUEUED
+2026-11-27 | https://www.abstractenterprisessecuritysystems.com/condo-security-camera-installation-queens | QUEUED
