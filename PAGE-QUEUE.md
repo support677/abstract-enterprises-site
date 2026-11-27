@@ -504,9 +504,9 @@ LIVE | property-management-security-westchester-county | Property Management Sec
 LIVE | property-management-security-rockland-county | Property Management Security | Rockland | up /property-management-security-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | property-management-security-orange-county | Property Management Security | Orange | up /property-management-security-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | property-management-security-putnam-county | Property Management Security | Putnam | up /property-management-security-hudson-valley | (845) 640-3835 | GBP Bronx
-TODO | property-management-security-dutchess-county | Property Management Security | Dutchess | up /property-management-security-hudson-valley | (845) 640-3835 | GBP Bronx
-TODO | property-management-security-ulster-county | Property Management Security | Ulster | up /property-management-security-hudson-valley | (845) 640-3835 | GBP Bronx
-TODO | apartment-building-security-systems-nyc | Apartment Building Security Systems | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-27T15:50Z | property-management-security-dutchess-county | Property Management Security | Dutchess | up /property-management-security-hudson-valley | (845) 640-3835 | GBP Bronx
+BUILDING 2026-11-27T15:50Z | property-management-security-ulster-county | Property Management Security | Ulster | up /property-management-security-hudson-valley | (845) 640-3835 | GBP Bronx
+BUILDING 2026-11-27T15:50Z | apartment-building-security-systems-nyc | Apartment Building Security Systems | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | apartment-building-security-systems-manhattan | Apartment Building Security Systems | Manhattan | up /apartment-building-security-systems-nyc | (929) 560-0737 | GBP Bronx
 TODO | apartment-building-security-systems-brooklyn | Apartment Building Security Systems | Brooklyn | up /apartment-building-security-systems-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | apartment-building-security-systems-queens | Apartment Building Security Systems | Queens | up /apartment-building-security-systems-nyc | (347) 434-6392 | GBP Bronx
