@@ -453,9 +453,9 @@ LIVE | condo-security-systems-brooklyn | Condo Security Systems | Brooklyn | up 
 LIVE | condo-security-systems-queens | Condo Security Systems | Queens | up /condo-security-systems-nyc | (347) 434-6392 | GBP Bronx
 LIVE | condo-security-systems-bronx | Condo Security Systems | Bronx | up /condo-security-systems-nyc | (646) 490-0629 | GBP Bronx
 LIVE | condo-security-systems-staten-island | Condo Security Systems | Staten Island | up /condo-security-systems-nyc | (347) 934-8335 | GBP Brooklyn
-TODO | condo-security-systems-long-island | Condo Security Systems | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | condo-security-systems-hudson-valley | Condo Security Systems | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-TODO | condo-security-systems-nassau-county | Condo Security Systems | Nassau | up /condo-security-systems-long-island | (516) 346-5778 | GBP Brooklyn
+BUILDING 2026-11-26T19:17:22-05:00 | condo-security-systems-long-island | Condo Security Systems | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-26T19:17:22-05:00 | condo-security-systems-hudson-valley | Condo Security Systems | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+BUILDING 2026-11-26T19:17:22-05:00 | condo-security-systems-nassau-county | Condo Security Systems | Nassau | up /condo-security-systems-long-island | (516) 346-5778 | GBP Brooklyn
 TODO | condo-security-systems-suffolk-county | Condo Security Systems | Suffolk | up /condo-security-systems-long-island | (631) 407-2884 | GBP Brooklyn
 TODO | condo-security-systems-westchester-county | Condo Security Systems | Westchester | up /condo-security-systems-hudson-valley | (914) 877-2578 | GBP Bronx
 TODO | condo-security-systems-rockland-county | Condo Security Systems | Rockland | up /condo-security-systems-hudson-valley | (845) 640-3835 | GBP Bronx
