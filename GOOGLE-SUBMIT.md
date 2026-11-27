@@ -3837,3 +3837,6 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-27 | https://www.abstractenterprisessecuritysystems.com/property-management-security-dutchess-county | QUEUED
 2026-11-27 | https://www.abstractenterprisessecuritysystems.com/property-management-security-ulster-county | QUEUED
 2026-11-27 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-systems-nyc | QUEUED
+2026-11-27 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-systems-manhattan | QUEUED
+2026-11-27 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-systems-brooklyn | QUEUED
+2026-11-27 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-systems-queens | QUEUED

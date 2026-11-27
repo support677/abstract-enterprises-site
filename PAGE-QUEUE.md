@@ -507,9 +507,9 @@ LIVE | property-management-security-putnam-county | Property Management Security
 LIVE | property-management-security-dutchess-county | Property Management Security | Dutchess | up /property-management-security-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | property-management-security-ulster-county | Property Management Security | Ulster | up /property-management-security-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | apartment-building-security-systems-nyc | Apartment Building Security Systems | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-27T17:08Z | apartment-building-security-systems-manhattan | Apartment Building Security Systems | Manhattan | up /apartment-building-security-systems-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-11-27T17:08Z | apartment-building-security-systems-brooklyn | Apartment Building Security Systems | Brooklyn | up /apartment-building-security-systems-nyc | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-27T17:08Z | apartment-building-security-systems-queens | Apartment Building Security Systems | Queens | up /apartment-building-security-systems-nyc | (347) 434-6392 | GBP Bronx
+LIVE | apartment-building-security-systems-manhattan | Apartment Building Security Systems | Manhattan | up /apartment-building-security-systems-nyc | (929) 560-0737 | GBP Bronx
+LIVE | apartment-building-security-systems-brooklyn | Apartment Building Security Systems | Brooklyn | up /apartment-building-security-systems-nyc | (347) 934-8335 | GBP Brooklyn
+LIVE | apartment-building-security-systems-queens | Apartment Building Security Systems | Queens | up /apartment-building-security-systems-nyc | (347) 434-6392 | GBP Bronx
 TODO | apartment-building-security-systems-bronx | Apartment Building Security Systems | Bronx | up /apartment-building-security-systems-nyc | (646) 490-0629 | GBP Bronx
 TODO | apartment-building-security-systems-staten-island | Apartment Building Security Systems | Staten Island | up /apartment-building-security-systems-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | apartment-building-security-systems-long-island | Apartment Building Security Systems | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
