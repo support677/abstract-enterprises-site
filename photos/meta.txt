@@ -1,0 +1,69 @@
+rec0HJyDxuZe6OkC2_0|camera-exterior|0|2|White Lorex bullet camera on round base mounted on vinyl siding under blue sky.
+rec0LFAGQQcuz6uxp_0|camera-exterior|0|3|Small white security camera mounted under eave at house corner above side gate.
+rec0scBMll5eLojja_0|recorder-network|0|2|Rear panel of black 16-port PoE NVR with Ethernet cable connected in closet.
+rec3xI4CkGmeninlV_0|recorder-network|0|2|Equipment rack with TP-Link 24-port gigabit switch above a black NVR and cables.
+rec4BWZFtg3nrMXbC_0|intercom|1|2|Apartment living room with wall intercom panel beside entry door and mini-split unit.
+rec5fnzgt0zMV8mDA_0|camera-exterior|0|2|Garage facade with floodlight camera, solar panel, and dome camera with loose cable
+rec72lIzmJXm6Rve6_0|camera-exterior|0|2|White Lorex bullet camera on junction box mounted to red brick exterior wall.
+rec7PWGVPD39GSSpT_0|camera-interior|1|2|Small white turret camera mounted high on teal wall of stairwell and hallway.
+rec7authwzh2TwXs0_0|access-control|0|2|Interior view through glass storefront door showing surface maglock, door contact, and operator.
+rec8JASa2Tkk0Q9U8_0|camera-interior|0|2|White dome IP camera mounted in clinic hallway corner near eye chart and exam room.
+rec93HHcdRKQpedhN_0|camera-exterior|0|3|White turret camera mounted on beige vinyl siding between upper and lower windows.
+rec9ERhLmpAQMifWJ_0|recorder-network|0|2|Silver four-bay NVR with lit blue LED on closet shelf beside network device.
+recA1GRnJtRPDYSTt_0|camera-exterior|1|3|White turret camera mounted on red brick wall below covered porch balcony.
+recBJJHVmqcWYcxtC_0|camera-exterior|0|2|Upper corner of a multi-story building with two dome cameras and loose cable.
+recDL7gsSH0Oc4Wgc_0|camera-interior|0|3|Ceiling view of retail store with two installed dome cameras and wireless access point.
+recEUDVIrHQOjpQKw_0|camera-exterior|0|3|Video doorbell mounted on a side-yard gate post beside an open gate.
+recEsfps0VvMm3P0j_0|camera-exterior|0|2|Stone house at dusk with lit illuminator and two dome cameras on neighboring wall.
+recGaWmmouHDHuOv4_0|intercom|0|3|Black and silver video doorbell on angled bracket beside wrought-iron gate at night.
+recGiXTNQwTRHolT6_0|other|0|2|Open gray metal enclosure with 18-channel 12V DC CCTV power supply and green LED.
+recGo9ovbBjhEevJz_0|camera-exterior|0|3|White IR bullet camera on junction box mount at siding and porch soffit corner.
+recITfqyAQwCEJ0YL_0|access-control|1|2|Open aluminum glass entry door edge with deadbolt, propped by stone block.
+recKlRSXbHu3H4B7P_0|camera-exterior|0|2|Brick building corner with two white cameras, mini-split condenser, and loose cable hanging down.
+recLSOe0x8ZBoAVjD_0|camera-exterior|0|3|Brick rowhouse facade with three gray dome cameras and a solar motion light.
+recLTd627wl14ouQd_0|intercom|1|3|White wall-mounted Aiphone video intercom tenant station with black unused screen.
+recMQ289LPhFaVqYd_0|camera-exterior|0|2|Dusk view of rowhouse entry with two small white cameras and lantern light.
+recN7Jq7KHrPRwixV_0|camera-exterior|0|3|White turret camera mounted on red brick beside a white entry door.
+recNtBARoSqK3Xtmb_0|camera-exterior|0|2|Exterior yellow-brick rowhouse with white camera under bay window cornice.
+recR6WdeMXRIZmiQF_0|intercom|1|3|Beige apartment intercom station with Talk, Listen and Door buttons on white plate.
+recRFQwoUmyQNCBkm_0|camera-exterior|0|3|Dual-lens outdoor camera on a white round mount at a house corner under blue sky.
+recT0wBcQmrZ10WZy_0|camera-interior|0|2|White turret IP camera with dual LED illuminators mounted on rough plaster above a ledge.
+recUFL688AOOjChO8_0|other|0|2|Open metal enclosure with 18-channel fused CCTV power board and messy orange-white wiring.
+recVfmsIuIz2l4vTh_0|access-control|0|2|Wall-mounted Napco alarm keypad showing System Ready, status LED lit, disarmed.
+recVwwpQokkMGVOyN_0|intercom|0|2|Gray surface-mounted intercom with call button on stone pillar beside storm door.
+recW8xR95MQUJOqWm_0|camera-exterior|1|2|Dome camera under soffit of tan vinyl-sided multi-story building with window AC units.
+recWESojXc9tU6Sld_0|intercom|1|2|Stainless steel telephone entry panel flush in stone wall, hand lifting front panel.
+recX1GTVv4v0RS8Bp_0|access-control|0|2|Electric door strike with stainless faceplate installed in painted wood door frame.
+recXu2uLGiX5xpwri_0|camera-exterior|0|2|White dome camera on stucco wall under siding with loosely routed black cable beside a window.
+recYWu7ej9XcE4SfM_0|cabling|0|2|Two zip-tied HDMI extender boxes mounted on wall with RJ45 cable attached.
+recYdE1mVuPzlttmv_0|access-control|1|2|Glass vestibule with fire alarm panel, pull station, key box, and green-ring access buttons.
+reccj58DttlitnYOR_0|camera-exterior|0|3|Nighttime view of white dome security camera mounted under a brick porch roof
+recdNQ7EstPiJYMhJ_0|access-control|0|3|Wall-mounted touchscreen alarm panel showing Ready to Arm status with arm buttons.
+recf6N96iprHuLr3t_0|cabling|0|2|White low-voltage cable clipped along ceiling crown molding in an older building corner.
+recfqyfU8nH383Wo0_0|camera-exterior|0|2|Exterior house corner with white dome camera and dark light fixture under overhang, backlit.
+recilYGiPdjCigjDO_0|camera-exterior|0|2|White IR dome camera on red brick wall with loose cabling and solar panels
+recir7JWLzLtw1orL_0|cabling|0|2|White low-voltage cable bundle zip-tied along basement soffit near electrical panel
+recjgOaMAeqHNFqKL_0|camera-exterior|0|2|White Lorex bullet camera on ball-joint mount with sun shield on vinyl siding
+reckjAgmMwR9mgkfK_0|recorder-network|0|2|Wall-mounted rack with access control server, rack recorder, managed switch, UPS, and crowded patch cabling.
+recmRbY1HCNC2ZNFT_0|camera-interior|0|2|Room with white raceway and cables, with a dome camera visible in the adjoining room.
+recoIj6eZlEh3oBTH_0|intercom|1|3|Brownstone entrance door with surface-mounted multi-tenant video door station and rain hood.
+recoaMEXtcNdOJYWj_0|camera-exterior|0|2|White dome camera mounted under roofline of a peach stucco building at dusk.
+recpvil4GdLecPazV_0|access-control|0|2|Double metal door with two surface-mounted magnetic contact switches and wiring.
+recq6Uu6jPZlCS9Br_0|camera-exterior|0|2|White turret camera under soffit above entry door on gray junction box.
+recrlRB0NgFAIMsyt_0|camera-interior|0|2|White turret camera high in a wall corner with cable stapled along edges and a raceway stub.
+recsLeX2HUf7jcluh_0|cabling|0|2|Bundle of hand-labeled Ethernet cables with RJ45 ends hanging near a gray door and a door sensor.
+recte1HiiW3txEFt6_0|camera-exterior|0|3|White IR dome camera on red brick below soffit beside barred window and conduit.
+rectjzsMx1NXorfIl_0|camera-exterior|0|2|Brick house under red awning with small bullet camera and sagging surface cable.
+rectt1k026wi6x6YI_0|recorder-network|0|2|UniFi gateway with LCD showing 25 clients beside a small colorful cube device.
+recu59k50XS1gYY7c_0|cabling|0|2|White low-voltage cables bundled with black cable ties run along a basement wall toward an electrical panel.
+recumhA4CRKMA8u5d_0|recorder-network|0|2|Six-port PoE switch with patch cables sitting beside a BNC-input DVR recorder, lights lit green.
+recvJoa2JaMBWsLos_0|camera-interior|0|3|White IR dome camera with a ring of infrared LEDs mounted in a wall and ceiling corner.
+recw7HoJk28qy0vFJ_0|intercom|0|2|Akuvox door station with keypad and RFID reader under metal hood on brick wall.
+recxrbPXkF8eIKOz4_0|camera-interior|0|3|White turret camera mounted in indoor wall-ceiling corner above cherry cabinets.
+recy097sJsFGvVq4K_0|camera-exterior|0|2|Dual-lens outdoor camera mounted on beige siding beside white downspout.
+recy78OClMqM3vgTo_0|intercom|0|2|Stone entry with white video doorbell and gray chime box beside garage doorway.
+recy8eIfvacXCbb3D_0|other|0|2|Small rectangular wall-mounted motion sensor with frosted lens below ceiling line.
+recyWmzbbEmWpuwjw_0|access-control|0|2|Slim black strike plate on a metal door frame beside brick, with a white cable behind it.
+recz2OIqgVw8WMCvv_0|recorder-network|0|2|Sideways view of a 5-port PoE Gigabit switch with patch cables and green link lights lit.
+reczp0wY8VCBLJfOk_0|access-control|1|2|Electric strike with black faceplate in door jamb, with surface-mounted wire raceway.
+reczs0wJ9bdZ1JNqf_0|intercom|0|3|Wall-mounted video door station with keypad and RFID reader under metal rain hood.
