@@ -909,3 +909,277 @@ DAILY-LOG note: `images: 11 reused (1 real Rockland job photo + 6 job photos + 4
 
 ### Similarity
 Masked-geo paragraph similarity (difflib, p/li/td ≥12 words) against all condo-security-systems pages on disk (incl. Suffolk, Westchester) and co-op-security-systems-rockland-county: max < 0.65 apart from the standard trust row ("Owner-operated since 2002 · Thousands of jobs …"), which is shared template text.
+
+
+## orange-county
+
+## Orange County — local research for `condo-security-systems-orange-county` (part file, Nov 26 2026; merge into research/condo-security-systems.md)
+
+Child of /condo-security-systems-hudson-valley; GBP Bronx (460 E Fordham Rd, #bronx); phone (845) 640-3835 in body, CTAs, sticky bar and schema; (800) 486-0943 only in the shared mega-nav. Built by a batch subagent. Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page + section used.
+
+Thesis (kept apart from co-op-security-systems-orange-county, which leads with the tiny $167,000 co-op market, 1960s garden courts, single-family co-ops, long drives and the New Windsor theft-ring warning; and from the Rockland condo page's turnover/river/Sabbath angle): Orange County condos are mostly 1970s–80s garden and townhouse complexes around Newburgh/New Windsor/Middletown with pools and courts and tired developer-era stair-hall intercoms (many small separate systems), newer phased garage-under townhouse sections (Monroe, Highland Mills, Washingtonville, Chester) with builder-held accounts, a Village of Warwick 55+ neighborhood, and a large elevator-condo district at Kiryas Joel (4–5 story buildings, commercial building on campus). Modest HOA fees ($120–$584 in listings) make recurring subscriptions the board's key question; inventory up 51.8% means more showings and credential churn.
+
+### Mandatory sources (§3) — status
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | EMPTY — not searched this run (co-op Orange search `reddit r/Newburgh apartment building buzzer intercom package stolen` returned no reddit.com result). |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env). §10.5 corrects generic claims (doorman model, NYC MDL intercom rule, HomeAdvisor range, consumer devices, unlicensed installers, cloud-always, same-day); no AI quote invented. |
+| 6 | Area landmarks | General geography (no customer property): Newburgh waterfront / Newburgh-Beacon Bridge, Stewart International Airport, Middletown + Port Jervis Line station (OR6), Woodbury Common / Harriman station, Goshen county seat / Legoland New York, West Point / Bear Mountain Bridge / Route 9W. |
+| 7 | Building stock / use cases | OR2, OR3, OR4, OR5 |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | Times Herald-Record (OR3, OR4); News 12 (OR7, reused) |
+| 10 | Hyperlocal | Firecrawl search `Orange County NY condo complex packages stolen OR break-ins OR car thefts police 2026 ...` (news+web) returned only the New Windsor theft-ring item already used on the co-op page, social-media clips and unrelated stories. Nothing new used. |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Rows
+| # | Exact query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| OR1 | `OneKey MLS Orange County October 2026 condos closed sales median price report` · WebSearch → Firecrawl scrape (PDF parser, directQuote). (WebFetch of the Q3 PDF on the same host was blocked — permission prompt not answered.) | https://irp.cdn-website.com/a5e60d20/files/uploaded/2026_10_Orange_County.pdf | Condos: new listings Oct 42 (+27.3%), 12-mo 502 (+14.9%); closed sales Oct 33 (+37.5%), 12-mo 359 (+3.8%); DOM Oct 46 (−25.8%), 12-mo 45; median Oct $329,000 (+12.5%), 12-mo $320,000 (+1.6%); inventory Oct 126 vs 83 (+51.8%). | §5 para 2; facts list; hero stamp |
+| OR2 | Firecrawl scrape (query: towns, prices, years, amenities, no addresses) | https://www.redfin.com/county/1980/NY/Orange-County/condos | Nov 26 2026: 126 condos for sale, median list $325K. Towns: Newburgh, Middletown (one "Gated community"), Monroe (built 2023), New Windsor, Southfields, Montgomery, Chester (pools, tennis, gym, playground), Highland Mills, Washingtonville (clubhouse, pool, tennis, basketball), Harriman (pool, tennis, playground), Palm Tree (built 2022), Fort Montgomery. Built 1973 and 1978 (Newburgh). HOA fees listed ~$120–$584/mo. Community names NOT used on page. | §5 "What the listings say"; facts list; §7 cards; §13 cards |
+| OR3 | `Kiryas Joel Palm Tree condominium buildings housing multifamily condos Times Herald-Record` · Firecrawl search (snippet) | https://www.recordonline.com/story/news/2017/12/10/kj-board-oks-1-600/16862695007/ | Dec 10 2017: Kiryas Joel approved construction of 1,600 apartments (condos) on 70 acres. | §5 elevator district para; facts list |
+| OR4 | same search → Firecrawl scrape (directQuote) | https://www.recordonline.com/story/news/local/2022/05/19/kiryas-joel-move-into-veyoel-moshe-gardens-condo-apartment-complex/9735978002/ | Times Herald-Record, Chris McKenna, May 19 2022: families moving into "the four- and five-story buildings completed so far" of a 1,600-unit condo complex on 70 acres; ~500 homes built or nearly done, ≥300 sold; units sold $260,000–$575,000 since February; 3 of 69 residential buildings replaced by a six-story building for a supermarket, stores and rentable offices. Complex name NOT used on page. | §5; §7 elevator districts; §8 stores on campus |
+| OR5 | `Orange County NY 55 and over active adult condominium community ...` · Firecrawl search → Firecrawl scrape | https://www.realestatehudsonvalleyny.com/orange-towns/orange-county-adult-55-plus/ | Village of Warwick 55+ community with condos, townhomes and 165 single-family homes, walkable to downtown Warwick. (Other listed 55+ communities are single-family → not used.) Community name NOT used. | hero; §5 para 1; §7 55+ card |
+| OR6 | reused co-op OC4 | https://www.njtransit.com/abc_PORT_JERVIS | Port Jervis Line stations incl. Middletown NY, Harriman, Salisbury Mills, Campbell Hall, Otisville, Port Jervis. | §13 cards |
+| OR7 | reused co-op OC7 | https://westchester.news12.com/2026/01/26/orange-county-digging-out-after-one-of-the-heaviest-snowfalls-in-years/5EGxAQpDFUcIljIxmGnlrS | News 12, Jan 26 2026: ~18 in. in Monroe (county high cited), up to 24 in. in some areas. | §5 winter para |
+| OR8 | `Town of Wallkill OR Town of New Windsor OR Town of Monroe alarm permit false alarm code ecode360` · Firecrawl search → Firecrawl scrape (directQuote) | https://ecode360.com/6189204 | Town of New Windsor Ch. 86 "Automated Alarm System Law" (L.L. 1-2007): automatic dialers may not connect directly to police/fire emergency lines; external audible alarms must auto-cut off after ≤15 min; fines $0–$50 first, $25–$100 second, $50–$500 and/or ≤15 days third+; each false alarm a separate offense. | facts list; §6 alarms; §8.5 rules; FAQ siren |
+| OR9 | reused co-op OC1 | https://www.census.gov/quickfacts/orangecountynewyork | 812.32 sq mi land. | §5 "Three cities" para |
+| L1/L2 | silo L1/L2 | law.justia.com 339-e; nysenate RPP 339-V | Common elements; reserves. | facts list; §14 funding |
+| H3 | silo (HV H3) | https://www.nysenate.gov/legislation/laws/MRE/3 | MRL applies to cities <325,000 and all towns and villages. | §5; AI check #2 |
+| X1 | silo (Rockland) | Executive Law §378 | Pool enclosure gates self-closing/self-latching, locked when unsupervised. | facts list; §8.5; Q&A chain-link |
+| X2 | silo | GBL §69-m; GBL §395-b | Installer licensing; no cameras in restrooms etc. | facts; §8.5; AI check #5 |
+| X3 | reused co-op OC17 | https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system | Normal range $1,200–$8,500. | AI check #3 |
+| P1 | site pages (internal), read Nov 26 2026 | /intercom-installation-orange-county-ny; /door-buzzer-repair-orange-county-new-york; /access-control-installation-orange-county; /elevator-access-control-installation-orange-county; /alarm-installation-orange-county; /intercom-pricing; /door-buzzer-repair-pricing | $250 service call; video intercom 4–8 units $1,200–$3,500; multi-unit $1,200–$5,000; IP $2,500–$8,000+; access single door/gate $1,700–$5,000, multi-door $4,500–$15,000; elevator L1 from $2,100/car, L2 from $3,500/car; buzzer repairs station $250–$525, relay $250–$475, transformer $325–$650, strike $450–$950, lobby panel $650–$1,800, riser $850–$2,400; monitoring $30/$45. NOT used: /intercom-repair-orange diagnostic "$198–$396" ranges and /door-buzzer-installation-orange-county-ny "$300 service call" (both conflict with the $250 start price — flag for Anwar). Camera prices from the apartment-building camera page not used (camera section kept short). | §6, §14 tables, §15 |
+
+### Orange County question register (this page) — add to the silo register
+§9 Q&A (H3): Children wait for the school bus at our entrance. Should a camera cover the stop? · Drivers speed through our private loop road. Can cameras help the board enforce its rules? · Our complex has guest spaces where non-residents leave cars for days. Can cameras help? · Can a lifeguard or attendant see the photo of the owner whose fob just opened the pool gate? · Our pool is fenced with chain link. Can a reader and lock go on that kind of gate? · Our clubhouse has a standby generator. Can the security equipment run from it? · Do outdoor readers and keypads keep working through single-digit winter cold? · Families push strollers through our lobby doors all day. Can a powered door opener work with the fob system? · In a complex with many buildings, should every owner's fob open every building? · Our complex sits across a town line. Which building department do we deal with? · Can our cameras and intercom run without sending anything to an outside cloud service? · Our maintenance staff wants to pull some of the cable to save money. Can the work be split?
+
+§17 FAQ: If your crew finds a wiring problem that belongs to an electrician, what happens next? · An agent left a lockbox hanging on our lobby door railing. Is that a security problem? · Some owners want the fitness room open overnight. Can that be done safely? · Is there a way to tell which unit a lost fob found in the parking lot belongs to? · Can owners switch off their own lost fob from an app? · Can a camera at the pool speak a warning to people who climb the fence after hours? · An owner's outdoor siren keeps sounding while they are away. What do local rules expect? · Can a buyer's fobs be ready before closing so they can get in on moving day? · Does the board need an engineer's drawings for an access control job? · Will you price both a repair-only plan and a full replacement so the board can compare? · Can owners view the building entrance on their smart TV instead of a phone? · Should the association keep spare readers and fobs on hand?
+
+Checked by meaning against every question on the 12 live condo pages, the parallel Putnam and Dutchess condo drafts present at build time, and co-op-security-systems-orange-county (extracted with tools/check_page.py's parser). Dropped as too close: school-pickup/landline call box (HV), first-phase plan (Nassau), delivery-truck damage (HV gate arm), travel to western towns (HV/Bronx), fobs per apartment (co-op Orange), pool-gate latch (Nassau).
+
+### Images (11, permanent image rule — no Drive/CompanyCam check in this run)
+Copied into images/condo-security-systems/ with `-orange-county-` names. None shares a sha256 with any file in images/condo-security-systems/, images/co-op-security-systems/ or images/co-op-board-intercom-upgrade/; 16×17 difference-hash compared against all of them (including the parallel Putnam/Dutchess sets at finish) and contact-sheet viewed. A first pick (gowanus dark-grey PTZ on pendant arm) matched the parallel Putnam set exactly and was swapped for the morris-heights bullet on ball mount. No faces, house numbers, plates or "AESS"; small brand marks visible on some product photos (Lorex on the twin-light bullet, Dahua-style speed dome).
+| Page file (…-orange-county-…) | Source | Kind | Section |
+|---|---|---|---|
+| video-door-station-with-light-bar-and-card-symbol (hero, og) | door-buzzer-repair/…coney-island-doorbell-with-bright-light-ring-and-card-icon | product | hero |
+| recorder-view-along-brick-wall-to-paved-lot | door-buzzer-repair/…kensington-recorder-view-along-brick-wall-to-paved-yard | job photo | §5 |
+| two-small-cameras-high-on-wall-below-upper-windows | door-buzzer-repair/…fort-greene-two-small-cameras-on-tall-wall-under-mezzanine-windows | job photo | §6 |
+| ceiling-pendant-dual-lens-camera-with-light-bar | door-buzzer-repair/…morris-heights-pendant-dual-lens-camera | product | §7 |
+| two-white-pan-tilt-domes-with-warm-white-lights | door-buzzer-repair/…gowanus-two-white-pan-tilt-domes-with-warm-lights | product | §7 |
+| dual-lens-overhead-doorway-counting-camera | door-buzzer-repair/…fordham-dual-lens-overhead-doorway-camera | product | §8 |
+| white-bullet-camera-on-ball-mount | door-buzzer-repair/…morris-heights-white-bullet-camera-on-ball-mount | product | §9 |
+| white-bullet-camera-with-twin-lights | door-buzzer-repair/…highbridge-white-lorex-bullet-camera-with-twin-lights | product | §10 |
+| slim-recorder-and-flat-monitor | door-buzzer-repair/…east-tremont-slim-recorder-above-black-monitor | product | §10 |
+| stainless-steel-pendant-speed-dome | door-buzzer-repair/…highbridge-stainless-steel-pendant-ptz-dome | product | §12 |
+| twin-lamp-floodlight-above-box-camera | door-buzzer-repair/…city-island-white-vented-twin-lamp-floodlight-over-black-box-camera | product | §14 |
+DAILY-LOG note: `images: 11 reused from images/door-buzzer-repair/ (no real condo photos yet)`. Several are small (132–275 px wide) product shots; real condo job photos should replace them when available.
+
+### Links
+- FLIP (plain text + `<!-- FLIP: /slug -->`): /condo-intercom-replacement (§6 intercom), /condo-security-camera-installation-orange-county (§6 cameras), /condo-security-systems-ulster-county (§19).
+- Linked directly: /condo-security-systems-hudson-valley (breadcrumb + §19), all 12 live condo siblings + /condo-security-systems-putnam-county and -dutchess-county (parallel batch) in §19; /co-op-security-systems-orange-county (§8, once); Orange service pages: intercom repair (/intercom-repair-orange), intercom installation (-ny), door buzzer repair (-new-york), door buzzer installation (-ny), access control, elevator access control, apartment-building cameras, alarm installation, fire alarm installation (-ny), network installation, camera maintenance, smart lock, CCTV, security camera installation (-ny), structured cabling; /intercom-pricing, /door-buzzer-repair-pricing, /warranty.
+- Links back needed (main run): all 12 live condo pages (HV hub down-link; Rockland/HV have FLIP comments for this slug), /co-op-security-systems-orange-county (one contextual link), and per keyword rules one contextual link back from /intercom-installation-orange-county-ny and /apartment-building-security-camera-installation-orange-county.
+
+### Mobile
+390px render check NOT run: the headless Chrome launch was denied by the environment's permission classifier. Page uses the Rockland template markup and CSS unchanged (copied full head CSS from condo-security-systems-brooklyn.html; `:root{--a` count = 1); widest new element is the 3-column equipment table inside `overflow-x:auto` with the template's ≤600px fixed-layout rule.
+
+
+## putnam-county
+
+## Putnam County — local research for `condo-security-systems-putnam-county` (part file, Nov 26 2026; merge into research/condo-security-systems.md)
+
+Built by a batch subagent. Child of /condo-security-systems-hudson-valley. GBP Bronx (460 E Fordham Rd, #bronx); phone (845) 640-3835 in body, CTAs, sticky bar and schema; (800) 486-0943 only in the shared mega-nav. Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page + section used.
+
+Thesis (kept apart from co-op-security-systems-putnam-county, which is about a handful of small single-building co-ops with volunteer officers, and from condo-security-systems-rockland-county, which is about resale turnover and river flooding): Putnam's condo market is real (171 closings/12 mo vs 2 co-op closings in Q3) and concentrated in Carmel (20 of 31 listings), with a large age-restricted share (four 55+ condo communities, one of 312 homes; 55 condos for older residents at Cold Spring's Butterfield site). The page is built around older owners and caregiver/family access, amenity buildings detached from homes, rock/wetland cable routing, and lightning/outage protection.
+
+Not thin: see M1–M5. Decision: build (not HOLD-THIN).
+
+### Mandatory sources (§3) — status
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | EMPTY (not searched separately; co-op Putnam builder found no thread) |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env). §10.5 corrects generic chatbot/cost-guide claims; no AI quote invented. |
+| 6 | Area landmarks | G3 (stations), Lake Gleneida/Lake Mahopac/Route 6N/Route 22 (general geography; Route 6N from N1) |
+| 7 | Building stock | M1–M5 |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | N1 (News 12), N2 (Daily Voice), N3 (NYSEG), N4 (Patch) |
+| 10 | Hyperlocal | Highlands Current (M5) |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Rows
+| # | Exact query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| M1 | Firecrawl scrape (PDF parser, query "Condos closed sales, median, DOM, inventory") | https://irp.cdn-website.com/a5e60d20/files/uploaded/2026_10_Putnam_County.pdf | OneKey MLS Putnam, Oct 2026, Condos: closed sales Oct 14; 12 mo thru 10-2026 = 171; median Oct $674,000, 12-mo $440,000; DOM Oct 57, 12-mo 39; inventory Oct 26. | §5 para 1 + facts; §10.5 #1 |
+| M2 | reused, co-op Putnam PU1 | https://irp.cdn-website.com/a5e60d20/files/uploaded/2026_Q3_Putnam_County.pdf | Q3-2026: co-op closed sales 2; condos Q3 51. | §5 para 1 + facts; §10.5 #1 |
+| M3 | Firecrawl scrape (query) | https://www.redfin.com/county/1984/NY/Putnam-County/condos | Nov 26 2026: 31 condos for sale, median list $417K; Carmel 20, Brewster 7, Cold Spring 2, Mahopac 1, Patterson 1; amenity notes: clubhouse + tennis (Brewster), community pools (Carmel, Brewster), lake views (Mahopac), soccer field + pool (Patterson), Brewster Metro-North (Carmel listing), HOA $370–$785. Addresses NOT used. | §5 para 2 + facts; §7 cards; §10.5 #1; §13 cards |
+| M4 | `55 and over active adult community Putnam County NY condominium Carmel Patterson Brewster` · WebSearch → Firecrawl scrape | https://www.55places.com/new-york/communities/the-retreat-at-carmel ; https://www.thehirerealty.com/active-adult-55-plus/ | 55places: Carmel 55+ community, 312 homes, single-family/attached/condos, built 2008–2018, clubhouse, fitness center, outdoor pool. Hire Realty: four 55+ condo communities in Putnam (three in Carmel, one in Cold Spring PO/Philipstown, 2019). Community names NOT used on page. | §5 55+ subsection + facts; §7 card 1; §10.5 #1 |
+| M5 | `Highlands Current Butterfield Cold Spring condominiums senior center post office` · Firecrawl search → scrape (directQuote) | https://highlandscurrent.org/2017/05/26/cold-spring-asks-court-dismiss-butterfield-suit/ | June 2015 site plan: office-retail building with county-run senior center; "two buildings with 55 market-rate condominiums for older residents"; Lahey Pavilion medical offices; later plan to move senior center and a U.S. Post Office branch to Lahey Pavilion. Development not named as a client; described as public news. | §5 (quote); §7 mixed-use card; §8 shared sites; Q&A shared lot |
+| M6 | same Firecrawl search as M3 (excerpt) | https://www.katonahmgmt.com/community-association-management/cold-spring-ny | Firm offers community association management in Cold Spring "across the Hudson Valley since 1988". Firm not named on page. | §10.5 #7 |
+| G1 | reused, co-op PU3 | https://www.census.gov/quickfacts/putnamcountynewyork | 38,713 housing units; owner-occupied 83.8%. | facts; §10.5 #1 |
+| G2 | reused, co-op PU6 | https://www.putnamcountyny.gov/images/Departments/Emergency_Services/mitigation/Section-4-County-Profile-021815.pdf | >240 sq mi; six towns + three villages; ~3/4 NYC watershed; >9/10 Hudson Highlands bedrock; forest 66.9%. | §5 geography; Q&A rock |
+| G3 | reused, co-op PU4 | https://www.putnamcountyny.gov/component/zoo/item/all-aboard-next-stop-putnam-county?Itemid=591 | Harlem Line: Brewster, Southeast, Patterson; Hudson Line: Cold Spring, Garrison. | §7 station card; §13 |
+| G4 | reused, co-op PU15 | https://www.townofcarmelny.gov/DocumentCenter/View/456/Wetland-Permit-Application-PDF | Carmel regulates wetlands ≥1/8 acre + 100-ft buffer. | §5 geography; §8.5 |
+| G5 | reused, co-op PU16 | https://highlandscurrent.org/2025/08/08/the-history-patrol/ | Cold Spring HDRB review of exterior changes in historic district since 1976. | §7 mixed-use |
+| G6 | reused, co-op PU17 | https://ecode360.com/5066448 ; https://mail.pattersonny.org/PDFs/Codes/Chapter43-Alarms.pdf ; https://ecode360.com/9473178 ; https://ecode360.com/9063548 | Carmel alarm permit from Building Dept + sounder cutoff; Patterson >2 false alarms/12 mo fees; Putnam Valley permit before alarm calling FD; Southeast annual permit + licensed-agent inspection. Fee amounts NOT used. | §6 alarms; §8.5 |
+| G7 | reused, silo HV / co-op PU20 | https://www.nysenate.gov/legislation/laws/MRE/3 | MRL applies to cities <325,000 and all towns and villages. | §5; §8.5; §10.5 #6 |
+| G8 | reused, silo L1/L2 | https://law.justia.com/codes/new-york/rpp/article-9-b/339-e/ ; https://law.justia.com/codes/new-york/rpp/article-9-b/339-v/ | Common elements incl. "all apparatus and installations existing for common use"; reserves for "major and minor maintenance, repairs, additions, improvements, replacements". | facts; §14 |
+| G9 | reused, Rockland RC-G9 | https://www.nysenate.gov/legislation/laws/EXC/378 | Pool enclosure gates self-closing/self-latching, locked when unattended. | facts; §6; §8.5 |
+| G10 | reused, Rockland RC-G10 | https://www.nysenate.gov/legislation/laws/GBS/395-B | No viewing devices in restrooms/locker rooms etc. | §8.5; FAQ hidden cameras; §10.5 #6 |
+| G11 | reused, co-op PU25 / RC-G11 | https://dos.ny.gov/security-or-fire-alarm-installer-license-law ; https://www.nysenate.gov/legislation/laws/GBS/69-M | State license for security/fire alarm installers. | facts; §8.5; §10.5 #6 |
+| G12 | reused, Rockland RC-G14 | https://udigny.org/resources/nys-code-rule-753/ | Code Rule 753: notice 2–10 working days before excavation. | §6 cable; §8.5 |
+| G13 | reused, co-op PU22 | https://intro.nyc/local-laws/2021-63 | TDPA = NYC LL 63/2021. | §10.5 #6 |
+| W1 | reused, co-op PU13 | https://get.earthnetworks.com/hubfs/2021%20State%20Lightning%20Reports/Lightning_Report_NewYork.pdf | Putnam 2020: 75,093 lightning pulses, 35 thunder days. | §5 weather; facts; §10.5 #5 |
+| N1 | reused, co-op PU8 | https://hudsonvalley.news12.com/police-make-3-arrests-in-carmelmail-thefts | Dec 2022: three arrests; car stopped near Route 6N in Mahopac; occupants appeared to be stealing mail. No names used. | §5 complaints |
+| N2 | reused, co-op PU11 | https://dailyvoice.com/article/isaias-new-update-these-putnam-county-communities-most-affected-by-power-outages/ | Aug 2020: 34,150 of 38,693 NYSEG Putnam customers out. | §5 weather; facts |
+| N3 | reused, co-op PU12 | https://www.nyseg.com/w/brewster-nyseg-continues-restoration-effort-6-pm | Dec 25 2020: 27,375 Brewster-division customers out; gusts 71 mph. | §5 weather |
+| N4 | `Putnam County NY package theft OR break-in condo complex …` · Firecrawl search (excerpt) | https://patch.com/new-york/southeast/over-river-through-woods-car-theft-suspects-hiding-space-we-go | Nov 2026: stolen-vehicle suspects searched for off Chestnut Ridge Road, Carmel; Westchester-Putnam Real Time Crime Center assisted. Background only (no condo link) — NOT used on page. | — |
+| N5 | reused, co-op PU18 | Schumer press release (2015) on Northern Westchester/Putnam coverage maps | Carriers "wrongly claiming quality reception"; areas "often dead zones". | §10.5 #3 |
+| Q1 | reused, Rockland RC-Q1 | https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system | "Normal Range: $1,200 - $8,500". | §10.5 #4 |
+| P1 | site pages (internal), read Nov 26 2026 | /intercom-installation-putnam-county-ny (canonical Putnam intercom page) ; /access-control-installation-putnam-county ; /elevator-access-control-installation-putnam-county ; /door-buzzer-repair-putnam-county-new-york ; /intercom-pricing ; /door-buzzer-repair-pricing | $250 service call; video intercom 4–8 units $1,200–$3,500; multi-unit $1,200–$5,000; IP $2,500–$8,000+; access single door/gate $1,900–$6,000, multi-door $5,000–$18,000; elevator L1 from $2,175/car, L2 from $3,625/car; buzzer parts: station $250–$525, relay/button $250–$475, transformer $325–$650, strike $450–$950, lobby panel $650–$1,800, riser $850–$2,400. Monitoring $30/$45 (site tiers). NOT used: /intercom-repair-putnam-county ranges ($218–$435 diagnostic, $195/hr callbacks, etc. — conflict with the $250 rule), /door-buzzer-installation-putnam-county-ny $300 booking, /alarm-installation-putnam-county $49/mo contract text. | hero; §14 tables; §10.5 #4; Q&A prewire |
+
+### Putnam question register (this page) — add to the silo register
+§9 Q&A (H3):
+- The home-care agency sends different aides to several of our owners every week. How do we keep track of who can get in?
+- An owner passed away and the estate's executor needs to get into the unit to prepare it for sale. What should happen to the unit's fobs and app accounts?
+- One of our owners has memory loss and has walked out of the building at night. Can a door let the family know without locking anyone in?
+- When an owner falls inside a locked building, can a son or daughter who lives out of state let the ambulance crew through the front door?
+- Can the fitness room have a button that reaches someone if an owner gets hurt exercising alone?
+- Can the clubhouse defibrillator cabinet tell the board when it has been opened?
+- Our cameras would look over a parking lot we share with a neighboring medical office. Can the association record land it doesn't own?
+- Our buildings sit on solid rock. How does cable get from one building to the next?
+- Several owners objected at the annual meeting when the board proposed clubhouse cameras. How do other boards settle that?
+- One owner won't let the crew into his unit for the intercom upgrade. Can the project go ahead without that unit?
+- Our clubhouse party room has a posted occupancy limit. Can the access system tell the board how many people are inside during an event?
+- The builder prewired every unit for an alarm, but nobody ever activated it. Can an owner use that wiring now?
+
+§17 FAQ:
+- What format should our owner list be in when you load it into a new system?
+- Our owners' alarms are monitored by another company. Do they have to switch for you to work on the common areas?
+- Our pool house is unheated from fall to spring. Can intercom or camera equipment live there through the winter?
+- Can residents get a text when a package lands in the package room?
+- How long does your crew need inside each unit when in-unit stations are replaced?
+- Will you put hidden cameras in the clubhouse to catch whoever keeps damaging it?
+- Is your proposal priced per door, per unit or as one total?
+- Can the keypad code for vendors change on a schedule without anyone reprogramming it by hand?
+- If a reader fails, can owners still open the door with a key?
+- Our pool fence posts shift every winter. Will a gate reader stay lined up?
+- Once the board votes yes, how soon does the work begin?
+- Can visitors scan a code at the entrance to call an owner instead of scrolling a directory?
+
+Checked by meaning against every question on the 12 live condo pages and co-op-security-systems-putnam-county (parsed with tools/check_page.parse). Also checked against parallel orange-county and dutchess-county pages once on disk (dropped a footage-for-rule-enforcement question that overlapped Orange). Avoided intents already taken: caregivers at 55+ entrance (HV — this page's question is agency staff rotation), winter-away fobs (HV/Suffolk), lightning surge (Suffolk/co-op Putnam), outage lock behavior (Queens/co-op Putnam), wheelchair height (Rockland/Westchester/co-op), cellular gate call box (HV), police clip requests (Queens), owner vote (NYC/Brooklyn), sponsor login (Manhattan), trenching near wetlands (co-op Putnam), Carmel alarm permit (co-op Putnam), fire alarm "do you do it" (NYC — covered in body only).
+
+### Images (11) — permanent image rule; external manufacturer downloads blocked by the egress proxy (403), so library product photos used
+Pool: dHash screen of 4,665 files in candidate folders against all 308 files in images/condo-security-systems/, images/co-op-security-systems/, images/co-op-board-intercom-upgrade/ (distance ≤14 rejected); network-installation, low-voltage, commercial-security, elevator, smart-lock and AI/branded-crew images excluded; survivors compared by eye with their nearest used images. None shares a sha256 with any condo/co-op image at build time. All are manufacturer product photos (visible marks: blink, eufy, univ, LOREX, Ubiquiti "U"); no faces, house numbers, phone numbers or "AESS".
+| Page file (images/condo-security-systems/condo-security-systems-putnam-county-…) | ← Source | Where |
+|---|---|---|
+| white-video-doorbell-for-townhouse-unit-doors.webp | images/access-control-installation/access-control-installation-bensonhurst-white-and-black-video-doorbell-product-photo.webp | hero (eager), og/twitter |
+| black-turret-camera-with-blue-lens-ring.webp | images/ubiquiti-unifi-g6-pro-turret-camera-black.jpg | §5 |
+| compact-ptz-dome-for-entrance-drives.webp | images/uniview-ptz-positioning-dome-camera-white.jpg | §6 |
+| slim-black-battery-doorbell-for-unit-entries.webp | images/access-control-installation/access-control-installation-brighton-beach-brooklyn-blink-black-video-doorbell.webp | §7 |
+| low-profile-black-dome-camera-housing.webp | images/ubiquiti-unifi-g5-dome-camera-black-rear.jpg | §8 |
+| black-bullet-camera-with-deterrence-lights.webp | images/lorex-mini-ptz-active-deterrence-camera-installation-nyc.jpg | §9 |
+| small-white-indoor-cube-camera.webp | images/lorex-indoor-ptz-dome-camera-installation-nyc.jpg | §10 |
+| white-pan-tilt-camera-on-pendant-mount.webp | images/ubiquiti-unifi-g6-ptz-4k-camera-white.jpg | §10.5 |
+| compact-black-network-video-recorder.webp | images/nvr-uniview-nvr501.png | §12 |
+| black-pan-tilt-camera-on-wall-arm.webp | images/ubiquiti-unifi-g6-ptz-4k-camera-black.jpg | §14 |
+| battery-doorbell-with-blue-ring-button.webp | images/access-control-installation/access-control-installation-clason-point-bronx-black-battery-doorbell-with-blue-ring.webp | §15 |
+Note: co-op-security-systems-putnam-county uses the white G6 Pro turret and G6 Pro bullet; this page's turret is the black colour variant (different photo). DAILY-LOG note: `images: 11 manufacturer product photos reused from the top-level library + images/access-control-installation/ (no real condo photos yet; external product-photo downloads blocked)`.
+
+### Links left for the main run (FLIP comments in the page)
+`/condo-intercom-replacement` (§6 intercom), `/condo-security-camera-installation-putnam-county` (§6 cameras), `/condo-security-systems-ulster-county` (siblings). Orange and Dutchess condo pages linked directly (not on disk at finish). Back-links needed from all 12 live condo pages; one contextual link back from /intercom-installation-putnam-county-ny (no Putnam apartment-building camera page exists).
+
+
+## dutchess-county
+
+## Dutchess County — local research for `condo-security-systems-dutchess-county` (part file, Nov 26 2026; merge into research/condo-security-systems.md)
+
+Built by a batch subagent. Child of /condo-security-systems-hudson-valley. GBP Bronx (460 E Fordham Rd, #bronx); phone (845) 640-3835 in body, CTAs, sticky bar and schema; (800) 486-0943 only in the shared mega-nav. Starting price $250 service call (START_PRICES). Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page + section used.
+
+HOLD-THIN test: passed. Dutchess condos far outnumber co-ops (307 vs 42 sales in 12 months) and are a distinct stock: 41 named condo/townhouse complexes concentrated in Fishkill (13), Beacon (9), Poughkeepsie area (7), Wappingers Falls (5), built 1965–2019+, mostly townhouse/garden communities with clubhouses, pools and courts, three gated communities in current listings (one 55+), a few station-area/downtown lobby buildings, and slow new supply (116-unit riverfront proposal, 37-townhouse Beacon project).
+
+Thesis (kept apart from co-op-security-systems-dutchess-county, which leads with the small co-op market, city walk-ups, Beacon historic overlay for co-op entrances, winter door failures and Bronx travel; and from the Rockland/Westchester/Nassau condo pages): Dutchess condos are townhouse communities where the clubhouse, pool gate, management office, maintenance garage and utility buildings are the shared "front doors"; six decades of construction in one county (mixed eras within phased associations); municipal alarm rules that differ town by town (Beacon permit + callback, Village of Fishkill revocation at 10 avoidable alarms, East Fishkill separate registration per alarm site + first two false alarms free); Town of Poughkeepsie 2026 electrical permit law; long Central Hudson/NYSEG outages; remote management for rural associations.
+
+### Mandatory sources (§3) — status
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | EMPTY — not searched separately this run (co-op Dutchess builder found no r/Poughkeepsie / r/hudsonvalley thread on the topic) |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env). §10.5 corrects generic claims typical of chatbot/cost-guide answers (Angi/HomeAdvisor/Fixr named generically; HomeAdvisor range reused from silo). No AI quote invented. |
+| 6 | Area landmarks | DC-L1 (general geography, no client properties) |
+| 7 | Building stock | DC-M1, DC-M2, DC-M3, DC-N1, DC-N2 |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | Westfair Communications (DC-N1), The Highlands Current (DC-N2), Dutchess County press release (DC-W1) |
+| 10 | Hyperlocal | The Highlands Current (DC-N2); municipal codes (DC-A1–A4) |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Rows
+| # | Exact query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| DC-M1 | reused, co-op Dutchess D1 (OneKey MLS Q3 2026 PDF; the Oct 2026 PDF `2026_10_Dutchess_County.pdf` returned 403 to Firecrawl this run) | https://irp.cdn-website.com/a5e60d20/files/uploaded/2026_Q3_Dutchess_County.pdf | Condos 12 mo thru 9-2026: 307 (295 prior, +4.1%), median $355,000 (from $318,000). Co-ops 42, median $114,000. | §5 para 2; facts list; hero stamp |
+| DC-M2 | `Dutchess County condos townhouse HOA communities Fishkill Wappingers Falls Poughkeepsie Beacon condominium` · Firecrawl search → Firecrawl scrape (freeform) | https://www.realestatehudsonvalleyny.com/dutchess-towns/dutchess-condos/ | Directory of Dutchess condo/townhouse complexes by town: Fishkill 13, Beacon 9, Poughkeepsie 7, Wappingers Falls 5, Beekman 2, Pawling 2, Hyde Park 2, Rhinebeck 1 (41 total); build years 1965 to 2019+; two Fishkill complexes flagged 55+, a Wappinger "Regency" 2018, Rhinebeck community 2013+. Complex names NOT used on page. | §5 "Where Dutchess condos actually sit"; §7 cards; §10.5 #1; §13 cards |
+| DC-M3 | Firecrawl scrape (freeform, no addresses) | https://www.redfin.com/county/1958/NY/Dutchess-County/condos | Nov 26 2026: 71 condos for sale, median list $279K; listings in Fishkill 12524, Wappingers Falls 12590, Poughkeepsie 12601/12603, LaGrangeville 12540, Pawling 12564, Beacon 12508, Hyde Park 12538; notes: gated + fitness + clubhouse 55+ (Fishkill), gated (Poughkeepsie 12601), gated + clubhouse + pool (Poughkeepsie 12603), community pools, tennis courts, "scenic natural pond", HOA $296–$586, built 1968/1971/1985/1988, "near train" tags, "close to hospitals". Search-result excerpt also described a Fishkill community as a gated 55+ active-adult condominium built by a national homebuilder (builder not named on page). | §5 listings para; facts list; §7 gated 55+ card/subsection; §13 cards |
+| DC-N1 | `Dutchess County townhouse condominium development approved planning board units Fishkill OR Wappinger OR Poughkeepsie 2025 2026` · Firecrawl search (news) → Firecrawl scrape (directQuote) | https://westfaironline.com/latest-news/fishkill-landing-condo-project-being-planned/ | Westfair Communications, Peter Katz, Dec 1 2023: proposed Fishkill Landing on the Hudson in Fishkill — 116 condo units in four buildings, 2.5 and 3 stories, 7.5 acres for the complex, 10-acre town park, 100 underwater acres; park with restrooms, public parking, Riverfront Esplanade. | §5 "What is being built now"; §7 riverfront card/subsection |
+| DC-N2 | same search (news excerpt) | https://highlandscurrent.org/2025/05/30/booming-beacon-7/ | The Highlands Current, May 30 2025: "Beacon Views — 37 townhouses"; Planning Board granted two 90-day extensions, "at least the sixth and seventh extensions the project has received since 2022." Project name NOT used on page. | §5 "What is being built now" |
+| DC-W1 | reused, co-op Dutchess D7 | https://www.dutchessny.gov/Departments/County-Executive/Severe-Summer-Storm-Wreaks-Havoc-Across-Dutchess-County.htm | July 4 2026 storm: Central Hudson 33,000+ outages, NYSEG 7,400+; worst in City/Town of Poughkeepsie, East Fishkill, LaGrange, Beekman, Union Vale, Village/Town of Pawling. | §5 storms; §10 batteries; §10.5 #7 |
+| DC-W2 | `Central Hudson outage Dutchess County winter storm ice 2025 OR 2026 customers without power` · Firecrawl search (excerpt) | https://outagemap.cenhud.com/ | "Total Customers Served 315,545" (outage map, Nov 26 2026). | §5 storms |
+| DC-A1 | `Town of Fishkill code alarm systems chapter permit false alarms ecode360` · Firecrawl search (excerpt) | https://ecode360.com/8298811 | Village of Fishkill Code Ch. 37: "An alarm user permit shall be revoked whenever 10 or more avoidable alarms are recorded for a system in any one permit year." (Town of Fishkill Ch. 42 exists, https://ecode360.com/10584873 — definitions only seen; not cited for any rule.) | §5 towns para; §8.5; §10.5 #6 |
+| DC-A2 | same search (excerpts) | https://ecode360.com/7070191 ; https://ecode360.com/7070218 | Town of East Fishkill: "A separate alarm registration is required for each alarm site." Art. IV: "No fee shall be assessed for the first two false alarms at the same premises responded to by the Fire or Police Department during each …" (excerpt truncated; page words it without the period). | §5 towns para; §8.5; §9 Q&A East Fishkill registration; §10.5 #6 |
+| DC-A3 | reused, co-op Dutchess D4 | https://ecode360.com/7062505 | City of Beacon Ch. 77: alarm user permit from Police Department; residential notifications include attempted callback by central station before police. | §5 towns; §8.5; §10.5 #6 |
+| DC-A4 | reused, co-op Dutchess D10 | https://ecode360.com/6320489 | Town of Poughkeepsie Ch. 91 Electrical Inspections (L.L. 1-2026, adopted 2-18-2026): permit required to install/alter wiring for light, heat or power. | §5 towns; §8.5; §10.5 #5 |
+| DC-A5 | reused, co-op Dutchess D5 | https://ecode360.com/7063677 | Beacon Ch. 134: "alteration excludes … any minor, accessory, utility or security-related changes that do not substantially detract from the historic property". | §7 station-area subsection |
+| DC-G1 | reused, co-op Dutchess D3 | https://www.citypopulation.de/en/usa/newyork/admin/36027__dutchess/ | 2020 Census: county 297,018; Town of Poughkeepsie 45,574; City of Poughkeepsie 31,596; Town of Wappinger 28,204; Town of Fishkill 23,605; City of Beacon 14,380. | facts list |
+| DC-G2 | reused, co-op Dutchess D6 | https://en.wikipedia.org/wiki/Poughkeepsie_station | Poughkeepsie = northern terminus of Metro-North Hudson Line. | facts list |
+| DC-G3 | reused, silo L1/L2 | https://law.justia.com/codes/new-york/rpp/article-9-b/339-e/ ; https://law.justia.com/codes/new-york/rpp/article-9-b/339-v/ | Common elements text; reserves phrase. | facts list; §8.5; §14 funding |
+| DC-G4 | reused, silo HV / co-op D12 | https://www.nysenate.gov/legislation/laws/MRE/3 | MRL §3: cities < 325,000 and all towns and villages. | §5 towns; §8.5; §10.5 #3 |
+| DC-G5 | reused, Nassau NC-G6 | https://www.nysenate.gov/legislation/laws/EXC/378 | Pool enclosure gates self-closing, self-latching, locked when not in use or supervised. | facts list; §6 amenities; §8.5 |
+| DC-G6 | reused, co-op D13 | https://www.nysenate.gov/legislation/laws/GBS/69-M | State licensing of security/fire alarm installers. | facts list; §8.5; §10.5 #5 |
+| DC-G7 | reused, Rockland RC-G14 | https://udigny.org/resources/nys-code-rule-753/ | Code Rule 753: notice two to ten working days before excavation. | §6 cabling; §8.5 |
+| DC-G8 | reused, Rockland RC-G12 | https://cooperatornews.com/article/qa-camera-placement | Audio recording may implicate Penal Law eavesdropping provisions. | §9 Q&A audio |
+| DC-G9 | reused, silo L5 | https://intro.nyc/local-laws/2021-63 | TDPA is NYC law only. | §8.5; §10.5 #3 |
+| DC-Q1 | reused, silo / RC-Q1 | https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system | "Normal Range: $1,200 - $8,500". | §10.5 #2 |
+| DC-P1 | site pages (internal), read Nov 26 2026 | /intercom-installation-dutchess-county-ny (canonical; /intercom-installation-dutchess-county 301s to it) ; /access-control-installation-dutchess-county ; /elevator-access-control-installation-dutchess-county ; /door-buzzer-repair-dutchess-county-new-york ; /intercom-pricing ; /door-buzzer-repair-pricing | $250 service call; video intercom 4–8 units $1,200–$3,500; multi-unit $1,200–$5,000; IP smartphone $2,500–$8,000+; access single door/gate $1,900–$6,000; multi-door $5,000–$18,000 (pricing table); elevator L1 from $2,295/car, L2 from $3,825/car; buzzer parts station $250–$525, relay/button $250–$475, transformer $325–$650, strike $450–$950, lobby panel $650–$1,800, riser $850–$2,400; monitoring $30/$45 (site tiers). NOT used: intercom page "audio $500–$800", access page "$1,500–$2,500 lobby fob + 25% surcharge" and "$195/hr" callbacks, buzzer page "same day" wording, /intercom-repair-dutchess-county ranges (conflicting; flagged by co-op builder). | hero; §6; §14 tables; §15 |
+| DC-L1 | landmark geography (no client properties) | — | Route 9 / I-84 Fishkill interchange area; Beacon station + Main Street; Walkway Over the Hudson (Poughkeepsie); Wappingers Falls / Route 9D; Hyde Park Roosevelt sites; Rhinebeck village. | §13 cards |
+
+### Dutchess question register (this page) — add to the silo register
+§9 Q&A (H3): The clubhouse and several owners all have alarms in East Fishkill. Can they share one registration? · Can the board cap how many fobs and app users each unit gets? · Should cameras watch the association's pond and walking path? · After a divorce, one former spouse still has fobs for a unit the other now owns alone. Who can have them turned off? · An owner's car was keyed twice in the same space. Can we point a camera at that spot? · Owners want to check the pool camera from their phones to see if it is crowded. Is that a good idea? · Can our clubhouse cameras record sound as well as video? · Many owners rent to tenants on twelve-month leases. Can a tenant's fob turn itself off when the lease ends? · Can owners use their phones instead of fobs at the pool and clubhouse? · Our community runs its own water treatment building. Should it be on the same access system as the clubhouse? · What happens to our camera recordings if someone steals the recorder from the clubhouse? · Who keeps the cameras' and entry panels' software up to date after installation?
+
+§17 FAQ: Our pool gate lock fails but the rest of the access system works. Can you replace just that lock? · Can the board remove items from your proposal and keep the other prices the same? · Can a reader go on the sliding glass door between the clubhouse and the pool deck? · Will owners lose power or water while you work? · Will our existing door closers and handles work with new electric locks? · Should the association post signs saying cameras are recording? · Our clubhouse exit door has a panic bar. Can it take a reader on the outside? · Do owners need Wi-Fi in their unit for the intercom or access app? · Can the management company view our cameras from its office in another town? · Can the system text board members when the clubhouse alarm goes off? · Do readers and entry stations come in finishes that match our trim? · Can the local police watch our cameras live?
+
+Intent check (by meaning) against every question on the 12 live condo pages, the parallel orange-county and putnam-county pages (parsed from their HTML at build time) and co-op-security-systems-dutchess-county / -hudson-valley. Dropped/replaced during the build because they matched a sibling: speeding on private roads (Orange), mailing-address/town-line jurisdiction (Orange "complex sits across a town line"), chain-link/picket pool gate mounting (Orange), scheduled code changes (Putnam vendor keypad code), lost phone self-service (Orange lost fob), clubhouse alarm permit/readiness (co-op Dutchess management-office permit). Checker reports no exact masked duplicates.
+
+### Similarity
+Masked-geo paragraph similarity (difflib on word sequences; protected warranty sentence, proof strip, SMS consent and forms excluded): max 0.63 (condo-security-systems-orange-county), all other condo pages ≤ 0.62; co-op-security-systems-dutchess-county 0.44. Process/pricing/package paragraphs that first came out close to the Rockland/Orange/Putnam wording (0.7–0.96) were rewritten.
+
+### Images (11, permanent image rule — no Drive/CompanyCam check in this run)
+Copied byte-for-byte into images/condo-security-systems/ with `-dutchess-county-` names. sha256 differs from every file in images/condo-security-systems/ (incl. parallel orange/putnam files present at finish), images/co-op-security-systems/, images/co-op-board-intercom-upgrade/. Five first picks collided with files the parallel Orange/Putnam builders took (same sha256 or same product photo: stainless pendant PTZ, slim recorder + monitor, Speco-style doorbell with card icon, white Lorex bullet, Lorex indoor cube) and were swapped. Closest remaining: the doorbell is the same Alarm.com model family as the Nassau bronze doorbell (different finish/photo); the twin-light turret resembles the Staten Island turret (different model). Rejected: AI-looking job photos (alarm-installation Fulton Ferry boxes, Fort Hamilton conduit, cat6/structured-cabling technician shots with branded shirts), corridor-to-grey-door scenes (same corridor as co-op Dutchess image), camera-arm-below-cornice scenes (co-op Dutchess), Juice Bar signage, buzzer-repair/*.jpg, elevator-access-control, network-installation, low-voltage, commercial-security, smart-lock sets. Manufacturer photos via Firecrawl (2N) were blocked by the egress proxy. No faces, house numbers, phone numbers or "AESS"; maker logos visible on product photos (Alarm.com, Hikvision, Luminys, Digital Watchdog).
+| Page file (…dutchess-county-) | ← Source | Kind | Where |
+|---|---|---|---|
+| dome-camera-in-office-ceiling-corner-beside-flag (hero/og) | images/door-buzzer-repair/door-buzzer-repair-brownsville-white-dome-camera-in-wall-corner-beside-flag.webp | job | hero |
+| mini-dome-camera-and-cable-over-wood-slat-wall | images/door-buzzer-repair/door-buzzer-repair-bushwick-mini-dome-and-cable-runs-over-wood-slat-wall.webp | job | §5 |
+| black-and-white-video-doorbell-with-lit-bell-button | images/door-buzzer-repair/door-buzzer-repair-fort-greene-black-and-white-video-doorbell-with-lit-bell-button.webp | product | §6 |
+| white-turret-camera-with-twin-lights-for-parking-courts | images/door-buzzer-repair/door-buzzer-repair-gowanus-white-turret-camera-with-twin-lights-product-photo.webp | product | §7 |
+| wifi-dome-camera-with-two-antennas | images/door-buzzer-repair/door-buzzer-repair-fordham-wifi-dome-camera-with-two-antennas.webp | product | §8 |
+| flat-dark-grey-network-video-recorder | images/door-buzzer-repair/door-buzzer-repair-madison-flat-dark-grey-recorder-product-photo.webp | product | §9 |
+| white-turret-camera-with-blue-light-ring | images/door-buzzer-repair/door-buzzer-repair-mott-haven-white-turret-camera-with-blue-light-ring-product-photo.webp | product | §10 |
+| white-indoor-cube-camera-with-black-base | images/door-buzzer-repair/door-buzzer-repair-claremont-white-indoor-cube-camera-product-photo.webp | product | §10.5 |
+| black-network-recorder-with-orange-badge | images/door-buzzer-repair/door-buzzer-repair-mount-eden-black-network-recorder-with-orange-badge-product-photo.webp | product | §12 |
+| pan-tilt-camera-with-two-antennas-for-entrance-drives | images/door-buzzer-repair/door-buzzer-repair-gowanus-pan-tilt-camera-with-two-antennas-and-stacked-lenses-product-photo.webp | product | §13 |
+| pan-tilt-camera-under-three-floodlight-panels | images/door-buzzer-repair/door-buzzer-repair-brownsville-black-pan-tilt-camera-under-three-led-panels-product-photo.webp | product | §14 |
+
+DAILY-LOG note: `images: 11 reused from images/door-buzzer-repair/ (no real condo photos yet)`.
+
+### Links
+- Linked live: up /condo-security-systems-hudson-valley (breadcrumb, schema, §19); all 12 live condo pages + parallel /condo-security-systems-orange-county and /condo-security-systems-putnam-county (§19, once each); /co-op-security-systems-dutchess-county (§6, once); /intercom-installation-dutchess-county-ny, /intercom-repair-dutchess-county, /door-buzzer-repair-dutchess-county-new-york, /door-buzzer-installation-dutchess-county-ny, /access-control-installation-dutchess-county, /smart-lock-installation-dutchess-county, /elevator-access-control-installation-dutchess-county, /security-camera-installation-dutchess-county-ny, /parking-lot-camera-installation-dutchess-county, /cctv-installation-dutchess-county, /alarm-installation-dutchess-county, /fire-alarm-installation-dutchess-county-ny, /doorbell-camera-installation-dutchess-county, /structured-cabling-installation-dutchess-county, /network-installation-dutchess-county, /security-camera-maintenance-dutchess-county, /akuvox-vs-butterflymx, /intercom-pricing, /door-buzzer-repair-pricing, /warranty.
+- No /apartment-building-security-camera-installation-dutchess-county page exists, so that keyword-rule link was skipped.
+- FLIP comments (plain text): /condo-intercom-replacement (§6 intercom), /condo-security-camera-installation-dutchess-county (§6 cameras), /condo-security-systems-ulster-county (§19).
+- Link backs needed (main run): all 12 live condo pages (checker lists them; the HV hub needs its down-link/FLIP flipped); parallel Orange/Putnam pages; /co-op-security-systems-dutchess-county (one contextual link); per keyword rules one contextual link back from /intercom-installation-dutchess-county-ny.
+
+### Mobile
+390px check: headless Chrome (old mode) rendering the page in a 390px iframe (file://, so /js/mega-nav.js not loaded): scrollWidth = clientWidth (375 with scrollbar), no element extends past the viewport.
