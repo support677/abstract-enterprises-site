@@ -3800,3 +3800,6 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-27 | https://www.abstractenterprisessecuritysystems.com/condo-security-camera-installation-bronx | QUEUED
 2026-11-27 | https://www.abstractenterprisessecuritysystems.com/condo-security-camera-installation-staten-island | QUEUED
 2026-11-27 | https://www.abstractenterprisessecuritysystems.com/condo-security-camera-installation-long-island | QUEUED
+2026-11-27 | https://www.abstractenterprisessecuritysystems.com/condo-security-camera-installation-hudson-valley | QUEUED
+2026-11-27 | https://www.abstractenterprisessecuritysystems.com/condo-security-camera-installation-nassau-county | QUEUED
+2026-11-27 | https://www.abstractenterprisessecuritysystems.com/condo-security-camera-installation-suffolk-county | QUEUED
