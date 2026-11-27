@@ -3820,3 +3820,6 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-27 | https://www.abstractenterprisessecuritysystems.com/co-op-security-camera-installation-rockland-county | QUEUED
 2026-11-27 | https://www.abstractenterprisessecuritysystems.com/property-management-security-nyc | QUEUED
 2026-11-27 | https://www.abstractenterprisessecuritysystems.com/property-management-security-manhattan | QUEUED
+2026-11-27 | https://www.abstractenterprisessecuritysystems.com/property-management-security-brooklyn | QUEUED
+2026-11-27 | https://www.abstractenterprisessecuritysystems.com/property-management-security-queens | QUEUED
+2026-11-27 | https://www.abstractenterprisessecuritysystems.com/property-management-security-bronx | QUEUED

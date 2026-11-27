@@ -492,9 +492,9 @@ LIVE | co-op-security-camera-installation-rockland-county | Co-op Security Camer
 HOLD-THIN | co-op-security-camera-installation-orange-county | Co-op Security Camera Installation | Orange | up /co-op-security-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | property-management-security-nyc | Property Management Security | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | property-management-security-manhattan | Property Management Security | Manhattan | up /property-management-security-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-11-27T05:31:47-05:00 | property-management-security-brooklyn | Property Management Security | Brooklyn | up /property-management-security-nyc | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-27T05:31:47-05:00 | property-management-security-queens | Property Management Security | Queens | up /property-management-security-nyc | (347) 434-6392 | GBP Bronx
-BUILDING 2026-11-27T05:31:47-05:00 | property-management-security-bronx | Property Management Security | Bronx | up /property-management-security-nyc | (646) 490-0629 | GBP Bronx
+LIVE | property-management-security-brooklyn | Property Management Security | Brooklyn | up /property-management-security-nyc | (347) 934-8335 | GBP Brooklyn
+LIVE | property-management-security-queens | Property Management Security | Queens | up /property-management-security-nyc | (347) 434-6392 | GBP Bronx
+LIVE | property-management-security-bronx | Property Management Security | Bronx | up /property-management-security-nyc | (646) 490-0629 | GBP Bronx
 TODO | property-management-security-staten-island | Property Management Security | Staten Island | up /property-management-security-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | property-management-security-long-island | Property Management Security | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | property-management-security-hudson-valley | Property Management Security | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx

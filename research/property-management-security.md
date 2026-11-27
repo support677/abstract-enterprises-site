@@ -136,3 +136,198 @@ Phone (929) 560-0737 · GBP Bronx (460 E Fordham Rd) · start price $250 service
 - FAQ: Do you give us a written report after maintenance visits?
 ### Images (11, permanent image rule; no unused real job photos remained — every library job photo was already in the co-op/condo/apartment-camera folders)
 Library product photos copied: ubiquiti-unifi-g6-turret-4k-camera-black.jpg, alarm-com-vdb775-video-doorbell.webp, ubiquiti-unifi-g5-pro-4k-bullet-camera-white.jpg, cam-eyeball-warm.jpeg, floodlight-night-owl-fwip3.png, nvr-installation/...avycon-sixteen-channel-recorder-product-photo.webp, floodlight-tapo-c720.png, lorex-wifi-ptz-camera-installation-westchester-county.jpg. Partner (Reolink) product photos via Firecrawl/CDN: Video Doorbell PoE + chime (hero), dual-lens floodlight, dual-lens bullet. Checked by sha256, ORB feature matching and normalized correlation against co-op/condo/co-op-camera/condo-camera/apartment-camera folders and the NYC PM images.
+
+
+## Brooklyn (property-management-security-brooklyn) — built 2026-11-27, batch subagent
+
+Phone (347) 934-8335 · GBP Brooklyn (1282 Troy Ave, `#brooklyn`) · start price $250 service call (START_PRICES). Other prices only as already published on Brooklyn pages (cited below).
+
+### Research matrix
+| Source | Exact query | Platform | URL | Finding | Used in |
+|---|---|---|---|---|---|
+| NYC IBO, May 2026 | `Rent Guidelines Board rent stabilized units by borough Brooklyn number 2024 housing supply report` | WebSearch → WebFetch | https://www.ibo.nyc.gov/assets/ibo/downloads/pdf/housing-and-buildings/2026/2026-may-segments-of-the-rent-stabilized-housing-stock.pdf | "Brooklyn and the Bronx have the largest number of rent stabilized apartments, with 279,000 and 233,000 apartments respectively"; ~1 million stabilized citywide = 41% of rentals | Neighborhood para 2; facts list |
+| CHPC housing stock | `Brooklyn small multifamily buildings 3 to 10 units share of housing stock report walk-up brownstone landlords` | WebSearch → WebFetch | https://chpcny.org/visualization/housing-stock-visualization/ | Brooklyn "has the most even distribution of building sizes among the boroughs" (no Brooklyn unit-size %, not used) | Neighborhood para 1 (quote) |
+| Furman Center small rentals | same query | WebFetch | https://furmancenter.org/research/publication/maintenance-and-investments-in-small-rental-properties-findings-from-new-yo | 2013 working paper; no Brooklyn figures | Not used |
+| NYS HCR living conditions | `HCR DHCR owner application to modify services rent stabilized building intercom key card entry system RA-2 fact sheet` | WebSearch → WebFetch | https://hcr.ny.gov/living-conditions-and-essential-services | Owners "are required to maintain all required services and equipment in good working order"; "broken door locks" example of decreased service; RA-81 (apartment) / RA-84 (building-wide) complaints; RA-84.2 covers doorman/security | Facts list; Rent-stabilized section |
+| HCR Fact Sheet #3 | same query | WebFetch | https://hcr.ny.gov/system/files/documents/2024/11/fact-sheet-03-11-2024.pdf | No intercom/lock mention; refers to Operational Bulletin 2024-2 and IAI | Not quoted |
+| HCR IAI/MCI page | (search result, same query) | WebSearch | https://hcr.ny.gov/apartment-iai-and-building-mci-improvements | Link only, for owner/counsel on improvement rent increases | Rent-stabilized para 3 (link, no claim) |
+| Legal Services NYC, May 1 2019 | `Atlantic Plaza Towers Brownsville facial recognition tenants landlord Nelson Management 2019` | WebSearch → WebFetch | https://legalservicesnyc.org/?p=1612 | Atlantic Plaza Towers (2 buildings, Brownsville, rent-stabilized); owner applied to HCR July 2018 for StoneLock facial-recognition entry; 130+ tenants filed opposition May 1 2019. Outcome not reported on that page (not stated on our page) | Access control para 3; Q&A face recognition; landmark card |
+| LPC press release Apr 12 2016 | `Brooklyn historic districts count Landmarks Preservation Commission Park Slope Historic District number of buildings` | WebSearch → WebFetch | https://home4.nyc.gov/site/lpc/about/pr2016/04-12b.page | Park Slope HD Extension II = 292 buildings; brings total protected buildings in Park Slope to 2,853 | Facts list; landmark card |
+| Spring Creek Towers | reused from silo row S14 | Firecrawl excerpt | https://www.springcreektowers.com/aboutus.html | "a 5,881 apartment rental complex" | Landmark card (landmark only, not client) |
+| HPD intercom violations | reused from silo row S8 / co-op D1 | NYC Open Data | https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/wvxf-dwi5 | 2025 Brooklyn 1,157 intercom-mention violations (2nd after Bronx 1,637) | Neighborhood para 3 |
+| MDL §50-a, 28 RCNY §25-101, LL 63/2021, HPD self-closing doors, BC §1010.1.9, Admin Code §28-105.4.7, LPC Guidebook ch.11, Cooperator audio Q&A, HomeAdvisor | reused from silo rows S2, S4, S6, S7, S9, S10, S11, S12 and Manhattan LPC row | — | (see silo table) | as recorded there | Facts list, doors, cabling, commercial callouts, tenants, AI check |
+| NYC Open Data live query (registrations by borough) | `tesw-yqqr` SODA count by boroid | curl | https://data.cityofnewyork.us/resource/tesw-yqqr.json | EMPTY (not accessible in build env: proxy 403) | — |
+| Reddit / PAA / PASF / ATP / AI Overview / Yelp / Bing-DDG for Brooklyn property managers | — | — | — | EMPTY (not accessible in build env) | — |
+
+### Prices used (all already on Brooklyn pages)
+- $250 service call — START_PRICES; /door-buzzer-repair-brooklyn-new-york.
+- Station $250–$525, relay (not used), transformer $325–$650, strike $450–$950, lobby panel $650–$1,800, riser $850–$2,400 — /door-buzzer-repair-brooklyn-new-york (same as /door-buzzer-repair-pricing).
+- Single-door lobby fob reader $1,500–$2,500 installed — /access-control-installation-brooklyn.
+- Elevator reader $1,500/car Level 1, $2,500/car Level 2 — /elevator-access-control-installation-brooklyn.
+- Monitoring $30/mo keypad, $45/mo app — /alarm-installation-brooklyn.
+- Maintenance agreements and new systems: no price (quoted after survey/assessment). Fire alarm: no price.
+
+### Question register additions (property-management-security-brooklyn)
+Checked by meaning against NYC + Manhattan registers above and the parallel Bronx and Queens drafts on disk (overlapping drafts replaced: smartphone-less tenants, propped doors, weather faults, walk-up vs big-building equipment, two-family service, package lockers, electrician, hallway footage requests).
+- Q&A: For a twelve-unit walk-up, is a directory keypad or a row of call buttons the better panel?
+- Q&A: Which of our small buildings can get by with video doorbells instead of an entry panel?
+- Q&A: How do you handle a brownstone where the original buzzer plate is part of the landmarked facade?
+- Q&A: Should a building with a part-time super be set up differently from one with a live-in super?
+- Q&A: Can a rent-stabilized building keep its old audio intercom instead of upgrading?
+- Q&A: Should we put face recognition on the front door of a rent-stabilized building?
+- Q&A: Should we install the new apartment station while a unit is vacant, before the building-wide upgrade?
+- Q&A: Who should pay for the alarm and cameras in a ground-floor store, the owner or the store tenant?
+- Q&A: Should the building rely on the store's cameras to cover the residential entrance?
+- Q&A: How do you work in a garden-apartment complex where several buildings share one courtyard and gates?
+- Q&A: Can a large complex move to new fobs one building at a time without tenants getting confused?
+- Q&A: What should the entry panel show when tenants do not want their names posted outside?
+- Q&A: How do we stop strangers from slipping in behind tenants at the street door?
+- Q&A: What happens when one tenant will not let the technician in for intercom work?
+- Q&A: Can a camera read license plates in a Brooklyn building's parking lot?
+- Q&A: Can the super get an alert on his phone when the cellar or roof door is opened at night?
+- Q&A: How do we add new equipment without cutting off tenants' internet and TV wiring in the riser?
+- FAQ: Do you work in Brooklyn buildings outside the brownstone neighborhoods, such as Canarsie, Coney Island and East New York?
+- FAQ: Will new readers work with the fobs our tenants already carry?
+- FAQ: Can you cancel the old vendor's cloud subscription when we switch a building to your system?
+- FAQ: Do you install entry readers and call boxes on gates and fences around Brooklyn buildings?
+- FAQ: Can the intercom ring the super's phone when no one answers the office line?
+- FAQ: Can you add a camera to a system another company installed?
+- FAQ: Can we buy spare fobs and cards from you so the office can issue them itself?
+- FAQ: Who pays when a tenant damages a new intercom station or reader?
+- FAQ: Is financing available for upgrading several Brooklyn buildings at once?
+- FAQ: Can footage be kept longer than the recorder's default setting?
+- FAQ: Can you give us the addresses of other Brooklyn buildings you work in?
+
+### Images (11, permanent image rule — partner Reolink product photos, no unused real job photos found)
+Library scan: dHash + sha256 over all 18,090 library images; every real job photo not already in the six excluded folders was either a re-crop of a scene used there, AI-generated (staff/van/school scenes, `ai/`, `gbp-photos/`), a text carousel, or showed a business sign. Partner (Reolink, authorized partner) product photos pulled from reolink.com product pages (home-cdn.reolink.us): Video Doorbell WiFi (hero), Chime, CX410, RLN36, RLK16-1200D8-A, RLK8-800B4, Lumus (x2), Home Hub Pro, Duo 3 WiFi, RLK8-1200D4-A. Each checked by sha256, normalized correlation and ORB matching against images/property-management-security/*, co-op-security-systems/*, condo-security-systems/*, co-op-security-camera-installation/*, condo-security-camera-installation/*, apartment-building-security-camera-installation/* — 16 other Reolink shots rejected as already used there. Also compared with the parallel Bronx/Queens images: no shared photo; Bronx uses a different bullet camera and a plain product shot of the same Home Hub Pro (ours is the on-cabinet lifestyle shot). Captions say "Partner product photo" and describe only what is visible. Lorex (lorex.com/cdn.shopify.com) and Luminys blocked by the build-env proxy.
+DAILY-LOG note: `images: 11 partner (Reolink) product photos via reolink.com (no unused real property-management photos)`.
+
+
+## Queens (property-management-security-queens) — built 2026-11-27, batch subagent (part file; merge into research/property-management-security.md)
+
+Phone (347) 434-6392 · GBP Bronx (460 E Fordham Rd) · start price $250 service call (START_PRICES). Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page + section used.
+
+### Research matrix
+| # | Exact query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| Q1 | `Rent Guidelines Board housing supply report rent stabilized units Queens number 2024` · WebSearch → Firecrawl scrape (PDF, directQuote) | https://rentguidelinesboard.cityofnewyork.us/wp-content/uploads/2026/05/2026-HSR.pdf | 2026 HSR: Queens newly completed units up 17.9% to 9,608 (2025); average new building 33.7 units in Queens; newly certified 421-a units Queens 5,913 (20.6% of city); Queens 421-a rental certifications up 104.0%. (Borough rent-stabilized count not in the extract — not used.) | §Neighborhood para 2; stamp |
+| Q2 | `Queens County foreign born percent language other than English spoken at home Census QuickFacts` · Firecrawl search (excerpts) | https://www.census.gov/quickfacts/fact/table/queenscountynewyork,newyorkcitynewyork/PST045225 | Queens foreign-born 47.6% (2020–2024); language other than English at home 55.4% (Queens) vs 47.7% (NYC). | §Neighborhood para 3; mailroom "Notices" H3 |
+| Q3 | reused: research/condo-security-systems.md Queens row D1 + co-op Queens row Q10 (NYC Open Data SODA, verified there) | https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/wvxf-dwi5 | Queens 2025 HPD violations mentioning intercom: 342 (A 79 · B 261 · C 2); by CB: 3=48, 7=49, 8=50 highest. | §Neighborhood para 4; Q&A class B/C |
+| Q4 | `HPD violation classes Class A non-hazardous 90 days Class B hazardous 30 days Class C immediately hazardous 24 hours nyc.gov` · Firecrawl search (excerpt) | https://www.nyc.gov/site/hpd/services-and-information/clear-violations.page | Class A 90 days; B 30 days; most C 24 hours; C self-closing doors 14 days; C heat/hot water no time. | §Neighborhood para 4; facts list; Q&A class B/C |
+| Q5 | `Hurricane Ida 2021 Queens basement apartments deaths flooding nyc.gov report` · Firecrawl search (excerpts) | https://www.nyc.gov/assets/em/downloads/pdf/hazard_mitigation/Impacts_of_PTC_Ida.pdf ; https://www.nyc.gov/assets/cdbgdr/documents/Executive_Summary.pdf | 13 New Yorkers died in flash floods, 11 by drowning in basement apartment flooding; damaged properties concentrated in Queens, Brooklyn and the Bronx. | facts list; alarms/backup power para; AI check "flood damage" |
+| Q6 | `Queens apartment building package thief lobby 2026 NYPD Flushing OR Jamaica OR Astoria OR "Forest Hills"` · Firecrawl search (news) → Firecrawl scrape (directQuote) | https://qns.com/2025/10/suspect-wanted-burglary-forest-hills/ | QNS, Bill Parry, Oct 10 2025: 112th Pct; man entered building near 112th St & 73rd Ave through front door ~4:15 p.m. Tue Oct 7; on video sitting on lobby couch; entered an apartment, took $600 phone, fled through courtyard; NYPD released surveillance images. Location given only as the cross streets QNS published; no building named. | Cameras section para 2; AI check "cameras deter crime" |
+| Q7 | `LeFrak City Queens apartment complex 20 buildings 4,605 apartments built 1960s Corona Elmhurst` · WebSearch → Firecrawl scrape (directQuote) | https://en.wikipedia.org/wiki/LeFrak_City | 4,605 apartments; Junction Blvd (W), 57th Ave (N), 99th St (E), LIE (S); twenty 17-story towers on 40 acres, 14,000+ residents; built 1962–1971. Landmark only, not a client. | Landmarks card 1 |
+| Q8 | reused: research/apartment-building-security-camera-installation.md row 16 (verified there) | https://hdc.org/borough/jackson-heights/ | Jackson Heights HD designated Oct 19 1993; built mainly 1914–1939; "first and remains the largest garden-apartment community in the United States". | Building types "Landmarked" H3; Landmarks card 2 |
+| Q9 | reused silo rows S2, S6, S7, S9, S10, S11 + Manhattan rows (DOB elevator licenses, DEP construction noise, LPC permit guidebook) | 28 RCNY §25-101; intro.nyc LL63/2021; nysenate MDL §50-a; NYC BC 1010.1.9.8/9; Admin Code §28-105.4.7; cooperatornews.com/article/qa-camera-placement; nyc.gov DOB elevator licenses; nyc.gov DEP construction noise | As in silo/Manhattan register. | facts list; access control; elevator; cameras (audio); alarms/cabling; commercial compliance list; tenants section |
+| Q10 | reused silo row S1 | https://www.nyc.gov/site/hpd/services-and-information/register-your-property.page | HPD registration for 3+ unit multiple dwellings; managing agent listed; updates on agent change. | facts list |
+| R1 | Reddit / Google PAA / PASF / Answer the Public / AI Overview / Yelp 1–3★ / Bing–DDG | — | EMPTY (not accessible in build env). AI check section corrects claims typical of national cost guides and AI summaries; no AI quote invented. | — |
+
+### Prices used (all already on Queens pages)
+- $250 service call — START_PRICES; /door-buzzer-repair-queens-new-york, /intercom-installation-queens-ny.
+- Apartment station $250–$525 · strike with alignment $450–$950 · riser repair $850–$2,400 — /door-buzzer-repair-queens-new-york.
+- Single door reader + strike $1,500–$2,500 — /access-control-installation-queens.
+- Elevator access from $1,575 per car (Level 1), $2,625 per car (Level 2) — /elevator-access-control-installation-queens.
+- Four-camera 1080p systems starting at $950 — /security-camera-pricing-queens.
+- Alarm monitoring $30/mo keypad-only, $45/mo with app — /alarm-installation-queens.
+- No maintenance-contract, package, per-unit or fire alarm prices.
+
+### Question register additions (property-management-security-queens)
+- Q&A: Our portfolio runs from two-family rentals in Ridgewood to a large tower in Long Island City. Can one contractor really service both ends of that range?
+- Q&A: Is it better to replace a failing system at one building now, or wait and replace a group of buildings together next year?
+- Q&A: Can one management login cover buildings that are owned by different LLCs?
+- Q&A: Should a multi-building rental campus record everything on one central recorder or keep a recorder in each building?
+- Q&A: Our complex's parking lot is next to a shopping strip. How do we keep tenant spaces for tenants?
+- Q&A: A store tenant on the ground floor has its own alarm company. Can its system and ours share the building's doors?
+- Q&A: Several tenants in one building have no smartphone. Can the intercom still ring their apartments?
+- Q&A: A tenant asked for hallway footage after a dispute with a neighbor. Do we have to hand it over?
+- Q&A: Our walk-up has no elevator and no live-in super. What is the minimum that keeps the front door dependable?
+- Q&A: A new Long Island City rental came with a cloud intercom and a monthly platform fee. Can we keep the hardware and change the subscription?
+- Q&A: When does repairing an old intercom stop making financial sense in a rental building?
+- Q&A: What fails first after a power surge or a nearby lightning strike, and how is it prevented?
+- Q&A: What should a fall walk-through of our buildings check before the heating season?
+- Q&A: Is a class C intercom violation handled differently from a class B one?
+- FAQ: Can you meet the owner's architect or engineer on site during a renovation?
+- FAQ: Do you repair intercoms and cameras damaged by flooding?
+- FAQ: Is the assessment free when we ask you to look at several buildings at once?
+- FAQ: Do you install electronic package lockers?
+- FAQ: Will our electrician need to be involved?
+- FAQ: Can you set up a virtual doorman for one of our buildings?
+- FAQ: How do we reach you when a building problem comes up after 8 p.m.?
+- FAQ: Do you service intercoms in two- and three-family rental houses?
+- FAQ: Can a new entry system use the wiring already in the walls?
+- FAQ: How will our super know your technician is legitimately from you?
+
+Intent check (by meaning) against PM NYC + Manhattan registers and the Queens co-op, condo, co-op camera, condo camera and apartment-camera question sets: avoided repeats of — triage of several failing buildings, logins on sale/transfer, scope for bid comparison, TDPA tenant duties, vendor/contractor access, leasing self-tours, delivery-driver service entrance, cellar flooded recorder relocation, multilingual notice wording, landline shareholders, internet outage, documenting existing systems, one-app viewing, standardizing brands, invoicing per entity, guaranteed response, COI timing, out-of-business installer. Brooklyn/Bronx PM drafts on disk at check time: `check_page.py` found no duplicated question with them.
+
+### Images (11, permanent image rule; no Drive/CompanyCam check in this run)
+Library job photos and library product photos were tested first by perceptual hash (dHash) and ORB feature matching (RANSAC inliers) against images/property-management-security/*, co-op-security-systems/*, condo-security-systems/*, co-op-security-camera-installation/*, condo-security-camera-installation/*, apartment-building-security-camera-installation/*: every PM-relevant job photo and recorder/floodlight product photo already appears there (inliers 60–650), so none was usable. All 11 are Reolink (authorized partner) manufacturer product photos fetched from reolink.com product pages (Firecrawl image lists / og:image, home-cdn.reolink.us), flattened on white, WebP. Each checked: sha256 unique; ORB inliers vs the six folders ≤ 29 except the four-antenna recorder (52, false match on a bullet camera, visually distinct); re-checked against the parallel Brooklyn/Bronx PM images — the Bronx builder used the same spotlight dome photo, so that one and a near-identical varifocal dome were dropped and replaced. No faces, house numbers, phone numbers or "AESS".
+| File (images/property-management-security/) | Source | Where |
+|---|---|---|
+| …-queens-pan-tilt-poe-camera-for-courtyards.webp | reolink.com/us/product/e1-outdoor-se-poe/ (og:image) | hero (eager), og/twitter image |
+| …-queens-four-antenna-recorder-for-small-buildings.webp | reolink RLN12W product image (reolink.com/wp-content/uploads/2023/09/260249431695696583.3194.png, listed on business.reolink.com/us/product/rln12w/) | §Neighborhood |
+| …-queens-turret-camera-for-side-and-rear-doors.webp | home-cdn …/2025/06/RP-PCT12M-1Pack@1x.png | Intercom section |
+| …-queens-turret-camera-with-size-callouts.webp | home-cdn …/assets/tespecs/rlc-1224a-1.png | Access control section |
+| …-queens-sixteen-channel-poe-recorder.webp | home-cdn …/2025/07/RP-PN16-400@1x.png | Elevator section |
+| …-queens-zoom-bullet-camera-for-parking-and-driveways.webp | home-cdn …/2025/06/RP-PCB8MZ-1pack.png | Cameras section |
+| …-queens-wifi-recorder-rear-panel.webp | home-cdn …/2023/11/150717011700032621.3754.png (RLN12W rear) | Alarms/infrastructure section |
+| …-queens-turret-camera-aiming-range.webp | home-cdn …/assets/tespecs/rlc-1224a-2.png | Building types section |
+| …-queens-sixty-four-channel-recorder-front.webp | home-cdn …/2026/05/BOX-RP-N64-1@2x.jpg (cropped) | Commercial section |
+| …-queens-plug-in-camera-power-adapter.webp | reolink RLN12W page in-box accessory image (reolink.com/wp-content/uploads/2023/11/150840081700037608.1126.png) | Service section |
+| …-queens-sixty-four-channel-recorder-rear-ports.webp | home-cdn …/2026/05/BOX-RP-N64-2@2x.jpg (cropped) | Q&A section |
+
+### FLIPs on the page (plain text + comment)
+/property-management-security-staten-island, -long-island, -nassau-county, -suffolk-county, -hudson-valley, -westchester-county, -rockland-county, -orange-county, -putnam-county, -dutchess-county, -ulster-county; /apartment-building-security-systems-queens.
+
+
+## Bronx (property-management-security-bronx) — built 2026-11-27, batch subagent
+
+Phone (646) 490-0629 · GBP Bronx (460 E Fordham Rd) · start price $250 service call (START_PRICES). Other prices used are only those already published on Bronx pages: door-buzzer-repair-bronx-new-york (station $250–$525, transformer $325–$650, strike with alignment $450–$950, branch riser $850–$2,400); elevator-access-control-installation-bronx (Level 1 from $1,500/car, Level 2 from $2,500/car); alarm-installation-bronx ($30/mo keypad-only, $45/mo app); structured-cabling-installation-bronx ($150–$300 per drop). No fire alarm prices. Maintenance agreements: no price.
+
+### Research matrix
+| Source | Exact query | Platform | URL | Finding | Used in |
+|---|---|---|---|---|---|
+| HPD 2023 NYCHVS initial findings | "Bronx" share of households that rent percent renter-occupied 2023 Housing and Vacancy Survey borough Bronx vacancy rate | WebSearch → WebFetch | https://www.nyc.gov/assets/hpd/downloads/pdfs/about/2023-nychvs-selected-initial-findings.pdf | Bronx renter-occupied 436,800 (Table 7, p.18); Bronx occupied units 529,900, 26% with 3+ reported housing problems, Bronx highest prevalence of problems (Table 12, pp.37–38); Bronx rental vacancy 0.82% (Table 9, p.23, flagged high variability) | §5 paras 1–2, facts list |
+| NYC Open Data HPD violations (reused, research/co-op-security-systems.md D1 / silo S8) | — | — | https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/wvxf-dwi5 | 2025 violations mentioning intercom: Bronx 1,637, Brooklyn 1,157 (highest borough) | §5 para 2, facts list |
+| Bronx Times, Marina Samuel, May 22 2026 | Bronx renters share of households rent stabilized units Furman Center borough profile Bronx | WebSearch → WebFetch | https://www.bxtimes.com/our-forgotten-borough-rent-stabilized-buildings/ | Avg Bronx stabilized rent $1,190 (2024), ~$500 below citywide (CPC data); Bronx only borough with NOI decline (RGB 2026 I&E); CD 4, 5, 7 concentrations of pre-1974 stabilized buildings; manager quote ~20% of buildings in foreclosure/default/restructuring; Highbridge tenant: "persistent security issues" and quote "We cannot go on paying rent, not getting the services that we deserve." | §5 paras 3–4 (real quote), Regulated section, landmark card Highbridge |
+| UNHP blog, Nov 18 2025 (summarizing ANHD + Enterprise/NEF) | Bronx nonprofit housing owners affordable housing portfolio Bronx share of HPD financed units | WebSearch → WebFetch | https://unhp.org/blog/2-reports-confirm-affordable-housing-struggles/ | "The Bronx emerges as the clear epicenter" of at-risk affordable housing; >50% of 428 regulated developments negative cash flow | §5 para 3 |
+| CityLand, Grand Concourse HD | Grand Concourse Historic District Landmarks Preservation Commission designation report apartment buildings Art Deco | WebSearch → WebFetch | https://citylandnyc.org/new-grand-concourse-historic-district-approved | Designated unanimously Oct 25 2011; 78 buildings along/near Concourse, 153rd–167th Sts; Art Deco/Moderne 1930s | Facts list, Building Specialists, landmark card |
+| LPC Permit Guidebook ch.11 (reused from Manhattan research row) | — | — | https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf | Staff permits for intercom panels within/adjacent to door opening | Building Specialists (Concourse method), Q&A store cameras |
+| THE CITY, Jan 23 2022 | Twin Parks North West fire January 2022 self-closing door failed 17 killed East 181st Street Bronx | WebSearch → WebFetch | https://www.thecity.nyc/2022/01/23/damaged-doors-fire-risks-thousands-buildings-nyc/ | 17 died (smoke inhalation); fire-apartment self-closing door "didn't function properly"; 15th-floor stair door open; 18,305 open self-closing-door violations in 10,610 buildings as of Jan 11 2022, concentrated in lower-income Bronx neighborhoods | Doors section, Q&A Twin Parks |
+| HPD penalties and fees | HPD intercom violation class B owner must maintain intercom ... | WebSearch → WebFetch | https://www.nyc.gov/site/hpd/services-and-information/penalties-and-fees.page | Self-closing doors Class C, 14 days, $250–$500 + $250/day | Facts list, Doors section, Q&A stair door |
+| HPD self-closing doors page (silo S4) | — | — | https://www.nyc.gov/site/hpd/services-and-information/self-closing-doors.page | Quote "are required by law to swing closed and latch by themselves" | Doors section |
+| HPD AEP 2025 release, Mar 25 2025 | HPD Alternative Enforcement Program 2025 buildings selected Bronx number of buildings round | WebSearch → WebFetch | https://www.nyc.gov/site/hpd/news/010-25/hpd-sharpens-enforcement-against-nyc-s-worst-apartment-buildings | 250 buildings, 6,830 homes, 53,986 open violations, 15,463 immediately hazardous; no borough breakdown on page | Regulated section |
+| News 12 Bronx, Sep 24 2024 | Bronx Times package theft apartment building lobby 2025 OR 2026 thieves mailroom Bronx | WebSearch → WebFetch | https://bronx.news12.com/mount-eden-apartment-tenants-say-mail-is-being-stolen-due-to-broken-mailboxes | Mount Eden building, unlocked mailbox panel; tenant: lack of cameras made police report hard; quote "I've spoken to the management company about this issue, and they haven't fixed it, it's a problem," (building/HDFC name and street NOT used on page) | Cameras section |
+| NYC SBS CDNA Fordham | The Hub 149th Street Third Avenue Bronx BID retail corridor Fordham Road BID | WebSearch → WebFetch | https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-fordham.pdf | 657 storefronts; safety top merchant change 82% (assessment Sep 2021–Jun 2022) | Commercial section, landmark card |
+| NYC SBS CDNA The Hub/Melrose | (same) | WebFetch | https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-thehub-melrose.pdf | 613 storefronts, 107 vacant (17.5%); safety 73%; merchant quote "Too many thefts, need cops present always." (data Sep 2024–Jun 2025) | Commercial section |
+| Silo sources reused: MDL §50-a (S7), HPD registration (S1), 28 RCNY §25-101 (S2), Tenant Data Privacy Law (S6 + HPD page from Manhattan row), Admin Code §28-105.4.7 (S10), Parkchester 171 buildings MetLife 1938–1942 (S16), DEP construction noise hours and DOB elevator licenses (Manhattan rows) | — | — | see silo table | as cited | Facts list, Access, Occupied, Elevator, Commercial compliance, landmark card |
+| Reddit / PAA / PASF / ATP / AI Overview / Yelp / Bing-DDG | — | — | — | EMPTY (not accessible in build env) | AI Reality Check paraphrases common national-guide claims, does not quote an AI Overview |
+
+### Question register additions (property-management-security-bronx)
+Checked by meaning against NYC + Manhattan registers above, the parallel Brooklyn and Queens drafts on disk at build time (three questions swapped to avoid overlap: footage requests, package lockers, electrician), and the co-op-security-systems-bronx / condo-security-systems-bronx question sets.
+- Q&A: A stair door with a fob reader has an open self-closing door violation. Who fixes which part?
+- Q&A: After the Twin Parks fire, what should a manager check on doors that have locks or readers?
+- Q&A: How should an intercom be handled in apartments where tenants removed or painted over the station?
+- Q&A: Tenants want a bike room and storage cages in the cellar. Can they get in without reaching the boiler room?
+- Q&A: How do we stop a courtyard gate or rear door from being propped open all day?
+- Q&A: With a small camera budget in a walk-up, which spots should be covered first?
+- Q&A: How long can entry records about a tenant be kept after the tenant moves out?
+- Q&A: Which staff should be able to watch live cameras, and who should be able to export video?
+- Q&A: Our previous vendor still holds the administrator password. How do we get control back?
+- Q&A: Should cameras and the intercom share the building's internet with the office and the laundry machines?
+- Q&A: Why does the intercom in an older building act up after heavy rain?
+- Q&A: The elevator is old and the elevator company is reluctant to connect anything to it. Can we still restrict floors?
+- Q&A: Do the small walk-ups in our portfolio get the same equipment as the large buildings?
+- Q&A: A store tenant wants to put its own cameras on our building's facade. Should we allow it?
+- FAQ: Will you work alongside our own porters and maintenance staff on the same job?
+- FAQ: Can you start work in a building that has open HPD violations?
+- FAQ: Can a technician be at the building when an HPD inspector comes back?
+- FAQ: Can a large upgrade be split across two budget years?
+- FAQ: Do you set up security for supportive housing with a staffed front desk?
+- FAQ: Do you replace the intercom wiring inside tenants' apartments?
+- FAQ: Will you install cameras or an intercom the owner already bought?
+- FAQ: What warranty comes with your repairs and installations?
+- FAQ: What time of day do your technicians usually arrive?
+- FAQ: Do you install security systems in buildings still under construction or gut renovation?
+
+### Images (11, permanent image rule)
+No unused real job photos remained: every candidate real photo in the library (lobby ceiling cameras, corridors, fascia domes, cable racks) matched an image already in the co-op/condo/apartment-camera/PM folders (ORB + correlation + visual check), and the one distinct rack photo looked AI-generated, so not used. All 11 are Reolink (authorized partner) manufacturer product photos fetched from reolink.com/us/product/* pages (models: Video Doorbell WiFi, RLC-843A, Duo 3V PoE, FE-P, CX820, Home Hub Pro drive + hub, RLC-1240A (cropped, memory-card door), RLN16-410 (cropped recorder), RLC-81PA, RLC-840A; two RLC-1212A bullets were dropped because the parallel Brooklyn page used a near-identical shot). Each checked by sha256, dHash, ORB feature matching and correlation, plus visual side-by-side, against images/property-management-security/* (incl. parallel Brooklyn/Queens files present at build time, rechecked after they appeared), co-op-security-systems, condo-security-systems, co-op-security-camera-installation, condo-security-camera-installation, apartment-building-security-camera-installation. Captions say "partner product photo" and describe only what is visible. Lorex CDN and Luminys not reachable from the build env.
