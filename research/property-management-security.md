@@ -583,3 +583,265 @@ Back-links needed from the five live PM pages (+ SI, LI); keyword-file back-link
 - "Crews head north each morning from the Bronx office" and routing visits by county.
 - Wireless links in winter, conduit before repaving, snowplow-damaged call box replacement, amenity gate readers — written as services we do.
 - 30-day labor warranty + one-year parts sentence side by side (matches site).
+
+
+## Nassau County (property-management-security-nassau-county) — built 2026-11-27, batch subagent (part file; merge into research/property-management-security.md)
+
+County page · phone (516) 346-5778 (body, CTAs, schema; 800 only in shared header) · GBP Brooklyn (`#brooklyn`, 1282 Troy Ave) · up-link /property-management-security-long-island · start price $250 service call (START_PRICES). Thesis (kept apart from LI hub = horizontal two-county portfolios/distance/Suffolk permits; co-op and condo Nassau = boards): Nassau landlords and managing agents — 71 local governments, town rental permits (Hempstead, North Hempstead), ETPA municipalities, accessory units/two-families, village walk-ups over stores, garden complexes, station-area new buildings (Westbury/Lynbrook), shore-block rentals (Long Beach).
+
+### Research matrix (exact query · platform · URL · finding · section used)
+| # | Exact query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| NP1 | `Town of Hempstead rental permit landlord registration law code chapter inspection` · Firecrawl search → Firecrawl scrape | https://hempsteadtown.com/buildingforms/RentalPropMobile.aspx (code: https://ecode360.com/32556484, https://ecode360.com/15511003) | TOH Code §99-12 rental occupancy; "Transient rentals, or property rented for a period of less than 28 days is not permitted"; permits two years, must be renewed; application fee $300 (applied to permit); single unit $500; multi-unit $500 first + $200 each additional; renewal $450 / $200; owners outside Nassau must designate a Nassau-resident agent for service; §99-15 compliance with Town, county, state law. | §5 para 2 + facts list; §7 accessory units; §8 out-of-county owners + permit renewals + compliance list; Q&A permit renewal |
+| NP2 | `Town of North Hempstead rental permit law landlords apartments inspection requirement` · Firecrawl search → Firecrawl scrape (directQuote) | https://ecode360.com/9294160 | Ch. 2 art. VI (L.L. 12-1996): on-site inspection by Code Enforcement Officer; "All permits issued pursuant to this article shall be valid for a period of two years"; "No permit shall be issued or renewed until the Code Enforcement Officer shall inspect the rental dwelling unit to determine that it is equipped with a functioning smoke detector device and carbon monoxide alarm". | §5 para 2 + facts list; §7 accessory units; §8 permit renewals |
+| NP3 | same search (excerpt) | https://ecode360.com/9296656 | North Hempstead ch. 2 art. V: "Every occupant of a dwelling or dwelling unit shall give the owner thereof, or his agent or employee, access to any part of such dwelling … at all reasonable times for the purpose of making such repairs or alterations". | §8 occupied apartments; AI check #3 |
+| NP4 | `Nassau County ETPA municipalities rent stabilization Glen Cove Long Beach Freeport villages opted in list` · Firecrawl search → Firecrawl scrape (directQuote) | https://hcr.ny.gov/office-rent-administration-ora | Nassau ETPA list: Cities of Glen Cove, Long Beach; Town of North Hempstead; Villages of Cedarhurst, Floral Park, Flower Hill, Freeport, Great Neck, Great Neck Plaza, Hempstead, Lynbrook, Mineola, Rockville Centre, Russell Gardens, Thomaston, Baxter Estates (13 villages). | §5 para 4; §7 ETPA H3; §13 landmark cards; AI check #5 |
+| NP5 | same search (excerpt) | https://hcr.ny.gov/2022-23-nassau-county-rgb-explanatory-statement | "As of April 1, 2021, NYS HCR's annual registration data indicates there were approximately 6,650 apartments registered as subject to the ETPA in Nassau County." | §5 para 4 + facts list; AI check #5 |
+| NP6 | `Census QuickFacts Nassau County New York population 2024 housing units renter` · Firecrawl search (excerpts) | https://www.socialexplorer.com/places/new-york/nassau-county ; https://censusreporter.org/profiles/14000US36059407600-census-tract-4076-nassau-ny/ | Median gross rent $2,179 (±$120) (ACS via Social Explorer); Nassau County housing units 479,044 (Census Reporter comparison column). | §5 para 3 + facts list |
+| NP7 | reused LI row LIP10 | https://www.census.gov/quickfacts/nassaucountynewyork | Owner-occupied housing unit rate 2020–2024: 81.9%. | §5 para 3 + facts list |
+| NP8 | reused LI row LIP11 | https://www.nassaucountyny.gov/3406/Cities-Towns-Villages | 2 cities, 3 towns, 64 incorporated villages. | §5 heading + para 1 + facts list |
+| NP9 | reused LI row LIP9 | https://www.pdcn.org/343/Alarm-Permit-Section-Communication-Burea | Nassau police alarm permit $100 residence / $200 business, two years; "over 125,000 false alarms each year". | §5 facts list; §6 alarm H3; compliance list |
+| NP10 | `Newsday 2026 Nassau apartments rental units downtown Westbury Hicksville Freeport Lynbrook new building near LIRR` · Firecrawl search (excerpts) | https://www.newsday.com/real-estate/westbury-apartments-yhixmu5g | MTA board approved lease for 184 apartments on a long-closed commuter lot by Westbury station; five-story building; "one of several new apartment buildings planned for the area around the Westbury train station". (Building names NOT used on page.) | §5 para 5; §13 Westbury card |
+| NP11 | same search (excerpt) | https://www.newsday.com/real-estate/baldwin-apartments-sunrise-highway-qcszqqes | A recently opened apartment building across from the Lynbrook station "is nearly fully occupied after leasing faster than the company expected." (Name NOT used.) | §5 para 5; §13 Lynbrook card |
+| NP12 | same search (Facebook/Instagram excerpts of a Newsday post) | https://www.facebook.com/newsday/posts/a-new-apartment-complex-in-hicksville-where-tenants-can-walk-out-their-door-to-c/1577427531095157/ | 189-unit building opened near Hicksville LIRR station. Social-post excerpt only → used only as "new buildings near Hicksville station" in building-type cards, no number on page. | §7 card + H3 heading |
+| NP13 | reused LI row LIP13 + silo S7 | https://www.nysenate.gov/legislation/laws/MDW/50-A ; https://dos.ny.gov/legal-memorandum-lg03-nys-uniform-fire-prevention-and-building-code-what-elected-officials-need | MDL §50-a intercom/self-locking doors (8+ apts); MDL §3 applies to cities ≥325,000; MRL for smaller cities, towns, villages; DOS quote "automatically in effect in each city, town, and village in the State (except New York City)". | §8 compliance list; AI check #1 |
+| NP14 | reused silo S2, S11, S12 | 28 RCNY §25-101; cooperatornews camera Q&A; HomeAdvisor intercom cost | NYC notice rule is city-only (contrast); audio may implicate Penal Law §250; HomeAdvisor normal range $1,200–$8,500. | §8 occupied apartments; privacy H3; compliance list; AI checks #3, #4 |
+| NP15 | memory rule (no Nassau FM number) + repo | — | We do not take Nassau fire alarm work; door-release coordination with fire alarm company of record only. No fire alarm link/price. | §6 fire alarm H3; AI check #6 |
+| R | Reddit r/longisland, r/landlord / PAA / PASF / Answer the Public / AI Overview / Yelp 1–3★ / Bing–DDG for "property management security Nassau County" | — | EMPTY (not accessible in build env). No Reddit thread or AI Overview quoted; AI Reality Check corrects claims typical of national cost guides and chatbot answers. | — |
+
+### Prices used (all already on Nassau pages)
+- $250 service call — START_PRICES; /door-buzzer-repair-nassau-county-new-york.
+- Station $250–$525 · transformer $325–$650 · strike with alignment $450–$950 · lobby panel $650–$1,800 · riser $850–$2,400 — /door-buzzer-repair-nassau-county-new-york.
+- Multi-unit intercom $1,200–$4,500+ — /intercom-installation-nassau-county-new-york.
+- Networked card reader, single door $1,500–$3,500 — /access-control-installation-nassau-county.
+- Single-door keypad or card reader with electric strike $1,725–$2,875 installed — /smart-lock-installation-nassau-county.
+- Elevator Level 1 from $1,725/car; Level 2 from $2,875/car — /elevator-access-control-installation-nassau-county.
+- Four-camera from $999 — /security-camera-pricing-nassau-county.
+- Cabling $150–$300 per drop — /structured-cabling-installation-nassau-county.
+- Monitoring $30/mo keypad, $45/mo app — /alarm-installation-nassau-county.
+- NOT used: /intercom-repair-nassau-county ranges (differ from buzzer page); alarm package prices; no maintenance-contract, per-unit, package or fire alarm prices. No "free" assessment/walk wording (task rule).
+
+### Question register additions (property-management-security-nassau-county)
+Checked by meaning against the NYC, Manhattan, Brooklyn, Queens, Bronx, Staten Island, Long Island and Hudson Valley registers and the Westchester/Suffolk pages on disk at check time; checker found no masked duplicates.
+- Q&A: Our Town of Hempstead rental permit renews next month. Should security work wait until after the inspection?
+- Q&A: An owner who lives out of state wants to approve every dollar. How do you write a scope for someone who has never seen the building?
+- Q&A: Tenants in an ETPA building may see phone-based entry as a cut in service. How do you plan the change?
+- Q&A: Which lock can go on a basement apartment door that is also the tenant's only way out?
+- Q&A: In a walk-up over stores, the buzzer wire shares a chase with the shops' lines. Can you sort out which pair goes to which apartment?
+- Q&A: Which accounts and documents should we collect from a developer's installer before they leave a new building?
+- Q&A: Can tenants send a one-time entry code to a guest who arrives before they get home?
+- Q&A: After a storm floods a Long Beach basement, what should be checked before the entry system is powered again?
+- Q&A: Is a stainless entry panel worth the extra cost on a building a few blocks from the ocean?
+- Q&A: Can a tenant be locked out of the gym or roof deck while still getting into their own apartment?
+- FAQ: Which phone number should our Nassau office use for service requests?
+- FAQ: Do you work in the cities of Long Beach and Glen Cove as well as the three towns?
+- FAQ: Does a village design review board have to approve a new entry panel on the front of a building?
+- FAQ: Can you install a call box at the entrance to a private driveway shared by several rental houses?
+- FAQ: Does a cloud intercom keep working when the building's internet service goes down?
+- FAQ: Can the managing agent approve the work, or does the owner have to sign?
+- FAQ: Can one entry panel serve two neighboring buildings that belong to the same landlord?
+- FAQ: When a basement apartment is legalized, can it be added to the existing intercom?
+
+### Similarity
+Masked paragraph similarity (difflib, p/li/h3/td ≥12 words after the mega nav, top-5 Jaccard candidates; proof strip, consent, stamp and mandated terms sentence excluded) vs every property-management-security-* page on disk (incl. parallel Westchester and Suffolk) + co-op/condo security systems Nassau + apartment-building camera Nassau: every paragraph < 0.60 after rewrites (initial build mirrored LI hub wording in ~20 short items; all rewritten).
+
+### Images (11)
+Hero = real job photo supplied for this page; 6 library job photos, 1 Lorex and 3 Reolink partner images (fetched with curl from reolink.com product pages, `rlc-1212a` and `rlc-81ma`), none used on any other property-management-security page (dHash vs the 96 existing files + visual contact sheets). Five first-pick library photos were swapped out after a visual check showed the parallel Suffolk page used the same shots (cornice arm, two-story wall bullet, drop-ceiling bullet, glass-entrance dome, rack + monitor).
+| File (images/property-management-security/property-management-security-nassau-county-…) | Source | Where |
+|---|---|---|
+| job-photo-four-bay-recorder-on-closet-shelf (hero, og/twitter, eager) | /tmp/pi2/photos/rec9ERhLmpAQMifWJ_0.jpg → WebP q80, 1024×768 | hero |
+| dome-camera-under-roof-fascia-against-winter-sky | images/access-control-installation/…kingsbridge-heights-dome-camera-under-fascia-against-winter-sky.webp | §5 |
+| reolink-bullet-camera-on-white-wall-in-rain | Reolink (authorized partner) product photo, https://reolink.com/us/product/rlc-81ma/ (home-cdn.reolink.us/wp-content/uploads/2025/08/040927221754299642.1415.jpg.webp) | §6 |
+| dome-camera-in-ceiling-corner-beside-flag | images/access-control-installation/…harding-park-white-dome-camera-in-corner-beside-star-pattern-fabric.webp | §7 |
+| small-camera-above-lit-lobby-soffit | images/access-control-installation/…kingsbridge-heights-mini-camera-above-lit-lobby-soffit.webp | §9 Q&A |
+| reolink-night-view-of-lit-yard-and-path | Reolink sample night image, https://reolink.com/us/product/rlc-1212a/ (home-cdn.reolink.us/wp-content/uploads/2025/05/160929541747387794.8768.png) | §10 equipment |
+| reolink-dual-light-bullet-camera-on-concrete-wall | Reolink product photo, https://reolink.com/us/product/rlc-81ma/ (home-cdn.reolink.us/wp-content/uploads/2025/08/040853281754297608.0075.jpg.webp) | §10 equipment |
+| night-camera-view-of-open-back-door | images/access-control-installation/…kingsbridge-heights-night-camera-view-of-open-back-door.webp | process |
+| camera-view-of-brick-walk-and-gravel-lot | images/access-control-installation/…kingsbridge-heights-wide-camera-view-of-brick-walk-and-lot.webp | coverage |
+| lorex-twin-floodlight-camera-with-lamps-lit | images/access-control-installation/…indian-village-twin-floodlight-camera-with-lights-on.webp (Lorex manufacturer photo, partner) | packages |
+| two-small-cameras-on-tall-wall-below-mezzanine-windows | images/access-control-installation/…dumbo-two-small-cameras-on-tall-wall-below-mezzanine-windows.webp | FAQ |
+DAILY-LOG note: `images: 1 real job photo (hero) + 6 reused library job photos (access-control-installation) + 1 Lorex + 3 Reolink partner images`.
+
+### Links
+- Up: /property-management-security-long-island (breadcrumb + body). Siblings linked: -nyc, -manhattan, -brooklyn, -queens, -bronx, -staten-island, -hudson-valley, -long-island, and the parallel -westchester-county and -suffolk-county (files existed on disk at check time; checker required the cross-link).
+- FLIP comments (plain text): /property-management-security-rockland-county, -orange-county, -putnam-county, -dutchess-county, -ulster-county.
+- Nassau pages linked once: /co-op-security-systems-nassau-county, /condo-security-systems-nassau-county, /door-buzzer-repair-nassau-county-new-york, /intercom-installation-nassau-county-new-york, /intercom-repair-nassau-county, /door-buzzer-installation-nassau-county-ny, /access-control-installation-nassau-county, /elevator-access-control-installation-nassau-county, /smart-lock-installation-nassau-county, /apartment-building-security-camera-installation-nassau-county, /security-camera-pricing-nassau-county, /co-op-security-camera-installation-nassau-county, /condo-security-camera-installation-nassau-county, /parking-lot-camera-installation-nassau-county, /alarm-installation-nassau-county, /structured-cabling-installation-nassau-county, /commercial-security-camera-installation-nassau-county, /security-cameras-nassau-county, /cctv-installation-nassau-county; plus /co-op-board-intercom-upgrade, /condo-intercom-replacement, /warranty, /free-quote, /.
+- Not linked: /fire-alarm-installation-nassau-county-ny (we don't take Nassau fire alarm work).
+- Link backs needed (main run): every live PM sibling (checker), parent hub LI (flip its FLIP comment), and per keyword rules one contextual link back from /intercom-installation-nassau-county-new-york and /apartment-building-security-camera-installation-nassau-county.
+
+
+## Suffolk County (property-management-security-suffolk-county) — built 2026-11-27, batch subagent (part file; merge into research/property-management-security.md)
+
+Phone (631) 407-2884 · GBP Brooklyn (`#brooklyn`, 1282 Troy Ave) · up-link /property-management-security-long-island · start price $250 service call (START_PRICES). Thesis (kept apart from the LI hub and the parallel Nassau page): distance (86 miles end to end), East End seasonal rentals (weekly turnover, closed winters, caretakers/rental agents, East Hampton and Southampton registries/permits), outbuildings and long runs (pool houses, barns, docks, driveway gates), plus year-round garden complexes, Ronkonkoma station-area buildings and main-street mixed use. NYC rules (MDL 50-a, HPD, 28 RCNY 25-101, TDPA) stated as not applying.
+
+### Research matrix (exact query · platform · URL · finding · section used)
+| # | Exact query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| SF1 | `Suffolk County land area square miles largest county New York State 86 miles long Montauk` · WebSearch → Firecrawl scrape (directQuote) | https://suffolkcountyny.gov/Elected-Officials/County-Executive/PgrID/2624/PageID/9 | "Suffolk County comprises 1000 square miles of eastern two-thirds of Long Island. The distance from the Nassau County border to Montauk Point is 86 miles. At Suffolk County's widest point the distance from Long Island Sound to the southern shore is 26 miles." | §Neighborhood para 1; facts list; "Scheduling across 86 miles" |
+| SF2 | `Suffolk County New York QuickFacts owner-occupied housing unit rate 2020-2024 housing units` · WebSearch → Firecrawl scrape | https://fred.stlouisfed.org/data/HOWNRATEACS036103 | Homeownership Rate (5-year estimate) for Suffolk County, 2024-01-01: 84.884 (%). (census.gov QuickFacts returned 503 — EMPTY (not accessible in build env)) | §Neighborhood para 2; facts list |
+| SF3 | `Suffolk County seasonal recreational occasional use housing units share East Hampton Southampton census` · WebSearch → Firecrawl scrape (PDF, directQuote) | https://southamptontownny.gov/DocumentCenter/View/26835/Southampton-Housing-Plan---Final-Oct-2022 | "Almost half of the housing units in Southampton are occupied on a seasonal basis." "The share of housing units that were known to be occupied by renters in Southampton in 2018 was 22.3%." | §Neighborhood para 3 (quote); facts list; landmark card South Fork |
+| SF4 | `Town of East Hampton rental registry law requirements registration number listing` · WebSearch → Firecrawl scrape (directQuote) | https://ecode360.com/30841753 | Ch. 199 Rental Registry, adopted 12-17-2015 (L.L. 38-2015): unlawful to rent rental/seasonal rental property without registering with Building Dept and obtaining a registry number; form incl. notarized inspection checklist sworn by owner or licensed architect/engineer/home inspector; registration expires two years after deemed complete; failure to publish registry number: fine $150–$1,500 or up to 15 days. | facts list; Seasonal section "Rental registries"; compliance list; AI check #5 |
+| SF5 | `Town of Southampton rental permit law short-term rental permit requirements inspection` · WebSearch → Firecrawl scrape (directQuote). (Rental FAQs PDF: Firecrawl proxy tunnel error — EMPTY (not accessible in build env)) | https://ecode360.com/8697312 | Ch. 270 Rental Properties: applies to rental properties in the unincorporated area of the Town; permits valid two years; enforcement authority makes on-site inspection unless owner provides certification from licensed architect or engineer (§270-5B(10)); valid rental permit is a condition precedent to collecting rent. | facts list; Seasonal section; compliance list |
+| SF6 | `PSEG Long Island 2026 storm outages customers restored Suffolk` · WebSearch → Firecrawl scrape (directQuote) | https://www.psegliny.com/Newsroom/2025/070626-StormUpdate1000 | PSEG LI Storm Update, Monday July 6 (2026), 10 AM: restored power to more than 34,800 customers since 8 PM Saturday; 4,170 of 1.2 million customers still affected; storm gusts up to 84 MPH, hail, heavy rain. | §Neighborhood para 5 |
+| SF7 | `Ronkonkoma Hub apartments units built Brookhaven transit-oriented development 2025 2026` · WebSearch → Firecrawl scrape (directQuote) | https://www.governor.ny.gov/news/governor-hochul-unveils-next-phase-12-billion-transit-oriented-hub-station-yards-creating-more | Station Yards (Ronkonkoma Hub): 53 acres around Ronkonkoma LIRR station; 1,450 residential units at completion; first phase delivered 489 units in 2020; second phase (The Core) 388 homes; Ronkonkoma station is "Suffolk County's busiest". | §Neighborhood para 4; facts list (489+388 = 877); landmark card |
+| SF8 | Firecrawl scrape (directQuote) | https://suffolkpd.org/Precincts-and-Specialized-Units/Specialized-Units/Alarm-Management-Program | Registration $50 residences / $100 commercial; registered locations get two occasions not assessed a service fee. Towns/villages outside the program (all of Riverhead, Southampton, East Hampton, Southold, Shelter Island; villages incl. Northport, Amityville, Ocean Beach) reused from LI row LIP8 (ecode360.com/14943946, ch. 290). | facts list; Alarms section; compliance list |
+| SF9 | reused LI rows LIP1 (Islip ch. 68, ecode360.com/11752170) and LIP2 (Brookhaven rental registration, ecode360.com/8596302) | — | Islip rental occupancy permit after inspection, two years; Brookhaven registration 15 months, inspection within 90 days by town or licensed professional; smoke/CO focus. | Building Specialists (accessory units); compliance list; AI check #5 |
+| SF10 | reused LI row LIP13 / silo S7 (MRL §3, MDL §50-a) and S6 (TDPA intro.nyc), S2 (28 RCNY §25-101), S11 (Cooperator audio Q&A) | nysenate MDL §50-a; newyork.public.law MRL §3; intro.nyc/local-laws/2021-63 | MDL covers cities ≥325,000; towns/villages under MRL; NYC notice + TDPA city-only; audio/eavesdropping caution. | §Neighborhood para 6; access control; occupied rentals; compliance list; AI checks #1, #5 |
+| SF11 | LIP5/LIP7 reused (Newsday Patchogue 262-unit near station) | https://www.newsday.com/business/patchogue-carriage-house-luxury-apartments-wbz7wtrl | Station-area construction in Patchogue (used only as "station-area buildings near Ronkonkoma and Patchogue"). | Elevator section; landmark card Patchogue |
+| SF12 | TIA-568 100 m channel limit (industry standard; also on site cabling pages; LI row LIP16) | — | ~100 m / 328 ft between active devices. | Cable section |
+| R | Reddit r/longisland / Google PAA / PASF / Answer the Public / AI Overview / Yelp 1–3★ / Bing–DDG | — | EMPTY (not accessible in build env). AI Reality Check corrects claims typical of national guides (Angi/HomeAdvisor/Fixr named generically); no AI quote invented. | — |
+
+### Prices used (all already published on Suffolk pages)
+- $250 service call — START_PRICES; /door-buzzer-repair-suffolk-county-new-york.
+- Station $250–$525 · relay/button $250–$475 · transformer $325–$650 · strike with alignment $450–$950 · lobby panel $650–$1,800 · riser $850–$2,400 — /door-buzzer-repair-suffolk-county-new-york.
+- House/small building intercom $400–$1,800 · multi-unit $1,200–$4,500+ — /intercom-installation-suffolk-county-new-york.
+- Lobby fob reader $1,600–$2,800 · gate with RFID + video intercom $2,500–$5,500 · multi-door $4,500–$16,000 — /access-control-installation-suffolk-county.
+- Elevator Level 1 from $1,800/car, Level 2 from $3,000/car — /elevator-access-control-installation-suffolk-county.
+- Four-camera from $1,099 — /security-camera-pricing-suffolk-county (MODELS min).
+- Cabling $150–$300 per drop — /structured-cabling-installation-suffolk-county.
+- Small-business alarm $1,500–$3,000; monitoring $30/mo keypad, $45/mo app — /alarm-installation-suffolk-county.
+- NOT used: /intercom-repair-suffolk-county ranges (inconsistent with buzzer page), the access-control page's "$195/hr callback" and "+10% surcharge" lines. No maintenance-contract, package, per-unit or fire alarm prices.
+
+### Question register additions (property-management-security-suffolk-county)
+Checked by meaning against NYC, Manhattan, Brooklyn, Queens, Bronx, Staten Island, Long Island, Hudson Valley registers above; `check_page.py` also compared against the parallel Nassau and Westchester drafts on disk (no duplicated question).
+- Q&A: Which systems should be switched off, and which left running, when a summer rental closes for the winter?
+- Q&A: How do weekly summer guests get in without anyone handing them a physical key?
+- Q&A: Can the system show us when the cleaners finished at each house on changeover day?
+- Q&A: How do we keep renters out of the owner's locked closet and storage areas during a stay?
+- Q&A: Renters ask whether there are cameras at the house. What should the owner be ready to tell them?
+- Q&A: A farmhouse rental on the North Fork has no cable internet. Can it still have cameras the owner can check from away?
+- Q&A: A pool house, a barn and a detached studio sit behind the main house. Which of them really need cameras?
+- Q&A: After a thunderstorm the driveway gate stopped opening. Is that a job for you or for the gate company?
+- Q&A: Visitors at our garden complex near Ronkonkoma park far from the buildings. Where should the call box go?
+- Q&A: A homeowners association inside our portfolio wants its own control over the gate codes. How do we split control?
+- Q&A: A store on the ground floor of our Patchogue building stays open late. How do we keep the apartment stair door secure after hours?
+- Q&A: Is battery backup worth paying for when most outages here are fixed within a day?
+- Q&A: Which equipment fails first in buildings near the water, and what do you put in instead?
+- FAQ: Which phone number should our Suffolk office use for every property?
+- FAQ: Do you cover properties on both forks and out to Montauk?
+- FAQ: Can a caretaker meet the technician instead of someone from our office?
+- FAQ: Can the alarm at a closed-up house alert both the owner and our office?
+- FAQ: Can renters switch off the outdoor cameras during their stay?
+- FAQ: Do you install cameras that cover a dock or a boathouse?
+- FAQ: Do you take on installs at East End rentals in July and August?
+- FAQ: Do you work for owners who list their houses with a rental agent rather than a management company?
+- FAQ: Can a keypad control a gate to a private beach path or a shared dock?
+- FAQ: Is the service call priced differently for a house on the East End?
+
+### Similarity
+Masked paragraph similarity (difflib, p/li/h3/td/figcaption ≥12 words, Jaccard prefilter; terms sentence, consent and form text excluded): max 0.621 (apartment-camera Suffolk, Station Yards fact line), 0.605 (LI hub), everything else ≤0.56 except the shared template proof strip ("Owner-operated since 2002 · …", identical sitewide). Fifteen draft paragraphs that were ≥0.65 vs LI hub / parallel Nassau / Westchester were rewritten.
+
+### Images (11)
+- Hero (eager, og/twitter): real job photo /tmp/pi2/photos/rec3xI4CkGmeninlV_0.jpg (Airtable photo meta: "Equipment rack with TP-Link 24-port gigabit switch above a black NVR and cables") → `…-suffolk-county-job-photo-24-port-switch-above-network-video-recorder.webp` (867×1156).
+- 2 real job photos reused from images/cctv-installation/: cctv-installation-suffolk-county-storage-dome-high-in-wall-corner.webp → `…-dome-camera-high-in-stained-storage-room-corner.webp`; cctv-installation-suffolk-county-wall-camera-on-bare-stucco-wall.webp → `…-small-camera-on-bare-stucco-wall.webp`.
+- 8 Reolink (authorized partner) product photos via Firecrawl image lists of reolink.com/us/product/reolink-trackmix-poe/, /rln8-410/, /reolink-duo-3-poe/ (home-cdn.reolink.us): `…-partner-photo-daytime-camera-view-of-palms-and-low-wall`, `…-recorder-with-continuous-recording-graphic`, `…-pan-tilt-camera-with-split-sample-views`, `…-camera-view-of-garden-path-and-greenhouse`, `…-two-white-storage-hubs`, `…-smart-display-showing-camera-view-of-lawn`, `…-recorder-with-16tb-storage-graphic`, `…-house-and-pool-behind-16mp-graphic`.
+- Collision note: 8 real job photos first chosen (intercom-repair SI/Putnam + cctv Suffolk scenes) turned out to be picked at the same time by the parallel Westchester and Nassau PM builders, so they were dropped and replaced by the partner photos above. Final check: ORB/RANSAC inliers vs every other file in images/property-management-security/ ≤ 37 (16TB recorder vs Westchester recorder-on-pedestal, different shot), others ≤ 26; ORB vs co-op/condo/co-op-camera/condo-camera/apartment-camera folders ≤ 36 for the 8 partner photos.
+DAILY-LOG note: `images: 1 real job photo hero + 2 reused cctv-installation job photos + 8 partner (Reolink) product photos via reolink.com`.
+
+### FLIPs on the page (plain text + comment)
+/property-management-security-nassau-county; /property-management-security-westchester-county, -rockland-county, -orange-county, -putnam-county, -dutchess-county, -ulster-county. Direct links: LI hub (up), nyc, manhattan, brooklyn, queens, bronx, staten-island, hudson-valley.
+
+### For Anwar to confirm (CONFIRM)
+- Coverage out to Montauk and Orient; ferry-only properties (Shelter Island, Fishers Island) "scheduled case by case".
+- Seasonal-house services written as things we do: per-booking keypad codes set up for the office, opening (spring) and closing (fall) visits, temperature/water sensors on the alarm panel, cellular routers/cameras where no internet, wireless bridges to outbuildings, dock/boathouse cameras.
+- "In summer we avoid putting technicians on the roads east of the canal at peak traffic hours" (scheduling practice).
+- Fire alarm: page says only that fire alarm is a separate trade "this page does not cover" (per build instruction); the LI hub still says Suffolk fire alarm work is taken.
+
+
+## Westchester County (property-management-security-westchester-county) — built 2026-11-27, batch subagent (part file; merge into research/property-management-security.md)
+
+Child page: up-link /property-management-security-hudson-valley, phone (914) 877-2578 (body, CTAs, schema; 800 only in shared header), GBP Bronx (460 E Fordham Rd, `#bronx`), start price $250 service call (START_PRICES). Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page + section used.
+
+Thesis (distinct from the HV hub, which leads with distance/routing, garden complexes, weather and six counties; and from the Westchester co-op/condo hubs): a Westchester managing agent's list runs from prewar Yonkers/Mount Vernon walk-ups to postwar ETPA elevator buildings, new downtown New Rochelle/White Plains towers (platform and login takeovers, garages, elevator readers), garden apartments in the central towns, Sound Shore mixed-use and two- to four-family rentals. Angles unique to this page: county renter/housing-age data, the NYS Lead Rental Registry ZIPs (10550/10801/10701/10705) as a chance to bundle apartment-access days, login ownership and unknown devices in panels (Habitat Yonkers story), garage gates, salt air on the Sound, hill buildings with two entrance levels, White Plains false-alarm fees for leasing offices, Con Ed outages in the south of the county.
+
+### Research matrix
+| # | Exact query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| WC1 | `Westchester County renter-occupied housing units percent renters census median year built housing` · WebSearch → WebFetch (PDF) | https://health.westchestercountyny.gov/images/stories/Data-Stats/Data%20Brief%20202509%20Housing%2020250912%20Final.pdf | WCDH Community Health Data Report 2025.09 "Housing in Westchester County, 2019-2023" (ACS 2019–2023): "Total Renter Occupied: 139,962", "Total Owner Occupied: 230,294"; year-built chart: 27.7% "1939 or earlier" (cumulative); cumulative through 1970–79 = 76.4% (derived from chart — page says "roughly three-quarters") | §County para 3; facts list (first two bullets); hero source stamp |
+| WC2 | `Yonkers rental registry law landlords register rental units city of Yonkers` · WebSearch → WebFetch | https://health.westchestercountyny.gov/news/newsroom/westchester-county-highlights-new-state-lead-rental-registry-to-protect-children-and-families | NYS Lead Rental Registry: residential buildings with 2+ units incl. owner-occupied, built before 1980, in ZIPs 10550 (Mount Vernon), 10801 (New Rochelle), 10701 and 10705 (Yonkers); "registration is now required and participation is mandatory"; visual inspections every three years; EPA-certified inspectors; owners must inform tenants since apartment access is needed. No deadline on page (not stated on our page). | facts list; county table (Yonkers, Mount Vernon, New Rochelle rows); §Working with your office "lead registry" para; rules list; Q&A (Mount Vernon lead ZIP); coverage card Yonkers |
+| WC3 | `New Rochelle rental registration program multiple dwelling inspection landlords` · WebSearch → WebFetch | https://ecode360.com/31298859 | New Rochelle student-rental business registration chapter (3+ students) — not relevant to PM security; NOT used | — |
+| WC4 | `Mount Vernon NY rental property registration landlord certificate of compliance` · WebSearch → WebFetch | https://ecode360.com/45905318 | EMPTY (not accessible in build env — ecode360 client error) | — |
+| WC5 | WebFetch | https://westchester.news12.com/new-legislation-would-expand-responsibilities-of-yonkers-landlords-40425619 | May 6 2019: only "Landlords in Yonkers could soon face stiffer penalties..." — no detail; NOT used | — |
+| R1 | reused, silo PV2 | https://homes.westchestercountyny.gov/rent-control | 18 ETPA municipalities (Croton, Dobbs Ferry, Eastchester, Greenburgh, Harrison, Hastings, Irvington, Larchmont, Mamaroneck Town, Mount Kisco, Mount Vernon, New Rochelle, Pleasantville, Port Chester, Sleepy Hollow, Tarrytown, White Plains, Yonkers) | §County para 4; facts list; rules list |
+| R2 | reused, silo PV7 | https://www.nysenate.gov/legislation/laws/MRE/3 | MRL §3: "all cities of less than three hundred twenty-five thousand population" + towns/villages | §County para 4; facts list; rules list |
+| R3 | reused, silo PV4 | https://codes.iccsafe.org/content/NYSPMC2025P1/chapter-3-general-requirements | 2025 PMCNYS §304.18 security devices; §304.18.1 deadbolts | facts list; rules list |
+| R4 | reused, silo PV5 | https://www.nysenate.gov/legislation/laws/RPP/235-B | RPL §235-b warranty of habitability | facts list; rules list |
+| R5 | reused, co-op HV9 | https://www.osc.ny.gov/files/local-government/publications/pdf/2020-census-municipal-population-shifts-in-new-york-state.pdf | Yonkers 2020 Census 211,569 | facts list |
+| R6 | reused, silo PV1 | https://thebcw.org/wp-content/uploads/2025/01/Westchester_Development_2024.pdf | RM Friedland via BCW: ~12,500 units delivered since late 2021; Yonkers, New Rochelle, White Plains, Mount Vernon 9,413 delivered, 13,114 under construction | §County para 3 |
+| R7 | reused, condo WC-3 | https://www.newrochelleny.gov/1015/TOD-Downtown-Cluster | New Rochelle form-based downtown zoning (council approval Dec 8, 2015); "boom in residential and mixed-use development across 279 acres" | facts list; coverage card New Rochelle |
+| R8 | reused, co-op W5 | https://habitatmag.com/Publication-Content/Building-Operations/2022/2022-February/Westchester-s-Biggest-Co-op-Tackles-a-Security-Breach | Habitat (Feb 17 2022): large Yonkers co-op; delivery-access devices installed inside intercoms without authorization by a local vendor, agreements "signed by somebody with no authority", found by the agent's intercom company. No names used. | §Services "Keeping unknown devices out"; field notes (first hour) |
+| R9 | reused, co-op W7 | https://westchester.news12.com/data-shows-porch-pirate-thefts-down-in-westchester-county-still-a-concern-throughout-the-year | News 12 Westchester (June 9 2026): Yonkers 50% decrease in package thefts at First Precinct; White Plains ~13 reports vs 18 same period 2025; Deputy Commissioner (White Plains Public Safety) quote "Cameras are still good." | §Services cameras (package para); AI check #6 |
+| R10 | reused, co-op W8 | https://www.coned.com/en/about-us/media-center/news/2026/07-04/con-edison-restoring-power-to-customers-impacted-by-severe-storms | Con Ed July 2026: Westchester "experienced the greatest impact"; greatest outages in Greenburgh, Yonkers, Elmsford, Dobbs Ferry and Rye | facts list; §Power para |
+| R11 | reused, co-op W21 / silo R3 | https://www.coned.com/en/about-us/media-center/news/2026/06-06/con-edison-restoring-power--to-customers-affected-by-storm | June 2026: >5,000 Westchester customers out | facts list; §Power para |
+| R12 | reused, condo WC-8 | https://whiteplainspublicsafety.com/alarm-permits/ | White Plains Sec. 4-18-3(c): per false alarm in a calendar year $25 (1st), $50, $75, $100, $250 (12+) | §Services alarms; rules list |
+| R13 | reused, silo R5 / co-op W14, W22 | https://consumer.westchestercountyny.gov/ ; Westchester County Code Ch. 863 ; https://www.nysenate.gov/legislation/laws/GBS/69-M | County trade license for plumbers/electricians; county alarm business licensing; GBL §69-m state alarm installer licensing | rules list; AI check #7 |
+| R14 | reused, silo S6 | https://intro.nyc/local-laws/2021-63 | TDPA = NYC LL 63/2021, class A multiple dwellings in NYC only | §Services access control; AI check #2 |
+| R15 | reused, silo S11 | https://cooperatornews.com/article/qa-camera-placement | Audio recording / NY eavesdropping caution | §Working with your office (footage) |
+| P1 | site pages (internal), read Nov 27 2026 | /door-buzzer-repair-westchester-county; /intercom-installation-westchester-county-ny; /access-control-installation-westchester-county; /elevator-access-control-installation-westchester-county; /security-camera-pricing-westchester-county; /structured-cabling-installation-westchester-county; /alarm-installation-westchester-county | Prices used — see below. Buzzer page also lists a "Sound Shore marine-grade enclosure" add-on (used in the Port Chester Q&A, no price). Access page notes tax varies by municipality (FAQ sales tax). | hero quick answer; services; cost table; packages; AI check #5 |
+| E1 | Reddit / Google PAA / PASF / Answer the Public / AI Overview / Yelp 1–3★ / Bing-DDG for "property management security Westchester" | — | EMPTY (not accessible in build env). AI check section paraphrases common generic claims; no AI or Reddit quote invented. | — |
+
+### Prices used (all already on Westchester pages)
+$250 service call · apartment station $250–$525 · transformer $325–$650 · strike with alignment $450–$950 · lobby panel/faceplate $650–$1,800 · riser $850–$2,400 (door-buzzer-repair-westchester-county) · video intercom 4–8 units $1,200–$3,500; larger app-connected $2,500–$8,000+ (intercom-installation-westchester-county-ny) · single door $1,500–$2,500; multi-door $4,000–$15,000; full building with elevator $15,000–$40,000+ (access-control-installation-westchester-county) · elevator L1 $1,875/car, L2 $3,125/car (elevator-access-control-installation-westchester-county) · four-camera system from $1,099 (security-camera-pricing-westchester-county, A1) · Cat6 data drop $175 and up (structured-cabling-installation-westchester-county) · monitoring $30/$45 (alarm-installation-westchester-county). NOT used: $195/hr, $625–$1,875 per camera, "free on-site assessment", any maintenance-agreement price.
+
+### Question register additions (property-management-security-westchester-county)
+Checked by meaning against all 8 live PM pages (parsed with check_page.parse) and the co-op/condo Westchester registers. Dropped drafts that overlapped: propped doors (Bronx), tenants without smartphones (Queens), ETPA lobby upgrade (HV), alarm permit holder (LI), lender/insurer documentation (Manhattan/LI), spare parts (Manhattan), weekend work (NYC), commuter parking (Queens), landmarked facade (Brooklyn), delivery device in panel (co-op Westchester — kept as body text only).
+- Q&A: The developer's contractor still holds the warranty on our new tower's entry hardware. Will your work void it?
+- Q&A: Our New Rochelle building's garage gate and lobby panel come from different platforms. Can residents use one credential for both?
+- Q&A: Can a prospect touring with a leasing agent get a code that stops working when the tour ends?
+- Q&A: Our building's internet provider changed and the cloud intercom went offline. Why did that happen, and how do we stop it next time?
+- Q&A: Our Mount Vernon building is in a lead-registry ZIP code. Can intercom work be booked on the same days the inspectors are in the apartments?
+- Q&A: A Yonkers walk-up has a sidewalk cellar entrance that the oil company uses. How do we secure it without blocking deliveries?
+- Q&A: Our Port Chester building is two blocks from Long Island Sound. Does the salt air change what goes on the front door?
+- Q&A: Which entrance should get the visitor panel when a building on a hill has a street door and a garage-level door?
+- Q&A: Our Greenburgh garden complex has a separate laundry building. Should it be on the same system as the apartment doors?
+- Q&A: Deer and wind keep setting off motion alerts at our northern Westchester complex. How do we cut down the false alerts?
+- Q&A: A tenant's home health aide comes every morning. How do we give access without a fob that never expires?
+- Q&A: Our building has a doorman until midnight. What should the entry system do after the desk closes?
+- Q&A: What should happen to the superintendent's credentials and app logins when the super leaves the job?
+- Q&A: Can one dashboard show which entry panels across our Westchester buildings are offline right now?
+- FAQ: Do you charge more to send a technician to northern Westchester towns such as Somers or Bedford?
+- FAQ: Is sales tax added to security work in Westchester?
+- FAQ: Can our office look up which door a tenant's fob opened on a particular night?
+- FAQ: Can a reader be added to the garage roll-up door at a rental building?
+- FAQ: Do you replace batteries in wireless door sensors and keypads during maintenance visits?
+- FAQ: How do new tenants get their fobs when they move in on a weekend?
+- FAQ: Can our cameras send video straight to the police when something happens?
+- FAQ: Can the lobby panel call a concierge desk instead of ringing apartments directly?
+- FAQ: Can different people at our firm get different alerts from the same building?
+- FAQ: Can every exterior door at a building be locked at once if there is an incident nearby?
+
+### Similarity (masked geo; 8-word shingle share / difflib word-sequence ratio)
+HV hub 0.068 / 0.321 (max) · NYC 0.029 / 0.190 · LI 0.031 / 0.138 · Bronx 0.026 / 0.120 · Brooklyn 0.025 / 0.119 · Queens 0.026 / 0.119 · SI 0.026 / 0.063 · Manhattan 0.025 / 0.061 · Nassau 0.031 / 0.153 · Suffolk 0.031 / 0.145 · co-op Westchester 0.029 / 0.121 · condo Westchester 0.028 / 0.094. All < 0.65.
+
+### Images (11: 5 real job photos + 6 Reolink partner product photos)
+WebP (quality 80, max 1200 px) in images/property-management-security/. A first pick of 8 library job photos (images/cctv-installation/*westchester-county*, images/intercom-repair/*staten-island*) was dropped because the parallel Nassau and Suffolk PM builds used the same scenes; the library's real job scenes are a small pool repeated under many filenames. Final set dHash-checked against every other file in images/property-management-security/ (min Hamming distance 68/256 — no reuse) and viewed. No faces, plates, house numbers, readable documents or "AESS".
+| File (property-management-security-westchester-county-…) | Source | Where |
+|---|---|---|
+| job-photo-stainless-electric-strike-in-painted-wood-frame | /tmp/pi2/photos/recX1GTVv4v0RS8Bp_0.jpg (photo library, access-control) | hero (eager), og/twitter |
+| white-bullet-camera-on-pale-stone-wall | Reolink (partner) · reolink.com/us/product/rlc-81ma/ page asset 2025/08/040853411754297621.3911.jpg.webp | §County |
+| job-photo-electric-strike-with-black-faceplate-and-wire-raceway | /tmp/pi2/photos/reczp0wY8VCBLJfOk_0.jpg | §Services door hardware |
+| job-photo-small-dome-on-drop-ceiling-between-light-panels | images/access-control-installation/access-control-installation-gowanus-dome-camera-beside-track-lights.webp | §Services cameras |
+| two-dome-cameras-at-wall-and-ceiling-corner | Reolink · rlc-1240a page 2024/04/070839221712479162.7779.jpg.webp | §Services alarms |
+| wall-monitor-with-recorder-and-router-below | Reolink · product page asset 2026/01/08104510914fc16773e34bc5.jpg.webp | §Services cabling |
+| white-dome-camera-with-rain-drops-under-dark-ceiling | Reolink · rlc-1240a page 2024/04/070838501712479130.0081.jpg.webp | §Building types |
+| job-photo-dome-camera-over-shop-shelving-and-wood-panel-wall | images/access-control-installation/access-control-installation-gowanus-dome-camera-over-wood-panel-shop-wall.webp | §Building types (commercial) |
+| job-photo-slim-black-plate-on-dark-door-frame-beside-brick | /tmp/pi2/photos/recyWmzbbEmWpuwjw_0.jpg | §Equipment |
+| monitor-and-phone-showing-camera-software | Reolink · rlc-1240a page 2024/04/080349131712548153.6441.jpg.webp | §Process |
+| black-network-video-recorder-on-pale-pedestal | Reolink · rln8-410 page 2024/11/070925081730971508.9166.jpg.webp | §Coverage |
+(Exact page-to-asset mapping for the Reolink files comes from curl of reolink.com/us/product/{rlc-1240a,rln8-410,rlc-1224a,rlc-81ma}/; the asset URLs are exact.)
+DAILY-LOG note: `images: 5 real job photos (3 photo library, 2 from images/access-control-installation/) + 6 Reolink partner product photos`.
+
+### FLIPs on the page (plain text + `<!-- FLIP: /slug -->`)
+/property-management-security-rockland-county, -orange-county, -putnam-county, -dutchess-county, -ulster-county (coverage section). Linked live: -nassau-county, -suffolk-county (built in parallel, on disk at finish), /property-management-security-hudson-valley (up), -nyc, -manhattan, -brooklyn, -queens, -bronx, -staten-island, -long-island; Westchester co-op/condo hubs and co-op/condo/apartment-building camera pages.
+
+### Links left for the main run
+Back-links needed from the live PM pages (all except Nassau, which already links) (HV hub must flip its Westchester card FLIP to a live link). Suggested contextual back-links: /co-op-security-systems-westchester-county, /condo-security-systems-westchester-county, /apartment-building-security-camera-installation-westchester-county, /intercom-installation-westchester-county-ny, /access-control-installation-westchester-county.
+
+### For Anwar to confirm
+- $250 service call charged the same in northern Westchester towns (FAQ) — HV hub already states the same $250 across counties.
+- Leasing-tour expiring codes, scheduled lockdown command, desk-hours/after-hours panel switching, per-user alerts, offline-status dashboards: written as "on most/many platforms", not tied to a brand.
+- Office issues fobs itself and we "set the office up with a stock of blank fobs" (FAQ weekend move-in) — implies we sell spare fobs (Brooklyn PM FAQ already asks about buying spare fobs).
+- 30-day workmanship warranty + one-year parts sentence side by side (matches HV hub and memory).
+- "Crews leave our Bronx office at 460 East Fordham Road" and "booked within 2 hours … seven days a week".
+- Marine-grade enclosure for Sound Shore buildings (taken from the Westchester buzzer page add-on).
+- Site survey for new systems/portfolios: page does NOT say it is free (HV hub says "free on-site assessment"; left out per rules).
