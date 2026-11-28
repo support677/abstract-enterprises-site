@@ -430,7 +430,6 @@ NO_PRICE_SILOS = ("fire-alarm",)      # BLUEPRINT Hard Rule 13: no prices, no pr
 PRICE_PAGES = {
     "security-camera-installation": "security-camera-pricing",
     "cctv-installation": "security-camera-pricing",       # DAILY-RUN: same prices as the camera pages
-    "security-cameras": "security-camera-pricing",        # equipment store (Nov 20 2026): installed "from" price only
     "condo-security-camera-installation": "security-camera-pricing",  # Nov 25 2026: camera-by-audience silo, area camera prices
     "co-op-security-camera-installation": "security-camera-pricing",  # Nov 25 2026: camera-by-audience silo, area camera prices
 }
