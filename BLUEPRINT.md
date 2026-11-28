@@ -255,10 +255,11 @@ Wrong GBP on a page = rejected.
 
 Only plays AESS wasn't already running were added. Already covered elsewhere: content refresh = the daily "GSC zero-click keyword optimizer" task.
 
-### 12.0 Repair vs installation intent (Nov 23 2026, SEO competitor-gap report fix #1)
-- Search Console showed repair searches ("intercom repair brooklyn", 300 impressions, avg position 20) landing on installation pages while the matching repair page sat unseen, split across up to 13 of our pages.
-- Repair-intent words (repair, fix, broken, not working, stopped working, troubleshoot, service call) go on the repair page for that service and area, never worked into an installation page's title, meta, subheads or FAQ, whenever a `<service>-repair-<area>` page exists. This includes the daily GSC zero-click optimizer and the weekly decay refresh.
-- Every installation page links to its area's repair page in a contextual sentence ("Already have a system that stopped working? See intercom repair in Brooklyn."). Done for 93 intercom installation pages on Nov 23 2026; the same goes for cameras, access control and alarms.
+### 12.0 SILO RULE — owner's rule, never changes (Anwar, Nov 28 2026)
+- Every service is its own silo, and repair and installation are separate silos (two different intents). Intercom repair is one silo, intercom installation is another; CCTV installation is its own silo, separate from security camera installation. Same for every service.
+- Links only go UP the silo, inside the same service: neighborhood page -> its borough/county page -> its hub. Hubs: NYC (Manhattan, Brooklyn, Queens, Bronx, Staten Island), Long Island (Nassau, Suffolk), Hudson Valley (Westchester, Rockland, Orange, Putnam, Dutchess, Ulster).
+- Never link sideways into another service's or intent's silo (no installation -> repair links, no camera -> CCTV links) and never work another silo's keywords into a page.
+- The Nov 23 2026 "repair vs installation" cross-linking (old §12.0) was done without the owner's OK and has been reverted. Do not redo it.
 
 ### 12.1 Answer first (element 32)
 - Within the first 100 words of visible body copy (directly under the hero subhead), a 2–3 sentence **"Quick answer"** box that answers the page's search intent outright: what it costs in this area (area price range per §9 / [[aess-pricing]] rules — never an invented price), what's included, how fast we book.
@@ -279,12 +280,9 @@ Only plays AESS wasn't already running were added. Already covered elsewhere: co
 - Proof strip directly under the hero stats bar: `Owner-operated since 2002 · Thousands of jobs completed · Booked within 2 hours` (the rating stays in the stats bar so the two never disagree).
 - Never invent numbers, percentages, guarantees, "24/7," or customer counts. If a number isn't on this list, ask Anwar.
 
-### 12.4 Internal links to one target page per keyword
-- Every keyword cluster has ONE target page (usually the page already ranking best for it in Search Console; otherwise the hub page for that service/area).
-- Every other page on the site that's relevant to that keyword links to the target page with a natural, keyword-rich anchor — not just to the homepage.
-- New pages: on build, link to the target page for their keyword cluster and get linked FROM 3–5 relevant existing pages (add a contextual sentence, not a footer dump). Never change an existing page's H1 or URL while adding links.
-- If no good target page exists, build one (keyword in title, slug, H1, first sentence per §12.2), then point the other pages at it.
-- The daily GSC task maintains this automatically (see its step 4b).
+### 12.4 Internal links (follow the §12.0 silo rule)
+- A new page links up to its parent in its own silo (neighborhood -> borough/county -> hub). No cross-silo links.
+- Existing pages are never edited to add links (OWNER FREEZE at the top of this file). The old "link every relevant page to one target page" play and the daily GSC task that maintained it are cancelled.
 
 ### 12.5 Comparison pages (new page type)
 - "X vs Y" pages pull high-buying-intent traffic (example: one SaaS vs-page is worth ~9× its "what is X" guide). Build them as their own page type.
