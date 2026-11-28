@@ -1,0 +1,452 @@
+{
+"bath-beach": {
+"d": "Bath Beach",
+"lat": 40.59566,
+"lng": -73.9986,
+"r": 0.8
+},
+"bay-ridge": {
+"d": "Bay Ridge",
+"lat": 40.62721,
+"lng": -74.03046,
+"r": 0.8
+},
+"bedford-stuyvesant": {
+"d": "Bedford-Stuyvesant",
+"lat": 40.68776,
+"lng": -73.94057,
+"r": 1.0
+},
+"bensonhurst": {
+"d": "Bensonhurst",
+"lat": 40.61342,
+"lng": -73.99282,
+"r": 0.8
+},
+"bergen-beach": {
+"d": "Bergen Beach",
+"lat": 40.61413,
+"lng": -73.89878,
+"r": 0.7
+},
+"beverley-square": {
+"d": "Beverley Square",
+"lat": 40.6429,
+"lng": -73.96426,
+"r": 0.7
+},
+"boerum-hill": {
+"d": "Boerum Hill",
+"lat": 40.68585,
+"lng": -73.98603,
+"r": 0.7
+},
+"borough-park": {
+"d": "Borough Park",
+"lat": 40.63206,
+"lng": -73.98954,
+"r": 0.8
+},
+"brighton-beach": {
+"d": "Brighton Beach",
+"lat": 40.57845,
+"lng": -73.96112,
+"r": 0.7
+},
+"brooklyn-chinatown": {
+"d": "Brooklyn Chinatown",
+"lat": 40.638,
+"lng": -74.0105,
+"r": 0.7
+},
+"brooklyn-heights": {
+"d": "Brooklyn Heights",
+"lat": 40.69648,
+"lng": -73.99643,
+"r": 0.7
+},
+"brooklyn-navy-yard": {
+"d": "Brooklyn Navy Yard",
+"lat": 40.70122,
+"lng": -73.97583,
+"r": 0.7
+},
+"brownsville": {
+"d": "Brownsville",
+"lat": 40.66344,
+"lng": -73.90946,
+"r": 0.7
+},
+"bushwick": {
+"d": "Bushwick",
+"lat": 40.69421,
+"lng": -73.91647,
+"r": 0.8
+},
+"cadman-plaza": {
+"d": "Cadman Plaza",
+"lat": 40.6977,
+"lng": -73.9907,
+"r": 0.7
+},
+"canarsie": {
+"d": "Canarsie",
+"lat": 40.63794,
+"lng": -73.89924,
+"r": 1.0
+},
+"carroll-gardens": {
+"d": "Carroll Gardens",
+"lat": 40.68044,
+"lng": -73.99817,
+"r": 0.7
+},
+"city-line": {
+"d": "City Line",
+"lat": 40.6795,
+"lng": -73.86738,
+"r": 0.7
+},
+"clinton-hill": {
+"d": "Clinton Hill",
+"lat": 40.68932,
+"lng": -73.96452,
+"r": 0.7
+},
+"cobble-hill": {
+"d": "Cobble Hill",
+"lat": 40.68738,
+"lng": -73.99661,
+"r": 0.7
+},
+"columbia-street-waterfront": {
+"d": "Columbia Street Waterfront",
+"lat": 40.68734,
+"lng": -74.00363,
+"r": 0.7
+},
+"coney-island": {
+"d": "Coney Island",
+"lat": 40.57579,
+"lng": -73.98623,
+"r": 0.7
+},
+"crown-heights": {
+"d": "Crown Heights",
+"lat": 40.67141,
+"lng": -73.94375,
+"r": 0.9
+},
+"cypress-hills": {
+"d": "Cypress Hills",
+"lat": 40.6826,
+"lng": -73.8848,
+"r": 0.7
+},
+"ditmas-park": {
+"d": "Ditmas Park",
+"lat": 40.63847,
+"lng": -73.96385,
+"r": 0.7
+},
+"downtown": {
+"d": "Downtown Brooklyn",
+"lat": 40.69345,
+"lng": -73.98658,
+"r": 0.7
+},
+"dumbo": {
+"d": "DUMBO",
+"lat": 40.70368,
+"lng": -73.98923,
+"r": 0.7
+},
+"dyker-heights": {
+"d": "Dyker Heights",
+"lat": 40.62028,
+"lng": -74.01352,
+"r": 0.7
+},
+"east-flatbush": {
+"d": "East Flatbush",
+"lat": 40.64853,
+"lng": -73.93018,
+"r": 1.0
+},
+"east-new-york": {
+"d": "East New York",
+"lat": 40.66484,
+"lng": -73.87833,
+"r": 1.5
+},
+"east-williamsburg": {
+"d": "East Williamsburg",
+"lat": 40.71436,
+"lng": -73.93162,
+"r": 0.7
+},
+"fiske-terrace": {
+"d": "Fiske Terrace",
+"lat": 40.63229,
+"lng": -73.95994,
+"r": 0.7
+},
+"flatbush": {
+"d": "Flatbush",
+"lat": 40.64266,
+"lng": -73.95691,
+"r": 0.9
+},
+"flatlands": {
+"d": "Flatlands",
+"lat": 40.62646,
+"lng": -73.92736,
+"r": 0.7
+},
+"fort-greene": {
+"d": "Fort Greene",
+"lat": 40.69191,
+"lng": -73.97623,
+"r": 0.7
+},
+"fort-hamilton": {
+"d": "Fort Hamilton",
+"lat": 40.60836,
+"lng": -74.02848,
+"r": 0.7
+},
+"fulton-ferry": {
+"d": "Fulton Ferry",
+"lat": 40.7033,
+"lng": -73.99271,
+"r": 0.7
+},
+"gerritsen-beach": {
+"d": "Gerritsen Beach",
+"lat": 40.59106,
+"lng": -73.92679,
+"r": 0.7
+},
+"gowanus": {
+"d": "Gowanus",
+"lat": 40.67621,
+"lng": -73.99063,
+"r": 0.7
+},
+"gravesend": {
+"d": "Gravesend",
+"lat": 40.59533,
+"lng": -73.9726,
+"r": 0.8
+},
+"greenpoint": {
+"d": "Greenpoint",
+"lat": 40.72945,
+"lng": -73.94936,
+"r": 0.7
+},
+"greenwood-heights": {
+"d": "Greenwood Heights",
+"lat": 40.65996,
+"lng": -74.00377,
+"r": 0.7
+},
+"highland-park": {
+"d": "Highland Park",
+"lat": 40.6885,
+"lng": -73.888,
+"r": 0.7
+},
+"homecrest": {
+"d": "Homecrest",
+"lat": 40.60086,
+"lng": -73.95656,
+"r": 0.7
+},
+"kensington": {
+"d": "Kensington",
+"lat": 40.63999,
+"lng": -73.97501,
+"r": 0.7
+},
+"madison": {
+"d": "Madison",
+"lat": 40.607,
+"lng": -73.947,
+"r": 0.7
+},
+"manhattan-beach": {
+"d": "Manhattan Beach",
+"lat": 40.57832,
+"lng": -73.94306,
+"r": 0.7
+},
+"mapleton": {
+"d": "Mapleton",
+"lat": 40.616,
+"lng": -73.986,
+"r": 0.7
+},
+"marine-park": {
+"d": "Marine Park",
+"lat": 40.60354,
+"lng": -73.92464,
+"r": 0.9
+},
+"midwood": {
+"d": "Midwood",
+"lat": 40.61922,
+"lng": -73.95898,
+"r": 0.9
+},
+"mill-basin": {
+"d": "Mill Basin",
+"lat": 40.61065,
+"lng": -73.91185,
+"r": 0.7
+},
+"new-lots": {
+"d": "New Lots",
+"lat": 40.66401,
+"lng": -73.88302,
+"r": 0.7
+},
+"new-utrecht": {
+"d": "New Utrecht",
+"lat": 40.613,
+"lng": -74.0005,
+"r": 0.7
+},
+"ocean-hill": {
+"d": "Ocean Hill",
+"lat": 40.6802,
+"lng": -73.91155,
+"r": 0.7
+},
+"ocean-parkway": {
+"d": "Ocean Parkway",
+"lat": 40.613,
+"lng": -73.968,
+"r": 0.7
+},
+"park-slope": {
+"d": "Park Slope",
+"lat": 40.67028,
+"lng": -73.98072,
+"r": 0.7
+},
+"prospect-heights": {
+"d": "Prospect Heights",
+"lat": 40.67789,
+"lng": -73.96864,
+"r": 0.7
+},
+"prospect-lefferts-gardens": {
+"d": "Prospect Lefferts Gardens",
+"lat": 40.65938,
+"lng": -73.95511,
+"r": 0.7
+},
+"prospect-park-south": {
+"d": "Prospect Park South",
+"lat": 40.65094,
+"lng": -73.96621,
+"r": 0.7
+},
+"remsen-village": {
+"d": "Remsen Village",
+"lat": 40.65223,
+"lng": -73.91472,
+"r": 0.7
+},
+"ridgewood": {
+"d": "Ridgewood",
+"lat": 40.701,
+"lng": -73.906,
+"r": 0.7
+},
+"sea-gate": {
+"d": "Sea Gate",
+"lat": 40.57683,
+"lng": -74.00825,
+"r": 0.7
+},
+"sheepshead-bay": {
+"d": "Sheepshead Bay",
+"lat": 40.5933,
+"lng": -73.94106,
+"r": 0.9
+},
+"south-slope": {
+"d": "South Slope",
+"lat": 40.66406,
+"lng": -73.98519,
+"r": 0.7
+},
+"south-williamsburg": {
+"d": "South Williamsburg",
+"lat": 40.70318,
+"lng": -73.96172,
+"r": 0.7
+},
+"spring-creek": {
+"d": "Spring Creek",
+"lat": 40.66003,
+"lng": -73.8752,
+"r": 0.7
+},
+"starrett-city": {
+"d": "Starrett City",
+"lat": 40.64533,
+"lng": -73.87886,
+"r": 0.7
+},
+"stuyvesant-heights": {
+"d": "Stuyvesant Heights",
+"lat": 40.68353,
+"lng": -73.93662,
+"r": 0.7
+},
+"sunset-park": {
+"d": "Sunset Park",
+"lat": 40.64628,
+"lng": -74.01405,
+"r": 0.9
+},
+"vinegar-hill": {
+"d": "Vinegar Hill",
+"lat": 40.70459,
+"lng": -73.98206,
+"r": 0.7
+},
+"weeksville": {
+"d": "Weeksville",
+"lat": 40.67108,
+"lng": -73.92922,
+"r": 0.7
+},
+"williamsburg": {
+"d": "Williamsburg",
+"lat": 40.71385,
+"lng": -73.9525,
+"r": 0.7
+},
+"windsor-terrace": {
+"d": "Windsor Terrace",
+"lat": 40.6537,
+"lng": -73.97729,
+"r": 0.7
+},
+"wingate": {
+"d": "Wingate",
+"lat": 40.66001,
+"lng": -73.93978,
+"r": 0.7
+},
+"wyckoff-heights": {
+"d": "Wyckoff Heights",
+"lat": 40.70799,
+"lng": -73.9167,
+"r": 0.7
+}
+}
