@@ -51,5 +51,7 @@ document.querySelectorAll('.st-install').forEach(function(bx){var svc=bx.dataset
  var saved=ls(AKEY);if(saved&&MAP[saved])sel.value=saved;sel.addEventListener('change',upd);upd()});
 /* brand filter chips */
 document.querySelectorAll('.st-chip').forEach(function(b){b.addEventListener('click',function(){document.querySelectorAll('.st-chip').forEach(function(o){o.classList.remove('on')});b.classList.add('on');var f=b.dataset.f;document.querySelectorAll('.st-grid .st-card').forEach(function(c){c.style.display=(f=='all'||c.dataset.brand==f)?'':'none'})})});
+document.querySelectorAll('.st-menubtn').forEach(function(b){var m=b.nextElementSibling;b.addEventListener('click',function(e){e.stopPropagation();var on=m.classList.toggle('on');b.setAttribute('aria-expanded',on)})});
+document.addEventListener('click',function(e){if(!e.target.closest('.st-menuwrap'))document.querySelectorAll('.st-menu.on').forEach(function(m){m.classList.remove('on')})});
 render();
 })();
