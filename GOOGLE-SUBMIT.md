@@ -137,6 +137,7 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-26 evening (scheduled, 01:52 UTC Nov 27, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2705 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-27T01:51:30Z, 3139 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2038 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected alarm-installation-wyckoff-heights-brooklyn-ny (URL is not on Google; Crawled - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at alarm-installation-wyckoff-heights-brooklyn-ny.
 
 2026-11-27 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 0 indexed, 0 failed, 2732 queued. All requested URLs were Crawled - currently not indexed (brownsville: Discovered - currently not indexed). "Quota Exceeded" on the 12th request (door-buzzer-repair-bushwick-brooklyn-ny, Crawled - currently not indexed), which stays QUEUED; next run starts there.
+2026-11-27 evening (scheduled, 01:52 UTC Nov 28, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2751 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-28T01:52:34Z, 3194 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2088 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected door-buzzer-repair-bushwick-brooklyn-ny (URL is not on Google; Crawled - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Also split a merged condo-security-systems nassau/suffolk line. Queue unchanged; next run starts at door-buzzer-repair-bushwick-brooklyn-ny. (Note: the inspect deep-link URL now 404s; open Search Console home and use the top inspect bar.)
 
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
@@ -3787,7 +3788,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-26 | https://www.abstractenterprisessecuritysystems.com/condo-security-systems-staten-island | QUEUED
 2026-11-26 | https://www.abstractenterprisessecuritysystems.com/condo-security-systems-long-island | QUEUED
 2026-11-26 | https://www.abstractenterprisessecuritysystems.com/condo-security-systems-hudson-valley | QUEUED
-2026-11-26 | https://www.abstractenterprisessecuritysystems.com/condo-security-systems-nassau-county | QUEUED2026-11-26 | https://www.abstractenterprisessecuritysystems.com/condo-security-systems-suffolk-county | QUEUED
+2026-11-26 | https://www.abstractenterprisessecuritysystems.com/condo-security-systems-nassau-county | QUEUED
+2026-11-26 | https://www.abstractenterprisessecuritysystems.com/condo-security-systems-suffolk-county | QUEUED
 2026-11-26 | https://www.abstractenterprisessecuritysystems.com/condo-security-systems-westchester-county | QUEUED
 2026-11-26 | https://www.abstractenterprisessecuritysystems.com/condo-security-systems-rockland-county | QUEUED
 2026-11-26 | https://www.abstractenterprisessecuritysystems.com/condo-security-systems-orange-county | QUEUED
