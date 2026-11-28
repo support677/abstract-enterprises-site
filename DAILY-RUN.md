@@ -1,3 +1,8 @@
+> ## ⛔ OWNER FREEZE — Nov 28 2026 (Anwar Timothy) — OVERRIDES EVERYTHING BELOW
+> **Do not edit, rewrite, refresh, rebuild, retitle or "optimize" ANY existing page on this site.** No title, meta description, H1, intro, body, FAQ, schema or internal-link changes to pages that already exist. This applies to the Daily GSC zero-click keyword optimizer, the Weekly page decay refresh, the page factory "Max daily" rebuilds, SEO fixes and every other automated job.
+> Anwar's words: "Don't touch my shit. My pages were built to my blueprint." If a search term gets impressions with no clicks, the answer is a NEW page for that term (only if no existing page already ranks for it), never an edit to an existing page.
+> Existing pages may be changed ONLY when Anwar asks for that specific change in chat. A job that would change an existing page must stop, log what it wanted to do in seo/PROPOSED-EDITS.md, and make no change.
+
 # DAILY-RUN — three pages at a time, batch after batch, all day
 
 One run = one **batch of three pages built at the same time** (Anwar, 2026-10-16: "write three pages at a time … once you're done with three, on to the next three, until you're finished"). The scheduled task fires every hour around the clock, so a new batch starts every hour. Order: all hub pages first, then the area pages, then neighborhood pages (see step 1).
