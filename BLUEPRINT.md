@@ -261,6 +261,8 @@ Only plays AESS wasn't already running were added. Already covered elsewhere: co
 - Never link sideways into another service's or intent's silo (no installation -> repair links, no camera -> CCTV links) and never work another silo's keywords into a page.
 - The Nov 23 2026 "repair vs installation" cross-linking (old §12.0) was done without the owner's OK and has been reverted. Do not redo it.
 
+- SECURITY CAMERAS silo (Anwar, Nov 28 2026): the `security-cameras-*` pages (NYC, Long Island, Hudson Valley hubs + Manhattan, Brooklyn, Queens, Bronx, Staten Island, Nassau, Suffolk, Westchester, Rockland, Orange, Putnam, Dutchess, Ulster) are their own silo for SELLING security cameras (buy intent, equipment store). Unique content only about the cameras themselves. NO installation content or "installed" offers, NO repair content, no links into the installation or repair silos. Borough/county pages link up to their hub (security-cameras-nyc / -long-island / -hudson-valley) only.
+
 ### 12.1 Answer first (element 32)
 - Within the first 100 words of visible body copy (directly under the hero subhead), a 2–3 sentence **"Quick answer"** box that answers the page's search intent outright: what it costs in this area (area price range per §9 / [[aess-pricing]] rules — never an invented price), what's included, how fast we book.
 - Product/package pages: a 2–3 sentence summary of features + benefits placed right under the title.
