@@ -1,5 +1,0 @@
-# Impeccable runtime files (engine binary, hook cache, live-mode state) — never commit
-.claude/skills/impeccable/scripts/bin/
-**/*.verified
-**/.impeccable/hook.cache.json
-.impeccable/live/
